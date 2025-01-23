@@ -17,7 +17,7 @@ defmodule CfsjksasWeb.CoreComponents do
   use Phoenix.Component
 
   alias Phoenix.LiveView.JS
-  import CfsjksasWeb.Gettext
+  use Gettext, backend: CfsjksasWeb.Gettext
 
   @doc """
   Renders a modal.

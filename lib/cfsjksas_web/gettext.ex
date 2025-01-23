@@ -20,5 +20,5 @@ defmodule CfsjksasWeb.Gettext do
 
   See the [Gettext Docs](https://hexdocs.pm/gettext) for detailed usage.
   """
-  use Gettext, otp_app: :cfsjksas
+  use Gettext.Backend, otp_app: :cfsjksas
 end

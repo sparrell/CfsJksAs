@@ -43,7 +43,7 @@ defmodule CfsjksasWeb do
         layouts: [html: CfsjksasWeb.Layouts]
 
       import Plug.Conn
-      import CfsjksasWeb.Gettext
+      use Gettext, backend: CfsjksasWeb.Gettext
 
       unquote(verified_routes())
     end
@@ -85,7 +85,7 @@ defmodule CfsjksasWeb do
       import Phoenix.HTML
       # Core UI components and translation
       import CfsjksasWeb.CoreComponents
-      import CfsjksasWeb.Gettext
+      use Gettext, backend: CfsjksasWeb.Gettext
 
       # Shortcut for generating JS commands
       alias Phoenix.LiveView.JS

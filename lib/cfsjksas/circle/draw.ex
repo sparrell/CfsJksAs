@@ -1,0 +1,62 @@
+defmodule Cfsjksas.Circle.Draw do
+  @moduledoc """
+  routines for creating Gen arcs and text
+  """
+  require IEx
+
+  def gen(svg) do
+    # initial circle
+    IO.inspect("starting draw.gen=0")
+    gen = 0
+    sector_num = 0
+    line_color = "black"
+    fill = "none"
+    fill_opacity = "50%"
+    sector = Cfsjksas.Circle.Sector.make_shape(gen, sector_num, line_color, fill, fill_opacity)
+    # return svg of initial + circle
+    svg <> sector.svg
+  end
+
+  def gen(svg, ancestors, gen) do
+    IO.inspect(gen, label: "starting draw.gen=")
+    # get list of this gen ancestors
+    this_gen_list = Map.keys(ancestors[gen])
+    # recurse thru each one.
+    add_ancestor(svg, ancestors, gen, this_gen_list)
+  end
+
+  defp add_ancestor(svg, _ancestors, _gen, []) do
+    # done with this gen, return
+    svg
+  end
+  defp add_ancestor(svg, ancestors, gen, [this | rest]) do
+    # process "this" ancestor
+    person = ancestors[gen][this]
+    fill = "none"
+    fill_opacity = "0%"
+    line_color = find_line_color(this)
+    #IEx.pry()
+
+    # make shape
+    sector = Cfsjksas.Circle.Sector.make_shape(gen, person.sector, line_color, fill, fill_opacity)
+    svg = svg <> sector.svg
+
+    # add name
+    svg = svg <> Cfsjksas.Circle.Sector.add_name(gen, person, sector)
+
+    # recurse thru rest of ancestors in this generation
+    add_ancestor(svg, ancestors, gen, rest)
+  end
+
+  defp find_line_color(relation) do
+    case Enum.take(relation, -1) do
+      ["M"] ->
+        "#FF6EC7"
+      ["P"] ->
+        "blue"
+      _ ->
+        IEx.pry()
+    end
+  end
+
+end

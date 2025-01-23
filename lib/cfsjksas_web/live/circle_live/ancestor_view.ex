@@ -1,22 +1,28 @@
 defmodule CfsjksasWeb.CircleLive.AncestorView do
-  require IEx
   require DateTime
   use CfsjksasWeb, :live_view
 
   @impl true
   def mount(_params, _session, socket) do
 
-    svg_path = Cfsjksas.Circle.Get.path(:ancestors)
-    gtxt_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
+    svg_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
+    anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
+    anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
 
-    # read in g.ex.txt file
-    {:ok, inputtext} = File.read(gtxt_path)
+    # read in ancestor_rel map
+    ## read in g.ex.txt file
+    {:ok, raw_rel_text} = File.read(anc_rel_path)
+    ## parse into elixir data
+    {ancestors_relations, _bindings} = Code.eval_string(raw_rel_text)
 
-    # read in ancestor map
-    {ancestors, _bindings} = Code.eval_string(inputtext)
-
-    gen_num = for gen <- 1..15, do: {gen, length(Map.keys(ancestors[gen]))}
+    gen_num = for gen <- 1..15, do: {gen, length(Map.keys(ancestors_relations[gen]))}
     total_anc = sum_anc(gen_num)
+
+    # read in ancestor_ids map
+    ## read in g.ex.txt file
+    {:ok, raw_ids_text} = File.read(anc_ids_path)
+    ## parse into elixir data
+    {ancestors_ids, _bindings} = Code.eval_string(raw_ids_text)
 
     # find if svg file exists. Use mod time if it does
     circle_made = find_circle_made(svg_path)
@@ -24,8 +30,10 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     {:ok,
      socket
      |> assign(:circle_svg, svg_path)
-     |> assign(:gtxt_path, gtxt_path)
-     |> assign(:ancestors, ancestors)
+     |> assign(:anc_ids_path, anc_ids_path)
+     |> assign(:anc_rel_path, anc_rel_path)
+     |> assign(:ancestors_relations, ancestors_relations)
+     |> assign(:ancestors_ids, ancestors_ids)
      |> assign(:circle_made, circle_made)
      |> assign(:gen_num, gen_num)
      |> assign(:total_anc, total_anc)
