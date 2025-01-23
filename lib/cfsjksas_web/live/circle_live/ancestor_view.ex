@@ -4,7 +4,7 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
   use CfsjksasWeb, :live_view
 
   @impl true
-  def mount(params, _session, socket) do
+  def mount(_params, _session, socket) do
 
     svg_path = Cfsjksas.Circle.Get.path(:ancestors)
     gtxt_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
@@ -23,10 +23,8 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
     {:ok,
      socket
-     |> assign(:gextxt, @gextxt)
-     |> assign(:family_of_interest, :f210)
-     |> assign(:source_of_interest, :s006)
      |> assign(:circle_svg, svg_path)
+     |> assign(:gtxt_path, gtxt_path)
      |> assign(:ancestors, ancestors)
      |> assign(:circle_made, circle_made)
      |> assign(:gen_num, gen_num)
