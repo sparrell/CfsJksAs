@@ -5,9 +5,9 @@ defmodule Cfsjksas.Circle.Get do
             7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 1200,
             13 => 1200, 14 => 300, 15 => 50, 16 => 50, -1 => 0 }
   @outer_ring_radius 21000
-  @ancestors_relations "./priv/static/gendata/ancestors_relations.g.ex.txt"
-  @ancestors_ids "./priv/static/gendata/ancestors_ids.g.ex.txt"
-  @ancestors_svg "./priv/static/images/ancestors.svg"
+  @ancestors_relations "static/gendata/ancestors_relations.g.ex.txt"
+  @ancestors_ids "static/gendata/ancestors_ids.g.ex.txt"
+  @ancestors_svg "static/images/ancestors.svg"
 
   @config %{
     0 => %{
@@ -84,13 +84,13 @@ defmodule Cfsjksas.Circle.Get do
   }
 
   def path(:ancestors_relations) do
-    @ancestors_relations
+    Path.join(:code.priv_dir(:cfsjksas), @ancestors_relations)
   end
   def path(:ancestors_ids) do
-    @ancestors_ids
+    Path.join(:code.priv_dir(:cfsjksas), @ancestors_ids)
   end
   def path(:ancestors_svg) do
-    @ancestors_svg
+    Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)
   end
 
   def center() do
