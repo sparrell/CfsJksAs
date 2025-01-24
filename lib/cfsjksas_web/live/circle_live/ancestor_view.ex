@@ -9,6 +9,8 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
     anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
     IO.inspect(anc_rel_path, label: "anc_rel_path")
+    dir = File.cwd!
+    IO.inspect(dir, label: "dir")
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
