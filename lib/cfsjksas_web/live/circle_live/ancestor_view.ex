@@ -15,6 +15,10 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     IO.inspect(ls, label: "ls")
     lsdotdot = File.ls("..")
     IO.inspect(lsdotdot, label: "lsdotdot")
+    privdir = :code.priv_dir(:cfsjksas)
+    IO.inspect(privdir, label: "privdir")
+    lspriv = File.ls(privdir)
+    IO.inspect(lspriv, label: "lspriv")
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
