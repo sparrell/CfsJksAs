@@ -9412,7 +9412,7 @@
     death_age: nil,
     family_of_origin: nil,
     mh_id: "I775",
-    ship: %{name: "Mayflower", year: 1620}
+    ship: %{name: "Mayflower", year: 1620},
     relation_list: [
       ["P", "M", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P", "M"],
       ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M"],
@@ -16549,6 +16549,7 @@
     death_age: "65",
     family_of_origin: :f255,
     mh_id: "I742",
+    ship: %{name: "TBD", year: 0},
     relation_list: [
       ["P", "M", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P"],
       ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P"],
@@ -25329,6 +25330,7 @@
     death_age: "About 39-40",
     family_of_origin: :f255,
     mh_id: "I853",
+    ship: %{name: "Mayflower", year: 1620},
     relation_list: [
       ["P", "M", "M", "M", "P", "M", "P", "P", "P", "P", "P"],
       ["M", "M", "M", "M", "P", "M", "P", "P", "P", "P", "P"]
@@ -35592,6 +35594,7 @@
     death_age: nil,
     family_of_origin: nil,
     mh_id: "I1110",
+    ship: %{name: "Mayflower", year: 1620},
     relation_list: [
       ["P", "M", "M", "M", "P", "M", "M", "M", "P", "P", "P", "M", "M", "M"],
       ["M", "M", "M", "M", "P", "M", "M", "M", "P", "P", "P", "M", "M", "M"]
@@ -48170,6 +48173,7 @@
     death_age: "About 77-78",
     family_of_origin: nil,
     mh_id: "I764",
+    ship: %{name: "Mayflower", year: 1620},
     relation_list: [
       ["P", "M", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P", "P"],
       ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "P"],
@@ -53218,6 +53222,7 @@
     death_age: "About 56-57",
     family_of_origin: nil,
     mh_id: "I1108",
+    ship: %{name: "Mayflower", year: 1620},
     relation_list: [
       ["P", "M", "M", "M", "P", "M", "M", "M", "P", "P", "P", "M", "M", "P"],
       ["M", "M", "M", "M", "P", "M", "M", "M", "P", "P", "P", "M", "M", "P"]
