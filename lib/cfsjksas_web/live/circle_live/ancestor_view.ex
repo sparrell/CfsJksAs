@@ -13,6 +13,8 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     IO.inspect(dir, label: "dir")
     ls = File.ls()
     IO.inspect(ls, label: "ls")
+    lsdotdot = File.ls("..")
+    IO.inspect(lsdotdot, label: "lsdotdot")
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
