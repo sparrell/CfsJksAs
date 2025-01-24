@@ -28,9 +28,6 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     # find if svg file exists. Use mod time if it does
     circle_made = find_circle_made(svg_path)
 
-    IO.inspect("does it get beyond circlemade?")
-    IO.inspect(circle_made, label: "circle_made")
-
     {:ok,
      socket
      |> assign(:circle_svg, svg_path)
@@ -46,7 +43,7 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
   @impl true
   def handle_event("save", _params, socket) do
-    Cfsjksas.Circle.Create.main(socket.assigns.ancestors)
+    Cfsjksas.Circle.Create.main(socket.assigns.ancestors_relations)
     {:noreply, socket}
   end
 

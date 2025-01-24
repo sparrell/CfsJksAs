@@ -9,6 +9,7 @@ defmodule Cfsjksas.Circle.Create do
   Output: svg text for circle diagram
   """
   def main(ancestor_relations) do
+    IO.inspect("made it to create.main")
     svg_beg()
     |> Cfsjksas.Circle.RefCircles.make()
     |> Cfsjksas.Circle.Draw.gen()
