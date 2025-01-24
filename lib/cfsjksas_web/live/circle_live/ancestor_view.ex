@@ -9,16 +9,16 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
     anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
     IO.inspect(anc_rel_path, label: "anc_rel_path")
-    dir = File.cwd!
-    IO.inspect(dir, label: "dir")
-    ls = File.ls()
-    IO.inspect(ls, label: "ls")
-    lsdotdot = File.ls("..")
-    IO.inspect(lsdotdot, label: "lsdotdot")
-    privdir = :code.priv_dir(:cfsjksas)
-    IO.inspect(privdir, label: "privdir")
-    lspriv = File.ls(privdir)
-    IO.inspect(lspriv, label: "lspriv")
+    #dir = File.cwd!
+    #IO.inspect(dir, label: "dir")
+    exists = File.exists?(anc_rel_path)
+    IO.inspect(exists, label: "exists")
+    lsdir = File.ls("/app/lib/cfsjksas-0.1.0/priv/")
+    IO.inspect(lsdir, label: "lsdir")
+    lsdir2 = File.ls("/app/lib/cfsjksas-0.1.0/priv/static")
+    IO.inspect(lsdir2, label: "lsdir2")
+    lsdir3 = File.ls("/app/lib/cfsjksas-0.1.0/priv/static/gendata")
+    IO.inspect(lsdir3, label: "lsdir3")
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
