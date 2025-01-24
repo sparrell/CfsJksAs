@@ -4,7 +4,8 @@ defmodule Cfsjksas.Circle.Get do
   @radii %{ 0 => 2000, 1 =>600, 2 =>600, 3 => 1000, 4 => 1000, 5 => 1000, 6 => 1000,
             7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 1200,
             13 => 1200, 14 => 300, 15 => 50, 16 => 50, -1 => 0 }
-  @ancestors_relations "./priv/static/gendata/ancestors_relations.g.ex.txt"
+  #@ancestors_relations "./priv/static/gendata/ancestors_relations.g.ex.txt"
+  @ancestors_relations "~p/gendata/ancestors_relations.g.ex.txt"
   @ancestors_ids "./priv/static/gendata/ancestors_ids.g.ex.txt"
   @ancestors_svg "./priv/static/images/ancestors.svg"
 
