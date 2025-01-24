@@ -23,6 +23,8 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     # read in ancestor_rel map
     ## read in g.ex.txt file
     {:ok, raw_rel_text} = File.read(anc_rel_path)
+
+    IO.inspect("does it get beyond reading?")
     ## parse into elixir data
     {ancestors_relations, _bindings} = Code.eval_string(raw_rel_text)
 
