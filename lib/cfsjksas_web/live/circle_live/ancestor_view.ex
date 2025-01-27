@@ -11,12 +11,14 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
-    {:ok, raw_rel_text} = File.read(anc_rel_path)
+    #{:ok, raw_rel_text} = File.read(anc_rel_path)
 
     ## parse into elixir data
-    {ancestors_relations, _bindings} = Code.eval_string(raw_rel_text)
+    #{ancestors_relations, _bindings} = Code.eval_string(raw_rel_text)
+    ancestors_relations = Cfsjksas.Circle.GetRelations.data()
 
-    gen_num = for gen <- 1..15, do: {gen, length(Map.keys(ancestors_relations[gen]))}
+    #gen_num = for gen <- 1..15, do: {gen, length(Map.keys(ancestors_relations[gen]))}
+    gen_num = for gen <- 1..15, do: {gen, length(Map.keys(Cfsjksas.Circle.GetRelations.data(gen)))}
     total_anc = sum_anc(gen_num)
 
     # read in ancestor_ids map
