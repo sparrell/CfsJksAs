@@ -44,7 +44,7 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
   @impl true
   def handle_event("save", _params, socket) do
-    Cfsjksas.Circle.Create.main(socket.assigns.ancestors_relations)
+    Cfsjksas.Circle.Create.main()
     {:noreply, socket}
   end
 

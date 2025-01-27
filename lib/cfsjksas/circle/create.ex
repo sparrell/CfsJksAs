@@ -8,7 +8,7 @@ defmodule Cfsjksas.Circle.Create do
   Input: ancestor relations map
   Output: svg text for circle diagram
   """
-  def main(ancestor_relations) do
+  def main() do
     IO.inspect("made it to create.main")
 
     #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 1)
