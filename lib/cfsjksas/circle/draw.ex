@@ -31,11 +31,11 @@ defmodule Cfsjksas.Circle.Draw do
   end
   defp add_ancestor(svg, ancestors, gen, [this | rest]) do
     # process "this" ancestor
-    person = ancestors[gen][this]
+    #person = ancestors[gen][this]
+    person = Cfsjksas.Circle.GetRelations.data(gen,this)
     fill = "none"
     fill_opacity = "0%"
     line_color = find_line_color(this)
-    #IEx.pry()
 
     # make shape
     sector = Cfsjksas.Circle.Sector.make_shape(gen, person.sector, line_color, fill, fill_opacity)

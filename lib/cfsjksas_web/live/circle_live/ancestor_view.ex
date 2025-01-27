@@ -7,7 +7,7 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
     svg_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
     anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
-    anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
+    #anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
 
     # read in ancestor_rel map
     ## read in g.ex.txt file
