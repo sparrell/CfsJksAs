@@ -34,7 +34,6 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
      socket
      |> assign(:circle_svg, svg_path)
      |> assign(:anc_ids_path, anc_ids_path)
-     |> assign(:anc_rel_path, anc_rel_path)
      |> assign(:ancestors_relations, ancestors_relations)
      |> assign(:ancestors_ids, ancestors_ids)
      |> assign(:circle_made, circle_made)
