@@ -17,24 +17,22 @@ defmodule Cfsjksas.Circle.Draw do
     svg <> sector.svg
   end
 
-  def gen(svg, ancestors, gen) do
+  #def gen(svg, ancestors, gen) do
+  def gen(svg, gen) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
-    this_gen_list = Map.keys(ancestors[gen])
+    #this_gen_list = Map.keys(ancestors[gen])
+    this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
     # recurse thru each one.
-    #add_ancestor(svg, ancestors, gen, this_gen_list)
     add_ancestor(svg, gen, this_gen_list)
   end
 
-  #defp add_ancestor(svg, _ancestors, _gen, []) do
   defp add_ancestor(svg, _gen, []) do
     # done with this gen, return
     svg
   end
-  #defp add_ancestor(svg, ancestors, gen, [this | rest]) do
   defp add_ancestor(svg, gen, [this | rest]) do
     # process "this" ancestor
-    #person = ancestors[gen][this]
     person = Cfsjksas.Circle.GetRelations.data(gen,this)
     fill = "none"
     fill_opacity = "0%"
@@ -48,7 +46,6 @@ defmodule Cfsjksas.Circle.Draw do
     svg = svg <> Cfsjksas.Circle.Sector.add_name(gen, person, sector)
 
     # recurse thru rest of ancestors in this generation
-    #add_ancestor(svg, ancestors, gen, rest)
     add_ancestor(svg, gen, rest)
   end
 

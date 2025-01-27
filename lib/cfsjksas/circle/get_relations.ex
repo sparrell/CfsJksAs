@@ -18813,4 +18813,12 @@ defmodule Cfsjksas.Circle.GetRelations do
     @ancestor_relations[gen][relation]
   end
 
+  def genlist() do
+    Map.keys(@ancestor_relations)
+  end
+
+  def person_list(gen) do
+    Map.keys(@ancestor_relations[gen])
+  end
+
 end
