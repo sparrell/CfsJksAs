@@ -7,18 +7,11 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
 
     svg_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
     anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
-    #anc_rel_path = Cfsjksas.Circle.Get.path(:ancestors_relations)
 
-    # read in ancestor_rel map
-    ## read in g.ex.txt file
-    #{:ok, raw_rel_text} = File.read(anc_rel_path)
+    #ancestors_relations = Cfsjksas.Circle.GetRelations.data()
 
-    ## parse into elixir data
-    #{ancestors_relations, _bindings} = Code.eval_string(raw_rel_text)
-    ancestors_relations = Cfsjksas.Circle.GetRelations.data()
-
-    #gen_num = for gen <- 1..15, do: {gen, length(Map.keys(ancestors_relations[gen]))}
-    gen_num = for gen <- 1..15, do: {gen, length(Map.keys(Cfsjksas.Circle.GetRelations.data(gen)))}
+    #gen_num = for gen <- 1..15, do: {gen, length(Map.keys(Cfsjksas.Circle.GetRelations.data(gen)))}
+    gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Circle.GetRelations.person_list(gen))}
     total_anc = sum_anc(gen_num)
 
     # read in ancestor_ids map
@@ -34,7 +27,6 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
      socket
      |> assign(:circle_svg, svg_path)
      |> assign(:anc_ids_path, anc_ids_path)
-     |> assign(:ancestors_relations, ancestors_relations)
      |> assign(:ancestors_ids, ancestors_ids)
      |> assign(:circle_made, circle_made)
      |> assign(:gen_num, gen_num)
