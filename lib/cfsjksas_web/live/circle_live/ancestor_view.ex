@@ -8,9 +8,6 @@ defmodule CfsjksasWeb.CircleLive.AncestorView do
     svg_path = Cfsjksas.Circle.Get.path(:ancestors_svg)
     anc_ids_path = Cfsjksas.Circle.Get.path(:ancestors_ids)
 
-    #ancestors_relations = Cfsjksas.Circle.GetRelations.data()
-
-    #gen_num = for gen <- 1..15, do: {gen, length(Map.keys(Cfsjksas.Circle.GetRelations.data(gen)))}
     gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Circle.GetRelations.person_list(gen))}
     total_anc = sum_anc(gen_num)
 
