@@ -81,9 +81,6 @@ defmodule Cfsjksas.Circle.Get do
     },
   }
 
-  #def path(:ancestors_ids) do
-  #  Path.join(:code.priv_dir(:cfsjksas), @ancestors_ids)
-  #end
   def path(:ancestors_svg) do
     Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)
   end
