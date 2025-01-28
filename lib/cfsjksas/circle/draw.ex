@@ -17,11 +17,9 @@ defmodule Cfsjksas.Circle.Draw do
     svg <> sector.svg
   end
 
-  #def gen(svg, ancestors, gen) do
   def gen(svg, gen) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
-    #this_gen_list = Map.keys(ancestors[gen])
     this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
     # recurse thru each one.
     add_ancestor(svg, gen, this_gen_list)
@@ -44,6 +42,9 @@ defmodule Cfsjksas.Circle.Draw do
 
     # add name
     svg = svg <> Cfsjksas.Circle.Sector.add_name(gen, person, sector)
+
+    # add boat/brickwall if appropiate
+    svg = svg <> Cfsjksas.Circle.ShipHighlight.beyond(gen, sector, this, person)
 
     # recurse thru rest of ancestors in this generation
     add_ancestor(svg, gen, rest)

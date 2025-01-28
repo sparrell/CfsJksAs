@@ -11,22 +11,6 @@ defmodule Cfsjksas.Circle.Create do
   def main() do
     IO.inspect("made it to create.main")
 
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 1)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 2)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 3)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 4)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 5)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 6)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 7)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 8)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 9)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 10)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 11)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 12)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 13)
-    #|> Cfsjksas.Circle.Draw.gen(ancestor_relations, 14)
-
-
     svg_beg()
     |> Cfsjksas.Circle.RefCircles.make()
     |> Cfsjksas.Circle.Draw.gen()

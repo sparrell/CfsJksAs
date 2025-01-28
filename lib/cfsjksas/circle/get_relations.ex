@@ -18804,21 +18804,39 @@ defmodule Cfsjksas.Circle.GetRelations do
   }
 
   def data() do
+    # return all the data
     @ancestor_relations
   end
   def data(gen) do
+    # return all the people in a generation
     @ancestor_relations[gen]
   end
   def data(gen, relation) do
+    # return a person
     @ancestor_relations[gen][relation]
   end
 
   def genlist() do
+    # return a list of the generations
     Map.keys(@ancestor_relations)
   end
 
   def person_list(gen) do
+    # return a list of people in a generation
     Map.keys(@ancestor_relations[gen])
   end
+
+  def mother(gen, relation) do
+    # return mother of a person
+    person = @ancestor_relations[gen][relation]
+    Map.get(person, :mother, nil)
+  end
+
+  def father(gen, relation) do
+    # return mother of a person
+    person = @ancestor_relations[gen][relation]
+    Map.get(person, :father, nil)
+  end
+
 
 end

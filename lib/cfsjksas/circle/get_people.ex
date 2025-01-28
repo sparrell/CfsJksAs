@@ -53411,4 +53411,9 @@ defmodule Cfsjksas.Circle.GetPeople do
     @ancestors[id]
   end
 
+  def ship(id) do
+    Map.get(@ancestors[id], :ship, nil)
+  end
+
+
 end
