@@ -11046,6 +11046,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I389",
+      ship: %{name: nil},
       relation_list: [["P", "P", "M", "M", "M"]]
     },
     p0561: %{

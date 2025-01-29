@@ -329,7 +329,7 @@ defmodule Cfsjksas.Circle.Sector do
     <> " />\n"
   end
 
-  defp make_shape_svg(id, a_x, a_y, b_x, b_y, c_x, c_y, d_x, d_y,
+  def make_shape_svg(id, a_x, a_y, b_x, b_y, c_x, c_y, d_x, d_y,
                     inner_radius, outer_radius,
                     line_color, stroke_width, fill, fill_opacity
                     ) do
