@@ -1,7 +1,8 @@
 defmodule Cfsjksas.Circle.Geprint do
   @doc """
-  pretty print tree to .g.ex.txt file
+  pretty print
   """
+  require IEx
 
   def format_output(ancestors, :ancestors) do
     inspect(ancestors, pretty: true, limit: :infinite)
@@ -11,5 +12,22 @@ defmodule Cfsjksas.Circle.Geprint do
     File.write(filename, outtext)
   end
 
+  def print_person(person) do
+    # print raw person struct, but do keys alphabetically
+
+    # convert from struct to map so can access dynamically
+    person_map = Map.from_struct(person)
+    keys = Map.keys(person_map)
+    keys = Enum.sort(keys)
+    print_person("", keys, person_map)
+  end
+  def print_person(text, [], _person) do
+    # list done so return final text
+    text
+  end
+  def print_person(text, [this | rest], person) do
+    new = text <> inspect(this, pretty: true, limit: :infinity) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> "\n"
+    print_person(new, rest, person)
+  end
 
 end

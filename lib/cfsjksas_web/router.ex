@@ -19,6 +19,10 @@ defmodule CfsjksasWeb.Router do
 
     get "/", PageController, :home
     live "/circle", CircleLive.AncestorView, :home
+    live "/person", CircleLive.PersonView, :home
+    live "/ships", CircleLive.ShipView, :home
+    live "/noships", CircleLive.NoShipView, :home
+    live "/brickwalls", CircleLive.BrickWalls, :home
   end
 
   # Other scopes may use custom stacks.

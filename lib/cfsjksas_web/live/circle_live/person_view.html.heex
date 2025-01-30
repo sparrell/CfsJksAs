@@ -1,0 +1,25 @@
+<h1 class="font-semibold text-3xl mb-4">Ancestor</h1>
+
+
+<h2>ID: <%= @person_of_interest %></h2>
+<h3><%= @given_name %> <%= @surname %></h3>
+<section>
+<p>
+Father: <a href={~p"/person?p=#{@father}"}> <%= @father %> </a>
+</p>
+<p>
+Mother: <a href={~p"/person?p=#{@mother}"}> <%= @mother %> </a>
+</p>
+</section>
+<section>
+<p><pre>
+<%= @person_txt %>
+</pre></p>
+</section>
+<section>
+<p>
+<a href="/"><div class="btn btn-primary">Click here to go back to main page</div></a>
+</p>
+</section>
+
+

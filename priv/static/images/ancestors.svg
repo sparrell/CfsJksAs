@@ -1133,7 +1133,7 @@ Schaal
 <path id="wedge_5_6" d="M 25097,404 A 21000,21000 0 0 1 29036,1599 L 23373,15272 A 6200,6200 0 0 0 22210,14919 L 25097,404" />
 <clipPath id="wedge_5_6_clip">
 <use href="#wedge_5_6"/>
-</clipPath></defs><use href="#wedge_5_6" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_5_6_clip)"/>
+</clipPath></defs><use href="#wedge_5_6" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_5_6_clip)"/>
 <defs>
 <path id="sector_5_5" d="M 23373,15272 A 6200,6200 0 0 1 24445,15845 L 23889,16676 A 5200,5200 0 0 0 22990,16196 L 23373,15272" />
 <clipPath id="sector_5_5_clip">
@@ -1161,7 +1161,7 @@ Unknown152
 <path id="wedge_5_5" d="M 29036,1599 A 21000,21000 0 0 1 32667,3539 L 24445,15845 A 6200,6200 0 0 0 23373,15272 L 29036,1599" />
 <clipPath id="wedge_5_5_clip">
 <use href="#wedge_5_5"/>
-</clipPath></defs><use href="#wedge_5_5" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_5_5_clip)"/>
+</clipPath></defs><use href="#wedge_5_5" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_5_5_clip)"/>
 <defs>
 <path id="sector_5_4" d="M 24445,15845 A 6200,6200 0 0 1 25384,16616 L 24677,17323 A 5200,5200 0 0 0 23889,16676 L 24445,15845" />
 <clipPath id="sector_5_4_clip">
@@ -1189,7 +1189,7 @@ Kerber
 <path id="wedge_5_4" d="M 32667,3539 A 21000,21000 0 0 1 35849,6151 L 25384,16616 A 6200,6200 0 0 0 24445,15845 L 32667,3539" />
 <clipPath id="wedge_5_4_clip">
 <use href="#wedge_5_4"/>
-</clipPath></defs><use href="#wedge_5_4" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_5_4_clip)"/>
+</clipPath></defs><use href="#wedge_5_4" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_5_4_clip)"/>
 <defs>
 <path id="sector_5_3" d="M 25384,16616 A 6200,6200 0 0 1 26155,17555 L 25324,18111 A 5200,5200 0 0 0 24677,17323 L 25384,16616" />
 <clipPath id="sector_5_3_clip">
@@ -7365,7 +7365,7 @@ Clement Briggs (1594 - 1648)
 <path id="wedge_9_368" d="M 17156,41645 A 21000,21000 0 0 1 16903,41596 L 18249,34829 A 14100,14100 0 0 0 18419,34862 L 17156,41645" />
 <clipPath id="wedge_9_368_clip">
 <use href="#wedge_9_368"/>
-</clipPath></defs><use href="#wedge_9_368" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_368_clip)"/>
+</clipPath></defs><use href="#wedge_9_368" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_9_368_clip)"/>
 <defs>
 <path id="sector_9_5" d="M 35062,19963 A 14100,14100 0 0 1 35073,20135 L 32678,20283 A 11700,11700 0 0 0 32668,20139 L 35062,19963" />
 <clipPath id="sector_9_5_clip">
@@ -10341,7 +10341,7 @@ Giles Gibbs (1600 - 1641)
 <path id="wedge_10_268" d="M 19327,67 A 21000,21000 0 0 1 19455,57 L 19794,4644 A 16400,16400 0 0 0 19693,4652 L 19327,67" />
 <clipPath id="wedge_10_268_clip">
 <use href="#wedge_10_268"/>
-</clipPath></defs><use href="#wedge_10_268" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_268_clip)"/>
+</clipPath></defs><use href="#wedge_10_268" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_10_268_clip)"/>
 <defs>
 <path id="sector_10_302" d="M 16336,5277 A 16400,16400 0 0 1 16432,5249 L 17073,7458 A 14100,14100 0 0 0 16990,7482 L 16336,5277" />
 <clipPath id="sector_10_302_clip">
@@ -10968,7 +10968,7 @@ Robert Bartlett (? - 1676)
 <path id="wedge_10_298" d="M 15523,727 A 21000,21000 0 0 1 15648,693 L 16820,5142 A 16400,16400 0 0 0 16723,5168 L 15523,727" />
 <clipPath id="wedge_10_298_clip">
 <use href="#wedge_10_298"/>
-</clipPath></defs><use href="#wedge_10_298" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_298_clip)"/>
+</clipPath></defs><use href="#wedge_10_298" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_10_298_clip)"/>
 <defs>
 <path id="sector_10_288" d="M 17702,4935 A 16400,16400 0 0 1 17801,4915 L 18249,7171 A 14100,14100 0 0 0 18164,7188 L 17702,4935" />
 <clipPath id="sector_10_288_clip">
@@ -14695,7 +14695,7 @@ Sarah Tracy (1621 - 1708)
 <path id="wedge_11_1955" d="M 41169,26849 A 21000,21000 0 0 1 41151,26911 L 38176,26038 A 17900,17900 0 0 0 38192,25986 L 41169,26849" />
 <clipPath id="wedge_11_1955_clip">
 <use href="#wedge_11_1955"/>
-</clipPath></defs><use href="#wedge_11_1955" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1955_clip)"/>
+</clipPath></defs><use href="#wedge_11_1955" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1955_clip)"/>
 <defs>
 <path id="sector_11_1006" d="M 3124,20067 A 17900,17900 0 0 1 3127,20012 L 4625,20095 A 16400,16400 0 0 0 4622,20145 L 3124,20067" />
 <clipPath id="sector_11_1006_clip">
@@ -15996,7 +15996,7 @@ George Partridge (1617 - 1695)
 <path id="wedge_11_930" d="M 849,15089 A 21000,21000 0 0 1 867,15027 L 3839,15909 A 17900,17900 0 0 0 3824,15962 L 849,15089" />
 <clipPath id="wedge_11_930_clip">
 <use href="#wedge_11_930"/>
-</clipPath></defs><use href="#wedge_11_930" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_930_clip)"/>
+</clipPath></defs><use href="#wedge_11_930" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_930_clip)"/>
 <defs>
 <path id="sector_11_750" d="M 9020,7700 A 17900,17900 0 0 1 9061,7663 L 10061,8781 A 16400,16400 0 0 0 10024,8815 L 9020,7700" />
 <clipPath id="sector_11_750_clip">
@@ -16724,7 +16724,7 @@ George Partridge (1617 - 1695)
 <path id="wedge_11_1954" d="M 41151,26911 A 21000,21000 0 0 1 41133,26973 L 38161,26091 A 17900,17900 0 0 0 38176,26038 L 41151,26911" />
 <clipPath id="wedge_11_1954_clip">
 <use href="#wedge_11_1954"/>
-</clipPath></defs><use href="#wedge_11_1954" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1954_clip)"/>
+</clipPath></defs><use href="#wedge_11_1954" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_1954_clip)"/>
 <defs>
 <path id="sector_11_940" d="M 3677,16491 A 17900,17900 0 0 1 3691,16438 L 5142,16820 A 16400,16400 0 0 0 5129,16869 L 3677,16491" />
 <clipPath id="sector_11_940_clip">
@@ -17878,7 +17878,7 @@ William Bradford (1589 - 1657)
 <path id="wedge_11_744" d="M 7235,5141 A 21000,21000 0 0 1 7283,5099 L 9308,7446 A 17900,17900 0 0 0 9267,7482 L 7235,5141" />
 <clipPath id="wedge_11_744_clip">
 <use href="#wedge_11_744"/>
-</clipPath></defs><use href="#wedge_11_744" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_744_clip)"/>
+</clipPath></defs><use href="#wedge_11_744" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_744_clip)"/>
 <defs>
 <path id="sector_11_197" d="M 35698,10783 A 17900,17900 0 0 1 35729,10828 L 34495,11681 A 16400,16400 0 0 0 34466,11639 L 35698,10783" />
 <clipPath id="sector_11_197_clip">
@@ -18104,7 +18104,7 @@ Sarah Tracy (1621 - 1708)
 <path id="wedge_11_931" d="M 831,15151 A 21000,21000 0 0 1 849,15089 L 3824,15962 A 17900,17900 0 0 0 3808,16014 L 831,15151" />
 <clipPath id="wedge_11_931_clip">
 <use href="#wedge_11_931"/>
-</clipPath></defs><use href="#wedge_11_931" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_931_clip)"/>
+</clipPath></defs><use href="#wedge_11_931" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_931_clip)"/>
 <defs>
 <path id="sector_11_957" d="M 3466,17400 A 17900,17900 0 0 1 3477,17346 L 4945,17653 A 16400,16400 0 0 0 4935,17702 L 3466,17400" />
 <clipPath id="sector_11_957_clip">
@@ -19070,7 +19070,7 @@ John Alden (1598 - 1687)
 <path id="wedge_12_1502" d="M 6921,5418 A 21000,21000 0 0 1 6945,5397 L 8217,6809 A 19100,19100 0 0 0 8195,6828 L 6921,5418" />
 <clipPath id="wedge_12_1502_clip">
 <use href="#wedge_12_1502"/>
-</clipPath></defs><use href="#wedge_12_1502" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1502_clip)"/>
+</clipPath></defs><use href="#wedge_12_1502" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1502_clip)"/>
 <defs>
 <path id="sector_12_1875" d="M 2561,16019 A 19100,19100 0 0 1 2569,15991 L 3727,16305 A 17900,17900 0 0 0 3719,16332 L 2561,16019" />
 <clipPath id="sector_12_1875_clip">
@@ -20718,7 +20718,7 @@ Comfort Starr (1589 - 1659)
 <path id="wedge_12_1360" d="M 10621,2744 A 21000,21000 0 0 1 10649,2728 L 11586,4381 A 19100,19100 0 0 0 11560,4396 L 10621,2744" />
 <clipPath id="wedge_12_1360_clip">
 <use href="#wedge_12_1360"/>
-</clipPath></defs><use href="#wedge_12_1360" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1360_clip)"/>
+</clipPath></defs><use href="#wedge_12_1360" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1360_clip)"/>
 <defs>
 <path id="sector_12_3700" d="M 36700,31878 A 19100,19100 0 0 1 36683,31902 L 35698,31217 A 17900,17900 0 0 0 35713,31194 L 36700,31878" />
 <clipPath id="sector_12_3700_clip">
@@ -22773,7 +22773,7 @@ Priscilla Mullins (? - ?)
 <path id="wedge_12_1503" d="M 6897,5440 A 21000,21000 0 0 1 6921,5418 L 8195,6828 A 19100,19100 0 0 0 8173,6848 L 6897,5440" />
 <clipPath id="wedge_12_1503_clip">
 <use href="#wedge_12_1503"/>
-</clipPath></defs><use href="#wedge_12_1503" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1503_clip)"/>
+</clipPath></defs><use href="#wedge_12_1503" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1503_clip)"/>
 <defs>
 <path id="sector_12_141" d="M 39649,16872 A 19100,19100 0 0 1 39655,16901 L 38483,17159 A 17900,17900 0 0 0 38477,17132 L 39649,16872" />
 <clipPath id="sector_12_141_clip">
@@ -24040,5 +24040,5 @@ James Chilton (1563 - 1620)
 <use href="#wedge_14_7622"/>
 </clipPath></defs><use href="#wedge_14_7622" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_14_7622_clip)"/>
 
-<!-- made new svg at 2025-01-29 01:17:42.294008Z -->
+<!-- made new svg at 2025-01-29 04:09:40.410815Z -->
 </svg>

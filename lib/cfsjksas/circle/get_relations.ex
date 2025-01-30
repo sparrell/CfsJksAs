@@ -18838,5 +18838,14 @@ defmodule Cfsjksas.Circle.GetRelations do
     Map.get(person, :father, nil)
   end
 
+  def gen_from_relation(0) do
+    # initial generation
+    0
+  end
+  def gen_from_relation(relation) do
+    # generation is length of relation
+    length(relation)
+  end
+
 
 end

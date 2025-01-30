@@ -1,0 +1,26 @@
+<h1 class="font-semibold text-3xl mb-4">Brick Walls</h1>
+<p>
+Eventually hotlink
+</p>
+<p>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> ID </th>
+    <th style="border: 1px solid black;"> Name </th>
+    <th style="border: 1px solid black;"> gens </th>
+</tr>
+ <%= for {gens, id, name} <- @brickwalls do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <%= id %> </td>
+  <td style="border: 1px solid black;"> <%= name %> </td>
+  <td style="border: 1px solid black;"> <%= gens %> </td>
+</tr>
+ <% end %>
+</table>
+</p>
+<section>
+<p>
+<a href="/"><div class="btn btn-primary">Click here to go back to main page</div></a>
+</p>
+</section>
+
