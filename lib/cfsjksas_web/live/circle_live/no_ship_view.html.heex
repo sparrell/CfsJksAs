@@ -11,7 +11,7 @@ Eventually hotlink
 </tr>
  <%= for {name, id} <- @noships do %>
 <tr style="border: 1px solid black;">
-  <td style="border: 1px solid black;"> <%= id %> </td>
+  <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
   <td style="border: 1px solid black;"> <%= name %> </td>
 </tr>
  <% end %>
