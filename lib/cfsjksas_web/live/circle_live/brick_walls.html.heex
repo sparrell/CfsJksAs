@@ -1,8 +1,5 @@
 <h1 class="font-semibold text-3xl mb-4">Brick Walls</h1>
 <p>
-Eventually hotlink
-</p>
-<p>
 <table style="border: 1px solid black;">
  <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;"> ID </th>
@@ -11,7 +8,7 @@ Eventually hotlink
 </tr>
  <%= for {gens, id, name} <- @brickwalls do %>
 <tr style="border: 1px solid black;">
-  <td style="border: 1px solid black;"> <%= id %> </td>
+  <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
   <td style="border: 1px solid black;"> <%= name %> </td>
   <td style="border: 1px solid black;"> <%= gens %> </td>
 </tr>
