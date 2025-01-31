@@ -21,6 +21,24 @@ defmodule Cfsjksas.Circle.ShipHighlight do
     # so return red shape
     make_wedge(sector, "red")
   end
+  defp beyond_shape(nil, nil, :parent, sector) do
+    # parent of immigrant
+    # need to handle better in future
+    # so return purple shape
+    make_wedge(sector, "purple")
+  end
+  defp beyond_shape(nil, nil, :parent_w_ship, sector) do
+    # parent of immigrant and know ship of children
+    # need to handle better in future
+    # so return blue shape
+    make_wedge(sector, "blue")
+  end
+  defp beyond_shape(nil, nil, :parent_wo_ship, sector) do
+    # parent of immigrant and do not know ship of children
+    # need to handle better in future
+    # so return aqua shape
+    make_wedge(sector, "aqua")
+  end
   defp beyond_shape(nil, nil, %{name: ship_name}, sector)
       when ship_name != nil do
     # no parents, with a ship is an immigrant, and ship has a name
