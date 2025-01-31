@@ -30,7 +30,7 @@ defmodule Cfsjksas.Circle.RefCircles do
     #<> make_cir("18000", "red")
     #<> make_cir("19000", "black")
     #<> make_cir("20000", "purple")
-    <> make_cir("21000", "blue")
+    <> make_cir("21000", "black")
     #<> make_cir("23000", "green")
     #<> make_cir("25000", "yellow")
     #<> make_cir("27000", "orange")

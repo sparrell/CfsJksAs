@@ -1,5 +1,5 @@
 <svg viewBox="0 0 42000 42000" xmlns="http://www.w3.org/2000/svg">
-<circle cx="21000" cy="21000" r="21000" stroke="blue" stroke-width="50" fill="none"/>
+<circle cx="21000" cy="21000" r="21000" stroke="black" stroke-width="50" fill="none"/>
 <circle cx="21000" cy="21000" r="2000" id="sector_0_0" stroke="black" stroke-width="50" fill="none" fill-opacity="50%" />
 <path id="g0_name1" d="M 19667 19933 L22333 19933"  />
 <text style="font-family: sans-serif; font-size:180pt; fill:#000000;">
@@ -870,7 +870,11 @@ Watt
  (1739 - 1796)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_6_43" d="M 12964,40401 A 21000,21000 0 0 1 11101,39520 L 18077,26468 A 6200,6200 0 0 0 18627,26728 L 12964,40401" />
+<clipPath id="wedge_6_43_clip">
+<use href="#wedge_6_43"/>
+</clipPath></defs><use href="#wedge_6_43" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_6_43_clip)"/>
 <defs>
 <path id="sector_5_20" d="M 17555,26155 A 6200,6200 0 0 1 16616,25384 L 17323,24677 A 5200,5200 0 0 0 18111,25324 L 17555,26155" />
 <clipPath id="sector_5_20_clip">
@@ -1236,7 +1240,11 @@ Gleason
  (1795 - 1839)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_6_5" d="M 38461,9333 A 21000,21000 0 0 1 39520,11101 L 26468,18077 A 6200,6200 0 0 0 26155,17555 L 38461,9333" />
+<clipPath id="wedge_6_5_clip">
+<use href="#wedge_6_5"/>
+</clipPath></defs><use href="#wedge_6_5" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_6_5_clip)"/>
 <defs>
 <path id="sector_5_1" d="M 26728,18627 A 6200,6200 0 0 1 27081,19790 L 26100,19986 A 5200,5200 0 0 0 25804,19010 L 26728,18627" />
 <clipPath id="sector_5_1_clip">
@@ -1449,7 +1457,11 @@ Jones
  (? - 1778)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_7_95" d="M 21000,42000 A 21000,21000 0 0 1 19970,41975 L 20647,28191 A 7200,7200 0 0 0 21000,28200 L 21000,42000" />
+<clipPath id="wedge_7_95_clip">
+<use href="#wedge_7_95"/>
+</clipPath></defs><use href="#wedge_7_95" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_7_95_clip)"/>
 <defs>
 <path id="sector_6_21" d="M 17000,15013 A 7200,7200 0 0 1 17606,14650 L 18077,15532 A 6200,6200 0 0 0 17555,15845 L 17000,15013" />
 <clipPath id="sector_6_21_clip">
@@ -1638,7 +1650,7 @@ Wiley
 <path id="wedge_6_41" d="M 9333,38461 A 21000,21000 0 0 1 7678,37233 L 16432,26566 A 7200,7200 0 0 0 17000,26987 L 9333,38461" />
 <clipPath id="wedge_6_41_clip">
 <use href="#wedge_6_41"/>
-</clipPath></defs><use href="#wedge_6_41" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_6_41_clip)"/>
+</clipPath></defs><use href="#wedge_6_41" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_6_41_clip)"/>
 <defs>
 <path id="sector_6_27" d="M 14348,18245 A 7200,7200 0 0 1 14650,17606 L 15532,18077 A 6200,6200 0 0 0 15272,18627 L 14348,18245" />
 <clipPath id="sector_6_27_clip">
@@ -2178,7 +2190,11 @@ Gray
  (1697 - 1766)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_7_81" d="M 7678,37233 A 21000,21000 0 0 1 6897,36560 L 16165,26335 A 7200,7200 0 0 0 16432,26566 L 7678,37233" />
+<clipPath id="wedge_7_81_clip">
+<use href="#wedge_7_81"/>
+</clipPath></defs><use href="#wedge_7_81" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_7_81_clip)"/>
 <defs>
 <path id="sector_6_54" d="M 25568,26566 A 7200,7200 0 0 1 25000,26987 L 24445,26155 A 6200,6200 0 0 0 24933,25793 L 25568,26566" />
 <clipPath id="sector_6_54_clip">
@@ -2865,7 +2881,11 @@ Judah Brewster (1749 - ?)
 Abigail Packard (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_8_187" d="M 18942,41899 A 21000,21000 0 0 1 18429,41842 L 19813,30627 A 9700,9700 0 0 0 20049,30653 L 18942,41899" />
+<clipPath id="wedge_8_187_clip">
+<use href="#wedge_8_187"/>
+</clipPath></defs><use href="#wedge_8_187" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_8_187_clip)"/>
 <defs>
 <path id="sector_7_2" d="M 30595,19577 A 9700,9700 0 0 1 30653,20049 L 28165,20294 A 7200,7200 0 0 0 28122,19944 L 30595,19577" />
 <clipPath id="sector_7_2_clip">
@@ -3269,7 +3289,7 @@ James Newton Sparrell (1740 - 1773)
 <path id="wedge_7_0" d="M 41975,19970 A 21000,21000 0 0 1 42000,21000 L 30700,21000 A 9700,9700 0 0 0 30688,20524 L 41975,19970" />
 <clipPath id="wedge_7_0_clip">
 <use href="#wedge_7_0"/>
-</clipPath></defs><use href="#wedge_7_0" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_7_0_clip)"/>
+</clipPath></defs><use href="#wedge_7_0" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_7_0_clip)"/>
 <defs>
 <path id="sector_7_126" d="M 30688,21476 A 9700,9700 0 0 1 30653,21951 L 28165,21706 A 7200,7200 0 0 0 28191,21353 L 30688,21476" />
 <clipPath id="sector_7_126_clip">
@@ -4231,7 +4251,11 @@ Moses Loomis (1671 - 1754)
 Hannah Lambert (1697 - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_9_23" d="M 41096,14904 A 21000,21000 0 0 1 41169,15151 L 32237,17741 A 11700,11700 0 0 0 32196,17604 L 41096,14904" />
+<clipPath id="wedge_9_23_clip">
+<use href="#wedge_9_23"/>
+</clipPath></defs><use href="#wedge_9_23" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_23_clip)"/>
 <defs>
 <path id="sector_8_10" d="M 32276,17879 A 11700,11700 0 0 1 32349,18157 L 30409,18643 A 9700,9700 0 0 0 30349,18413 L 32276,17879" />
 <clipPath id="sector_8_10_clip">
@@ -4281,7 +4305,11 @@ James Whaley (1680 - 1741)
 Ralph Stoddard (1697 - 1744)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_9_205" d="M 3831,8908 A 21000,21000 0 0 1 3980,8698 L 11518,14146 A 11700,11700 0 0 0 11434,14263 L 3831,8908" />
+<clipPath id="wedge_9_205_clip">
+<use href="#wedge_9_205"/>
+</clipPath></defs><use href="#wedge_9_205" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_205_clip)"/>
 <defs>
 <path id="sector_8_236" d="M 31451,26260 A 11700,11700 0 0 1 31318,26515 L 29555,25573 A 9700,9700 0 0 0 29664,25361 L 31451,26260" />
 <clipPath id="sector_8_236_clip">
@@ -4315,7 +4343,11 @@ Mary Avery (1648 - 1708)
 Ebenezer Warner (1681 - 1755)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_9_389" d="M 22545,41943 A 21000,21000 0 0 1 22288,41960 L 21717,32678 A 11700,11700 0 0 0 21861,32668 L 22545,41943" />
+<clipPath id="wedge_9_389_clip">
+<use href="#wedge_9_389"/>
+</clipPath></defs><use href="#wedge_9_389" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_389_clip)"/>
 <defs>
 <path id="sector_8_119" d="M 9525,18717 A 11700,11700 0 0 1 9584,18437 L 11536,18875 A 9700,9700 0 0 0 11486,19108 L 9525,18717" />
 <clipPath id="sector_8_119_clip">
@@ -4628,7 +4660,11 @@ Alice Cummings (1695 - 1734)
 Ralph Stoddard (1697 - 1744)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_9_461" d="M 38169,33092 A 21000,21000 0 0 1 38020,33302 L 30482,27854 A 11700,11700 0 0 0 30566,27737 L 38169,33092" />
+<clipPath id="wedge_9_461_clip">
+<use href="#wedge_9_461"/>
+</clipPath></defs><use href="#wedge_9_461" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_461_clip)"/>
 <defs>
 <path id="sector_8_176" d="M 16789,31916 A 11700,11700 0 0 1 16523,31809 L 17288,29962 A 9700,9700 0 0 0 17509,30050 L 16789,31916" />
 <clipPath id="sector_8_176_clip">
@@ -5087,7 +5123,7 @@ Grace Cole (? - 1687)
 <path id="wedge_9_355" d="M 13925,40772 A 21000,21000 0 0 1 13683,40684 L 16087,34216 A 14100,14100 0 0 0 16250,34276 L 13925,40772" />
 <clipPath id="wedge_9_355_clip">
 <use href="#wedge_9_355"/>
-</clipPath></defs><use href="#wedge_9_355" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_355_clip)"/>
+</clipPath></defs><use href="#wedge_9_355" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_9_355_clip)"/>
 <defs>
 <path id="sector_9_458" d="M 32221,29538 A 14100,14100 0 0 1 32116,29675 L 30224,28198 A 11700,11700 0 0 0 30311,28084 L 32221,29538" />
 <clipPath id="sector_9_458_clip">
@@ -5529,7 +5565,11 @@ Nicholas Street (1677 - ?)
 John Jones (1691 - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_10_109" d="M 37395,7878 A 21000,21000 0 0 1 37476,7979 L 32062,12257 A 14100,14100 0 0 0 32008,12189 L 37395,7878" />
+<clipPath id="wedge_10_109_clip">
+<use href="#wedge_10_109"/>
+</clipPath></defs><use href="#wedge_10_109" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_109_clip)"/>
 <defs>
 <path id="sector_9_222" d="M 8040,15445 A 14100,14100 0 0 1 8110,15286 L 10304,16259 A 11700,11700 0 0 0 10246,16390 L 8040,15445" />
 <clipPath id="sector_9_222_clip">
@@ -6187,7 +6227,11 @@ John Bennett (1666 - 1745)
 Hannah Staples (1659 - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_10_791" d="M 24081,41773 A 21000,21000 0 0 1 23954,41791 L 22983,34960 A 14100,14100 0 0 0 23069,34947 L 24081,41773" />
+<clipPath id="wedge_10_791_clip">
+<use href="#wedge_10_791"/>
+</clipPath></defs><use href="#wedge_10_791" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_791_clip)"/>
 <defs>
 <path id="sector_9_483" d="M 34276,25750 A 14100,14100 0 0 1 34216,25913 L 31967,25076 A 11700,11700 0 0 0 32016,24942 L 34276,25750" />
 <clipPath id="sector_9_483_clip">
@@ -6292,7 +6336,11 @@ Esther Amos (1711 - ?)
 Martha Woodworth (1657 - 1721)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_10_59" d="M 40593,13442 A 21000,21000 0 0 1 40639,13563 L 34186,16006 A 14100,14100 0 0 0 34155,15925 L 40593,13442" />
+<clipPath id="wedge_10_59_clip">
+<use href="#wedge_10_59"/>
+</clipPath></defs><use href="#wedge_10_59" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_59_clip)"/>
 <defs>
 <path id="sector_9_419" d="M 27029,33746 A 14100,14100 0 0 1 26872,33819 L 25872,31637 A 11700,11700 0 0 0 26002,31577 L 27029,33746" />
 <clipPath id="sector_9_419_clip">
@@ -6893,7 +6941,7 @@ Christopher Wadsworth (1609 - 1677)
 <path id="wedge_9_354" d="M 13683,40684 A 21000,21000 0 0 1 13442,40593 L 15925,34155 A 14100,14100 0 0 0 16087,34216 L 13683,40684" />
 <clipPath id="wedge_9_354_clip">
 <use href="#wedge_9_354"/>
-</clipPath></defs><use href="#wedge_9_354" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_9_354_clip)"/>
+</clipPath></defs><use href="#wedge_9_354" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_9_354_clip)"/>
 <defs>
 <path id="sector_9_470" d="M 33353,27799 A 14100,14100 0 0 1 33268,27950 L 31180,26767 A 11700,11700 0 0 0 31250,26642 L 33353,27799" />
 <clipPath id="sector_9_470_clip">
@@ -7086,7 +7134,11 @@ James Morgan (1667 - 1748)
 Hannah Travers (1657 - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_10_855" d="M 31796,39012 A 21000,21000 0 0 1 31685,39078 L 28175,33138 A 14100,14100 0 0 0 28249,33094 L 31796,39012" />
+<clipPath id="wedge_10_855_clip">
+<use href="#wedge_10_855"/>
+</clipPath></defs><use href="#wedge_10_855" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_855_clip)"/>
 <defs>
 <path id="sector_9_25" d="M 34388,16577 A 14100,14100 0 0 1 34442,16742 L 32154,17467 A 11700,11700 0 0 0 32109,17330 L 34388,16577" />
 <clipPath id="sector_9_25_clip">
@@ -7109,7 +7161,11 @@ Mary Garnet (1654 - 1709)
 Deborah Bartlett (1647 - 1711)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_10_299" d="M 15399,761 A 21000,21000 0 0 1 15523,727 L 17323,7388 A 14100,14100 0 0 0 17239,7411 L 15399,761" />
+<clipPath id="wedge_10_299_clip">
+<use href="#wedge_10_299"/>
+</clipPath></defs><use href="#wedge_10_299" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_299_clip)"/>
 <defs>
 <path id="sector_9_456" d="M 32008,29811 A 14100,14100 0 0 1 31899,29945 L 30044,28422 A 11700,11700 0 0 0 30135,28311 L 32008,29811" />
 <clipPath id="sector_9_456_clip">
@@ -7437,7 +7493,11 @@ Samuel Street (1635 - 1717)
 Lydia Winchester (1647 - 1723)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_787" d="M 5268,7089 A 21000,21000 0 0 1 5311,7041 L 8748,10099 A 16400,16400 0 0 0 8714,10136 L 5268,7089" />
+<clipPath id="wedge_11_787_clip">
+<use href="#wedge_11_787"/>
+</clipPath></defs><use href="#wedge_11_787" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_787_clip)"/>
 <defs>
 <path id="sector_10_19" d="M 37277,18992 A 16400,16400 0 0 1 37289,19092 L 35004,19360 A 14100,14100 0 0 0 34994,19274 L 37277,18992" />
 <clipPath id="sector_10_19_clip">
@@ -7514,7 +7574,11 @@ Peter Hobart (1604 - 1679)
 Sarah Wyatt (1620 - 1704)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_195" d="M 38316,9120 A 21000,21000 0 0 1 38353,9173 L 34552,11764 A 16400,16400 0 0 0 34523,11722 L 38316,9120" />
+<clipPath id="wedge_11_195_clip">
+<use href="#wedge_11_195"/>
+</clipPath></defs><use href="#wedge_11_195" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_195_clip)"/>
 <defs>
 <path id="sector_10_911" d="M 33677,31404 A 16400,16400 0 0 1 33613,31482 L 31844,30012 A 14100,14100 0 0 0 31899,29945 L 33677,31404" />
 <clipPath id="sector_10_911_clip">
@@ -7575,7 +7639,11 @@ William x Warriner (1602 - 1676)
 Samuel May (? - 1677)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_109" d="M 40815,14047 A 21000,21000 0 0 1 40837,14108 L 36492,15617 A 16400,16400 0 0 0 36475,15570 L 40815,14047" />
+<clipPath id="wedge_11_109_clip">
+<use href="#wedge_11_109"/>
+</clipPath></defs><use href="#wedge_11_109" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_109_clip)"/>
 <defs>
 <path id="sector_10_738" d="M 18097,37141 A 16400,16400 0 0 1 17998,37123 L 18419,34862 A 14100,14100 0 0 0 18504,34877 L 18097,37141" />
 <clipPath id="sector_10_738_clip">
@@ -7603,7 +7671,11 @@ George Allen (? - 1648)
 Lydia Winchester (1647 - 1723)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_1811" d="M 36732,34911 A 21000,21000 0 0 1 36689,34959 L 33252,31901 A 16400,16400 0 0 0 33286,31864 L 36732,34911" />
+<clipPath id="wedge_11_1811_clip">
+<use href="#wedge_11_1811"/>
+</clipPath></defs><use href="#wedge_11_1811" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1811_clip)"/>
 <defs>
 <path id="sector_10_406" d="M 7888,11150 A 16400,16400 0 0 1 7948,11070 L 9779,12462 A 14100,14100 0 0 0 9727,12531 L 7888,11150" />
 <clipPath id="sector_10_406_clip">
@@ -7843,7 +7915,11 @@ Andrew Lester (1644 - 1708)
 William Billings (1629 - 1712)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_2025" d="M 41952,22416 A 21000,21000 0 0 1 41948,22481 L 37359,22156 A 16400,16400 0 0 0 37363,22106 L 41952,22416" />
+<clipPath id="wedge_11_2025_clip">
+<use href="#wedge_11_2025"/>
+</clipPath></defs><use href="#wedge_11_2025" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_2025_clip)"/>
 <defs>
 <path id="sector_10_769" d="M 21201,37399 A 16400,16400 0 0 1 21101,37400 L 21087,35100 A 14100,14100 0 0 0 21173,35099 L 21201,37399" />
 <clipPath id="sector_10_769_clip">
@@ -8236,7 +8312,11 @@ John Morgan (1645 - 1712)
 William Billings (1629 - 1712)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_1001" d="M 48,19584 A 21000,21000 0 0 1 52,19519 L 4641,19844 A 16400,16400 0 0 0 4637,19894 L 48,19584" />
+<clipPath id="wedge_11_1001_clip">
+<use href="#wedge_11_1001"/>
+</clipPath></defs><use href="#wedge_11_1001" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1001_clip)"/>
 <defs>
 <path id="sector_10_902" d="M 33084,32088 A 16400,16400 0 0 1 33016,32162 L 31330,30596 A 14100,14100 0 0 0 31389,30533 L 33084,32088" />
 <clipPath id="sector_10_902_clip">
@@ -8472,7 +8552,11 @@ Mary Pickett (1652 - 1735)
 John Lewis (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_853" d="M 2792,10537 A 21000,21000 0 0 1 2824,10481 L 6806,12785 A 16400,16400 0 0 0 6780,12829 L 2792,10537" />
+<clipPath id="wedge_11_853_clip">
+<use href="#wedge_11_853"/>
+</clipPath></defs><use href="#wedge_11_853" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_853_clip)"/>
 <defs>
 <path id="sector_10_986" d="M 36979,24691 A 16400,16400 0 0 1 36956,24789 L 34718,24258 A 14100,14100 0 0 0 34738,24174 L 36979,24691" />
 <clipPath id="sector_10_986_clip">
@@ -8657,7 +8741,11 @@ John Goodrich (1635 - 1680)
 Lydia Cook (1685 - 1738)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_1979" d="M 41545,25349 A 21000,21000 0 0 1 41531,25412 L 37034,24446 A 16400,16400 0 0 0 37044,24397 L 41545,25349" />
+<clipPath id="wedge_11_1979_clip">
+<use href="#wedge_11_1979"/>
+</clipPath></defs><use href="#wedge_11_1979" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1979_clip)"/>
 <defs>
 <path id="sector_10_398" d="M 8387,10518 A 16400,16400 0 0 1 8451,10441 L 10211,11922 A 14100,14100 0 0 0 10156,11988 L 8387,10518" />
 <clipPath id="sector_10_398_clip">
@@ -8903,7 +8991,11 @@ Josiah Witter (1638 - 1690)
 John Lewis (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_1877" d="M 39208,31463 A 21000,21000 0 0 1 39176,31519 L 35194,29215 A 16400,16400 0 0 0 35220,29171 L 39208,31463" />
+<clipPath id="wedge_11_1877_clip">
+<use href="#wedge_11_1877"/>
+</clipPath></defs><use href="#wedge_11_1877" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1877_clip)"/>
 <defs>
 <path id="sector_10_387" d="M 9122,9692 A 16400,16400 0 0 1 9192,9619 L 10848,11215 A 14100,14100 0 0 0 10788,11277 L 9122,9692" />
 <clipPath id="sector_10_387_clip">
@@ -9196,7 +9288,11 @@ Rev. Samuel Stow Stowe (1645 - 1720)
 Elizabeth Freeman (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_943" d="M 629,15897 A 21000,21000 0 0 1 645,15835 L 5104,16966 A 16400,16400 0 0 0 5091,17015 L 629,15897" />
+<clipPath id="wedge_11_943_clip">
+<use href="#wedge_11_943"/>
+</clipPath></defs><use href="#wedge_11_943" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_943_clip)"/>
 <defs>
 <path id="sector_10_946" d="M 35603,28463 A 16400,16400 0 0 1 35557,28553 L 33516,27494 A 14100,14100 0 0 0 33555,27417 L 35603,28463" />
 <clipPath id="sector_10_946_clip">
@@ -9271,7 +9367,7 @@ William Hills (1608 - 1683)
 <path id="wedge_10_274" d="M 18557,143 A 21000,21000 0 0 1 18685,128 L 19192,4700 A 16400,16400 0 0 0 19092,4711 L 18557,143" />
 <clipPath id="wedge_10_274_clip">
 <use href="#wedge_10_274"/>
-</clipPath></defs><use href="#wedge_10_274" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_274_clip)"/>
+</clipPath></defs><use href="#wedge_10_274" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_10_274_clip)"/>
 <defs>
 <path id="sector_10_61" d="M 36227,14910 A 16400,16400 0 0 1 36265,15004 L 34124,15845 A 14100,14100 0 0 0 34092,15764 L 36227,14910" />
 <clipPath id="sector_10_61_clip">
@@ -9357,7 +9453,7 @@ John Farrow (1602 - 1687)
 <path id="wedge_10_48" d="M 41058,14781 A 21000,21000 0 0 1 41096,14904 L 36694,16239 A 16400,16400 0 0 0 36664,16143 L 41058,14781" />
 <clipPath id="wedge_10_48_clip">
 <use href="#wedge_10_48"/>
-</clipPath></defs><use href="#wedge_10_48" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_48_clip)"/>
+</clipPath></defs><use href="#wedge_10_48" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_10_48_clip)"/>
 <defs>
 <path id="sector_10_501" d="M 4631,19994 A 16400,16400 0 0 1 4637,19894 L 6932,20049 A 14100,14100 0 0 0 6927,20135 L 4631,19994" />
 <clipPath id="sector_10_501_clip">
@@ -9602,7 +9698,7 @@ Margery Deane (? - 1635)
 <path id="wedge_10_257" d="M 20742,2 A 21000,21000 0 0 1 20871,0 L 20899,4600 A 16400,16400 0 0 0 20799,4601 L 20742,2" />
 <clipPath id="wedge_10_257_clip">
 <use href="#wedge_10_257"/>
-</clipPath></defs><use href="#wedge_10_257" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_257_clip)"/>
+</clipPath></defs><use href="#wedge_10_257" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_10_257_clip)"/>
 <defs>
 <path id="sector_10_776" d="M 21905,37375 A 16400,16400 0 0 1 21805,37380 L 21692,35083 A 14100,14100 0 0 0 21778,35079 L 21905,37375" />
 <clipPath id="sector_10_776_clip">
@@ -10440,7 +10536,11 @@ John Stoddard (1612 - 1676)
 Lydia Gamer (1602 - 1671)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_35" d="M 41872,18685 A 21000,21000 0 0 1 41879,18749 L 37306,19242 A 16400,16400 0 0 0 37300,19192 L 41872,18685" />
+<clipPath id="wedge_11_35_clip">
+<use href="#wedge_11_35"/>
+</clipPath></defs><use href="#wedge_11_35" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_35_clip)"/>
 <defs>
 <path id="sector_10_52" d="M 36540,15760 A 16400,16400 0 0 1 36572,15856 L 34388,16577 A 14100,14100 0 0 0 34361,16495 L 36540,15760" />
 <clipPath id="sector_10_52_clip">
@@ -10751,7 +10851,11 @@ Humphrey Turner (1594 - 1673)
 Joseph Loomis (1590 - 1658)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_529" d="M 19841,32 A 21000,21000 0 0 1 19905,29 L 20145,4622 A 16400,16400 0 0 0 20095,4625 L 19841,32" />
+<clipPath id="wedge_11_529_clip">
+<use href="#wedge_11_529"/>
+</clipPath></defs><use href="#wedge_11_529" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_529_clip)"/>
 <defs>
 <path id="sector_10_116" d="M 33352,10212 A 16400,16400 0 0 1 33418,10288 L 31677,11790 A 14100,14100 0 0 0 31620,11725 L 33352,10212" />
 <clipPath id="sector_10_116_clip">
@@ -10866,7 +10970,11 @@ Richard Smith (1625 - ?)
 Elizabeth Freeman (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_1967" d="M 41371,26103 A 21000,21000 0 0 1 41355,26165 L 36896,25034 A 16400,16400 0 0 0 36909,24985 L 41371,26103" />
+<clipPath id="wedge_11_1967_clip">
+<use href="#wedge_11_1967"/>
+</clipPath></defs><use href="#wedge_11_1967" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1967_clip)"/>
 <defs>
 <path id="sector_10_113" d="M 33549,10441 A 16400,16400 0 0 1 33613,10518 L 31844,11988 A 14100,14100 0 0 0 31789,11922 L 33549,10441" />
 <clipPath id="sector_10_113_clip">
@@ -11011,7 +11119,7 @@ Thomas Hurlburt (1610 - 1671)
 <path id="wedge_10_768" d="M 21129,42000 A 21000,21000 0 0 1 21000,42000 L 21000,37400 A 16400,16400 0 0 0 21101,37400 L 21129,42000" />
 <clipPath id="wedge_10_768_clip">
 <use href="#wedge_10_768"/>
-</clipPath></defs><use href="#wedge_10_768" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_10_768_clip)"/>
+</clipPath></defs><use href="#wedge_10_768" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_10_768_clip)"/>
 <defs>
 <path id="sector_10_449" d="M 5773,14910 A 16400,16400 0 0 1 5810,14817 L 7940,15684 A 14100,14100 0 0 0 7908,15764 L 5773,14910" />
 <clipPath id="sector_10_449_clip">
@@ -11501,7 +11609,11 @@ John Mason (1600 - 1672)
 Katherine Merritt (? - 1655)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_115" d="M 40684,13683 A 21000,21000 0 0 1 40706,13744 L 36390,15333 A 16400,16400 0 0 0 36372,15286 L 40684,13683" />
+<clipPath id="wedge_11_115_clip">
+<use href="#wedge_11_115"/>
+</clipPath></defs><use href="#wedge_11_115" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_115_clip)"/>
 <defs>
 <path id="sector_10_437" d="M 6262,13807 A 16400,16400 0 0 1 6306,13716 L 8367,14738 A 14100,14100 0 0 0 8329,14816 L 6262,13807" />
 <clipPath id="sector_10_437_clip">
@@ -11889,7 +12001,11 @@ Judith Belcher (1658 - ?)
 Lydia Cook (1685 - 1738)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_11_955" d="M 455,16651 A 21000,21000 0 0 1 469,16588 L 4966,17554 A 16400,16400 0 0 0 4956,17603 L 455,16651" />
+<clipPath id="wedge_11_955_clip">
+<use href="#wedge_11_955"/>
+</clipPath></defs><use href="#wedge_11_955" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_955_clip)"/>
 <defs>
 <path id="sector_10_1016" d="M 37385,21704 A 16400,16400 0 0 1 37380,21805 L 35083,21692 A 14100,14100 0 0 0 35087,21605 L 37385,21704" />
 <clipPath id="sector_10_1016_clip">
@@ -12036,7 +12152,11 @@ Sarah Unknown073 (1620 - 1683)
 Thomas Fox (1619 - 1658)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3701" d="M 38280,32933 A 21000,21000 0 0 1 38262,32960 L 35713,31194 A 17900,17900 0 0 0 35729,31172 L 38280,32933" />
+<clipPath id="wedge_12_3701_clip">
+<use href="#wedge_12_3701"/>
+</clipPath></defs><use href="#wedge_12_3701" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3701_clip)"/>
 <defs>
 <path id="sector_11_1999" d="M 38706,23626 A 17900,17900 0 0 1 38698,23681 L 37215,23456 A 16400,16400 0 0 0 37222,23406 L 38706,23626" />
 <clipPath id="sector_11_1999_clip">
@@ -12068,7 +12188,7 @@ Alexander Winchester (? - 1647)
 <path id="wedge_11_1810" d="M 36689,34959 A 21000,21000 0 0 1 36646,35007 L 34337,32939 A 17900,17900 0 0 0 34373,32898 L 36689,34959" />
 <clipPath id="wedge_11_1810_clip">
 <use href="#wedge_11_1810"/>
-</clipPath></defs><use href="#wedge_11_1810" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1810_clip)"/>
+</clipPath></defs><use href="#wedge_11_1810" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1810_clip)"/>
 <defs>
 <path id="sector_11_1886" d="M 36760,29486 A 17900,17900 0 0 1 36734,29535 L 35416,28820 A 16400,16400 0 0 0 35440,28775 L 36760,29486" />
 <clipPath id="sector_11_1886_clip">
@@ -12252,7 +12372,11 @@ Anna Stevenson (1598 - 1673)
 Thomas Fox (1619 - 1658)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1653" d="M 3720,9067 A 21000,21000 0 0 1 3738,9040 L 6287,10806 A 17900,17900 0 0 0 6271,10828 L 3720,9067" />
+<clipPath id="wedge_12_1653_clip">
+<use href="#wedge_12_1653"/>
+</clipPath></defs><use href="#wedge_12_1653" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1653_clip)"/>
 <defs>
 <path id="sector_11_519" d="M 20561,3105 A 17900,17900 0 0 1 20616,3104 L 20648,4604 A 16400,16400 0 0 0 20598,4605 L 20561,3105" />
 <clipPath id="sector_11_519_clip">
@@ -12316,7 +12440,7 @@ Valentine Prentice (1605 - 1633)
 <path id="wedge_11_1012" d="M 12,20291 A 21000,21000 0 0 1 14,20227 L 3112,20341 A 17900,17900 0 0 0 3110,20396 L 12,20291" />
 <clipPath id="wedge_11_1012_clip">
 <use href="#wedge_11_1012"/>
-</clipPath></defs><use href="#wedge_11_1012" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1012_clip)"/>
+</clipPath></defs><use href="#wedge_11_1012" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1012_clip)"/>
 <defs>
 <path id="sector_11_977" d="M 3278,18482 A 17900,17900 0 0 1 3286,18428 L 4770,18643 A 16400,16400 0 0 0 4763,18693 L 3278,18482" />
 <clipPath id="sector_11_977_clip">
@@ -12348,7 +12472,7 @@ Valentine Prentice (1605 - 1633)
 <path id="wedge_11_2036" d="M 41988,21709 A 21000,21000 0 0 1 41986,21773 L 38888,21659 A 17900,17900 0 0 0 38890,21604 L 41988,21709" />
 <clipPath id="wedge_11_2036_clip">
 <use href="#wedge_11_2036"/>
-</clipPath></defs><use href="#wedge_11_2036" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_2036_clip)"/>
+</clipPath></defs><use href="#wedge_11_2036" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_2036_clip)"/>
 <defs>
 <path id="sector_11_550" d="M 18863,3228 A 17900,17900 0 0 1 18918,3222 L 19092,4711 A 16400,16400 0 0 0 19042,4717 L 18863,3228" />
 <clipPath id="sector_11_550_clip">
@@ -12772,7 +12896,7 @@ Humphrey Bradstreet (1594 - 1655)
 <path id="wedge_11_898" d="M 1525,13143 A 21000,21000 0 0 1 1550,13083 L 4421,14252 A 17900,17900 0 0 0 4400,14302 L 1525,13143" />
 <clipPath id="wedge_11_898_clip">
 <use href="#wedge_11_898"/>
-</clipPath></defs><use href="#wedge_11_898" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_898_clip)"/>
+</clipPath></defs><use href="#wedge_11_898" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_898_clip)"/>
 <defs>
 <path id="sector_11_947" d="M 3584,16864 A 17900,17900 0 0 1 3597,16811 L 5055,17162 A 16400,16400 0 0 0 5044,17211 L 3584,16864" />
 <clipPath id="sector_11_947_clip">
@@ -12885,7 +13009,7 @@ Jeremiah Belcher (1614 - 1690)
 <path id="wedge_11_1962" d="M 41290,26414 A 21000,21000 0 0 1 41273,26477 L 38281,25668 A 17900,17900 0 0 0 38295,25615 L 41290,26414" />
 <clipPath id="wedge_11_1962_clip">
 <use href="#wedge_11_1962"/>
-</clipPath></defs><use href="#wedge_11_1962" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1962_clip)"/>
+</clipPath></defs><use href="#wedge_11_1962" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1962_clip)"/>
 <defs>
 <path id="sector_11_112" d="M 37835,14918 A 17900,17900 0 0 1 37854,14970 L 36441,15475 A 16400,16400 0 0 0 36424,15428 L 37835,14918" />
 <clipPath id="sector_11_112_clip">
@@ -12972,7 +13096,11 @@ Lucretia Oldham (1600 - 1678)
 Thomas Gardner (1619 - 1689)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1597" d="M 4808,7628 A 21000,21000 0 0 1 4828,7603 L 7216,9581 A 17900,17900 0 0 0 7198,9602 L 4808,7628" />
+<clipPath id="wedge_12_1597_clip">
+<use href="#wedge_12_1597"/>
+</clipPath></defs><use href="#wedge_12_1597" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1597_clip)"/>
 <defs>
 <path id="sector_11_27" d="M 38834,19464 A 17900,17900 0 0 1 38839,19519 L 37344,19643 A 16400,16400 0 0 0 37340,19593 L 38834,19464" />
 <clipPath id="sector_11_27_clip">
@@ -13332,7 +13460,7 @@ Bridget Unknown016 (1604 - 1665)
 <path id="wedge_11_899" d="M 1501,13202 A 21000,21000 0 0 1 1525,13143 L 4400,14302 A 17900,17900 0 0 0 4380,14353 L 1501,13202" />
 <clipPath id="wedge_11_899_clip">
 <use href="#wedge_11_899"/>
-</clipPath></defs><use href="#wedge_11_899" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_899_clip)"/>
+</clipPath></defs><use href="#wedge_11_899" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_899_clip)"/>
 <defs>
 <path id="sector_11_833" d="M 6056,11147 A 17900,17900 0 0 1 6086,11101 L 7336,11931 A 16400,16400 0 0 0 7308,11972 L 6056,11147" />
 <clipPath id="sector_11_833_clip">
@@ -13412,7 +13540,7 @@ Humphrey Atherton (1607 - 1661)
 <path id="wedge_11_2026" d="M 41956,22352 A 21000,21000 0 0 1 41952,22416 L 38859,22207 A 17900,17900 0 0 0 38863,22152 L 41956,22352" />
 <clipPath id="wedge_11_2026_clip">
 <use href="#wedge_11_2026"/>
-</clipPath></defs><use href="#wedge_11_2026" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_2026_clip)"/>
+</clipPath></defs><use href="#wedge_11_2026" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_2026_clip)"/>
 <defs>
 <path id="sector_11_1879" d="M 36575,29823 A 17900,17900 0 0 1 36547,29871 L 35245,29127 A 16400,16400 0 0 0 35269,29084 L 36575,29823" />
 <clipPath id="sector_11_1879_clip">
@@ -13488,7 +13616,11 @@ John Nichols (? - ?)
 Abigail Weyborn (1619 - 1664)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1659" d="M 3611,9226 A 21000,21000 0 0 1 3629,9199 L 6193,10941 A 17900,17900 0 0 0 6178,10964 L 3611,9226" />
+<clipPath id="wedge_12_1659_clip">
+<use href="#wedge_12_1659"/>
+</clipPath></defs><use href="#wedge_12_1659" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1659_clip)"/>
 <defs>
 <path id="sector_11_541" d="M 19355,3176 A 17900,17900 0 0 1 19410,3171 L 19543,4665 A 16400,16400 0 0 0 19493,4669 L 19355,3176" />
 <clipPath id="sector_11_541_clip">
@@ -13600,7 +13732,7 @@ Jeremiah Belcher (1614 - 1690)
 <path id="wedge_11_938" d="M 710,15586 A 21000,21000 0 0 1 727,15523 L 3719,16332 A 17900,17900 0 0 0 3705,16385 L 710,15586" />
 <clipPath id="wedge_11_938_clip">
 <use href="#wedge_11_938"/>
-</clipPath></defs><use href="#wedge_11_938" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_938_clip)"/>
+</clipPath></defs><use href="#wedge_11_938" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_938_clip)"/>
 <defs>
 <path id="sector_11_797" d="M 7233,9560 A 17900,17900 0 0 1 7268,9517 L 8419,10480 A 16400,16400 0 0 0 8387,10518 L 7233,9560" />
 <clipPath id="sector_11_797_clip">
@@ -14158,7 +14290,7 @@ Richard Kimball (1595 - 1675)
 <path id="wedge_11_1920" d="M 40426,28977 A 21000,21000 0 0 1 40401,29036 L 37537,27850 A 17900,17900 0 0 0 37558,27799 L 40426,28977" />
 <clipPath id="wedge_11_1920_clip">
 <use href="#wedge_11_1920"/>
-</clipPath></defs><use href="#wedge_11_1920" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1920_clip)"/>
+</clipPath></defs><use href="#wedge_11_1920" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1920_clip)"/>
 <defs>
 <path id="sector_11_607" d="M 15804,3871 A 17900,17900 0 0 1 15856,3855 L 16288,5292 A 16400,16400 0 0 0 16239,5306 L 15804,3871" />
 <clipPath id="sector_11_607_clip">
@@ -14229,7 +14361,11 @@ George Barrell (1585 - 1643)
 Thomas Gardner (1619 - 1689)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3645" d="M 37192,34372 A 21000,21000 0 0 1 37172,34397 L 34784,32419 A 17900,17900 0 0 0 34802,32398 L 37192,34372" />
+<clipPath id="wedge_12_3645_clip">
+<use href="#wedge_12_3645"/>
+</clipPath></defs><use href="#wedge_12_3645" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3645_clip)"/>
 <defs>
 <path id="sector_11_207" d="M 35377,10337 A 17900,17900 0 0 1 35410,10381 L 34203,11271 A 16400,16400 0 0 0 34173,11231 L 35377,10337" />
 <clipPath id="sector_11_207_clip">
@@ -14379,7 +14515,7 @@ John Gager (1623 - 1703)
 <path id="wedge_11_970" d="M 277,17600 A 21000,21000 0 0 1 288,17537 L 3345,18048 A 17900,17900 0 0 0 3336,18102 L 277,17600" />
 <clipPath id="wedge_11_970_clip">
 <use href="#wedge_11_970"/>
-</clipPath></defs><use href="#wedge_11_970" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_970_clip)"/>
+</clipPath></defs><use href="#wedge_11_970" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_970_clip)"/>
 <defs>
 <path id="sector_11_891" d="M 4548,13948 A 17900,17900 0 0 1 4570,13897 L 5946,14492 A 16400,16400 0 0 0 5927,14539 L 4548,13948" />
 <clipPath id="sector_11_891_clip">
@@ -14454,7 +14590,7 @@ Alexander Winchester (? - 1647)
 <path id="wedge_11_786" d="M 5311,7041 A 21000,21000 0 0 1 5354,6993 L 7663,9061 A 17900,17900 0 0 0 7627,9102 L 5311,7041" />
 <clipPath id="wedge_11_786_clip">
 <use href="#wedge_11_786"/>
-</clipPath></defs><use href="#wedge_11_786" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_786_clip)"/>
+</clipPath></defs><use href="#wedge_11_786" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_786_clip)"/>
 <defs>
 <path id="sector_11_781" d="M 7811,8898 A 17900,17900 0 0 1 7848,8858 L 8950,9875 A 16400,16400 0 0 0 8916,9912 L 7811,8898" />
 <clipPath id="sector_11_781_clip">
@@ -14609,7 +14745,7 @@ Humphrey Atherton (1607 - 1661)
 <path id="wedge_11_1002" d="M 44,19648 A 21000,21000 0 0 1 48,19584 L 3141,19793 A 17900,17900 0 0 0 3137,19848 L 44,19648" />
 <clipPath id="wedge_11_1002_clip">
 <use href="#wedge_11_1002"/>
-</clipPath></defs><use href="#wedge_11_1002" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1002_clip)"/>
+</clipPath></defs><use href="#wedge_11_1002" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1002_clip)"/>
 <defs>
 <path id="sector_11_121" d="M 37661,14456 A 17900,17900 0 0 1 37681,14507 L 36283,15051 A 16400,16400 0 0 0 36265,15004 L 37661,14456" />
 <clipPath id="sector_11_121_clip">
@@ -14652,7 +14788,7 @@ Bridget Unknown016 (1604 - 1665)
 <path id="wedge_11_1923" d="M 40499,28798 A 21000,21000 0 0 1 40475,28857 L 37600,27698 A 17900,17900 0 0 0 37620,27647 L 40499,28798" />
 <clipPath id="wedge_11_1923_clip">
 <use href="#wedge_11_1923"/>
-</clipPath></defs><use href="#wedge_11_1923" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1923_clip)"/>
+</clipPath></defs><use href="#wedge_11_1923" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1923_clip)"/>
 <defs>
 <path id="sector_11_893" d="M 4505,14049 A 17900,17900 0 0 1 4526,13998 L 5907,14585 A 16400,16400 0 0 0 5887,14631 L 4505,14049" />
 <clipPath id="sector_11_893_clip">
@@ -14831,7 +14967,11 @@ Bridget Gilman (1603 - ?)
 Lydia Gamer (1602 - 1671)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_139" d="M 41518,16525 A 21000,21000 0 0 1 41524,16556 L 38495,17212 A 17900,17900 0 0 0 38489,17185 L 41518,16525" />
+<clipPath id="wedge_12_139_clip">
+<use href="#wedge_12_139"/>
+</clipPath></defs><use href="#wedge_12_139" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_139_clip)"/>
 <defs>
 <path id="sector_11_2021" d="M 38843,22426 A 17900,17900 0 0 1 38839,22481 L 37344,22357 A 16400,16400 0 0 0 37348,22307 L 38843,22426" />
 <clipPath id="sector_11_2021_clip">
@@ -14956,7 +15096,11 @@ Elizabeth Brewster (1637 - 1708)
 Hannah Churchman (? - 1670)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3867" d="M 40729,28196 A 21000,21000 0 0 1 40718,28226 L 37807,27159 A 17900,17900 0 0 0 37816,27134 L 40729,28196" />
+<clipPath id="wedge_12_3867_clip">
+<use href="#wedge_12_3867"/>
+</clipPath></defs><use href="#wedge_12_3867" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3867_clip)"/>
 <defs>
 <path id="sector_11_16" d="M 38876,20067 A 17900,17900 0 0 1 38878,20122 L 37380,20195 A 16400,16400 0 0 0 37378,20145 L 38876,20067" />
 <clipPath id="sector_11_16_clip">
@@ -15181,7 +15325,7 @@ Richard Kimball (1595 - 1675)
 <path id="wedge_11_896" d="M 1574,13023 A 21000,21000 0 0 1 1599,12964 L 4463,14150 A 17900,17900 0 0 0 4442,14201 L 1574,13023" />
 <clipPath id="wedge_11_896_clip">
 <use href="#wedge_11_896"/>
-</clipPath></defs><use href="#wedge_11_896" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_896_clip)"/>
+</clipPath></defs><use href="#wedge_11_896" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_896_clip)"/>
 <defs>
 <path id="sector_11_1903" d="M 37181,28653 A 17900,17900 0 0 1 37158,28703 L 35804,28057 A 16400,16400 0 0 0 35825,28012 L 37181,28653" />
 <clipPath id="sector_11_1903_clip">
@@ -15280,7 +15424,11 @@ Thomas Starr (1615 - 1658)
 Peter Gardner (1617 - 1698)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1133" d="M 17473,298 A 21000,21000 0 0 1 17505,293 L 18021,3350 A 17900,17900 0 0 0 17994,3354 L 17473,298" />
+<clipPath id="wedge_12_1133_clip">
+<use href="#wedge_12_1133"/>
+</clipPath></defs><use href="#wedge_12_1133" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1133_clip)"/>
 <defs>
 <path id="sector_11_106" d="M 37944,15229 A 17900,17900 0 0 1 37962,15281 L 36540,15760 A 16400,16400 0 0 0 36524,15713 L 37944,15229" />
 <clipPath id="sector_11_106_clip">
@@ -15296,7 +15444,7 @@ John Beal (1588 - 1688)
 <path id="wedge_11_106" d="M 40879,14229 A 21000,21000 0 0 1 40899,14290 L 37962,15281 A 17900,17900 0 0 0 37944,15229 L 40879,14229" />
 <clipPath id="wedge_11_106_clip">
 <use href="#wedge_11_106"/>
-</clipPath></defs><use href="#wedge_11_106" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_106_clip)"/>
+</clipPath></defs><use href="#wedge_11_106" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_106_clip)"/>
 <defs>
 <path id="sector_11_751" d="M 8979,7737 A 17900,17900 0 0 1 9020,7700 L 10024,8815 A 16400,16400 0 0 0 9986,8848 L 8979,7737" />
 <clipPath id="sector_11_751_clip">
@@ -15394,7 +15542,11 @@ Sarah Unknown073 (1620 - 1683)
 Abigail Weyborn (1619 - 1664)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3707" d="M 38389,32774 A 21000,21000 0 0 1 38371,32801 L 35807,31059 A 17900,17900 0 0 0 35822,31036 L 38389,32774" />
+<clipPath id="wedge_12_3707_clip">
+<use href="#wedge_12_3707"/>
+</clipPath></defs><use href="#wedge_12_3707" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3707_clip)"/>
 <defs>
 <path id="sector_11_834" d="M 6026,11193 A 17900,17900 0 0 1 6056,11147 L 7308,11972 A 16400,16400 0 0 0 7281,12015 L 6026,11193" />
 <clipPath id="sector_11_834_clip">
@@ -15760,7 +15912,11 @@ William Comstock (1595 - 1683)
 Sarah Collier (1616 - 1691)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3907" d="M 41133,26973 A 21000,21000 0 0 1 41124,27003 L 38153,26117 A 17900,17900 0 0 0 38161,26091 L 41133,26973" />
+<clipPath id="wedge_12_3907_clip">
+<use href="#wedge_12_3907"/>
+</clipPath></defs><use href="#wedge_12_3907" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3907_clip)"/>
 <defs>
 <path id="sector_11_1922" d="M 37600,27698 A 17900,17900 0 0 1 37579,27748 L 36190,27183 A 16400,16400 0 0 0 36209,27136 L 37600,27698" />
 <clipPath id="sector_11_1922_clip">
@@ -15776,7 +15932,7 @@ Humphrey Bradstreet (1594 - 1655)
 <path id="wedge_11_1922" d="M 40475,28857 A 21000,21000 0 0 1 40450,28917 L 37579,27748 A 17900,17900 0 0 0 37600,27698 L 40475,28857" />
 <clipPath id="wedge_11_1922_clip">
 <use href="#wedge_11_1922"/>
-</clipPath></defs><use href="#wedge_11_1922" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1922_clip)"/>
+</clipPath></defs><use href="#wedge_11_1922" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1922_clip)"/>
 <defs>
 <path id="sector_11_959" d="M 3444,17508 A 17900,17900 0 0 1 3455,17454 L 4925,17751 A 16400,16400 0 0 0 4915,17801 L 3444,17508" />
 <clipPath id="sector_11_959_clip">
@@ -16066,7 +16222,7 @@ William Colborn (1593 - 1662)
 <path id="wedge_11_66" d="M 41558,16714 A 21000,21000 0 0 1 41571,16777 L 38534,17400 A 17900,17900 0 0 0 38523,17346 L 41558,16714" />
 <clipPath id="wedge_11_66_clip">
 <use href="#wedge_11_66"/>
-</clipPath></defs><use href="#wedge_11_66" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_66_clip)"/>
+</clipPath></defs><use href="#wedge_11_66" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_66_clip)"/>
 <defs>
 <path id="sector_11_793" d="M 7374,9392 A 17900,17900 0 0 1 7410,9350 L 8549,10326 A 16400,16400 0 0 0 8516,10364 L 7374,9392" />
 <clipPath id="sector_11_793_clip">
@@ -16341,7 +16497,11 @@ Hannah Webb (? - 1688)
 Hannah Churchman (? - 1670)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1819" d="M 1271,13804 A 21000,21000 0 0 1 1282,13774 L 4193,14841 A 17900,17900 0 0 0 4184,14866 L 1271,13804" />
+<clipPath id="wedge_12_1819_clip">
+<use href="#wedge_12_1819"/>
+</clipPath></defs><use href="#wedge_12_1819" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1819_clip)"/>
 <defs>
 <path id="sector_11_696" d="M 11377,5907 A 17900,17900 0 0 1 11424,5877 L 12226,7144 A 16400,16400 0 0 0 12184,7171 L 11377,5907" />
 <clipPath id="sector_11_696_clip">
@@ -16438,7 +16598,7 @@ Francis Peabody (1614 - 1698)
 <path id="wedge_11_206" d="M 37906,8542 A 21000,21000 0 0 1 37944,8594 L 35443,10425 A 17900,17900 0 0 0 35410,10381 L 37906,8542" />
 <clipPath id="wedge_11_206_clip">
 <use href="#wedge_11_206"/>
-</clipPath></defs><use href="#wedge_11_206" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_206_clip)"/>
+</clipPath></defs><use href="#wedge_11_206" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_206_clip)"/>
 <defs>
 <path id="sector_11_2033" d="M 38883,21769 A 17900,17900 0 0 1 38881,21823 L 37383,21754 A 16400,16400 0 0 0 37385,21704 L 38883,21769" />
 <clipPath id="sector_11_2033_clip">
@@ -16638,7 +16798,11 @@ Clement Topliffe (1603 - 1672)
 Sarah Collier (1616 - 1691)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_1859" d="M 867,15027 A 21000,21000 0 0 1 876,14997 L 3847,15883 A 17900,17900 0 0 0 3839,15909 L 867,15027" />
+<clipPath id="wedge_12_1859_clip">
+<use href="#wedge_12_1859"/>
+</clipPath></defs><use href="#wedge_12_1859" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1859_clip)"/>
 <defs>
 <path id="sector_11_1818" d="M 34661,32567 A 17900,17900 0 0 1 34626,32608 L 33484,31636 A 16400,16400 0 0 0 33516,31597 L 34661,32567" />
 <clipPath id="sector_11_1818_clip">
@@ -16788,7 +16952,7 @@ Jonas Austin (1598 - 1676)
 <path id="wedge_11_1718" d="M 32180,38776 A 21000,21000 0 0 1 32126,38811 L 30483,36181 A 17900,17900 0 0 0 30530,36152 L 32180,38776" />
 <clipPath id="wedge_11_1718_clip">
 <use href="#wedge_11_1718"/>
-</clipPath></defs><use href="#wedge_11_1718" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1718_clip)"/>
+</clipPath></defs><use href="#wedge_11_1718" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_1718_clip)"/>
 <defs>
 <path id="sector_11_2013" d="M 38803,22864 A 17900,17900 0 0 1 38797,22918 L 37306,22758 A 16400,16400 0 0 0 37311,22708 L 38803,22864" />
 <clipPath id="sector_11_2013_clip">
@@ -16912,7 +17076,7 @@ John Gager (1623 - 1703)
 <path id="wedge_11_1994" d="M 41723,24400 A 21000,21000 0 0 1 41712,24463 L 38655,23952 A 17900,17900 0 0 0 38664,23898 L 41723,24400" />
 <clipPath id="wedge_11_1994_clip">
 <use href="#wedge_11_1994"/>
-</clipPath></defs><use href="#wedge_11_1994" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1994_clip)"/>
+</clipPath></defs><use href="#wedge_11_1994" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_1994_clip)"/>
 <defs>
 <path id="sector_11_749" d="M 9061,7663 A 17900,17900 0 0 1 9102,7627 L 10099,8748 A 16400,16400 0 0 0 10061,8781 L 9061,7663" />
 <clipPath id="sector_11_749_clip">
@@ -17004,7 +17168,11 @@ Alice Carpenter (1590 - 1670)
 Mary Hewes (? - ?)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_63" d="M 41899,18942 A 21000,21000 0 0 1 41902,18974 L 38816,19273 A 17900,17900 0 0 0 38814,19245 L 41899,18942" />
+<clipPath id="wedge_12_63_clip">
+<use href="#wedge_12_63"/>
+</clipPath></defs><use href="#wedge_12_63" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_63_clip)"/>
 <defs>
 <path id="sector_11_2030" d="M 38876,21933 A 17900,17900 0 0 1 38873,21988 L 37375,21905 A 16400,16400 0 0 0 37378,21855 L 38876,21933" />
 <clipPath id="sector_11_2030_clip">
@@ -17224,7 +17392,7 @@ Robert Stetson (1613 - 1703)
 <path id="wedge_11_120" d="M 40570,13382 A 21000,21000 0 0 1 40593,13442 L 37701,14558 A 17900,17900 0 0 0 37681,14507 L 40570,13382" />
 <clipPath id="wedge_11_120_clip">
 <use href="#wedge_11_120"/>
-</clipPath></defs><use href="#wedge_11_120" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_120_clip)"/>
+</clipPath></defs><use href="#wedge_11_120" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_120_clip)"/>
 <defs>
 <path id="sector_11_1726" d="M 30899,35914 A 17900,17900 0 0 1 30853,35944 L 30028,34692 A 16400,16400 0 0 0 30069,34664 L 30899,35914" />
 <clipPath id="sector_11_1726_clip">
@@ -18040,7 +18208,11 @@ Abigail Pehr Kingland (? - 1643)
 Thomas Lincoln (1603 - 1684)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_12_3433" d="M 32071,38845 A 21000,21000 0 0 1 32044,38862 L 30414,36225 A 17900,17900 0 0 0 30437,36210 L 32071,38845" />
+<clipPath id="wedge_12_3433_clip">
+<use href="#wedge_12_3433"/>
+</clipPath></defs><use href="#wedge_12_3433" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3433_clip)"/>
 <defs>
 <path id="sector_11_1905" d="M 37228,28554 A 17900,17900 0 0 1 37205,28604 L 35847,27966 A 16400,16400 0 0 0 35868,27921 L 37228,28554" />
 <clipPath id="sector_11_1905_clip">
@@ -19493,7 +19665,11 @@ Solomon Leonard (1620 - 1671)
 Hannah Churchman (? - 1670)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_13_3731" d="M 813,15213 A 21000,21000 0 0 1 818,15198 L 2644,15722 A 19100,19100 0 0 0 2640,15737 L 813,15213" />
+<clipPath id="wedge_13_3731_clip">
+<use href="#wedge_13_3731"/>
+</clipPath></defs><use href="#wedge_13_3731" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_13_3731_clip)"/>
 <defs>
 <path id="sector_12_3966" d="M 39727,24755 A 19100,19100 0 0 1 39721,24784 L 38545,24546 A 17900,17900 0 0 0 38551,24519 L 39727,24755" />
 <clipPath id="sector_12_3966_clip">
@@ -19589,7 +19765,7 @@ Martha Harper (1607 - 1659)
 <path id="wedge_12_1903" d="M 510,16399 A 21000,21000 0 0 1 517,16367 L 2371,16787 A 19100,19100 0 0 0 2364,16815 L 510,16399" />
 <clipPath id="wedge_12_1903_clip">
 <use href="#wedge_12_1903"/>
-</clipPath></defs><use href="#wedge_12_1903" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1903_clip)"/>
+</clipPath></defs><use href="#wedge_12_1903" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1903_clip)"/>
 <defs>
 <path id="sector_12_1959" d="M 2074,18430 A 19100,19100 0 0 1 2078,18400 L 3267,18564 A 17900,17900 0 0 0 3263,18591 L 2074,18430" />
 <clipPath id="sector_12_1959_clip">
@@ -20295,7 +20471,7 @@ William Fellows (1609 - 1676)
 <path id="wedge_12_1896" d="M 561,16179 A 21000,21000 0 0 1 568,16148 L 2417,16587 A 19100,19100 0 0 0 2410,16615 L 561,16179" />
 <clipPath id="wedge_12_1896_clip">
 <use href="#wedge_12_1896"/>
-</clipPath></defs><use href="#wedge_12_1896" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1896_clip)"/>
+</clipPath></defs><use href="#wedge_12_1896" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1896_clip)"/>
 <defs>
 <path id="sector_12_410" d="M 36428,9740 A 19100,19100 0 0 1 36445,9764 L 35475,10470 A 17900,17900 0 0 0 35459,10448 L 36428,9740" />
 <clipPath id="sector_12_410_clip">
@@ -20691,7 +20867,7 @@ John Proctor (1595 - 1672)
 <path id="wedge_12_1902" d="M 517,16367 A 21000,21000 0 0 1 524,16336 L 2377,16758 A 19100,19100 0 0 0 2371,16787 L 517,16367" />
 <clipPath id="wedge_12_1902_clip">
 <use href="#wedge_12_1902"/>
-</clipPath></defs><use href="#wedge_12_1902" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1902_clip)"/>
+</clipPath></defs><use href="#wedge_12_1902" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1902_clip)"/>
 <defs>
 <path id="sector_12_4007" d="M 39926,23570 A 19100,19100 0 0 1 39922,23600 L 38733,23436 A 17900,17900 0 0 0 38737,23409 L 39926,23570" />
 <clipPath id="sector_12_4007_clip">
@@ -20889,7 +21065,7 @@ Martha Harper (1607 - 1659)
 <path id="wedge_12_3951" d="M 41490,25601 A 21000,21000 0 0 1 41483,25633 L 39629,25213 A 19100,19100 0 0 0 39636,25185 L 41490,25601" />
 <clipPath id="wedge_12_3951_clip">
 <use href="#wedge_12_3951"/>
-</clipPath></defs><use href="#wedge_12_3951" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3951_clip)"/>
+</clipPath></defs><use href="#wedge_12_3951" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_3951_clip)"/>
 <defs>
 <path id="sector_12_1175" d="M 16587,2417 A 19100,19100 0 0 1 16615,2410 L 16891,3578 A 17900,17900 0 0 0 16864,3584 L 16587,2417" />
 <clipPath id="sector_12_1175_clip">
@@ -22045,7 +22221,7 @@ Thomas Lord (1585 - ?)
 <path id="wedge_12_3642" d="M 37131,34446 A 21000,21000 0 0 1 37110,34471 L 35652,33252 A 19100,19100 0 0 0 35671,33230 L 37131,34446" />
 <clipPath id="wedge_12_3642_clip">
 <use href="#wedge_12_3642"/>
-</clipPath></defs><use href="#wedge_12_3642" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3642_clip)"/>
+</clipPath></defs><use href="#wedge_12_3642" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_3642_clip)"/>
 <defs>
 <path id="sector_12_1838" d="M 2873,14981 A 19100,19100 0 0 1 2882,14953 L 4021,15333 A 17900,17900 0 0 0 4012,15359 L 2873,14981" />
 <clipPath id="sector_12_1838_clip">
@@ -22211,7 +22387,7 @@ Thomas Hatch (1596 - 1646)
 <path id="wedge_12_60" d="M 41908,19038 A 21000,21000 0 0 1 41911,19070 L 40019,19245 A 19100,19100 0 0 0 40016,19215 L 41908,19038" />
 <clipPath id="wedge_12_60_clip">
 <use href="#wedge_12_60"/>
-</clipPath></defs><use href="#wedge_12_60" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_60_clip)"/>
+</clipPath></defs><use href="#wedge_12_60" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_60_clip)"/>
 <defs>
 <path id="sector_12_1623" d="M 5800,9435 A 19100,19100 0 0 1 5817,9411 L 6771,10140 A 17900,17900 0 0 0 6755,10161 L 5800,9435" />
 <clipPath id="sector_12_1623_clip">
@@ -22419,7 +22595,7 @@ William Fellows (1609 - 1676)
 <path id="wedge_12_3944" d="M 41439,25821 A 21000,21000 0 0 1 41432,25852 L 39583,25413 A 19100,19100 0 0 0 39590,25385 L 41439,25821" />
 <clipPath id="wedge_12_3944_clip">
 <use href="#wedge_12_3944"/>
-</clipPath></defs><use href="#wedge_12_3944" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3944_clip)"/>
+</clipPath></defs><use href="#wedge_12_3944" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_3944_clip)"/>
 <defs>
 <path id="sector_12_1594" d="M 6329,8770 A 19100,19100 0 0 1 6348,8748 L 7268,9517 A 17900,17900 0 0 0 7251,9539 L 6329,8770" />
 <clipPath id="sector_12_1594_clip">
@@ -22435,7 +22611,7 @@ Thomas Lord (1585 - ?)
 <path id="wedge_12_1594" d="M 4869,7554 A 21000,21000 0 0 1 4890,7529 L 6348,8748 A 19100,19100 0 0 0 6329,8770 L 4869,7554" />
 <clipPath id="wedge_12_1594_clip">
 <use href="#wedge_12_1594"/>
-</clipPath></defs><use href="#wedge_12_1594" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_1594_clip)"/>
+</clipPath></defs><use href="#wedge_12_1594" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_1594_clip)"/>
 <defs>
 <path id="sector_12_3926" d="M 39462,25896 A 19100,19100 0 0 1 39454,25925 L 38295,25615 A 17900,17900 0 0 0 38302,25589 L 39462,25896" />
 <clipPath id="sector_12_3926_clip">
@@ -22511,7 +22687,11 @@ Margery Stephens (1590 - 1643)
 Hannah Churchman (? - 1670)
 </textPath>
 </text>
-<!-- beyond_shape(nil, father, nil) -->
+<defs>
+<path id="wedge_13_7827" d="M 41187,26787 A 21000,21000 0 0 1 41182,26802 L 39356,26278 A 19100,19100 0 0 0 39360,26263 L 41187,26787" />
+<clipPath id="wedge_13_7827_clip">
+<use href="#wedge_13_7827"/>
+</clipPath></defs><use href="#wedge_13_7827" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_13_7827_clip)"/>
 <defs>
 <path id="sector_12_1371" d="M 11281,4557 A 19100,19100 0 0 1 11307,4543 L 11916,5577 A 17900,17900 0 0 0 11892,5590 L 11281,4557" />
 <clipPath id="sector_12_1371_clip">
@@ -22607,7 +22787,7 @@ Robert Stetson (1613 - 1703)
 <path id="wedge_12_48" d="M 41941,19423 A 21000,21000 0 0 1 41943,19455 L 40048,19595 A 19100,19100 0 0 0 40046,19566 L 41941,19423" />
 <clipPath id="wedge_12_48_clip">
 <use href="#wedge_12_48"/>
-</clipPath></defs><use href="#wedge_12_48" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_48_clip)"/>
+</clipPath></defs><use href="#wedge_12_48" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_12_48_clip)"/>
 <defs>
 <path id="sector_12_1918" d="M 2273,17245 A 19100,19100 0 0 1 2279,17216 L 3455,17454 A 17900,17900 0 0 0 3449,17481 L 2273,17245" />
 <clipPath id="sector_12_1918_clip">
@@ -22639,7 +22819,7 @@ John Proctor (1595 - 1672)
 <path id="wedge_12_3950" d="M 41483,25633 A 21000,21000 0 0 1 41476,25664 L 39623,25242 A 19100,19100 0 0 0 39629,25213 L 41483,25633" />
 <clipPath id="wedge_12_3950_clip">
 <use href="#wedge_12_3950"/>
-</clipPath></defs><use href="#wedge_12_3950" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_3950_clip)"/>
+</clipPath></defs><use href="#wedge_12_3950" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_3950_clip)"/>
 <defs>
 <path id="sector_12_3967" d="M 39733,24726 A 19100,19100 0 0 1 39727,24755 L 38551,24519 A 17900,17900 0 0 0 38556,24492 L 39733,24726" />
 <clipPath id="sector_12_3967_clip">
@@ -22912,7 +23092,7 @@ Thomas Chittenden (1584 - 1669)
 <path id="wedge_12_252" d="M 40438,13053 A 21000,21000 0 0 1 40450,13083 L 38691,13799 A 19100,19100 0 0 0 38680,13772 L 40438,13053" />
 <clipPath id="wedge_12_252_clip">
 <use href="#wedge_12_252"/>
-</clipPath></defs><use href="#wedge_12_252" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_12_252_clip)"/>
+</clipPath></defs><use href="#wedge_12_252" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_12_252_clip)"/>
 <defs>
 <path id="sector_12_1679" d="M 4863,10782 A 19100,19100 0 0 1 4879,10757 L 5892,11400 A 17900,17900 0 0 0 5877,11424 L 4863,10782" />
 <clipPath id="sector_12_1679_clip">
@@ -23435,7 +23615,7 @@ Thomas Chittenden (1584 - 1669)
 <path id="wedge_13_108" d="M 41927,19246 A 21000,21000 0 0 1 41928,19262 L 41230,19320 A 20300,20300 0 0 0 41229,19305 L 41927,19246" />
 <clipPath id="wedge_13_108_clip">
 <use href="#wedge_13_108"/>
-</clipPath></defs><use href="#wedge_13_108" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_13_108_clip)"/>
+</clipPath></defs><use href="#wedge_13_108" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_13_108_clip)"/>
 <defs>
 <path id="sector_13_3742" d="M 1440,15571 A 20300,20300 0 0 1 1444,15556 L 2600,15878 A 19100,19100 0 0 0 2596,15892 L 1440,15571" />
 <clipPath id="sector_13_3742_clip">
@@ -23478,7 +23658,7 @@ John Ayers (? - ?)
 <path id="wedge_13_3794" d="M 557,16195 A 21000,21000 0 0 1 561,16179 L 1242,16340 A 20300,20300 0 0 0 1239,16355 L 557,16195" />
 <clipPath id="wedge_13_3794_clip">
 <use href="#wedge_13_3794"/>
-</clipPath></defs><use href="#wedge_13_3794" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_13_3794_clip)"/>
+</clipPath></defs><use href="#wedge_13_3794" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_13_3794_clip)"/>
 <defs>
 <path id="sector_13_7935" d="M 40910,24960 A 20300,20300 0 0 1 40907,24976 L 39730,24741 A 19100,19100 0 0 0 39733,24726 L 40910,24960" />
 <clipPath id="sector_13_7935_clip">
@@ -23862,7 +24042,7 @@ John Ayers (? - ?)
 <path id="wedge_13_7890" d="M 41443,25805 A 21000,21000 0 0 1 41439,25821 L 40758,25660 A 20300,20300 0 0 0 40761,25645 L 41443,25805" />
 <clipPath id="wedge_13_7890_clip">
 <use href="#wedge_13_7890"/>
-</clipPath></defs><use href="#wedge_13_7890" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_13_7890_clip)"/>
+</clipPath></defs><use href="#wedge_13_7890" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_13_7890_clip)"/>
 <defs>
 <path id="sector_13_3795" d="M 1235,16370 A 20300,20300 0 0 1 1239,16355 L 2407,16630 A 19100,19100 0 0 0 2403,16644 L 1235,16370" />
 <clipPath id="sector_13_3795_clip">
@@ -24040,5 +24220,5 @@ James Chilton (1563 - 1620)
 <use href="#wedge_14_7622"/>
 </clipPath></defs><use href="#wedge_14_7622" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_14_7622_clip)"/>
 
-<!-- made new svg at 2025-01-29 04:09:40.410815Z -->
+<!-- made new svg at 2025-01-31 02:29:11.064056Z -->
 </svg>

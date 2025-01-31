@@ -6,7 +6,7 @@ defmodule CfsjksasWeb.CircleLive.NoShipView do
     # List people who came on ships but we don't know the ship
 
     # get the list of ids of people with ships
-    noships = Cfsjksas.Circle.GetPeople.no_ship_people()
+    noships = Enum.sort(Cfsjksas.Circle.GetPeople.no_ship_people())
 
     {:ok,
      socket

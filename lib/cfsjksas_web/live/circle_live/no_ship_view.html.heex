@@ -9,7 +9,7 @@ Eventually hotlink
     <th style="border: 1px solid black;"> ID </th>
     <th style="border: 1px solid black;"> Name </th>
 </tr>
- <%= for {id, name} <- @noships do %>
+ <%= for {name, id} <- @noships do %>
 <tr style="border: 1px solid black;">
   <td style="border: 1px solid black;"> <%= id %> </td>
   <td style="border: 1px solid black;"> <%= name %> </td>

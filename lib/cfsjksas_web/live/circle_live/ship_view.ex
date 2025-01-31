@@ -6,7 +6,7 @@ defmodule CfsjksasWeb.CircleLive.ShipView do
     # List people who came on ships
 
     # get the list of ids of people with ships
-    ships = Cfsjksas.Circle.GetPeople.ship_people()
+    ships = Enum.sort(Cfsjksas.Circle.GetPeople.ship_people())
 
     {:ok,
      socket
