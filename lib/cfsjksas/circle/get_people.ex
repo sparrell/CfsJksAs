@@ -53668,5 +53668,154 @@ defmodule Cfsjksas.Circle.GetPeople do
     brick_walls(rest, terminations ++ termination)
   end
 
+  def categorize() do
+    # categorize everyone as brickwall, known_ship, etc
+    all_people = Map.keys(@ancestors)
+    category_lists = categorize(all_people, {[],[],[],[],[],[],[]})
+  end
+  def categorize([], category_lists) do
+    # to do list is done
+    category_lists
+  end
+  def categorize([id | rest], categories) do
+    {has_ships, wo_ships, brickwalls_both, brickwalls_mother,
+      brickwalls_father, parents, normal} = categories
+    category = categorize_person(id)
+    # return updated lists
+    new_lists = case category do
+      :ship ->
+        {[id | has_ships],
+        wo_ships,
+        brickwalls_both,
+        brickwalls_mother,
+        brickwalls_father,
+        parents,
+        normal
+        }
+      :no_ship ->
+        {has_ships,
+        [id | wo_ships],
+        brickwalls_both,
+        brickwalls_mother,
+        brickwalls_father,
+        parents,
+        normal
+        }
+      :brickwall_both ->
+        {has_ships,
+        wo_ships,
+        [id | brickwalls_both],
+        brickwalls_mother,
+        brickwalls_father,
+        parents,
+        normal
+        }
+      :brickwall_mother ->
+        {has_ships,
+        wo_ships,
+        brickwalls_both,
+        [id | brickwalls_mother],
+        brickwalls_father,
+        parents,
+        normal
+        }
+      :brickwall_father ->
+        {has_ships,
+        wo_ships,
+        brickwalls_both,
+        brickwalls_mother,
+        [id | brickwalls_father],
+        parents,
+        normal
+        }
+      :parent ->
+        {has_ships,
+        wo_ships,
+        brickwalls_both,
+        brickwalls_mother,
+        brickwalls_father,
+        [id | parents],
+        normal
+        }
+      :normal ->
+        {has_ships,
+        wo_ships,
+        brickwalls_both,
+        brickwalls_mother,
+        brickwalls_father,
+        parents,
+        [id | normal]
+        }
+    end
+    # recurse
+    categorize(rest, new_lists)
+  end
+
+  def categorize_person(id) do
+    # dtermine if person is:
+    ## brickwall
+    ## immigrant with known ship
+    ## immigrant without ship
+    ## parent of immigrant (with or wo ship)
+    #
+    # depends on mother, father, and ship variables
+    # parent is done manually
+    person = @ancestors[id]
+    relations = person.relation_list
+    [relation | _others] = relations
+    gen = case relation do
+      # initial person special case
+      0 ->
+        0
+      _ ->
+        length(relation)
+    end
+    mother = Cfsjksas.Circle.GetRelations.mother(gen, relation)
+    father = Cfsjksas.Circle.GetRelations.father(gen, relation)
+    has_ship? = Map.has_key?(person, :ship)
+    categorize_person(id, has_ship?, mother, father, person)
+  end
+
+  def categorize_person(_id, true, _mother, _father, person) do
+    # has ship, further categorize
+    case person.ship do
+      :parent ->
+        :parent
+      :parent_w_ship ->
+        :parent
+      :parent_wo_ship ->
+        :parent
+      %{ship: nil} ->
+        :ship
+      _ ->
+        :no_ship
+      end
+  end
+  def categorize_person(_id, false, mother, father, _person)
+      when (mother != nil) and (father != nil) do
+    # no ship, has mother and father, so not an immigrant nor brickwall
+    :normal
+  end
+  def categorize_person(_id, _has_ship?, mother, father, _person)
+      when (mother == nil) and (father == nil) do
+    # brickwall since no parents, no ship
+    :brickwall_both
+  end
+  def categorize_person(_id, _has_ship?, mother, father, _person)
+      when (mother == nil) and (father != nil) do
+    # brickwall since no mother, no ship
+    :brickwall_mother
+  end
+  def categorize_person(_id, _has_ship?, mother, father, _person)
+      when (mother != nil) and (father == nil) do
+    # brickwall since no parents, no ship
+    :brickwall_father
+  end
+  def categorize_person(id, has_ship?, mother, father, person) do
+    #shouldn't get here
+    IO.inspect{id, has_ship?, mother, father}
+    IEx.pry()
+  end
+
 
 end
