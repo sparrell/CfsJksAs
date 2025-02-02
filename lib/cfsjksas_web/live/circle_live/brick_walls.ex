@@ -6,7 +6,8 @@ defmodule CfsjksasWeb.CircleLive.BrickWalls do
     # List brickwalls - line terminating before reaching immigration
 
     # get the list of ids of people with ships
-    brickwalls = Enum.sort(Cfsjksas.Circle.GetPeople.brick_walls())
+    #brickwalls = Enum.sort(Cfsjksas.Circle.GetPeople.brick_walls())
+    brickwalls = Enum.sort(Cfsjksas.Circle.GetPeople.brick_walls(),fn({x,_,_},{y,_,_}) -> Enum.sum(x) >= Enum.sum(y) end )
 
     {:ok,
      socket

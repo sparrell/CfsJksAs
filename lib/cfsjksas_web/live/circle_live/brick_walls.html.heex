@@ -10,14 +10,9 @@
 <tr style="border: 1px solid black;">
   <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
   <td style="border: 1px solid black;"> <%= name %> </td>
-  <td style="border: 1px solid black;"> <%= gens %> </td>
+  <td style="border: 1px solid black;"> <%= inspect(gens, charlists: :as_lists) %> </td>
 </tr>
  <% end %>
 </table>
 </p>
-<section>
-<p>
-<a href="/"><div class="btn btn-primary">Click here to go back to main page</div></a>
-</p>
-</section>
 

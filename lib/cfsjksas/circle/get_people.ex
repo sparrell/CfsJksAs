@@ -53539,67 +53539,21 @@ defmodule Cfsjksas.Circle.GetPeople do
 
   def no_ship_people() do
     # make list of immigrants wo ships
-    all_people = Map.keys(@ancestors)
-    no_ship_people(all_people, [])
-  end
-  def no_ship_people([], people) do
-    # done, return list
-    people
-  end
-  def no_ship_people([id | rest], people) do
-    person = @ancestors[id]
-    has_ship? = Map.has_key?(person, :ship)
-    no_ship_people(rest, people ++ is_ship(has_ship?, person, :noship))
-  end
+    {_has_ships, wo_ships, _brickwalls_both,
+      _brickwalls_mother, _brickwalls_father,
+      _parents, _normal
+    } = categorize()
+    Enum.map(wo_ships, fn x -> {x, get_name(@ancestors[x])} end)
 
+  end
 
   def ship_people() do
     # make list of people on ships
-    all_people = Map.keys(@ancestors)
-    ship_people(all_people, [])
-  end
-  def ship_people( [], ships) do
-    # done with everyone, return list that have ships
-    ships
-  end
-  def ship_people( [id | rest], ships) do
-    person = @ancestors[id]
-    has_ship? = Map.has_key?(person, :ship)
-    ship_people(rest, ships ++ is_ship(has_ship?, person, :ship))
-  end
-
-  def is_ship(false, _person, _flag) do
-    # no ship
-    []
-  end
-  def is_ship(true, %{ship: ship}, _flag)
-      when ship in [:parent, :parent_w_ship, :parent_wo_ship] do
-    # beyond immigrant
-    []
-  end
-  def is_ship(true, %{ship: nil}, :ship) do
-    # unknown ship
-    []
-  end
-  def is_ship(true, %{ship: nil} = person, :noship) do
-    # unknown ship
-    [{get_name(person), person.id}]
-  end
-  def is_ship(true, %{ship: %{name: nil}}, :ship) do
-    # unknown ship
-    []
-  end
-  def is_ship(true, %{ship: %{name: nil}} = person, :noship) do
-    # unknown ship
-    [{get_name(person), person.id}]
-  end
-  def is_ship(true, %{ship: %{name: ship_name}} = person, :ship) do
-    [{ship_name, get_name(person), person.id}]
-  end
-  def is_ship(true, %{ship: %{name: ship_name}}, :noship)
-        when ship_name != nil do
-    # has ship name
-    []
+    {has_ships, _wo_ships, _brickwalls_both,
+      _brickwalls_mother, _brickwalls_father,
+      _parents, _normal
+      } = categorize()
+    Enum.map(has_ships, fn x -> {@ancestors[x].ship.name, get_name(@ancestors[x]), x} end)
   end
 
   def get_name(person) do
@@ -53633,37 +53587,22 @@ defmodule Cfsjksas.Circle.GetPeople do
   end
   def brick_walls([id | rest], terminations) do
     person = @ancestors[id]
-    relations = person.relation_list
-    # arbitraily pick first relation
-    [relation | _others] = relations
-    brick_walls(id, rest, person, relation, terminations)
-  end
-  def brick_walls(_id, rest, _person, 0, terminations) do
-    # special edge case for initial person
-    # not termonation so recurse
-    brick_walls(rest, terminations)
-  end
-  def brick_walls(id, rest, person, relation, terminations) do
-    gen = length(relation)
-    mother = Cfsjksas.Circle.GetRelations.mother(gen, relation)
-    father = Cfsjksas.Circle.GetRelations.father(gen, relation)
-    has_ship? = Map.has_key?(person, :ship)
-    termination = case {has_ship?, mother, father} do
-      {true, _mother, _father} ->
-        # not a brick wall since has a ship
-        []
-      {false, true, true} ->
-        # not a brick wall since has mother and father
-        []
-      {false, _, _} ->
-        # brick wall since no ship
-        ## and either no father, or no mother, or neither
-
-        # gen data fyi
-        gen_data = inspect(Enum.map(person.relation_list, &length/1), charlists: false)
+    termination = case categorize_person(id) do
+      :normal -> []
+      :ship -> []
+      :no_ship -> []
+      :parent -> []
+      :brickwall_both ->
         # add data to list
-        [{gen_data, id, get_name(person)}]
-      end
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+      :brickwall_mother ->
+        # add data to list
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+      :brickwall_father ->
+        # add data to list
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+    end
+
     # recurse on with new terminations list
     brick_walls(rest, terminations ++ termination)
   end
@@ -53671,7 +53610,7 @@ defmodule Cfsjksas.Circle.GetPeople do
   def categorize() do
     # categorize everyone as brickwall, known_ship, etc
     all_people = Map.keys(@ancestors)
-    category_lists = categorize(all_people, {[],[],[],[],[],[],[]})
+    categorize(all_people, {[],[],[],[],[],[],[]})
   end
   def categorize([], category_lists) do
     # to do list is done
@@ -53778,18 +53717,7 @@ defmodule Cfsjksas.Circle.GetPeople do
 
   def categorize_person(_id, true, _mother, _father, person) do
     # has ship, further categorize
-    case person.ship do
-      :parent ->
-        :parent
-      :parent_w_ship ->
-        :parent
-      :parent_wo_ship ->
-        :parent
-      %{ship: nil} ->
-        :ship
-      _ ->
-        :no_ship
-      end
+    ship_info(person.ship)
   end
   def categorize_person(_id, false, mother, father, _person)
       when (mother != nil) and (father != nil) do
@@ -53817,5 +53745,23 @@ defmodule Cfsjksas.Circle.GetPeople do
     IEx.pry()
   end
 
+  def ship_info(:parent) do
+    :normal
+  end
+  def ship_info(:parent_wo_ship) do
+    :normal
+  end
+  def ship_info(:parent_w_ship) do
+    :normal
+  end
+  def ship_info(nil) do
+    :no_ship
+  end
+  def ship_info(%{name: nil}) do
+    :no_ship
+  end
+  def ship_info(_ship) do
+    :ship
+  end
 
 end
