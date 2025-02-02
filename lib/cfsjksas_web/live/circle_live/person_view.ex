@@ -1,6 +1,8 @@
 defmodule CfsjksasWeb.CircleLive.PersonView do
   use CfsjksasWeb, :live_view
 
+  require IEx
+
   @impl true
   def mount(params, _session, socket) do
     # show info for a person
@@ -31,7 +33,11 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       nil -> ""
       _ -> to_string(mother_result)
     end
-
+    get_urls? = Map.has_key?(person, :urls)
+    urls = case get_urls? do
+      false -> []
+      true -> Map.to_list(person.urls)
+    end
 
     {:ok,
      socket
@@ -42,6 +48,7 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
      |> assign(:given_name, given_name)
      |> assign(:father, father)
      |> assign(:mother, mother)
+     |> assign(:urls, urls)
     }
   end
 

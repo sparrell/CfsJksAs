@@ -1,25 +1,39 @@
-<h1 class="font-semibold text-3xl mb-4">Ancestor</h1>
+<h1 class="font-semibold text-3xl mb-4">Ancestor <%= @given_name %> <%= @surname %></h1>
 
-
-<h2>ID: <%= @person_of_interest %></h2>
-<h3><%= @given_name %> <%= @surname %></h3>
+<hr>
+<h2>ID: <%= @person_of_interest %>  <%= @given_name %> <%= @surname %></h2>
+<hr>
+<h2>Parents:</h2>
 <section>
-<p>
+<p style="margin-left: 20px;">
 Father: <a href={~p"/person?p=#{@father}"}> <%= @father %> </a>
 </p>
-<p>
+<p style="margin-left: 20px;">
 Mother: <a href={~p"/person?p=#{@mother}"}> <%= @mother %> </a>
 </p>
 </section>
+<hr>
+<h3>Useful Links for <%= @given_name %> <%= @surname %></h3>
+<section>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> Website </th>
+    <th style="border: 1px solid black;"> Link </th>
+</tr>
+ <%= for {web, link} <- @urls do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <%= web %> </td>
+  <td style="border: 1px solid black;"> <a href={link}> <%= link %> </a> </td>
+</tr>
+ <% end %>
+</table>
+</section>
+<hr>
+<h2>Details:</h2>
 <section>
 <p><pre>
 <%= @person_txt %>
 </pre></p>
-</section>
-<section>
-<p>
-<a href="/"><div class="btn btn-primary">Click here to go back to main page</div></a>
-</p>
 </section>
 
 

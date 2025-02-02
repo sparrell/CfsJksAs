@@ -3650,8 +3650,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Margaret /Unknown068/",
       mh_famc: nil,
       education: [],
-      event: [" 287\r\n2 TYPE Reference Number",
-       " 287\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I505",
       naturalized: nil,
       uid: "6CB1BF32-4E30-4DBD-8627-D4D5525E19FF",
@@ -3661,6 +3660,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 52-53",
       family_of_origin: nil,
       mh_id: "I505",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
         ["P", "M", "M", "M", "M", "M", "P", "P", "P", "M", "M"],
@@ -9787,6 +9787,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 65",
       family_of_origin: nil,
       mh_id: "I1626",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "P", "M", "P", "M", "M", "M", "M", "P", "P"],
         ["P", "M", "M", "P", "P", "M", "P", "M", "M", "P", "P"],
@@ -12085,6 +12086,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 71-72",
       family_of_origin: nil,
       mh_id: "I1097",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "M", "P", "P", "P", "M", "P", "P"],
         ["P", "M", "M", "P", "M", "P", "M", "M", "M", "P", "P"],
@@ -12799,8 +12801,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Andrew /Lester/",
       mh_famc: nil,
       education: [],
-      event: [" 427\r\n2 TYPE Reference Number",
-       " 427\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I661",
       naturalized: nil,
       uid: "F3DB667A-01DE-4550-948B-D52FC4878A5B",
@@ -12810,6 +12811,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I661",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "P", "P", "P"],
         ["P", "M", "M", "M", "M", "P", "P", "P", "P", "P", "P"],
@@ -14824,6 +14826,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 66-67",
       family_of_origin: nil,
       mh_id: "I768",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "P", "P", "M", "P", "M", "P"],
         ["P", "M", "M", "M", "M", "P", "P", "M", "P", "P", "P"],
@@ -16993,6 +16996,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 60-61",
       family_of_origin: nil,
       mh_id: "I558",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "P", "M", "M", "M", "M"],
         ["M", "M", "M", "M", "M", "M", "P", "M", "M", "M", "M"],
@@ -25099,8 +25103,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Barbara /Unknown015/",
       mh_famc: nil,
       education: [],
-      event: [" 434\r\n2 TYPE Reference Number",
-       " 434\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I669",
       naturalized: nil,
       uid: "BD288ACA-88D7-4927-A943-55086A0EBC4F",
@@ -25110,6 +25113,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I669",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "P", "P", "M"],
         ["P", "M", "M", "M", "M", "P", "P", "P", "P", "P", "M"],
@@ -42793,8 +42797,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Sarah /Unknown073/",
       mh_famc: nil,
       education: [],
-      event: [" 524\r\n2 TYPE Reference Number",
-       " 524\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I769",
       naturalized: nil,
       uid: "0FC0D1C0-0F09-46BF-96AC-D001729E1E06",
@@ -42804,6 +42807,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 62-63",
       family_of_origin: nil,
       mh_id: "I769",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "P", "P", "M", "P", "M", "M"],
         ["P", "M", "M", "M", "M", "P", "P", "M", "P", "P", "M"],
@@ -49098,6 +49102,11 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "78",
       family_of_origin: :f210,
       mh_id: "I181",
+      urls: %{
+        werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
+        myheritage: "https://www.myheritage.com/profile-20674952-23000181/charles-fisher-sparrell",
+        geni: "https://www.geni.com/people/Charles-Sparrell/6000000007500132430",
+      },
       relation_list: [0]
     },
     p1013: %{
@@ -53665,15 +53674,6 @@ defmodule Cfsjksas.Circle.GetPeople do
         brickwalls_mother,
         [id | brickwalls_father],
         parents,
-        normal
-        }
-      :parent ->
-        {has_ships,
-        wo_ships,
-        brickwalls_both,
-        brickwalls_mother,
-        brickwalls_father,
-        [id | parents],
         normal
         }
       :normal ->
