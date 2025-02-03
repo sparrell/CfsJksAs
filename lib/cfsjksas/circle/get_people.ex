@@ -49103,6 +49103,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       family_of_origin: :f210,
       mh_id: "I181",
       urls: %{
+        book: "Vol_02_Ships/V2_C1_Principals/1_Charles_Fisher_Sparrell",
         werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
         myheritage: "https://www.myheritage.com/profile-20674952-23000181/charles-fisher-sparrell",
         geni: "https://www.geni.com/people/Charles-Sparrell/6000000007500132430",
