@@ -48288,6 +48288,13 @@ defmodule Cfsjksas.Circle.GetPeople do
       family_of_origin: nil,
       mh_id: "I764",
       ship: %{name: "Mayflower", year: 1620},
+      urls: %{
+        book: "https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C2_Ships/01_Pilgrim_Ships/01_Mayflower/V2_C2_S1_1_William_Brewster",
+        werelate: "https://www.werelate.org/wiki/Person:William_Brewster_%283%29",
+        myheritage: "https://www.myheritage.com/profile-20674952-23000764/william-brewster",
+        geni: "https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109",
+        wikipedia: "https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)",
+      },
       relation_list: [
         ["P", "M", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P", "P"],
         ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "P"],
@@ -49103,7 +49110,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       family_of_origin: :f210,
       mh_id: "I181",
       urls: %{
-        book: "Vol_02_Ships/V2_C1_Principals/1_Charles_Fisher_Sparrell",
+        book: "https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/1_Charles_Fisher_Sparrell",
         werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
         myheritage: "https://www.myheritage.com/profile-20674952-23000181/charles-fisher-sparrell",
         geni: "https://www.geni.com/people/Charles-Sparrell/6000000007500132430",
@@ -53601,7 +53608,6 @@ defmodule Cfsjksas.Circle.GetPeople do
       :normal -> []
       :ship -> []
       :no_ship -> []
-      :parent -> []
       :brickwall_both ->
         # add data to list
         [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]

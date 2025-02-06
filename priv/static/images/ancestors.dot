@@ -1,0 +1,38 @@
+graph ancestors {
+labelloc="t"
+label="Ancestry of Charles, Jim, Ann"
+fontname="URW Chancery L, Apple Chancery, Comic Sans MS, cursive"
+layout=twopi; graph [ranksep=1 overlap=false];
+edge [penwidth=5 color="#f0f0ff"]
+node [style="filled" penwidth=0 fillcolor="#f0f0ffA0" fontcolor=indigo]
+cfs [label="Charles Fisher Sparrell\n(1928 - 2007)\n\nJames Kirkwood Sparrell\n(1932 - 2015)\n\nAnn Sparrell\n(1933 - 2023)" fontsize=100 fontcolor=black URL="https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/1_Charles_Fisher_Sparrell"]
+M [label="Marion F Fisher\n(1904 - 2002)" fontsize=100 fontcolor=deeppink URL=""]
+cfs -- M
+P [label="Herbert Kirkwood Sparrell\n(1899 - 1978)" fontsize=100 fontcolor=indigo URL=""]
+cfs -- P
+MM [label="Ida A Hurlburt\n(1874 - 1965)" fontsize=100 fontcolor=deeppink URL=""]
+M -- MM
+MP [label="Albert Amory Fisk Fisher\n(1854 - 1915)" fontsize=100 fontcolor=indigo URL=""]
+M -- MP
+PM [label="Lavinia Elizabeth Strong\n(1875 - 1941)" fontsize=100 fontcolor=deeppink URL=""]
+P -- PM
+PP [label="Charles Herbert Sparrell\n(1873 - 1961)" fontsize=100 fontcolor=indigo URL=""]
+P -- PP
+MMM [label="Martha Avery Edgecomb\n(1855 - 1939)" fontsize=100 fontcolor=deeppink URL=""]
+MM -- MMM
+MMP [label="Charles Henry Hurlburt\n(1849 - 1930)" fontsize=100 fontcolor=indigo URL=""]
+MM -- MMP
+MPM [label="Arvilla Gray\n(1808 - 1888)" fontsize=100 fontcolor=deeppink URL=""]
+MP -- MPM
+MPP [label="Albert Fisher\n(1812 - 1887)" fontsize=100 fontcolor=indigo URL=""]
+MP -- MPP
+PMM [label="Alice Virginia Edgecomb\n(1850 - 1914)" fontsize=100 fontcolor=deeppink URL=""]
+PM -- PMM
+PMP [label="Albert Randolph Strong\n(1845 - 1920)" fontsize=100 fontcolor=indigo URL=""]
+PM -- PMP
+PPM [label="Louisa K. Kerber\n(1852 - 1922)" fontsize=100 fontcolor=deeppink URL=""]
+PP -- PPM
+PPP [label="Herbert Kirkwood Sparrell\n(1847 - 1923)" fontsize=100 fontcolor=indigo URL=""]
+PP -- PPP
+c [label="© 2025 Duncan Sparrell" fontsize=12 shape=plain style="" fontcolor=gray]
+}
