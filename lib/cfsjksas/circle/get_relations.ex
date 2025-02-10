@@ -9517,7 +9517,7 @@ defmodule Cfsjksas.Circle.GetRelations do
       ["P", "M", "P", "P", "P", "P", "P", "P", "M", "M"] => %{
         id: :p1239,
         relation: ["P", "M", "P", "P", "P", "P", "P", "P", "M", "M"],
-        given_name: "Joanna \"Scant\" x",
+        given_name: "Joanna",
         surname: "Searle",
         birth_year: "1602",
         death_year: "1661",
@@ -17298,7 +17298,7 @@ defmodule Cfsjksas.Circle.GetRelations do
       ["M", "M", "P", "M", "P", "M", "M", "M", "M", "M", "M", "M"] => %{
         id: :p0040,
         relation: ["M", "M", "P", "M", "P", "M", "M", "M", "M", "M", "M", "M"],
-        given_name: "Mary \"Sarah\"",
+        given_name: "Mary Sarah",
         surname: "Newland",
         birth_year: "1609",
         death_year: "1674",

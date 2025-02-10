@@ -7,7 +7,7 @@ defmodule Cfsjksas.Dot.Get do
 
   @config %{
     0 => %{
-      font_size: "100",
+      font_size: "8",
       name1: "Charles Fisher Sparrell",
       date1: "(1928 - 2007)",
       name2: "James Kirkwood Sparrell",
@@ -16,54 +16,46 @@ defmodule Cfsjksas.Dot.Get do
       date3: "(1933 - 2023)"
     },
     1 => %{
-      font_size: "100",
+      font_size: "8",
     },
     2 => %{
-      font_size: "100",
+      font_size: "8",
     },
     3 => %{
-      font_size: "100",
+      font_size: "8",
     },
     4 => %{
-      font_size: "100",
+      font_size: "8",
     },
     5 => %{
-      font_size: "100",
+      font_size: "8",
     },
     6 => %{
-      font_size: "75",
+      font_size: "8",
     },
     7 => %{
-      font_size: "90pt",
-      stroke_width: "70",
+      font_size: "8",
     },
     8 => %{
-      font_size: "75pt",
-      stroke_width: "50",
+      font_size: "8",
     },
     9 => %{
-      font_size: "75pt",
-      stroke_width: "20",
+      font_size: "8",
     },
     10 => %{
-      font_size: "50pt",
-      stroke_width: "15",
+      font_size: "8",
     },
     11 => %{
-      font_size: "32pt",
-      stroke_width: "10",
+      font_size: "8",
     },
     12 => %{
-      font_size: "16pt",
-      stroke_width: "5",
+      font_size: "8",
     },
     13 => %{
-      font_size: "10pt",
-      stroke_width: "2",
+      font_size: "8",
     },
     14 => %{
-      font_size: "6pt",
-      stroke_width: "1",
+      font_size: "8",
     },
   }
 

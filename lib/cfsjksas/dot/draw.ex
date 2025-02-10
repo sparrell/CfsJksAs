@@ -1,6 +1,6 @@
 defmodule Cfsjksas.Dot.Draw do
   @moduledoc """
-  routines for creating graphviz twopi for each generation
+  routines for creating graphviz for each generation
   """
 
   require IEx
@@ -37,17 +37,17 @@ defmodule Cfsjksas.Dot.Draw do
     dot
   end
   def gen(dot, gen, [relation | rest]) do
-    IO.inspect(relation, label: "starting draw.gen=")
     config = Cfsjksas.Dot.Get.config(gen)
     fontsize = config.font_size
     id = Enum.join(relation)
     fontcolor = find_color(relation)
     person = Cfsjksas.Circle.GetRelations.data(gen, relation)
 
-    name = person.given_name <> " "
-    <> person.surname <> "\\n("
-    <> person.birth_year <> " - "
-    <> person.death_year <> ")"
+    name = not_nil(person.given_name) <> "\\n"
+    <> not_nil(person.surname) <> "\\n("
+    <> not_nil(person.birth_year) <> " - "
+    <> not_nil(person.death_year) <> ")"
+
 
     url = get_url(person)
 
@@ -106,6 +106,16 @@ defmodule Cfsjksas.Dot.Draw do
     # has url map so return "book" url
     person.urls.book
   end
+
+  defp not_nil(input) when is_binary(input) do
+    # is string so return as is
+    input
+  end
+  defp not_nil(input) when is_nil(input) do
+    # is empty so return blank space (maybe should return question mark?)
+    "?"
+  end
+
 
 
 end
