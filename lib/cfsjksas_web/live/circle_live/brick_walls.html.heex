@@ -5,12 +5,14 @@
     <th style="border: 1px solid black;"> ID </th>
     <th style="border: 1px solid black;"> Name </th>
     <th style="border: 1px solid black;"> gens </th>
+    <th style="border: 1px solid black;"> birthplace </th>
 </tr>
- <%= for {gens, id, name} <- @brickwalls do %>
+ <%= for {gens, id, name, birth} <- @brickwalls do %>
 <tr style="border: 1px solid black;">
   <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
   <td style="border: 1px solid black;"> <%= name %> </td>
   <td style="border: 1px solid black;"> <%= inspect(gens, charlists: :as_lists) %> </td>
+  <td style="border: 1px solid black;"> <%= birth %> </td>
 </tr>
  <% end %>
 </table>

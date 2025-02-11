@@ -1,0 +1,19 @@
+<h1 class="font-semibold text-3xl mb-4">Surnames</h1>
+<p>
+List of ancestor surnames.
+</p>
+<p>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> Surname </th>
+    <th style="border: 1px solid black;"> list of ids </th>
+</tr>
+ <%= for {surname, id_list} <- @surnames do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <%= surname %> </td>
+  <td style="border: 1px solid black;"> <%= inspect(id_list) %> </td>
+</tr>
+ <% end %>
+</table>
+</p>
+

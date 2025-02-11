@@ -11970,6 +11970,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "60-61",
       family_of_origin: nil,
       mh_id: "I1166",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "M", "P", "P", "P", "P"]]
     },
     p0435: %{
@@ -23592,6 +23593,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I750",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "P", "P", "P", "P"]]
     },
     p0507: %{
@@ -53589,6 +53591,15 @@ defmodule Cfsjksas.Circle.GetPeople do
     given <> " " <> surname
   end
 
+  def get_birthplace(person) do
+    case person.birth_place do
+      nil ->
+        "Unknown"
+      _ ->
+        person.birth_place
+    end
+  end
+
   def brick_walls() do
     # classify everyone as one of:
     ##   * not line termination
@@ -53610,13 +53621,13 @@ defmodule Cfsjksas.Circle.GetPeople do
       :no_ship -> []
       :brickwall_both ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person), get_birthplace(person)}]
       :brickwall_mother ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person), get_birthplace(person)}]
       :brickwall_father ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1), id, get_name(person)}]
+        [{Enum.map(person.relation_list, &length/1), id, get_name(person), get_birthplace(person)}]
     end
 
     # recurse on with new terminations list
@@ -53769,6 +53780,40 @@ defmodule Cfsjksas.Circle.GetPeople do
   end
   def ship_info(_ship) do
     :ship
+  end
+
+  def surnames() do
+    # find all the surnames and list who has each
+    all_people = Map.keys(@ancestors)
+    surnames(all_people, %{})
+  end
+  def surnames([], surname_map) do
+    # list empty so done
+    # turn surname_map into sorted list of lists
+    surname_map
+    |> Map.to_list()
+    |> Enum.sort()
+  end
+  def surnames([id | rest], surname_map) do
+    # get surname of this person
+    person = @ancestors[id]
+    surname = case person.surname do
+      nil ->
+        "Unknown"
+      _ ->
+        person.surname
+    end
+    # if surname in map, add this person otherwise add surname with this person
+    new_map = case Map.has_key?(surname_map, surname) do
+      false ->
+        Map.put_new(surname_map, surname, [id])
+      true ->
+        current = surname_map[id]
+        new = [id | current]
+        Map.put(surname_map, surname, new)
+    end
+    # recurse thru rest of people
+    surnames(rest, new_map)
   end
 
 end
