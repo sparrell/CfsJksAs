@@ -7347,17 +7347,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         mother: nil,
         sector: 281
       },
-      ["P", "M", "M", "P", "P", "P", "P", "P", "P", "M"] => %{
-        id: :p0910,
-        relation: ["P", "M", "M", "P", "P", "P", "P", "P", "P", "M"],
-        given_name: "Joan",
-        surname: "Unknown071",
-        birth_year: "?",
-        death_year: "1674",
-        father: nil,
-        mother: nil,
-        sector: 385
-      },
       ["P", "M", "M", "M", "M", "M", "M", "M", "P", "M"] => %{
         id: :p1008,
         relation: ["P", "M", "M", "M", "M", "M", "M", "M", "P", "M"],
@@ -7467,17 +7456,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         father: nil,
         mother: nil,
         sector: 854
-      },
-      ["M", "M", "M", "P", "P", "P", "P", "P", "P", "P"] => %{
-        id: :p0909,
-        relation: ["M", "M", "M", "P", "P", "P", "P", "P", "P", "P"],
-        given_name: "Nicholas",
-        surname: "Edgecombe",
-        birth_year: "1612",
-        death_year: "1649",
-        father: nil,
-        mother: nil,
-        sector: 896
       },
       ["P", "M", "P", "P", "P", "M", "P", "P", "M", "P"] => %{
         id: :p0559,
@@ -8095,17 +8073,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         mother: :p0267,
         sector: 458
       },
-      ["P", "M", "M", "P", "P", "P", "P", "P", "P", "P"] => %{
-        id: :p0909,
-        relation: ["P", "M", "M", "P", "P", "P", "P", "P", "P", "P"],
-        given_name: "Nicholas",
-        surname: "Edgecombe",
-        birth_year: "1612",
-        death_year: "1649",
-        father: nil,
-        mother: nil,
-        sector: 384
-      },
       ["M", "M", "M", "M", "M", "P", "P", "M", "M", "P"] => %{
         id: :p0264,
         relation: ["M", "M", "M", "M", "M", "P", "P", "M", "M", "P"],
@@ -8633,17 +8600,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         father: :p0300,
         mother: :p0566,
         sector: 990
-      },
-      ["M", "M", "M", "P", "P", "P", "P", "P", "P", "M"] => %{
-        id: :p0910,
-        relation: ["M", "M", "M", "P", "P", "P", "P", "P", "P", "M"],
-        given_name: "Joan",
-        surname: "Unknown071",
-        birth_year: "?",
-        death_year: "1674",
-        father: nil,
-        mother: nil,
-        sector: 897
       },
       ["P", "M", "M", "P", "P", "P", "M", "M", "P", "M"] => %{
         id: :p0880,
@@ -12838,17 +12794,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         mother: nil,
         sector: 2034
       },
-      ["P", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"] => %{
-        id: :p0700,
-        relation: ["P", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"],
-        given_name: "William",
-        surname: "Satterlee",
-        birth_year: "1610",
-        death_year: "1678",
-        father: nil,
-        mother: nil,
-        sector: 912
-      },
       ["P", "M", "M", "M", "M", "P", "P", "M", "P", "M", "M"] => %{
         id: :p0516,
         relation: ["P", "M", "M", "M", "M", "P", "P", "M", "P", "M", "M"],
@@ -13706,17 +13651,6 @@ defmodule Cfsjksas.Circle.GetRelations do
         father: nil,
         mother: nil,
         sector: 1857
-      },
-      ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"] => %{
-        id: :p0700,
-        relation: ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"],
-        given_name: "William",
-        surname: "Satterlee",
-        birth_year: "1610",
-        death_year: "1678",
-        father: nil,
-        mother: nil,
-        sector: 1936
       },
       ["M", "M", "M", "M", "M", "P", "M", "M", "P", "P", "M"] => %{
         id: :p0294,

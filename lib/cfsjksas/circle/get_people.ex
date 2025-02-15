@@ -791,6 +791,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 61-62",
       family_of_origin: nil,
       mh_id: "I1043",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "P", "P", "M", "P", "M", "P", "P"]]
     },
     p0362: %{
@@ -2255,6 +2256,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1035",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "P", "P", "P", "P", "M", "M", "P"]]
     },
     p0957: %{
@@ -3044,6 +3046,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 64-65",
       family_of_origin: nil,
       mh_id: "I1190",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
         ["M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"]
@@ -3149,8 +3152,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Miriam /Unknown079/",
       mh_famc: nil,
       education: [],
-      event: [" 265\r\n2 TYPE Reference Number",
-       " 265\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I481",
       naturalized: nil,
       uid: "F4330213-8ECA-4CD6-94D9-5DC436F606DF",
@@ -3160,6 +3162,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 66-67",
       family_of_origin: nil,
       mh_id: "I481",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "P", "P", "M", "M", "M", "M"]]
     },
     p0901: %{
@@ -5253,6 +5256,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I872",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "M", "P", "P", "P", "M", "M"]]
     },
     p0403: %{
@@ -6100,63 +6104,6 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_id: "I286",
       relation_list: [["M", "M"]]
     },
-    p0909: %{
-      death_cause: nil,
-      census: [],
-      ordained: [],
-      former_name: nil,
-      birth_source: nil,
-      sex: "M",
-      name_prefix: nil,
-      death_date: "1649",
-      given_name: "Nicholas",
-      death_place: "Plymouth, Devon, England, UK",
-      also_known_as: nil,
-      title: nil,
-      sources: [],
-      birth_place: "Plymouth, Devon, England, UK",
-      graduation: [],
-      death_source: nil,
-      immigration: nil,
-      __struct__: Cfsjksas.Circle.Person,
-      upd: nil,
-      baptism: nil,
-      married_name: nil,
-      residence: [],
-      christening: nil,
-      occupation: ["Brewer and Merchant"],
-      name_suffix: nil,
-      description: nil,
-      emigration: [],
-      death_note: nil,
-      mh_fams: ["F414"],
-      surname: "Edgecombe",
-      birth_date: "1612",
-      probate: nil,
-      mh_famc2: nil,
-      id: :p0909,
-      nickname: nil,
-      religion: nil,
-      notes: [],
-      buried: nil,
-      mh_name: "Nicholas /Edgecombe/",
-      mh_famc: nil,
-      education: [],
-      event: [],
-      rin: "MH:I1170",
-      naturalized: nil,
-      uid: "7B172DFD-C08A-448D-AFA3-E608ED2E9375",
-      family_of_procreation: [:f384],
-      birth_note: nil,
-      will: [],
-      death_age: "36-37",
-      family_of_origin: nil,
-      mh_id: "I1170",
-      relation_list: [
-        ["P", "M", "M", "P", "P", "P", "P", "P", "P", "P"],
-        ["M", "M", "M", "P", "P", "P", "P", "P", "P", "P"]
-      ]
-    },
     p0881: %{
       death_cause: nil,
       census: [],
@@ -6375,6 +6322,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "72-73",
       family_of_origin: nil,
       mh_id: "I625",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "M", "P", "P", "M", "P"],
         ["M", "M", "M", "M", "M", "M", "M", "P", "P", "M", "P"]
@@ -6602,6 +6550,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 37-38",
       family_of_origin: nil,
       mh_id: "I950",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "M", "P", "P", "M", "P"]]
     },
     p0516: %{
@@ -6834,6 +6783,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "54-55",
       family_of_origin: nil,
       mh_id: "I1651",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "M", "M", "M", "P", "M", "P", "P"]]
     },
     p1222: %{
@@ -7075,64 +7025,6 @@ defmodule Cfsjksas.Circle.GetPeople do
         ["M", "M", "M", "M", "M", "P", "P", "M", "M", "P", "P"],
         ["M", "M", "M", "M", "M", "M", "P", "P", "P", "P", "P"],
         ["P", "M", "P", "M", "M", "P", "M", "M", "P"]
-      ]
-    },
-    p0700: %{
-      death_cause: nil,
-      census: [],
-      ordained: [],
-      former_name: nil,
-      birth_source: nil,
-      sex: "M",
-      name_prefix: "Rev.",
-      death_date: "1678",
-      given_name: "William",
-      death_place: "Dorset, England, UK",
-      also_known_as: nil,
-      title: nil,
-      sources: [],
-      birth_place: "Silverton, Devonshire, England, UK",
-      graduation: [],
-      death_source: nil,
-      immigration: nil,
-      __struct__: Cfsjksas.Circle.Person,
-      upd: nil,
-      baptism: nil,
-      married_name: nil,
-      residence: [],
-      christening: nil,
-      occupation: [],
-      name_suffix: nil,
-      description: nil,
-      emigration: [],
-      death_note: nil,
-      mh_fams: ["F316"],
-      surname: "Satterlee",
-      birth_date: "1610",
-      probate: nil,
-      mh_famc2: nil,
-      id: :p0700,
-      nickname: nil,
-      religion: nil,
-      notes: [],
-      buried: nil,
-      mh_name: "William /Satterlee/",
-      mh_famc: nil,
-      education: [],
-      event: [" 696\r\n2 TYPE Reference Number",
-       " 695\r\n2 TYPE Reference Number"],
-      rin: "MH:I958",
-      naturalized: nil,
-      uid: "A55D3944-90E2-4699-8975-C9348C69D363",
-      family_of_procreation: [:f288],
-      birth_note: nil,
-      will: [],
-      death_age: "67-68",
-      family_of_origin: nil,
-      mh_id: "I958",
-      relation_list: [
-        ["P", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"],
-        ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P", "P"]
       ]
     },
     p0492: %{
@@ -9846,6 +9738,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "83-84",
       family_of_origin: :f141,
       mh_id: "I384",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "M", "M", "P", "P", "P", "P", "M"]]
     },
     p1284: %{
@@ -9956,6 +9849,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "82",
       family_of_origin: nil,
       mh_id: "I1225",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "M", "M", "M", "M", "P", "P"],
         ["M", "M", "M", "P", "M", "M", "M", "M", "P", "P"]
@@ -10013,6 +9907,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I951",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "M", "P", "P", "M", "M"]]
     },
     p0990: %{
@@ -11132,6 +11027,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 50-51",
       family_of_origin: nil,
       mh_id: "I818",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "M", "P", "P", "P", "M", "M"]]
     },
     p0457: %{
@@ -12411,8 +12307,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Dorothy /Unknown020/",
       mh_famc: nil,
       education: [],
-      event: [" 366\r\n2 TYPE Reference Number",
-       " 366\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I593",
       naturalized: nil,
       uid: "1D0F3E6A-D7DF-465F-8B4A-B58F86C57CDA",
@@ -12422,6 +12317,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I593",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "P", "P", "M", "P", "M", "M"]]
     },
     p0788: %{
@@ -12874,6 +12770,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: :f029,
       mh_id: "I429",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "P", "M", "M", "M", "P", "P", "M"]]
     },
     p1246: %{
@@ -13090,6 +12987,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I823",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "M", "M", "M", "P", "M"],
         ["M", "M", "M", "M", "P", "M", "M", "M", "M", "P", "M"]
@@ -13147,6 +13045,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "71",
       family_of_origin: nil,
       mh_id: "I1657",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "P", "P", "M", "M", "M", "P", "M", "M", "P", "P", "P"]
       ]
@@ -15285,6 +15184,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 86",
       family_of_origin: nil,
       mh_id: "I1660",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "M", "M", "M", "P", "P", "P", "M"]]
     },
     p0869: %{
@@ -15329,8 +15229,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Sarah /Unknown081/",
       mh_famc: nil,
       education: [],
-      event: [" 866\r\n2 TYPE Reference Number",
-       " 851\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I1130",
       naturalized: nil,
       uid: "10C7AD5C-52EE-4028-86A4-7DF382E676D1",
@@ -15340,6 +15239,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "87-88",
       family_of_origin: nil,
       mh_id: "I1130",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "P", "M", "P", "M", "M"],
         ["M", "M", "M", "P", "P", "P", "P", "M", "P", "M", "M"]
@@ -16885,6 +16785,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I606",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "P", "P", "M", "M", "M", "M"],
         ["M", "M", "M", "M", "P", "P", "P", "M", "M", "M", "M"]
@@ -18060,8 +17961,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "John /Lay/",
       mh_famc: nil,
       education: [],
-      event: [" 924\r\n2 TYPE Reference Number",
-       " 909\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I1194",
       naturalized: nil,
       uid: "9E6DFA3D-F2D3-4E47-904D-1EF76E8D0DC9",
@@ -18071,6 +17971,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "66-67",
       family_of_origin: nil,
       mh_id: "I1194",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "P", "M", "M", "P", "P"],
         ["M", "M", "M", "P", "P", "P", "P", "M", "M", "P", "P"]
@@ -19419,6 +19320,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "75",
       family_of_origin: :f142,
       mh_id: "I1051",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "P", "P", "P", "P", "M"],
         ["M", "M", "M", "M", "P", "M", "P", "P", "P", "P", "M"]
@@ -19701,6 +19603,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "72",
       family_of_origin: nil,
       mh_id: "I887",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P"],
         ["M", "M", "M", "M", "P", "P", "P", "P", "M", "M", "P"]
@@ -19860,8 +19763,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Hannah /Lincoln/",
       mh_famc: "F243",
       education: [],
-      event: [" 515\r\n2 TYPE Reference Number",
-       " 515\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I759",
       naturalized: nil,
       uid: "207FA799-D7A1-43CF-84BB-592D91B5C25D",
@@ -19926,6 +19828,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "51",
       family_of_origin: nil,
       mh_id: "I1147",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "P", "M", "P", "P"],
         ["M", "M", "M", "P", "P", "P", "M", "P", "M", "P", "P"]
@@ -20559,6 +20462,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 45-46",
       family_of_origin: nil,
       mh_id: "I188",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "M", "P", "P", "M", "P"],
         ["M", "M", "M", "P", "P", "P", "M", "M", "P", "P", "M", "P"]
@@ -22353,6 +22257,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 86-87",
       family_of_origin: nil,
       mh_id: "I834",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "P", "M", "P", "P", "P"],
         ["M", "M", "M", "M", "P", "M", "P", "M", "P", "P", "P"]
@@ -23366,6 +23271,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I916",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "M", "P", "M", "M", "P", "P"]]
     },
     p0456: %{
@@ -25345,6 +25251,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "86-87",
       family_of_origin: nil,
       mh_id: "I1168",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "M", "M", "P", "M", "M"],
         ["M", "M", "M", "P", "P", "P", "M", "M", "M", "P", "M", "M"]
@@ -25574,6 +25481,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I189",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "M", "P", "P", "M", "M"],
         ["M", "M", "M", "P", "P", "P", "M", "M", "P", "P", "M", "M"]
@@ -25841,8 +25749,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Prudence /Townsend/",
       mh_famc: nil,
       education: [],
-      event: [" 658\r\n2 TYPE Reference Number",
-       " 658\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I917",
       naturalized: nil,
       uid: "52CFA795-F89D-47DE-9D05-7EEE7240102C",
@@ -25852,6 +25759,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "89",
       family_of_origin: nil,
       mh_id: "I917",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "M", "P", "M", "M", "P", "M"]]
     },
     p0458: %{
@@ -26804,6 +26712,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "68",
       family_of_origin: nil,
       mh_id: "I539",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "P", "M", "M", "P", "M", "P"],
         ["M", "M", "M", "M", "M", "P", "M", "M", "P", "M", "P"]
@@ -27140,6 +27049,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 87-88",
       family_of_origin: nil,
       mh_id: "I1148",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "P", "M", "P", "M"],
         ["M", "M", "M", "P", "P", "P", "M", "P", "M", "P", "M"]
@@ -27982,8 +27892,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Mary /White/",
       mh_famc: nil,
       education: [],
-      event: [" 530\r\n2 TYPE Reference Number",
-       " 530\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I776",
       naturalized: nil,
       uid: "B76F89BB-2928-4089-A2AD-021705502DDB",
@@ -27993,6 +27902,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 61",
       family_of_origin: nil,
       mh_id: "I776",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "P", "P", "M", "P", "P", "M"]]
     },
     p0335: %{
@@ -28319,6 +28229,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1165",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "M", "M", "M", "M"],
         ["M", "M", "M", "P", "P", "P", "M", "M", "M", "M", "M"]
@@ -30392,6 +30303,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "60",
       family_of_origin: nil,
       mh_id: "I1151",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "M", "P", "M", "M"],
         ["M", "M", "M", "P", "P", "P", "M", "M", "P", "M", "M"]
@@ -30848,8 +30760,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Elizabeth /Smith/",
       mh_famc: nil,
       education: [],
-      event: [" 756\r\n2 TYPE Reference Number",
-       " 755\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I1025",
       naturalized: nil,
       uid: "3A126AC5-BE3D-42A3-9A29-DF79A1762B42",
@@ -30859,6 +30770,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1025",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "P", "P", "P", "M", "M", "P", "M"]]
     },
     p0795: %{
@@ -31702,6 +31614,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "71-72",
       family_of_origin: nil,
       mh_id: "I740",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "M", "P", "M", "P", "P", "P", "P"]]
     },
     p0275: %{
@@ -31803,8 +31716,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Walter /Woodworth/",
       mh_famc: nil,
       education: [],
-      event: [" 245\r\n2 TYPE Reference Number",
-       " 245\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I459",
       naturalized: nil,
       uid: "E4A3CF79-5727-440C-913E-D8FFCBBE4D23",
@@ -31814,6 +31726,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I459",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "P", "M", "M", "M", "P", "M", "P"]]
     },
     p0836: %{
@@ -32676,6 +32589,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 80-81",
       family_of_origin: nil,
       mh_id: "I836",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "P", "M", "P", "P", "M", "P"],
         ["M", "M", "M", "M", "P", "M", "P", "M", "P", "P", "M", "P"]
@@ -32846,6 +32760,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "44-45",
       family_of_origin: :f393,
       mh_id: "I1188",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "M", "P", "M"],
         ["M", "M", "M", "P", "P", "M", "M", "M", "M", "P", "M"]
@@ -34026,64 +33941,6 @@ defmodule Cfsjksas.Circle.GetPeople do
         ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P"]
       ]
     },
-    p0910: %{
-      death_cause: nil,
-      census: [],
-      ordained: [],
-      former_name: nil,
-      birth_source: nil,
-      sex: "F",
-      name_prefix: nil,
-      death_date: "1674",
-      given_name: "Joan",
-      death_place: "Plymouth, Devon, England, UK",
-      also_known_as: nil,
-      title: nil,
-      sources: [],
-      birth_place: "England, UK",
-      graduation: [],
-      death_source: nil,
-      immigration: nil,
-      __struct__: Cfsjksas.Circle.Person,
-      upd: nil,
-      baptism: nil,
-      married_name: nil,
-      residence: [],
-      christening: nil,
-      occupation: [],
-      name_suffix: nil,
-      description: nil,
-      emigration: [],
-      death_note: nil,
-      mh_fams: ["F414"],
-      surname: "Unknown071",
-      birth_date: nil,
-      probate: nil,
-      mh_famc2: nil,
-      id: :p0910,
-      nickname: nil,
-      religion: nil,
-      notes: [],
-      buried: nil,
-      mh_name: "Joan /Unknown071/",
-      mh_famc: nil,
-      education: [],
-      event: [" 904\r\n2 TYPE Reference Number",
-       " 889\r\n2 TYPE Reference Number"],
-      rin: "MH:I1171",
-      naturalized: nil,
-      uid: "4ABF1F43-9AA0-457A-B22E-4A7CDCE848D2",
-      family_of_procreation: [:f384],
-      birth_note: nil,
-      will: [],
-      death_age: nil,
-      family_of_origin: nil,
-      mh_id: "I1171",
-      relation_list: [
-        ["P", "M", "M", "P", "P", "P", "P", "P", "P", "M"],
-        ["M", "M", "M", "P", "P", "P", "P", "P", "P", "M"]
-      ]
-    },
     p0038: %{
       death_cause: nil,
       census: [],
@@ -34196,6 +34053,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 44-45",
       family_of_origin: nil,
       mh_id: "I522",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "P", "M", "M", "P"],
         ["M", "M", "M", "M", "M", "M", "P", "M", "M", "P"]
@@ -35561,6 +35419,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "73-74",
       family_of_origin: nil,
       mh_id: "I1277",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "M", "M", "P", "M", "P", "P"]]
     },
     p0961: %{
@@ -36016,6 +35875,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 82-83",
       family_of_origin: :f292,
       mh_id: "I518",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "P", "M", "P", "P"],
         ["M", "M", "M", "M", "M", "M", "P", "M", "P", "P"]
@@ -37762,6 +37622,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "75",
       family_of_origin: nil,
       mh_id: "I1023",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "P", "P", "P", "M", "P", "P", "P"]]
     },
     p0476: %{
@@ -37930,6 +37791,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1082",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "M", "M", "P", "P", "P", "M"],
         ["M", "M", "M", "P", "M", "M", "P", "P", "P", "M"]
@@ -38147,8 +38009,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Abigail /Pinney/",
       mh_famc: nil,
       education: [],
-      event: [" 274\r\n2 TYPE Reference Number",
-       " 274\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I491",
       naturalized: nil,
       uid: "70F90EEF-B120-491E-AA4D-6B5CC8F96351",
@@ -38158,6 +38019,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 58-59",
       family_of_origin: nil,
       mh_id: "I491",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "P", "P", "M", "P", "M", "M"]]
     },
     p0123: %{
@@ -38548,6 +38410,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "38",
       family_of_origin: :f389,
       mh_id: "I1179",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P"],
         ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P"]
@@ -39006,6 +38869,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1582",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "M", "M", "P", "P", "M", "M"]]
     },
     p0467: %{
@@ -39289,6 +39153,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 79-80",
       family_of_origin: nil,
       mh_id: "I956",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "M", "P", "M", "P", "M"]]
     },
     p0580: %{
@@ -43438,6 +43303,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "20-21",
       family_of_origin: nil,
       mh_id: "I1189",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "M", "P", "M", "P"],
         ["M", "M", "M", "P", "P", "M", "M", "M", "M", "P", "M", "P"]
@@ -44056,6 +43922,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I656",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "P", "P", "P", "P", "M", "P"],
         ["M", "M", "M", "M", "P", "M", "P", "P", "P", "P", "M", "P"]
@@ -44113,6 +43980,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 63-64",
       family_of_origin: nil,
       mh_id: "I1182",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "M", "M"],
         ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "M", "M"]
@@ -44337,6 +44205,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "About 42-43",
       family_of_origin: nil,
       mh_id: "I945",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "P", "P", "P", "P", "M"]]
     },
     p0260: %{
@@ -44960,6 +44829,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I918",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "M", "P", "P", "M", "P", "M", "M", "M", "P"]]
     },
     p0734: %{
@@ -46087,6 +45957,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I354",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "M", "P", "P", "P", "P", "P", "P", "P", "M"]]
     },
     p1274: %{
@@ -46870,6 +46741,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "79",
       family_of_origin: nil,
       mh_id: "I383",
+      ship: %{name: nil, year: nil},
       relation_list: [["P", "P", "P", "M", "M", "P", "P", "P", "P", "P"]]
     },
     p0220: %{
@@ -47373,6 +47245,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "45-46",
       family_of_origin: nil,
       mh_id: "I716",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "P", "M", "M", "P", "M", "M", "P", "P"],
         ["M", "M", "M", "M", "P", "M", "M", "P", "M", "M", "P", "P"]
@@ -48811,6 +48684,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "80-81",
       family_of_origin: nil,
       mh_id: "I1144",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "P", "P", "P", "M", "P", "P", "P", "P"],
         ["M", "M", "M", "P", "P", "P", "M", "P", "P", "P", "P"]
@@ -49171,6 +49045,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1274",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "M", "M", "P", "M", "M"],
         ["M", "M", "M", "M", "M", "M", "M", "M", "P", "M", "M"]
@@ -49562,6 +49437,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "87-88",
       family_of_origin: nil,
       mh_id: "I999",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "M", "P", "P", "P", "P"],
         ["M", "M", "M", "M", "M", "M", "M", "P", "P", "P", "P"]
@@ -51050,8 +50926,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       mh_name: "Joanna /Unknown069/",
       mh_famc: nil,
       education: [],
-      event: [" 576\r\n2 TYPE Reference Number",
-       " 576\r\n2 TYPE Reference Number"],
+      event: [],
       rin: "MH:I826",
       naturalized: nil,
       uid: "2984DA35-439D-41F4-A4E8-69571C6F0A81",
@@ -51061,6 +50936,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I826",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "P", "P", "M", "P", "M"],
         ["M", "M", "M", "M", "M", "M", "P", "P", "M", "P", "M"]
@@ -51799,6 +51675,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1270",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "M", "M", "M", "P"],
         ["M", "M", "M", "M", "M", "M", "M", "M", "M", "P"]
@@ -52862,6 +52739,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: "51-52",
       family_of_origin: nil,
       mh_id: "I944",
+      ship: %{name: nil, year: nil},
       relation_list: [["M", "P", "M", "M", "P", "P", "P", "P", "P"]]
     },
     p1010: %{
@@ -52916,6 +52794,7 @@ defmodule Cfsjksas.Circle.GetPeople do
       death_age: nil,
       family_of_origin: nil,
       mh_id: "I1271",
+      ship: %{name: nil, year: nil},
       relation_list: [
         ["P", "M", "M", "M", "M", "M", "M", "M", "M", "M"],
         ["M", "M", "M", "M", "M", "M", "M", "M", "M", "M"]
@@ -53797,23 +53676,118 @@ defmodule Cfsjksas.Circle.GetPeople do
   def surnames([id | rest], surname_map) do
     # get surname of this person
     person = @ancestors[id]
-    surname = case person.surname do
-      nil ->
-        "Unknown"
-      _ ->
-        person.surname
-    end
+    surname = get_surname(person.surname)
+
     # if surname in map, add this person otherwise add surname with this person
     new_map = case Map.has_key?(surname_map, surname) do
       false ->
         Map.put_new(surname_map, surname, [id])
       true ->
-        current = surname_map[id]
+        current = surname_map[surname]
         new = [id | current]
         Map.put(surname_map, surname, new)
     end
     # recurse thru rest of people
     surnames(rest, new_map)
+  end
+
+  def get_surname(nil) do
+    "Unknown"
+  end
+  def get_surname(name) do
+    # return unmodified if short
+    case String.length(name) < 8 do
+      true ->
+        name
+      false ->
+        <<head :: binary-size(7)>> <> _rest = name
+        # truncate if "Unknownxxx"
+        case head do
+          "Unknown" ->
+            "Unknown"
+          _ ->
+            name
+        end
+    end
+  end
+
+  def enhance("ships") do
+    # look for UK in birthplace and US in deathplace
+    all_people = Map.keys(@ancestors)
+    search(%{}, all_people)
+    |> format_ancestor_map()
+    |> Cfsjksas.Circle.Geprint.write_file(Path.join(:code.priv_dir(:cfsjksas), "static/images/ancestors_temp.txt"))
+  end
+  def enhance(_key) do
+    # key is just so don't run accidently
+    IO.inspect("wrong key, did you mean to run?")
+  end
+
+  def search(out, []) do
+    # done
+    out
+  end
+  def search(out, [id | rest]) do
+    # first pass, just print matches
+    person = @ancestors[id]
+    # skip people that have ship key
+    ship = Map.get(person, :ship, nil)
+    # skip people with no birthplace
+    birth = person.birth_place
+    # skip people with no deathplace
+    death = person.death_place
+
+    out
+    |> search(id, person, ship, birth, death)
+    |> search(rest)
+  end
+  def search(ancestors, id, person, ship, _birth, _death)
+      when ship != nil do
+    # to reach here, ship is valid, so no need to process further
+    Map.put_new(ancestors, id, person)
+  end
+  def search(ancestors, id, person, nil, nil, _death) do
+    # to reach here, no birth_place,  so no need to process further
+    Map.put_new(ancestors, id, person)
+  end
+  def search(ancestors, id, person, nil, _birth, nil) do
+    # to reach here, no death_place,  so no need to process further
+    Map.put_new(ancestors, id, person)
+  end
+  def search(ancestors, id, person, nil, birth, death) do
+    #to reach here, musth have non-nil birth and death places
+    uk_birth = String.contains?(birth, "UK")
+    us_death = String.contains?(death, "US")
+    if uk_birth and us_death do
+      # immigrant so update person with nil ship
+      new_person = Map.put_new(person, :ship, %{name: nil, year: nil})
+      Map.put_new(ancestors, id, new_person)
+    else
+      # not immigrant so don't update
+      Map.put_new(ancestors, id, person)
+    end
+  end
+
+  def format_ancestor_map(ancestors_in) do
+    # pretty print temp file with ancestor map
+    ## people are in sorted surname/given_name order
+    ## person keys are in alphabetical order
+    all_people = Enum.sort_by(Map.keys(ancestors_in), & {ancestors_in[&1].surname, ancestors_in[&1].given_name})
+    format_ancestor_map("\t@ancestors %{\n", ancestors_in, all_people) <> "}\n"
+  end
+  def format_ancestor_map(ancestors_out, _ancestors_in, []) do
+    # list emtpy, so done
+    ancestors_out
+  end
+  def format_ancestor_map(ancestors_out, ancestors_in, [id | rest]) do
+    # print person by alphabetized key
+    ancestors_out
+    <> "\t\t##############  " <> to_string(ancestors_in[id].given_name) <> " " <> to_string(ancestors_in[id].surname) <> "\n"
+    <> "\t\t" <> to_string(id) <> ": %{\n"
+    <> Cfsjksas.Circle.Geprint.print_person(ancestors_in[id])
+    <> "\t\t},\n"
+    # recurse
+    |> format_ancestor_map(ancestors_in, rest)
   end
 
 end

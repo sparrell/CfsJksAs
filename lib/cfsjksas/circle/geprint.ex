@@ -26,7 +26,7 @@ defmodule Cfsjksas.Circle.Geprint do
     text
   end
   def print_person(text, [this | rest], person) do
-    new = text <> inspect(this, pretty: true, limit: :infinity) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> "\n"
+    new = text <> "\t\t\t" <> inspect(this, pretty: true, limit: :infinity) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> "\n"
     print_person(new, rest, person)
   end
 
