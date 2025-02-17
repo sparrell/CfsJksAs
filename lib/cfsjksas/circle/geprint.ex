@@ -1,6 +1,6 @@
 defmodule Cfsjksas.Circle.Geprint do
   @doc """
-  pretty print
+  pretty print elixir data
   """
   require IEx
 

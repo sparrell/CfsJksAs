@@ -53711,83 +53711,10 @@ defmodule Cfsjksas.Circle.GetPeople do
     end
   end
 
-  def enhance("ships") do
-    # look for UK in birthplace and US in deathplace
-    all_people = Map.keys(@ancestors)
-    search(%{}, all_people)
-    |> format_ancestor_map()
-    |> Cfsjksas.Circle.Geprint.write_file(Path.join(:code.priv_dir(:cfsjksas), "static/images/ancestors_temp.txt"))
-  end
-  def enhance(_key) do
-    # key is just so don't run accidently
-    IO.inspect("wrong key, did you mean to run?")
+  def all_people_keys() do
+    # return list of all people's id's
+    Map.keys(@ancestors)
   end
 
-  def search(out, []) do
-    # done
-    out
-  end
-  def search(out, [id | rest]) do
-    # first pass, just print matches
-    person = @ancestors[id]
-    # skip people that have ship key
-    ship = Map.get(person, :ship, nil)
-    # skip people with no birthplace
-    birth = person.birth_place
-    # skip people with no deathplace
-    death = person.death_place
-
-    out
-    |> search(id, person, ship, birth, death)
-    |> search(rest)
-  end
-  def search(ancestors, id, person, ship, _birth, _death)
-      when ship != nil do
-    # to reach here, ship is valid, so no need to process further
-    Map.put_new(ancestors, id, person)
-  end
-  def search(ancestors, id, person, nil, nil, _death) do
-    # to reach here, no birth_place,  so no need to process further
-    Map.put_new(ancestors, id, person)
-  end
-  def search(ancestors, id, person, nil, _birth, nil) do
-    # to reach here, no death_place,  so no need to process further
-    Map.put_new(ancestors, id, person)
-  end
-  def search(ancestors, id, person, nil, birth, death) do
-    #to reach here, musth have non-nil birth and death places
-    uk_birth = String.contains?(birth, "UK")
-    us_death = String.contains?(death, "US")
-    if uk_birth and us_death do
-      # immigrant so update person with nil ship
-      new_person = Map.put_new(person, :ship, %{name: nil, year: nil})
-      Map.put_new(ancestors, id, new_person)
-    else
-      # not immigrant so don't update
-      Map.put_new(ancestors, id, person)
-    end
-  end
-
-  def format_ancestor_map(ancestors_in) do
-    # pretty print temp file with ancestor map
-    ## people are in sorted surname/given_name order
-    ## person keys are in alphabetical order
-    all_people = Enum.sort_by(Map.keys(ancestors_in), & {ancestors_in[&1].surname, ancestors_in[&1].given_name})
-    format_ancestor_map("\t@ancestors %{\n", ancestors_in, all_people) <> "}\n"
-  end
-  def format_ancestor_map(ancestors_out, _ancestors_in, []) do
-    # list emtpy, so done
-    ancestors_out
-  end
-  def format_ancestor_map(ancestors_out, ancestors_in, [id | rest]) do
-    # print person by alphabetized key
-    ancestors_out
-    <> "\t\t##############  " <> to_string(ancestors_in[id].given_name) <> " " <> to_string(ancestors_in[id].surname) <> "\n"
-    <> "\t\t" <> to_string(id) <> ": %{\n"
-    <> Cfsjksas.Circle.Geprint.print_person(ancestors_in[id])
-    <> "\t\t},\n"
-    # recurse
-    |> format_ancestor_map(ancestors_in, rest)
-  end
 
 end
