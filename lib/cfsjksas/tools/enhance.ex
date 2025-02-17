@@ -6,7 +6,7 @@ defmodule Cfsjksas.Tools.Enhance do
 
   def immigrant("ships") do
     # look for UK in birthplace and US in deathplace
-    all_people = Cfsjksas.Circle.GetPeople.all_people_keys()
+    all_people = Cfsjksas.Tools.GetPeople.all_people_keys()
     search(%{}, all_people)
     |> Cfsjksas.Tools.Print.format_ancestor_map()
     |> Cfsjksas.Tools.Print.write_file(Path.join(:code.priv_dir(:cfsjksas), "static/images/ancestors_temp.txt"))
@@ -27,7 +27,7 @@ defmodule Cfsjksas.Tools.Enhance do
   end
   def search(out, [id | rest]) do
     # look for UK in birthplace and US in deathplace
-    person = Cfsjksas.Circle.GetPeople.person(id)
+    person = Cfsjksas.Tools.GetPeople.person(id)
     # skip people that have ship key
     ship = Map.get(person, :ship, nil)
     # skip people with no birthplace

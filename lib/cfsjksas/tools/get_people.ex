@@ -1,4 +1,5 @@
-defmodule Cfsjksas.Circle.AncestorsTemp do
+defmodule Cfsjksas.Tools.GetPeople
+ do
   require IEx
 
 	@ancestors %{
