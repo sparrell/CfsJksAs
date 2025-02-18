@@ -7860,10 +7860,10 @@ Thomas Staples (1620 - 1688)
 </textPath>
 </text>
 <defs>
-<path id="wedge_11_1581" d="M 23954,41791 A 21000,21000 0 0 1 23890,41800 L 23257,37244 A 16400,16400 0 0 0 23307,37237 L 23954,41791" />
-<clipPath id="wedge_11_1581_clip">
-<use href="#wedge_11_1581"/>
-</clipPath></defs><use href="#wedge_11_1581" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_1581_clip)"/>
+<path id="wedge_10_790" d="M 23954,41791 A 21000,21000 0 0 1 23826,41809 L 23207,37251 A 16400,16400 0 0 0 23307,37237 L 23954,41791" />
+<clipPath id="wedge_10_790_clip">
+<use href="#wedge_10_790"/>
+</clipPath></defs><use href="#wedge_10_790" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_10_790_clip)"/>
 <defs>
 <path id="sector_10_774" d="M 21704,37385 A 16400,16400 0 0 1 21604,37389 L 21519,35090 A 14100,14100 0 0 0 21605,35087 L 21704,37385" />
 <clipPath id="sector_10_774_clip">
@@ -9048,6 +9048,11 @@ Margaret Unknown068 (1627 - 1680)
 John Strong (1613 - 1699)
 </textPath>
 </text>
+<defs>
+<path id="wedge_11_512" d="M 20936,0 A 21000,21000 0 0 1 21000,0 L 21000,4600 A 16400,16400 0 0 0 20950,4600 L 20936,0" />
+<clipPath id="wedge_11_512_clip">
+<use href="#wedge_11_512"/>
+</clipPath></defs><use href="#wedge_11_512" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_11_512_clip)"/>
 <defs>
 <path id="sector_10_273" d="M 19192,4700 A 16400,16400 0 0 1 19292,4689 L 19532,6977 A 14100,14100 0 0 0 19446,6986 L 19192,4700" />
 <clipPath id="sector_10_273_clip">
@@ -13145,7 +13150,7 @@ Mary Jobo (1610 - 1655)
 <path id="wedge_11_231" d="M 36901,7283 A 21000,21000 0 0 1 36943,7332 L 34590,9350 A 17900,17900 0 0 0 34554,9308 L 36901,7283" />
 <clipPath id="wedge_11_231_clip">
 <use href="#wedge_11_231"/>
-</clipPath></defs><use href="#wedge_11_231" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_231_clip)"/>
+</clipPath></defs><use href="#wedge_11_231" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_231_clip)"/>
 <defs>
 <path id="sector_11_545" d="M 19136,3197 A 17900,17900 0 0 1 19191,3192 L 19342,4684 A 16400,16400 0 0 0 19292,4689 L 19136,3197" />
 <clipPath id="sector_11_545_clip">
@@ -14179,7 +14184,7 @@ Anne Marsh (? - ?)
 <path id="wedge_11_607" d="M 14904,904 A 21000,21000 0 0 1 14966,886 L 15856,3855 A 17900,17900 0 0 0 15804,3871 L 14904,904" />
 <clipPath id="wedge_11_607_clip">
 <use href="#wedge_11_607"/>
-</clipPath></defs><use href="#wedge_11_607" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_607_clip)"/>
+</clipPath></defs><use href="#wedge_11_607" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_607_clip)"/>
 <defs>
 <path id="sector_11_1959" d="M 38252,25774 A 17900,17900 0 0 1 38237,25827 L 36792,25423 A 16400,16400 0 0 0 36806,25374 L 38252,25774" />
 <clipPath id="sector_11_1959_clip">
@@ -14496,22 +14501,6 @@ Ephraim Wheeler (1619 - 1670)
 <clipPath id="wedge_11_1812_clip">
 <use href="#wedge_11_1812"/>
 </clipPath></defs><use href="#wedge_11_1812" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_1812_clip)"/>
-<defs>
-<path id="sector_11_1580" d="M 23463,38730 A 17900,17900 0 0 1 23409,38737 L 23207,37251 A 16400,16400 0 0 0 23257,37244 L 23463,38730" />
-<clipPath id="sector_11_1580_clip">
-<use href="#sector_11_1580"/>
-</clipPath></defs><use href="#sector_11_1580" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_1580_clip)"/>
-<path id="ray_g11_s1580" d="M 23232,37247 L 23436,38733" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s1580" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Christopher Staples (1593 - 1635)
-</textPath>
-</text>
-<defs>
-<path id="wedge_11_1580" d="M 23890,41800 A 21000,21000 0 0 1 23826,41809 L 23409,38737 A 17900,17900 0 0 0 23463,38730 L 23890,41800" />
-<clipPath id="wedge_11_1580_clip">
-<use href="#wedge_11_1580"/>
-</clipPath></defs><use href="#wedge_11_1580" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1580_clip)"/>
 <defs>
 <path id="sector_11_1918" d="M 37516,27901 A 17900,17900 0 0 1 37495,27951 L 36113,27369 A 16400,16400 0 0 0 36132,27322 L 37516,27901" />
 <clipPath id="sector_11_1918_clip">
@@ -15150,7 +15139,7 @@ Thoms Staples (? - ?)
 <path id="wedge_11_1578" d="M 23762,41818 A 21000,21000 0 0 1 23698,41826 L 23300,38752 A 17900,17900 0 0 0 23355,38744 L 23762,41818" />
 <clipPath id="wedge_11_1578_clip">
 <use href="#wedge_11_1578"/>
-</clipPath></defs><use href="#wedge_11_1578" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_1578_clip)"/>
+</clipPath></defs><use href="#wedge_11_1578" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_1578_clip)"/>
 <defs>
 <path id="sector_11_896" d="M 4442,14201 A 17900,17900 0 0 1 4463,14150 L 5848,14724 A 16400,16400 0 0 0 5829,14771 L 4442,14201" />
 <clipPath id="sector_11_896_clip">
@@ -18701,22 +18690,6 @@ Robert Lay (1617 - 1689)
 <clipPath id="wedge_11_794_clip">
 <use href="#wedge_11_794"/>
 </clipPath></defs><use href="#wedge_11_794" stroke="aqua" stroke-width="1" fill="aqua" fill-opacity="100%" clip-path="url(#wedge_11_794_clip)"/>
-<defs>
-<path id="sector_11_512" d="M 20945,3100 A 17900,17900 0 0 1 21000,3100 L 21000,4600 A 16400,16400 0 0 0 20950,4600 L 20945,3100" />
-<clipPath id="sector_11_512_clip">
-<use href="#sector_11_512"/>
-</clipPath></defs><use href="#sector_11_512" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_512_clip)"/>
-<path id="ray_g11_s512" d="M 20973,3100 L 20975,4600" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s512" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Richard Strong, I (1585 - 1613)
-</textPath>
-</text>
-<defs>
-<path id="wedge_11_512" d="M 20936,0 A 21000,21000 0 0 1 21000,0 L 21000,3100 A 17900,17900 0 0 0 20945,3100 L 20936,0" />
-<clipPath id="wedge_11_512_clip">
-<use href="#wedge_11_512"/>
-</clipPath></defs><use href="#wedge_11_512" stroke="red" stroke-width="1" fill="red" fill-opacity="100%" clip-path="url(#wedge_11_512_clip)"/>
 <defs>
 <path id="sector_11_910" d="M 4165,14918 A 17900,17900 0 0 1 4184,14866 L 5593,15380 A 16400,16400 0 0 0 5576,15428 L 4165,14918" />
 <clipPath id="sector_11_910_clip">
@@ -23367,5 +23340,5 @@ James Chilton (1563 - 1620)
 <use href="#wedge_14_7622"/>
 </clipPath></defs><use href="#wedge_14_7622" stroke="blue" stroke-width="1" fill="blue" fill-opacity="100%" clip-path="url(#wedge_14_7622_clip)"/>
 
-<!-- made new svg at 2025-02-18 16:35:27.507845Z -->
+<!-- made new svg at 2025-02-18 16:50:18.426291Z -->
 </svg>
