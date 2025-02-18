@@ -32,6 +32,9 @@ defmodule Cfsjksas.Circle.Draw do
   defp add_ancestor(svg, gen, [this | rest]) do
     # process "this" ancestor
     person = Cfsjksas.Circle.GetRelations.data(gen,this)
+    if not is_map(person) do
+      IEx.pry()
+    end
     fill = "none"
     fill_opacity = "0%"
     line_color = find_line_color(this)
