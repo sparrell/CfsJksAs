@@ -7,10 +7,12 @@ defmodule CfsjksasWeb.CircleLive.NoShipView do
 
     # get the list of ids of people with ships
     noships = Enum.sort(Cfsjksas.Tools.GetPeople.no_ship_people())
+    quantity = length(noships)
 
     {:ok,
      socket
      |> assign(:noships, noships)
+     |> assign(:quantity, quantity)
     }
   end
 

@@ -1,0 +1,23 @@
+<h1 class="font-semibold text-3xl mb-4">Statistics</h1>
+<p>
+<%= @quantity_total_ancestors %> total ancestors.
+Note this includes duplicates because ancestor of one line married ancestors of another.
+</p>
+<p>
+Removing duplicates yeilds <%= @quantity_total_people %> unique people.
+</p>
+<p>
+<%= @quanity_has_ships %> ancestors were immigrants where we know what ship they came on.
+</p>
+<p>
+<%= @quanity_wo_ships %> ancestors were immigrants where we do not know what ship they came on.
+</p>
+<p>
+<%= @quanity_brickwalls %> ancestors are "brick walls" ie the line terminates and we don't know the ancestors back to immigration.
+</p>
+<p>
+<%= @quanity_normal %> is everyone else ie the ancestors forming the ancestral line to get to the immigrants or brickwalls.
+</p>
+<p>
+<%= @quanity_surnames %> ancestor surnames.
+</p>

@@ -18120,5 +18120,20 @@ defmodule Cfsjksas.Circle.GetRelations do
     length(relation)
   end
 
+  def all_ancestor_keys() do
+    gens = Map.keys(@ancestor_relations)
+    all_ancestor_keys(gens, [])
+  end
+  def all_ancestor_keys([], ancestors) do
+    # gen list empty so done
+    ancestors
+  end
+  def all_ancestor_keys([gen | rest], ancestors) do
+    this_gen_list = Map.keys(@ancestor_relations[gen])
+    tuple_list = Enum.map(this_gen_list, fn(x) -> {gen, x} end)
+    # add to ancestors and recurse
+    all_ancestor_keys(rest, ancestors ++ tuple_list)
+  end
+
 
 end

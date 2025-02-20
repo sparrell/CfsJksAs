@@ -7,10 +7,12 @@ defmodule CfsjksasWeb.CircleLive.Surnames do
 
     # get the list of ids of people with ships
     surnames = Cfsjksas.Tools.GetPeople.surnames()
+    quanity = length(surnames)
 
     {:ok,
      socket
      |> assign(:surnames, surnames)
+     |> assign(:quanity, quanity)
     }
   end
 
