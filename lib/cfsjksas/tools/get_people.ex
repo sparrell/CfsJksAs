@@ -51537,6 +51537,15 @@ defmodule Cfsjksas.Tools.GetPeople
     Enum.map(has_ships, fn x -> {@ancestors[x].ship.name, get_name(@ancestors[x]), x} end)
   end
 
+  def intermediate_people() do
+    # make list of non-terminations
+    {_has_ships, _wo_ships, _brickwalls_both,
+      _brickwalls_mother, _brickwalls_father,
+      _parents, normal
+      } = categorize()
+    Enum.map(normal, fn x -> {get_name(@ancestors[x]), x} end)
+  end
+
   def get_name(person) do
     given = case person.given_name do
       nil ->

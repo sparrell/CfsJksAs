@@ -25,6 +25,9 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     surnames = Cfsjksas.Tools.GetPeople.surnames()
     quanity_surnames = length(surnames)
 
+    # get list of ancestors per generation
+    gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Circle.GetRelations.person_list(gen))}
+
     {:ok,
      socket
      |> assign(:quantity_total_people, quantity_total_people)
@@ -34,6 +37,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
      |> assign(:quanity_brickwalls, quanity_brickwalls)
      |> assign(:quanity_normal, quanity_normal)
      |> assign(:quanity_surnames, quanity_surnames)
+     |> assign(:gen_num, gen_num)
     }
   end
 

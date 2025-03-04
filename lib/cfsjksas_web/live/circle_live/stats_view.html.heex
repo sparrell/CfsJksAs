@@ -1,23 +1,42 @@
 <h1 class="font-semibold text-3xl mb-4">Statistics</h1>
 <p>
-<%= @quantity_total_ancestors %> total ancestors.
-Note this includes duplicates because ancestor of one line married ancestors of another.
+<strong><%= @quantity_total_ancestors %></strong> total ancestors (including duplicates where lines intermarry).
 </p>
 <p>
-Removing duplicates yeilds <%= @quantity_total_people %> unique people.
+Removing duplicates yeilds <strong><%= @quantity_total_people %></strong> unique people.
 </p>
+<ul style="list-style-type:disc; list-style-position: inside;">
+<li>
+Click <a href="/ships"><strong>here</strong></a> 
+to see the <strong><%= @quanity_has_ships %></strong> 
+immigrant ancestors where we know what ship they came on.
+</li>
+<li>
+Click <a href="/noships"><strong>here</strong></a> to see the
+<strong><%= @quanity_wo_ships %></strong> 
+immigrant ancestors but unknown what ship they came on.
+</li>
+<li>
+Click <a href="/brickwalls"><strong>here</strong></a> to see the
+<strong><%= @quanity_brickwalls %> </strong>
+brickwalls ie the line terminates pre-ship.
+</li>
+<li>
+Click <a href="/intermediates"><strong>here</strong></a> to see the
+<strong><%= @quanity_normal %></strong> intermediates.
+</li>
+<li>
+Click <a href="/surnames"><strong>here</strong></a> to see the
+<strong><%= @quanity_surnames %></strong> ancestor surnames
+</li>
+</ul>
 <p>
-<%= @quanity_has_ships %> ancestors were immigrants where we know what ship they came on.
+Ancestors per generation
 </p>
-<p>
-<%= @quanity_wo_ships %> ancestors were immigrants where we do not know what ship they came on.
-</p>
-<p>
-<%= @quanity_brickwalls %> ancestors are "brick walls" ie the line terminates and we don't know the ancestors back to immigration.
-</p>
-<p>
-<%= @quanity_normal %> is everyone else ie the ancestors forming the ancestral line to get to the immigrants or brickwalls.
-</p>
-<p>
-<%= @quanity_surnames %> ancestor surnames.
-</p>
+<table style="border: 1px solid black;">
+ <th><td>Gen</td><td>Num</td></th>
+ <%= for {gen, num} <- @gen_num do %>
+  <tr><td><%= gen %></td><td><%= num %></td></tr>
+ <% end %>
+</table>
+

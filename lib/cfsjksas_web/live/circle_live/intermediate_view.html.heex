@@ -1,0 +1,19 @@
+ <h1 class="font-semibold text-3xl mb-4">Intermediate People</h1>
+<p>
+List of <%= @quantity %> intermediate people.
+</p>
+<p>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> ID </th>
+    <th style="border: 1px solid black;"> Name </th>
+</tr>
+ <%= for {name, id} <- @intermediates do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
+  <td style="border: 1px solid black;"> <%= name %> </td>
+</tr>
+ <% end %>
+</table>
+</p>
+

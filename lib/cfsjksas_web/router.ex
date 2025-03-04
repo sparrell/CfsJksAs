@@ -18,7 +18,6 @@ defmodule CfsjksasWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
-    live "/circle", CircleLive.AncestorView, :home
     live "/person", CircleLive.PersonView, :home
     live "/ships", CircleLive.ShipView, :home
     live "/noships", CircleLive.NoShipView, :home
@@ -26,6 +25,7 @@ defmodule CfsjksasWeb.Router do
     live "/charts", CircleLive.Charts, :home
     live "/surnames", CircleLive.Surnames, :home
     live "/stats", CircleLive.StatsView, :home
+    live "/intermediates", CircleLive.IntermediateView, :home
   end
 
   # Other scopes may use custom stacks.

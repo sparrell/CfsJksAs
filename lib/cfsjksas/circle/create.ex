@@ -8,28 +8,32 @@ defmodule Cfsjksas.Circle.Create do
   Input: ancestor relations map
   Output: svg text for circle diagram
   """
-  def main() do
+  def main(chart, filename) do
     IO.inspect("made it to create.main")
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/images/" <> filename)
+
 
     svg_beg()
     |> Cfsjksas.Circle.RefCircles.make()
     |> Cfsjksas.Circle.Draw.gen()
-    |> Cfsjksas.Circle.Draw.gen(1)
-    |> Cfsjksas.Circle.Draw.gen(2)
-    |> Cfsjksas.Circle.Draw.gen(3)
-    |> Cfsjksas.Circle.Draw.gen(4)
-    |> Cfsjksas.Circle.Draw.gen(5)
-    |> Cfsjksas.Circle.Draw.gen(6)
-    |> Cfsjksas.Circle.Draw.gen(7)
-    |> Cfsjksas.Circle.Draw.gen(8)
-    |> Cfsjksas.Circle.Draw.gen(9)
-    |> Cfsjksas.Circle.Draw.gen(10)
-    |> Cfsjksas.Circle.Draw.gen(11)
-    |> Cfsjksas.Circle.Draw.gen(12)
-    |> Cfsjksas.Circle.Draw.gen(13)
-    |> Cfsjksas.Circle.Draw.gen(14)
+    |> Cfsjksas.Circle.Draw.gen(1, chart)
+    |> Cfsjksas.Circle.Draw.gen(2, chart)
+    |> Cfsjksas.Circle.Draw.gen(3, chart)
+    |> Cfsjksas.Circle.Draw.gen(4, chart)
+    |> Cfsjksas.Circle.Draw.gen(5, chart)
+    |> Cfsjksas.Circle.Draw.gen(6, chart)
+    |> Cfsjksas.Circle.Draw.gen(7, chart)
+    |> Cfsjksas.Circle.Draw.gen(8, chart)
+    |> Cfsjksas.Circle.Draw.gen(9, chart)
+    |> Cfsjksas.Circle.Draw.gen(10, chart)
+    |> Cfsjksas.Circle.Draw.gen(11, chart)
+    |> Cfsjksas.Circle.Draw.gen(12, chart)
+    |> Cfsjksas.Circle.Draw.gen(13, chart)
+    |> Cfsjksas.Circle.Draw.gen(14, chart)
     |> svg_end()
-    |> Cfsjksas.Circle.Geprint.write_file(Cfsjksas.Circle.Get.path(:ancestors_svg))
+    |> Cfsjksas.Circle.Geprint.write_file(filepath)
+
+    IO.inspect(filename, label: "created chart")
   end
 
   defp svg_beg() do

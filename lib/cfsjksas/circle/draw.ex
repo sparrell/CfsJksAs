@@ -17,26 +17,34 @@ defmodule Cfsjksas.Circle.Draw do
     svg <> sector.svg
   end
 
-  def gen(svg, gen) do
+  def gen(svg, gen, chart) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
     this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
     # recurse thru each one.
-    add_ancestor(svg, gen, this_gen_list)
+    add_ancestor(svg, gen, chart, this_gen_list)
   end
 
-  defp add_ancestor(svg, _gen, []) do
+  defp add_ancestor(svg, _gen, _chart, []) do
     # done with this gen, return
     svg
   end
-  defp add_ancestor(svg, gen, [this | rest]) do
+  defp add_ancestor(svg, gen, chart, [this | rest]) do
     # process "this" ancestor
     person = Cfsjksas.Circle.GetRelations.data(gen,this)
-    if not is_map(person) do
-      IEx.pry()
+
+    {fill, fill_opacity} = case chart do
+      :base ->
+        {"none", "0%"}
+      :ship ->
+        {"none", "0%"}
+      :duplicates ->
+        # determine if duplicate
+        color_dups(person.id)
+      :wo_duplicates ->
+        {"none", "0%"}
     end
-    fill = "none"
-    fill_opacity = "0%"
+
     line_color = find_line_color(this)
 
     # make shape
@@ -47,10 +55,10 @@ defmodule Cfsjksas.Circle.Draw do
     svg = svg <> Cfsjksas.Circle.Sector.add_name(gen, person, sector)
 
     # add boat/brickwall if appropiate
-    svg = svg <> Cfsjksas.Circle.ShipHighlight.beyond(gen, sector, this, person)
+    svg = add_boat(chart, svg, gen, sector, this, person)
 
     # recurse thru rest of ancestors in this generation
-    add_ancestor(svg, gen, rest)
+    add_ancestor(svg, gen, chart, rest)
   end
 
   defp find_line_color(relation) do
@@ -63,5 +71,31 @@ defmodule Cfsjksas.Circle.Draw do
         IEx.pry()
     end
   end
+
+  defp add_boat(:base, svg, _gen, _sector, _this, _person) do
+    # don't add anything on base
+    svg
+  end
+  defp add_boat(:ship, svg, gen, sector, this, person) do
+    svg <> Cfsjksas.Circle.ShipHighlight.beyond(gen, sector, this, person)
+  end
+  defp add_boat(:duplicates, svg, gen, sector, this, person) do
+    svg <> Cfsjksas.Circle.ShipHighlight.beyond(gen, sector, this, person)
+  end
+  defp add_boat(:wo_duplicates, svg, gen, sector, this, person) do
+    svg <> Cfsjksas.Circle.ShipHighlight.beyond(gen, sector, this, person)
+  end
+
+  defp color_dups(id) do
+    # determine if person appears more than one time, color green if they do
+    person = Cfsjksas.Tools.GetPeople.person(id)
+    case length(person.relation_list) do
+      1 ->
+        {"none", "0%"}
+      _ ->
+        {"green", "50%"}
+    end
+  end
+
 
 end
