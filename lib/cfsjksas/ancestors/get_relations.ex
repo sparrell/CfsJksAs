@@ -1,4 +1,4 @@
-defmodule Cfsjksas.Circle.GetRelations do
+defmodule Cfsjksas.Ancestors.GetRelations do
   require IEx
   @ancestor_relations %{
     0 => %{

@@ -20,7 +20,7 @@ defmodule Cfsjksas.Circle.Draw do
   def gen(svg, gen, chart) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
-    this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
+    this_gen_list = Cfsjksas.Ancestors.GetRelations.person_list(gen)
     # recurse thru each one.
     add_ancestor(svg, gen, chart, this_gen_list)
   end
@@ -31,7 +31,22 @@ defmodule Cfsjksas.Circle.Draw do
   end
   defp add_ancestor(svg, gen, chart, [this | rest]) do
     # process "this" ancestor
-    person = Cfsjksas.Circle.GetRelations.data(gen,this)
+    person = Cfsjksas.Ancestors.GetRelations.data(gen,this)
+
+    # determine whether to draw this ancestor or not
+    ## if chart = :wo_duplicates and relation isn't first on list of dups, then don't draw
+    draw? = should_draw?(chart, person.id, person.relation)
+    svg = add_ancestor(draw?, svg, gen,  chart, this, person)
+
+    # recurse thru rest of ancestors in this generation
+    add_ancestor(svg, gen, chart, rest)
+  end
+  defp add_ancestor(false, svg, _gen,  _chart, _this, _person) do
+    # do not draw this person
+    svg
+  end
+  defp add_ancestor(true, svg, gen,  chart, this, person) do
+    # draw this person
 
     {fill, fill_opacity} = case chart do
       :base ->
@@ -54,11 +69,8 @@ defmodule Cfsjksas.Circle.Draw do
     # add name
     svg = svg <> Cfsjksas.Circle.Sector.add_name(gen, person, sector)
 
-    # add boat/brickwall if appropiate
-    svg = add_boat(chart, svg, gen, sector, this, person)
-
-    # recurse thru rest of ancestors in this generation
-    add_ancestor(svg, gen, chart, rest)
+    # add boat/brickwall if appropiate, and return the svt
+    add_boat(chart, svg, gen, sector, this, person)
   end
 
   defp find_line_color(relation) do
@@ -95,6 +107,37 @@ defmodule Cfsjksas.Circle.Draw do
       _ ->
         {"green", "50%"}
     end
+  end
+
+  defp should_draw?(:wo_duplicates, id, relation) do
+    # determine whether to draw this ancestor or not
+    ## if chart = :wo_duplicates and relation isn't first on list of dups, then don't draw
+
+    # get list of relations
+    person = Cfsjksas.Tools.GetPeople.person(id)
+    relations = person.relation_list
+    # find index of relation in relations
+    index = Enum.find_index(relations, fn r -> r == relation end)
+    # if nil, something went wrong
+    # if 0, first position so draw this perons
+    # if >0, then this is a dup and do not draw
+    case index do
+      nil ->
+        # something went wrong - relation not in relations????
+        IEx.pry()
+      0 ->
+        # first position, so draw
+        true
+      _ ->
+        # other position, do don't draw
+        false
+    end
+
+  end
+  defp should_draw?(_chart, _id, _relation) do
+    # determine whether to draw this ancestor or not
+    ## if chart != :wo_duplicates so do draw
+    true
   end
 
 

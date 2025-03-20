@@ -51704,8 +51704,8 @@ defmodule Cfsjksas.Tools.GetPeople
       _ ->
         length(relation)
     end
-    mother = Cfsjksas.Circle.GetRelations.mother(gen, relation)
-    father = Cfsjksas.Circle.GetRelations.father(gen, relation)
+    mother = Cfsjksas.Ancestors.GetRelations.mother(gen, relation)
+    father = Cfsjksas.Ancestors.GetRelations.father(gen, relation)
     has_ship? = Map.has_key?(person, :ship)
     categorize_person(id, has_ship?, mother, father, person)
   end

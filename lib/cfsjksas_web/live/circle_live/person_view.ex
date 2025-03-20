@@ -22,13 +22,13 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
 
     # take random (first) relation to find father and mother
     [relation | _rest ] = person.relation_list
-    gen = Cfsjksas.Circle.GetRelations.gen_from_relation(relation)
-    father_result = Cfsjksas.Circle.GetRelations.father(gen, relation)
+    gen = Cfsjksas.Ancestors.GetRelations.gen_from_relation(relation)
+    father_result = Cfsjksas.Ancestors.GetRelations.father(gen, relation)
     father =  case father_result do
       nil -> ""
       _ -> to_string(father_result)
     end
-    mother_result = Cfsjksas.Circle.GetRelations.mother(gen, relation)
+    mother_result = Cfsjksas.Ancestors.GetRelations.mother(gen, relation)
     mother =  case mother_result do
       nil -> ""
       _ -> to_string(mother_result)

@@ -19,5 +19,31 @@ defmodule Cfsjksas.Tools.Person do
     end
   end
 
+  def surname(person) do
+    # get person name
+    case person.surname do
+      nil ->
+        "Unknown"
+      _ ->
+        person.surname
+    end
+    end
+
+    def given_name(person) do
+      # get person name
+      case person.given_name do
+        nil ->
+          "Unknown"
+        _ ->
+          person.given_name
+      end
+      end
+
+    def person_name(person) do
+      # get person name
+      given_name(person) <> " " <> surname(person)
+      end
+
+
 
 end

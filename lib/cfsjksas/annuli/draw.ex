@@ -52,7 +52,7 @@ defmodule Cfsjksas.Annuli.Draw do
     IO.inspect(gen, label: "starting draw.gen=")
 
     # get list of this gen ancestors
-    this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
+    this_gen_list = Cfsjksas.Ancestors.GetRelations.person_list(gen)
 
     # recurse thru each one.
     add_ancestor(svg, gen, this_gen_list)
@@ -68,7 +68,7 @@ defmodule Cfsjksas.Annuli.Draw do
 
     # get necessary info
     cfg = Cfsjksas.Annuli.Get.config(gen)
-    person = Cfsjksas.Circle.GetRelations.data(gen,relation)
+    person = Cfsjksas.Ancestors.GetRelations.data(gen,relation)
 #
     given_name = not_nil(person.given_name)
     surname = not_nil(person.surname)
@@ -92,7 +92,7 @@ defmodule Cfsjksas.Annuli.Draw do
     child_cfg = Cfsjksas.Annuli.Get.config(child_gen)
     # child is relation with lsst item lopped off
     child_id = Enum.take(relation,length(relation)-1)
-    child = Cfsjksas.Circle.GetRelations.data(child_gen, child_id)
+    child = Cfsjksas.Ancestors.GetRelations.data(child_gen, child_id)
 
     # draw relation line for 2nd-generation out
     rel_line = case gen do

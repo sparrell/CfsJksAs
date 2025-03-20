@@ -28,7 +28,7 @@ defmodule Cfsjksas.Dot.Draw do
   def gen(dot, gen) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
-    this_gen_list = Cfsjksas.Circle.GetRelations.person_list(gen)
+    this_gen_list = Cfsjksas.Ancestors.GetRelations.person_list(gen)
     # recurse thru each one.
     gen(dot, gen, this_gen_list)
   end
@@ -41,7 +41,7 @@ defmodule Cfsjksas.Dot.Draw do
     fontsize = config.font_size
     id = Enum.join(relation)
     fontcolor = find_color(relation)
-    person = Cfsjksas.Circle.GetRelations.data(gen, relation)
+    person = Cfsjksas.Ancestors.GetRelations.data(gen, relation)
 
     name = not_nil(person.given_name) <> "\\n"
     <> not_nil(person.surname) <> "\\n("

@@ -9,7 +9,7 @@ defmodule Cfsjksas.Circle.Get do
 
   @config %{
     0 => %{
-      font_size1: "180pt",
+      font_size1: "150pt",
       font_size2: "120pt",
       stroke_width: "50",
       name1: "Charles Fisher Sparrell",
