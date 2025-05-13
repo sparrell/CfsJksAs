@@ -4,34 +4,40 @@ defmodule Cfsjksas.Annuli.Create do
   ie each generation is in a 'band' (or annulus) as opposed to a specific circle
   """
   require DateTime
+  require IEx
 
   @doc """
   Input: ancestor relations map
   Output: svg diagram
   """
-  def make_annuli() do
-    IO.inspect("made it to create.make_annuli")
-    svg_path = Cfsjksas.Annuli.Get.path(:ancestors_svg)
+  def make_annuli(chart, filename) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/images/" <> filename)
+    case chart in [:annuli_base, :annuli_ship, :annuli_dups, :annuli_wo_dups] do
+      false ->
+        IEx.pry()
+      true ->
+        IO.inspect("made it to Annuli.create.make_annuli")
+      end
 
     svg_beg()
     |> Cfsjksas.Annuli.Draw.ref_circle()
-    |> Cfsjksas.Annuli.Draw.gen(0)
-    |> Cfsjksas.Annuli.Draw.gen(1)
-    |> Cfsjksas.Annuli.Draw.gen(2)
-    |> Cfsjksas.Annuli.Draw.gen(3)
-    |> Cfsjksas.Annuli.Draw.gen(4)
-    |> Cfsjksas.Annuli.Draw.gen(5)
-    |> Cfsjksas.Annuli.Draw.gen(6)
-    |> Cfsjksas.Annuli.Draw.gen(7)
-    |> Cfsjksas.Annuli.Draw.gen(8)
-    |> Cfsjksas.Annuli.Draw.gen(9)
-    |> Cfsjksas.Annuli.Draw.gen(10)
-    |> Cfsjksas.Annuli.Draw.gen(11)
-    |> Cfsjksas.Annuli.Draw.gen(12)
-    |> Cfsjksas.Annuli.Draw.gen(13)
-    |> Cfsjksas.Annuli.Draw.gen(14)
+    |> Cfsjksas.Annuli.Draw.gen(0, chart)
+    |> Cfsjksas.Annuli.Draw.gen(1, chart)
+    |> Cfsjksas.Annuli.Draw.gen(2, chart)
+    |> Cfsjksas.Annuli.Draw.gen(3, chart)
+    |> Cfsjksas.Annuli.Draw.gen(4, chart)
+    |> Cfsjksas.Annuli.Draw.gen(5, chart)
+    |> Cfsjksas.Annuli.Draw.gen(6, chart)
+    |> Cfsjksas.Annuli.Draw.gen(7, chart)
+    |> Cfsjksas.Annuli.Draw.gen(8, chart)
+    |> Cfsjksas.Annuli.Draw.gen(9, chart)
+    |> Cfsjksas.Annuli.Draw.gen(10, chart)
+    |> Cfsjksas.Annuli.Draw.gen(11, chart)
+    |> Cfsjksas.Annuli.Draw.gen(12, chart)
+    |> Cfsjksas.Annuli.Draw.gen(13, chart)
+    |> Cfsjksas.Annuli.Draw.gen(14, chart)
     |> svg_end()
-    |> Cfsjksas.Circle.Geprint.write_file(svg_path)
+    |> Cfsjksas.Circle.Geprint.write_file(filepath)
 
   end
 

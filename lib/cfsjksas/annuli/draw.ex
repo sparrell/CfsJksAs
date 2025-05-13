@@ -7,27 +7,28 @@ defmodule Cfsjksas.Annuli.Draw do
 
   def ref_circle(svg) do
     {x, y} = Cfsjksas.Annuli.Get.center()
-    r = Cfsjksas.Annuli.Get.radius(:outer_ring)
+    #r = Cfsjksas.Annuli.Get.radius(:outer_ring)
 
     svg
     <> add_comment("ref circles")
-    <> add_circle(x, y, r, "indigo", "50", "100%", "none")
+    #<> add_circle(x, y, r, "indigo", "50", "100%", "none")
     <> add_circle(x, y, 500, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 800, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 850, "lightgoldenrodyellow", "50", "60%", "none")
     <> add_circle(x, y, 1175, "lightgoldenrodyellow", "50", "60%", "none")
     <> add_circle(x, y, 1550, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 1900, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 2400, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 3000, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 4000, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 5900, "lightgoldenrodyellow", "50", "60%", "none")
-    <> add_circle(x, y, 7800, "lightgoldenrodyellow", "60", "60%", "none")
-    <> add_circle(x, y, 9700, "lightgoldenrodyellow", "60", "60%", "none")
-    <> add_circle(x, y, 11800, "lightgoldenrodyellow", "60", "60%", "none")
-    <> add_circle(x, y, 13800, "lightgoldenrodyellow", "60", "60%", "none")
+    <> add_circle(x, y, 1850, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 2150, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 2600, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 3600, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 4700, "lightgoldenrodyellow", "50", "60%", "none")
+    <> add_circle(x, y, 5700, "lightgoldenrodyellow", "40", "60%", "none")
+    <> add_circle(x, y, 6700, "lightgoldenrodyellow", "40", "60%", "none")
+    <> add_circle(x, y, 7700, "lightgoldenrodyellow", "40", "60%", "none")
+    <> add_circle(x, y, 8700, "lightgoldenrodyellow", "40", "60%", "none")
+    <> add_circle(x, y, 9200, "lightgoldenrodyellow", "40", "60%", "none")
   end
 
-  def gen(svg, 0) do
+  def gen(svg, 0, _chart) do
     # initial node (gen 0 special handling)
     gen = 0
 
@@ -46,7 +47,7 @@ defmodule Cfsjksas.Annuli.Draw do
     <> add_text(cfg.name3, center_x, center_y + cfg.delta_y_n3, cfg.n_font_family, cfg.n_font_size, cfg.text_fill)
     <> add_text(cfg.date3, center_x, center_y + cfg.delta_y_d3, cfg.d_font_family, cfg.d_font_size, cfg.text_fill)
   end
-  def gen(svg, gen) do
+  def gen(svg, gen, chart) do
     # draw ellipse in gen-band for each person in gen
 
     IO.inspect(gen, label: "starting draw.gen=")

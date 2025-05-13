@@ -1,4 +1,4 @@
-defmodule Cfsjksas.Tools.GetPeople
+defmodule Cfsjksas.Ancestors.GetPeople
  do
   require IEx
 

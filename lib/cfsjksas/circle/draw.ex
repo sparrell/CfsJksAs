@@ -100,7 +100,7 @@ defmodule Cfsjksas.Circle.Draw do
 
   defp color_dups(id) do
     # determine if person appears more than one time, color green if they do
-    person = Cfsjksas.Tools.GetPeople.person(id)
+    person = Cfsjksas.Ancestors.GetPeople.person(id)
     case length(person.relation_list) do
       1 ->
         {"none", "0%"}
@@ -114,7 +114,7 @@ defmodule Cfsjksas.Circle.Draw do
     ## if chart = :wo_duplicates and relation isn't first on list of dups, then don't draw
 
     # get list of relations
-    person = Cfsjksas.Tools.GetPeople.person(id)
+    person = Cfsjksas.Ancestors.GetPeople.person(id)
     relations = person.relation_list
     # find index of relation in relations
     index = Enum.find_index(relations, fn r -> r == relation end)

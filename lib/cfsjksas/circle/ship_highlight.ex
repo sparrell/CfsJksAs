@@ -7,7 +7,7 @@ defmodule Cfsjksas.Circle.ShipHighlight do
   def beyond(gen, sector, relation, person) do
     mother = Cfsjksas.Ancestors.GetRelations.mother(gen, relation)
     father = Cfsjksas.Ancestors.GetRelations.father(gen, relation)
-    ship = Cfsjksas.Tools.GetPeople.ship(person.id)
+    ship = Cfsjksas.Ancestors.GetPeople.ship(person.id)
     beyond_shape(mother, father, ship, sector)
   end
 

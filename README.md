@@ -27,6 +27,8 @@ Cfsjksas.Circle.Create.main(:wo_duplicates, "try4.svg")
 
 Cfsjksas.Create.Circle.main(:circle_base, "try5.svg")
 
+Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")
+
 
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with:
   iex -S mix phx.server
