@@ -18,11 +18,23 @@ defmodule Cfsjksas.Tools.Relation do
     # start with a copy of existing map
     # leave generations 0,1,2 alone
     # process generations 3-14
+
     Cfsjksas.Ancestors.GetRelations.data()
-    |> dedup([Enum.to_list(3..14)])
+    |> dedup()
 
   end
-  def dedup(relations, []) do
+  def dedup(relations) do
+		# gen 0
+		g0 = relations[0]
+		# find id for list
+		# add in duplicate: :singleton
+		IEx.pry() 
+
+		id_list = 0 #whatever
+
+		dedup(new_relations, rest, id_list)
+  end
+  def dedup(relations, [], _id_list) do
     # generations list empty so done
     relations
   end
@@ -30,8 +42,7 @@ defmodule Cfsjksas.Tools.Relation do
     this_gen_people_map = relations[gen]
     # sort relation_keys with special sort
     relation_keys = Map.keys(this_gen_people_map)
-#    |> Enum.sort(&compare_relations/2)
-
+    |> Enum.sort(&Cfsjksas.Tools.Relation.compare_relations/2)
     something = relations
     dedup(something, rest)
   end
