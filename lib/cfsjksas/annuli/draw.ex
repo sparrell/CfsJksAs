@@ -47,7 +47,7 @@ defmodule Cfsjksas.Annuli.Draw do
     <> add_text(cfg.name3, center_x, center_y + cfg.delta_y_n3, cfg.n_font_family, cfg.n_font_size, cfg.text_fill)
     <> add_text(cfg.date3, center_x, center_y + cfg.delta_y_d3, cfg.d_font_family, cfg.d_font_size, cfg.text_fill)
   end
-  def gen(svg, gen, chart) do
+  def gen(svg, gen, _chart) do
     # draw ellipse in gen-band for each person in gen
 
     IO.inspect(gen, label: "starting draw.gen=")

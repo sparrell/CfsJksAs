@@ -39,6 +39,9 @@ defmodule Cfsjksas.Create.Annuli do
   def draw(matrix, chart) do
     # do gen 0 special
     gen_list = Enum.to_list(0..14)
+    IO.inspect(gen_list)
+    IO.inspect(matrix)
+    IO.inspect(chart)
 
     Cfsjksas.Tools.Svg.beg()
     |> Cfsjksas.Annuli.Draw.ref_circle()

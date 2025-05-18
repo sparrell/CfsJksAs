@@ -27,6 +27,8 @@ Cfsjksas.Circle.Create.main(:wo_duplicates, "try4.svg")
 
 Cfsjksas.Create.Circle.main(:circle_base, "try5.svg")
 
+Cfsjksas.Create.Hybrid.main("try6.svg")
+
 Cfsjksas.Tools.Relation.dedup()
 
 Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")

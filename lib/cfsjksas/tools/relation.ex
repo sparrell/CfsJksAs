@@ -9,7 +9,7 @@ defmodule Cfsjksas.Tools.Relation do
         + immigrant w ship (eventually)
         + immigrant wo ship(eventually)
         + brickwall (eventually)
-        + continues (not duplicate for now)
+        + normal
 
     dedup/0
       kicks off everything
@@ -22,9 +22,9 @@ defmodule Cfsjksas.Tools.Relation do
       recurses thru each person calling process_person
     process_person/2 (3-tuple of relations,gen,id_list; list of people in this gen
         determine if person is a duplicate of someone already in id_list
-        if duplicate, tag and remove ancestors of duplicate
-        if not duplicate, tag with empty termination list
-        does above us process_dup/3
+        if duplicate, tag as duplicate and remove ancestors of duplicate
+        if not duplicate, tag with category
+        does above using process_dup/3
     process_dup/3 ({relations, gen, id_list}, this, prior)
       this = person being processed
       prior = whether person already in or not
@@ -58,26 +58,22 @@ defmodule Cfsjksas.Tools.Relation do
 
     # edit relations by adding empty termination list for g0,1
     new_relations = relations
-    |> put_in([0, 0, :termination], [])
-    |> put_in([1,["P"], :termination], [])
-    |> put_in([1,["M"], :termination], [])
+    |> put_in([0, 0, :termination], :normal)
+    |> put_in([1,["P"], :termination], :normal)
+    |> put_in([1,["M"], :termination], :normal)
 
     dedup({new_relations, id_list}, Enum.to_list(2..14))
   end
   def dedup({relations, _id_list}, []) do
     # generations list empty so done
-    IEx.pry()
     relations
   end
   def dedup({relations, id_list}, [gen | rest_gen]) do
     # sort relation_keys with special sort
     relation_keys = Map.keys(relations[gen])
     |> Enum.sort(&Cfsjksas.Tools.Relation.compare_relations/2)
-    something = {relations, gen, id_list}
+    {relations, gen, id_list}
     |> process_person(relation_keys)
-
-
-    something
     |> dedup(rest_gen)
   end
 
@@ -104,7 +100,7 @@ defmodule Cfsjksas.Tools.Relation do
     end
   end
 
-  def process_person({relations, gen, id_list}, []) do
+  def process_person({relations, _gen, id_list}, []) do
     # finished all people in this gen, move on
     {relations, id_list}
   end
@@ -123,9 +119,11 @@ defmodule Cfsjksas.Tools.Relation do
   def process_dup({relations, gen, id_list}, this, false) do
     # prior = false ie first time seen
     # add id to id_list
-    # add empty termination
+    # add category termination
     # return tuple of {new relations, gen, new id_list}
-    { put_in(relations, [gen, this, :termination], []),
+    person_id = relations[gen][this].id
+    category = Cfsjksas.Ancestors.GetPeople.categorize_person(person_id)
+    { put_in(relations, [gen, this, :termination], category),
       gen,
       [relations[gen][this].id | id_list]
     }
@@ -138,7 +136,7 @@ defmodule Cfsjksas.Tools.Relation do
 
     # first add termination:=:duplicate and then remove ancestors in relations
     # and return gen and id_list unchanged
-    {put_in(relations, [gen, this, :termination], [:duplicate])
+    {put_in(relations, [gen, this, :termination], :duplicate)
       |> rm_dups(gen+1, this),
     gen,
     id_list
@@ -149,7 +147,7 @@ defmodule Cfsjksas.Tools.Relation do
   @doc """
   Recurse up thru generations, checking each person if they are ancestors of root_dup
   """
-  def rm_dups(relations, 15, root_dup) do
+  def rm_dups(relations, 15, _root_dup) do
     # if gen = 15, done
     relations
   end
@@ -180,7 +178,6 @@ defmodule Cfsjksas.Tools.Relation do
     # recurse on to rest of list using modified relations
     |> rm_dups(gen, root_dup, rest)
   end
-
 
 
 end
