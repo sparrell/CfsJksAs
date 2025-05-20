@@ -11833,27 +11833,27 @@ Robert Blott (1582 - 1665)
 </textPath>
 </text>
 <defs>
-<path id="sector_14_15815" d="M 40625,25344 A 20100,20100 0 0 1 40623,25351 L 40330,25286 A 19800,19800 0 0 0 40332,25279 L 40625,25344" />
-<clipPath id="sector_14_15815_clip">
-<use href="#sector_14_15815"/>
-</clipPath></defs><use href="#sector_14_15815" stroke="#FF6EC7" stroke-width="1" fill="dodgerblue" fill-opacity="10%" clip-path="url(#sector_14_15815_clip)"/>
-<path id="ray_g14_s15815" d="M 40331,25283 L 40624,25348" />
+<path id="sector_13_15815" d="M 38951,29356 A 19800,19800 0 0 1 38944,29369 L 37857,28862 A 18600,18600 0 0 0 37863,28849 L 38951,29356" />
+<clipPath id="sector_13_15815_clip">
+<use href="#sector_13_15815"/>
+</clipPath></defs><use href="#sector_13_15815" stroke="#FF6EC7" stroke-width="2" fill="dodgerblue" fill-opacity="10%" clip-path="url(#sector_13_15815_clip)"/>
+<path id="ray_g14_s15815" d="M 4140,13144 L 3053,12638" />
 <text style="font-family: sans-serif; font-size:6pt; fill:#000000;">
 <textPath href="#ray_g14_s15815" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Susanna Furner (? - 1620)
 </textPath>
 </text>
 <defs>
-<path id="sector_14_15814" d="M 40623,25351 A 20100,20100 0 0 1 40622,25359 L 40329,25294 A 19800,19800 0 0 0 40330,25286 L 40623,25351" />
-<clipPath id="sector_14_15814_clip">
-<use href="#sector_14_15814"/>
-</clipPath></defs><use href="#sector_14_15814" stroke="blue" stroke-width="1" fill="dodgerblue" fill-opacity="10%" clip-path="url(#sector_14_15814_clip)"/>
-<path id="ray_g14_s15814" d="M 40330,25290 L 40623,25355" />
+<path id="sector_13_15814" d="M 38944,29369 A 19800,19800 0 0 1 38938,29383 L 37851,28875 A 18600,18600 0 0 0 37857,28862 L 38944,29369" />
+<clipPath id="sector_13_15814_clip">
+<use href="#sector_13_15814"/>
+</clipPath></defs><use href="#sector_13_15814" stroke="blue" stroke-width="2" fill="dodgerblue" fill-opacity="10%" clip-path="url(#sector_13_15814_clip)"/>
+<path id="ray_g14_s15814" d="M 4146,13131 L 3059,12624" />
 <text style="font-family: sans-serif; font-size:6pt; fill:#000000;">
 <textPath href="#ray_g14_s15814" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 James Chilton (1563 - 1620)
 </textPath>
 </text>
 
-<!-- made new svg at 2025-05-18 13:57:00.924518Z -->
+<!-- made new svg at 2025-05-20 04:15:33.042569Z -->
 </svg>
