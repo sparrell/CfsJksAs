@@ -414,7 +414,7 @@ defmodule Cfsjksas.Hybrid.Sector do
     <> "<clipPath id=\"" <> clip_id <> "\">\n"
     <> "<use href=\"#" <> id <> "\"/>\n"
     <> "</clipPath>"
-    <> "</defs>"
+    <> "</defs>\n"
     <> "<use href=\"#" <> id <> "\" "
     <> "stroke=\"" <> line_color <> "\" "
     <> "stroke-width=\"" <> stroke_width <> "\" "

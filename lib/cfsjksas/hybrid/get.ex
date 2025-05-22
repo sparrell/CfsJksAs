@@ -108,7 +108,17 @@ defmodule Cfsjksas.Hybrid.Get do
   }
 
   # draw line from g12 to g13 special sectors
-  @xtra_lines13 []
+  @xtra_lines13 [{1183, 1183},
+                {1183, 1184},
+                {3455, 3455},
+                {3455, 3456},
+                {3953, 3952},
+                {3953, 3953},
+                {3955, 3955},
+                {3955, 3956},
+                {3944, 3944},
+                {3944, 3945},
+  ]
 
   # draw line from g13 to g14 special sectors
   @xtra_lines14 [{3952, 3952}, {3952, 3953}]

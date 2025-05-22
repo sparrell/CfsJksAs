@@ -95,14 +95,71 @@ defmodule Cfsjksas.Hybrid.Create do
     svg <> "<!-- End of Generation " <> to_string(gen) <> " -->\n"
   end
   def xtra_lines(svg, 13) do
-    # fix
-    svg <> "<!-- End of Generation " <> to_string(13) <> " -->\n"
+    # add in connection lines for gen 14
+    xtra_lines(svg, 13, Cfsjksas.Hybrid.Get.xtra_lines(13))
   end
   def xtra_lines(svg, 14) do
-    # fix
-    svg <> "<!-- End of Generation " <> to_string(14) <> " -->\n"
+    # add in connection lines for gen 14
+    xtra_lines(svg, 14, Cfsjksas.Hybrid.Get.xtra_lines(14))
   end
 
+  def xtra_lines(svg, 13, []) do
+    # out of lines, add comment
+    svg <> "<!-- End of Generation " <> to_string(13) <> " -->\n"
+  end
+  def xtra_lines(svg, 13, [{low, high} | rest]) do
+    # add a line from low (ie gen 12) sector's outer arc to
+    # high (ie gen 13) sector's inner arc
 
+    # low point's radius
+    low_radius = Cfsjksas.Hybrid.Get.radius(12)
+    high_radius = low_radius + 100
+    beg_radians = (low + 0.5) * 2 * :math.pi() / (2 ** 12)
+    end_radians = (high + 0.5) * 2 * :math.pi() / (2 ** 12)
+
+    # low x,y
+    {beg_x, beg_y} = Cfsjksas.Hybrid.Get.xy(low_radius, beg_radians)
+    {end_x, end_y} = Cfsjksas.Hybrid.Get.xy(high_radius, end_radians)
+
+    # path_id
+    path_id = "xtra_13_" <> to_string(low) <> "_" <> to_string(high)
+
+    # add ray to svg and recurse
+    svg
+    <> "<path id=\"" <> path_id
+    <> "\" stroke=\"black\" stroke-width=\"3\" d=\"M "
+    <> to_string(beg_x) <> "," <> to_string(beg_y)
+    <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" />\n"
+    |> xtra_lines(13, rest)
+  end
+  def xtra_lines(svg, 14, []) do
+    # out of lines, add comment
+    svg <> "<!-- End of Generation " <> to_string(14) <> " -->\n"
+  end
+  def xtra_lines(svg, 14, [{low, high} | rest]) do
+    # add a line from low (ie gen 13) sector's outer arc to
+    # high (ie gen 14) sector's inner arc
+
+    # low point's radius
+    low_radius = Cfsjksas.Hybrid.Get.radius(13)
+    high_radius = low_radius + 100
+    beg_radians = (low + 0.5) * 2 * :math.pi() / (2 ** 12)
+    end_radians = (high + 0.5) * 2 * :math.pi() / (2 ** 12)
+
+    # low x,y
+    {beg_x, beg_y} = Cfsjksas.Hybrid.Get.xy(low_radius, beg_radians)
+    {end_x, end_y} = Cfsjksas.Hybrid.Get.xy(high_radius, end_radians)
+
+    # path_id
+    path_id = "xtra_14_" <> to_string(low) <> "_" <> to_string(high)
+
+    # add ray to svg and recurse
+    svg
+    <> "<path id=\"" <> path_id
+    <> "\" stroke=\"black\" stroke-width=\"3\" d=\"M "
+    <> to_string(beg_x) <> "," <> to_string(beg_y)
+    <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" />\n"
+    |> xtra_lines(14, rest)
+  end
 
 end

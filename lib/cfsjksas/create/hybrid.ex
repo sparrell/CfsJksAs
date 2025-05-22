@@ -39,7 +39,7 @@ defmodule Cfsjksas.Create.Hybrid do
     {relations,
     #"<svg viewBox=\"0 0 " <> to_string(x) <> " " <> to_string(y)
     #  <> "\" xmlns=\"http://www.w3.org/2000/svg\">\n"
-    "<svg viewBox=\"7000 0 42000 42000\" xmlns=\"http://www.w3.org/2000/svg\">"
+    "<svg viewBox=\"7000 0 42000 42000\" xmlns=\"http://www.w3.org/2000/svg\">\n"
     }
   end
 
