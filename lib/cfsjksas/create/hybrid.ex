@@ -52,7 +52,6 @@ defmodule Cfsjksas.Create.Hybrid do
 
   def draw_gen({relations, svg}) do
     # initial circle
-    IO.inspect("starting draw.gen=0")
     gen = 0
     sector_num = 0
     line_color = "black"

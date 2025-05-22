@@ -9,8 +9,8 @@ defmodule Cfsjksas.Hybrid.Get do
   @viewbox_low_y 0
   @viewbox_hi_y 42000
   @radii %{ 0 => 2000, 1 =>600, 2 =>600, 3 => 1000, 4 => 1000, 5 => 1000, 6 => 500,
-            7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 1200,
-            13 => 1200, 14 => 300, 15 => 50, 16 => 50, -1 => 0 }
+            7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 1000,
+            13 => 1000, 14 => 1000, 15 => 50, 16 => 50, -1 => 0 }
   @outer_ring_radius 21000
   @ancestors_svg "static/images/ancestors.svg"
 
@@ -79,14 +79,40 @@ defmodule Cfsjksas.Hybrid.Get do
       stroke_width: "5",
     },
     13 => %{
-      font_size: "10pt",
-      stroke_width: "2",
+      font_size: "16pt",
+      stroke_width: "5"
     },
     14 => %{
-      font_size: "6pt",
-      stroke_width: "1",
+      font_size: "16pt",
+      stroke_width: "5",
     },
   }
+
+  # for redoing G13 as G12 size sectors
+  @hybrid13 %{
+    2366 => 1183,
+    2367 => 1184,
+    6910 => 3455,
+    6911 => 3456,
+    7890 => 3944,
+    7891 => 3945,
+    7906 => 3952,
+    7907 => 3953,
+    7910 => 3955,
+    7911 => 3956,
+  }
+
+  @hybrid14 %{
+    15814 => 3952,
+    15815 => 3953
+  }
+
+  # draw line from g12 to g13 special sectors
+  @xtra_lines13 []
+
+  # draw line from g13 to g14 special sectors
+  @xtra_lines14 [{3952, 3952}, {3952, 3953}]
+
 
   def path(:ancestors_svg) do
     Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)
@@ -192,10 +218,42 @@ defmodule Cfsjksas.Hybrid.Get do
   <> "\""
   end
 
-  def hybrid_g13() do
-    # return {inner_radius, outer_radius} for special case of gen 13
-    {radius(12), radius(13)}
+  def hybrid_g13(sector) do
+    # for special case of gen 13 return:
+    # {inner_radius, outer_radius, lower_radians, upper_radians}
+    # get location thru customer lookup
+    inner_radius = radius(12) + 100
+    outer_radius = radius(13)
+    # fix
+    new_sector_num = @hybrid13[sector.sector_num]
+    lower_radians = new_sector_num * 2 * :math.pi() / (2 ** 12)
+    upper_radians = rem(new_sector_num + 1, 2**12) * 2 * :math.pi() / (2 ** 12)
+    {inner_radius, outer_radius, lower_radians, upper_radians}
   end
+  def hybrid_g14(sector) do
+    # for special case of gen 14 return:
+    # {inner_radius, outer_radius, lower_radians, upper_radians}
+    # get location thru customer lookup
+    inner_radius = radius(13) + 100
+    outer_radius = radius(14)
+    # fix
+    new_sector_num = @hybrid14[sector.sector_num]
+    lower_radians = new_sector_num * 2 * :math.pi() / (2 ** 12)
+    upper_radians = rem(new_sector_num + 1, 2**12) * 2 * :math.pi() / (2 ** 12)
+    {inner_radius, outer_radius, lower_radians, upper_radians}
+  end
+
+  def xtra_lines(13) do
+    @xtra_lines13
+  end
+
+  def xtra_lines(14) do
+    @xtra_lines14
+  end
+
+
+
+
 
 
 end

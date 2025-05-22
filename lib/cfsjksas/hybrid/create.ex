@@ -50,22 +50,11 @@ defmodule Cfsjksas.Hybrid.Create do
 
     # recurse thru each one.
     new_svg = add_ancestor({relations, svg}, gen, this_gen_list)
+    # add in extra lines for special generations (13,14)
+    |> xtra_lines(gen)
 
     # and then go to next up generation
     draw_gen({new_svg, relations}, gen+1)
-  end
-  def draw_gen({svg, relations}, 13) do
-    # special case
-    # individually place each
-    this_gen_list = Map.keys(relations[13])
-    num_anc = length(this_gen_list)
-    IO.inspect(num_anc, label: "gen 13 has #anc")
-    IO.inspect(this_gen_list)
-    IEx.pry()
-    svg
-  end
-  def draw_gen({svg, _relations}, 14) do
-    svg
   end
   def draw_gen({svg, _relations}, 15) do
     # reached top gen so finish returning just svg
@@ -100,6 +89,20 @@ defmodule Cfsjksas.Hybrid.Create do
     # recurse thru rest of this gen's list
     custom_sector({relations, svg}, gen, rest_in_this_gen)
   end
+
+  def xtra_lines(svg, gen) when gen in 0..12 do
+    # no extra lines, add comment
+    svg <> "<!-- End of Generation " <> to_string(gen) <> " -->\n"
+  end
+  def xtra_lines(svg, 13) do
+    # fix
+    svg <> "<!-- End of Generation " <> to_string(13) <> " -->\n"
+  end
+  def xtra_lines(svg, 14) do
+    # fix
+    svg <> "<!-- End of Generation " <> to_string(14) <> " -->\n"
+  end
+
 
 
 end

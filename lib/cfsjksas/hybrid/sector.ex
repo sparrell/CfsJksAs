@@ -63,6 +63,8 @@ defmodule Cfsjksas.Hybrid.Sector do
 
     """
 
+    require IEx
+
 
   defstruct [
     id: "need",
@@ -135,16 +137,13 @@ defmodule Cfsjksas.Hybrid.Sector do
     |> add_svg()
 
   end
-    def make_shape(13, sector_num, line_color, fill, fill_opacity) do
+  def make_shape(13, sector_num, line_color, fill, fill_opacity) do
+    # special case for gen 13
     new_struct(13, sector_num, line_color, fill, fill_opacity)
     |> add_id()
     |> add_quadrant()
     |> add_reverse()
     |> add_g13()
-#    |> add_inner_radius() # adjust
-#    |> add_outer_radius() # adjust
-    |> add_lower_radians() # adjust
-    |> add_upper_radians() # adjust
     |> add_points()
     |> add_svg()
     end
@@ -153,10 +152,7 @@ defmodule Cfsjksas.Hybrid.Sector do
     |> add_id()
     |> add_quadrant()
     |> add_reverse()
-    |> add_inner_radius()
-    |> add_outer_radius()
-    |> add_lower_radians()
-    |> add_upper_radians()
+    |> add_g14()
     |> add_points()
     |> add_svg()
     end
@@ -202,8 +198,22 @@ defmodule Cfsjksas.Hybrid.Sector do
   end
 
   def add_g13(sector) do
-    {inner_radius, outer_radius} = Cfsjksas.Hybrid.Get.hybrid_g13()
-    %Cfsjksas.Hybrid.Sector{sector | inner_radius: inner_radius, outer_radius: outer_radius}
+    g13_data = Cfsjksas.Hybrid.Get.hybrid_g13(sector)
+    {inner_radius, outer_radius, lower_radians, upper_radians} = g13_data
+    %Cfsjksas.Hybrid.Sector{sector | inner_radius: inner_radius,
+                                    outer_radius: outer_radius,
+                                    lower_radians: lower_radians,
+                                    upper_radians: upper_radians
+                                  }
+  end
+  def add_g14(sector) do
+    g14_data = Cfsjksas.Hybrid.Get.hybrid_g14(sector)
+    {inner_radius, outer_radius, lower_radians, upper_radians} = g14_data
+    %Cfsjksas.Hybrid.Sector{sector | inner_radius: inner_radius,
+                                    outer_radius: outer_radius,
+                                    lower_radians: lower_radians,
+                                    upper_radians: upper_radians
+                                  }
   end
 
   defp add_inner_radius(sector) do
@@ -243,8 +253,6 @@ defmodule Cfsjksas.Hybrid.Sector do
   end
 
   defp add_svg(sector) when sector.gen == 0 do
-    IO.inspect("starting add_svg gen=0")
-
     # gen 0 is special since not a sector but a circle
 
     {ctr_x, ctr_y} = Cfsjksas.Hybrid.Get.center
