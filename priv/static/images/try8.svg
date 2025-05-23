@@ -11879,18 +11879,6 @@ Thomas Hatch (1596 - 1646)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_4027" d="M 39300,22916 A 18400,18400 0 0 1 39297,22944 L 38303,22838 A 17400,17400 0 0 0 38305,22812 L 39300,22916" />
-<clipPath id="sector_12_4027_clip">
-<use href="#sector_12_4027"/>
-</clipPath></defs>
-<use href="#sector_12_4027" stroke="#FF6EC7" stroke-width="5" fill="none" fill-opacity="0%" clip-path="url(#sector_12_4027_clip)"/>
-<path id="ray_g12_s4027" d="M 38304,22825 L 39299,22930" />
-<text style="font-family: sans-serif; font-size:16pt; fill:#000000;">
-<textPath href="#ray_g12_s4027" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Symonds (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3948" d="M 38934,25114 A 18400,18400 0 0 1 38928,25142 L 37954,24916 A 17400,17400 0 0 0 37959,24890 L 38934,25114" />
 <clipPath id="sector_12_3948_clip">
 <use href="#sector_12_3948"/>
@@ -12068,18 +12056,6 @@ Richard Ingersoll (1587 - 1644)
 <text style="font-family: sans-serif; font-size:16pt; fill:#000000;">
 <textPath href="#ray_g12_s4007" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Lucretia Oldham (1600 - 1678)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_4026" d="M 39297,22944 A 18400,18400 0 0 1 39294,22972 L 38300,22865 A 17400,17400 0 0 0 38303,22838 L 39297,22944" />
-<clipPath id="sector_12_4026_clip">
-<use href="#sector_12_4026"/>
-</clipPath></defs>
-<use href="#sector_12_4026" stroke="blue" stroke-width="5" fill="none" fill-opacity="0%" clip-path="url(#sector_12_4026_clip)"/>
-<path id="ray_g12_s4026" d="M 38301,22852 L 39296,22958" />
-<text style="font-family: sans-serif; font-size:16pt; fill:#000000;">
-<textPath href="#ray_g12_s4026" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-George Hill (1578 - ?)
 </textPath>
 </text>
 <defs>
@@ -12866,5 +12842,5 @@ James Chilton (1563 - 1620)
 <path id="xtra_14_3952_3953" stroke="black" stroke-width="3" d="M 39932,25236 L 40036,25229" />
 <!-- End of Generation 14 -->
 
-<!-- made new svg at 2025-05-22 03:20:12.402318Z -->
+<!-- made new svg at 2025-05-23 01:08:25.523037Z -->
 </svg>

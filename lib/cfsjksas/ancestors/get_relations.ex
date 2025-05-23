@@ -15118,17 +15118,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 1789
       },
-      ["M", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["M", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3651
-      },
       ["M", "M", "M", "P", "M", "P", "P", "P", "M", "P", "M", "M"] => %{
         id: :p0009,
         relation: ["M", "M", "M", "P", "M", "P", "P", "P", "M", "P", "M", "M"],
@@ -15140,28 +15129,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 3723
       },
-      ["P", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1618
-      },
-      ["M", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["M", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3667
-      },
       ["P", "M", "M", "P", "M", "P", "P", "P", "M", "M", "P", "M"] => %{
         id: :p0601,
         relation: ["P", "M", "M", "P", "M", "P", "P", "P", "M", "M", "P", "M"],
@@ -15172,17 +15139,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 1677
-      },
-      ["P", "M", "P", "M", "P", "M", "M", "M", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "P", "M", "P", "M", "M", "M", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1394
       },
       ["P", "M", "M", "M", "P", "M", "M", "M", "P", "P", "P", "P"] => %{
         id: :p0472,
@@ -15282,17 +15238,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 1959
-      },
-      ["P", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1602
       },
       ["M", "M", "M", "M", "P", "M", "P", "P", "M", "P", "P", "P"] => %{
         id: :p0348,
@@ -15580,17 +15525,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: :p0223,
         sector: 54
       },
-      ["P", "M", "P", "M", "P", "M", "M", "P", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "P", "M", "P", "M", "M", "P", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1378
-      },
       ["P", "P", "P", "P", "M", "M", "M", "M", "M", "M", "M", "P"] => %{
         id: :p0162,
         relation: ["P", "P", "P", "P", "M", "M", "M", "M", "M", "M", "M", "P"],
@@ -15822,17 +15756,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 3644
       },
-      ["M", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["M", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3650
-      },
       ["M", "M", "M", "M", "P", "M", "M", "P", "P", "P", "P", "M"] => %{
         id: :p0734,
         relation: ["M", "M", "M", "M", "P", "M", "M", "P", "P", "P", "P", "M"],
@@ -15909,17 +15832,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 3671
-      },
-      ["M", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["M", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 4027
       },
       ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "P"] => %{
         id: :p0478,
@@ -16042,17 +15954,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: :p0525,
         sector: 1907
       },
-      ["P", "M", "P", "M", "P", "M", "M", "P", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "P", "M", "P", "M", "M", "P", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1379
-      },
       ["P", "M", "M", "P", "M", "P", "P", "P", "M", "P", "M", "M"] => %{
         id: :p0009,
         relation: ["P", "M", "M", "P", "M", "P", "P", "P", "M", "P", "M", "M"],
@@ -16119,17 +16020,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 1829
       },
-      ["P", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1978
-      },
       ["M", "M", "M", "P", "P", "P", "M", "P", "M", "M", "M", "P"] => %{
         id: :p0358,
         relation: ["M", "M", "M", "P", "P", "P", "M", "P", "M", "M", "M", "P"],
@@ -16173,17 +16063,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 1811
-      },
-      ["M", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["M", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3666
       },
       ["P", "M", "M", "M", "M", "M", "P", "P", "P", "P", "P", "P"] => %{
         id: :p0268,
@@ -16526,17 +16405,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: :p0233,
         sector: 55
       },
-      ["P", "M", "P", "M", "P", "M", "P", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "P", "M", "P", "M", "P", "M", "M", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1370
-      },
       ["M", "M", "M", "P", "P", "P", "M", "P", "P", "P", "M", "M"] => %{
         id: :p0892,
         relation: ["M", "M", "M", "P", "P", "P", "M", "P", "P", "P", "M", "M"],
@@ -16658,17 +16526,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 1365
       },
-      ["P", "M", "P", "M", "P", "M", "M", "M", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "P", "M", "P", "M", "M", "M", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1395
-      },
       ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "M", "M"] => %{
         id: :p0355,
         relation: ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "M", "M"],
@@ -16735,17 +16592,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 1580
       },
-      ["P", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1979
-      },
       ["M", "M", "M", "P", "P", "M", "P", "M", "P", "M", "M", "P"] => %{
         id: :p0482,
         relation: ["M", "M", "M", "P", "P", "M", "P", "M", "P", "M", "M", "P"],
@@ -16767,17 +16613,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 3629
-      },
-      ["P", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "M", "P", "P", "M", "P", "P", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1603
       },
       ["P", "M", "M", "P", "M", "P", "P", "P", "M", "P", "M", "P"] => %{
         id: :p0954,
@@ -17131,17 +16966,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 3913
       },
-      ["P", "M", "P", "M", "P", "M", "P", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "P", "M", "P", "M", "P", "M", "M", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1371
-      },
       ["P", "M", "M", "M", "P", "P", "P", "M", "P", "P", "P", "P"] => %{
         id: :p0356,
         relation: ["P", "M", "M", "M", "P", "P", "P", "M", "P", "P", "P", "P"],
@@ -17152,28 +16976,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 1808
-      },
-      ["P", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "M", "P", "P", "M", "P", "M", "P", "P", "M", "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1619
-      },
-      ["M", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["M", "M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 4026
       },
       ["M", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "P"] => %{
         id: :p0478,
@@ -17587,18 +17389,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 7839
       },
-      ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M",
-         "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 7835
-      },
       ["P", "P", "P", "P", "P", "P", "M", "M", "P", "M", "M", "P", "M"] => %{
         id: :p0223,
         relation: ["P", "P", "P", "P", "P", "P", "M", "M", "P", "M", "M", "P",
@@ -17767,18 +17557,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 7948
       },
-      ["M", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["M", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M",
-         "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 7930
-      },
       ["M", "M", "M", "M", "P", "M", "P", "P", "M", "P", "P", "M", "P"] => %{
         id: :p0418,
         relation: ["M", "M", "M", "M", "P", "M", "P", "P", "M", "P", "P", "M",
@@ -17790,30 +17568,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 7826
-      },
-      ["M", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["M", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M",
-         "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 7931
-      },
-      ["P", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M",
-         "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3835
       },
       ["M", "M", "P", "M", "P", "M", "M", "M", "M", "M", "M", "M", "M"] => %{
         id: :p1251,
@@ -17839,18 +17593,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         mother: nil,
         sector: 7910
       },
-      ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M",
-         "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 7834
-      },
       ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "M", "P", "P"] => %{
         id: :p0356,
         relation: ["M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "M", "P",
@@ -17874,30 +17616,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 7837
-      },
-      ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M", "M"] => %{
-        id: :p0303,
-        relation: ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M",
-         "M"],
-        given_name: "Mary",
-        surname: "Symonds",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3739
-      },
-      ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M",
-         "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3738
       },
       ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M"] => %{
         id: :p0520,
@@ -17970,18 +17688,6 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         father: nil,
         mother: nil,
         sector: 3815
-      },
-      ["P", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M", "P"] => %{
-        id: :p0302,
-        relation: ["P", "M", "M", "M", "P", "M", "M", "M", "M", "M", "P", "M",
-         "P"],
-        given_name: "George",
-        surname: "Hill",
-        birth_year: "1578",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3834
       },
       ["M", "M", "M", "M", "M", "P", "M", "P", "P", "M", "M", "P", "M"] => %{
         id: :p0520,
