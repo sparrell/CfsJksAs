@@ -2,15 +2,15 @@ defmodule Cfsjksas.Hybrid.Get do
 
   require IEx
 
-  @mxc 21000  # center of page/circle
+  @mxc 14000  # center of page/circle
   @myc 21000  # center of page/circle
-  @viewbox_low_x 7000
-  @viewbox_hi_x 42000
+  @viewbox_low_x 0
+  @viewbox_hi_x 34000
   @viewbox_low_y 0
   @viewbox_hi_y 42000
   @radii %{ 0 => 2000, 1 =>600, 2 =>600, 3 => 1000, 4 => 1000, 5 => 1000, 6 => 500,
-            7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 1000,
-            13 => 1000, 14 => 1000, 15 => 50, 16 => 50, -1 => 0 }
+            7 => 2500, 8 => 2000, 9 => 2400, 10 => 2300, 11 => 1500, 12 => 700,
+            13 => 600, 14 => 600, 15 => 50, 16 => 50, -1 => 0 }
   @outer_ring_radius 21000
   @ancestors_svg "static/images/ancestors.svg"
 
