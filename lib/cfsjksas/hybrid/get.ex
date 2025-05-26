@@ -4,6 +4,8 @@ defmodule Cfsjksas.Hybrid.Get do
 
   @mxc 14000  # center of page/circle
   @myc 21000  # center of page/circle
+  @width "\"48in\""
+  @height "\"59in\""
   @viewbox_low_x 0
   @viewbox_hi_x 34000
   @viewbox_low_y 0
@@ -217,15 +219,23 @@ defmodule Cfsjksas.Hybrid.Get do
   constants set up above
   """
   def viewbox() do
-  "\""
-  <> to_string(@viewbox_low_x)
-  <> " "
-  <> to_string(@viewbox_low_y)
-  <> " "
-  <> to_string(@viewbox_hi_x)
-  <> " "
-  <> to_string(@viewbox_hi_y)
-  <> "\""
+     "viewBox=\""
+    <> to_string(@viewbox_low_x)
+    <> " "
+    <> to_string(@viewbox_low_y)
+    <> " "
+    <> to_string(@viewbox_hi_x)
+    <> " "
+    <> to_string(@viewbox_hi_y)
+    <> "\""
+  end
+
+  def size() do
+    "width="
+    <> @width
+    <> " height="
+    <> @height
+    <> " "
   end
 
   def hybrid_g13(sector) do
