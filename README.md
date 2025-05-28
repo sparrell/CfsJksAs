@@ -24,12 +24,11 @@ Cfsjksas.Circle.Create.main(:base, "try1.svg")
 Cfsjksas.Circle.Create.main(:ship, "try2.svg")
 Cfsjksas.Circle.Create.main(:duplicates, "try3.svg")
 Cfsjksas.Circle.Create.main(:wo_duplicates, "try4.svg")
-
 Cfsjksas.Create.Circle.main(:circle_base, "try5.svg")
-
 Cfsjksas.Create.Hybrid.main("try6.svg")
-
 Cfsjksas.Hybrid.Create.main("try8.svg")
+
+Cfsjksas.Hybrid.Create.main("try9.svg")
 
 Cfsjksas.Tools.Relation.dedup()
 

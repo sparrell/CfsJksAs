@@ -8,7 +8,10 @@ defmodule Cfsjksas.Hybrid.Svg do
   end
 
   def beg() do
-    "<svg viewBox=" <> Cfsjksas.Hybrid.Get.viewbox() <>" xmlns=\"http://www.w3.org/2000/svg\">"
+    "<svg "
+    <> Cfsjksas.Hybrid.Get.size()
+    <> Cfsjksas.Hybrid.Get.viewbox()
+    <>" xmlns=\"http://www.w3.org/2000/svg\">"
   end
 
   def finish(svg) do
