@@ -1,0 +1,41 @@
+= Marion F Fisher (1904 - 2002)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Birth: 27 NOV 1904
+* Birthplace: New York, New York, New York, USA
+* Death: 17 DEC 2002
+* Deathplace: Plymouth, Plymouth, Massachusetts, USA
+* Buried: 
+2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
+* Age at Death: 98
+
+
+== Family
+need to fix make_family of p0074 / mom: p0072
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[This page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
+* WeRelate (TBD)
+* MyHeritage (TBD)
+* Geni (TBD)
+
+== Relations
+need to fix make_relations of p0074
+
+== Other
+need to fix make_other
+* Occupation: Primary School Teacher
+* Census:
+2 DATE 1940
+2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
+2 AGE 35-36
+* Notes:Birth recorded in New York City as "Helene", name changed by father to "Marion".
+
+== Sources
+need to fix make_sources
