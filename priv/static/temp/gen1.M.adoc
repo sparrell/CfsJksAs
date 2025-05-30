@@ -19,11 +19,11 @@ TBD narrative goes here
 need to fix make_family of p0074 / mom: p0072
 
 == Reference Links
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[This page]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
-* WeRelate (TBD)
-* MyHeritage (TBD)
-* Geni (TBD)
+* https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
+* https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
+* Geni TBD
 
 == Relations
 need to fix make_relations of p0074

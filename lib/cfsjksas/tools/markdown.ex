@@ -14,7 +14,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 	def person_page([this_relation | rest_relations], relations) do
 		person = relations[this_relation]
-		filename = make_filename(person)
+		filename = Cfsjksas.Tools.Link.make_filename(person)
 		filepath = Path.join(:code.priv_dir(:cfsjksas), "static/temp/" <> filename)
 
 		"= "
@@ -60,40 +60,6 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> ")"
 	end
 
-	def make_filename(person) do
-		# filename for 'intermediate' people is combo of generation and relation
-		"gen"
-		<> to_string(length(person.relation)) # length is generation
-		<> "."
-		<> Enum.join(person.relation)
-		<> ".adoc"
-	end
-
-	@doc """
-	given a person, create a hyperlink to that person
-	most are 'intermediate' and auto-generated
-	Terminations are special and not from this routine
-	Primary (C, J, A) are special and not from this routing
-	"""
-	def link_to_person(person) do
-		filename = make_filename(person)
-		gen = length(person.relation)
-		"* https://github.com/spoarrell/cfs_ancestors/tree/main/"
-		<> "Vol_02_Ships/"
-		<> "V2_C5_Ancestors/"
-		<> "V2_C5_G"
-		<> to_string(gen)
-		<> "/"
-		<> filename
-		<> "[This page]\n"
-	end
-
-	def link_to_dev_person(person) do
-		"* https://cfsjksas.gigalixirapp.com/person?p="
-		<> to_string(person.id)
-		<> "[Dev website]\n"
-	end
-
 	def make_vitals(person_r) do
 		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
 		"\n\n"
@@ -107,12 +73,13 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	end
 
-	def make_refs(person) do
-		link_to_person(person)
-		<> link_to_dev_person(person)
-		<> "* WeRelate (TBD)\n"
-		<> "* MyHeritage (TBD)\n"
-		<> "* Geni (TBD)\n"
+	def make_refs(person_r) do
+		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		Cfsjksas.Tools.Link.book(person_r)
+		<> Cfsjksas.Tools.Link.dev(person_r)
+		<> Cfsjksas.Tools.Link.werelate(person_p)
+		<> Cfsjksas.Tools.Link.myheritage(person_p)
+		<> Cfsjksas.Tools.Link.geni(person_p)
 	end
 
 	def make_family(person_r) do

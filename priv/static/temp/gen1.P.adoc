@@ -19,11 +19,11 @@ TBD narrative goes here
 need to fix make_family of p0486 / mom: p0006
 
 == Reference Links
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[This page]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0486[Dev website]
-* WeRelate (TBD)
-* MyHeritage (TBD)
-* Geni (TBD)
+* https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29[WeRelate]
+* https://www.myheritage.com/profile-20674952-23000741/herbert-kirkwood-sparrell[MyHeritage]
+* https://www.geni.com/people/Herbert-Sparrell/6000000019834806464[Geni]
 
 == Relations
 need to fix make_relations of p0486
