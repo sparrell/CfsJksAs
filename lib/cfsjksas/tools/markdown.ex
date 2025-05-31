@@ -101,16 +101,32 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def make_other(person_r) do
 		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
-		"need to fix make_other\n"
-		<> not_nil("Occupation: ", person_p.occupation)
+
+		not_nil("Occupation: ", person_p.occupation)
 		<> not_nil("Census:", person_p.census)
 		<> not_nil("Notes:", person_p.notes)
 	end
 
 	def make_sources(person_r) do
 		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
-		"need to fix make_sources\n"
-		<> not_nil("Sources: ", person_p.sources)
+
+		case Map.get(person_p, :sources) do
+			nil ->
+				""
+			_ ->
+				make_sources("", person_p.sources)
+		end
+	end
+
+	def make_sources(markdown, []) do
+		# done
+		markdown
+	end
+	def make_sources(markdown, [this | rest]) do
+		markdown
+		<> "* " <> linify(this) <> "\n"
+		# recurse thru rest
+		|> make_sources(rest)
 	end
 
 	def not_nil(_label, nil) do
@@ -122,8 +138,19 @@ defmodule Cfsjksas.Tools.Markdown do
 	def not_nil(label, value) do
 		"* "
 		<> label
-		<> to_string(value)
+		<> linify(to_string(value))
 		<> "\n"
+	end
+
+	def linify(text) do
+		[h | t] = String.split(text, "\n", parts: 2)
+		h
+		<> case t do
+			[] ->
+				""
+			_ ->
+				"\n----\n" <> List.first(t) <> "\n----\n"
+		end
 	end
 
 end

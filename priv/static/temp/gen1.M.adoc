@@ -11,7 +11,10 @@ TBD narrative goes here
 * Death: 17 DEC 2002
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
 * Buried: 
+----
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
+----
+
 * Age at Death: 98
 
 
@@ -23,19 +26,20 @@ need to fix make_family of p0074 / mom: p0072
 * https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
 * https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
 * https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
-* Geni TBD
+* https://www.geni.com/people/Marion-Sparrell/6000000007522238879[Geni]
 
 == Relations
 need to fix make_relations of p0074
 
 == Other
-need to fix make_other
 * Occupation: Primary School Teacher
 * Census:
+----
 2 DATE 1940
 2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
 2 AGE 35-36
+----
+
 * Notes:Birth recorded in New York City as "Helene", name changed by father to "Marion".
 
 == Sources
-need to fix make_sources
