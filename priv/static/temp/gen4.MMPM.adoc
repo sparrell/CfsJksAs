@@ -1,0 +1,47 @@
+= Laura Esther Bennett (1827 - ?)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 14 AUG 1827
+* Birthplace: Griswold, Connecticut, USA
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMM.adoc[Esther Lawrence (1798 - 1870)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.adoc[Jacob Bennett (1798 - 1830)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.adoc[Charles Henry Hurlburt (1849 - 1930)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0100[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.adoc[Ida A Hurlburt (1874 - 1965)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.adoc[Charles Henry Hurlburt (1849 - 1930)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.adoc[Laura Esther Bennett (1827 - ?)]
+
+
+== Other
+notes: <p>1850 US Census - Listed with Husband, Charles( 28) and son Charles H. (1) as residing in Oxford MA (her age 21).</p>
+
+== Sources

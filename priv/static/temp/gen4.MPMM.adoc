@@ -1,0 +1,49 @@
+= Rhoda Andrews (1775 - 1841)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 23 JUL 1775
+* Birthplace: Paris, Oxford, Maine, USA
+* Death: 10 NOV 1841
+* Deathplace: Paris, Oxford, Maine, USA
+* Age at Death: 66
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.adoc[Naomi Briggs (1742 - ?)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.adoc[David Andrews (1736 - 1815)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0250[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.adoc[Rhoda Andrews (1775 - 1841)]
+
+
+== Other
+
+== Sources

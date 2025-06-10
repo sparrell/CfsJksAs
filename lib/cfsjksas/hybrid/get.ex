@@ -125,6 +125,29 @@ defmodule Cfsjksas.Hybrid.Get do
   # draw line from g13 to g14 special sectors
   @xtra_lines14 [{3952, 3952}, {3952, 3953}]
 
+  @other [
+			:census,
+			:description,
+			:education,
+			:emigration,
+			:event,
+			:former_name,
+			:graduation,
+			:immigration,
+			:name_prefix,
+			:name_suffix,
+			:naturalized,
+			:nickname,
+			:notes,
+			:occupation,
+			:ordained,
+			:probate,
+			:religion,
+			:residence,
+			:title,
+			:will,
+  ]
+
 
   def path(:ancestors_svg) do
     Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)
@@ -269,6 +292,10 @@ defmodule Cfsjksas.Hybrid.Get do
 
   def xtra_lines(14) do
     @xtra_lines14
+  end
+
+  def other() do
+    @other
   end
 
 

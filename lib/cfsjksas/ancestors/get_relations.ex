@@ -17841,5 +17841,46 @@ defmodule Cfsjksas.Ancestors.GetRelations do
     all_ancestor_keys(rest, ancestors ++ tuple_list)
   end
 
+  def list_no_key_for_gen(gen, key) do
+    # get keys for gen
+    person_list(gen)
+    # print those that don't have key
+    |> list_no_key_for_gen(gen, key)
+  end
+  def list_no_key_for_gen([], _gen, _key) do
+    # done
+    :ok
+  end
+  def list_no_key_for_gen([next_person | rest_people], gen, key) do
+    # get full relation person
+    person_r = data(gen, next_person)
+    # get full people person
+    person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+    # see if they have key
+    case Map.has_key?(person_p, key) do
+      true ->
+        # has it so continue
+        nil
+      false ->
+        # print info on person without key
+        text = to_string(person_p.id)
+        <> ": "
+        <> Cfsjksas.Ancestors.GetPeople.get_name(person_p)
+        IO.inspect(text)
+    end
+    # recurse thru rest
+    list_no_key_for_gen(rest_people, gen, key)
+  end
+
+  def list_no_link_key(gen) do
+    IO.inspect("MyHeritage:")
+    list_no_key_for_gen(gen, :myheritage)
+    IO.inspect("WeRelate:")
+    list_no_key_for_gen(gen, :werelate)
+    IO.inspect("Geni:")
+    list_no_key_for_gen(gen, :geni)
+
+  end
+
 
 end

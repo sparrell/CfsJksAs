@@ -1,0 +1,73 @@
+= Elijah Genubeth Strong (1818 - 1870)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 31 JAN 1818
+* Birthplace: Bolton, Tolland, Connecticut, USA
+* Death: BEF 20 JUL 1870
+* Deathplace: Montville, New London, Connecticut, USA
+* Buried: 
+----
+2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
+----
+
+* Age at Death: About 52
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.adoc[Lucy Hannum (1795 - 1856)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.adoc[Genubeth Strong (1791 - 1856)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+
+== Other
+census: 
+----
+2 DATE 1850
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 31-32
+----
+
+----
+2 DATE 1860
+2 PLAC The Town Of Montville, New London, Connecticut, USA
+2 AGE 41-42
+----
+
+occupation: Farmer and JoinerFactory Worker (Census)
+----
+2 DATE 1860
+2 AGE 41-42
+----
+
+
+== Sources

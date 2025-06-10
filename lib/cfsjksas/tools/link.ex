@@ -17,17 +17,24 @@ defmodule Cfsjksas.Tools.Link do
 	Primary (C, J, A) are special and not from this module
 	"""
 	def book(person) do
+    "* "
+    <> book_link(person, "[Book page]")
+	end
+
+  def book_link(person, label) do
 		filename = make_filename(person)
 		gen = length(person.relation)
-		"* https://github.com/spoarrell/cfs_ancestors/tree/main/"
+		"https://github.com/spoarrell/cfs_ancestors/tree/main/"
 		<> "Vol_02_Ships/"
 		<> "V2_C5_Ancestors/"
 		<> "V2_C5_G"
 		<> to_string(gen)
 		<> "/"
 		<> filename
-		<> "[Book page]\n"
-	end
+    <> label
+		<> "\n"
+
+  end
 
   def dev(person) do
 		"* https://cfsjksas.gigalixirapp.com/person?p="

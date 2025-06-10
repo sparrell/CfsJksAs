@@ -30,6 +30,8 @@ Cfsjksas.Hybrid.Create.main("try8.svg")
 
 Cfsjksas.Hybrid.Create.main("try9.svg")
 
+Cfsjksas.Tools.Markdown.person_pages(1)
+
 Cfsjksas.Tools.Relation.dedup()
 
 Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")

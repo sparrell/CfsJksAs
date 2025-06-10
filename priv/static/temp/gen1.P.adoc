@@ -6,6 +6,7 @@ TBD narrative goes here
 == Vital Stats
 
 
+* Sex: M
 * Birth: 26 FEB 1899
 * Birthplace: Worcester, Worcester, Massachusetts, USA
 * Death: 16 JUN 1978
@@ -16,10 +17,17 @@ TBD narrative goes here
 ----
 
 * Age at Death: 79
+* Death Cause: Metastic Bladder Cancer
 
 
 == Family
-need to fix make_family of p0486 / mom: p0006
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+
+* Child*: CFS/JKS/AS
 
 == Reference Links
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Book page]
@@ -29,16 +37,39 @@ need to fix make_family of p0486 / mom: p0006
 * https://www.geni.com/people/Herbert-Sparrell/6000000019834806464[Geni]
 
 == Relations
-need to fix make_relations of p0486
+=== Lineage #1
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
 
 == Other
-* Census:DATE 1940
+census: DATE 1940
 ----
 2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
 2 AGE 40-41
+----
+
+----
 2 DATE 1910
 2 PLAC Worcester Ward 7, Worcester, Massachusetts, USA
 2 AGE 10-11
+----
+
+event:  Metastic Bladder Cancer
+----
+2 TYPE _DCAUSE
+----
+ 6 ft. 1 in.
+----
+2 TYPE _HEIG
+----
+
+residence: 
+----
+2 DATE 1935
+2 AGE 35-36
+2 ADDR
+3 ADR2 W Kingston, Wash, Rhode Island
 ----
 
 

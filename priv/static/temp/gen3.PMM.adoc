@@ -1,0 +1,67 @@
+= Alice Virginia Edgecomb (1850 - 1914)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: FEB 1850
+* Birthplace: New London, New London, Connecticut, USA
+* Death: 1914
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Buried: 
+----
+2 DATE 1914
+2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
+----
+
+* Age at Death: 63-64
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.adoc[Sarah Lavinia Kimball (1830 - 1909)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.adoc[George Washington Edgecomb (1826 - 1862)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0086[Dev website]
+* WeRelate TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong[MyHeritage]
+* Geni TBD
+
+== Relations
+=== Lineage #1
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.adoc[Alice Virginia Edgecomb (1850 - 1914)]
+
+
+== Other
+census: 
+----
+2 DATE 1860
+2 PLAC The City Of N. London, New London, Connecticut, USA
+2 AGE 9-10
+----
+
+notes: Alice and her future husband Albert Strong both worked in a cotton millin Montville CT in 1870 (US Census).
+occupation: Cotton Mill - Montville -US Census
+----
+2 DATE 1870
+2 AGE 19-20
+----
+
+
+== Sources
