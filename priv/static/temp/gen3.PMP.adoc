@@ -39,12 +39,12 @@ TBD narrative goes here
 
 == Relations
 === Lineage #1
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
 
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
 
 
 == Other

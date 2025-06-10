@@ -211,7 +211,7 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def make_lineage(person_r_rlist, relations) do
 		# walk thru list of relations left to right adding links
-		init_text = "https://github.com/spoarrell/cfs_ancestors/tree/main/"
+		init_text = "* https://github.com/spoarrell/cfs_ancestors/tree/main/"
 		<> "Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]\n"
 
 		make_lineage(init_text, [], person_r_rlist, relations)
@@ -234,7 +234,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		gen = length(this_relation)
 		this_person = relations[gen][this_relation]
 		label = "[" <> make_label(this_person) <> "]"
-		new_text = text <> Cfsjksas.Tools.Link.book_link(this_person, label) <> "\n"
+		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_person, label) <> "\n"
 		new_done = done ++ [this]
 		# recurse thru rest
 		make_lineage(new_text, new_done, rest, relations)

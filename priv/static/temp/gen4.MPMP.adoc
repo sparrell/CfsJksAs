@@ -34,14 +34,14 @@ TBD narrative goes here
 
 == Relations
 === Lineage #1
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
 
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
 
-https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.adoc[John Gray (1763 - 1841)]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.adoc[John Gray (1763 - 1841)]
 
 
 == Other
