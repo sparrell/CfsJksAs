@@ -1,0 +1,56 @@
+= Franz Josef Kerber (1791 - 1866)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 20 DEC 1791
+* Birthplace: Bavaria, Germany
+* Death: 10 DEC 1866
+* Deathplace: Greenfield, Franklin, Massachusetts, USA
+* Age at Death: 74
+* Death Cause: Pneumonia
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.adoc[Franz Josef Kerber (1825 - 1873)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPMPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0156[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.adoc[Louisa K. Kerber (1852 - 1922)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.adoc[Franz Josef Kerber (1825 - 1873)]
+
+* Franz Josef Kerber (1791 - 1866)
+
+
+== Other
+event:  Pneumonia
+----
+2 TYPE _DCAUSE
+----
+
+occupation: Leather Cutter
+
+== Sources

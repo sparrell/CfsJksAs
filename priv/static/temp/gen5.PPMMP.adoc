@@ -1,0 +1,50 @@
+= Unknown214 Schaal (? - ?)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birthplace: Baden, Germany
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.adoc[Eva Katherina Schaal (1828 - 1902)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPMMP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0154[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.adoc[Louisa K. Kerber (1852 - 1922)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.adoc[Eva Katherina Schaal (1828 - 1902)]
+
+* Unknown214 Schaal (? - ?)
+
+
+== Other
+immigration: emigrated to America
+----
+2 DATE ABT 1849
+----
+
+
+== Sources

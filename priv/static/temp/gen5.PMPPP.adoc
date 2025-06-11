@@ -1,0 +1,61 @@
+= Genubeth Strong (1791 - 1856)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 22 OCT 1791
+* Birthplace: Bolton, Tolland, Connecticut, USA
+* Death: 13 AUG 1856
+* Deathplace: Andover, Tolland, Connecticut, USA
+* Age at Death: 64
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.adoc[Lucy Kilbourn (? - 1825)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.adoc[Ebenezer Strong (1750 - 1824)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0141[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+* Genubeth Strong (1791 - 1856)
+
+
+== Other
+event:  Genubeth was named by allowing a Bible to fall open. See 1 Kings 11:20 .
+----
+2 TYPE Fact 2
+----
+
+occupation: Farmer and Joiner at Andover CT
+----
+2 PLAC Andover, Tolland, Connecticut, USA
+----
+
+
+== Sources

@@ -1,0 +1,51 @@
+= Margaret Watt (1739 - 1796)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Gray
+* Birth: 19 FEB 1739
+* Birthplace: Worcester, Worcester County, MA
+* Death: 7 SEP 1796
+* Deathplace: Worcester, Worcester County, MA
+* Age at Death: 57
+
+
+== Family
+* Mother: Brickwall
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPMP.adoc[Alexander Watts (? - ?)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.adoc[John Gray (1763 - 1841)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPM.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0448[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.adoc[John Gray (1763 - 1841)]
+
+* Margaret Watt (1739 - 1796)
+
+
+== Other
+
+== Sources

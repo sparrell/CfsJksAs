@@ -39,7 +39,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPP.adoc[Albert Fisher (1812 - 1887)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPP.adoc[Jacob Fisher (1776 - 1820)]
+* Jacob Fisher (1776 - 1820)
 
 
 == Other

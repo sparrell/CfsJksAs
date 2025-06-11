@@ -38,7 +38,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.adoc[Charles Henry Hurlburt (1849 - 1930)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.adoc[Laura Esther Bennett (1827 - ?)]
+* Laura Esther Bennett (1827 - ?)
 
 
 == Other

@@ -47,7 +47,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.adoc[James Newton Sparrell (1825 - 1877)]
+* James Newton Sparrell (1825 - 1877)
 
 
 == Other

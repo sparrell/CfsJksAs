@@ -46,7 +46,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
+* Elizabeth Shaw Whaley (1813 - 1870)
 
 
 == Other

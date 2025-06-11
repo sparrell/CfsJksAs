@@ -45,7 +45,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.adoc[Ida A Hurlburt (1874 - 1965)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMM.adoc[Martha Avery Edgecomb (1855 - 1939)]
+* Martha Avery Edgecomb (1855 - 1939)
 
 
 == Other

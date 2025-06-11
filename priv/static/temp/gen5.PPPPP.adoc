@@ -1,0 +1,111 @@
+= James Newton Sparrell (1798 - 1859)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 8 MAY 1798
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Death: 1 MAR 1859
+* Deathplace: South Scituate, Plymouth, Massachusetts, USA
+* Buried: 
+----
+2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
+----
+
+* Age at Death: 60
+* Death Cause: erysipelas (acute streptoccocal infection of skin)
+
+
+== Family
+* Mother: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.adoc[Rachel Turner (1776 - 1866)]
+
+
+* Father: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPP.adoc[James Newton Sparrell (1770 - 1826)]
+
+
+* Child*: https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.adoc[James Newton Sparrell (1825 - 1877)]
+
+
+
+== Reference Links
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0353[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.adoc[James Newton Sparrell (1825 - 1877)]
+
+* James Newton Sparrell (1798 - 1859)
+
+
+== Other
+event:  Field Driver
+----
+2 TYPE Appointed
+2 DATE 1840
+2 AGE 41-42
+----
+ Surveyor of Lumber (to 1845)
+----
+2 TYPE Appointed
+2 DATE FROM 1839 TO 1845
+----
+ Overseer of the Workhouse and the Poor
+----
+2 TYPE Appointed
+2 DATE 1831
+2 AGE 32-33
+----
+ erysipelas (acute streptoccocal infection of skin)
+----
+2 TYPE _DCAUSE
+----
+ Sealer of Weights and Measures(to 18 33)
+----
+2 TYPE Appointed
+2 DATE FROM 1826 TO 1833
+----
+
+notes: JAMES NEWTON SPARRELL III and DESIRE BARRELL SPARRELL: James Newton Sparrell III was born May 8,1798 in the old South Parish of Scituate (set off as the town of South Scituate in 1848 and renamed Norwell in 1878). He was the eldest of the seven children of James Newton Sparrell II and Rachel Turner Sparrell. James was born and grew up in a house no longer standing near the present SE corner of Bridge Street and Main Street in Norwell. In 1820 James III is described as a "cabinetmaker" in a quitclaim deed executed by his father in a vain attempt to shelter some of the real estate then being seized by his creditors in bankruptcy.  (Beautiful furniture made by James could be seen in the Sparrell house on Central Street up until the death in the 1970?s of Grace, Ernest Sparrell?s third wife). There is also a receipt for a coffin dated 1822 which is the basis for the Sparrell-MacNamara funeral home on Central to claim that they are the oldest undertaker in Massachusetts. (the undertaking business was actually founded by James?s second son, Charles Warren on his return from the Civil War.) James III did all kinds of woodwork during his lifetime. He worked in the shipyards along the North River. He built houses, shingled the alms house, made wooden boxes, small boats and did whatever  carpentry work he could find. He taught his trade to his sons and James IV, Charles W. and George H. were listed as "housewrights" before the Civil War. James? largest project was the construction of the 2nd Parish Meeting House (now the Norwell Unitarian Church) in 1830. The church was designed by his younger brother, Boston Architect William Sparrell. According to family tradition,  a keg of rum was boached at the frame raising. James imbibed too much. James climbed to the top of the frame to drive the wooden pins that connected the joints. He then proceeded to dance along the twelve inch horizontal beams 30 feet above the ground and refused to come down much to the embarrassment of his wife. James married Desire Barrell in the 2nd Parish Meeting house on 6 October 1822. After their marriage, they  lived with her parents in her father?s house on Central Street. The house, barn and James woodworking shop are still standing. James? tools remained in the shop until the  1960?s when Grace gave the tools to Old Sturbridge Village Museum. James held a number of minor public offices in the town. He was on the Prudential (school) Committee 1828-1831 , Overseer of the Poor 1831, Sealer of Weights and Measures from 1826 to 1833, Surveyor ofLumber from 1838 to 1845, etc. James died 1 Mar 1859 leaving his tools to Charles W. and the rest of his estate to Desire. He is buried in the cemetery by the church which he built and where he owned two pews. Desire Barrell Sparrell was born in the South Parish of Scituate on 6 Oct 1798. (There is some confusion about her birth date because she  wasgiven the same name, as was the custom then, of an older sister who haddied in infancy. Census and death records confirm her birth date.). Shewas the daughter of James Barrell, Jr. and his wife Martha Farrow Barrell. In 1811, Scituate voted to establish an almshouse at the present cornerof Main and Central Streets in Norwell. James Barrell, Jr.  became thekeeper in 1818, serving until illness forced him to resign in 1829. In1820 James purchased a house on Central Street just down the hill fromthealmshouse. Charles Warren Sparrell lived in the house all his lifeand inherited it when his mother died. The house remained in that branch of the family until the death of Grace Sparrell. Desire assisted her husband and later her son Charles W. by sewing coffin liners and burial shroud
+occupation: Shipwright, Cabinetmaker/Master Carpenter
+----
+2 DATE 1820
+2 AGE 21-22
+----
+
+title: Gentleman, Captain
+
+== Sources
+* @S43@
+----
+2 PAGE https://www.myheritage.com/research/record-30033-1259108-F/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
+2 QUAY 4
+2 DATA
+3 TEXT James N. Sparrell & Emeline Gleason
+4 CONC Marriage: Aug 5 1846 - Worcester, Massachusetts
+4 CONC Husband: James N. Sparrell
+4 CONC &nbsp;&nbsp;Father: James N. Sparrell
+4 CONC &nbsp;&nbsp;Mother: Desire Sparrell
+4 CONC Wife: Emeline Gleason
+4 CONC &nbsp;&nbsp;Father: Line... Gleason
+4 CONC &nbsp;&nbsp;Mother: Sophia Gleason
+4 CONC Certificate Number: 254
+4 CONC GS Film number: 1428256
+4 CONC Digital Folder Number: 4279728
+4 CONC Image Number: 00797
+----
+

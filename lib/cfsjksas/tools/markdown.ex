@@ -3,17 +3,19 @@ defmodule Cfsjksas.Tools.Markdown do
 	require IEx
 
 	def person_pages(gen) do
-		relations = Cfsjksas.Tools.Relation.dedup()
-		people_keys = Map.keys(relations[gen])
-		person_page(people_keys, gen, relations)
+		dup_relations = Cfsjksas.Ancestors.GetRelations.data()
+		dedup_relations = Cfsjksas.Tools.Relation.dedup()
+		people_keys = Map.keys(dedup_relations[gen])
+		person_page(people_keys, gen, dup_relations, dedup_relations)
 	end
 
-	def person_page([], _gen, _relations) do
+	def person_page([], _gen, _dup_relations, _dedup_relations) do
 		# done
 		IO.inspect("finished")
 	end
-	def person_page([this_relation | rest_relations], gen, relations) do
-		person = relations[gen][this_relation]
+	def person_page([this_relation | rest_relations], gen, dup_relations, dedup_relations) do
+
+		person = dedup_relations[gen][this_relation]
 		filename = Cfsjksas.Tools.Link.make_filename(person)
 		filepath = Path.join(:code.priv_dir(:cfsjksas), "static/temp/" <> filename)
 
@@ -26,11 +28,11 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> "\n== Vital Stats\n"
 		<> make_vitals(person)
 		<> "\n== Family\n"
-		<> make_family(person, gen, relations)
+		<> make_family(person, gen, dedup_relations)
 		<> "\n== Reference Links\n"
 		<> make_refs(person)
 		<> "\n== Relations\n"
-		<> make_relations(person, relations)
+		<> make_relations(person, dup_relations) #need dups since doing all lineages
 		<> "\n== Other\n"
 		<> make_other(person)
 		<> "\n== Sources\n"
@@ -40,7 +42,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		IO.inspect(filename, label: "wrote")
 
 		# recurse thru rest
-		person_page(rest_relations, gen, relations)
+		person_page(rest_relations, gen, dup_relations, dedup_relations)
 	end
 
 	def get_name(person) do
@@ -185,36 +187,55 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> "\n"
 	end
 
-	def make_relations(person_r, relations) do
+	def make_relations(person_r, dup_relations) do
 		# loop thru the sorted lineages
 		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
 		# number the lineages
-		make_relations("", person_p.relation_list, 1, relations)
+		make_relations("", person_p.relation_list, 1, dup_relations)
 	end
 	@doc """
 	make_relations(text, list_of_relation_lists, lineage_numb, relations)
 	recurse thru the lisf of relation lists, making linkeage text for each
 	"""
-	def make_relations(text, [], _lineage_numb, _relations) do
+	def make_relations(text, [], _lineage_numb, _dup_relations) do
 		# no lineages left so done
 		text
 	end
-	def make_relations(text, [this_list | rest_of_lists], lineage_numb, relations) do
+	def make_relations(text, [this_list | rest_of_lists], lineage_numb, dup_relations) do
 		# start with previous text, add header of lineage number, and add lineage
 		text
 		<> "=== Lineage \#"
 		<> to_string(lineage_numb)
 		<> "\n"
-		<> make_lineage(this_list, relations)
-		|> make_relations(rest_of_lists, lineage_numb + 1, relations)
+		<> make_lineage(this_list, dup_relations)
+		|> make_relations(rest_of_lists, lineage_numb + 1, dup_relations)
 	end
 
-	def make_lineage(person_r_rlist, relations) do
+	@doc """
+	the relations list is a list of "P" and "M" of length gen
+	  (ie one for each generation)
+	make_lineage/2 calls make_lineage/4 to create the markdown
+	for each person in the lineage
+
+	Special case: note if the relastions are for a duplicate,
+	then the final link will be different.
+	quick fix is to not put in link for any 'final' person
+	since you are on that page anyway
+	"""
+
+	def make_lineage(person_r_rlist, dup_relations) do
 		# walk thru list of relations left to right adding links
 		init_text = "* https://github.com/spoarrell/cfs_ancestors/tree/main/"
 		<> "Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]\n"
 
-		make_lineage(init_text, [], person_r_rlist, relations)
+		# to avoid link for final person, stip off last relation
+		# and add final person without link
+		mod_r_list = List.delete_at(person_r_rlist, -1)
+		gen = length(person_r_rlist)
+		person = dup_relations[gen][person_r_rlist]
+
+		make_lineage(init_text, [], mod_r_list, dup_relations)
+		<> "* " <> make_label(person) <> "\n\n"
 	end
 	@doc """
 	make_lineage(person_r, text, done, todo, gen, relations)
@@ -224,20 +245,20 @@ defmodule Cfsjksas.Tools.Markdown do
 	gen generations (helper)
 	relations (helper)
 	"""
-	def make_lineage(text, _done, [], _relations) do
+	def make_lineage(text, _done, [], _dup_relations) do
 		# todo is empty so done
 		text
 	end
-	def make_lineage(text, done, [this | rest], relations) do
+	def make_lineage(text, done, [this | rest], dup_relations) do
 		# the relation key for "this" person is done + this
 		this_relation = done ++ [this]
 		gen = length(this_relation)
-		this_person = relations[gen][this_relation]
+		this_person = dup_relations[gen][this_relation]
 		label = "[" <> make_label(this_person) <> "]"
 		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_person, label) <> "\n"
 		new_done = done ++ [this]
 		# recurse thru rest
-		make_lineage(new_text, new_done, rest, relations)
+		make_lineage(new_text, new_done, rest, dup_relations)
 	end
 
 	def make_other(person_r) do

@@ -42,7 +42,7 @@ TBD narrative goes here
 
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.adoc[Louisa K. Kerber (1852 - 1922)]
 
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.adoc[Franz Josef Kerber (1825 - 1873)]
+* Franz Josef Kerber (1825 - 1873)
 
 
 == Other
