@@ -24,7 +24,7 @@ defmodule Cfsjksas.Tools.Link do
   def book_link(person, label) do
 		filename = make_filename(person)
 		gen = length(person.relation)
-		"https://github.com/spoarrell/cfs_ancestors/tree/main/"
+    "https://github.com/sparrell/cfs_ancestors/blob/main/"
 		<> "Vol_02_Ships/"
 		<> "V2_C5_Ancestors/"
 		<> "V2_C5_G"
