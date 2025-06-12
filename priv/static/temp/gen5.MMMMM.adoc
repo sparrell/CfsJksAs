@@ -72,15 +72,6 @@ census:
 2 AGE 57-58
 ----
 
-event:  67
-----
-2 TYPE Reference Number
-----
- 67
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
 * @S32@

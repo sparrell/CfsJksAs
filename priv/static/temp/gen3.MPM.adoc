@@ -56,15 +56,6 @@ census:
 2 AGE 71-72
 ----
 
-event:  212
-----
-2 TYPE Reference Number
-----
- 212
-----
-2 TYPE Reference Number
-----
-
 occupation: Keeps House
 
 == Sources
