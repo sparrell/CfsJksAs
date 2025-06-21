@@ -5,6 +5,8 @@ defmodule Cfsjksas.Hybrid.Svg do
   def save_file(svgtext, filename) do
     filepath = Path.join(:code.priv_dir(:cfsjksas), "static/images/" <> filename)
     File.write(filepath, svgtext)
+    test_filepath = filepath <> ".txt"
+    File.write(test_filepath, svgtext)
   end
 
   def beg() do

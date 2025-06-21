@@ -614,7 +614,7 @@ end
 defp make_name_text(id, font_size, text) do
   # add text to exiting path
 
-  "<text style=\"font-family: sans-serif; font-size:" <> font_size <> "; fill:#000000;\">\n"
+  "<text style=\"font-family: miniscule; font-size:" <> font_size <> "; fill:#000000;\">\n"
   <> "<textPath href=\"#" <> id <> "\" startOffset=\"50%\" dominant-baseline=\"middle\" text-anchor=\"middle\">\n"
   <> text <> "\n"
   <> "</textPath>\n"
@@ -625,7 +625,9 @@ defp make_hidden_ray(id, beg_x, beg_y, end_x, end_y) do
   # draw straight line
   "<path id=\"" <> id <> "\" d=\"M "
   <> to_string(beg_x) <> "," <> to_string(beg_y)
-  <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" />\n"
+  <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" "
+  <> "visibility=\"hidden\" "
+  <> "/>\n"
 end
 
 defp not_nil(input) when is_binary(input) do

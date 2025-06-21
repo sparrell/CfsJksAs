@@ -27,8 +27,9 @@ Cfsjksas.Circle.Create.main(:wo_duplicates, "try4.svg")
 Cfsjksas.Create.Circle.main(:circle_base, "try5.svg")
 Cfsjksas.Create.Hybrid.main("try6.svg")
 Cfsjksas.Hybrid.Create.main("try8.svg")
-
 Cfsjksas.Hybrid.Create.main("try9.svg")
+
+Cfsjksas.Hybrid.Create.main("hybrid.2.svg")
 
 Cfsjksas.Tools.Markdown.person_pages(1)
 

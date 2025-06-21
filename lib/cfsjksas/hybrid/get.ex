@@ -42,13 +42,13 @@ defmodule Cfsjksas.Hybrid.Get do
       stroke_width: "80",
     },
     4 => %{
-      font_size_n: "150pt",
+      font_size_n: "125pt",
       font_size_d: "100pt",
       stroke_width: "80",
     },
     5 => %{
-      font_size_n: "100pt",
-      font_size_d: "100pt",
+      font_size_n: "90pt",
+      font_size_d: "75pt",
       stroke_width: "80",
     },
     6 => %{
@@ -77,15 +77,15 @@ defmodule Cfsjksas.Hybrid.Get do
       stroke_width: "10",
     },
     12 => %{
-      font_size: "16pt",
+      font_size: "24pt",
       stroke_width: "5",
     },
     13 => %{
-      font_size: "16pt",
+      font_size: "24pt",
       stroke_width: "5"
     },
     14 => %{
-      font_size: "16pt",
+      font_size: "24pt",
       stroke_width: "5",
     },
   }
