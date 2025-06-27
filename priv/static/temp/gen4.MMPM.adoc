@@ -25,9 +25,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0100[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.werelate.org/wiki/Person:Laura_Bennett_%284%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000329/laura-esther-bennett-hurlburt[MyHeritage]
+* https://www.geni.com/people/Laura-Bennett/6000000219179990264[Geni]
 
 == Relations
 === Lineage #1

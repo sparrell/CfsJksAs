@@ -34,9 +34,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0189[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Arvilla_Gray_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000423/arvilla-gray-fisher[MyHeritage]
-* Geni TBD
+* https://www.geni.com/people/Arvilla-Gray/6000000219179990052[Geni]
 
 == Relations
 === Lineage #1

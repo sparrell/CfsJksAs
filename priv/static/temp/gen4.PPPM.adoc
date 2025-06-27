@@ -33,9 +33,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0329[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell[MyHeritage]
+* https://www.geni.com/people/Emiline-Sparrell/6000000007500421270[Geni]
 
 == Relations
 === Lineage #1

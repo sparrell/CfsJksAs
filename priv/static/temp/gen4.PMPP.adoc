@@ -33,9 +33,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
+* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
 
 == Relations
 === Lineage #1

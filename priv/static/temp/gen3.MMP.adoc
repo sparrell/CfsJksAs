@@ -34,9 +34,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0071[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt[MyHeritage]
-* Geni TBD
+* https://www.geni.com/people/Charles-Hurlburt/6000000219179990217[Geni]
 
 == Relations
 === Lineage #1

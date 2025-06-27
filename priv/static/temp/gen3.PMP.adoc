@@ -33,9 +33,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0075[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Albert_Strong_%282%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000290/albert-randolph-strong[MyHeritage]
-* Geni TBD
+* https://www.geni.com/people/Albert-Strong/6000000007698827300[Geni]
 
 == Relations
 === Lineage #1

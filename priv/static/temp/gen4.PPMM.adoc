@@ -28,9 +28,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0153[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber[MyHeritage]
+* https://www.geni.com/people/Catharine-Kerber/6000000019834512933[Geni]
 
 == Relations
 === Lineage #1

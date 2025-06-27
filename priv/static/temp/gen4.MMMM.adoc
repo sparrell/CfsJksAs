@@ -33,9 +33,9 @@ TBD narrative goes here
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.adoc[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0639[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.werelate.org/wiki/Person:Sarah_Kimball_%2818%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000897/sarah-lavinia-kimball-edgecomb[MyHeritage]
+* https://www.geni.com/people/Sarah-Kimball/6000000219179990399[Geni]
 
 == Relations
 === Lineage #1

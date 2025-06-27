@@ -5,6 +5,24 @@ Charles Fisher Sparrell (CFS),
 James Kirkwood Sparrell (JKS),
 and Ann Sparrell (AS).
 
+# Start Phoenix endpoint with `mix phx.server` or inside IEx with:
+  iex -S mix phx.server
+
+# make dedup file (usually won't need to)
+Cfsjksas.Tools.Relation.dedup()
+
+# make svg
+Cfsjksas.Hybrid.Create.main("hybrid.2.svg")
+
+# check if missing links
+gen=3
+Cfsjksas.Ancestors.GetRelations.list_no_link_key(gen)
+
+# make pages for other repo
+gen=3
+Cfsjksas.Tools.Markdown.person_pages(gen)
+
+
 Charts created via
   * Cfsjksas.Circle.Create.main(chart, filename)
     + chart
@@ -37,9 +55,6 @@ Cfsjksas.Tools.Relation.dedup()
 
 Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")
 
-
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with:
-  iex -S mix phx.server
 
 
   Redesign notes:
