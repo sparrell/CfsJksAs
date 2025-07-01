@@ -1,0 +1,61 @@
+= Elijah Hannum (1759 - 1832)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 25 MAY 1759
+* Birthplace: Belchertown, Hampshire, Massachusetts, USA
+* Death: 16 MAY 1832
+* Deathplace: Belchertown, Hampshire, Massachusetts, USA
+* Age at Death: 72
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPM.adoc[Abiah Cowles (1722 - 1796)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.adoc[Gideon Hannum (1727 - 1786)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.adoc[Lucy Hannum (1795 - 1856)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0253[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.adoc[Lucy Hannum (1795 - 1856)]
+
+* Elijah Hannum (1759 - 1832)
+
+
+== Other
+event:  Enlisted as Private, Revolutionary War
+----
+2 TYPE Military Service
+2 DATE 8 MAY 1777
+2 AGE 17
+----
+
+notes: 1798 Tax Assessment - Belchertown  - 18 acre farm and dwelling
+
+== Sources

@@ -1,0 +1,64 @@
+= David Strong (1704 - 1801)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 15 DEC 1704
+* Birthplace: Windsor, Hartford, Connecticut, USA
+* Death: 25 JAN 1801
+* Deathplace: Bolton, Tolland, Connecticut, USA
+* Age at Death: 96
+* Death Cause: "Old age"
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPM.adoc[Mary Unknown088 (? - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.adoc[John Strong (1665 - 1749)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.adoc[Ebenezer Strong (1750 - 1824)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0186[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.adoc[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.adoc[Ebenezer Strong (1750 - 1824)]
+
+* David Strong (1704 - 1801)
+
+
+== Other
+event:  "Old age"
+----
+2 TYPE _DCAUSE
+----
+
+notes: David and Thankful Strong were admitted to the church in Bolton CT fro the church in East Windsor  on 1July 1732
+occupation: Farmer
+ordained: Deacon
+
+== Sources

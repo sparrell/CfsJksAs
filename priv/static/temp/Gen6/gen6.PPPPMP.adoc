@@ -1,0 +1,65 @@
+= James Barrell (1751 - 1801)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1751
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Death: BEF 1801
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Age at Death: About 49-50
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPM.adoc[Deborah Bowker (1730 - 1813)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.adoc[James Barrell (1727 - 1827)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.adoc[Desire Sparrell (1798 - 1872)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0376[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.adoc[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.adoc[Desire Sparrell (1798 - 1872)]
+
+* James Barrell (1751 - 1801)
+
+
+== Other
+event:  Revolution (see notes)
+----
+2 TYPE Military Service
+----
+
+notes: James Barrell, Jr. , Capt. Nathaniel Winslow's Company, General John Thomas Regt. Order for a bounty coat or its equivalent in money, Dated atcamp at Roxbury, 18 Dec 1775. <p></p> <p>James Barrell, Jr
+----
+2 CONC ., Col. Benjamin Tucker's 10th Massachusetts Regiment,17 Mar 1781 to 1 Jan 1782</p> <p>6 months as Private, 3 months as corporal.  Also, 1 Jan 1782 to 1 Jan 1783.  In Nov 1782 regiment was stationed a
+2 CONC t Verplank's Point across from Stony Point on the east side of the Hudson River where the Tappen Zeenarrows below West Point. 10th Regt. disbanded at Verplank's 1 Jan 1783. Reported serving in 5th Mas
+2 CONC s. Regt. in Feb 1783. 5th Regiment disbanded at West Point 15 Nov 1783
+----
+
+
+== Sources

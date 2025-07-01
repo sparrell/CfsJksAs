@@ -9,15 +9,16 @@ defmodule Cfsjksas.Tools.Markdown do
 		person_page(people_keys, gen, dup_relations, dedup_relations)
 	end
 
-	def person_page([], _gen, _dup_relations, _dedup_relations) do
+	def person_page([], gen, _dup_relations, _dedup_relations) do
 		# done
-		IO.inspect("finished")
+		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_relation | rest_relations], gen, dup_relations, dedup_relations) do
 
 		person = dedup_relations[gen][this_relation]
 		filename = Cfsjksas.Tools.Link.make_filename(person)
-		filepath = Path.join(:code.priv_dir(:cfsjksas), "static/temp/" <> filename)
+#		filepath = Path.join(:code.priv_dir(:cfsjksas), "static/temp/" <> filename)
+		filepath = Path.join(:code.priv_dir(:cfsjksas), "static/temp/Gen" <> to_string(gen) <> "/" <> filename)
 
 		check_facts(person.id)
 
@@ -370,11 +371,12 @@ defmodule Cfsjksas.Tools.Markdown do
 		|> List.delete(:birth_place)
 		|> List.delete(:death_date)
 		|> List.delete(:death_place)
-		|> List.delete(:gemo)
+		|> List.delete(:geni)
 		|> List.delete(:werelate)
 		|> List.delete(:myheritage)
 		|> List.delete(:mh_famc)
 		|> List.delete(:mh_fams)
+		|> List.delete(:religion)
 		|> check_facts(person)
 	end
 

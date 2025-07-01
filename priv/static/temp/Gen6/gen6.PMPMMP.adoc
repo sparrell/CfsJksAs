@@ -1,0 +1,66 @@
+= James Haughton (1719 - 1804)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 29 APR 1719
+* Birthplace: New London, New London, Connecticut, USA
+* Death: AFT JUN 1804
+* Deathplace: Montville, New London, Connecticut, USA
+* Age at Death: About 85
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPM.adoc[Sarah Pemberton (1695 - 1749)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.adoc[Sampson Haughton (1692 - 1756)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.adoc[Philena Haughton (1776 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0080[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.adoc[Philena Haughton (1776 - ?)]
+
+* James Haughton (1719 - 1804)
+
+
+== Other
+census: 
+----
+2 DATE 4 AUG 1800
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 81
+----
+
+notes: <p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern o
+----
+2 CONC n the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>
+----
+
+occupation: Tavern Keeper, Montville CT
+
+== Sources

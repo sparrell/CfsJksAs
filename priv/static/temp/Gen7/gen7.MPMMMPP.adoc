@@ -1,0 +1,68 @@
+= John Briggs (1673 - 1764)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 13 FEB 1673
+* Birthplace: Taunton, Bristol, Massachusetts, USA
+* Death: 18 MAR 1764
+* Deathplace: Berkley, Bristol, Massachusetts, USA
+* Age at Death: 91
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.adoc[Experience Harvey (1644 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.adoc[Jonathan Briggs (1635 - 1699)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.adoc[Israel Briggs (1703 - 1774)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0388[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.adoc[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.adoc[Rhoda Andrews (1775 - 1841)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.adoc[Naomi Briggs (1742 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.adoc[Israel Briggs (1703 - 1774)]
+
+* John Briggs (1673 - 1764)
+
+
+== Other
+event:  Taunton Militia Company
+----
+2 TYPE Military Service
+2 DATE 1700
+2 PLAC Taunton, Bristol, Massachusetts, USA
+2 AGE 26-27
+----
+
+notes: Taunton was set off from Plymouth and incorporated in 1639. <p>Dighton was set off from Taunton  and incorporated in 1712.</p> <p>Berkley was incorporated in 1735 from parts of Dighton and Taunton.</p
+----
+2 CONC >
+----
+
+
+== Sources

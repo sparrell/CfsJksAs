@@ -1,0 +1,72 @@
+= Gideon Hannum (1727 - 1786)
+
+TBD narrative goes here
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 3 MAR 1727
+* Birthplace: Northampton, Hampshire, Massachusetts, USA
+* Death: 25 JUN 1786
+* Deathplace: Belchertown, Hampshire, Massachusetts, USA
+* Age at Death: 59
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPM.adoc[Mary Hutchinson (1699 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.adoc[William Hannum (1690 - 1755)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.adoc[Elijah Hannum (1759 - 1832)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.adoc[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0602[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.adoc[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.adoc[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.adoc[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.adoc[Elijah Hannum (1759 - 1832)]
+
+* Gideon Hannum (1727 - 1786)
+
+
+== Other
+event:  Sergeant in Capt Cowl's company in Col Woodbridge's regiment
+----
+2 TYPE Military Service
+2 SOUR @S11@
+3 QUAY 0
+----
+ Revolutionary War (See notes)
+----
+2 TYPE Military Service
+----
+
+notes: Sergeant; Capt. John Cowles Company 1775 <p>Private; Capt. Jonathan Bardwell's Company 1777</p> <p>Lieut (or Captain) in the Northern Army in 1778</p>
+
+== Sources
+* @S11@
+----
+2 QUAY 0
+----
+
