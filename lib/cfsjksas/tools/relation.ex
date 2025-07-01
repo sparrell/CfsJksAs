@@ -167,7 +167,7 @@ defmodule Cfsjksas.Tools.Relation do
     # add category termination
     # return tuple of {new relations, gen, new id_list}
     person_id = relations[gen][this].id
-    category = Cfsjksas.Ancestors.GetPeople.categorize_person(person_id)
+    category = Cfsjksas.Ancestors.Person.categorize_person(person_id)
     { put_in(relations, [gen, this, :termination], category),
       gen,
       [relations[gen][this].id | id_list]

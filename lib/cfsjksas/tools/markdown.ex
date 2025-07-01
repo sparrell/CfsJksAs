@@ -70,7 +70,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 
 	def make_vitals(person_r) do
-		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		"\n\n"
 		<> not_nil("Sex: ", person_p.sex)
 		<> not_nil("Married Name: ", person_p.married_name)
@@ -93,7 +93,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 
 	def make_refs(person_r) do
-		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(person_r)
 		<> Cfsjksas.Tools.Link.dev(person_r)
 		<> Cfsjksas.Tools.Link.werelate(person_p)
@@ -119,7 +119,7 @@ defmodule Cfsjksas.Tools.Markdown do
 				IO.inspect(termination, label: "why?")
 				IEx.pry()
 			{mom_id, _termination} ->
-				mom_p = Cfsjksas.Ancestors.GetPeople.person(mom_id)
+				mom_p = Cfsjksas.Ancestors.GetAncestors.person(mom_id)
 
 				mom_relation = mom_p.relation_list
 				|> Enum.sort_by( fn sublist -> {length(sublist), sublist} end)
@@ -149,7 +149,7 @@ defmodule Cfsjksas.Tools.Markdown do
 				IO.inspect(termination, label: "why?")
 				IEx.pry()
 			{dad_id, _termination} ->
-				dad_p = Cfsjksas.Ancestors.GetPeople.person(dad_id)
+				dad_p = Cfsjksas.Ancestors.GetAncestors.person(dad_id)
 
 				dad_relation = dad_p.relation_list
 				|> Enum.sort_by( fn sublist -> {length(sublist), sublist} end)
@@ -191,7 +191,7 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def make_relations(person_r, dup_relations) do
 		# loop thru the sorted lineages
-		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		# number the lineages
 		make_relations("", person_p.relation_list, 1, dup_relations)
 	end
@@ -264,7 +264,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 
 	def make_other(person_r) do
-		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		keys = Cfsjksas.Hybrid.Get.other()
 		make_other("", keys, person_p)
 	end
@@ -314,7 +314,7 @@ defmodule Cfsjksas.Tools.Markdown do
 
 
 	def make_sources(person_r) do
-		person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 
 		case Map.get(person_p, :sources) do
 			nil ->
@@ -371,7 +371,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		  ++ Cfsjksas.Hybrid.Get.vitals()
 		  ++ Cfsjksas.Hybrid.Get.dontcare()
 
-		person = Cfsjksas.Ancestors.GetPeople.person(person_id)
+		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
 
 		Map.keys(person) -- already
 		|> check_facts(person)

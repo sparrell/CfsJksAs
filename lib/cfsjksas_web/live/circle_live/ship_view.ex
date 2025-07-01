@@ -6,7 +6,7 @@ defmodule CfsjksasWeb.CircleLive.ShipView do
     # List people who came on ships
 
     # get the list of ids of people with ships
-    ships = Enum.sort(Cfsjksas.Ancestors.GetPeople.ship_people())
+    ships = Enum.sort(Cfsjksas.Ancestors.Person.ship_people())
     quantity = length(ships)
 
     {:ok,

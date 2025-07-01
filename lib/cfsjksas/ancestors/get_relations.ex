@@ -17855,7 +17855,7 @@ defmodule Cfsjksas.Ancestors.GetRelations do
     # get full relation person
     person_r = data(gen, next_person)
     # get full people person
-    person_p = Cfsjksas.Ancestors.GetPeople.person(person_r.id)
+    person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
     # see if they have key
     case Map.has_key?(person_p, key) do
       true ->
@@ -17865,7 +17865,7 @@ defmodule Cfsjksas.Ancestors.GetRelations do
         # print info on person without key
         text = to_string(person_p.id)
         <> ": "
-        <> Cfsjksas.Ancestors.GetPeople.get_name(person_p)
+        <> Cfsjksas.Ancestors.Person.get_name(person_p)
         IO.inspect(text)
     end
     # recurse thru rest

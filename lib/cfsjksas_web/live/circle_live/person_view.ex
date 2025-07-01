@@ -14,7 +14,7 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       :p0005
     end
 
-    person = Cfsjksas.Ancestors.GetPeople.person(person_of_interest)
+    person = Cfsjksas.Ancestors.GetAncestors.person(person_of_interest)
     person_txt = Cfsjksas.Circle.Geprint.print_person(person)
 
     surname = to_string(person.surname)

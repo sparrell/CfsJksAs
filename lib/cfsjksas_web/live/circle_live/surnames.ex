@@ -6,7 +6,7 @@ defmodule CfsjksasWeb.CircleLive.Surnames do
     # List people who came on ships
 
     # get the list of ids of people with ships
-    surnames = Cfsjksas.Ancestors.GetPeople.surnames()
+    surnames = Cfsjksas.Ancestors.Person.surnames()
     quanity = length(surnames)
 
     {:ok,

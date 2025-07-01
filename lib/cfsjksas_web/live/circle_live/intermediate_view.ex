@@ -6,7 +6,7 @@ defmodule CfsjksasWeb.CircleLive.IntermediateView do
     # List intermediate people
 
     # get the list of ids of people with ships
-    intermediates = Enum.sort(Cfsjksas.Ancestors.GetPeople.intermediate_people())
+    intermediates = Enum.sort(Cfsjksas.Ancestors.Person.intermediate_people())
     quantity = length(intermediates)
 
     {:ok,

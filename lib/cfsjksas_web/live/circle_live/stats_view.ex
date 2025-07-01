@@ -8,9 +8,9 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     {has_ships, wo_ships, brickwalls_both,
       brickwalls_mother, brickwalls_father,
       _parents, normal
-      } = Cfsjksas.Ancestors.GetPeople.categorize()
+      } = Cfsjksas.Ancestors.Person.categorize()
 
-    quantity_total_people = length(Cfsjksas.Ancestors.GetPeople.all_people_keys())
+    quantity_total_people = length(Cfsjksas.Ancestors.GetAncestors.all_ids())
     quantity_total_ancestors = length(Cfsjksas.Ancestors.GetRelations.all_ancestor_keys())
 
     quanity_has_ships = length(has_ships)
@@ -22,7 +22,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     quanity_normal = length(normal)
 
     # get the list of ids surnames
-    surnames = Cfsjksas.Ancestors.GetPeople.surnames()
+    surnames = Cfsjksas.Ancestors.Person.surnames()
     quanity_surnames = length(surnames)
 
     # get list of ancestors per generation
