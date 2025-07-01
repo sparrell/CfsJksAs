@@ -79,7 +79,8 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> not_nil("Birthplace: ", person_p.birth_place)
 		<> not_nil("Birth note: ", person_p.birth_note)
 		<> not_nil("Birth source: ", person_p.birth_source)
-		<> not_nil("hristening: ", person_p.christening)
+		<> not_nil("Baptism: ", person_p.baptism)
+		<> not_nil("Christening: ", person_p.christening)
 		<> not_nil("Death: ", person_p.death_date)
 		<> not_nil("Deathplace: ", person_p.death_place)
 		<> not_nil("Death note: ", person_p.death_note)
@@ -365,18 +366,14 @@ defmodule Cfsjksas.Tools.Markdown do
 	that are not already printing
 	"""
 	def check_facts(person_id) do
+		# keys already covered
+		already = Cfsjksas.Hybrid.Get.other()
+		  ++ Cfsjksas.Hybrid.Get.vitals()
+		  ++ Cfsjksas.Hybrid.Get.dontcare()
+
 		person = Cfsjksas.Ancestors.GetPeople.person(person_id)
-		Map.keys(person)
-		|> List.delete(:birth_date)
-		|> List.delete(:birth_place)
-		|> List.delete(:death_date)
-		|> List.delete(:death_place)
-		|> List.delete(:geni)
-		|> List.delete(:werelate)
-		|> List.delete(:myheritage)
-		|> List.delete(:mh_famc)
-		|> List.delete(:mh_fams)
-		|> List.delete(:religion)
+
+		Map.keys(person) -- already
 		|> check_facts(person)
 	end
 

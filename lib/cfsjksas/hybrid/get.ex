@@ -148,6 +148,46 @@ defmodule Cfsjksas.Hybrid.Get do
 			:will,
   ]
 
+  @vitals [
+    :sex,
+		:married_name,
+		:given_name,
+		:also_known_as,
+		:birth_date,
+		:birth_place,
+		:birth_note,
+		:birth_source,
+    :baptism,
+		:christening,
+		:death_date,
+		:death_place,
+		:death_note,
+		:buried,
+		:death_age,
+		:death_cause,
+		:death_source,
+  ]
+
+  @dontcare [
+    :geni,
+    :werelate,
+    :myheritage,
+    :uid,
+    :mh_famc,
+    :mh_fams,
+    :family_of_procreation,
+    :family_of_origin,
+    :relation_list,
+    :mh_id,
+    :mh_famc2,
+    :rin,
+    :sources,
+    :upd,
+    :surname,
+    :mh_name,
+    :id,
+  ]
+
 
   def path(:ancestors_svg) do
     Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)
@@ -296,6 +336,15 @@ defmodule Cfsjksas.Hybrid.Get do
 
   def other() do
     @other
+  end
+
+  def vitals() do
+    @vitals
+  end
+
+  def dontcare() do
+    # person keys already covered or don't care about
+    @dontcare
   end
 
 

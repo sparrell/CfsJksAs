@@ -2,9 +2,23 @@ defmodule Cfsjksas.Ancestors.Person do
   @moduledoc """
   functions for processing a person's data
 
-  get_name returns person's first and last names
+  get_name(person) returns person's first and last names
+  get_name_dates(person) returns person's name and birth/death dates
+  ship(id) returns shipname or nil
+
+  categorize() categorizes everybody
+  categorize_person(id) categorizes an individual
+  ship_people() lists everyone who has a ship
+  no_ship_people() lists all immigrants wo a ship
+  intermediate_people() lists everybody in the middle
+  brick_walls() lists all terminations prior to immigrant
+
+  surnames() lists all the surnames of everybody, and gives id's of all with each surname
+
 
   """
+
+  require IEx
 
   def get_name(person) do
     given = case person.given_name do
@@ -20,6 +34,23 @@ defmodule Cfsjksas.Ancestors.Person do
         person.surname
     end
     given <> " " <> surname
+  end
+
+  def get_name_dates(person) do
+    name = get_name(person)
+    birth = case person.birth_date do
+      nil ->
+        "?"
+      _ ->
+        person.birth_date
+    end
+    death = case person.death_date do
+      nil ->
+        "?"
+      _ ->
+        person.death_date
+    end
+    name <> " (" <> birth <> " - " <> death <> ")"
   end
 
   def ship(id) do
@@ -40,8 +71,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, _normal
     } = categorize()
-    Enum.map(wo_ships, fn x -> {x, get_name(@ancestors[x])} end)
-
+    Enum.map(wo_ships, fn x -> {x, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
   end
 
   def ship_people() do
@@ -50,7 +80,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, _normal
       } = categorize()
-    Enum.map(has_ships, fn x -> {@ancestors[x].ship.name, get_name(@ancestors[x]), x} end)
+    Enum.map(has_ships, fn x -> {Cfsjksas.Ancestors.GetAncestors.person(x).ship.name, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
   end
 
   def intermediate_people() do
@@ -59,7 +89,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, normal
       } = categorize()
-    Enum.map(normal, fn x -> {get_name(@ancestors[x]), x} end)
+    Enum.map(normal, fn x -> {x, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
   end
 
   def brick_walls() do
@@ -68,15 +98,15 @@ defmodule Cfsjksas.Ancestors.Person do
     ##   * line termination with ship
     ##   * line termination wo ship (return list)
 
-    all_people = Map.keys(@ancestors)
+    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
     brick_walls(all_people, [])
   end
-  def brick_walls([], terminations) do
+  defp brick_walls([], terminations) do
     # no one left so return brickwall list
     terminations
   end
-  def brick_walls([id | rest], terminations) do
-    person = @ancestors[id]
+  defp brick_walls([id | rest], terminations) do
+    person = Cfsjksas.Ancestors.GetAncestors.person(id)
     termination = case categorize_person(id) do
       :normal -> []
       :ship -> []
@@ -84,27 +114,27 @@ defmodule Cfsjksas.Ancestors.Person do
       :brickwall_both ->
         # add data to list
         [{Enum.map(person.relation_list, &length/1),
-			id,
-			get_name(person),
-			Cfsjksas.Tools.Person.get_birth_place(person),
-			Cfsjksas.Tools.Person.get_death_place(person)
-			}]
+			    id,
+			    get_name(person),
+			    Cfsjksas.Tools.Person.get_birth_place(person),
+			    Cfsjksas.Tools.Person.get_death_place(person)
+			  }]
       :brickwall_mother ->
         # add data to list
         [{Enum.map(person.relation_list, &length/1),
-			id,
-			get_name(person),
-			Cfsjksas.Tools.Person.get_birth_place(person),
-			Cfsjksas.Tools.Person.get_death_place(person)
-			}]
+			    id,
+			    get_name(person),
+			    Cfsjksas.Tools.Person.get_birth_place(person),
+			    Cfsjksas.Tools.Person.get_death_place(person)
+			  }]
       :brickwall_father ->
         # add data to list
         [{Enum.map(person.relation_list, &length/1),
-			id,
-			get_name(person),
-			Cfsjksas.Tools.Person.get_birth_place(person),
-			Cfsjksas.Tools.Person.get_death_place(person)
-			}]
+			    id,
+			    get_name(person),
+			    Cfsjksas.Tools.Person.get_birth_place(person),
+			    Cfsjksas.Tools.Person.get_death_place(person)
+			  }]
     end
 
     # recurse on with new terminations list
@@ -113,14 +143,14 @@ defmodule Cfsjksas.Ancestors.Person do
 
   def categorize() do
     # categorize everyone as brickwall, known_ship, etc
-    all_people = Map.keys(@ancestors)
+    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
     categorize(all_people, {[],[],[],[],[],[],[]})
   end
-  def categorize([], category_lists) do
+  defp categorize([], category_lists) do
     # to do list is done
     category_lists
   end
-  def categorize([id | rest], categories) do
+  defp categorize([id | rest], categories) do
     {has_ships, wo_ships, brickwalls_both, brickwalls_mother,
       brickwalls_father, parents, normal} = categories
     category = categorize_person(id)
@@ -194,7 +224,7 @@ defmodule Cfsjksas.Ancestors.Person do
     #
     # depends on mother, father, and ship variables
     # parent is done manually
-    person = @ancestors[id]
+    person = Cfsjksas.Ancestors.GetAncestors.person(id)
     relations = person.relation_list
     [relation | _others] = relations
     gen = case relation do
@@ -210,70 +240,70 @@ defmodule Cfsjksas.Ancestors.Person do
     categorize_person(id, has_ship?, mother, father, person)
   end
 
-  def categorize_person(_id, true, _mother, _father, person) do
+  defp categorize_person(_id, true, _mother, _father, person) do
     # has ship, further categorize
     ship_info(person.ship)
   end
-  def categorize_person(_id, false, mother, father, _person)
+  defp categorize_person(_id, false, mother, father, _person)
       when (mother != nil) and (father != nil) do
     # no ship, has mother and father, so not an immigrant nor brickwall
     :normal
   end
-  def categorize_person(_id, _has_ship?, mother, father, _person)
+  defp categorize_person(_id, _has_ship?, mother, father, _person)
       when (mother == nil) and (father == nil) do
     # brickwall since no parents, no ship
     :brickwall_both
   end
-  def categorize_person(_id, _has_ship?, mother, father, _person)
+  defp categorize_person(_id, _has_ship?, mother, father, _person)
       when (mother == nil) and (father != nil) do
     # brickwall since no mother, no ship
     :brickwall_mother
   end
-  def categorize_person(_id, _has_ship?, mother, father, _person)
+  defp categorize_person(_id, _has_ship?, mother, father, _person)
       when (mother != nil) and (father == nil) do
     # brickwall since no parents, no ship
     :brickwall_father
   end
-  def categorize_person(id, has_ship?, mother, father, person) do
+  defp categorize_person(id, has_ship?, mother, father, person) do
     #shouldn't get here
     IO.inspect{id, has_ship?, mother, father}
     IEx.pry()
   end
 
-  def ship_info(:parent) do
+  defp ship_info(:parent) do
     :normal
   end
-  def ship_info(:parent_wo_ship) do
+  defp ship_info(:parent_wo_ship) do
     :normal
   end
-  def ship_info(:parent_w_ship) do
+  defp ship_info(:parent_w_ship) do
     :normal
   end
-  def ship_info(nil) do
+  defp ship_info(nil) do
     :no_ship
   end
-  def ship_info(%{name: nil}) do
+  defp ship_info(%{name: nil}) do
     :no_ship
   end
-  def ship_info(_ship) do
+  defp ship_info(_ship) do
     :ship
   end
 
   def surnames() do
     # find all the surnames and list who has each
-    all_people = Map.keys(@ancestors)
+    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
     surnames(all_people, %{})
   end
-  def surnames([], surname_map) do
+  defp surnames([], surname_map) do
     # list empty so done
     # turn surname_map into sorted list of lists
     surname_map
     |> Map.to_list()
     |> Enum.sort()
   end
-  def surnames([id | rest], surname_map) do
+  defp surnames([id | rest], surname_map) do
     # get surname of this person
-    person = @ancestors[id]
+    person = Cfsjksas.Ancestors.GetAncestors.person(id)
     surname = get_surname(person.surname)
 
     # if surname in map, add this person otherwise add surname with this person
