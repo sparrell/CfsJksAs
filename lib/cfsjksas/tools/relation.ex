@@ -51,7 +51,7 @@ defmodule Cfsjksas.Tools.Relation do
     # process generations 3-14
 
     # start with existing relations file
-    relations = Cfsjksas.Ancestors.GetRelations.data()
+    relations = Cfsjksas.Ancestors.GetLineages.all_relations()
 
     # bootstap the 'already' list
 		id_list = [relations[0][0].id, relations[1][["P"]].id, relations[1][["M"]].id]

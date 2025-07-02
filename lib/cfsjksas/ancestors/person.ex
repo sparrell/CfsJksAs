@@ -234,8 +234,8 @@ defmodule Cfsjksas.Ancestors.Person do
       _ ->
         length(relation)
     end
-    mother = Cfsjksas.Ancestors.GetRelations.mother(gen, relation)
-    father = Cfsjksas.Ancestors.GetRelations.father(gen, relation)
+    mother = Cfsjksas.Ancestors.Lineage.mother(gen, relation)
+    father = Cfsjksas.Ancestors.Lineage.father(gen, relation)
     has_ship? = Map.has_key?(person, :ship)
     categorize_person(id, has_ship?, mother, father, person)
   end
@@ -337,6 +337,20 @@ defmodule Cfsjksas.Ancestors.Person do
             name
         end
     end
+  end
+
+  def list_key_values(key) do
+    # list value for key for everybody
+    ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    list_key_values([], ids, key)
+  end
+  defp list_key_values(values, [], _key) do
+    # empty list so done
+    values
+  end
+  defp list_key_values(values, [this | rest], key) do
+    [Cfsjksas.Ancestors.GetAncestors.person(this)[key] | values]
+    |> list_key_values(rest, key)
   end
 
 end

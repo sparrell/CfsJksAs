@@ -20,7 +20,7 @@ defmodule Cfsjksas.Circle.Draw do
   def gen(svg, gen, chart) do
     IO.inspect(gen, label: "starting draw.gen=")
     # get list of this gen ancestors
-    this_gen_list = Cfsjksas.Ancestors.GetRelations.person_list(gen)
+    this_gen_list = Cfsjksas.Ancestors.GetLineages.person_list(gen)
     # recurse thru each one.
     add_ancestor(svg, gen, chart, this_gen_list)
   end
@@ -31,7 +31,7 @@ defmodule Cfsjksas.Circle.Draw do
   end
   defp add_ancestor(svg, gen, chart, [this | rest]) do
     # process "this" ancestor
-    person = Cfsjksas.Ancestors.GetRelations.data(gen,this)
+    person = Cfsjksas.Ancestors.GetLineages.person(gen,this)
 
     # determine whether to draw this ancestor or not
     ## if chart = :wo_duplicates and relation isn't first on list of dups, then don't draw

@@ -11,7 +11,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
       } = Cfsjksas.Ancestors.Person.categorize()
 
     quantity_total_people = length(Cfsjksas.Ancestors.GetAncestors.all_ids())
-    quantity_total_ancestors = length(Cfsjksas.Ancestors.GetRelations.all_ancestor_keys())
+    quantity_total_ancestors = length(Cfsjksas.Ancestors.GetLineages.all_ancestor_keys())
 
     quanity_has_ships = length(has_ships)
     quanity_wo_ships = length(wo_ships)
@@ -26,7 +26,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     quanity_surnames = length(surnames)
 
     # get list of ancestors per generation
-    gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Ancestors.GetRelations.person_list(gen))}
+    gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Ancestors.GetLineages.person_list(gen))}
 
     {:ok,
      socket

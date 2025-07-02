@@ -3,7 +3,7 @@ defmodule Cfsjksas.Ancestors.GetAncestors do
   Turns text file of ancestors in elxir map
 
   all_ancestors() returns map with everyone
-  all_ancestors() returns list of everyone's ids
+  all_ids() returns list of everyone's ids
   person(id) returns the person's individual map
 
   """

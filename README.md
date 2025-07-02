@@ -16,7 +16,7 @@ Cfsjksas.Hybrid.Create.main("hybrid.2.svg")
 
 # check if missing links
 gen=3
-Cfsjksas.Ancestors.GetRelations.list_no_link_key(gen)
+Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 
 # make pages for other repo
 gen=3

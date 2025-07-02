@@ -3,7 +3,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	require IEx
 
 	def person_pages(gen) do
-		dup_relations = Cfsjksas.Ancestors.GetRelations.data()
+		dup_relations = Cfsjksas.Ancestors.GetLineages.all_relations()
 		dedup_relations = Cfsjksas.Tools.Relation.dedup()
 		people_keys = Map.keys(dedup_relations[gen])
 		person_page(people_keys, gen, dup_relations, dedup_relations)

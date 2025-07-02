@@ -34,7 +34,7 @@ defmodule Cfsjksas.Tools.Matrix do
   end
 
   def init_ancestors() do
-    gen_list = Cfsjksas.Ancestors.GetRelations.genlist()
+    gen_list = Cfsjksas.Ancestors.GetLineages.genlist()
     initialize()
     |> add_ancestors(gen_list)
   end
@@ -51,7 +51,7 @@ defmodule Cfsjksas.Tools.Matrix do
   defp add_ancestors(matrix, [this_gen | rest_gen]) do
     # update matrix for each gneration, updatkng for each person in each generation
     matrix
-    |> add_ancestors(this_gen, Cfsjksas.Ancestors.GetRelations.person_list(this_gen)) # this gen ancestors
+    |> add_ancestors(this_gen, Cfsjksas.Ancestors.GetLineages.person_list(this_gen)) # this gen ancestors
     |> add_ancestors(rest_gen) # recurse
   end
   defp add_ancestors(matrix, _this_gen, []) do
@@ -61,7 +61,7 @@ defmodule Cfsjksas.Tools.Matrix do
   defp add_ancestors(matrix, this_gen, [this_ancestor | rest_ancestors] ) do
     # add this ancestor to matrix
     # this_ancestor is relations key
-    person = Cfsjksas.Ancestors.GetRelations.data(this_gen,this_ancestor)
+    person = Cfsjksas.Ancestors.GetLineages.person(this_gen,this_ancestor)
 
     # this_ancestor.sector is sector number for this ancestor
     ## {this_gen, sector} is key for matrix entry
