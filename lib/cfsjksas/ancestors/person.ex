@@ -80,7 +80,10 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, _normal
       } = categorize()
-    Enum.map(has_ships, fn x -> {Cfsjksas.Ancestors.GetAncestors.person(x).ship.name, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
+    Enum.map(has_ships, fn x -> {Cfsjksas.Ancestors.GetAncestors.person(x).ship.name,
+                                x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name(),
+                                x
+                                } end)
   end
 
   def intermediate_people() do
