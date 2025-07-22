@@ -1,0 +1,90 @@
+= Albert Amory Fisk Fisher (1854 - 1915)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 25 OCT 1854
+* Birthplace: Cohasset, Norfolk, Massachusetts, USA
+* Death: 15 DEC 1915
+* Deathplace: Hampton, Connecticut, USA
+* Buried: 2 DATE 15 DEC 1915
+----
+2 PLAC Groveland Cemetery, Dedham, Norfolk, Massachusetts, USA
+----
+
+* Age at Death: 61
+* Death Cause: Pneumonia
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher[Albert Fisher (1812 - 1887)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0073[Dev website]
+* https://www.werelate.org/wiki/Person:Albert_Fisher_%2810%29[WeRelate]
+* https://www.myheritage.com/profile-20674952-23000287/albert-amory-fisk-fisher[MyHeritage]
+* https://www.geni.com/people/Albert-Fisher/6000000219136528890[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* Albert Amory Fisk Fisher (1854 - 1915)
+
+
+== Other
+census: 2 DATE 1880
+----
+2 PLAC Dedham, Norfolk, Massachusetts, USA
+2 AGE 25-26
+----
+
+event:  _MEDICAL of Fisher, Albert Amory Fisk
+----
+2 TYPE _MEDICAL
+----
+ Pneumonia
+----
+2 TYPE _DCAUSE
+----
+
+notes: Albert Fisher enrolled at Harvard College, but did not graduate. His father thought he was going to college and kept giving him money antil he caught on.</p> <p>&nbsp;</p> <p>In 1904 Albert was a successful broker in Boston. He was 49 years old with a wife, Adele, and two daughters. Albert and Adele lived in Dedham.</p> <p>&nbsp;</p> <p>Ida Hurlburt was his 20 year old secretary. she lived in Dorchester with her parents, two sisters and a brother. Her father worked for the railroad.</p> <p>&nbsp;</p> <p>Early in 1906, Ida discovered she was pregnant by Alfred. One night sheclimbed out through her bedroom window and she and Albert ran off to Mexico. Albert got a quicky divorce in Mexico. Albert and Ida were then married in Texas (Fort Worth?).</p> <p>&nbsp;</p> <p>They then came back as f
+----
+2 CONC ar as New York City, where Albert set up as a broker and their daughter Marion was born. He apparently did well enough, because they lived in an apartment on Central Park West and had a summmer place 
+2 CONC in Hampton CT. They had a maid because Marion remembers thatthe maid and her boyfriend locked her in a closet and stole her mother's jewelry and other small valuables.</p> <p>&nbsp;</p> <p>Albert was 
+2 CONC a heavy drinker. After he retired and they moved to Hampton permanently, his drinking problem got worse. He came home drunk one December night and Ida had the door locked. She told him to go sleep in 
+2 CONC thebarn with the horses. He developed pneumonia and died.</p>
+----
+
+occupation: Farmer
+----
+2 DATE 1910
+2 AGE 55-56
+----
+Flour Merchant - Boston
+----
+2 DATE 1900
+2 AGE 45-46
+----
+Commission Merchant (US Census)
+----
+2 DATE 1880
+2 AGE 25-26
+----
+
+
+== Sources

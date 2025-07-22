@@ -1,0 +1,72 @@
+= Charles S. Hurlburt (1823 - 1886)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 31 DEC 1823
+* Birthplace: Underhill, Chittenden, Vermont, USA
+* Death: 2 AUG 1886
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Age at Death: 62
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPM.Charity_Schufeldt[Charity Schufeldt (1792 - 1851)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPP.Wait_Hurlburt[Wait Hurlburt (1777 - 1852)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0094[Dev website]
+* https://www.werelate.org/wiki/Person:Charles_Hurlburt_%282%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000318/charles-s-hurlburt[MyHeritage]
+* https://www.geni.com/people/Charles-Hurlburt/6000000219179990253[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* Charles S. Hurlburt (1823 - 1886)
+
+
+== Other
+census: 
+----
+2 DATE 1850
+2 PLAC Oxford, Worcester, Massachusetts, USA
+2 AGE 26-27
+----
+
+event:  137
+----
+2 TYPE Reference Number
+----
+ 137
+----
+2 TYPE Reference Number
+----
+
+notes: <p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><
+----
+2 CONC p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railro
+2 CONC ad when he met his wife, Esther in Griswold which is on the line, as is Oxford.</p> <p>&nbsp;</p> <p>The N&amp;W was acquired by the New Haven RR in 1889 after his death.</p> <p>&nbsp;</p> <p>Montvill
+2 CONC e, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?</p>
+----
+
+
+== Sources

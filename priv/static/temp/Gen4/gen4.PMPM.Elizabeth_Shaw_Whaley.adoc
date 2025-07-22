@@ -1,0 +1,78 @@
+= Elizabeth Shaw Whaley (1813 - 1870)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 6 FEB 1813
+* Birthplace: Montville, New London, Connecticut, USA
+* Death: AFT 20 JUL 1870
+* Deathplace: Montville, New London, Connecticut, USA
+* Buried: 
+----
+2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
+----
+
+* Age at Death: About 57
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMM.Philena_Haughton[Philena Haughton (1776 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMP.William_Patten_Whaley[William Patten Whaley (1786 - ?)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0119[Dev website]
+* https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong[MyHeritage]
+* https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* Elizabeth Shaw Whaley (1813 - 1870)
+
+
+== Other
+census: 
+----
+2 DATE 1850
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 36-37
+----
+
+----
+2 DATE 1860
+2 PLAC The Town Of Montville, New London, Connecticut, USA
+2 AGE 46-47
+----
+
+notes: <p>The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker.</p> <p>&nbsp;</p> <p>The 187
+----
+2 CONC 0 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.</p>
+----
+
+occupation: Factory Worker
+----
+2 DATE 1860
+2 AGE 46-47
+----
+
+
+== Sources

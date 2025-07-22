@@ -1,0 +1,93 @@
+= Marion F Fisher (1904 - 2002)<p>
+Her father was away on business when she was born.
+Her mother named her Helene and that is on her birth certificate 
+recorded in New York City. 
+Her father came home and didn't like Helene and they changed her name to Marion. 
+Growing up she only knew her name was Marion. 
+Birth certificates were not required when she first got her drivers license, 
+and when she was married. 
+When they started requiring birth certificates for drivers licenses, 
+she got her birth certificate and discovered it was for Helene. 
+Her mother explained how that came to be.",
+</p>
+<p>
+add note to see Ida for interesting background on her birth
+</p>
+<p>
+add story about maid and butler stealing silver and locking her in closet
+</p>
+== Vital Stats
+
+
+* Sex: F
+* Birth: 27 NOV 1904
+* Birthplace: New York, New York, New York, USA
+* Death: 17 DEC 2002
+* Deathplace: Plymouth, Plymouth, Massachusetts, USA
+* Buried: 
+----
+2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
+----
+
+* Age at Death: 98
+* Death Cause: Chronic Pulmonary Disease/ Dementia
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+
+* Child*: CFS/JKS/AS
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
+* https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
+* https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
+* https://www.geni.com/people/Marion-Sparrell/6000000007522238879[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* Marion F Fisher (1904 - 2002)
+
+
+== Other
+census: 
+----
+2 DATE 1940
+2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
+2 AGE 35-36
+----
+
+education:  B.A., Rhode Island College of Education
+----
+2 DATE ABT 1960
+2 AGE About 55-56
+----
+ Willimantic Normal School (now E.C.U.)
+----
+2 DATE 1926
+2 AGE 21-22
+----
+
+event:  Chronic Pulmonary Disease/ Dementia
+----
+2 TYPE _DCAUSE
+----
+
+notes: Birth recorded in New York City as "Helene", name changed by father to "Marion".
+occupation: Primary School Teacher
+residence: 
+----
+2 DATE 1935
+2 AGE 30-31
+2 ADDR
+3 ADR2 W Kingston, Wash, Rhode Island
+----
+
+
+== Sources

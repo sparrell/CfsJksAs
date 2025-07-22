@@ -1,0 +1,73 @@
+= Elijah Genubeth Strong (1818 - 1870)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 31 JAN 1818
+* Birthplace: Bolton, Tolland, Connecticut, USA
+* Death: BEF 20 JUL 1870
+* Deathplace: Montville, New London, Connecticut, USA
+* Buried: 
+----
+2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
+----
+
+* Age at Death: About 52
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev website]
+* https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
+* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* Elijah Genubeth Strong (1818 - 1870)
+
+
+== Other
+census: 
+----
+2 DATE 1850
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 31-32
+----
+
+----
+2 DATE 1860
+2 PLAC The Town Of Montville, New London, Connecticut, USA
+2 AGE 41-42
+----
+
+occupation: Farmer and JoinerFactory Worker (Census)
+----
+2 DATE 1860
+2 AGE 41-42
+----
+
+
+== Sources

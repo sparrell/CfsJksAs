@@ -1,0 +1,52 @@
+= Ann Pierce (? - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birthplace: Boston, Suffolk, Massachusetts, USA
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher[Albert Fisher (1812 - 1887)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPPM.Ann_Pierce[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0248[Dev website]
+* https://www.werelate.org/wiki/Person:Ann_Pierce_%2813%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000483/ann-pierce-fisher[MyHeritage]
+* https://www.geni.com/people/Ann-Pierce/6000000219179990075[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher[Albert Fisher (1812 - 1887)]
+
+* Ann Pierce (? - ?)
+
+
+== Other
+event:  267
+----
+2 TYPE Reference Number
+----
+ 267
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

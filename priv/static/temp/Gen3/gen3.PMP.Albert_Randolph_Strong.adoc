@@ -1,0 +1,101 @@
+= Albert Randolph Strong (1845 - 1920)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 18 APR 1845
+* Birthplace: Montville, New London, Connecticut, USA
+* Death: 1920
+* Buried: 
+----
+2 DATE 1920
+2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
+----
+
+* Age at Death: 74-75
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0075[Dev website]
+* https://www.werelate.org/wiki/Person:Albert_Strong_%282%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000290/albert-randolph-strong[MyHeritage]
+* https://www.geni.com/people/Albert-Strong/6000000007698827300[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* Albert Randolph Strong (1845 - 1920)
+
+
+== Other
+census: 
+----
+2 DATE 1850
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 4-5
+----
+
+----
+2 DATE 1860
+2 PLAC The Town Of Montville, New London, Connecticut, USA
+2 AGE 14-15
+----
+
+notes: <p>In the 1870 US census, he was was living at home with his widowed mother in Montville and working in a cotton mill.</p>
+occupation: Foreman, RR- Worcester MA - US Census
+----
+2 DATE 1910
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 64-65
+----
+Foreman, B&M
+----
+2 DATE 1901
+2 AGE 55-56
+----
+Foreman. Freight House, B&M RR
+----
+2 DATE 1891
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 45-46
+----
+Foreman, RR Freight Office (US Census)
+----
+2 DATE 1880
+2 AGE 34-35
+----
+Cotton Mill
+----
+2 DATE 1870
+2 PLAC Montville, New London, Connecticut, USA
+2 AGE 24-25
+----
+Foreman, Round House; W&N RR,
+----
+2 DATE 1873
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 27-28
+----
+
+
+== Sources

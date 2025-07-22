@@ -1,0 +1,47 @@
+= Jacob Fisher (1776 - 1820)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 30 APR 1776
+* Birthplace: Sharon, Norfolk, Massachusetts, USA
+* Death: 8 JUL 1820
+* Deathplace: Bolton, Worcester, Massachusetts, USA
+* Age at Death: 44
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher[Albert Fisher (1812 - 1887)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPPP.Jacob_Fisher[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0247[Dev website]
+* https://www.werelate.org/wiki/Person:Jacob_Fisher_%2818%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000482/jacob-fisher[MyHeritage]
+* https://www.geni.com/people/Jacob-Fisher/6000000219179990065[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher[Albert Fisher (1812 - 1887)]
+
+* Jacob Fisher (1776 - 1820)
+
+
+== Other
+
+== Sources

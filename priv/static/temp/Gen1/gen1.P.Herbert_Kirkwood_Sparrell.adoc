@@ -1,0 +1,115 @@
+= Herbert Kirkwood Sparrell (1899 - 1978)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 26 FEB 1899
+* Birthplace: Worcester, Worcester, Massachusetts, USA
+* Death: 16 JUN 1978
+* Deathplace: North Kingstown, Washington, Rhode Island, USA
+* Buried: 
+----
+2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
+----
+
+* Age at Death: 79
+* Death Cause: Metastic Bladder Cancer
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+
+* Child*: CFS/JKS/AS
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0486[Dev website]
+* https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29[WeRelate]
+* https://www.myheritage.com/profile-20674952-23000741/herbert-kirkwood-sparrell[MyHeritage]
+* https://www.geni.com/people/Herbert-Sparrell/6000000019834806464[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* Herbert Kirkwood Sparrell (1899 - 1978)
+
+
+== Other
+census: DATE 1940
+----
+2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
+2 AGE 40-41
+----
+
+----
+2 DATE 1910
+2 PLAC Worcester Ward 7, Worcester, Massachusetts, USA
+2 AGE 10-11
+----
+
+event:  Metastic Bladder Cancer
+----
+2 TYPE _DCAUSE
+----
+ 6 ft. 1 in.
+----
+2 TYPE _HEIG
+----
+
+residence: 
+----
+2 DATE 1935
+2 AGE 35-36
+2 ADDR
+3 ADR2 W Kingston, Wash, Rhode Island
+----
+
+
+== Sources
+* @S35@
+----
+2 PAGE https://www.myheritage.com/research/record-10053-27308253/herbert-k-sparrell-in-1940-united-states-federal-census
+2 QUAY 4
+2 DATA
+3 TEXT Herbert K Sparrell
+4 CONC Gender: Male
+4 CONC Birth: Circa 1899 - Massachusetts, USA
+4 CONC Residence: 1940 - Pierce St, N Kingstown, Wash, Rhode Island, USA
+4 CONC Age: 41
+4 CONC Residence in 1935: W Kingston, Wash, Rhode Island
+4 CONC Race: White
+4 CONC Marital status: Married
+4 CONC Wife: Marion F Sparrell
+4 CONC Children: Charles F Sparrell, James K Sparrell, Ann Sparrell
+4 CONC Census:   Township:N KingstownEnum. District:5-17Family:145  County:WashRoll:m-t0627-03772Line:53  State:Rhode IslandFrame:00251  Date:1940-00-00Page:6B See household members
+4 CONC <a id='household'></a>Household
+4 CONC Relation to head; Name; Age
+4 CONC Head; <a href="https://www.myheritage.com/research/record-10053-27308253/herbert-k-sparrell-in-1940-united-states-federal-census?s=20674952">Herbert K Sparrell</a>; 41
+4 CONC Wife; <a href="https://www.myheritage.com/research/record-10053-27308254/marion-f-sparrell-in-1940-united-states-federal-census?s=20674952">Marion F Sparrell</a>; 35
+4 CONC Son; <a href="https://www.myheritage.com/research/record-10053-27308255/charles-f-sparrell-in-1940-united-states-federal-census?s=20674952">Charles F Sparrell</a>; 11
+4 CONC Son; <a href="https://www.myheritage.com/research/record-10053-27308256/james-k-sparrell-in-1940-united-states-federal-census?s=20674952">James K Sparrell</a>; 8
+4 CONC Daughter; <a href="https://www.myheritage.com/research/record-10053-27308257/ann-sparrell-in-1940-united-states-federal-census?s=20674952">Ann Sparrell</a>; 6
+----
+
+* @S34@
+----
+2 PAGE http://www.myheritage.com/research/collection-10132/1910-united-states-federal-census?s=20674952&itemId=37591445-&groupId=b32f026fbe807fd5c9df94159e9557e9&action=showRecord&indId=individual-20674952-15000904
+2 QUAY 4
+2 DATA
+3 TEXT <p>Herbert K Sparrell<br />Gender: Male<br />Birth: Circa 1899 - Massachusetts, United States<br />Residence: 1910 - Worcester Ward 7, Worcester, Massachusetts, USA<br />Age: 11<br />Marital status: S
+4 CONC ingle<br />Race: White<br />Ethnicity: American<br />Father: Charles Sparrell<br />Mother: Lavinia Sparrell<br />Sibling: Lester S Sparrell<br />Census: Township:Worcester Ward 7Series:T624Image:284 C
+4 CONC ounty:WorcesterSheet:29-A State:MassachusettsFamily:682 Date:1910-00-00Line:30 See household members<br /><a id="household"></a>Household<br />Relation to head; Name; Age<br />Head; <a href="research/
+4 CONC collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591443-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Charles Sparrell</a>; 36<br />Wife; <a href="rese
+4 CONC arch/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34<br />Son; <a href="
+4 CONC research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11<br />Son; <a 
+4 CONC href="research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6</p>
+----
+

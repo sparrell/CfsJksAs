@@ -6,8 +6,10 @@ defmodule Cfsjksas.Tools.Link do
   - werelate(person) - adoc link to person in werelate
   - myheritage(person) - adoc link to person in myheritage
   - geni(person) - adoc link to person in geni
-  - make_filename(person) - used by book but also by markdown.ex (ie filename to store)
   """
+
+  @datapath "static/data/"
+  @adocpath "static/temp/"
 
 
 	@doc """
@@ -16,20 +18,21 @@ defmodule Cfsjksas.Tools.Link do
 	Terminations are special and not from this routine
 	Primary (C, J, A) are special and not from this module
 	"""
-	def book(person) do
+	def book(relation) do
     "* "
-    <> book_link(person, "[Book page]")
+    <> book_link(relation, "[Book page]")
 	end
 
-  def book_link(person, label) do
-		filename = make_filename(person)
-		gen = length(person.relation)
+  def book_link(relation, label) do
+    # filename is combo of generation and relation
+    filename = relation_to_file_root(relation)
+
     "https://github.com/sparrell/cfs_ancestors/blob/main/"
 		<> "Vol_02_Ships/"
 		<> "V2_C5_Ancestors/"
-		<> "V2_C5_G"
-		<> to_string(gen)
-		<> "/"
+		#<> "V2_C5_G"
+		#<> to_string(length(relation))
+		#<> "/"
 		<> filename
     <> label
 		<> "\n"
@@ -81,16 +84,51 @@ defmodule Cfsjksas.Tools.Link do
     end
   end
 
-  def make_filename(person_r) do
-		# filename for 'intermediate' people is combo of generation and relation
-		"gen"
-		<> to_string(length(person_r.relation)) # length is generation
-		<> "."
-		<> Enum.join(person_r.relation)
-		<> ".adoc"
-	end
 
+  def relation_to_file_root(relation) do
+    gen = length(relation)
+    gen_str = to_string(gen)
+    person_r = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
+    given = case person_r.given_name do
+      nil ->
+        "Unknown"
+      _ ->
+        person_r.given_name
+        |> String.replace(" ", "_")
+        |> String.replace(".", "")
+    end
+    surname = case person_r.surname do
+      nil ->
+        "Unknown"
+      _ ->
+        person_r.surname
+        |> String.replace(" ", "_")
+        |> String.replace(".", "")
+    end
 
+    "gen" <> gen_str <> "/"   # directory
+    <> "gen" <> gen_str <> "."
+    <> Enum.join(relation) <> "."
+    <> given <> "_" <> surname
+
+  end
+
+  def make_filename(relation, :adoc) do
+    # filepath for people pages
+    filepath = @adocpath
+    <> relation_to_file_root(relation)
+    <> ".adoc"
+
+    Path.join(:code.priv_dir(:cfsjksas), filepath )
+  end
+  def make_filename(relation, :md) do
+    # filepath for people pages
+    filepath = @datapath
+    <> relation_to_file_root(relation)
+    <> ".md"
+
+    Path.join(:code.priv_dir(:cfsjksas), filepath )
+  end
 
 
 
