@@ -1,4 +1,5 @@
-<p>
+
+
 Her father was away on business when she was born.
 Her mother named her Helene and that is on her birth certificate 
 recorded in New York City. 
@@ -9,10 +10,9 @@ and when she was married.
 When they started requiring birth certificates for drivers licenses, 
 she got her birth certificate and discovered it was for Helene. 
 Her mother explained how that came to be.",
-</p>
-<p>
+
+
 add note to see Ida for interesting background on her birth
-</p>
-<p>
+
+
 add story about maid and butler stealing silver and locking her in closet
-</p>
