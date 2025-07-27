@@ -1,0 +1,70 @@
+= Benjamin Turner (1660 - 1731)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 5 MAR 1660
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Death: AFT MAY 1731
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Age at Death: About 71
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPMPPM.Mary_Brewster[Mary Brewster (1627 - 1697)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPMPPP.John_Turner[John Turner (1622 - 1697)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPMP.John_Turner[John Turner (1693 - 1778)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPPMPP.Benjamin_Turner[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0617[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPPM.Rachel_Turner[Rachel Turner (1776 - 1866)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPMP.John_Turner[John Turner (1693 - 1778)]
+
+* Benjamin Turner (1660 - 1731)
+
+
+== Other
+event:  62
+----
+2 TYPE Reference Number
+----
+ 62
+----
+2 TYPE Reference Number
+----
+
+notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house d
+----
+2 CONC uring her lifetime.
+----
+
+
+== Sources

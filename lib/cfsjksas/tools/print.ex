@@ -13,7 +13,8 @@ defmodule Cfsjksas.Tools.Print do
     # print raw person struct, but do keys alphabetically
 
     # convert from struct to map so can access dynamically
-    person_map = Map.from_struct(person)
+    #person_map = Map.from_struct(person)
+    person_map = person
     keys = Map.keys(person_map)
     keys = Enum.sort(keys)
     print_person("", keys, person_map)

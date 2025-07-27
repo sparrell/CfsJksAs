@@ -1,0 +1,66 @@
+= John Moore (1614 - 1677)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1614
+* Birthplace: England, UK
+* Death: 14 SEP 1677
+* Deathplace: Windsor, Hartford, Connecticut, USA
+* Age at Death: 62-63
+
+
+== Family
+* Mother: no_ship so parents NA
+* Father: no_ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPM.Elizabeth_Moore[Elizabeth Moore (1638 - 1728)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPMPMP.John_Moore[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0255[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPM.Thankful_Loomis[Thankful Loomis (1709 - 1771)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPMP.Moses_Loomis[Moses Loomis (1671 - 1754)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPM.Elizabeth_Moore[Elizabeth Moore (1638 - 1728)]
+
+* John Moore (1614 - 1677)
+
+
+== Other
+event:  273
+----
+2 TYPE Reference Number
+----
+ 273
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

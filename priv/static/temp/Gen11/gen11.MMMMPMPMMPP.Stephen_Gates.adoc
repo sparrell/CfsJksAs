@@ -1,0 +1,121 @@
+= Stephen Gates (? - 1662)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birthplace: Hingham, Norfolk, England, UK
+* Death: 3 OCT 1662
+* Deathplace: Cambridge, Middlesex, Massachusetts, USA
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPMPMMP.Thomas_Gates[Thomas Gates (1646 - 1726)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPMPMMPP.Stephen_Gates[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0635[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMPMP.Judah_Brewster[Judah Brewster (1749 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMPMPM.Anne_Andrews[Anne Andrews (1725 - 1809)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMPMPMM.Ruth_Gates[Ruth Gates (1703 - 1750)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMPMPMMP.Thomas_Gates[Thomas Gates (1646 - 1726)]
+
+* Stephen Gates (? - 1662)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMPMP.Judah_Brewster[Judah Brewster (1749 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMPMPM.Anne_Andrews[Anne Andrews (1725 - 1809)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPMPMM.Ruth_Gates[Ruth Gates (1703 - 1750)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPMPMMP.Thomas_Gates[Thomas Gates (1646 - 1726)]
+
+* Stephen Gates (? - 1662)
+
+
+== Other
+emigration:  settled in Hingham MA
+----
+2 DATE 1638
+----
+
+event: 
+----
+2 TYPE Fact 4
+2 DATE 1653
+2 PLAC Lancaster, Worcester, Massachusetts, USA
+----
+ Emigrated in ship "Diligent"
+----
+2 TYPE Military Service
+2 DATE 1638
+----
+ Returned to Cambridge
+----
+2 TYPE Fact 7
+----
+ Constable
+----
+2 TYPE Fact 4
+2 DATE 1657
+----
+
+----
+2 TYPE Fact 5
+2 DATE 1656
+2 PLAC Cambridge, Middlesex, Massachusetts, USA
+----
+
+----
+2 TYPE Fact 2
+2 DATE 1652
+2 PLAC Cambridge, Middlesex, Massachusetts, USA
+----
+
+
+== Sources

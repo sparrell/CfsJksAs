@@ -1,0 +1,66 @@
+= Joshua Paine (1697 - 1775)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 28 AUG 1697
+* Birthplace: Eastham, Barnstable Co., Massachusetts Colony
+* Death: 10 MAR 1775
+* Deathplace: Amenia, Dutchess, New York
+* Age at Death: 77
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMMP.Barnabas_Paine[Barnabas Paine (1737 - 1822)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMMPP.Joshua_Paine[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1258[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMM.Phoebe_Paine[Phoebe Paine (1762 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMMP.Barnabas_Paine[Barnabas Paine (1737 - 1822)]
+
+* Joshua Paine (1697 - 1775)
+
+
+== Other
+name_suffix: Sr.
+occupation: Blacksmith
+
+== Sources
+* @S51@
+----
+2 PAGE Joshua Paine, Sr.
+2 QUAY 3
+2 DATA
+3 DATE 20 JAN 2019
+3 TEXT Added via a Person Discovery
+----
+

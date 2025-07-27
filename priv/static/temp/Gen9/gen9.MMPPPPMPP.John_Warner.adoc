@@ -1,0 +1,67 @@
+= John Warner (1649 - 1723)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 26 SEP 1649
+* Birthplace: Hadley, Hampshire, Massachusetts, USA
+* Death: 21 JAN 1723
+* Deathplace: Waterbury, New Haven, Connecticut, USA
+* Age at Death: 73
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPPPPMPPM.Pricilla_Symonds[Pricilla Symonds (1624 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPPPPMPPP.John_Warner[John Warner (1616 - 1692)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPPPPMP.Ebenezer_Warner[Ebenezer Warner (1681 - 1755)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPPPPMPP.John_Warner[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0655[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Charles S. Hurlburt (1823 - 1886)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPP.Wait_Hurlburt[Wait Hurlburt (1777 - 1852)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPPPP.Adam_Hurlburt[Adam Hurlburt (1736 - 1828)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPPPM.Rebecca_Warner[Rebecca Warner (1715 - 1767)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPPPPMP.Ebenezer_Warner[Ebenezer Warner (1681 - 1755)]
+
+* John Warner (1649 - 1723)
+
+
+== Other
+event:  654
+----
+2 TYPE Reference Number
+----
+ 654
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

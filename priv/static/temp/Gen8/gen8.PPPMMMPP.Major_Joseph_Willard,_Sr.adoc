@@ -1,0 +1,100 @@
+= Major Joseph Willard, Sr. (1692 - 1774)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 27 MAY 1692
+* Birthplace: Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial America
+* Death: 18 OCT 1774
+* Deathplace: Grafton, Worcester, Massachusetts Bay Colony, British Colonial America
+* Buried: 
+----
+2 DATE 1774
+2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusets, United States
+----
+
+* Age at Death: 82
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPM.Sarah_Lakin[Sarah Lakin (1662 - 1740)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPP.Captain_Benjamin_Willard[Captain Benjamin Willard (1665 - 1732)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1273[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* Major Joseph Willard, Sr. (1692 - 1774)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts&
+4 CONC amp;lt;br&amp;gt;Death: Oct 18 1744 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Captain Benjamin Willard&amp;lt;br&amp;gt;Mother: Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Wife: Mar
+4 CONC tha Willard (born Clarke)&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac WillardJosiah WillardSarah Brooks (born Willard)Mary WillardJoseph WillardSimon WillardS
+4 CONC olomon WillardPhebe WillardBenjamin Willard&amp;lt;br&amp;gt;Siblings: Margaret Howe (born Willard)Simeon Simon WillardSarah Pratt (born Willard)Esther WillardHannah Brigham (born Willard)
+----
+
+* @S111@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Joseph Willard&amp;lt;br&amp;gt;Also known as: Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1693 - Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial A
+4 CONC merica&amp;lt;br&amp;gt;Marriage: Spouse: Martha Clark - Jan 5 1715 - Framingham, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massachusetts Bay Co
+4 CONC lony, British Colonial America&amp;lt;br&amp;gt;Burial: 1774 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Parents: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt
+4 CONC ;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clark)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (
+4 CONC born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Hannah Roberts (born Willard)&lt;/a&gt;, &lt
+4 CONC ;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Soloman 
+4 CONC Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Willard&lt;/a&gt;, &lt;a&gt;Esther Bogle (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard
+4 CONC &lt;/a&gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Hannah Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;
+----
+
+* @S102@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Joseph Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massaschussets, United States&amp;lt;br&amp;gt;Marriage: Spouse: Martha Willard (born Clarke
+4 CONC ) - July 5 1715 - Framingham, Middlesex, MA&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massaschussets, United States&amp;lt;br&amp;gt;Burial: After Oct 18 1774 - Old Oak Street Burial G
+4 CONC round , Grafton, Worcester County, Massachusets, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&
+4 CONC amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clarke)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt
+4 CONC ;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Hanna
+4 CONC h Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&
+4 CONC amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Howe (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Hannah Brigham (born Willard)&lt;/a&gt;, &l
+4 CONC t;a&gt;Benjamin Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;
+----
+

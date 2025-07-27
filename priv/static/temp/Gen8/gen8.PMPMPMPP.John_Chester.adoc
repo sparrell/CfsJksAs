@@ -1,0 +1,69 @@
+= John Chester (1692 - 1771)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: BEF 29 MAY 1692
+* Birthplace: Groton, New London, Connecticut, USA
+* Baptism: 
+----
+2 DATE 29 MAY 1692
+2 PLAC Groton, New London, Connecticut, USA
+2 AGE About 0
+----
+
+* Death: 1 JUN 1771
+* Deathplace: Groton, New London, Connecticut, USA
+* Buried: 
+----
+2 PLAC Starr Cemetery, Groton, New London, Connecticut, USA
+----
+
+* Age at Death: About 79
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMPMPPM.Hannah_Unknown063[Hannah Unknown063 (? - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMPMPPP.Samuel_Chester[Samuel Chester (1660 - 1689)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMPMP.Joseph_Chester[Joseph Chester (1731 - 1804)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPMPMPP.John_Chester[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0089[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMP.William_Patten_Whaley[William Patten Whaley (1786 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPMPM.Mary_Chester[Mary Chester (1764 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMPMP.Joseph_Chester[Joseph Chester (1731 - 1804)]
+
+* John Chester (1692 - 1771)
+
+
+== Other
+occupation: Sea Captain
+
+== Sources

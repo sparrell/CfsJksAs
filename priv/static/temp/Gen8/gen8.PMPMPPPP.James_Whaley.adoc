@@ -1,0 +1,63 @@
+= James Whaley (1680 - 1741)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1680
+* Birthplace: Ulster, Northern Ireland, UK
+* Death: 30 MAR 1741
+* Deathplace: Plymouth, Plymouth, Massachusetts, USA
+* Age at Death: 60-61
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMPPP.Alexander_Whaley[Alexander Whaley (1713 - 1799)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPMPPPP.James_Whaley[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0905[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMP.William_Patten_Whaley[William Patten Whaley (1786 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPMPP.Jonathan_Whaley[Jonathan Whaley (1759 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMPPP.Alexander_Whaley[Alexander Whaley (1713 - 1799)]
+
+* James Whaley (1680 - 1741)
+
+
+== Other
+emigration:  Ulster to Plymouth MA
+----
+2 DATE 1722
+2 PLAC Plymouth, Plymouth, Massachusetts, USA
+2 AGE 41-42
+----
+
+notes: He died in what was then Plymouth but his grave is now in the Town of Carver.
+
+== Sources

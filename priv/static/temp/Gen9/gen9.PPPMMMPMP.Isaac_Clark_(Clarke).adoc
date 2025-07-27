@@ -1,0 +1,78 @@
+= Isaac Clark (Clarke) (1666 - 1768)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1666
+* Birthplace: Falmouth, Cumberland, Maine, New England
+* Death: 26 MAY 1768
+* Deathplace: Framingham, Middlesex, Massachusetts, New England
+* Age at Death: 101-102
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMPM.Elizabeth_Mitton[Elizabeth Mitton (1644 - 1736)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMPP.Lieut_Thaddeus_Clark[Lieut Thaddeus Clark (1635 - 1690)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke)[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1277[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+* Isaac Clark (Clarke) (1666 - 1768)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&
+4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a
+4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clar
+4 CONC k
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&
+4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a
+4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clar
+4 CONC k
+----
+

@@ -13,6 +13,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_relation | rest_relations], gen, dedup_relations) do
+		IO.inspect(this_relation, label: "starting")
 
 		person = dedup_relations[gen][this_relation]
 		filepath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc)
@@ -44,12 +45,6 @@ defmodule Cfsjksas.Tools.Markdown do
 		person_page(rest_relations, gen, dedup_relations)
 	end
 
-	def get_name(person) do
-		person.given_name
-		<> " "
-		<> person.surname
-	end
-
 	def get_dates(person) do
 		person.birth_year
 		<> " - "
@@ -57,11 +52,12 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 
 	def make_label(person) do
-		get_name(person) <> " (" <> get_dates(person) <> ")"
+		Cfsjksas.Ancestors.Person.get_name(person)
+		<> " (" <> get_dates(person) <> ")"
 	end
 
 	def make_title(person) do
-		get_name(person)
+		Cfsjksas.Ancestors.Person.get_name(person)
 		<> " ("
 		<> get_dates(person)
 		<> ")"
@@ -111,6 +107,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	def make_refs(person_r, relation) do
 		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(relation)
+		<> Cfsjksas.Tools.Link.wikipedia(person_p)
 		<> Cfsjksas.Tools.Link.dev(person_r)
 		<> Cfsjksas.Tools.Link.werelate(person_p)
 		<> Cfsjksas.Tools.Link.myheritage(person_p)
@@ -131,14 +128,19 @@ defmodule Cfsjksas.Tools.Markdown do
 				"Brickwall\n"
 			{nil, :brickwall_mother} ->
 				"Brickwall\n"
+			{nil, :duplicate} ->
+				"duplicate, need to look up manually\n"
 			{nil, huh} ->
 				IO.inspect(huh, label: "unplanned mom termination?")
 				IEx.pry()
-			{mom_id, :ship} ->
-				"ship"
-			{mom_id, :no_ship} ->
-				"no_ship"
-			{mom_id, :duplicate} ->
+			{^mom_id, :ship} ->
+				IO.inspect(mom_id, label: "ship:mom_id")
+				"ship so parents NA"
+			{^mom_id, :no_ship} ->
+				IO.inspect(mom_id, label: "no_ship:mom_id")
+				"no_ship so parents NA"
+			{^mom_id, :duplicate} ->
+				IO.inspect(mom_id, label: "duplicate:mom_id")
 				"Mom ID = "
 				<> to_string(mom_id)
 				<> "is duplicate. "
@@ -152,6 +154,17 @@ defmodule Cfsjksas.Tools.Markdown do
 				# return labeled link
 				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
 				<> "\n"
+			{_mom_id, :brickwall_father} ->
+				# mother like normal
+				mom_relation = person_r.relation ++ ["M"]
+				mom_r = relations[gen+1][mom_relation]
+				mom_label = "[" <> make_label(mom_r) <> "]"
+
+				# return labeled link
+				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
+				<> "\n"
+			{_, _} ->
+				IEx.pry()
 		end
 
 		dad_id = person_r.father
@@ -165,10 +178,20 @@ defmodule Cfsjksas.Tools.Markdown do
 				"Brickwall\n"
 			{nil, :brickwall_father} ->
 				"Brickwall\n"
+			{nil, :duplicate} ->
+				"duplicate, need to look up manually\n"
 			{nil, huh} ->
 				IO.inspect(huh, label: "unplanned dad termination?")
 				IEx.pry()
-			{dad_id, :duplicate} ->
+			{^dad_id, :ship} ->
+				IO.inspect(dad_id, label: "ship:dad_id")
+				"ship so parents NA"
+			{^dad_id, :no_ship} ->
+				IO.inspect(dad_id, label: "no_ship:dad_id")
+				"no_ship so parents NA"
+			{^dad_id, :duplicate} ->
+				IO.inspect(dad_id, label: "duplicate:dad_id")
+
 				"Dad ID = "
 				<> to_string(dad_id)
 				<> "is duplicate. "
@@ -181,7 +204,18 @@ defmodule Cfsjksas.Tools.Markdown do
 
 				# return labeled link
 				Cfsjksas.Tools.Link.book_link(dad_relation, dad_label)
+			{_dad_id, :brickwall_mother} ->
+				# dad still there so treat like normal
+				dad_relation = person_r.relation ++ ["P"]
+				dad_r = relations[gen+1][dad_relation]
+				dad_label = "[" <> make_label(dad_r) <> "]"
+
+				# return labeled link
+				Cfsjksas.Tools.Link.book_link(dad_relation, dad_label)
+
 				<> "\n"
+			{_, _} ->
+				IEx.pry()
 
 			end
 
@@ -256,6 +290,11 @@ defmodule Cfsjksas.Tools.Markdown do
 		mod_r_list = List.delete_at(relation, -1)
 		gen = length(relation)
 		person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
+		IO.inspect(relation, label: "relation")
+		if person == nil do
+			IEx.pry()
+		end
+		IO.inspect(mod_r_list, label: "mod_r_list")
 
 		make_lineage(init_text, [], mod_r_list)
 		<> "* " <> make_label(person) <> "\n\n"
@@ -284,7 +323,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		make_lineage(new_text, new_done, rest)
 	end
 
-	def make_ship(person_r, false) do
+	def make_ship(_person_r, false) do
 		# not an immigrant so leave off ship markdown
 		""
 	end
@@ -293,7 +332,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		IEx.pry()
 		"\n== Ship\n"
 	end
-	def make_no_ship(person_r, false) do
+	def make_no_ship(_person_r, false) do
 		# not an immigrant so leave off no_ship markdown
 		""
 	end
@@ -411,7 +450,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		already = Cfsjksas.Hybrid.Get.other()
 		  ++ Cfsjksas.Hybrid.Get.vitals()
 		  ++ Cfsjksas.Hybrid.Get.dontcare()
-			++ [:ship, :noship]
+		  ++ Cfsjksas.Hybrid.Get.links()
 
 		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
 

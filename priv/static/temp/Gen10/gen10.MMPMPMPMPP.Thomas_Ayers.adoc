@@ -1,0 +1,57 @@
+= Thomas Ayers (1626 - 1686)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 9 NOV 1626
+* Birthplace: Ipswich, Essex, England, UK
+* Death: 9 NOV 1686
+* Deathplace: Haverhill, Essex, Massachusetts, USA
+* Age at Death: 60
+
+
+== Family
+* Mother: no_ship so parents NA
+* Father: no_ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMPMP.John_Ayers[John Ayers (1657 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMPMPP.Thomas_Ayers[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0857[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPM.Mahala_Phillips[Mahala Phillips (1774 - 1852)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPMP.Jonathan_Phillips[Jonathan Phillips (1723 - 1787)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMPM.Esther_Ayers[Esther Ayers (1699 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMPMP.John_Ayers[John Ayers (1657 - ?)]
+
+* Thomas Ayers (1626 - 1686)
+
+
+== Other
+
+== Sources

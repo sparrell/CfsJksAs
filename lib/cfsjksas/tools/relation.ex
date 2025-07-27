@@ -56,7 +56,7 @@ defmodule Cfsjksas.Tools.Relation do
     # bootstap the 'already' list
 		id_list = [relations[0][0].id, relations[1][["P"]].id, relations[1][["M"]].id]
 
-    # edit relations by adding empty termination list for g0,1
+    # edit relations by adding termination for g0,1
     new_relations = relations
     |> put_in([0, 0, :termination], :normal)
     |> put_in([1,["P"], :termination], :normal)
@@ -69,80 +69,13 @@ defmodule Cfsjksas.Tools.Relation do
     relations
   end
   def dedup({relations, id_list}, [gen | rest_gen]) do
-    # sort relation_keys with special sort
+    # sort relation_keys
     relation_keys = Map.keys(relations[gen])
-#    |> Enum.sort(&Cfsjksas.Tools.Relation.compare_relations/2)
     |> Enum.sort()
 
     {relations, gen, id_list}
     |> process_person(relation_keys)
     |> dedup(rest_gen)
-  end
-
-  def compare_relations(rel1, rel2) when rel1 == rel2 do
-    IO.inspect("should not have got to compare_relations equal")
-    true
-  end
-  def compare_relations(rel1, rel2) do
-    [h1 | [h2 | tail1 ] ] = rel1
-    [h3 | [h4 | tail2 ] ] = rel2
-
-#    case {h1,h2,h3,h4} do
-#      {"P","P","P","P"} ->
-#        rel1 >= rel2
-#      {"P","P", _ ,_ } ->
-#        true
-#      {_, _, "P", "P"} ->
-#        false
-#      {"M","M", _, _} ->
-#        true
-#      { _, _, "M","M"} ->
-#        false
-#      _ ->
-#        rel1 >= rel2
-#    end
-    # compare first across quadrants, then within  quadrant
-    case {h1, h2, tail1, h3, h4, tail2} do
-      {"P", "P", tail1, "P", "P", tail2} ->
-        # within NE quadrant
-        ## go with 'smaller' (since M before P)
-        ## to be closer to paternal line
-        tail2 >= tail1
-      {"P","P", _, _, _ ,_ } ->
-        # NE (paternal) quadrant 'before' any other quadrant
-        false
-      { _, _, _, "P","P", _ } ->
-        # NE (paternal) quadrant 'before' any other quadrant
-        true
-      {"M", "M", tail1, "M", "M", tail2} ->
-        # SE (maternal) quadrant
-        ## go with 'smaller' (since M before P)
-        ## to be closer to paternal line
-        tail2 >= tail1
-      {"M", "M", _, _, _, _} ->
-        # SE quadrant before any quad but NE
-        false
-      { _, _, _, "M", "M", _} ->
-        # SE quadrant before any quad but NE
-        true
-      {"P", "M", tail1, "P", "M", tail2} ->
-        # NE quadrant
-        # go with 'larger' to be 'higher'
-        tail1 >= tail2
-      {"P", "M",  _, _, _, _} ->
-        # NE quadrant before SE quad
-        false
-      {_, _,  _, "P", "M", _} ->
-        # NE quadrant before SE quad
-        true
-      {"M", "P", tail1, "M", "P", tail2} ->
-        #SW
-        # go with 'smaller' to be 'lower'
-        tail2 >= tail1
-      _ ->
-        # should have covered all comparisons?????
-        IEx.pry()
-    end
   end
 
   def process_person({relations, _gen, id_list}, []) do

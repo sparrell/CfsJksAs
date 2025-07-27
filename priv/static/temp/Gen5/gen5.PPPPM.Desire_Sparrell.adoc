@@ -1,0 +1,81 @@
+= Desire Sparrell (1798 - 1872)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Sparrell
+* Birth: 6 OCT 1798
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Death: 6 JAN 1872
+* Deathplace: South Scituate, Plymouth, Massachusetts, USA
+* Buried: 
+----
+2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
+----
+
+* Age at Death: 73
+* Death Cause: "Paralysis"; Stroke?
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMM.Martha_Farrow[Martha Farrow (1754 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMP.James_Barrell[James Barrell (1751 - 1801)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0364[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* Desire Sparrell (1798 - 1872)
+
+
+== Other
+event:  "Paralysis"; Stroke?
+----
+2 TYPE _DCAUSE
+----
+
+
+== Sources
+* @S43@
+----
+2 PAGE https://www.myheritage.com/research/record-30033-1259108-M/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
+2 QUAY 4
+2 DATA
+3 TEXT James N. Sparrell & Emeline Gleason
+4 CONC Marriage: Aug 5 1846 - Worcester, Massachusetts
+4 CONC Husband: James N. Sparrell
+4 CONC &nbsp;&nbsp;Father: James N. Sparrell
+4 CONC &nbsp;&nbsp;Mother: Desire Sparrell
+4 CONC Wife: Emeline Gleason
+4 CONC &nbsp;&nbsp;Father: Line... Gleason
+4 CONC &nbsp;&nbsp;Mother: Sophia Gleason
+4 CONC Certificate Number: 254
+4 CONC GS Film number: 1428256
+4 CONC Digital Folder Number: 4279728
+4 CONC Image Number: 00797
+----
+

@@ -1,0 +1,67 @@
+= Genubeth Strong (1791 - 1856)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 22 OCT 1791
+* Birthplace: Bolton, Tolland, Connecticut, USA
+* Baptism:  Baptized, Ist Church Bolton, Rev. Michael Wigglesworth
+----
+2 DATE 17 JUN 1792
+2 PLAC Bolton, Tolland, Connecticut, USA
+2 AGE 0
+----
+
+* Death: 13 AUG 1856
+* Deathplace: Andover, Tolland, Connecticut, USA
+* Age at Death: 64
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPM.Lucy_Kilbourn[Lucy Kilbourn (? - 1825)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0141[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* Genubeth Strong (1791 - 1856)
+
+
+== Other
+event:  Genubeth was named by allowing a Bible to fall open. See 1 Kings 11:20 .
+----
+2 TYPE Fact 2
+----
+
+occupation: Farmer and Joiner at Andover CT
+----
+2 PLAC Andover, Tolland, Connecticut, USA
+----
+
+
+== Sources

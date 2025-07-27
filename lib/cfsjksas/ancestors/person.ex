@@ -21,6 +21,10 @@ defmodule Cfsjksas.Ancestors.Person do
   require IEx
 
   def get_name(person) do
+    if person == nil do
+      IEx.pry()
+    end
+
     given = case person.given_name do
       nil ->
         "Unknown"
@@ -355,5 +359,32 @@ defmodule Cfsjksas.Ancestors.Person do
     [Cfsjksas.Ancestors.GetAncestors.person(this)[key] | values]
     |> list_key_values(rest, key)
   end
+
+  def relation_from_id(id) do
+    # return person_r that has this id
+    all_ancestor_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    # recurse thru all relation keys to find one that has this person_id
+    relation_from_id(id, all_ancestor_ids)
+  end
+  def relation_from_id(id, []) do
+    # didn't find????
+    IEx.pry()
+  end
+  def relation_from_id(id, [this_ancestor_id | rest_ancestor_ids]) do
+    # does "this" person have this ancestor id
+IO.inspect(this_ancestor_id, label: "id1")
+    person_p = Cfsjksas.Ancestors.GetLineages.person_from_relation(this_ancestor_id)
+    case this_ancestor_id == id do
+      true ->
+        # match, return person_r
+IO.inspect(person_p, label: "hit person_p, return person_r")
+IEx.pry()
+        #person_r
+      false ->
+        # mo match, recurse to next id
+        relation_from_id(id, rest_ancestor_ids)
+    end
+  end
+
 
 end

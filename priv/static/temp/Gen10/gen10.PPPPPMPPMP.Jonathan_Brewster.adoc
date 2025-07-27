@@ -1,0 +1,250 @@
+= Jonathan Brewster (1593 - 1659)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 12 AUG 1593
+* Birthplace: Scrooby, Nottinghamshire, England, UK
+* Death: 7 AUG 1659
+* Deathplace: New London, New London, Connecticut, USA
+* Age at Death: 65
+
+
+== Family
+* Mother: ship so parents NA
+* Father: ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPMPPM.Mary_Brewster[Mary Brewster (1627 - 1697)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPPMPPMP.Jonathan_Brewster[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0487[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMMPP.Amos_Lester[Amos Lester (1728 - 1808)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMMPPP.Jonathan_Lester[Jonathan Lester (1702 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMMPPPP.Jonathan_Lester[Jonathan Lester (1678 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMPPPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMMMMPPPPMM.Elizabeth_Brewster[Elizabeth Brewster (1637 - 1708)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMMPM.Anna_Lester[Anna Lester (1736 - 1807)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMMPMP.Peter_Lester[Peter Lester (1705 - 1789)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMMPMPP.Jonathan_Lester[Jonathan Lester (1678 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMPMPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMMMMPMPPMM.Elizabeth_Brewster[Elizabeth Brewster (1637 - 1708)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #3
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMMPP.Amos_Lester[Amos Lester (1728 - 1808)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMMPPP.Jonathan_Lester[Jonathan Lester (1702 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMPPPP.Jonathan_Lester[Jonathan Lester (1678 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPPPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPPPPMM.Elizabeth_Brewster[Elizabeth Brewster (1637 - 1708)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #4
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMMPM.Anna_Lester[Anna Lester (1736 - 1807)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMMPMP.Peter_Lester[Peter Lester (1705 - 1789)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMPMPP.Jonathan_Lester[Jonathan Lester (1678 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPMPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPMPPMM.Elizabeth_Brewster[Elizabeth Brewster (1637 - 1708)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #5
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Desire Sparrell (1798 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMP.James_Barrell[James Barrell (1751 - 1801)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPMPP.James_Barrell[James Barrell (1727 - 1827)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPMPPP.William_Barrell[William Barrell (1683 - 1752)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMPPPM.Lydia_Turner[Lydia Turner (1653 - 1714)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPMPPPMM.Mary_Brewster[Mary Brewster (1627 - 1697)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #6
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMP.William_Patten_Whaley[William Patten Whaley (1786 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPMPM.Mary_Chester[Mary Chester (1764 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMPMP.Joseph_Chester[Joseph Chester (1731 - 1804)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPMPMPM.Mary_Starr[Mary Starr (1696 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMPMPMP.Thomas_Starr[Thomas Starr (1668 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPMPMPMPM.Hannah_Brewster[Hannah Brewster (1641 - 1711)]
+
+* Jonathan Brewster (1593 - 1659)
+
+=== Lineage #7
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPPM.Rachel_Turner[Rachel Turner (1776 - 1866)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPMP.John_Turner[John Turner (1693 - 1778)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPPMPP.Benjamin_Turner[Benjamin Turner (1660 - 1731)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPMPPM.Mary_Brewster[Mary Brewster (1627 - 1697)]
+
+* Jonathan Brewster (1593 - 1659)
+
+
+== Other
+emigration:  arrived Plymouth on the FORTUNE from London
+----
+2 DATE 9 NOV 1621
+2 PLAC Plymouth, Plymouth, Massachusetts, USA
+2 AGE 28
+----
+
+event:  Military Commisioner for the Pequot War
+----
+2 TYPE Appointed
+2 DATE 1637
+2 AGE 43-44
+----
+ Sold house at Duxbury, Plymouth Colony to Dr. Comfort Starr
+----
+2 TYPE Fact 7
+2 DATE 19 JUN 1638
+2 PLAC Duxbury, Plymouth, Massachusetts, USA
+2 AGE 44
+----
+
+notes: Jonathan Brewster obtained a licence to operate a ferry across the North River between present day Scituate and Marshfield. Because af the small population at the time , this venture was a failure. He
+----
+2 CONC then became the agent for the Plymouth Colony in what later became the Connecticut Colony. <p></p> <p>Jonathan Brewster next became a trader along the coast of New England from Maine to Connecticut in
+2 CONC  a sloop as did his brother-in-law John Oldham. The murder of Oldham by Indians off Block Island was one of the precipitating events of the Pequot War. <p></p> <p>Jonathan  finally established a tradi
+2 CONC ng post on land along the Thames River which he had purchased from Uncas, Chief of the Mohicans in 1650.</p> <p></p> <p>His New London farm was located on what became the border between Norwich and Ne
+2 CONC w London lying partly in each. That is why he is recorded as dying in New London and Lucretia in Norwich although both died in the same house. He was a close friend of John Winthrop, Jr., founder of N
+2 CONC ew London and first Governor of the Connecticut Colony.
+----
+
+occupation: Ribbonmaker in Leyden, Netherlands
+----
+2 DATE BEF 1620
+2 AGE About 26-27
+----
+Coastal Trader (Notes)
+----
+2 DATE AFT 1630
+2 AGE About 36-37
+----
+
+
+== Sources

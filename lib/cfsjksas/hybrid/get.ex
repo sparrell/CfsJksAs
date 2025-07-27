@@ -168,10 +168,16 @@ defmodule Cfsjksas.Hybrid.Get do
 		:death_source,
   ]
 
-  @dontcare [
+  @links [
     :geni,
     :werelate,
     :myheritage,
+    :wikipedia,
+  ]
+
+  @dontcare [
+    :ship,
+    :no_ship,
     :uid,
     :mh_famc,
     :mh_fams,
@@ -340,6 +346,10 @@ defmodule Cfsjksas.Hybrid.Get do
 
   def vitals() do
     @vitals
+  end
+
+  def links() do
+    @links
   end
 
   def dontcare() do

@@ -1,0 +1,68 @@
+= Samuel Packard (1612 - 1684)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 17 SEP 1612
+* Birthplace: Windham, Norfolk, England, UK
+* Death: 7 APR 1684
+* Deathplace: Bridgewater, Plymouth, Massachusetts, USA
+* Age at Death: 71
+
+
+== Family
+* Mother: ship so parents NA
+* Father: ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MPMMMPMP.Israel_Packard[Israel Packard (1645 - 1680)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MPMMMPMPP.Samuel_Packard[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0697[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMM.Rhoda_Andrews[Rhoda Andrews (1775 - 1841)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMMM.Naomi_Briggs[Naomi Briggs (1742 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMMMP.Israel_Briggs[Israel Briggs (1703 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MPMMMPM.Abigail_Packard[Abigail Packard (? - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MPMMMPMP.Israel_Packard[Israel Packard (1645 - 1680)]
+
+* Samuel Packard (1612 - 1684)
+
+
+== Other
+emigration:  arr. Boston in the ship "Diligence"
+----
+2 DATE 10 AUG 1638
+2 AGE 25
+----
+
+event:  _ELEC of Packard, Samuel Selectman - Weymouth
+----
+2 TYPE _ELEC
+----
+
+notes: Sailed from Ipswich, 26 April 1638 on ship Diligence with wife and one child. Landed Boston 10 August 1638.
+occupation: Constable and tavern keeper
+
+== Sources

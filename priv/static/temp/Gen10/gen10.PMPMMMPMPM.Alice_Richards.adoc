@@ -1,0 +1,60 @@
+= Alice Richards (1627 - 1671)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 16 JUN 1627
+* Birthplace: Plymouth, Plymouth, Massachusetts, USA
+* Death: 12 DEC 1671
+* Deathplace: Plymouth, Plymouth, Massachusetts, USA
+* Age at Death: 44
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPMMMPMPMM.Welthian_Loring[Welthian Loring (? - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPMMMPMPMP.Thomas_Richards[Thomas Richards (? - ?)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMMMPMP.Samuel_Bradford[Samuel Bradford (1667 - 1714)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPMMMPMPM.Alice_Richards[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1002[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMM.Philena_Haughton[Philena Haughton (1776 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPMMM.Philena_Whiting[Philena Whiting (1743 - 1781)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMMMP.John_Whiting[John Whiting (1719 - 1770)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPMMMPM.Elizabeth_Bradford[Elizabeth Bradford (1696 - 1777)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMMMPMP.Samuel_Bradford[Samuel Bradford (1667 - 1714)]
+
+* Alice Richards (1627 - 1671)
+
+
+== Other
+
+== Sources

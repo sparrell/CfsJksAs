@@ -1,0 +1,62 @@
+= Jemimah Stetson (1695 - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 13 MAR 1695
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMMMMM.Mary_Collamore[Mary Collamore (1667 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMMMMP.Robert_Stetson[Robert Stetson (1670 - 1760)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPMMM.Jemimah_Damon[Jemimah Damon (1724 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPMMMM.Jemimah_Stetson[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0176[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Desire Sparrell (1798 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMM.Martha_Farrow[Martha Farrow (1754 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPMMM.Jemimah_Damon[Jemimah Damon (1724 - ?)]
+
+* Jemimah Stetson (1695 - ?)
+
+
+== Other
+event:  200
+----
+2 TYPE Reference Number
+----
+ 200
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

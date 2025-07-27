@@ -1,0 +1,56 @@
+= John Wyatt (? - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMPPPPM.Sarah_Wyatt[Sarah Wyatt (1620 - 1704)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMPPPPMP.John_Wyatt[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0399[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMP.John_Bixby[John Bixby (1767 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMPP.Pelitiah_Bixby[Pelitiah Bixby (1731 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMPPP.Thomas_Bixby[Thomas Bixby (1696 - 1776)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMPPPP.Joseph_Bixby[Joseph Bixby (? - 1725)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMPPPPM.Sarah_Wyatt[Sarah Wyatt (1620 - 1704)]
+
+* John Wyatt (? - ?)
+
+
+== Other
+
+== Sources

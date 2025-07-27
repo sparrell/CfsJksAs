@@ -1,0 +1,71 @@
+= Mary Jobo (1610 - 1655)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Bacon
+* Birth: 1610
+* Birthplace: Winston, Suffolk, England
+* Death: 26 AUG 1655
+* Deathplace: Woburn, Middlesex, Massachusetts
+* Age at Death: 44-45
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPMM.Mary_Bacon[Mary Bacon (1640 - 1701)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPPMMM.Mary_Jobo[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1292[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPM.Sarah_Lakin[Sarah Lakin (1662 - 1740)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPMM.Mary_Bacon[Mary Bacon (1640 - 1701)]
+
+* Mary Jobo (1610 - 1655)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1610 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Death: Aug 26 1655 - Woburn, 
+4 CONC Middlesex, Massachusetts&amp;lt;br&amp;gt;Husband: Michael Bacon&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bac
+4 CONC on)Michael Bacon, JrMichael Bacon
+----
+

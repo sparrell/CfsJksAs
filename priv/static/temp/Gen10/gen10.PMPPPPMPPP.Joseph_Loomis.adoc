@@ -1,0 +1,81 @@
+= Joseph Loomis (1590 - 1658)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: ABT 1590
+* Birthplace: Thaxted, Essex, England, UK
+* Death: 25 NOV 1658
+* Deathplace: Windsor, Hartford, Connecticut, USA
+* Age at Death: About 67-68
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPP.Nathaniel_Loomis[Nathaniel Loomis (1626 - 1688)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPMPPP.Joseph_Loomis[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0519[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPM.Thankful_Loomis[Thankful Loomis (1709 - 1771)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPMP.Moses_Loomis[Moses Loomis (1671 - 1754)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPP.Nathaniel_Loomis[Nathaniel Loomis (1626 - 1688)]
+
+* Joseph Loomis (1590 - 1658)
+
+
+== Other
+emigration:  Arr.Boston MA on Ship Susan & Ellen
+----
+2 DATE 17 JUL 1638
+2 AGE About 47-48
+----
+
+event:  See Notes
+----
+2 TYPE Misc
+----
+
+notes: Joseph Loomis was a woolen-draper in Braintree, Essex County, England. He was a member of the Huit party that sailed from London April 11, 1638 in the ship 'Susan and Ellen', and arrived at Boston Jul
+----
+2 CONC y17, 1638, tarrying about one year at Dorchester, MA, it is thought.  It is mentioned in the town records of Windsor, Volume 1, that on February 2, 1640 he had granted him from the plantation 21 acres
+2 CONC  adjoining Farmington River,onthe west side of the Connecticut River.  This 21 acres included the site of the first English settlement in Connecticut.  Also granted him were several large tracts of la
+2 CONC nd on the east side of the Connecticut River, received partly from the town and partly by purchase. <p>He therefore probably came to Windsor in the summer or autumn of 1639.  He is generally supposed 
+2 CONC to have come in the company with the Rev. Ephraim Huet, who arrived at Windsor on August 17, 1639.  He brought with him five sons, all of whom were freemen, October 7, 1669, and three daughters.  His 
+2 CONC house was situated near the mouth of the Farmington River on"The Island", so called because at every great freshet it became temporarily an island by the overflowing of the Connecticut River. <p></p> 
+2 CONC <p>Ancestor of President Millard Fillmore.</p>
+----
+
+occupation: Woolen draper
+
+== Sources

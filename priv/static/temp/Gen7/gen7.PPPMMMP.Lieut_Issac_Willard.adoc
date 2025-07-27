@@ -1,0 +1,106 @@
+= Lieut. Issac Willard (1724 - 1805)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 15 APR 1724
+* Birthplace: Grafton, Worcester, Massaschussets, United States
+* Death: 26 DEC 1805
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Buried: 
+----
+2 DATE JAN 1806
+2 PLAC Hope Cemetery, Worcester, Worcester County, Massachusetts, United States
+----
+
+* Age at Death: 81
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1271[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* Lieut. Issac Willard (1724 - 1805)
+
+
+== Other
+event:  Lieutenant
+----
+2 TYPE Military Service
+2 SOUR @S60@
+3 QUAY 0
+3 DATA
+4 TEXT tombstone
+----
+
+residence: 
+----
+2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AIsaac_Willard_%281%29:
+----
+
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Lieut. Issac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Province of Massachusetts Bay&amp;lt;br&amp;gt;Marriage: Dec 29 1746 - Massachusetts&amp;lt
+4 CONC ;br&amp;gt;Death: Dec 26 1805 - Worcester, Worcester, Massachusetts, United States&amp;lt;br&amp;gt;Father: Major Joseph Willard&amp;lt;br&amp;gt;Mother: Martha Willard (born Clarke)&amp;lt;br&amp;gt;
+4 CONC Wife: Sarah Willard (born Whipple)&amp;lt;br&amp;gt;Child: Solomon Willard&amp;lt;br&amp;gt;Siblings: Hannah Newton (born Willard Roberts, Robbards)Josiah WillardSarah Brooks (born Willard)Mary Willar
+4 CONC dJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard
+----
+
+* @S102@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Isaac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Massaschussets, United States&amp;lt;br&amp;gt;Occupation: Blacksmith&amp;lt;br&amp;gt;Marriage: S
+4 CONC pouse: Mercy Willard (born Dudley) - Sep 3 1768 - United States&amp;lt;br&amp;gt;Death: Dec 26 1805 - Worcester, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Burial: Jan 1806 - Hope
+4 CONC  Cemetery , Worcester, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Joseph Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Martha Willard (born Clarke)&lt;
+4 CONC /a&gt;&amp;lt;br&amp;gt;Wives: &lt;a&gt;Sarah Willard (born Whipple)&lt;/a&gt;, &lt;a&gt;Mercy Willard (born Dudley)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;James Willard&lt;/a&gt;, &lt;a&gt;Jam
+4 CONC es Willard&lt;/a&gt;, &lt;a&gt;Eunice (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;, &l
+4 CONC t;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Sarah Johnson (born Willard)&lt;/a&gt;, &lt;a&gt;Molly Hayward (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &l
+4 CONC t;a&gt;Lucretia (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Wil
+4 CONC lard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&g
+4 CONC t;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;
+----
+
+* @S60@
+----
+2 QUAY 0
+2 DATA
+3 TEXT <p>Cemetery Headstone: In Memory of </p><p> Lieut. Isaac Willard </p><p> who died </p><p> Dec. 26, 1805, </p> Æ. 80
+----
+

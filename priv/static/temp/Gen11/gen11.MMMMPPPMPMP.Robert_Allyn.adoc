@@ -1,0 +1,195 @@
+= Robert Allyn (1616 - 1683)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1616
+* Birthplace: Manchester, Lancashire, England, UK
+* Death: BEF 20 SEP 1683
+* Deathplace: Norwich, New London, Connecticut, USA
+* Age at Death: About 66-67
+
+
+== Family
+* Mother: duplicate, need to look up manually
+
+* Father: duplicate, need to look up manually
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPPPMPM.Mary_Allyn[Mary Allyn (1648 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPPPMPMP.Robert_Allyn[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0513[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMPP.Nathaniel_Kimball[Nathaniel Kimball (1768 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMPPP.Moses_Kimball[Moses Kimball (1741 - 1835)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMPPPM.Mary_Parke[Mary Parke (1711 - 1788)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMPPPMP.Thomas_Parke[Thomas Parke (1676 - 1732)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMPPPMPM.Mary_Allyn[Mary Allyn (1648 - ?)]
+
+* Robert Allyn (1616 - 1683)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMMPP.Amos_Lester[Amos Lester (1728 - 1808)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMMPPM.Deborah_Allyn[Deborah Allyn (1698 - 1770)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMMPPMP.Robert_Allyn[Robert Allyn (1671 - 1730)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMPPMPP.John_Allyn[John Allyn (1640 - 1709)]
+
+* Robert Allyn (1616 - 1683)
+
+=== Lineage #3
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMMM.Sarah_Avery[Sarah Avery (1781 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMMMP.James_Avery[James Avery (1737 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMMMPP.Theophilus_Avery[Theophilus Avery (1708 - 1799)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMMMPPM.Hannah_Rose[Hannah Rose (1682 - 1724)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMMPPMM.Hannah_Allyn[Hannah Allyn (1650 - 1746)]
+
+* Robert Allyn (1616 - 1683)
+
+=== Lineage #4
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMPP.Nathaniel_Kimball[Nathaniel Kimball (1768 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMPPP.Moses_Kimball[Moses Kimball (1741 - 1835)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMPPPM.Mary_Parke[Mary Parke (1711 - 1788)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPPPMP.Thomas_Parke[Thomas Parke (1676 - 1732)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPPPMPM.Mary_Allyn[Mary Allyn (1648 - ?)]
+
+* Robert Allyn (1616 - 1683)
+
+=== Lineage #5
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMMP.Amos_Lester[Amos Lester (1776 - 1842)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMMPP.Amos_Lester[Amos Lester (1728 - 1808)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMMPPM.Deborah_Allyn[Deborah Allyn (1698 - 1770)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMPPMP.Robert_Allyn[Robert Allyn (1671 - 1730)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPPMPP.John_Allyn[John Allyn (1640 - 1709)]
+
+* Robert Allyn (1616 - 1683)
+
+=== Lineage #6
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMMM.Sarah_Avery[Sarah Avery (1781 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMMMP.James_Avery[James Avery (1737 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMMMPP.Theophilus_Avery[Theophilus Avery (1708 - 1799)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMMPPM.Hannah_Rose[Hannah Rose (1682 - 1724)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMMPPMM.Hannah_Allyn[Hannah Allyn (1650 - 1746)]
+
+* Robert Allyn (1616 - 1683)
+
+
+== Other
+notes: .. Robert Allyn  1616-1683 <p></p> <p>..From Jacobus 1948 & Arnold 1965:</p> <p>According to testimony he gave in court in 1680 (Duff and Jacobus 1945 note</p> <p>that this was in a case of Edward Smi
+----
+2 CONC th v Estate of John Smith), Robert was</p> <p>born in England about 1616.</p> <p></p> <p>He came to Gloucester Ma with the Dorchester Co. in 1624.  In 1636 he settled</p> <p>at Salem Ma with his broth
+2 CONC er William in the section of town which became</p> <p>Manchester.  Robert was a landowner in 1637, a freeman in 1649, a member of the church in May 1642 and Constable in 1648.</p> <p></p> <p>In 1651 R
+2 CONC obert moved to Pequot (New London Ct), receiving a home lot onCape</p> <p>Ann Lane.  In 1653 he received a Pocketannock Grant, northeast of New London,</p> <p>resulting in a large farm on the east sid
+2 CONC e of the Thames, at a place still known</p> <p>as Allyn's Point (now in the town of Ledyard about 1 mile north of Gales Ferry).</p> <p>He moved there in 1656 and built a wharf and trading house on wha
+2 CONC t later (1667)</p> <p>became part of the Mashantucket Indian reservation.</p> <p></p> <p>In June 1659 Robert left his farm and became one of the original proprietors of</p> <p>Norwich Ct, receiving a 
+2 CONC home lot of 5 acres in November of that year. He was</p> <p>dismissed to Norwich by the First Church of Salem Ma on 12 Jan 1662/3. He was made Constable in 1669.  He later returned to Allyn's Point, g
+2 CONC iving his Norwich lot to his son John, and later exchanging it for land nearer Allyn's Point. <p></p> <p>He left his widow Sarah 1/3 of his real estate and 100 pounds of personal</p> <p>estate.  Thoma
+2 CONC s Rose came to own the farm where Robert had lived, through the</p> <p>distribution to his heirs and in deeds of 1685 and 1688.  Each daughterwas</p> <p>given L66 6s.  Carpenter's tools are mentioned 
+2 CONC in the inventory of his estate.</p> <p>(Settlement of estate in New London Land Records 5-87 and New London County</p> <p>Court Records 4-56.)</p> <p></p>
+----
+
+occupation: Carpenter and farmer
+
+== Sources

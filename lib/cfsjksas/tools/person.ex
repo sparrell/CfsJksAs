@@ -1,6 +1,8 @@
 defmodule Cfsjksas.Tools.Person do
   # routines processing "person" as input
 
+  require IEx
+
   def get_birth_place(person) do
     case person.birth_place do
       nil ->
@@ -40,6 +42,9 @@ defmodule Cfsjksas.Tools.Person do
       end
 
     def person_name(person) do
+    if person == nil do
+      IEx.pry()
+    end
       # get person name
       given_name(person) <> " " <> surname(person)
       end

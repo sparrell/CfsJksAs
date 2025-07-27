@@ -26,7 +26,6 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
 
-
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
 
 

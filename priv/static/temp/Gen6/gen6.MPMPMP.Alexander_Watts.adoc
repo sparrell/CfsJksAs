@@ -1,0 +1,46 @@
+= Alexander Watts (? - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPM.Margaret_Watt[Margaret Watt (1739 - 1796)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPMP.Alexander_Watts[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1298[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPM.Margaret_Watt[Margaret Watt (1739 - 1796)]
+
+* Alexander Watts (? - ?)
+
+
+== Other
+
+== Sources

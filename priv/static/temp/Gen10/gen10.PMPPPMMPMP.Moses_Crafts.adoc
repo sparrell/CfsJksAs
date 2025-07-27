@@ -1,0 +1,66 @@
+= Moses Crafts (1641 - 1718)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 28 APR 1641
+* Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+* Death: 30 DEC 1718
+* Deathplace: Wethersfield, Hartford, Connecticut, USA
+* Age at Death: 77
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPPPMMPMPM.Alice_Unknown008[Alice Unknown008 (? - 1673)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPPPMMPMPP.Griffin_Crafts[Griffin Crafts (1601 - 1689)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMMPM.Abigail_Crafts[Abigail Crafts (1676 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPMMPMP.Moses_Crafts[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0809[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPM.Lucy_Kilbourn[Lucy Kilbourn (? - 1825)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPMM.Elizabeth_Goodrich[Elizabeth Goodrich (1733 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPMMP.Moses_Goodrich[Moses Goodrich (1697 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMMPM.Abigail_Crafts[Abigail Crafts (1676 - ?)]
+
+* Moses Crafts (1641 - 1718)
+
+
+== Other
+notes: 1672 -  Moses name is on a subscription list to build anew meeting house in Roxbury MA. <p>1673 - Moses was granted a licence to keep an "Ordinary"in Deerfild.</p> <p>1675 -"King Phillips War" - India
+----
+2 CONC ns attack Deerfield. Residents including Craft family abandon Deerfield and move to Hatfield.</p> <p>1678 - Craft family leaves Hatfield and moves to Branford CT.</p> <p>1683 - Moses Craft is living i
+2 CONC n Weathersfield when he sells his land inBranford.</p>
+----
+
+
+== Sources

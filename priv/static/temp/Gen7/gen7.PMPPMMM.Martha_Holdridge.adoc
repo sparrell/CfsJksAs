@@ -1,0 +1,62 @@
+= Martha Holdridge (1741 - 1775)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Paine
+* Birth: 1741
+* Birthplace: Canterbury Conn
+* Death: 9 DEC 1775
+* Age at Death: 33-34
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMM.Phoebe_Paine[Phoebe Paine (1762 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMMM.Martha_Holdridge[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1257[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMM.Phoebe_Paine[Phoebe Paine (1762 - ?)]
+
+* Martha Holdridge (1741 - 1775)
+
+
+== Other
+
+== Sources
+* @S51@
+----
+2 PAGE Martha Paine (born Holdridge)
+2 QUAY 3
+2 DATA
+3 DATE 20 JAN 2019
+3 TEXT Added via a Person Discovery
+----
+

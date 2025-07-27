@@ -1,0 +1,69 @@
+= Elizabeth Mitton (1644 - 1736)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Clark
+* Birth: 1644
+* Birthplace: Falmouth, Cumberland, Maine
+* Death: 1736
+* Deathplace: Boston, Massachusetts
+* Age at Death: 91-92
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke)[Isaac Clark (Clarke) (1666 - 1768)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMPM.Elizabeth_Mitton[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1280[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke)[Isaac Clark (Clarke) (1666 - 1768)]
+
+* Elizabeth Mitton (1644 - 1736)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1644 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: 1736 
+4 CONC - Boston, Massachusetts&amp;lt;br&amp;gt;Father: Michael Mitton&amp;lt;br&amp;gt;Mother: Elizabeth Harvey (born Cleeves Mitton, Cleeve, Cleave)&amp;lt;br&amp;gt;Husband: Lieut Thaddeus Clark&amp;lt;br
+4 CONC &amp;gt;Child: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Siblings: Dorcas Sarah Andrews (born Mitton)Nathaniel MittonMary Brackett (born Mitton)Martha Graves (born Mitton)Ann Brackett (born Mitton)
+----
+

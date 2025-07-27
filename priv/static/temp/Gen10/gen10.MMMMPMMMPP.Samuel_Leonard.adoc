@@ -1,0 +1,121 @@
+= Samuel Leonard (1683 - 1718)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: ABT 1683
+* Birthplace: Bridgewater, Plymouth, Massachusetts, USA
+* Death: 11 MAY 1718
+* Deathplace: Preston, New London, Connecticut, USA
+* Age at Death: About 34-35
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPMMMPPM.Abigail_Wood[Abigail Wood (1645 - 1698)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPMMMPPP.Samuel_Leonard[Samuel Leonard (1643 - 1720)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPMMMP.Ebenezer_Leonard[Ebenezer Leonard (1709 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPMMMPP.Samuel_Leonard[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0468[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMPMM.Lucy_Hall[Lucy Hall (1750 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMPMMM.Esther_Leonard[Esther Leonard (1731 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMPMMMP.Ebenezer_Leonard[Ebenezer Leonard (1709 - ?)]
+
+* Samuel Leonard (1683 - 1718)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMPMM.Lucy_Hall[Lucy Hall (1750 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMPMMM.Esther_Leonard[Esther Leonard (1731 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPMMMP.Ebenezer_Leonard[Ebenezer Leonard (1709 - ?)]
+
+* Samuel Leonard (1683 - 1718)
+
+
+== Other
+event:  483
+----
+2 TYPE Reference Number
+----
+ 483
+----
+2 TYPE Reference Number
+----
+
+notes: <p>&nbsp;</p><p><p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the 
+----
+2 CONC town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54</p><p><p>SAMUEL LEONARD</p></p><p><p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family
+2 CONC  settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just 
+2 CONC before been kidnapped near Worcester Mass.  and carried into captivity by the redskins, with whom he remained for nearly2 years. It chanced  that during this time he was brought into the company of Ha
+2 CONC nnah Dustin and Mary Neff, the details of whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three, while in a wigwamoccupied by 2 Indian families on an isla
+2 CONC nd in the Merrimac river, nearConcord, planned their escape. The boy Samuel had been so long with the savages that, when he asked his master how to strike to kill instantly, and how to take a scalp, i
+2 CONC t was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while their captors slept, the attack was made. Ten
+2 CONC  Indians were killed instantly; the two remaining, a squaw who was wounded, and a child who was spared purposely, escaped to the woods. With the scalps of the slain and their weapons, the 3, captives 
+2 CONC nolonger, embarked in a canoe, and having scuttled the boats that remained, descended the river until they came in safety to their friends. Thenews of their escape spread from settlement to settlement
+2 CONC , and all whoheard were filled with astonishment and admiration because of their heroic deed. Soon after the family of the boy Samuel, doubtless fearing thenand always the vengeance of his implacable 
+2 CONC foes, fled in secrecy toPachaug, and became permanent settlers there. Family tradition alone tellsus that at one timein the early days the Leonards became aware ofan Indian lurking about their home. A
+2 CONC t last, after days of watching, amemberofthe family shot the Indian dead, seemingly with no morecompunction thanhe would have shown toward a dangerous beast. But such incidents wereexceptional.</p><p>
+2 CONC </p>
+----
+
+
+== Sources
+* @S41@
+----
+2 QUAY 0
+2 DATA
+3 TEXT <p>Fall 2016 has an article on Hannah Duston that includes Samuel's escpape from the Indians</p>
+----
+
+* @S40@
+----
+2 QUAY 0
+2 DATA
+3 TEXT <p>GRISWOLD-A HISTORY Being a history of the town of Griswold CTmicrofilm 1597788 item 5 book 975.65/G3 H2p pp11,12,54</p>
+----
+

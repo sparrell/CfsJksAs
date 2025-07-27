@@ -1,0 +1,84 @@
+= Franz Josef Kerber (1825 - 1873)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: JAN 1825
+* Birthplace: Baden
+* Death: 31 AUG 1873
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Age at Death: 48
+* Death Cause: Pleurisy
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMPM.Abby_Unknown152[Abby Unknown152 (? - 1866)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMPP.Franz_Josef_Kerber[Franz Josef Kerber (1791 - 1866)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMP.Franz_Josef_Kerber[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0151[Dev website]
+* https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber[MyHeritage]
+* https://www.geni.com/people/Frank-J-Kerber/6000000019835055044[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
+
+* Franz Josef Kerber (1825 - 1873)
+
+
+== Other
+census: 
+----
+2 DATE 1860
+2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
+2 AGE 34-35
+----
+
+event:  Pleurisy
+----
+2 TYPE _DCAUSE
+----
+
+notes: Americanized his name from Franz Josef to Francis J. to Frank Joseph. His wife did the same, from Katerina to Catherine.
+occupation: Saloon Keeper-82 Front St. Worcester
+----
+2 DATE 1862
+2 AGE 36-37
+----
+Saloon Keeper - US Census
+----
+2 DATE 1860
+2 AGE 34-35
+----
+Smoked Meat Shop-Bartlett Place
+----
+2 DATE 1868
+2 AGE 42-43
+----
+
+residence: 
+----
+2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFranz_Kerber_%281%29:
+----
+
+
+== Sources

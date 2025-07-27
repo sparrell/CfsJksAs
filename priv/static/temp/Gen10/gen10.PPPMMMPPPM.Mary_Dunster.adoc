@@ -1,0 +1,88 @@
+= Mary Dunster (1629 - 1715)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Noyes
+* Birth: BEF 29 OCT 1629
+* Birthplace: Bury, Lancashire, England
+* Baptism: 
+----
+2 DATE 15 DEC 1630
+2 PLAC Bury, Lancashire, England
+2 AGE About 1
+----
+
+* Death: 28 DEC 1715
+* Deathplace: Sudbury, Middlesex, Massachusetts, Colonial America
+* Age at Death: About 86
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPP.Captain_Benjamin_Willard[Captain Benjamin Willard (1665 - 1732)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPPM.Mary_Dunster[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1288[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPP.Captain_Benjamin_Willard[Captain Benjamin Willard (1665 - 1732)]
+
+* Mary Dunster (1629 - 1715)
+
+
+== Other
+residence: 
+----
+2 ADDR
+3 ADR1 United States
+----
+
+
+== Sources
+* @S102@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Mary Noyes (born Dunster)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Alias name: Mary (Dunster) [Willard] Noyes, widow Willard married Noyes&amp;lt;br&amp;gt;Residence: United States&amp;lt;br&a
+4 CONC mp;gt;Birth: Before Oct 29 1629 - Bury, Lancashire, England&amp;lt;br&amp;gt;Baptism: Dec 15 1630 - Bury, Lancashire, England&amp;lt;br&amp;gt;Marriage: Spouse: Joseph Noyes - July 9 1680 - Sudbury, M
+4 CONC iddlesex County, Massachusetts&amp;lt;br&amp;gt;Death: Dec 28 1715 - Sudbury, Middlesex, Massachusetts, Colonial America&amp;lt;br&amp;gt;Burial: 1715&amp;lt;br&amp;gt;Father: &lt;a&gt;Henry Dunster&l
+4 CONC t;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Isabel Dunster (born Kaye)&lt;/a&gt;&amp;lt;br&amp;gt;Husbands: &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Joseph Noyes&lt;/a&gt;&amp;lt;br&amp;gt;Children: 
+4 CONC &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;
+4 CONC , &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Hannah Hills 
+4 CONC (born Smith)&lt;/a&gt;, &lt;a&gt;Richard Dunster&lt;/a&gt;, &lt;a&gt;Mary (born Dunster), Died Young&lt;/a&gt;, &lt;a&gt;Henry Dunster, First President of Harvard&lt;/a&gt;, &lt;a&gt;John Dunster, of 
+4 CONC Elton&lt;/a&gt;, &lt;a&gt;Daniel Dunster&lt;/a&gt;, &lt;a&gt;Alice (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Bowers (born Dunster)&lt;/a&gt;, &lt;a&gt;James Dunster&lt;/a&gt;, &lt;a&gt;Dorothy (bor
+4 CONC n Dunster)&lt;/a&gt;
+----
+

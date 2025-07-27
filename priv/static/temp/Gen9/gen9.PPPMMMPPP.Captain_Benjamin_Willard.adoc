@@ -1,0 +1,107 @@
+= Captain Benjamin Willard (1665 - 1732)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1665
+* Birthplace: Lancaster, Middlesex, Massachusetts Bay, British Colonial America
+* Baptism: 
+----
+2 PLAC Sudbury, Middlesex County, Massachusetts, Colonial America
+----
+
+* Death: 16 JUN 1732
+* Deathplace: Grafton, Worcester, Massachusetts Bay, British Colonial America
+* Buried: 
+----
+2 DATE 16 JUN 1732
+2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States
+----
+
+* Age at Death: 66-67
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPPM.Mary_Dunster[Mary Dunster (1629 - 1715)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPPP.Simon_Willard[Simon Willard (1605 - 1676)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPP.Captain_Benjamin_Willard[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1275[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* Captain Benjamin Willard (1665 - 1732)
+
+
+== Other
+occupation: Carpenter, Housewright, Public Office Justice of the Peace
+residence: 
+----
+2 ADDR
+3 ADR1 Grafton, Middlesex, Massachusetts, United States
+----
+
+----
+2 DATE TO 1690
+2 ADDR
+3 ADR1 Marriage
+----
+
+
+== Sources
+* @S102@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Benjamin Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Residence: Grafton, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Birth: 1665 - Lancaster, Worcester County, Massachuset
+4 CONC ts, Colonial America&amp;lt;br&amp;gt;Baptism: Sudbury, Middlesex County, Massachusetts, Colonial America&amp;lt;br&amp;gt;Occupation: Carpenter, Housewright, Public Office Justice of the Peace&amp;lt
+4 CONC ;br&amp;gt;Marriage: Spouse: Sarah Willard (born Lakin) - 1691 - Sudbury, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Death: June 16 1732 - Grafton, Worcester County, Massachusetts, Colon
+4 CONC ial America&amp;lt;br&amp;gt;Burial: June 16 1732 - Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Simon Willard&lt;/a&gt;&amp;
+4 CONC lt;br&amp;gt;Mother: &lt;a&gt;Mary Noyes (born Dunster)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Sarah Pratt (born Willard)&lt
+4 CONC ;/a&gt;, &lt;a&gt;Joseph Willard, Sr.&lt;/a&gt;, &lt;a&gt;Margaret Howe (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Hannah Brigham (born Willard)&lt;/a&gt;, &lt;a&gt;Benjamin
+4 CONC  Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willa
+4 CONC rd&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt
+4 CONC ;/a&gt;
+----
+
+* @S111@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Benjamin Willard&amp;lt;br&amp;gt;Also known as: Captain Benjamin Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1664 - Lancaster, Middlesex, Massachusetts Bay, British Colonial A
+4 CONC merica&amp;lt;br&amp;gt;Marriage: Spouse: Sarah Lakin - To 1690 - Massachusetts Bay, British Colonial America&amp;lt;br&amp;gt;Residence: Marriage - To 1690 - Massachusetts Bay, British Colonial Ameri
+4 CONC ca&amp;lt;br&amp;gt;Death: June 16 1732 - Grafton, Worcester, Massachusetts Bay, British Colonial America&amp;lt;br&amp;gt;Burial: 1732 - Old Oak Street Burial Ground, Grafton, Worcester, Massachusett
+4 CONC s, United States&amp;lt;br&amp;gt;There seems to be an issue with this person&#039;s relatives. View this person on FamilySearch to see this information.
+----
+

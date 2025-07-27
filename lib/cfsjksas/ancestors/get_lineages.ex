@@ -11,6 +11,8 @@ defmodule Cfsjksas.Ancestors.GetLineages do
 
   """
 
+  require IEx
+
   @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "lineages_ex.txt"])
   @external_resource @data_path
   @ancestor_relations @data_path |> Code.eval_file() |> elem(0)
@@ -28,7 +30,52 @@ defmodule Cfsjksas.Ancestors.GetLineages do
 
   def person(gen, relation) do
     # return a person
-    @ancestor_relations[gen][relation]
+    person_r = @ancestor_relations[gen][relation]
+    # note duplicates confuse this so check
+    case person_r do
+      nil ->
+        # oops, need to find the duplicate
+        IEx.pry()
+      _ ->
+        # non-nil so return it
+        person_r
+    end
+  end
+
+  def person_from_relation(relation) do
+    # return a person
+IO.inspect(relation, label: "relation1")
+    gen = length(relation)
+    person_r = @ancestor_relations[gen][relation]
+    # note duplicates confuse this so check
+    case person_r do
+      nil ->
+        # oops, need to find the duplicate
+        person_from_dup_relation(relation)
+      _ ->
+        # non-nil so return it
+        person_r
+    end
+  end
+  def person_from_dup_relation(relation) do
+IO.inspect(relation, label: "relation2")
+
+    all_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    person_from_dup_relation(relation, all_ids)
+  end
+  def person_from_dup_relation(relation, [this_id | rest_ids]) do
+    # see if this person has relation in it's list
+    person_p = Cfsjksas.Ancestors.GetAncestors.person(this_id)
+    case relation in person_p.relation_list do
+      true ->
+        # this is id of person but need to return person_r
+IO.inspect(person_p, label: "this person hit")
+        # which of this person's relations are the non-dup key
+        IEx.pry()
+      false ->
+        # not this person, go to next
+        person_from_dup_relation(relation, rest_ids)
+    end
   end
 
   def genlist() do
@@ -51,9 +98,10 @@ defmodule Cfsjksas.Ancestors.GetLineages do
   end
   defp all_ancestor_keys([gen | rest], ancestors) do
     this_gen_list = Map.keys(@ancestor_relations[gen])
-    tuple_list = Enum.map(this_gen_list, fn(x) -> {gen, x} end)
+    #tuple_list = Enum.map(this_gen_list, fn(x) -> {gen, x} end)
     # add to ancestors and recurse
-    all_ancestor_keys(rest, ancestors ++ tuple_list)
+    #all_ancestor_keys(rest, ancestors ++ tuple_list)
+    all_ancestor_keys(rest, ancestors ++ this_gen_list) -- [0] # strip off Gen 0 special case
   end
 
 end

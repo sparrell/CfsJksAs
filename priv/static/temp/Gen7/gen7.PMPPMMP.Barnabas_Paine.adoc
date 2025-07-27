@@ -1,0 +1,75 @@
+= Barnabas Paine (1737 - 1822)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 28 NOV 1737
+* Birthplace: Canterbury, Windham, Connecticutt.
+* Christening: 
+----
+2 DATE 13 JUL 1751
+2 PLAC Amenia, Dutchess, Ny
+2 AGE 13
+----
+
+* Death: 6 JUN 1822
+* Deathplace: Amenia, Dutchess, New York
+* Buried: 
+----
+2 PLAC Amenia, Dutchess, New York
+----
+
+* Age at Death: 84
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMMPM.Constance_Paine[Constance Paine (1704 - 1787)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMMPP.Joshua_Paine[Joshua Paine (1697 - 1775)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMM.Phoebe_Paine[Phoebe Paine (1762 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMMP.Barnabas_Paine[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1256[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMM.Phoebe_Paine[Phoebe Paine (1762 - ?)]
+
+* Barnabas Paine (1737 - 1822)
+
+
+== Other
+
+== Sources
+* @S51@
+----
+2 PAGE Barnabas Paine
+2 QUAY 3
+2 DATA
+3 DATE 20 JAN 2019
+3 TEXT Added via a Person Discovery
+----
+

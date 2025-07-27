@@ -1,0 +1,81 @@
+= William x Warriner (1602 - 1676)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 12 MAY 1602
+* Birthplace: Lincolnshire, Canterbury, Kent, England
+* Death: 2 JUN 1676
+* Deathplace: Springfield, Hampden, Colony of Massachusetts, British Colonial America
+* Buried: 
+----
+2 DATE JUN 1676
+2 PLAC Springfield, Hampshire, Massachusetts Bay, British Colonial America
+----
+
+* Age at Death: 74
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPPPM.Elizabeth_Warriner[Elizabeth Warriner (? - 1684)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPPPMP.William_x_Warriner[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1238[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPP.David_Strong[David Strong (1704 - 1801)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPPP.John_Strong[John Strong (1665 - 1749)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPPPM.Elizabeth_Warriner[Elizabeth Warriner (? - 1684)]
+
+* William x Warriner (1602 - 1676)
+
+
+== Other
+event:  Spouse: Elizabeth Baldwin (born Gibbons)
+----
+2 TYPE Marriage
+2 DATE 2 OCT 1661
+2 AGE 59
+----
+
+
+== Sources
+* @S48@
+----
+2 PAGE William x Warriner
+2 QUAY 3
+2 DATA
+3 DATE 13 JAN 2019
+3 TEXT Added via a Person Discovery
+----
+

@@ -84,6 +84,19 @@ defmodule Cfsjksas.Tools.Link do
     end
   end
 
+  def wikipedia(person_p) do
+    # print geni link if present, or leave out if not
+    url = Map.get(person_p, :wikipedia)
+    case url do
+      nil ->
+      ""
+      _ ->
+        "* "
+        <> url
+        <> "[Wikipedia]\n"
+    end
+  end
+
 
   def relation_to_file_root(relation) do
     gen = length(relation)

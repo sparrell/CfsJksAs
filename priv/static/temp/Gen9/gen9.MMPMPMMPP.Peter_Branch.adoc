@@ -1,0 +1,83 @@
+= Peter Branch (1659 - 1713)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 28 MAY 1659
+* Birthplace: Branch Island, Marshfield, Massachusetts, USA
+* Death: 27 DEC 1713
+* Deathplace: Preston, New London, Connecticut, USA
+* Age at Death: 54
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPPM.Mary_Speed[Mary Speed (? - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPPP.John_Branch[John Branch (1628 - 1711)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMMP.Peter_Branch[Peter Branch (1696 - 1759)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMMPP.Peter_Branch[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0503[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPM.Mahala_Phillips[Mahala Phillips (1774 - 1852)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPMM.Genevereth_Branch[Genevereth Branch (1733 - 1812)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMMP.Peter_Branch[Peter Branch (1696 - 1759)]
+
+* Peter Branch (1659 - 1713)
+
+
+== Other
+event:  At age 21 moved to Taunton, MA
+----
+2 TYPE Move
+2 DATE 1680
+2 AGE 20-21
+----
+
+----
+2 TYPE Fact 5
+2 PLAC Norwich, New London, Connecticut, USA
+----
+
+----
+2 TYPE Fact 2
+2 DATE ABT 1682
+2 PLAC Norwich, New London, Connecticut, USA
+2 AGE About 22-23
+----
+
+notes: Peter was in Norwich CT as early as 1680 when his cattle mark was established. He was amoung the petitioners in Oct 1686 to the General Court of Connecticut for the establishment of the Town of Presto
+----
+2 CONC n. Although the petition was granted in that year, a church was not established until1693. Peter was a member of the committee charged with calling the first minister. <p></p> <p>Peter left an estate 
+2 CONC valued at 200 Pounds. the record of its settlementon 13 Mar 1714/15 lists his nine children and their ages.</p>
+----
+
+
+== Sources

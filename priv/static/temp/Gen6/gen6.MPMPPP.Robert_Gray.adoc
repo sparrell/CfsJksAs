@@ -1,0 +1,57 @@
+= Robert Gray (1697 - 1766)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1697
+* Birthplace: Aghadowey, Londonderry, Ulster, Northern Ireland, UK
+* Death: 16 JAN 1766
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Age at Death: 68-69
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: no_ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPP.Robert_Gray[Robert Gray (1734 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPP.Robert_Gray[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0491[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPP.Robert_Gray[Robert Gray (1734 - ?)]
+
+* Robert Gray (1697 - 1766)
+
+
+== Other
+emigration:  Londonderry, Ulster to Holden MA
+----
+2 DATE 1718
+2 PLAC Holden, Worcester, Massachusetts, USA
+2 AGE 20-21
+----
+
+
+== Sources

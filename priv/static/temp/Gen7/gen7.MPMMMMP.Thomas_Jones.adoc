@@ -1,0 +1,54 @@
+= Thomas Jones (? - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+
+== Family
+* Mother: Brickwall
+
+* Father: Brickwall
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMMMM.Naomi_Jones[Naomi Jones (? - 1778)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MPMMMMP.Thomas_Jones[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0688[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMM.Rhoda_Andrews[Rhoda Andrews (1775 - 1841)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMMM.Naomi_Briggs[Naomi Briggs (1742 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMMMM.Naomi_Jones[Naomi Jones (? - 1778)]
+
+* Thomas Jones (? - ?)
+
+
+== Other
+event:  See Notes
+----
+2 TYPE Misc
+----
+
+notes: Thomas Jones left a negro girl in his will to his daughter Naomi.
+
+== Sources

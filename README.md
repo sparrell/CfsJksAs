@@ -81,3 +81,20 @@ Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")
     + draw sectors
 
 
+## change raw data
+# start with static/data/people_ex.txt
+ancestors = Cfsjksas.Ancestors.GetAncestors.all_ancestors()
+# do whatever to change data
+outtext = Cfsjksas.Tools.Print.format_ancestor_map()
+# write it out
+Cfsjksas.Tools.Print.write_file(outtext, filename)
+
+
+
+### put relation data, dedupping in ancestors
+# primary relation
+# branch relations (green)
+# duplicate relations (invisible)
+
+
+Cfsjksas.Tools.Transform.write_mom_dad()

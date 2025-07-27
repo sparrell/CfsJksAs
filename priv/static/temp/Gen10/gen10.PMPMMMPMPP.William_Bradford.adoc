@@ -1,0 +1,61 @@
+= William Bradford (1624 - 1702)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 17 JUN 1624
+* Birthplace: Plymouth, Plymouth, Massachusetts, USA
+* Death: 20 FEB 1702
+* Deathplace: Plymouth, Plymouth, Massachusetts, USA
+* Age at Death: 77
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPMMMPMPPM.Alice_Carpenter[Alice Carpenter (1590 - 1670)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPMMMPMPPP.William_Bradford[William Bradford (1589 - 1657)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMMMPMP.Samuel_Bradford[Samuel Bradford (1667 - 1714)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPMMMPMPP.William_Bradford[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1003[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPM.Elizabeth_Shaw_Whaley[Elizabeth Shaw Whaley (1813 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPMM.Philena_Haughton[Philena Haughton (1776 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPMMM.Philena_Whiting[Philena Whiting (1743 - 1781)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPMMMP.John_Whiting[John Whiting (1719 - 1770)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPMMMPM.Elizabeth_Bradford[Elizabeth Bradford (1696 - 1777)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPMMMPMP.Samuel_Bradford[Samuel Bradford (1667 - 1714)]
+
+* William Bradford (1624 - 1702)
+
+
+== Other
+name_suffix: Jr.
+
+== Sources

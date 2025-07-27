@@ -1,0 +1,53 @@
+= Elisabeth Maul (1769 - 1852)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Zufelt
+* Birth: 5 MAR 1769
+* Birthplace: New York, British Colonial America
+* Death: 25 AUG 1852
+* Deathplace: East Franklin, Franklin, Franklin, Vermont
+* Age at Death: 83
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPMMM.Gertjen_or_Charity_Scherp[Gertjen or Charity Scherp (1740 - 1821)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPMMP.Frederich_Maul[Frederich Maul (1740 - 1821)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPM.Charity_Schufeldt[Charity Schufeldt (1792 - 1851)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPPMM.Elisabeth_Maul[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1300[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Charles S. Hurlburt (1823 - 1886)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPM.Charity_Schufeldt[Charity Schufeldt (1792 - 1851)]
+
+* Elisabeth Maul (1769 - 1852)
+
+
+== Other
+
+== Sources

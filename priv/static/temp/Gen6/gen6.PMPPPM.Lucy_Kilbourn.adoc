@@ -1,0 +1,60 @@
+= Lucy Kilbourn (? - 1825)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birthplace: Bolton, Tolland, Connecticut, USA
+* Baptism: 
+----
+2 DATE 12 JUN 1792
+----
+
+* Death: 29 OCT 1825
+* Deathplace: Bolton, Tolland, Connecticut, USA
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPMM.Elizabeth_Goodrich[Elizabeth Goodrich (1733 - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPMP.Benjamin_Kilbourn[Benjamin Kilbourn (1730 - 1817)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPM.Lucy_Kilbourn[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0175[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* Lucy Kilbourn (? - 1825)
+
+
+== Other
+event:  Widow of David Lawrence when she married John Strong. See Benjamin Kilbourne
+----
+2 TYPE First Marriage
+----
+
+
+== Sources

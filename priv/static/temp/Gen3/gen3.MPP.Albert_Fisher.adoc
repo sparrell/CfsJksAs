@@ -26,7 +26,6 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPPP.Jacob_Fisher[Jacob Fisher (1776 - 1820)]
 
-
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
 
 

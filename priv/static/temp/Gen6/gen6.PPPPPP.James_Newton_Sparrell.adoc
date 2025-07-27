@@ -1,0 +1,157 @@
+= James Newton Sparrell (1770 - 1826)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 7 APR 1770
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Death: 3 NOV 1826
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Buried: 
+----
+2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
+----
+
+* Age at Death: 56
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPPM.Ruth_Vinal[Ruth Vinal (1746 - 1810)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPPP.James_Newton_Sparrell[James Newton Sparrell (1740 - 1773)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPPP.James_Newton_Sparrell[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0530[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+* James Newton Sparrell (1770 - 1826)
+
+
+== Other
+event:  Deputy Sheriff for Plymouth County
+----
+2 TYPE Appointed
+2 DATE 1816
+2 AGE 45-46
+----
+ Recruiting Committee
+----
+2 TYPE Appointed
+2 DATE 1812
+2 AGE 41-42
+----
+ Constable thru 1806
+----
+2 TYPE Appointed
+2 DATE 1804
+2 AGE 33-34
+----
+ Hog Reeve
+----
+2 TYPE Appointed
+2 DATE 1802
+2 AGE 31-32
+----
+ "Yeoman" (deed)
+----
+2 TYPE Fact 4
+2 DATE 29 MAY 1802
+2 AGE 32
+----
+ _ELEC of Sparrell, James Newton, Moderator-Special Town Meeting
+----
+2 TYPE _ELEC
+2 DATE 12 SEP 1814
+2 AGE 44
+----
+ Surveyor of Highways thru 1817/1823
+----
+2 TYPE Appointed
+2 DATE 1800
+2 AGE 29-30
+----
+ Called "Captain"
+----
+2 TYPE Title (Facts Pg)
+----
+ Property seized by sheriff for debt
+----
+2 TYPE Fact 7
+2 DATE 26 NOV 1819
+2 AGE 49
+----
+ Default of Debts-Plymouth Court
+----
+2 TYPE Fact 4
+2 DATE NOV 1819
+2 AGE 49
+----
+
+----
+2 TYPE Fact 5
+2 DATE 26 AUG 1809
+2 AGE 39
+----
+
+notes: JAMES NEWTON SPARRELL II and RACHEL TURNER SPARRELL <p></p> <p>James Newton Sparrell II was born in Scituate, Massachusetts Bay Colonyon 7 April 1770. He was the second of three children of Captain Ja
+----
+2 CONC mes Newton Sparrell and Ruth Vinal Sparrell. From March 1771 until 1778, Thefamily lived in a house that formerly stood by Scituate Harbor north ofthe present town pier. On 4 June 1775, James and his 
+2 CONC sisters, Elizabethand Hannah were christened and his mother, Ruth admitted to membershipin the Scituate First Parish Meeting House. Ruth later married Capt.Joshua Jenkins, another sea captain, in the 
+2 CONC same church on 24 December1778. <p></p> <p>After Ruth?s remarriage, the family moved to Captain Jenkin?s house on the Beaverdam Road site where the Clipper Ship Motel now stands. Joshua had been lost 
+2 CONC at sea and one of James?s sisters had died by the time of the 1790 census which lists Ruth Jenkins as the head of family. By 1787,James Newton Sparrell had followed his father and stepfather to sea an
+2 CONC dby 1797 he was referred to as "Captain Sparrell". <p></p> <p>On 11 June 1797, James married Rachel Turner in the Second Parish Meeting House in the south end of Scituate (Now Norwell). On 8 July 1797
+2 CONC , James purchased three-quarters of  a dwelling house, three-quarters of a barn and 16-1/2 acres of land from Abijah and Mary Turner Otis (Rachel?ssister) and conveyed to Mary Otis three parcels of la
+2 CONC nd and half a dwelling. On the same date, the Otises conveyed to James five acres of saltmeadow by the North River and 3-1/2 acres of wood lot on Simon?s Hillset off as Mary?s portion of the estate of
+2 CONC  her father John Turner. On 8April 1799, James acquired additional property from Abijah and Mary including five acres of salt marsh on the North River and ¼ of a pew in theSecond Parish Meeting House
+2 CONC  also left to Mary by her father. Some ofthese transactions involved portions of the original land grant on theriveralloted in the 1630?s to Ruth?s ancestor and first settler Humphrey Turner. <p></p> 
+2 CONC <p>James is referred to as "Captain" in Town Meeting Minutes (1801) and 2nd Parish Church Records (1810). He is recorded as a "mariner" in the 1797 land deeds. In deeds dated 1799 and 1802 he is recor
+2 CONC dedas "yeoman" and in deeds and other legal documents from March 1808 on he is titled "gentleman". (A yeoman was a small farmer who owned and worked his land.A gentleman was an owner of extensive prop
+2 CONC erty holdings who employed farm laborers to do the work.) James apparently retired from the sea after his marriage and settled ashore as a farmer. <p></p> <p>In 1805, James appears in the Plymouth cus
+2 CONC tom house register. He and others including Thatcher Tilden (his neighbor and husband of  Lucy Turner Tilden, Rachel?s sister)  are listed as owners of the 200 ton, three-masted full-rigged ship Flore
+2 CONC nzo of Scituate. <p></p> <p>On 29 May 1802, James purchased a 20 acre farm next to his farm from Samuel Foster. In August 1809 he acquired ( with Thomas Cushing) 4-3/4 acres of salt meadow between the
+2 CONC  third and fourth cliffs. From that pointon his land purchases were scattered and appear to be speculative investments. These included 50 acres of land between Colman?s Hills and thehighway (now Stock
+2 CONC bridge Road) and a house with 1-1/2 acres of land fromJ. Robert Northey ( March 1812). <p></p> <p>Between 1800 and 1817, James held a number of minor town offices and appointments. These included Surv
+2 CONC eyor of Highways (14 years), Constable, Hog Reeve, Moderator (1814 special town meeting), Methodist Society Inquiry Committee, Election Committee, Workhouse Inquiry Committee (1811), etc. The Methodis
+2 CONC t Committee reported that the society was not a menace to public order and should be allowed to establish a church. The Workhouse Committee recommended that the town meeting establish a home for orpha
+2 CONC ns, idiots, and the destitute elderly rather than to continue to auction them off to the lowest bidder ( The alms house was bu
+----
+
+occupation: "Yeoman" (deed)
+----
+2 DATE 8 APR 1799
+2 AGE 29
+----
+"Mariner" (deed)
+----
+2 DATE 7 JUL 1797
+2 AGE 27
+----
+
+title: Captain
+
+== Sources

@@ -1,0 +1,96 @@
+= John Prentice (1628 - 1691)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 6 MAY 1628
+* Birthplace: Chelmsford, Essex, England, UK
+* Death: 1691
+* Deathplace: New London, New London, Connecticut, USA
+* Age at Death: 62-63
+
+
+== Family
+* Mother: ship so parents NA
+* Father: ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMMMPM.Elizabeth_Prentice[Elizabeth Prentice (1676 - 1770)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMMMPMP.John_Prentice[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0743[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMMM.Sarah_Avery[Sarah Avery (1781 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMMMM.Mary_Comstock[Mary Comstock (1743 - 1785)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMMMMP.John_Comstock[John Comstock (1705 - 1743)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMMMMPM.Elizabeth_Prentice[Elizabeth Prentice (1676 - 1770)]
+
+* John Prentice (1628 - 1691)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMM.Lydia_Ann_Lester[Lydia Ann Lester (1802 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMMM.Sarah_Avery[Sarah Avery (1781 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMMMM.Mary_Comstock[Mary Comstock (1743 - 1785)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMMMMP.John_Comstock[John Comstock (1705 - 1743)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMMMPM.Elizabeth_Prentice[Elizabeth Prentice (1676 - 1770)]
+
+* John Prentice (1628 - 1691)
+
+
+== Other
+emigration:  See Notes
+immigration: Arr. Boston on ship "Lyon"
+----
+2 DATE 2 NOV 1631
+2 AGE 3
+----
+
+notes: From "History Of New London"- <p>"John Prentis - No account of the death of this early member of the community has been found, but the probate proceedings show that it took place in 1691.</p> <p>"John
+----
+2 CONC  Prentis, the son of Valentine and Alice, became an inhabitant of New London in 1652, and probably brought his wife, Hester, with him from Roxbury.  Though living in New London, he connected himself w
+2 CONC ith the Roxbury . . . <p>"A blacksmith is an important persongage in a new settlement.  Richard Post and otherrs of the first comers were of this profession, but they had left the place, and an invita
+2 CONC tion was extended to JohnPrentis, of Roxbury, to become an inhabitant and wield the hammer for the public benefit.  The town of Hadley had made a similar proposal to him, but he came to Pequot on a vi
+2 CONC sit of inquiry, and entered into a contract with Mr.Winthrop and the townsmen, who, being authorized by the town, engaged,if he would remove, to build him a house and shop, pay the expense ofhistransp
+2 CONC ortation, and providehim with half a ton of iron, also "twentyorthirty pound of steele," to be ready by the middle of May.  thesearticles were signed February 28, 1651, and at the same date he receive
+2 CONC d theusual accommodations of a planter, house lot, upland and meadow.The houselot of two acres was in an eligible and central position atthe corner of the present State and Bank Streets."
+----
+
+
+== Sources

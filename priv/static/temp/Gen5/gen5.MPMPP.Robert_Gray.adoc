@@ -1,0 +1,61 @@
+= Robert Gray (1734 - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 23 DEC 1734
+* Birthplace: Worcester, Worcester, Massachusetts, USA
+* Deathplace: Paris, Oxford, Maine, USA
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPM.Sarah_Wiley[Sarah Wiley (? - ?)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPP.Robert_Gray[Robert Gray (1697 - 1766)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPP.Robert_Gray[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0447[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
+
+* Robert Gray (1734 - ?)
+
+
+== Other
+event:  Plantation No.4 incorporated as Paris
+----
+2 TYPE Fact 2
+2 DATE 1792
+2 PLAC Paris, Oxford, Maine, USA
+2 AGE 57-58
+----
+
+notes: Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumb
+----
+2 CONC erland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.
+----
+
+
+== Sources

@@ -1,0 +1,64 @@
+= Deborah Bartlett (1647 - 1711)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: BEF 18 MAR 1647
+* Birthplace: Hartford, Hartford, Connecticut, USA
+* Baptism:  First Church Hartford
+----
+2 DATE 18 MAR 1647
+2 AGE About 0
+----
+
+* Death: 11 DEC 1711
+* Deathplace: Hatfield, Hampshire, Massachusetts, USA
+* Age at Death: About 64
+
+
+== Family
+* Mother: Brickwall
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPMPMPMP.Robert_Bartlett[Robert Bartlett (? - 1676)]
+
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMPMP.Jonathan_Cowles[Jonathan Cowles (1671 - 1756)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPMPMPM.Deborah_Bartlett[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0621[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMP.Elijah_Hannum[Elijah Hannum (1759 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMPM.Abiah_Cowles[Abiah Cowles (1722 - 1796)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMPMP.Jonathan_Cowles[Jonathan Cowles (1671 - 1756)]
+
+* Deborah Bartlett (1647 - 1711)
+
+
+== Other
+
+== Sources

@@ -1,0 +1,73 @@
+= William Hills (1608 - 1683)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 27 DEC 1608
+* Birthplace: Upminster, England, UK
+* Death: JUL 1683
+* Deathplace: Hartford, Hartford, Connecticut, USA
+* Age at Death: 74
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMPPM.Susannah_Hills[Susannah Hills (1651 - 1701)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPMPPMP.William_Hills[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0559[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPM.Lucy_Kilbourn[Lucy Kilbourn (? - 1825)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPMP.Benjamin_Kilbourn[Benjamin Kilbourn (1730 - 1817)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPMPP.Ebenezer_Kilbourn[Ebenezer Kilbourn (1679 - 1732)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMPPM.Susannah_Hills[Susannah Hills (1651 - 1701)]
+
+* William Hills (1608 - 1683)
+
+
+== Other
+emigration:  Ship 'Lyon" to Boston
+----
+2 DATE 1632
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 AGE 23-24
+----
+
+notes: Hills immigrated on the "Lyon" in 1632 as an indentured servant of the Reverend John Eliot . He apparently satisfied his obligation to Eliot by1634 as he was then made a freeman of Roxbury MA. In 1637
+----
+2 CONC he moved to Hartford CT. <p>Reverend Eliot commented in a letter that William's first few years in Hartford were "without giving such good satisfaction to the consciences of the saints". This probably
+2 CONC  relates to his being fined four pounds forbuying stolen property in 1640. <p></p> <p>Around 1646, his first wife Phyllis died and around 1648, william married Mary, the widow of of Richard Risley.</p
+2 CONC >
+----
+
+
+== Sources

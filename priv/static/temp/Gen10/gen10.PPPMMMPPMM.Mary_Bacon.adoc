@@ -1,0 +1,81 @@
+= Mary Bacon (1640 - 1701)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Lakin
+* Birth: 18 FEB 1640
+* Birthplace: Groton, Middlesex County, Massachusetts
+* Death: 22 OCT 1701
+* Deathplace: Groton, Middlesex County, Massachusetts
+* Age at Death: 61
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPPMMM.Mary_Jobo[Mary Jobo (1610 - 1655)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPPMMP.Michael_Bacon[Michael Bacon (1608 - 1688)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPM.Sarah_Lakin[Sarah Lakin (1662 - 1740)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPMM.Mary_Bacon[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1290[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPM.Sarah_Lakin[Sarah Lakin (1662 - 1740)]
+
+* Mary Bacon (1640 - 1701)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
+4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
+4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (bo
+4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
+4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
+4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (bo
+4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
+----
+

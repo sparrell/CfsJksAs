@@ -9319,7 +9319,7 @@
         id: :p1212,
         relation: ["M", "M", "P", "M", "M", "P", "P", "M", "P", "M"],
         given_name: "Anne",
-        surname: nil,
+        surname: "unknown",
         birth_year: "?",
         death_year: "?",
         father: nil,

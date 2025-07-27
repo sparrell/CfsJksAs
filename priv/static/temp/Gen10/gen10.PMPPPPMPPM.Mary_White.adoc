@@ -1,0 +1,66 @@
+= Mary White (1590 - 1652)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: BEF 24 AUG 1590
+* Birthplace: Messing, Essex, England, UK
+* Baptism: 
+----
+2 DATE 24 AUG 1590
+2 PLAC Messing, Essex, England, UK
+2 AGE About 0
+----
+
+* Death: 23 AUG 1652
+* Deathplace: Windsor, Hartford, Connecticut, USA
+* Age at Death: About 61
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPP.Nathaniel_Loomis[Nathaniel Loomis (1626 - 1688)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPMPPM.Mary_White[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0521[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPM.Thankful_Loomis[Thankful Loomis (1709 - 1771)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPMP.Moses_Loomis[Moses Loomis (1671 - 1754)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMPP.Nathaniel_Loomis[Nathaniel Loomis (1626 - 1688)]
+
+* Mary White (1590 - 1652)
+
+
+== Other
+
+== Sources

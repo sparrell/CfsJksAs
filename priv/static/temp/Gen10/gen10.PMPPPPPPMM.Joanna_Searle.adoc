@@ -1,0 +1,89 @@
+= Joanna Searle (1602 - 1661)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Warriner
+* Birth: ABT 1602
+* Birthplace: Cholesbury, Chiltern, Buckinghamshire, England, United Kingdom
+* Birth note: Spouse: Christopher Smith
+* Christening: 
+----
+2 DATE 16 JAN 1616
+2 PLAC Ottery St Mary, Devon, England
+2 AGE ABOUT 13-14
+----
+
+* Death: 7 FEB 1661
+* Deathplace: Springfield, Hampden, Massachusetts, United States
+* Buried: 
+----
+2 DATE 1661
+2 PLAC Springfield Cemetery ( Willow Ave 2-97 ), Springfield, Hampden County, Massachusetts, United States
+----
+
+* Age at Death: ABOUT 57-58
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: no_ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPPPM.Elizabeth_Warriner[Elizabeth Warriner (? - 1684)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPPPMM.Joanna_Searle[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1239[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPP.David_Strong[David Strong (1704 - 1801)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPPP.John_Strong[John Strong (1665 - 1749)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPPPM.Elizabeth_Warriner[Elizabeth Warriner (? - 1684)]
+
+* Joanna Searle (1602 - 1661)
+
+
+== Other
+event:  Spouse: William Warriner
+----
+2 TYPE Marriage
+2 DATE 31 JUL 1639
+2 AGE ABOUT 36-37
+----
+
+
+== Sources
+* @S48@
+----
+2 PAGE Joanna "Scant" x Warriner (born Searle)
+2 QUAY 3
+2 DATA
+3 DATE 13 JAN 2019
+3 TEXT Added via a Person Discovery
+----
+

@@ -1,0 +1,79 @@
+= John Farrow (1602 - 1687)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: BEF 9 MAY 1602
+* Birthplace: Hingham, Norfolk, England, UK
+* Baptism: 
+----
+2 DATE 9 MAY 1602
+2 PLAC Hingham, Norfolk, England, UK
+2 AGE About 0
+----
+
+* Death: 7 JUL 1687
+* Deathplace: Hingham, Plymouth, Massachusetts, USA
+* Age at Death: About 85
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMMPPP.Nathan_Farrow[Nathan Farrow (1654 - 1715)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPMMPPPP.John_Farrow[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0171[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Desire Sparrell (1798 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMM.Martha_Farrow[Martha Farrow (1754 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPMMP.Thomas_Farrow[Thomas Farrow (1721 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPMMPP.Benjamin_Farrow[Benjamin Farrow (1692 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMMPPP.Nathan_Farrow[Nathan Farrow (1654 - 1715)]
+
+* John Farrow (1602 - 1687)
+
+
+== Other
+emigration:  Hingham England to Hingham MA
+----
+2 DATE 1635
+2 AGE About 32-33
+----
+
+notes: Illegitimate son of Katherine Farrow, father unknown
+occupation: Carpenter
+residence: 
+----
+2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Farrow_%281%29:
+----
+
+
+== Sources

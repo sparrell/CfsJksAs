@@ -1,11 +1,12 @@
 defmodule Cfsjksas.Tools.GenPrint do
   @doc """
-  pretty print elixir data
+  pretty print elixir/genealogy data
+  OBE????? use Tools.print
   """
   require IEx
 
   def format_output(ancestors, :ancestors) do
-    inspect(ancestors, pretty: true, limit: :infinite)
+    inspect(ancestors, pretty: true, limit: :infinity)
   end
 
   def write_file(outtext, filename) do
@@ -16,7 +17,6 @@ defmodule Cfsjksas.Tools.GenPrint do
     # print raw person struct, but do keys alphabetically
 
     # convert from struct to map so can access dynamically
-    #person_map = Map.from_struct(person)
     person_map = person
     keys = Map.keys(person_map)
     keys = Enum.sort(keys)

@@ -1,0 +1,66 @@
+= John Goodrich (1635 - 1680)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: BEF 1635
+* Birthplace: Bury St. Edmunds, Suffolk, England, UK
+* Death: APR 1680
+* Deathplace: Wethersfield, Hartford, Connecticut, USA
+* Age at Death: About 44-45
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMMPP.Jonathan_Goodrich[Jonathan Goodrich (1657 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPMMPPP.John_Goodrich[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0795[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPM.Lucy_Kilbourn[Lucy Kilbourn (? - 1825)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPMM.Elizabeth_Goodrich[Elizabeth Goodrich (1733 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPMMP.Moses_Goodrich[Moses Goodrich (1697 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPMMPP.Jonathan_Goodrich[Jonathan Goodrich (1657 - ?)]
+
+* John Goodrich (1635 - 1680)
+
+
+== Other
+emigration:  Bury St. Edmunds, England to Hartford CT
+----
+2 DATE ABT 1643
+2 AGE About 7-8
+----
+
+occupation: husbandman
+
+== Sources

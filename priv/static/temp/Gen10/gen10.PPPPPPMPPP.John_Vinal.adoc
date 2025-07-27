@@ -1,0 +1,58 @@
+= John Vinal (1636 - 1698)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1636
+* Birthplace: Biddenden, Kent, England, UK
+* Death: 21 AUG 1698
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Age at Death: 61-62
+
+
+== Family
+* Mother: no_ship so parents NA
+* Father: no_ship so parents NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPPMPP.John_Vinal[John Vinal (1667 - 1728)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPPPMPPP.John_Vinal[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0411[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPPP.James_Newton_Sparrell[James Newton Sparrell (1770 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPPM.Ruth_Vinal[Ruth Vinal (1746 - 1810)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPPPMP.John_Vinal[John Vinal (1699 - 1750)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPPMPP.John_Vinal[John Vinal (1667 - 1728)]
+
+* John Vinal (1636 - 1698)
+
+
+== Other
+description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
+
+== Sources

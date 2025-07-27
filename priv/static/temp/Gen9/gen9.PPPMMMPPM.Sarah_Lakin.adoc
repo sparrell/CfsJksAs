@@ -1,0 +1,78 @@
+= Sarah Lakin (1662 - 1740)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Willard
+* Birth: 4 FEB 1662
+* Birthplace: Groton, Middlesex, Massachusetts Bay Colony, British Colonial America
+* Death: 15 MAR 1740
+* Deathplace: Grafton, Worcester, Massachusetts Bay Colony, British Colonial America
+* Age at Death: 78
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPMM.Mary_Bacon[Mary Bacon (1640 - 1701)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPPMP.John_Lakin[John Lakin (1628 - 1697)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPPM.Sarah_Lakin[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1276[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
+
+* Sarah Lakin (1662 - 1740)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 4 1662 - Groton, Middlesex, Massachusetts Bay&amp;lt;br&amp;gt;Marriage: 1690&amp;lt;br&amp;gt;Death: Mar 15 1740
+4 CONC  - Grafton, Worcester, Massachusetts Bay&amp;lt;br&amp;gt;Father: John Lakin&amp;lt;br&amp;gt;Mother: Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Husband: Captain Benjamin Willard&amp;lt;br&amp;gt;Childr
+4 CONC en: Margaret Howe (born Willard)Simeon Simon WillardSarah Pratt (born Willard)Major Joseph WillardEsther WillardHannah Brigham (born Willard)&amp;lt;br&amp;gt;Siblings: Mary Willard (born Lakin)Willia
+4 CONC m LakinBenjamin LakinJoseph LakinJosiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (born Lakin)
+----
+
+* @S111@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 4 1662 - Groton, Middlesex, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Marriage: To 1690
+4 CONC  - Massachusetts Bay, British Colonial America&amp;lt;br&amp;gt;Death: Mar 15 1740 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;There seems to be an issue 
+4 CONC with this person&#039;s relatives. View this person on FamilySearch to see this information.
+----
+

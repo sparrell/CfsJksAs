@@ -1,0 +1,68 @@
+= Adam Hurlburt (1736 - 1828)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 24 OCT 1736
+* Birthplace: Woodbury, Litchfield, Connecticut, USA
+* Death: ABT 1828
+* Deathplace: Underhill, Chittenden, Vermont, USA
+* Age at Death: About 91-92
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPPPM.Rebecca_Warner[Rebecca Warner (1715 - 1767)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPPPP.Moses_Hurlburt[Moses Hurlburt (1714 - 1763)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPP.Wait_Hurlburt[Wait Hurlburt (1777 - 1852)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPPPP.Adam_Hurlburt[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0108[Dev website]
+* https://www.werelate.org/wiki/Person:Adam_Hurlburt_%281%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000337/adam-hurlburt[MyHeritage]
+* https://www.geni.com/people/Captain-Adam-Hurlbut/6000000013231672620[Geni]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Charles S. Hurlburt (1823 - 1886)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPP.Wait_Hurlburt[Wait Hurlburt (1777 - 1852)]
+
+* Adam Hurlburt (1736 - 1828)
+
+
+== Other
+event:  From Woodbury CT to Underhill VT
+----
+2 TYPE Move
+2 DATE ABT 1786
+2 AGE About 49-50
+----
+ Revolutionary War Veteran (Notes)
+----
+2 TYPE Military Service
+----
+
+notes: Adam Hurlburt was captain of an alarm company that turned out to repel the British attack on New Haven. During the latter part of the war he was stationed in Vermont near Lake Champlain and after the 
+----
+2 CONC war was over (about 1786) he brought his family to Underhill VT. <p></p> <p>Adam was one of the eight men who founded the first church (now the United Church) in Underhill.</p>
+----
+
+
+== Sources

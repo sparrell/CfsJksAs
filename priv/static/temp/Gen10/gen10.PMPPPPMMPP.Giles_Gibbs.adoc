@@ -1,0 +1,88 @@
+= Giles Gibbs (1600 - 1641)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: ABT 1600
+* Birthplace: Exeter, Devonshire, England, UK
+* Death: 21 MAY 1641
+* Deathplace: Windsor, Hartford, Connecticut, USA
+* Age at Death: About 40-41
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMMP.Samuel_Gibbs[Samuel Gibbs (1633 - 1716)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPPPMMPP.Giles_Gibbs[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0243[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPP.Genubeth_Strong[Genubeth Strong (1791 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPPP.Ebenezer_Strong[Ebenezer Strong (1750 - 1824)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPPPM.Thankful_Loomis[Thankful Loomis (1709 - 1771)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPPPMM.Joanna_Gibbs[Joanna Gibbs (1671 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPPPMMP.Samuel_Gibbs[Samuel Gibbs (1633 - 1716)]
+
+* Giles Gibbs (1600 - 1641)
+
+
+== Other
+emigration:  Ship "Mary and John", Plymouth, Devon to Nantasket MA
+----
+2 DATE 1630
+2 AGE About 29-30
+----
+ Freeman, Dorchester MA
+----
+2 DATE 4 MAR 1633
+2 AGE About 32-33
+----
+
+event:  Moves to Windsor CT
+----
+2 TYPE Fact 4
+2 DATE 1636
+2 AGE About 35-36
+----
+ Selectman Dorchester
+----
+2 TYPE Fact 5
+----
+ Selectman Dorchester
+----
+2 TYPE Fact 2
+2 DATE 28 OCT 1634
+2 AGE About 33-34
+----
+
+notes: In the years after Giles Gibbs died, his children were often in court for unacceptable behavior. See more about Samuel Gibbs.
+
+== Sources
