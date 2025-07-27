@@ -21,7 +21,6 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMPP.Franz_Josef_Kerber[Franz Josef Kerber (1791 - 1866)]
 
-
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
 
 

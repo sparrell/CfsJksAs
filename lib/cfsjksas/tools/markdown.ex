@@ -13,7 +13,6 @@ defmodule Cfsjksas.Tools.Markdown do
 		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_relation | rest_relations], gen, dedup_relations) do
-		IO.inspect(this_relation, label: "starting")
 
 		person = dedup_relations[gen][this_relation]
 		filepath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc)
@@ -290,11 +289,9 @@ defmodule Cfsjksas.Tools.Markdown do
 		mod_r_list = List.delete_at(relation, -1)
 		gen = length(relation)
 		person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
-		IO.inspect(relation, label: "relation")
 		if person == nil do
 			IEx.pry()
 		end
-		IO.inspect(mod_r_list, label: "mod_r_list")
 
 		make_lineage(init_text, [], mod_r_list)
 		<> "* " <> make_label(person) <> "\n\n"
