@@ -34,7 +34,7 @@ defmodule Cfsjksas.Tools.Print do
     ## people are in sorted surname/given_name order
     ## person keys are in alphabetical order
     all_people = Enum.sort_by(Map.keys(ancestors_in), & {ancestors_in[&1].surname, ancestors_in[&1].given_name})
-    format_ancestor_map("\t@ancestors %{\n", ancestors_in, all_people) <> "}\n"
+    format_ancestor_map("%{\n", ancestors_in, all_people) <> "}\n"
   end
   def format_ancestor_map(ancestors_out, _ancestors_in, []) do
     # list emtpy, so done
