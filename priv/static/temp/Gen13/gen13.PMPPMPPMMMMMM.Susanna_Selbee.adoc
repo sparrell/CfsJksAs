@@ -1,0 +1,73 @@
+= Susanna Selbee (? - 1660)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birthplace: England, UK
+* Death: 20 JAN 1660
+* Deathplace: Boston, Suffolk, Massachusetts, USA
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PMPPMPPMMMMM.Mary_Blott[Mary Blott (1609 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen13/gen13.PMPPMPPMMMMMM.Susanna_Selbee[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0652[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMP.Elijah_Hannum[Elijah Hannum (1759 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMPP.Gideon_Hannum[Gideon Hannum (1727 - 1786)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMPPM.Mary_Hutchinson[Mary Hutchinson (1699 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPMPPMM.Mary_Bridgman[Mary Bridgman (1672 - 1741)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPMPPMMM.Mary_Sheldon[Mary Sheldon (1654 - 1708)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPPMPPMMMM.Mary_Woodford[Mary Woodford (1638 - 1684)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PMPPMPPMMMMM.Mary_Blott[Mary Blott (1609 - ?)]
+
+* Susanna Selbee (? - 1660)
+
+
+== Other
+event:  651
+----
+2 TYPE Reference Number
+----
+ 651
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

@@ -1,0 +1,94 @@
+= Nicholas Baker (1610 - 1678)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: ABT 1610
+* Birthplace: Hingham, Norfolk, England, UK
+* Death: 22 AUG 1678
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Age at Death: About 67-68
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPPPMPPM.Elizabeth_Baker[Elizabeth Baker (1644 - 1672)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPPPPMPPMP.Nicholas_Baker[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0746[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPPP.James_Newton_Sparrell[James Newton Sparrell (1770 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPPPM.Ruth_Vinal[Ruth Vinal (1746 - 1810)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPPPMP.John_Vinal[John Vinal (1699 - 1750)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPPPMPP.John_Vinal[John Vinal (1667 - 1728)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPPPMPPM.Elizabeth_Baker[Elizabeth Baker (1644 - 1672)]
+
+* Nicholas Baker (1610 - 1678)
+
+
+== Other
+emigration: 
+----
+2 DATE 1635
+2 PLAC Hingham, Plymouth, Massachusetts, USA
+2 AGE About 24-25
+----
+
+event:  A.M., S. Johns College, Cambridge
+----
+2 TYPE Degree
+2 DATE 1635
+2 AGE About 24-25
+----
+ General Court
+----
+2 TYPE Deputy
+2 DATE 1636
+2 AGE About 25-26
+----
+ A.B., St.Johns College, Cambridge
+----
+2 TYPE Degree
+2 DATE 1631
+2 AGE About 20-21
+----
+
+ordained: Pastor, First Parish, Scituate
+----
+2 DATE 1660
+2 AGE About 49-50
+----
+
+
+== Sources

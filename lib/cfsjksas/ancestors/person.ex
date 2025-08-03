@@ -115,7 +115,7 @@ defmodule Cfsjksas.Ancestors.Person do
   defp brick_walls([id | rest], terminations) do
     person = Cfsjksas.Ancestors.GetAncestors.person(id)
     termination = case categorize_person(id) do
-      :normal -> []
+      :not -> []
       :ship -> []
       :no_ship -> []
       :brickwall_both ->
@@ -208,7 +208,7 @@ defmodule Cfsjksas.Ancestors.Person do
         parents,
         normal
         }
-      :normal ->
+      :not ->
         {has_ships,
         wo_ships,
         brickwalls_both,
@@ -254,7 +254,7 @@ defmodule Cfsjksas.Ancestors.Person do
   defp categorize_person(_id, false, mother, father, _person)
       when (mother != nil) and (father != nil) do
     # no ship, has mother and father, so not an immigrant nor brickwall
-    :normal
+    :not
   end
   defp categorize_person(_id, _has_ship?, mother, father, _person)
       when (mother == nil) and (father == nil) do
@@ -278,13 +278,13 @@ defmodule Cfsjksas.Ancestors.Person do
   end
 
   defp ship_info(:parent) do
-    :normal
+    :not
   end
   defp ship_info(:parent_wo_ship) do
-    :normal
+    :not
   end
   defp ship_info(:parent_w_ship) do
-    :normal
+    :not
   end
   defp ship_info(nil) do
     :no_ship

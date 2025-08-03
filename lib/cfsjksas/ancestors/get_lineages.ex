@@ -35,7 +35,8 @@ defmodule Cfsjksas.Ancestors.GetLineages do
     case person_r do
       nil ->
         # oops, need to find the duplicate
-        IEx.pry()
+        a_id = Cfsjksas.Tools.Relation.find_a_id_from_relation(relation)
+        Cfsjksas.Ancestors.GetAncestors.person(a_id)
       _ ->
         # non-nil so return it
         person_r

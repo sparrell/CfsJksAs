@@ -1,0 +1,83 @@
+= Thomas French (1588 - 1639)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: BET 1570 AND 1588
+* Birthplace: Assington, Suffolk, England
+* Christening: 
+----
+2 DATE 11 OCT 1584
+2 PLAC Bures St. Mary, Suffolk, England
+----
+
+* Death: 5 NOV 1639
+* Deathplace: Ipswich, Essex, Massachusetts
+* Buried: 
+----
+2 DATE ABT NOV 1639
+2 PLAC Ipswich, Essex, Massachusetts
+----
+
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMPPMMPM.Alice_French[Alice French (1610 - 1666)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PPPMMPPMMPMP.Thomas_French[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1213[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMP.John_Bixby[John Bixby (1767 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMPP.Pelitiah_Bixby[Pelitiah Bixby (1731 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMPPM.Alice_Cummings[Alice Cummings (1695 - 1734)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMPPMM.Alice_Howlett[Alice Howlett (1666 - 1696)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMPPMMP.Thomas_Howlett[Thomas Howlett (1637 - 1667)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMPPMMPM.Alice_French[Alice French (1610 - 1666)]
+
+* Thomas French (1588 - 1639)
+
+
+== Other
+
+== Sources
+* @S37@
+----
+2 QUAY 3
+2 DATA
+3 DATE 27 AUG 2015
+3 TEXT Added via an Instant Discovery™
+----
+

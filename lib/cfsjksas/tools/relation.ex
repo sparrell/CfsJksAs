@@ -58,9 +58,9 @@ defmodule Cfsjksas.Tools.Relation do
 
     # edit relations by adding termination for g0,1
     new_relations = relations
-    |> put_in([0, 0, :termination], :normal)
-    |> put_in([1,["P"], :termination], :normal)
-    |> put_in([1,["M"], :termination], :normal)
+    |> put_in([0, 0, :termination], :not)
+    |> put_in([1,["P"], :termination], :not)
+    |> put_in([1,["M"], :termination], :not)
 
     dedup({new_relations, id_list}, Enum.to_list(2..14))
   end
@@ -155,6 +155,29 @@ defmodule Cfsjksas.Tools.Relation do
     end
     # recurse on to rest of list using modified relations
     |> rm_dups(gen, root_dup, rest)
+  end
+
+  def find_a_id_from_relation(relation) do
+    # brute force search ancestors
+    a_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    # loop thru id's looking for match
+    find_a_id_from_relation(relation, a_ids)
+  end
+  def find_a_id_from_relation(relation, []) do
+    # didn't find, something wrong
+    IEx.pry()
+  end
+  def find_a_id_from_relation(relation, [a_id | rest_ids]) do
+    person = Cfsjksas.Ancestors.GetAncestors.person(a_id)
+    hit = relation in person.relation_list
+    case hit do
+      true ->
+        # found match, return a_id
+        a_id
+      false ->
+        # no match, recurse thru rest
+        find_a_id_from_relation(relation, rest_ids)
+    end
   end
 
 

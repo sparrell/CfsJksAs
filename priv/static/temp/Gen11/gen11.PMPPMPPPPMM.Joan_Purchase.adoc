@@ -1,0 +1,71 @@
+= Joan Purchase (1578 - 1653)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 25 MAR 1578
+* Birthplace: Dorchester, England, UK
+* Death: 26 MAR 1653
+* Deathplace: Dorchester, Boston, Massachusetts, USA
+* Age at Death: 75
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPMPPPPM.Honor_Capen[Honor Capen (1616 - 1680)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMPPMPPPPMM.Joan_Purchase[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0019[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMPP.Elijah_Genubeth_Strong[Elijah Genubeth Strong (1818 - 1870)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMPPM.Lucy_Hannum[Lucy Hannum (1795 - 1856)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMPPMP.Elijah_Hannum[Elijah Hannum (1759 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMPPMPP.Gideon_Hannum[Gideon Hannum (1727 - 1786)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMPPMPPP.William_Hannum[William Hannum (1690 - 1755)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMPPMPPPP.John_Hannum[John Hannum (1637 - 1712)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMPPMPPPPM.Honor_Capen[Honor Capen (1616 - 1680)]
+
+* Joan Purchase (1578 - 1653)
+
+
+== Other
+event:  1038
+----
+2 TYPE Reference Number
+----
+ 1012
+----
+2 TYPE Reference Number
+----
+
+
+== Sources

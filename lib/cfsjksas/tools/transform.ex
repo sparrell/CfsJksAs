@@ -11,8 +11,8 @@ defmodule Cfsjksas.Tools.Transform do
 
     # special cases for early generations
     principal = relations[0][0]
-    prin_dad = relations[1]["P"]
-    prin_mom = relations[1]["M"]
+    #prin_dad = relations[1]["P"] already in
+    #prin_mom = relations[1]["M"]
 
     # bootstap the 'already' list with generation 0,1
 		processed_a_id_list = [principal.id]
@@ -28,7 +28,7 @@ defmodule Cfsjksas.Tools.Transform do
     # shorthand for tuple
     r_a_i = {new_relations, new_ancestors, processed_a_id_list}
 
-    dedup(r_a_i, Enum.to_list(1..2))
+    dedup(r_a_i, Enum.to_list(1..15))
     # returns r_a_i
   end
   def dedup(r_a_i, []) do
@@ -37,7 +37,7 @@ defmodule Cfsjksas.Tools.Transform do
     r_a_i
   end
   def dedup(r_a_i, [gen | rest_gen]) do
-    {relations, ancestors, processed_a_id_list} = r_a_i
+    {relations, _ancestors, _processed_a_id_list} = r_a_i
     # sort relation_keys
     relation_keys = Map.keys(relations[gen])
     |> Enum.sort()
@@ -53,7 +53,7 @@ defmodule Cfsjksas.Tools.Transform do
     r_a_i
   end
   def process_person(r_a_i, [this | rest_people]) do
-    {relations, ancestors, processed_a_id_list} = r_a_i
+    {relations, _ancestors, processed_a_id_list} = r_a_i
     gen = length(this) # generation is length of relations list
     person_id = relations[gen][this].id
     # see if person already on list of people processed
@@ -115,7 +115,7 @@ defmodule Cfsjksas.Tools.Transform do
     person_id = relations[gen][this].id
     relations2 = put_in(relations, [gen, this, :termination], :branch)
     ancestors2 = put_in(ancestors, [person_id, :branch], this)
-    {ancestors2, relations2, processed_a_id_list}
+    {relations2, ancestors2, processed_a_id_list}
     |>  rm_dups(gen + 1, this)
   end
 
@@ -128,7 +128,7 @@ defmodule Cfsjksas.Tools.Transform do
   end
   def rm_dups(r_a_i, gen, root_dup) do
     # loop thru all people in gen and rm any that are ancestors of root_dup
-    {relations, ancestors, processed_a_id_list} = r_a_i
+    {relations, _ancestors, _processed_a_id_list} = r_a_i
 
     # get list of people for this generation using relation as key
     r_id_list = Map.keys(relations[gen])

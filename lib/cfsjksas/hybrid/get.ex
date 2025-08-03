@@ -157,11 +157,13 @@ defmodule Cfsjksas.Hybrid.Get do
 		:birth_place,
 		:birth_note,
 		:birth_source,
+		:birth_year,
     :baptism,
 		:christening,
 		:death_date,
 		:death_place,
 		:death_note,
+		:death_year,
 		:buried,
 		:death_age,
 		:death_cause,
@@ -173,6 +175,7 @@ defmodule Cfsjksas.Hybrid.Get do
     :werelate,
     :myheritage,
     :wikipedia,
+    :wikitree,
   ]
 
   @dontcare [
@@ -192,6 +195,8 @@ defmodule Cfsjksas.Hybrid.Get do
     :surname,
     :mh_name,
     :id,
+    :father,
+    :mother,
   ]
 
 
@@ -249,7 +254,7 @@ defmodule Cfsjksas.Hybrid.Get do
   """
   def fill(termination) do
     case termination do
-      :normal ->
+      :not ->
         # not termination
         {"none", "0%"}
       :ship ->

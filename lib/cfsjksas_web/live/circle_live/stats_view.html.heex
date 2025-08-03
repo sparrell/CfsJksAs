@@ -5,6 +5,21 @@
 <p>
 Removing duplicates yeilds <strong><%= @quantity_total_people %></strong> unique people.
 </p>
+Overall status wrt finding ships:
+<ul style="list-style-type:disc; list-style-position: inside;">
+<li>
+Know the ship: <strong><%= @ship_percent %></strong>
+</li>
+<li>
+Known immigrant but don't know ship: <strong><%= @no_ship_percent %></strong>
+</li>
+<li>
+Brickwalls: <strong><%= @brickwall_percent %></strong>
+</li>
+</ul>
+<p>
+More info:
+</p>
 <ul style="list-style-type:disc; list-style-position: inside;">
 <li>
 Click <a href="/ships"><strong>here</strong></a> 

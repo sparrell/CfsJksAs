@@ -1,0 +1,74 @@
+= John Stow Stowe (1581 - 1652)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 14 JAN 1581
+* Birthplace: Biddenden, Kent, England
+* Death: 6 MAY 1652
+* Deathplace: Roxbury, Suffolk, Massachusetts
+* Age at Death: 71
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe)[Thomas Stow, I (Stowe) (1615 - 1684)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PPPMMMPMMPPP.John_Stow_Stowe[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1285[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPMM.Sarah_Stow[Sarah Stow (1673 - 1761)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe[Rev. Samuel Stow Stowe (1645 - 1720)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe)[Thomas Stow, I (Stowe) (1615 - 1684)]
+
+* John Stow Stowe (1581 - 1652)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT John Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Jan 14 1581 - Biddenden, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt;br&amp;gt;Death: M
+4 CONC ay 6 1652 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;Father: John Stow (born Stowe), II&amp;lt;br&amp;gt;Mother: Joan Stowe (born Baker Baker, Goldsmith)&amp;lt;br&amp;gt;Wife: Elizabeth Stowe
+4 CONC  (born Bigge Bigg)&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br
+4 CONC &amp;gt;Siblings: Joanna Joane Joan Boyse (born Stowe Stawe)Christopher StoweWilliam StoweChristopher Stow StoweThomas Stow StoweElizabeth StoweZachary Stowe
+----
+

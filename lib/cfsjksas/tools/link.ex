@@ -85,7 +85,7 @@ defmodule Cfsjksas.Tools.Link do
   end
 
   def wikipedia(person_p) do
-    # print geni link if present, or leave out if not
+    # print wikipedia link if present, or leave out if not
     url = Map.get(person_p, :wikipedia)
     case url do
       nil ->
@@ -94,6 +94,17 @@ defmodule Cfsjksas.Tools.Link do
         "* "
         <> url
         <> "[Wikipedia]\n"
+    end
+  end
+
+  def wikitree(person_p) do
+    # print wikipedia link if present, or leave out if not
+    url = Map.get(person_p, :wikitree)
+    case url do
+      nil ->
+      "* WikiTree TBD\n"
+      _ ->
+        "* " <> url <> "[WikiTree]\n"
     end
   end
 

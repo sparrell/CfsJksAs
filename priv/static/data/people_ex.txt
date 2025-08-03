@@ -40877,6 +40877,7 @@
 			uid: "FDD11E73-4EF0-4931-8B7D-163BBFD45C32",
 			upd: nil,
 			werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
+			wikitree: "https://www.wikitree.com/wiki/Sparrell-2",
 			will: [],
 		},
 		##############  Charles Herbert Sparrell
@@ -41132,6 +41133,7 @@
 			uid: "BBCFFB8D-8480-435A-A333-154C40512A23",
 			upd: nil,
 			werelate: "https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29",
+			wikitree: "https://www.wikitree.com/wiki/Sparrell-3",
 			will: [],
 		},
 		##############  James Newton Sparrell

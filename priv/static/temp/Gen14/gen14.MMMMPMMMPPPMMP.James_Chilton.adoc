@@ -1,0 +1,108 @@
+= James Chilton (1563 - 1620)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: BEF 1563
+* Birthplace: Canterbury, Kent, England, UK
+* Death: 18 DEC 1620
+* Deathplace: Provincetown, Barnstable, Massachusetts, USA
+* Age at Death: About 56-57
+* Death Cause: Aboard Mayflower at Provincetown
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen13/gen13.MMMMPMMMPPPMM.Isabella_Chilton[Isabella Chilton (1587 - ?)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen14/gen14.MMMMPMMMPPPMMP.James_Chilton[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0848[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMPMM.Lucy_Hall[Lucy Hall (1750 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMPMMM.Esther_Leonard[Esther Leonard (1731 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMPMMMP.Ebenezer_Leonard[Ebenezer Leonard (1709 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMPMMMPP.Samuel_Leonard[Samuel Leonard (1683 - 1718)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMMMPMMMPPP.Samuel_Leonard[Samuel Leonard (1643 - 1720)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PMMMPMMMPPPM.Sarah_Chandler[Sarah Chandler (1622 - 1675)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen13/gen13.PMMMPMMMPPPMM.Isabella_Chilton[Isabella Chilton (1587 - ?)]
+
+* James Chilton (1563 - 1620)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMPM.Lucy_Hall_Brewster[Lucy Hall Brewster (1773 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMPMM.Lucy_Hall[Lucy Hall (1750 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMPMMM.Esther_Leonard[Esther Leonard (1731 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPMMMP.Ebenezer_Leonard[Ebenezer Leonard (1709 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPMMMPP.Samuel_Leonard[Samuel Leonard (1683 - 1718)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPMMMPPP.Samuel_Leonard[Samuel Leonard (1643 - 1720)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.MMMMPMMMPPPM.Sarah_Chandler[Sarah Chandler (1622 - 1675)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen13/gen13.MMMMPMMMPPPMM.Isabella_Chilton[Isabella Chilton (1587 - ?)]
+
+* James Chilton (1563 - 1620)
+
+
+== Other
+
+== Sources
+* @S28@
+----
+2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
+2 QUAY 4
+2 DATA
+3 TEXT <p>James Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Child: Isabell Chilton<br />Indexing Project (Batch) Number: 
+4 CONC P01654-1<br />System Origin: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>
+----
+

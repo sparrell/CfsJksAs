@@ -1,0 +1,116 @@
+= Thomas Howlett (1606 - 1678)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: ABT 1606
+* Birthplace: County of Suffolk, England, UK
+* Death: 1678
+* Deathplace: Ipswich, Essex, Massachusetts, USA
+* Age at Death: About 71-72
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMPPMMP.Thomas_Howlett[Thomas Howlett (1637 - 1667)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMPPMMPP.Thomas_Howlett[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0439[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMP.John_Bixby[John Bixby (1767 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMPP.Pelitiah_Bixby[Pelitiah Bixby (1731 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMPPM.Alice_Cummings[Alice Cummings (1695 - 1734)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMPPMM.Alice_Howlett[Alice Howlett (1666 - 1696)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMPPMMP.Thomas_Howlett[Thomas Howlett (1637 - 1667)]
+
+* Thomas Howlett (1606 - 1678)
+
+
+== Other
+emigration:  arrives Boston
+----
+2 DATE 1630
+2 AGE About 23-24
+----
+
+event:  Ensign
+----
+2 TYPE Military Service
+2 DATE 1662
+2 AGE About 55-56
+----
+ Freeman Ipswich
+----
+2 TYPE Fact 4
+2 DATE 4 MAR 1644
+2 AGE About 37-38
+----
+ moves to Ipswich, MA
+----
+2 TYPE Move
+2 DATE 1633
+2 PLAC Ipswich, Essex, Massachusetts, USA
+2 AGE About 26-27
+----
+ Elected Deputy to Mass. General Court
+----
+2 TYPE Fact 4
+2 DATE 1635
+2 AGE About 28-29
+----
+ Deacon of the Ipswich Church
+----
+2 TYPE Fact 5
+2 DATE MAR 1639
+2 AGE About 32-33
+----
+ Deacon of the Ipswich Church
+----
+2 TYPE Fact 2
+----
+
+notes: Apparently trained as a surveyor, for he was in great demand in laying out lands and determining boundaries between towns
+residence: 
+----
+2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%281%29:
+----
+
+will: Signed will with mark
+----
+2 DATE NOV 1667
+2 AGE About 60-61
+----
+
+
+== Sources

@@ -1,0 +1,83 @@
+= Thomas Stow, I (Stowe) (1615 - 1684)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 2 APR 1615
+* Birthplace: Biddenden, Kent Co., England
+* Death: 23 FEB 1684
+* Deathplace: Middletown, Middlesex County, Connecticut
+* Age at Death: 68
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PPPMMMPMMPPM.Elizabeth_Bigge_Bigg[Elizabeth Bigge Bigg (1590 - 1638)]
+
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen12/gen12.PPPMMMPMMPPP.John_Stow_Stowe[John Stow Stowe (1581 - 1652)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe[Rev. Samuel Stow Stowe (1645 - 1720)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe)[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p1283[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Lieut. Issac Willard (1724 - 1805)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPMMMPMM.Sarah_Stow[Sarah Stow (1673 - 1761)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe[Rev. Samuel Stow Stowe (1645 - 1720)]
+
+* Thomas Stow, I (Stowe) (1615 - 1684)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 2 1615 - Biddenden, Kent Co., England&amp;lt;br&amp;gt;Marriage: Dec 4 1639 - Roxbury, Suffolk, Massachusetts&amp;
+4 CONC lt;br&amp;gt;Death: Feb 23 1684 - Middletown, Middlesex County, Connecticut&amp;lt;br&amp;gt;Father: John Stow Stowe&amp;lt;br&amp;gt;Mother: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Wife: M
+4 CONC ary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Children: Rev. Samuel Stow StoweThomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&
+4 CONC amp;lt;br&amp;gt;Siblings: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Elizabeth Archer (born Stow)
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 2 1615 - Biddenden, Kent Co., England&amp;lt;br&amp;gt;Marriage: Dec 4 1639 - Roxbury, Suffolk, Massachusetts&amp;
+4 CONC lt;br&amp;gt;Death: Feb 23 1684 - Middletown, Middlesex County, Connecticut&amp;lt;br&amp;gt;Father: John Stow Stowe&amp;lt;br&amp;gt;Mother: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Wife: M
+4 CONC ary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Children: Rev. Samuel Stow StoweThomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&
+4 CONC amp;lt;br&amp;gt;Siblings: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Elizabeth Archer (born Stow)
+----
+

@@ -3,6 +3,46 @@ defmodule Cfsjksas.Ancestors.Stats do
   dervie info from raw data
   """
 
+  require IEx
+
+  @doc """
+  count instances of values for "key" in inner map of maps (ie ancestors)
+  """
+  def ancestor_count(map_of_maps, key) do
+    map_of_maps
+    |> Map.values()
+    |> Enum.map(&Map.get(&1, key))
+    |> Enum.reject(&is_nil/1)
+    |> Enum.reduce(%{}, fn value, acc ->
+       Map.update(acc, value, 1, &(&1 + 1))
+      end)
+    |> Enum.sort_by(fn {_k, v} -> v end, :desc)
+  end
+  @doc """
+  count instances of values for "key"
+  in inner map of maps of maps (ie relations)
+  """
+  def relations_count(outer_map, key) do
+    gens = Map.keys(outer_map)
+    acc = %{}
+    relations_count(acc, outer_map, key, gens)
+  end
+  def relations_count(acc, _outer_map, _key, []) do
+    # last generation so done, return accumulator map
+    acc
+  end
+  def relations_count(acc, outer_map, key, [gen | rest_gen]) do
+    new_acc = outer_map[gen]
+    |> Map.values()
+    |> Enum.map(&Map.get(&1, key))
+    |> Enum.reject(&is_nil/1)
+    |> Enum.reduce(acc, fn value, acc ->
+       Map.update(acc, value, 1, &(&1 + 1))
+      end)
+    # recurse thru rest of gens
+    relations_count(new_acc, outer_map, key, rest_gen)
+  end
+
   @doc """
     for a given key, give info about people with that key
   """
@@ -64,6 +104,5 @@ defmodule Cfsjksas.Ancestors.Stats do
     |> update_in([:total], &( &1 + 1))
     |> update_in([:no_key], &( &1 + 1))
   end
-
 
 end

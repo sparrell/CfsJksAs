@@ -1,0 +1,338 @@
+= William Chesebrough (1594 - 1667)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: JUN 1594
+* Birthplace: Boston, Lincolnshire, England, UK
+* Death: 9 JUN 1667
+* Deathplace: Stonington, New London, Connecticut, USA
+* Age at Death: 72-73
+
+
+== Family
+* Mother: duplicate, need to look up manually
+
+* Father: duplicate, need to look up manually
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMMMPPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMPMMMPPPP.William_Chesebrough[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0962[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMMPP.Nathaniel_Kimball[Nathaniel Kimball (1768 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMMPPM.Mary_Satterlee[Mary Satterlee (1746 - 1809)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMMPPMP.William_Satterlee[William Satterlee (1712 - 1752)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMMPPMPM.Anne_Avery[Anne Avery (1692 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMPPMPMM.Abigail_Chesebrough[Abigail Chesebrough (1656 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PMMMPPMPMMP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #2
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMM.Sarah_Lavinia_Kimball[Sarah Lavinia Kimball (1830 - 1909)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMMP.Erastus_Brewster_Kimball[Erastus Brewster Kimball (1798 - 1879)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMMPP.Nathaniel_Kimball[Nathaniel Kimball (1768 - 1822)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMMPPM.Mary_Satterlee[Mary Satterlee (1746 - 1809)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMMPPMP.William_Satterlee[William Satterlee (1712 - 1752)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPPMPM.Anne_Avery[Anne Avery (1692 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMPPMPMM.Abigail_Chesebrough[Abigail Chesebrough (1656 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMPPMPMMP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #3
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMPMP.Edward_Chesebrough[Edward Chesebrough (1766 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMPMPP.Jedidiah_Chesebrough[Jedidiah Chesebrough (1738 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMPMPPP.Jedidiah_Chesebrough[Jedidiah Chesebrough (1710 - 1760)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMPMPPPP.Elisha_Chesebrough[Elisha Chesebrough (1667 - 1727)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMPMPPPPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #4
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMPMP.Edward_Chesebrough[Edward Chesebrough (1766 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMPMPM.Rebecca_Slack[Rebecca Slack (1739 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMPMPMM.Abigail_Chesebrough[Abigail Chesebrough (1719 - 1769)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMPMPMMP.Elisha_Chesebrough[Elisha Chesebrough (1667 - 1727)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMPMPMMPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #5
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMPMMMP.Jonathan_Chesebrough[Jonathan Chesebrough (1700 - 1764)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMPMMMPP.Samuel_Chesebrough[Samuel Chesebrough (1660 - 1735)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMPMMMPPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #6
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMPMMMM.Bridget_Miner[Bridget Miner (1711 - 1766)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMPMMMMM.Bridget_Chesebrough[Bridget Chesebrough (1683 - 1709)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMPMMMMMP.Nathaniel_Chesebrough[Nathaniel Chesebrough (1630 - 1678)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #7
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMPMP.Edward_Chesebrough[Edward Chesebrough (1766 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMPMPP.Jedidiah_Chesebrough[Jedidiah Chesebrough (1738 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMPMPPP.Jedidiah_Chesebrough[Jedidiah Chesebrough (1710 - 1760)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMPMPPPP.Elisha_Chesebrough[Elisha Chesebrough (1667 - 1727)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMPPPPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #8
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMPMP.Edward_Chesebrough[Edward Chesebrough (1766 - 1826)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMPMPM.Rebecca_Slack[Rebecca Slack (1739 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMPMPMM.Abigail_Chesebrough[Abigail Chesebrough (1719 - 1769)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMPMPMMP.Elisha_Chesebrough[Elisha Chesebrough (1667 - 1727)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMPMMPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #9
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMPMMMP.Jonathan_Chesebrough[Jonathan Chesebrough (1700 - 1764)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMPMMMPP.Samuel_Chesebrough[Samuel Chesebrough (1660 - 1735)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMMMPPP.Samuel_Chesebrough[Samuel Chesebrough (1627 - 1673)]
+
+* William Chesebrough (1594 - 1667)
+
+=== Lineage #10
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMPMMMM.Bridget_Miner[Bridget Miner (1711 - 1766)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMPMMMMM.Bridget_Chesebrough[Bridget Chesebrough (1683 - 1709)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMMMMMP.Nathaniel_Chesebrough[Nathaniel Chesebrough (1630 - 1678)]
+
+* William Chesebrough (1594 - 1667)
+
+
+== Other
+emigration:  Boston, England to Boston MA
+----
+2 DATE 1630
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 AGE 35-36
+----
+
+event:  _ELEC of Chesebrough, William - Stonington Deputy to General Court (CT)
+----
+2 TYPE _ELEC
+2 DATE 1664
+2 PLAC Stonington, New London, Connecticut, USA
+2 AGE 69-70
+----
+ _ELEC of Chesebrough, William - New London deputy to General Court (CT)
+----
+2 TYPE _ELEC
+2 DATE 1653
+2 PLAC New London, New London, Connecticut, USA
+2 AGE 58-59
+----
+ _ELEC of Chesebrough, William - Constable -Boston
+----
+2 TYPE _ELEC
+2 DATE 1634
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 AGE 39-40
+----
+
+----
+2 TYPE Freeman
+2 DATE 18 MAY 1631
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 AGE 36
+----
+ _ELEC of Chesebrough, William - Braintree rep to General Court (MA)
+----
+2 TYPE _ELEC
+2 DATE 1640
+2 PLAC Braintree, Norfolk, Massachusetts, USA
+2 AGE 45-46
+----
+ Close friend of Walter Palmer
+----
+2 TYPE Fact 11
+----
+
+notes: William Cheeseborough was one of those men of substance who came to NewEngland to live life as they wished, and not to become a part of the Puritan hegemony. After a relatively peaceful few years in B
+----
+2 CONC oston and Braintree, he removed to Rehobeth where he was soon in trouble with the Plymouth authorities. In May 1646 Plymouth Court ordered that the constable "arrest Will[ia}m cheesborrow" for his par
+2 CONC t in "an affray made upon Ussamequine and some of his people"; "Wm. Cheeseborrow of Rehoboth, blacksmith" had to post 20 pounds bond. <p>On 7 Nov. 1649 Connecticut General Court "ordered that a warren
+2 CONC t shall issue forth to the Constable of Pequot (new London) to repair forthwith to Chessbrooke of Long Island, and to let him understand that the government of Connecticutt doth dislike and distaste t
+2 CONC he way he is and trade he doth among the Indians." <p>A letter to John Winthrop, jr. stated specifically that "Chesbrok is accused of mending guns".</p>
+----
+
+occupation: Blacksmith
+
+== Sources

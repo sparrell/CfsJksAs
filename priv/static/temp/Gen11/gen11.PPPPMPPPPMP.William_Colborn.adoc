@@ -1,0 +1,95 @@
+= William Colborn (1593 - 1662)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1593
+* Birthplace: Little Warley, Essex, England, UK
+* Death: 1 AUG 1662
+* Deathplace: Boston, Suffolk, Massachusetts, USA
+* Age at Death: 68-69
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPMPPPPM.Mary_Colborne[Mary Colborne (1625 - 1697)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.PPPPMPPPPMP.William_Colborn[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0179[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Desire Sparrell (1798 - 1872)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPPMP.James_Barrell[James Barrell (1751 - 1801)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPPMPP.James_Barrell[James Barrell (1727 - 1827)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPPMPPP.William_Barrell[William Barrell (1683 - 1752)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PPPPMPPPP.William_Barrell[William Barrell (1654 - 1689)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PPPPMPPPPM.Mary_Colborne[Mary Colborne (1625 - 1697)]
+
+* William Colborn (1593 - 1662)
+
+
+== Other
+emigration:  Emigrated from Brentwood in Winthrop Fleet
+----
+2 DATE 1630
+2 AGE 36-37
+----
+
+event:  Member General Court (see notes)
+----
+2 TYPE _ELEC
+----
+ Selectman of Boston
+----
+2 TYPE _ELEC
+----
+ Elder of First Church
+----
+2 TYPE Fact 3
+----
+ Signer of Cambridge agreement
+----
+2 TYPE Fact 1
+2 DATE 29 AUG 1629
+2 AGE 35-36
+----
+
+notes: - One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. <p><
+----
+2 CONC /p> <p>- Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark).</p> <p></p> <p>- Wealthy and prominent lead
+2 CONC er of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquitt
+2 CONC al. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.
+----
+
+occupation: Tailor
+
+== Sources

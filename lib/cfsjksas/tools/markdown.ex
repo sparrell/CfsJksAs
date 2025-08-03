@@ -111,6 +111,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> Cfsjksas.Tools.Link.werelate(person_p)
 		<> Cfsjksas.Tools.Link.myheritage(person_p)
 		<> Cfsjksas.Tools.Link.geni(person_p)
+		<> Cfsjksas.Tools.Link.wikitree(person_p)
 	end
 
 	def make_family(person_r, gen, relations) do
@@ -129,6 +130,8 @@ defmodule Cfsjksas.Tools.Markdown do
 				"Brickwall\n"
 			{nil, :duplicate} ->
 				"duplicate, need to look up manually\n"
+			{nil, :not} ->
+				"not clear what happening"
 			{nil, huh} ->
 				IO.inspect(huh, label: "unplanned mom termination?")
 				IEx.pry()
@@ -145,7 +148,7 @@ defmodule Cfsjksas.Tools.Markdown do
 				<> "is duplicate. "
 				<> "Software not written yet to handle, "
 				<> "so look up manually"
-			{_mom_id, :normal} ->
+			{_mom_id, :not} ->
 				mom_relation = person_r.relation ++ ["M"]
 				mom_r = relations[gen+1][mom_relation]
 				mom_label = "[" <> make_label(mom_r) <> "]"
@@ -162,7 +165,7 @@ defmodule Cfsjksas.Tools.Markdown do
 				# return labeled link
 				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
 				<> "\n"
-			{_, _} ->
+			{mom_id, classification} ->
 				IEx.pry()
 		end
 
@@ -179,6 +182,8 @@ defmodule Cfsjksas.Tools.Markdown do
 				"Brickwall\n"
 			{nil, :duplicate} ->
 				"duplicate, need to look up manually\n"
+			{nil, :not} ->
+				"not clear what happening"
 			{nil, huh} ->
 				IO.inspect(huh, label: "unplanned dad termination?")
 				IEx.pry()
@@ -196,7 +201,7 @@ defmodule Cfsjksas.Tools.Markdown do
 				<> "is duplicate. "
 				<> "Software not written yet to handle, "
 				<> "so look up manually"
-			{_dad_id, :normal} ->
+			{_dad_id, :not} ->
 				dad_relation = person_r.relation ++ ["P"]
 				dad_r = relations[gen+1][dad_relation]
 				dad_label = "[" <> make_label(dad_r) <> "]"

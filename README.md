@@ -43,10 +43,8 @@ Cfsjksas.Circle.Create.main(:ship, "try2.svg")
 Cfsjksas.Circle.Create.main(:duplicates, "try3.svg")
 Cfsjksas.Circle.Create.main(:wo_duplicates, "try4.svg")
 Cfsjksas.Create.Circle.main(:circle_base, "try5.svg")
-Cfsjksas.Create.Hybrid.main("try6.svg")
-Cfsjksas.Hybrid.Create.main("try8.svg")
-Cfsjksas.Hybrid.Create.main("try9.svg")
 
+## newest
 Cfsjksas.Hybrid.Create.main("hybrid.2.svg")
 
 Cfsjksas.Tools.Markdown.person_pages(1)
@@ -81,6 +79,7 @@ Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")
     + draw sectors
 
 
+
 ## change raw data
 # start with static/data/people_ex.txt
 ancestors = Cfsjksas.Ancestors.GetAncestors.all_ancestors()
@@ -88,6 +87,8 @@ ancestors = Cfsjksas.Ancestors.GetAncestors.all_ancestors()
 outtext = Cfsjksas.Tools.Print.format_ancestor_map()
 # write it out
 Cfsjksas.Tools.Print.write_file(outtext, filename)
+# all in one
+Cfsjksas.Tools.Print.
 
 
 
@@ -98,3 +99,12 @@ Cfsjksas.Tools.Print.write_file(outtext, filename)
 
 
 Cfsjksas.Tools.Transform.write_mom_dad()
+
+{relations, ancestors, processed_a_id_list} = Cfsjksas.Tools.Transform.dup_lineage(); :ok
+
+Cfsjksas.Ancestors.Stats.relations_count(relations, :termination)
+
+Cfsjksas.Ancestors.Stats.ancestor_count(ancestors, :termination)
+
+# create ancestors first either 3 commands up or run from _ex.txt
+Cfsjksas.Ancestors.LineEnd.classify(ancestors)

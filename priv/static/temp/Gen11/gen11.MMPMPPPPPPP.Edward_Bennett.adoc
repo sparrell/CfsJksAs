@@ -1,0 +1,73 @@
+= Edward Bennett (1600 - 1645)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1600
+* Birthplace: Weymouth, Dorset, England, UK
+* Death: 1645
+* Deathplace: Rehoboth, Bristol, Massachusetts, USA
+* Age at Death: 44-45
+
+
+== Family
+* Mother: Out of Scope
+
+* Father: Out of Scope
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPPPPPP.John_Bennett[John Bennett (1630 - 1691)]
+
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMPMPPPPPPP.Edward_Bennett[Book page]
+* https://cfsjksas.gigalixirapp.com/person?p=p0133[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPP.Jacob_Bennett[Jacob Bennett (1761 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPPP.Jacob_Bennett[Jacob Bennett (1735 - ?)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPPPP.Issac_Bennett[Issac Bennett (1705 - 1783)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPPPPP.John_Bennett[John Bennett (1666 - 1745)]
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPPPPPP.John_Bennett[John Bennett (1630 - 1691)]
+
+* Edward Bennett (1600 - 1645)
+
+
+== Other
+emigration:  England to Weymouth MA w wife & 4 children
+----
+2 DATE BEF 1636
+2 AGE About 35-36
+----
+ Moved with Rev. Newman to Rehobeth MA
+----
+2 DATE 1643
+2 AGE 42-43
+----
+
+
+== Sources
