@@ -10224,8 +10224,8 @@
         relation: ["M", "M", "M", "M", "M", "P", "P", "P", "P", "M", "P"],
         given_name: "Peter",
         surname: "Bradley",
-        birth_year: "?",
-        death_year: "?",
+        birth_year: "1628",
+        death_year: "1653",
         father: nil,
         mother: nil,
         sector: 1986
@@ -11247,8 +11247,8 @@
         relation: ["M", "M", "M", "M", "M", "P", "M", "P", "P", "M", "P"],
         given_name: "Peter",
         surname: "Bradley",
-        birth_year: "?",
-        death_year: "?",
+        birth_year: "1628",
+        death_year: "1653",
         father: nil,
         mother: nil,
         sector: 2002
@@ -12567,8 +12567,8 @@
         relation: ["P", "M", "M", "M", "M", "P", "P", "P", "P", "M", "P"],
         given_name: "Peter",
         surname: "Bradley",
-        birth_year: "?",
-        death_year: "?",
+        birth_year: "1628",
+        death_year: "1653",
         father: nil,
         mother: nil,
         sector: 962
@@ -14503,8 +14503,8 @@
         relation: ["P", "M", "M", "M", "M", "P", "M", "P", "P", "M", "P"],
         given_name: "Peter",
         surname: "Bradley",
-        birth_year: "?",
-        death_year: "?",
+        birth_year: "1628",
+        death_year: "1653",
         father: nil,
         mother: nil,
         sector: 978

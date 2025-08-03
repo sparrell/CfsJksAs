@@ -1,4 +1,4 @@
-= Peter Bradley (? - ?)
+= Peter Bradley (1628 - 1653)
 
 Narrative TBD
 
@@ -7,12 +7,16 @@ Narrative TBD
 
 
 * Sex: M
+* Birth: Est. 1628
+* Birthplace: probably England
+* Death: 3 Apr 1662
+* Deathplace: New London, New London, Connecticut
 
 
 == Family
-* Mother: Brickwall
+* Mother: Out of Scope
 
-* Father: Brickwall
+* Father: Out of Scope
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPMPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
 
@@ -21,10 +25,10 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPMPPMP.Peter_Bradley[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p0038[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Peter_Bradley_%281%29[WeRelate]
+* https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * Geni TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Bradley-34[WikiTree]
 
 == Relations
 === Lineage #1
@@ -49,7 +53,7 @@ Narrative TBD
 
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMPPPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
 
-* Peter Bradley (? - ?)
+* Peter Bradley (1628 - 1653)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -73,7 +77,7 @@ Narrative TBD
 
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMMMPMPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
 
-* Peter Bradley (? - ?)
+* Peter Bradley (1628 - 1653)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -97,7 +101,7 @@ Narrative TBD
 
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPPPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
 
-* Peter Bradley (? - ?)
+* Peter Bradley (1628 - 1653)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -121,9 +125,10 @@ Narrative TBD
 
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMMMPMPPM.Hannah_Bradley[Hannah Bradley (1656 - 1725)]
 
-* Peter Bradley (? - ?)
+* Peter Bradley (1628 - 1653)
 
 
 == Other
+emigration: probably from England
 
 == Sources
