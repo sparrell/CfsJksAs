@@ -27,9 +27,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPPMPMMM.Mary_Pickett[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p1253[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
-* Geni TBD
+* https://www.werelate.org/wiki/Person:Mary_Pickett_%2810%29[WeRelate]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001625/mary-pickett-shapley[MyHeritage]
+* https://www.geni.com/people/Mary-Shapleigh/6000000002504511703[Geni]
 * WikiTree TBD
 
 == Relations

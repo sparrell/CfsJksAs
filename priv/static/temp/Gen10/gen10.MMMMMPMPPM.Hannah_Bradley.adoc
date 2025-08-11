@@ -18,7 +18,7 @@ Narrative TBD
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPMPPMM.Elizabeth_Brewster[Elizabeth Brewster (1637 - 1708)]
 
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPMPPMP.Peter_Bradley[Peter Bradley (? - ?)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMMMPMPPMP.Peter_Bradley[Peter Bradley (1628 - 1653)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMMPMPP.Jonathan_Lester[Jonathan Lester (1678 - 1712)]
 

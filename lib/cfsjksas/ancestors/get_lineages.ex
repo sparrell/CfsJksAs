@@ -102,7 +102,7 @@ IO.inspect(person_p, label: "this person hit")
     #tuple_list = Enum.map(this_gen_list, fn(x) -> {gen, x} end)
     # add to ancestors and recurse
     #all_ancestor_keys(rest, ancestors ++ tuple_list)
-    all_ancestor_keys(rest, ancestors ++ this_gen_list) -- [0] # strip off Gen 0 special case
+    all_ancestor_keys(rest, ancestors ++ this_gen_list) #
   end
 
 end

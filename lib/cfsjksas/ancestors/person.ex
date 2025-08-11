@@ -231,7 +231,13 @@ defmodule Cfsjksas.Ancestors.Person do
     #
     # depends on mother, father, and ship variables
     # parent is done manually
+    if id == nil do
+      IEx.pry()
+    end
     person = Cfsjksas.Ancestors.GetAncestors.person(id)
+    if person == nil do
+      IEx.pry()
+    end
     relations = person.relation_list
     [relation | _others] = relations
     gen = case relation do
@@ -241,7 +247,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _ ->
         length(relation)
     end
-    mother = Cfsjksas.Ancestors.Lineage.mother(gen, relation)
+    mother = Cfsjksas.Ancestors.Lineage.mother(relation)
     father = Cfsjksas.Ancestors.Lineage.father(gen, relation)
     has_ship? = Map.has_key?(person, :ship)
     categorize_person(id, has_ship?, mother, father, person)

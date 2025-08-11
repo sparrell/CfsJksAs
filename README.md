@@ -108,3 +108,10 @@ Cfsjksas.Ancestors.Stats.ancestor_count(ancestors, :termination)
 
 # create ancestors first either 3 commands up or run from _ex.txt
 Cfsjksas.Ancestors.LineEnd.classify(ancestors)
+
+# to do
+
+Mary Pickett
+* daughter of Ruth Brewster prb
+* need to add lineage to Jonathan, William, Mary Brewters
+* husband John Pickett - add him and his ancestors

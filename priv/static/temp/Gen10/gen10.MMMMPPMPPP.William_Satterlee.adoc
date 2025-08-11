@@ -13,7 +13,8 @@ Narrative TBD
 
 
 == Family
-* Mother: no_ship so parents NA
+* Mother: Out of Scope
+
 * Father: no_ship so parents NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMMPPMPP.William_Satterlee[William Satterlee (? - ?)]
 

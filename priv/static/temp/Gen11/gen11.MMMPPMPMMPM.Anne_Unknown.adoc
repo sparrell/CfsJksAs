@@ -9,15 +9,16 @@ Narrative TBD
 * Sex: F
 * Married Name: Shapley
 * Birth: 1607
+* Birthplace: probably England
 * Death: 26 MAR 1687
 * Deathplace: Charlestown, Boston, Suffolk, Massachusetts, USA
 * Age at Death: 79-80
 
 
 == Family
-* Mother: Brickwall
+* Mother: Out of Scope
 
-* Father: Brickwall
+* Father: Out of Scope
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPPMPMMP.Benjamin_Shapley[Benjamin Shapley (1645 - 1706)]
 
@@ -27,7 +28,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMPPMPMMPM.Anne_Unknown[Book page]
 * https://cfsjksas.gigalixirapp.com/person?p=p1255[Dev website]
 * WeRelate TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001627/anne-shapley[MyHeritage]
 * Geni TBD
 * WikiTree TBD
 
@@ -106,5 +107,6 @@ Narrative TBD
 
 
 == Other
+emigration: probably England
 
 == Sources

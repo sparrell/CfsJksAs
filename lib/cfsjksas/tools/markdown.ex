@@ -128,6 +128,8 @@ defmodule Cfsjksas.Tools.Markdown do
 				"Brickwall\n"
 			{nil, :brickwall_mother} ->
 				"Brickwall\n"
+			{nil, :brickwall_father} ->
+				"Brickwall\n"
 			{nil, :duplicate} ->
 				"duplicate, need to look up manually\n"
 			{nil, :not} ->

@@ -5924,7 +5924,7 @@
         birth_year: "1650",
         death_year: "?",
         father: :p0700,
-        mother: :p0701,
+        mother: nil,
         sector: 456
       },
       ["M", "M", "P", "M", "P", "M", "M", "M", "M", "P"] => %{
@@ -6386,7 +6386,7 @@
         birth_year: "1650",
         death_year: "?",
         father: :p0700,
-        mother: :p0701,
+        mother: nil,
         sector: 968
       },
       ["P", "M", "P", "P", "M", "P", "M", "P", "P", "M"] => %{
@@ -13145,17 +13145,6 @@
         mother: :p0011,
         sector: 839
       },
-      ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P", "M"] => %{
-        id: :p0701,
-        relation: ["M", "M", "M", "M", "P", "P", "M", "P", "P", "P", "M"],
-        given_name: "Elizabeth",
-        surname: "Unknown026",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1937
-      },
       ["M", "M", "M", "M", "M", "P", "M", "M", "P", "M", "P"] => %{
         id: :p0304,
         relation: ["M", "M", "M", "M", "M", "P", "M", "M", "P", "M", "P"],
@@ -13727,17 +13716,6 @@
         father: :p0302,
         mother: :p0303,
         sector: 989
-      },
-      ["P", "M", "M", "M", "P", "P", "M", "P", "P", "P", "M"] => %{
-        id: :p0701,
-        relation: ["P", "M", "M", "M", "P", "P", "M", "P", "P", "P", "M"],
-        given_name: "Elizabeth",
-        surname: "Unknown026",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 913
       },
       ["M", "M", "M", "P", "P", "M", "M", "M", "M", "P", "P"] => %{
         id: :p0926,

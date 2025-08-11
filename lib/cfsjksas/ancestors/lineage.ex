@@ -2,8 +2,11 @@ defmodule Cfsjksas.Ancestors.Lineage do
   @moduledoc """
   operations on relationships
 
+  a_id_from_relation(relation) returns a_id of the relation
   mother(gen, relation) returns the mother of the relation
   father(gen, relation) returns the father of the relation
+  mother(relation) returns the mother of the relation
+  father(relation) returns the father of the relation
   gen_from_relation(relation) returns which generation that relation is in
   list_no_key_for_gen(gen, key) lists all the people in a generation who do not have that key
   list_no_link_key(gen) lists people in generation who don't have geni, myheritage, weeratle keys
@@ -12,6 +15,34 @@ defmodule Cfsjksas.Ancestors.Lineage do
 
   require IEx
 
+  @doc """
+  from relation find ancestor
+  """
+  def a_id_from_relation(relation) do
+    # get all keys
+    a_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    # look thru them till find one with relation
+    a_id_from_relation(relation, a_ids)
+  end
+  def a_id_from_relation(_relation, []) do
+    # oops. should have found
+    IO.inspect("did not find relation")
+  end
+  def a_id_from_relation(relation, [a_id | rest_a_ids]) do
+    ancestor = Cfsjksas.Ancestors.GetAncestors.person(a_id)
+    case relation in ancestor.relation_list do
+      true ->
+        #found ancestor with relation in relation list
+        a_id
+      false ->
+        # go on to next
+        a_id_from_relation(relation, rest_a_ids)
+    end
+  end
+
+  @doc """
+  get mother of relation
+  """
   def mother(gen, relation) do
     if not Map.has_key?(Cfsjksas.Ancestors.GetLineages.gen_relations(gen), relation) do
       IEx.pry()
@@ -20,9 +51,14 @@ defmodule Cfsjksas.Ancestors.Lineage do
     person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
     Map.get(person, :mother, nil)
   end
+  def mother(relation) do
+    relation_a_id = a_id_from_relation(relation)
+    person = Cfsjksas.Ancestors.GetAncestors.person(relation_a_id)
+    Map.get(person, :mother, nil)
+  end
 
   def father(gen, relation) do
-    # return mother of a person
+    # return father of a person
     person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
     Map.get(person, :father, nil)
   end

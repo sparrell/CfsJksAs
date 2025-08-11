@@ -5,7 +5,7 @@ defmodule Cfsjksas.Circle.ShipHighlight do
   require IEx
 
   def beyond(gen, sector, relation, person) do
-    mother = Cfsjksas.Ancestors.Lineage.mother(gen, relation)
+    mother = Cfsjksas.Ancestors.Lineage.mother(relation)
     father = Cfsjksas.Ancestors.Lineage.father(gen, relation)
     ship = Cfsjksas.Ancestors.Person.ship(person.id)
     beyond_shape(mother, father, ship, sector)

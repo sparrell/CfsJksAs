@@ -28,7 +28,7 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       nil -> ""
       _ -> to_string(father_result)
     end
-    mother_result = Cfsjksas.Ancestors.Lineage.mother(gen, relation)
+    mother_result = Cfsjksas.Ancestors.Lineage.mother(relation)
     mother =  case mother_result do
       nil -> ""
       _ -> to_string(mother_result)

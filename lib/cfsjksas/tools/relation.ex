@@ -1,4 +1,6 @@
 defmodule Cfsjksas.Tools.Relation do
+
+  require IEx
   @doc """
   make new relations file:
      - with primary duplicate marked (eventually)
@@ -100,6 +102,9 @@ defmodule Cfsjksas.Tools.Relation do
     # add category termination
     # return tuple of {new relations, gen, new id_list}
     person_id = relations[gen][this].id
+    if person_id == nil do
+      IEx.pry()
+    end
     category = Cfsjksas.Ancestors.Person.categorize_person(person_id)
     { put_in(relations, [gen, this, :termination], category),
       gen,
