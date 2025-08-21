@@ -1,7 +1,444 @@
 defmodule Cfsjksas.Tools.Relation do
+  @moduledoc """
+  make_lineages() - create base lineages map from ancestor(file) map
+  sector_from_relation(relation) - give generation and sector for a given relation
+  make_sector_lineages(base_lineage) - have {gen, sector} as primary key
+  add_terminations_lineage(which_lineage) - add gen/sectors to each lineage along with terminations classified
+          no_term / term
+          ship
+          no_ship
+          brickwall-both
+          brickwall-mom
+          brickwall-dad
+          duplicate (or is this it's own lineage "tag_lineage")
+  make_reduced_lineage(tagged_lineage) - remove duplications beyond branch
+          primary_duplicate
+          branch_duplicate
+          superfluous_duplicate
 
+  then make new or updated svg and all other graphs
+  remember to remove dedup etc once above ready
+
+
+  """
   require IEx
+
+  def make_lineages() do
+    IO.inspect("remember to remove dedup once complete")
+    ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    # initialize lineages with 15 generations
+    lineages = init_gen(%{}, Enum.to_list(0..15))
+    # special case for primary principal
+    |> put_in([0, []], %{})
+    |> put_in([0, [], :id], Cfsjksas.Chart.Get.config().primary)
+    |> put_in([0, [], :quadrant], :ne)
+    |> put_in([0, [], :sector], {0, 0})
+    |> put_in([0, [], :relation], [])
+
+
+    # go thru all ancestors adding in all the lineages
+    make_lineages(lineages, ids)
+  end
+  # iterate thru all a_id's to add to lineages
+  defp make_lineages(lineages, []) do
+    # done
+    lineages
+  end
+  defp make_lineages(lineages, [a_id | rest_ids]) do
+    # for a_id, add each relation in its relation list to lineages map
+    ## and iterate to next a_id
+    add_relation(lineages, a_id,
+                Cfsjksas.Ancestors.GetAncestors.person(a_id).relation_list)
+    |> make_lineages(rest_ids)
+  end
+
+  # add in a relation to lineages map with value of a_id
+  ## add_relation(lineages, a_id, a_id_relation_list)
+  defp add_relation(lineages, _a_id, []) do
+    # done
+    lineages
+  end
+  defp add_relation(lineages, a_id, [this_relation | rest_relations]) do
+    # calculate {gen, sector} for this_relation
+    {gen, sector} = sector_from_relation(this_relation)
+    # calculate quadrant
+    quadrant = get_guadrant(this_relation)
+
+    # update lineages.gen with {this_relation => %{ id: a_id}}
+    ## and with {this_relation => %{sector: {gen, sector}}
+    ## and with {this_relation => %{relation: this_relation}}
+    ## and recurse
+    ## note some redundancy but makes map value complete without having to tie to keys
+    lineages
+    |> put_in([gen, this_relation], %{})
+    |> put_in([gen, this_relation, :id], a_id)
+    |> put_in([gen, this_relation, :quadrant], quadrant)
+    |> put_in([gen, this_relation, :sector], {gen, sector})
+    |> put_in([gen, this_relation, :relation], this_relation)
+    |> add_relation(a_id, rest_relations)
+  end
+
+  defp init_gen(lineages, []) do
+    # done
+    lineages
+  end
+  defp init_gen(lineages, [gen | rest]) do
+    lineages # old lineages
+    |> Map.put(gen, %{}) # add empty map at gen as key and feed next iteration
+    |> init_gen(rest)
+  end
+
+  def sector_from_relation(relation) do
+    gen = length(relation)
+    sector = sector_from_relation(0, relation)
+    {gen, sector}
+  end
+  defp sector_from_relation(accumulator, []) do
+    # done
+    accumulator
+  end
+  defp sector_from_relation(accumulator, [this | rest_relation]) do
+    case this do
+      "P" ->
+        # P = zero so recurse on
+        sector_from_relation(accumulator, rest_relation)
+      "M" ->
+        # M = binary 1 so add in
+        new_acc = accumulator + (2 ** length(rest_relation))
+        # recurse on
+        sector_from_relation(new_acc, rest_relation)
+    end
+  end
+
+    @doc """
+    return quadrant based on relation
+    primary, parents are special cases
+    """
+  def get_guadrant([]) do
+    :ne
+  end
+  def get_guadrant(["P"]) do
+    :ne
+  end
+  def get_guadrant(["M"]) do
+    :se
+  end
+  def get_guadrant(["P", "P" | _rest]) do
+    :ne
+  end
+  def get_guadrant(["P", "M" | _rest]) do
+    :nw
+  end
+  def get_guadrant(["M", "P" | _rest]) do
+    :sw
+  end
+  def get_guadrant(["M", "M" | _rest]) do
+    :se
+  end
+
   @doc """
+  given lineage-based map, convert to {gen, sector} map with same values
+  """
+  def make_sector_lineages(base_lineage) do
+    # walk thru generations
+    make_sector_lineages(%{}, Map.keys(base_lineage), base_lineage)
+  end
+  defp make_sector_lineages(sectors, [], _base_lineage) do
+    # finished generations
+    sectors
+  end
+  defp make_sector_lineages(sectors, [this_gen | rest_gens], base_lineage) do
+    # loop thru all people in this gen, adding them to sectors
+    relation_keys = Map.keys(base_lineage[this_gen])
+    make_sector_lineages(sectors, relation_keys, this_gen, base_lineage)
+    |> make_sector_lineages(rest_gens, base_lineage)
+  end
+  defp make_sector_lineages(sectors, [], _this_gen, _base_lineage) do
+    # done with this generation, return sectors
+    sectors
+  end
+  defp make_sector_lineages(sectors, [this_relation | rest_relations], this_gen, base_lineage) do
+    # add person to sectors using {gen, sector} as key
+    person = base_lineage[this_gen][this_relation]
+    {gen, sector} = person.sector
+    quadrant = person.quadrant
+    # use updated sectors to recurse
+    sectors
+    |> Map.put({gen, quadrant, sector}, person)
+    |> make_sector_lineages(rest_relations, this_gen, base_lineage)
+  end
+
+  def sector_helper(sector_lineage, gen_print) do
+    #print all items in a gen
+    Enum.each(sector_lineage, fn
+      {{gen, quadrant, sector}, person} ->
+        case gen == gen_print do
+          true ->
+            IO.inspect("quadrant: #{inspect(quadrant)}, sector: #{inspect(sector)}, person: #{inspect(person)}")
+          false ->
+            nil
+        end
+    end)
+  end
+
+  @doc """
+  mark each with lineage with:
+    brickwall true/false
+    immigrant no, no_ship, ship
+    duplicate: main, branch, redundant
+
+  first recurse thru generations
+  second recurse thru quadrants
+    ne,se,nw,sw order to 'skinny' the duplicates
+  third recurse thru sectors
+
+  keep track of which primaries already assigned for a person
+  add in 'empty' brickwall entries for brickwall_mother, brickwall_father
+  """
+  def mark_lineages(sector_lineages) do
+    # initialize new marked_lineage
+    ## with gen zero already filled in as special case
+    marked_lineages = sector_lineages
+    |> put_in([{0, :ne, 0}, :brickwall], false) # special case for gen0
+    |> put_in([{0, :ne, 0}, :immigrant], :no)
+    |> put_in([{0, :ne, 0}, :duplicate], :main)
+
+    # initialize primaries
+    mains = [sector_lineages[{0, :ne, 0}].id]
+
+    # generations to walk thru
+    gens = Enum.to_list(1..15)
+
+    # iterate thru generations
+    mark_lineages_by_gen({marked_lineages, mains}, gens)
+  end
+  defp mark_lineages_by_gen({marked_lineages, _mains}, []) do
+    # finished last gen so done, return marked_lineage
+    marked_lineages
+  end
+  defp mark_lineages_by_gen({marked_lineages, mains}, [this_gen | rest_gens]) do
+    # for this gen, recurse thru people in it
+
+    # quad sort order to get reduced circle graph 'skinny'
+    order = %{:ne => 0, :se => 1, :nw => 2, :sw => 3}
+    # secondary sort will be on sector
+    # note sort order makes a difference in determing main vs branch
+
+    # make list of tuple-keys for this gen
+    gen_tuples = marked_lineages
+    |> Enum.filter(fn {{gen, _quadrant, _sector}, _value} ->
+      gen == this_gen
+      end)
+    |> Enum.map(fn {tuple_key, _value} -> tuple_key end)
+    |> Enum.sort_by(fn {_gen, quadrant, sector} ->
+      {order[quadrant], sector}
+      end)
+
+    # recurse thru the people in sorted order
+    mark_single_lineage({marked_lineages, mains}, gen_tuples)
+    |> mark_lineages_by_gen(rest_gens)
+  end
+  defp mark_single_lineage({marked_lineage, mains}, []) do
+    # finished gen_tuples so done, return {marked_lineage, mains}
+    {marked_lineage, mains}
+  end
+  defp mark_single_lineage({marked_lineage, mains_in}, [{gen, quadrant, sector} | rest_gen_tuples]) do
+    # add brickwall, immigrant, duplicate for this person
+    # plus for brickwalls, add brickwall in next generation
+    # plus for branches, mark everyone further out on tree as redundant
+    # special case if this is already added brickwall
+
+    # get person
+    person_l = marked_lineage[{gen, quadrant, sector}]
+    # update
+    mark_single_lineage({marked_lineage, mains_in}, [{gen, quadrant, sector} | rest_gen_tuples], person_l)
+  end
+  defp mark_single_lineage({marked_lineage, mains_in}, [_this_gen_tuple | rest_gen_tuples], %{brickwall: true} = _person_l) do
+    # special case if person is an already inserted brickwall
+    {marked_lineage, mains_in}
+    |> mark_single_lineage(rest_gen_tuples)
+  end
+  defp mark_single_lineage({marked_lineage, mains_in}, [{gen, quadrant, sector} | rest_gen_tuples], person_l) do
+    person_a = Cfsjksas.Ancestors.GetAncestors.person(person_l.id)
+
+    # person is not immigrant if person_a has no ship key
+    # if there is a ship key, no_ship vs ship is determined by ship.name
+    immigrant = ship_status(person_a)
+
+
+    # for duplicate, see if this person already a duplicate or if already in mains
+    duplicate = calc_duplicate(person_l, mains_in)
+
+    # if duplicate == main, add id to mains
+    mains = case duplicate do
+      :main ->
+        mains_in ++ [person_a.id]
+      _ ->
+        mains_in
+    end
+    # if duplicate == branch, update upstream line as redundant (now or in recurse?)
+
+    # brickwall of either mother or father, add new sectors in as brickwalls
+    ## but not brickwall is noship or ship
+    mother = person_a.mother
+    father = person_a.father
+    ship = Map.has_key?(person_a, :ship)
+
+    # update person. immigrant, duplicate, brickwall
+    #
+    {marked_lineage
+    |> put_in([{gen, quadrant, sector}, :immigrant], immigrant)
+    |> put_in([{gen, quadrant, sector}, :duplicate], duplicate)
+    |> put_in([{gen, quadrant, sector}, :brickwall], false)
+    |> add_brickwalls(mother, father, person_l, person_a, duplicate, ship)
+    |> mark_redundants(duplicate, mother, father),
+    mains}
+    |> mark_single_lineage(rest_gen_tuples)
+  end
+
+  # mark_redundants(lineage, duplicate, mother, father)
+  defp mark_redundants(lineage, _duplicate, _mother, _father) do
+    lineage
+  end
+
+  # add_brickwalls edits the lineage of branch to be redundant
+  ## add_brickwalls(lineages, mother, father, person_l, person_a, ship)
+  defp add_brickwalls(lineages, _mother, _father, _person_l,
+      _person_a, _duplicate, true) do
+    # has ship so not brickwall regardless of parents
+    lineages
+  end
+  defp add_brickwalls(lineages, nil, nil, person_l, person_a, duplicate, false) do
+    # no mother or father so add sector for both
+    {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
+    {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
+    lineages
+    |> put_in([father_tuple_id], father)
+    |> put_in([mother_tuple_id], mother)
+  end
+  defp add_brickwalls(lineages, _mother, nil, person_l, person_a, duplicate, false) do
+    # has mother but no father, so add father brickwall sector
+    {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
+    lineages
+    |> put_in([father_tuple_id], father)
+  end
+  defp add_brickwalls(lineages, nil, _father, person_l, person_a, duplicate, false) do
+    # has father but no mother, so add mother brickwall sector
+    {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
+    lineages
+    |> put_in([mother_tuple_id], mother)
+  end
+  defp add_brickwalls(lineages, _mother, _father, _person_l, _person_a, _duplicate, false) do
+    # has father and mother so not a brickwall, so lineages unchanged
+    lineages
+  end
+
+  defp add_bw_mom_or_dad(parent, person_l, person_a, duplicate) do
+    # gen = gen + 1
+    # quadrant unchanged
+    # sector for father = 2 * sector
+    # sector for mother = (2 * sector) + 1
+    # relation for partent is relation ++ ["P"] or ["M"] depending
+    # make id from "father of" child or "mother of" child
+
+    {child_gen, child_sector} = person_l.sector
+    child_quad = person_l.quadrant
+
+    # parent is one generation out from child
+    parent_gen = child_gen + 1
+    # relation = relation ++ (["P"] for ["M"]
+    parent_relation = case parent do
+      :father ->
+        person_l.relation ++ ["P"]
+      :mother ->
+        person_l.relation ++ ["M"]
+    end
+    # quad remains unchanged
+    parent_quad = child_quad
+
+    # make parent id from child with text on which parent
+    parent_id = case parent do
+      :father ->
+        "father of " <> to_string(person_a.id)
+      :mother ->
+        "mother of " <> to_string(person_a.id)
+    end
+
+    parent_sector = case parent do
+      :father ->
+        2 * child_sector
+      :mother ->
+        (2 * child_sector) + 1
+    end
+
+    parent_tuple_id = {parent_gen, parent_quad, parent_sector}
+    parent_duplicate = case duplicate do
+      :main ->
+        :main
+      :branch ->
+        :redundant
+      :redundant ->
+        :redundant
+    end
+    parent = %{
+      id: parent_id,
+      relation: parent_relation,
+      quadrant: parent_quad,
+      sector: {parent_gen, parent_sector},
+      duplicate: parent_duplicate,
+      brickwall: true,
+      immigrant: :no
+    }
+
+    # return tuple of id and data
+    {parent_tuple_id, parent}
+  end
+
+  @doc """
+  check ship status of a person
+  """
+  def ship_status(person) do
+    cond do
+      not Map.has_key?(person, :ship) ->
+        :no
+
+      is_nil(person[:ship]) ->
+        :no_ship
+
+      not is_map(person[:ship]) or not Map.has_key?(person[:ship], :name) ->
+        :no_ship
+
+      is_nil(person[:ship][:name]) ->
+        :no_ship
+
+      String.trim(to_string(person[:ship][:name])) == "" ->
+        :no_ship
+
+      true ->
+        :ship
+    end
+  end
+
+  @doc """
+  calculate if this is a duplicate
+  """
+  def calc_duplicate(person_l, mains) do
+    # if person has duplicate key and value = redudant, then keep it that way
+    # if not redundant and id already in mains, then person is branch
+    # otherwise person is main
+
+    cond do
+      Map.has_key?(person_l, :duplicate) and person_l.duplicate == :redundant ->
+        :redundant
+      person_l.id in mains ->
+        :branch
+      true ->
+        :main
+    end
+  end
+
+
+ @doc """
   make new relations file:
      - with primary duplicate marked (eventually)
      - with linked duplicate marked
@@ -44,7 +481,6 @@ defmodule Cfsjksas.Tools.Relation do
 
 
   """
-  require IEx
 
   def dedup() do
     # make new relations map starting from exiting map

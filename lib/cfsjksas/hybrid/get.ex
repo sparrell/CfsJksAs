@@ -16,6 +16,8 @@ defmodule Cfsjksas.Hybrid.Get do
   @outer_ring_radius 21000
   @ancestors_svg "static/images/ancestors.svg"
 
+  @primary :p0005
+
   @config %{
     0 => %{
       font_size1: "150pt",
@@ -199,6 +201,9 @@ defmodule Cfsjksas.Hybrid.Get do
     :mother,
   ]
 
+  def primary() do
+    @primary
+  end
 
   def path(:ancestors_svg) do
     Path.join(:code.priv_dir(:cfsjksas), @ancestors_svg)

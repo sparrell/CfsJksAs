@@ -240,15 +240,8 @@ defmodule Cfsjksas.Ancestors.Person do
     end
     relations = person.relation_list
     [relation | _others] = relations
-    gen = case relation do
-      # initial person special case
-      0 ->
-        0
-      _ ->
-        length(relation)
-    end
     mother = Cfsjksas.Ancestors.Lineage.mother(relation)
-    father = Cfsjksas.Ancestors.Lineage.father(gen, relation)
+    father = Cfsjksas.Ancestors.Lineage.father(relation)
     has_ship? = Map.has_key?(person, :ship)
     categorize_person(id, has_ship?, mother, father, person)
   end

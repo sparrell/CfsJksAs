@@ -22,8 +22,7 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
 
     # take random (first) relation to find father and mother
     [relation | _rest ] = person.relation_list
-    gen = Cfsjksas.Ancestors.Lineage.gen_from_relation(relation)
-    father_result = Cfsjksas.Ancestors.Lineage.father(gen, relation)
+    father_result = Cfsjksas.Ancestors.Lineage.father(relation)
     father =  case father_result do
       nil -> ""
       _ -> to_string(father_result)

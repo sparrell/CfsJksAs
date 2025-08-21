@@ -6589,7 +6589,7 @@ Anne Peck (1619 - 1672)
 <clipPath id="sector_10_919_clip">
 <use href="#sector_10_919"/>
 </clipPath></defs>
-<use href="#sector_10_919" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_919_clip)"/>
+<use href="#sector_10_919" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="30%" clip-path="url(#sector_10_919_clip)"/>
 <path id="ray_g10_s919" d="M 24899,29135 L 26742,30511" visibility="hidden" />
 <text style="font-family: miniscule; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s919" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -8369,7 +8369,7 @@ Nathaniel Chesebrough (1630 - 1678)
 <path id="ray_g10_s869" d="M 21933,32047 L 23275,33915" visibility="hidden" />
 <text style="font-family: miniscule; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s869" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Anne   (? - ?)
+Anne unknown (? - ?)
 </textPath>
 </text>
 <defs>
@@ -9530,11 +9530,11 @@ Thomas Varney (1630 - 1692)
 <clipPath id="sector_11_2002_clip">
 <use href="#sector_11_2002"/>
 </clipPath></defs>
-<use href="#sector_11_2002" stroke="blue" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_2002_clip)"/>
+<use href="#sector_11_2002" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_2002_clip)"/>
 <path id="ray_g11_s2002" d="M 29745,23212 L 31231,23421" visibility="hidden" />
 <text style="font-family: miniscule; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s2002" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Peter Bradley (? - ?)
+Peter Bradley (1628 - 1653)
 </textPath>
 </text>
 <defs>
@@ -9890,7 +9890,7 @@ Elizabeth Unknown021 (1606 - 1679)
 <clipPath id="sector_11_1837_clip">
 <use href="#sector_11_1837"/>
 </clipPath></defs>
-<use href="#sector_11_1837" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1837_clip)"/>
+<use href="#sector_11_1837" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_1837_clip)"/>
 <path id="ray_g11_s1837" d="M 26698,30569 L 27896,31472" visibility="hidden" />
 <text style="font-family: miniscule; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s1837" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -10759,18 +10759,6 @@ Barbara Unknown015 (? - 1654)
 <text style="font-family: miniscule; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s591" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary Woodford (1638 - 1684)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1937" d="M 30419,26761 A 17400,17400 0 0 1 30401,26812 L 28987,26311 A 15900,15900 0 0 0 29003,26265 L 30419,26761" />
-<clipPath id="sector_11_1937_clip">
-<use href="#sector_11_1937"/>
-</clipPath></defs>
-<use href="#sector_11_1937" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1937_clip)"/>
-<path id="ray_g11_s1937" d="M 28995,26288 L 30410,26786" visibility="hidden" />
-<text style="font-family: miniscule; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s1937" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Unknown026 (? - ?)
 </textPath>
 </text>
 <defs>
@@ -12842,5 +12830,5 @@ James Chilton (1563 - 1620)
 <path id="xtra_14_3952_3953" stroke="black" stroke-width="3" d="M 32249,25083 L 32353,25077" />
 <!-- End of Generation 14 -->
 
-<!-- made new svg at 2025-07-01 20:03:21.688820Z -->
+<!-- made new svg at 2025-08-21 03:45:52.413604Z -->
 </svg>

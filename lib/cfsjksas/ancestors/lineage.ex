@@ -3,8 +3,6 @@ defmodule Cfsjksas.Ancestors.Lineage do
   operations on relationships
 
   a_id_from_relation(relation) returns a_id of the relation
-  mother(gen, relation) returns the mother of the relation
-  father(gen, relation) returns the father of the relation
   mother(relation) returns the mother of the relation
   father(relation) returns the father of the relation
   gen_from_relation(relation) returns which generation that relation is in
@@ -43,25 +41,21 @@ defmodule Cfsjksas.Ancestors.Lineage do
   @doc """
   get mother of relation
   """
-  def mother(gen, relation) do
-    if not Map.has_key?(Cfsjksas.Ancestors.GetLineages.gen_relations(gen), relation) do
-      IEx.pry()
-    end
-    # return mother of a person
-    person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
-    Map.get(person, :mother, nil)
-  end
   def mother(relation) do
     relation_a_id = a_id_from_relation(relation)
     person = Cfsjksas.Ancestors.GetAncestors.person(relation_a_id)
     Map.get(person, :mother, nil)
   end
 
-  def father(gen, relation) do
-    # return father of a person
-    person = Cfsjksas.Ancestors.GetLineages.person(gen, relation)
+  @doc """
+  get father of relation
+  """
+  def father(relation) do
+    relation_a_id = a_id_from_relation(relation)
+    person = Cfsjksas.Ancestors.GetAncestors.person(relation_a_id)
     Map.get(person, :father, nil)
   end
+
 
   def gen_from_relation(0) do
     # initial generation
