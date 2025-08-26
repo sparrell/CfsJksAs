@@ -177,7 +177,7 @@ defmodule Cfsjksas.Chart.Sector do
     # adjust placement for sectors in generations above 11
     ## using 11 size sectors
     ## lookup using get
-    gen11_sector_num = Cfsjksas.Chart.Get.g11(sector.gen, sector.sector_num)
+    gen11_sector_num = Cfsjksas.Chart.GetCircleMod.g11(sector.gen, sector.sector_num)
     if gen11_sector_num == nil do
       IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
       IEx.pry() # oops need to enter this data
@@ -234,12 +234,12 @@ defmodule Cfsjksas.Chart.Sector do
   end
 
   defp add_inner_radius(sector) do
-    inner_radius = Cfsjksas.Chart.Get.radius(sector.gen - 1)
+    inner_radius = Cfsjksas.Chart.GetCircleMod.radius(sector.gen - 1)
     %Cfsjksas.Chart.Sector{sector | inner_radius: inner_radius }
   end
 
   defp add_outer_radius(sector) do
-    outer_radius = Cfsjksas.Chart.Get.radius(sector.gen)
+    outer_radius = Cfsjksas.Chart.GetCircleMod.radius(sector.gen)
     %Cfsjksas.Chart.Sector{sector | outer_radius: outer_radius }
   end
 
@@ -255,13 +255,13 @@ defmodule Cfsjksas.Chart.Sector do
 
   defp add_points(sector) do
     # point a is outer_radius, upper_radians
-    {a_x, a_y} = Cfsjksas.Chart.Get.xy(sector.outer_radius, sector.upper_radians)
+    {a_x, a_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.upper_radians)
     # point b is outer_radius, lower_radians
-    {b_x, b_y} = Cfsjksas.Chart.Get.xy(sector.outer_radius, sector.lower_radians)
+    {b_x, b_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.lower_radians)
     # point c is inner_radius, upper_radians
-    {c_x, c_y} = Cfsjksas.Chart.Get.xy(sector.inner_radius, sector.upper_radians)
+    {c_x, c_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.upper_radians)
     # point d is inner_radius, lower_radians
-    {d_x, d_y} = Cfsjksas.Chart.Get.xy(sector.inner_radius, sector.lower_radians)
+    {d_x, d_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.lower_radians)
 
     %Cfsjksas.Chart.Sector{sector | a_x: a_x, a_y: a_y,
                                 b_x: b_x, b_y: b_y,

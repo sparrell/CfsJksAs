@@ -1,4 +1,4 @@
-defmodule Cfsjksas.Chart.Get do
+defmodule Cfsjksas.Chart.GetCircleMod do
 
   @width  "\"48in\""
   @height "\"59in\""

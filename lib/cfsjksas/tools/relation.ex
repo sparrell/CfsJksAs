@@ -30,7 +30,7 @@ defmodule Cfsjksas.Tools.Relation do
     lineages = init_gen(%{}, Enum.to_list(0..15))
     # special case for primary principal
     |> put_in([0, []], %{})
-    |> put_in([0, [], :id], Cfsjksas.Chart.Get.config().primary)
+    |> put_in([0, [], :id], Cfsjksas.Chart.GetCircleMod.config().primary)
     |> put_in([0, [], :quadrant], :ne)
     |> put_in([0, [], :sector], {0, 0})
     |> put_in([0, [], :relation], [])

@@ -1,7 +1,6 @@
-defmodule Cfsjksas.Chart.Reduced do
+defmodule Cfsjksas.Chart.Circle do
   @moduledoc """
-  make 'reduced circle' svg
-  ie duplicates removed
+  make circle svg
   """
 
   def main(filename) do
@@ -10,7 +9,7 @@ defmodule Cfsjksas.Chart.Reduced do
     |> Cfsjksas.Tools.Relation.make_sector_lineages()
     |> Cfsjksas.Tools.Relation.mark_lineages()
     # and draw it
-    |> Cfsjksas.Chart.Draw.main()
+    |> Cfsjksas.Chart.Draw.main(:circle_chart)
     |> Cfsjksas.Chart.Svg.finish()
     |> Cfsjksas.Chart.Svg.save_file(filename)
 

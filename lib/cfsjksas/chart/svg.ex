@@ -4,14 +4,14 @@ defmodule Cfsjksas.Chart.Svg do
   require IEx
 
   def save_file(svgtext, filename) do
-    filepath = Cfsjksas.Chart.Get.path(filename)
+    filepath = Cfsjksas.Chart.GetCircleMod.path(filename)
     File.write(filepath, svgtext)
     test_filepath = filepath <> ".txt"
     File.write(test_filepath, svgtext)
   end
 
   def beg() do
-    cfg = Cfsjksas.Chart.Get.config().svg
+    cfg = Cfsjksas.Chart.GetCircleMod.config().svg
     "<svg "
     <> cfg.size
     <> cfg.viewbox
@@ -32,9 +32,9 @@ defmodule Cfsjksas.Chart.Svg do
 
   def center_circle(svg) do
     # gen 0 is special since not a sector but a circle
-    cfg = Cfsjksas.Chart.Get.config()
+    cfg = Cfsjksas.Chart.GetCircleMod.config()
 
-    r = Cfsjksas.Chart.Get.radius(0)
+    r = Cfsjksas.Chart.GetCircleMod.radius(0)
 
     ctr_x = cfg.svg.mxc
     ctr_y = cfg.svg.myc
@@ -241,8 +241,8 @@ defp make_name_text(id, font_size, text) do
     # whether to reverse arc is dependent on quadrant
     {beg_x, beg_y, end_x, end_y} = arc_ends(sector.quadrant, r, sector.lower_radians, sector.upper_radians)
     # sweep is dependent on quadrant
-    sweep = Cfsjksas.Chart.Get.quadrant_sweep(sector.quadrant)
-    font_size = Cfsjksas.Chart.Get.config().sector[sector.gen].font_size
+    sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+    font_size = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen].font_size
 
     make_hidden_arc(id, r, beg_x, beg_y, end_x, end_y, sweep)
     <> make_name_text(id, font_size, text)
@@ -259,9 +259,9 @@ defp make_name_text(id, font_size, text) do
 
   # draw the two arcs 1/3 and 2/3 of the way between the inner and outer arcs
   # sweep is dependent on quadrant
-  sweep = Cfsjksas.Chart.Get.quadrant_sweep(sector.quadrant)
+  sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
   # diff font sizes for name and date
-  config = Cfsjksas.Chart.Get.config().sector[sector.gen]
+  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
   font_size_n = config.font_size_n
   font_size_d = config.font_size_d
 
@@ -300,9 +300,9 @@ defp make_name_text(id, font_size, text) do
 
   # draw the three arcs 1/4, 1/2, and 3/4 of the way between the inner and outer arcs
   # sweep is dependent on quadrant
-  sweep = Cfsjksas.Chart.Get.quadrant_sweep(sector.quadrant)
+  sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
   # diff font sizes for names and date
-  config = Cfsjksas.Chart.Get.config().sector[sector.gen]
+  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
 
   font_size_n = config.font_size_n
   font_size_d = config.font_size_d
@@ -346,7 +346,7 @@ defp make_name_text(id, font_size, text) do
 
   # draw the arc 1/2 way between the inner and outer rays
   ## get config
-  config = Cfsjksas.Chart.Get.config().sector[sector.gen]
+  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
 
   font_size = config.font_size
 
@@ -361,8 +361,8 @@ defp make_name_text(id, font_size, text) do
       sector.upper_radians
   end
   phi = (lower_radians + upper_radians) / 2.0
-  {inner_x, inner_y} = Cfsjksas.Chart.Get.xy(r_inner, phi)
-  {outer_x, outer_y} = Cfsjksas.Chart.Get.xy(r_outer, phi)
+  {inner_x, inner_y} = Cfsjksas.Chart.GetCircleMod.xy(r_inner, phi)
+  {outer_x, outer_y} = Cfsjksas.Chart.GetCircleMod.xy(r_outer, phi)
 
   # in to out order depends on quadrant
   {beg_x, beg_y, end_x, end_y} = case sector.quadrant do
@@ -384,16 +384,16 @@ defp make_name_text(id, font_size, text) do
       when quadrant in [:ne, :nw] do
     # arc begins at lower_radians and ends at upper_radians
     # so that words have right orientation
-    {beg_x, beg_y} = Cfsjksas.Chart.Get.xy(r, angle1)
-    {end_x, end_y} = Cfsjksas.Chart.Get.xy(r, angle2)
+    {beg_x, beg_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
+    {end_x, end_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
     {beg_x, beg_y, end_x, end_y}
   end
   defp arc_ends(quadrant, r, angle1, angle2)
       when quadrant in [:se, :sw] do
     # arc begins at upper_radians and ends at lower_radians
     # so that words have right orientation
-    {beg_x, beg_y} = Cfsjksas.Chart.Get.xy(r, angle2)
-    {end_x, end_y} = Cfsjksas.Chart.Get.xy(r, angle1)
+    {beg_x, beg_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
+    {end_x, end_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
     {beg_x, beg_y, end_x, end_y}
   end
   defp arc_ends(quadrant, r, angle1, angle2) do

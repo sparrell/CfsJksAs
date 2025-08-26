@@ -140,5 +140,5 @@ marked = Cfsjksas.Tools.Relation.mark_lineages(sectors); :ok
 
 Cfsjksas.Tools.Script.setup()
 
-Cfsjksas.Chart.Reduced.main("skinny.2.svg")
+Cfsjksas.Chart.CircleMod.main("skinny.2.svg")
 

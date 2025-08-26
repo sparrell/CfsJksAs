@@ -12,7 +12,7 @@ defmodule Cfsjksas.Chart.Draw do
     svg
   end
   def draw(svg, lineage, [gen | rest_gens]) do
-    cfg = Cfsjksas.Chart.Get.config().sector[gen]
+    cfg = Cfsjksas.Chart.GetCircleMod.config().sector[gen]
 
     # add generation boundry comment to svg
     boundary = "Generation #{gen}\n"

@@ -51,5 +51,56 @@ defmodule Cfsjksas.Tools.Print do
     |> format_ancestor_map(ancestors_in, rest)
   end
 
+  def print_marked_lineages() do
+    Cfsjksas.Tools.Relation.make_lineages()
+    |> Cfsjksas.Tools.Relation.make_sector_lineages()
+    |> Cfsjksas.Tools.Relation.mark_lineages()
+    |> marked_print()
+  end
+
+  defp marked_print(marked) do
+    # sort the keys
+    id_m_s = Map.keys(marked)
+    |> Enum.sort()
+
+    text = marked_print("%{\n", marked, id_m_s)
+    <> "}\n"
+
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_ex.txt")
+
+    File.write(filepath, text)
+  end
+
+  defp marked_print(input, _marked, []) do
+    # no more id's so done
+    input
+  end
+  defp marked_print(input, marked, [id_m | rest_id]) do
+    # get person_m keys
+    person = marked[id_m]
+
+    keys = Map.keys(person)
+    |> Enum.sort()
+
+    input
+    <> "\t" <> inspect(id_m) <> " => %{\n"
+    <> person_m_print("", person, keys)
+    <> "\t}\n"
+    # pipe to recurse to next person
+    |> marked_print(marked, rest_id)
+  end
+
+  defp person_m_print(input_text, _person, []) do
+    # no more keys so done
+    input_text
+  end
+  defp person_m_print(input_text, person, [key | rest_keys]) do
+    input_text
+    <> "      " <> inspect(key) <> ": " <> inspect(person[key]) <> ",\n"
+    # and recurse to next key with above text as input
+    |> person_m_print(person, rest_keys)
+  end
+
+
 
 end
