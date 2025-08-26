@@ -142,3 +142,4 @@ Cfsjksas.Tools.Script.setup()
 
 Cfsjksas.Chart.CircleMod.main("skinny.2.svg")
 
+Cfsjksas.Chart.Circle.main("circle.1.svg")

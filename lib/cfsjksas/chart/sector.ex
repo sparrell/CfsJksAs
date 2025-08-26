@@ -112,7 +112,7 @@ defmodule Cfsjksas.Chart.Sector do
     namelines: map()
   }
 
-  def make(id_l, person_l, person_a, cfg) do
+  def make(id_l, person_l, person_a, cfg, chart_type) do
     {gen, quadrant, sector_number} = id_l
     # special case for brickwalls
     person_a = case person_a == nil do
@@ -128,12 +128,12 @@ defmodule Cfsjksas.Chart.Sector do
     end
 
     new_struct(gen, quadrant, sector_number, cfg, person_l, person_a)
-    |> add_g11_sector_number()
+    |> add_g11_sector_number(chart_type)
     |> add_inner_radius()
     |> add_outer_radius()
     |> add_lower_radians()
     |> add_upper_radians()
-    |> add_points()
+    |> add_points(chart_type)
 
   end
 
@@ -173,7 +173,7 @@ defmodule Cfsjksas.Chart.Sector do
     }
   end
 
-  defp add_g11_sector_number(%{gen: 14} = sector) do
+  defp add_g11_sector_number(%{gen: 14} = sector, :circle_mod_chart) do
     # adjust placement for sectors in generations above 11
     ## using 11 size sectors
     ## lookup using get
@@ -184,8 +184,10 @@ defmodule Cfsjksas.Chart.Sector do
     end
     %{sector | gen11_sector_num: gen11_sector_num}
   end
-  defp add_g11_sector_number(sector) do
-    # for sectors 11 and under, leave unchanged
+  defp add_g11_sector_number(sector, _chart_type) do
+    # leave unchanged
+    ## for all sectors in circle
+    ## for sectors 11 and under in circle_mod
     sector
   end
   defp format(%{duplicate: :branch} = _person_l) do
@@ -253,15 +255,36 @@ defmodule Cfsjksas.Chart.Sector do
     %Cfsjksas.Chart.Sector{sector | upper_radians: upper_radians }
   end
 
-  defp add_points(sector) do
+  defp add_points(sector, chart_type) do
+
     # point a is outer_radius, upper_radians
-    {a_x, a_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.upper_radians)
+    {a_x, a_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(sector.outer_radius, sector.upper_radians)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.upper_radians)
+    end
     # point b is outer_radius, lower_radians
-    {b_x, b_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.lower_radians)
+    {b_x, b_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(sector.outer_radius, sector.lower_radians)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(sector.outer_radius, sector.lower_radians)
+    end
     # point c is inner_radius, upper_radians
-    {c_x, c_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.upper_radians)
+    {c_x, c_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(sector.inner_radius, sector.upper_radians)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.upper_radians)
+    end
     # point d is inner_radius, lower_radians
-    {d_x, d_y} = Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.lower_radians)
+    {d_x, d_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(sector.inner_radius, sector.lower_radians)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(sector.inner_radius, sector.lower_radians)
+    end
 
     %Cfsjksas.Chart.Sector{sector | a_x: a_x, a_y: a_y,
                                 b_x: b_x, b_y: b_y,

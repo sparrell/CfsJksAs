@@ -3,15 +3,27 @@ defmodule Cfsjksas.Chart.Svg do
   require DateTime
   require IEx
 
-  def save_file(svgtext, filename) do
-    filepath = Cfsjksas.Chart.GetCircleMod.path(filename)
+  def save_file(svgtext, filename, chart_type) do
+    filepath = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.path(filename)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.path(filename)
+    end
+
     File.write(filepath, svgtext)
     test_filepath = filepath <> ".txt"
     File.write(test_filepath, svgtext)
   end
 
-  def beg() do
-    cfg = Cfsjksas.Chart.GetCircleMod.config().svg
+  def beg(chart_type) do
+    cfg = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.config().svg
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.config().svg
+    end
+
     "<svg "
     <> cfg.size
     <> cfg.viewbox
@@ -30,11 +42,21 @@ defmodule Cfsjksas.Chart.Svg do
     <> "\n<!-- " <> text <> " -->"
   end
 
-  def center_circle(svg) do
+  def center_circle(svg, chart_type) do
     # gen 0 is special since not a sector but a circle
-    cfg = Cfsjksas.Chart.GetCircleMod.config()
+    cfg = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.config()
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.config()
+    end
 
-    r = Cfsjksas.Chart.GetCircleMod.radius(0)
+    r = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.radius(0)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.radius(0)
+    end
 
     ctr_x = cfg.svg.mxc
     ctr_y = cfg.svg.myc
@@ -60,28 +82,7 @@ defmodule Cfsjksas.Chart.Svg do
 
     # start with existing svg
     svg
-#    # draw circle
-#    <> "<circle cx=\""
-#    # center
-#    <> to_string(ctr_x)
-#    <> "\" cy=\""
-#    <> to_string(ctr_y)
-#    <> "\" r=\""
-#    <> to_string(r)
-#    <> "\" "
-#    # add id
-#    <> "id=\" ctr_cir \""
-#    # path color
-#    <> " stroke=" <> "\"" <> cfg.sector[0].line_color <> "\""
-#    # path width
-#    <> " stroke-width=" <> "\"" <> cfg.sector[0].stroke_width <> "\""
-#    # fill color
-#    <> " fill=" <> "\"" <> cfg.sector[0].fill <> "\"\" r=\"#{r}\" "
-#    # fill opacity
-#    <> " fill-opacity=" <> "\"" <> cfg.sector[0].fill_opacity <> "\""
-#    # close svg item
-#    <> " />\n"
-
+    # draw circle
     <> "<circle cx=\"#{ctr_x}\" cy=\"#{ctr_y}\" r=\"#{r}\" "
     # add id
     <> "id=\"ctr_cir \""
@@ -130,14 +131,14 @@ defmodule Cfsjksas.Chart.Svg do
 
   def draw_sector(svg, id_l,
         %{duplicate: :redundant} = _person_l,
-        id_a, person_a, cfg, lineage) do
-    # if redundant duplicate, don't add sector
+        id_a, person_a, cfg, lineage, :circle_mod_chart) do
+    # if redundant duplicate, and chart_type is circle_mod, don't add sector
     svg
   end
-  def draw_sector(svg, id_l, person_l, id_a, person_a, cfg, lineage) do
+  def draw_sector(svg, id_l, person_l, id_a, person_a, cfg, lineage, chart_type) do
     # draw shape for this person
-    Cfsjksas.Chart.Sector.make(id_l, person_l, person_a, cfg)
-    |> make_shape_svg(person_l, svg)
+    Cfsjksas.Chart.Sector.make(id_l, person_l, person_a, cfg, chart_type)
+    |> make_shape_svg(person_l, svg, chart_type)
 
   end
 
@@ -178,7 +179,7 @@ defp make_name_text(id, font_size, text) do
     <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" />\n"
   end
 
-  def make_shape_svg(sector, person_l, svg) do
+  def make_shape_svg(sector, person_l, svg, chart_type) do
 
     # make shape svg
     ## consists of defs to define path and clipping path
@@ -225,10 +226,10 @@ defp make_name_text(id, font_size, text) do
     <> "fill-opacity=\"#{sector.fill_opacity}\" "
     <> "clip-path=\"url(##{clip_id})\"/>\n"
     # add name
-    <> add_name(sector)
+    <> add_name(sector, chart_type)
   end
 
-  def add_name(%{layout: :arc1} = sector) do
+  def add_name(%{layout: :arc1} = sector, chart_type) do
     # all on one line
     text = "#{sector.given_name} #{sector.surname} "
     <> "(#{sector.birth_year} - #{sector.death_year})"
@@ -239,16 +240,27 @@ defp make_name_text(id, font_size, text) do
     # draw the arc 50% of the way between inner and outer arcs
     r = sector.inner_radius + round(0.5 * (sector.outer_radius - sector.inner_radius))
     # whether to reverse arc is dependent on quadrant
-    {beg_x, beg_y, end_x, end_y} = arc_ends(sector.quadrant, r, sector.lower_radians, sector.upper_radians)
+    {beg_x, beg_y, end_x, end_y} = arc_ends(sector.quadrant, r, sector.lower_radians, sector.upper_radians, chart_type)
     # sweep is dependent on quadrant
-    sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
-    font_size = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen].font_size
+    sweep = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.quadrant_sweep(sector.quadrant)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+    end
+
+    font_size = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.config().sector[sector.gen].font_size
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen].font_size
+    end
 
     make_hidden_arc(id, r, beg_x, beg_y, end_x, end_y, sweep)
     <> make_name_text(id, font_size, text)
 
   end
-  def add_name(%{layout: :arc2} = sector) do
+  def add_name(%{layout: :arc2} = sector, chart_type) do
   # two arc lines = name and date
   name = sector.given_name <> " " <> sector.surname
   dates = " (" <> sector.birth_year <> " - " <> sector.death_year <> ")"
@@ -259,9 +271,20 @@ defp make_name_text(id, font_size, text) do
 
   # draw the two arcs 1/3 and 2/3 of the way between the inner and outer arcs
   # sweep is dependent on quadrant
-  sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+  sweep = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.quadrant_sweep(sector.quadrant)
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+  end
+
   # diff font sizes for name and date
-  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  config = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.config().sector[sector.gen]
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  end
   font_size_n = config.font_size_n
   font_size_d = config.font_size_d
 
@@ -279,15 +302,15 @@ defp make_name_text(id, font_size, text) do
   r_n = sector.inner_radius + round(name_ratio * (sector.outer_radius - sector.inner_radius))
   r_d = sector.inner_radius + round(date_ratio * (sector.outer_radius - sector.inner_radius))
 
-  {beg_x_n, beg_y_n, end_x_n, end_y_n} = arc_ends(sector.quadrant, r_n, sector.lower_radians, sector.upper_radians)
-  {beg_x_d, beg_y_d, end_x_d, end_y_d} = arc_ends(sector.quadrant, r_d, sector.lower_radians, sector.upper_radians)
+  {beg_x_n, beg_y_n, end_x_n, end_y_n} = arc_ends(sector.quadrant, r_n, sector.lower_radians, sector.upper_radians, chart_type)
+  {beg_x_d, beg_y_d, end_x_d, end_y_d} = arc_ends(sector.quadrant, r_d, sector.lower_radians, sector.upper_radians, chart_type)
 
   make_hidden_arc(id_n, r_n, beg_x_n, beg_y_n, end_x_n, end_y_n, sweep)
   <> make_name_text(id_n, font_size_n, name)
   <> make_hidden_arc(id_d, r_d, beg_x_d, beg_y_d, end_x_d, end_y_d, sweep)
   <> make_name_text(id_d, font_size_d, dates)
   end
-  def add_name(%{layout: :arc3} = sector) do
+  def add_name(%{layout: :arc3} = sector, chart_type) do
   # three arc lines = given_name, surname, and dates
   gname = sector.given_name
   sname = sector.surname
@@ -300,9 +323,20 @@ defp make_name_text(id, font_size, text) do
 
   # draw the three arcs 1/4, 1/2, and 3/4 of the way between the inner and outer arcs
   # sweep is dependent on quadrant
-  sweep = Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+  sweep = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.quadrant_sweep(sector.quadrant)
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.quadrant_sweep(sector.quadrant)
+  end
+
   # diff font sizes for names and date
-  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  config = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.config().sector[sector.gen]
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  end
 
   font_size_n = config.font_size_n
   font_size_d = config.font_size_d
@@ -322,9 +356,9 @@ defp make_name_text(id, font_size, text) do
   r_s = sector.inner_radius + round(s_ratio * (sector.outer_radius - sector.inner_radius))
   r_d = sector.inner_radius + round(date_ratio * (sector.outer_radius - sector.inner_radius))
 
-  {beg_x_g, beg_y_g, end_x_g, end_y_g} = arc_ends(sector.quadrant, r_g, sector.lower_radians, sector.upper_radians)
-  {beg_x_s, beg_y_s, end_x_s, end_y_s} = arc_ends(sector.quadrant, r_s, sector.lower_radians, sector.upper_radians)
-  {beg_x_d, beg_y_d, end_x_d, end_y_d} = arc_ends(sector.quadrant, r_d, sector.lower_radians, sector.upper_radians)
+  {beg_x_g, beg_y_g, end_x_g, end_y_g} = arc_ends(sector.quadrant, r_g, sector.lower_radians, sector.upper_radians, chart_type)
+  {beg_x_s, beg_y_s, end_x_s, end_y_s} = arc_ends(sector.quadrant, r_s, sector.lower_radians, sector.upper_radians, chart_type)
+  {beg_x_d, beg_y_d, end_x_d, end_y_d} = arc_ends(sector.quadrant, r_d, sector.lower_radians, sector.upper_radians, chart_type)
 
   make_hidden_arc(id_g, r_g, beg_x_g, beg_y_g, end_x_g, end_y_g, sweep)
   <> make_name_text(id_g, font_size_n, gname)
@@ -333,7 +367,7 @@ defp make_name_text(id, font_size, text) do
   <> make_hidden_arc(id_d, r_d, beg_x_d, beg_y_d, end_x_d, end_y_d, sweep)
   <> make_name_text(id_d, font_size_d, dates)
   end
-  def add_name(%{layout: :ray1} = sector) do
+  def add_name(%{layout: :ray1} = sector, chart_type) do
     # name on ray, 1-line
 
   text = not_nil(sector.given_name) <> " "
@@ -346,7 +380,13 @@ defp make_name_text(id, font_size, text) do
 
   # draw the arc 1/2 way between the inner and outer rays
   ## get config
-  config = Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  config = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.config().sector[sector.gen]
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.config().sector[sector.gen]
+  end
+
 
   font_size = config.font_size
 
@@ -361,8 +401,19 @@ defp make_name_text(id, font_size, text) do
       sector.upper_radians
   end
   phi = (lower_radians + upper_radians) / 2.0
-  {inner_x, inner_y} = Cfsjksas.Chart.GetCircleMod.xy(r_inner, phi)
-  {outer_x, outer_y} = Cfsjksas.Chart.GetCircleMod.xy(r_outer, phi)
+
+  {inner_x, inner_y} = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.xy(r_inner, phi)
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.xy(r_inner, phi)
+  end
+  {outer_x, outer_y} = case chart_type do
+    :circle_chart ->
+      Cfsjksas.Chart.GetCircle.xy(r_outer, phi)
+    :circle_mod_chart ->
+      Cfsjksas.Chart.GetCircleMod.xy(r_outer, phi)
+  end
 
   # in to out order depends on quadrant
   {beg_x, beg_y, end_x, end_y} = case sector.quadrant do
@@ -380,24 +431,46 @@ defp make_name_text(id, font_size, text) do
   <> make_name_text(id, font_size, text)
   end
 
-  defp arc_ends(quadrant, r, angle1, angle2)
+  defp arc_ends(quadrant, r, angle1, angle2, chart_type)
       when quadrant in [:ne, :nw] do
     # arc begins at lower_radians and ends at upper_radians
     # so that words have right orientation
-    {beg_x, beg_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
-    {end_x, end_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
+
+    {beg_x, beg_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(r, angle1)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
+    end
+    {end_x, end_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(r, angle2)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
+    end
     {beg_x, beg_y, end_x, end_y}
   end
-  defp arc_ends(quadrant, r, angle1, angle2)
+  defp arc_ends(quadrant, r, angle1, angle2, chart_type)
       when quadrant in [:se, :sw] do
     # arc begins at upper_radians and ends at lower_radians
     # so that words have right orientation
-    {beg_x, beg_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
-    {end_x, end_y} = Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
+    {beg_x, beg_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(r, angle2)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(r, angle2)
+    end
+    {end_x, end_y} = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.xy(r, angle1)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.xy(r, angle1)
+    end
     {beg_x, beg_y, end_x, end_y}
   end
-  defp arc_ends(quadrant, r, angle1, angle2) do
-    IO.inspect({quadrant, r, angle1, angle2}, label: "arc_ends bad input")
+  defp arc_ends(quadrant, r, angle1, angle2, chart_type) do
+    IO.inspect({quadrant, r, angle1, angle2, chart_type}, label: "arc_ends bad input")
+    IEx.pry()
   end
 
   defp not_nil(input) when is_binary(input) do

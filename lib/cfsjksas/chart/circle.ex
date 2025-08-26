@@ -11,7 +11,7 @@ defmodule Cfsjksas.Chart.Circle do
     # and draw it
     |> Cfsjksas.Chart.Draw.main(:circle_chart)
     |> Cfsjksas.Chart.Svg.finish()
-    |> Cfsjksas.Chart.Svg.save_file(filename)
+    |> Cfsjksas.Chart.Svg.save_file(filename, :circle_chart)
 
   end
 

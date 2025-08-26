@@ -25,6 +25,7 @@ defmodule Cfsjksas.Tools.Relation do
 
   def make_lineages() do
     IO.inspect("remember to remove dedup once complete")
+    IO.inspect("need to finish circle_mod outer gens")
     ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
     # initialize lineages with 15 generations
     lineages = init_gen(%{}, Enum.to_list(0..15))

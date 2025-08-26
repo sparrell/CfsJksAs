@@ -10,9 +10,9 @@ defmodule Cfsjksas.Chart.CircleMod do
     |> Cfsjksas.Tools.Relation.make_sector_lineages()
     |> Cfsjksas.Tools.Relation.mark_lineages()
     # and draw it
-    |> Cfsjksas.Chart.Draw.main()
+    |> Cfsjksas.Chart.Draw.main(:circle_mod_chart)
     |> Cfsjksas.Chart.Svg.finish()
-    |> Cfsjksas.Chart.Svg.save_file(filename)
+    |> Cfsjksas.Chart.Svg.save_file(filename, :circle_mod_chart)
 
   end
 

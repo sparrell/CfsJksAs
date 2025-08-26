@@ -1,9 +1,9 @@
 defmodule Cfsjksas.Chart.GetCircle do
 
-  @width  "\"48in\""
+  @width  "\"59in\""
   @height "\"59in\""
   @viewbox_low_x 0
-  @viewbox_hi_x 34000
+  @viewbox_hi_x 42000
   @viewbox_low_y 0
   @viewbox_hi_y 42000
 
@@ -11,7 +11,7 @@ defmodule Cfsjksas.Chart.GetCircle do
   @config %{
     primary: :p0005,
     svg: %{
-      mxc: 14000,  # center of page/circle
+      mxc: 21000,  # center of page/circle
       myc: 21000,  # center of page/circle
       width: @width,
       height: @height,
