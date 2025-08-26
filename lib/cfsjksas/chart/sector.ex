@@ -52,6 +52,12 @@ defmodule Cfsjksas.Chart.Sector do
     id: "need",
     gen: 0,
     sector_num: 0,
+    gen11_sector_num: 0,
+    layout: :ray1,
+    given_name: "?",
+    surname: "?",
+    birth_year: "?",
+    death_year: "?",
     line_color: "black",
     stroke_width: "50",
     fill: "none",
@@ -78,6 +84,12 @@ defmodule Cfsjksas.Chart.Sector do
     id: String.t(),
     gen: integer(),
     sector_num: integer(),
+    gen11_sector_num: integer(),
+    layout: atom(),
+    given_name: String.t(),
+    surname: String.t(),
+    birth_year: String.t(),
+    death_year: String.t(),
     line_color: String.t(),
     stroke_width: String.t(),
     fill: String.t(),
@@ -100,10 +112,161 @@ defmodule Cfsjksas.Chart.Sector do
     namelines: map()
   }
 
-  def make(generation, quadrant, sector_number) do
-    # get config for this sector
-    cfg = Cfsjksas.Chart.Get.config().sector[generation]
-{quadrant, sector_number,cfg}
+  def make(id_l, person_l, person_a, cfg) do
+    {gen, quadrant, sector_number} = id_l
+    # special case for brickwalls
+    person_a = case person_a == nil do
+      false ->
+        person_a
+      true ->
+        %{
+          given_name: "brickwall",
+          surname: "",
+          birth_year: "?",
+          death_year: "?",
+        }
+    end
+
+    new_struct(gen, quadrant, sector_number, cfg, person_l, person_a)
+    |> add_g11_sector_number()
+    |> add_inner_radius()
+    |> add_outer_radius()
+    |> add_lower_radians()
+    |> add_upper_radians()
+    |> add_points()
+
+  end
+
+  defp new_struct(gen, quad, sector_num, cfg, person_l, person_a) do
+    # create some helper info before creating struct
+    # id
+    id = "sector_" <> to_string(gen) <> "_" <> to_string(sector_num)
+    # layout
+    layout = cfg.layout
+    # reverse
+    reverse = quadrant_reverse(quad)
+    # line color is function of male or female
+    line_color = line_color(person_l.relation)
+    # fill/fill_opacity is function of immigrant, duplicate, brickwall
+    {fill, opacity} = format(person_l)
+    # for name
+    given_name = person_a.given_name
+    surname = person_a.surname
+    birth_year = person_a.birth_year
+    death_year = person_a.death_year
+
+    # return initialized struct
+    %Cfsjksas.Chart.Sector{
+      gen: gen,
+      quadrant: quad,
+      sector_num: sector_num,
+      id: id,
+      given_name: given_name,
+      surname: surname,
+      birth_year: birth_year,
+      death_year: death_year,
+      layout: layout,
+      reverse: reverse,
+      line_color: line_color,
+      fill: fill,
+      fill_opacity: opacity,
+    }
+  end
+
+  defp add_g11_sector_number(%{gen: 14} = sector) do
+    # adjust placement for sectors in generations above 11
+    ## using 11 size sectors
+    ## lookup using get
+    gen11_sector_num = Cfsjksas.Chart.Get.g11(sector.gen, sector.sector_num)
+    if gen11_sector_num == nil do
+      IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
+      IEx.pry() # oops need to enter this data
+    end
+    %{sector | gen11_sector_num: gen11_sector_num}
+  end
+  defp add_g11_sector_number(sector) do
+    # for sectors 11 and under, leave unchanged
+    sector
+  end
+  defp format(%{duplicate: :branch} = _person_l) do
+    # if duplicate-branch, color green
+    {"lightgreen", "50%"}
+  end
+  defp format(%{immigrant: :ship} = _person_l) do
+    # if ship, fill is blue
+    {"dodgerblue", "10%"}
+  end
+  defp format(%{immigrant: :no_ship} = _person_l) do
+    # if ship, fill is light blue
+    {"lightskyblue", "10%"}
+  end
+  defp format(%{brickwall: true} = _person_l) do
+    # if duplicate-branch, color green
+    {"red", "50%"}
+  end
+  defp format(_person_l) do
+    # otherwise no fil
+    {"none", "0%"}
+  end
+
+  defp quadrant_reverse(:ne) do
+    true
+  end
+  defp quadrant_reverse(:nw) do
+    true
+  end
+  defp quadrant_reverse(:se) do
+    false
+  end
+  defp quadrant_reverse(:sw) do
+    false
+  end
+
+  def line_color(relation) do
+    case Enum.take(relation, -1) do
+      ["M"] ->
+        "#FF6EC7"
+      ["P"] ->
+        "blue"
+      _ ->
+        IEx.pry()
+    end
+  end
+
+  defp add_inner_radius(sector) do
+    inner_radius = Cfsjksas.Chart.Get.radius(sector.gen - 1)
+    %Cfsjksas.Chart.Sector{sector | inner_radius: inner_radius }
+  end
+
+  defp add_outer_radius(sector) do
+    outer_radius = Cfsjksas.Chart.Get.radius(sector.gen)
+    %Cfsjksas.Chart.Sector{sector | outer_radius: outer_radius }
+  end
+
+  defp add_lower_radians(sector) do
+    lower_radians = sector.sector_num * 2 * :math.pi() / (2 ** sector.gen)
+    %Cfsjksas.Chart.Sector{sector | lower_radians: lower_radians }
+  end
+
+  defp add_upper_radians(sector) do
+    upper_radians = rem(sector.sector_num + 1, 2**sector.gen) * 2 * :math.pi() / (2 ** sector.gen)
+    %Cfsjksas.Chart.Sector{sector | upper_radians: upper_radians }
+  end
+
+  defp add_points(sector) do
+    # point a is outer_radius, upper_radians
+    {a_x, a_y} = Cfsjksas.Chart.Get.xy(sector.outer_radius, sector.upper_radians)
+    # point b is outer_radius, lower_radians
+    {b_x, b_y} = Cfsjksas.Chart.Get.xy(sector.outer_radius, sector.lower_radians)
+    # point c is inner_radius, upper_radians
+    {c_x, c_y} = Cfsjksas.Chart.Get.xy(sector.inner_radius, sector.upper_radians)
+    # point d is inner_radius, lower_radians
+    {d_x, d_y} = Cfsjksas.Chart.Get.xy(sector.inner_radius, sector.lower_radians)
+
+    %Cfsjksas.Chart.Sector{sector | a_x: a_x, a_y: a_y,
+                                b_x: b_x, b_y: b_y,
+                                c_x: c_x, c_y: c_y,
+                                d_x: d_x, d_y: d_y }
   end
 
 

@@ -267,7 +267,7 @@ defmodule Cfsjksas.Tools.Relation do
 
 
     # for duplicate, see if this person already a duplicate or if already in mains
-    duplicate = calc_duplicate(person_l, mains_in)
+    duplicate = calc_duplicate(person_l, mains_in, marked_lineage)
 
     # if duplicate == main, add id to mains
     mains = case duplicate do
@@ -422,13 +422,21 @@ defmodule Cfsjksas.Tools.Relation do
   @doc """
   calculate if this is a duplicate
   """
-  def calc_duplicate(person_l, mains) do
+  def calc_duplicate(person_l, mains, marked) do
     # if person has duplicate key and value = redudant, then keep it that way
+    # if child is redundant or branch, then duplicate = redundant
     # if not redundant and id already in mains, then person is branch
     # otherwise person is main
 
+    # determine value of child's duplicate,
+    child_duplicate = query_child_duplicate(person_l, marked)
+
     cond do
       Map.has_key?(person_l, :duplicate) and person_l.duplicate == :redundant ->
+        :redundant
+      child_duplicate == :redundant ->
+        :redundant
+      child_duplicate == :branch ->
         :redundant
       person_l.id in mains ->
         :branch
@@ -437,7 +445,40 @@ defmodule Cfsjksas.Tools.Relation do
     end
   end
 
+  def gen_keys(lineage, gen) do
+    # filter out keys just for one generation
+    Map.keys(lineage)
+    |> Enum.filter(fn
+      {^gen, _, _} -> true
+      _ -> false
+    end)
+  end
 
+  # determine value of child's duplicate
+  defp query_child_duplicate(person_l, marked) do
+    # parent gen/sector_num
+    {parent_gen, parent_sector_num} = person_l.sector
+    # child's gen is one less than parents
+    child_gen = parent_gen - 1
+    # child quadrant is parent's quadrant
+    child_quad = person_l.quadrant
+    # child is parent's relation minus last value
+    #child_relattion = Enum.take(person_l.relation,length(person_l.relation)-1)
+    # child's sector_num is parent's sector num divided by 2 (ignore remainder)
+    child_sector_num = div(parent_sector_num, 2)
+    # child's id
+    child_id = {child_gen, child_quad, child_sector_num}
+    # child's duplicate status (fudge for first gens)
+    case child_gen > 1 do
+      true ->
+        marked[child_id].duplicate
+      false ->
+        :main
+    end
+  end
+
+
+####################
  @doc """
   make new relations file:
      - with primary duplicate marked (eventually)

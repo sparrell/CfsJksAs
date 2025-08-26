@@ -8,6 +8,16 @@ defmodule Cfsjksas.Tools.Script do
     lineages = Cfsjksas.Tools.Relation.make_lineages()
     sectors = Cfsjksas.Tools.Relation.make_sector_lineages(lineages)
     marked = Cfsjksas.Tools.Relation.mark_lineages(sectors)
+
+    marked_print(marked)
+
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/images/reduced2.svg")
+
+
+    Cfsjksas.Chart.Draw.main(marked)
+    |> Cfsjksas.Circle.Geprint.write_file(filepath)
+
+    length(Map.keys(marked))
 #    IO.inspect(marked[{0, :ne, 0}], label: "{0, :ne, 0}")
 #    IO.inspect(marked[{1, :ne, 0}], label: "{1, :ne, 0}")
 #    IO.inspect(marked[{1, :se, 1}], label: "{1, :se, 1}")
@@ -17,21 +27,51 @@ defmodule Cfsjksas.Tools.Script do
 #    IO.inspect(marked[{12, :nw, 1896}], label: "{12, :nw, 1896}")
 #    IO.inspect(marked[{13, :nw, 3779}], label: "{13, :nw, 3779}")
 #    IO.inspect("----")
-#    Cfsjksas.Tools.Script.list_marked_keys(marked, 6, :sw)
-    # make list of tuple-keys for this gen
-#    this_gen = 12
-#    quad = :ne
-#    gen_tuples = marked
-#    |> Enum.filter(fn {{gen, _quadrant, _sector}, _value} ->
-#      gen == this_gen
-#      end)
-#    |> Enum.map(fn {_tuple_key, value} -> value.brickwall end)
 
+  end
 
-      # recurse thru looking for missing
+  def marked_print(marked) do
+    # sort the keys
+    id_m_s = Map.keys(marked)
+    |> Enum.sort()
 
-#    IEx.pry()
+    text = marked_print("%{\n", marked, id_m_s)
+    <> "}\n"
 
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_ex.txt")
+
+    File.write(filepath, text)
+  end
+
+  def marked_print(input, _marked, []) do
+    # no more id's so done
+    input
+  end
+  def marked_print(input, marked, [id_m | rest_id]) do
+    # get person_m keys
+    person = marked[id_m]
+
+    keys = Map.keys(person)
+    |> Enum.sort()
+
+    input
+    <> "\t" <> inspect(id_m) <> " => %{\n"
+    <> person_m_print("", person, keys)
+    <> "\t}\n"
+    # pipe to recurse to next person
+    |> marked_print(marked, rest_id)
+
+  end
+
+  def person_m_print(input_text, _person, []) do
+    # no more keys so done
+    input_text
+  end
+  def person_m_print(input_text, person, [key | rest_keys]) do
+    input_text
+    <> "      " <> inspect(key) <> ": " <> inspect(person[key]) <> ",\n"
+    # and recurse to next key with above text as input
+    |> person_m_print(person, rest_keys)
   end
 
   @doc """

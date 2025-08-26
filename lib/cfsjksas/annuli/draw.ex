@@ -91,7 +91,7 @@ defmodule Cfsjksas.Annuli.Draw do
     # draw line to inner generation
     child_gen = gen - 1
     child_cfg = Cfsjksas.Annuli.Get.config(child_gen)
-    # child is relation with lsst item lopped off
+    # child is relation with last item lopped off
     child_id = Enum.take(relation,length(relation)-1)
     child = Cfsjksas.Ancestors.GetLineages.person(child_gen, child_id)
 

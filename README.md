@@ -139,3 +139,6 @@ Cfsjksas.Tools.Relation.sector_helper(sectors, gen)
 marked = Cfsjksas.Tools.Relation.mark_lineages(sectors); :ok
 
 Cfsjksas.Tools.Script.setup()
+
+Cfsjksas.Chart.Reduced.main("skinny.2.svg")
+
