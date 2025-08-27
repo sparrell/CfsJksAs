@@ -194,6 +194,10 @@ defmodule Cfsjksas.Chart.Sector do
     # if duplicate-branch, color green
     {"lightgreen", "50%"}
   end
+  defp format(%{duplicate: :redundant} = _person_l) do
+    # if duplicate-branch, color green
+    {"lightgreen", "50%"}
+  end
   defp format(%{immigrant: :ship} = _person_l) do
     # if ship, fill is blue
     {"dodgerblue", "10%"}
