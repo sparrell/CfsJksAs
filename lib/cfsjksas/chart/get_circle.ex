@@ -182,28 +182,22 @@ defmodule Cfsjksas.Chart.GetCircle do
       },
       12 => %{
         layout: :ray1,
-        font_size: "24pt",
-        stroke_width: "5",
+        font_size: "8pt",
+        stroke_width: "1",
       },
       13 => %{
         layout: :ray1,
-        font_size: "24pt",
-        stroke_width: "5"
+        font_size: "8pt",
+        stroke_width: "1"
       },
       14 => %{
         layout: :ray1,
-        font_size: "24pt",
-        stroke_width: "5",
+        font_size: "2pt",
+        stroke_width: "0.25",
       },
     },
   }
 
-  @g11 %{
-    14 => %{
-      15814 => 1976, # 3952
-      15815 => 1977, # 3953
-    }
-  }
 
   def config() do
     @config
@@ -230,9 +224,6 @@ defmodule Cfsjksas.Chart.GetCircle do
     outer_radius(gen - 1)
   end
 
-  def outer_radius(0) do
-    0
-  end
   def outer_radius(gen) do
     inner_radius(gen) + @config.radii[gen]
   end

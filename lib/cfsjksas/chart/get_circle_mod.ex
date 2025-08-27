@@ -235,9 +235,6 @@ defmodule Cfsjksas.Chart.GetCircleMod do
     outer_radius(gen - 1) + @config.radii.band[gen]
   end
 
-  def outer_radius(0) do
-    0
-  end
   def outer_radius(gen) do
     inner_radius(gen) + @config.radii[gen]
   end

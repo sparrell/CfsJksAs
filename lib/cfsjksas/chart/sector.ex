@@ -129,8 +129,8 @@ defmodule Cfsjksas.Chart.Sector do
 
     new_struct(gen, quadrant, sector_number, cfg, person_l, person_a)
     |> add_g11_sector_number(chart_type)
-    |> add_inner_radius()
-    |> add_outer_radius()
+    |> add_inner_radius(chart_type)
+    |> add_outer_radius(chart_type)
     |> add_lower_radians()
     |> add_upper_radians()
     |> add_points(chart_type)
@@ -239,13 +239,24 @@ defmodule Cfsjksas.Chart.Sector do
     end
   end
 
-  defp add_inner_radius(sector) do
-    inner_radius = Cfsjksas.Chart.GetCircleMod.radius(sector.gen - 1)
+  defp add_inner_radius(sector, chart_type) do
+    inner_radius = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.inner_radius(sector.gen)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.inner_radius(sector.gen)
+    end
+
     %Cfsjksas.Chart.Sector{sector | inner_radius: inner_radius }
   end
 
-  defp add_outer_radius(sector) do
-    outer_radius = Cfsjksas.Chart.GetCircleMod.radius(sector.gen)
+  defp add_outer_radius(sector, chart_type) do
+    outer_radius = case chart_type do
+      :circle_chart ->
+        Cfsjksas.Chart.GetCircle.outer_radius(sector.gen)
+      :circle_mod_chart ->
+        Cfsjksas.Chart.GetCircleMod.outer_radius(sector.gen)
+    end
     %Cfsjksas.Chart.Sector{sector | outer_radius: outer_radius }
   end
 
