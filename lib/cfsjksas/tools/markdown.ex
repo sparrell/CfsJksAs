@@ -3,6 +3,12 @@ defmodule Cfsjksas.Tools.Markdown do
 	require IEx
 
 	def person_pages(gen) do
+
+		marked_lineage = Cfsjksas.Tools.Relation.make_lineages()
+    |> Cfsjksas.Tools.Relation.make_sector_lineages()
+    |> Cfsjksas.Tools.Relation.mark_lineages()
+IO.inspect("need to convert person_pages to use marked lineages so can remove dedup")
+
 		dedup_relations = Cfsjksas.Tools.Relation.dedup()
 		people_keys = Map.keys(dedup_relations[gen])
 		person_page(people_keys, gen, dedup_relations)

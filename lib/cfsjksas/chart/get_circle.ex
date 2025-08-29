@@ -193,7 +193,7 @@ defmodule Cfsjksas.Chart.GetCircle do
       14 => %{
         layout: :ray1,
         font_size: "2pt",
-        stroke_width: "0.25",
+        stroke_width: "1",
       },
     },
   }

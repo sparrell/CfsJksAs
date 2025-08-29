@@ -129,16 +129,16 @@ defmodule Cfsjksas.Chart.Svg do
 
   end
 
-  def draw_sector(svg, id_l,
+  def draw_sector(svg, _id_l,
         %{duplicate: :redundant} = _person_l,
-        id_a, person_a, cfg, lineage, :circle_mod_chart) do
+        _person_a, _cfg, :circle_mod_chart) do
     # if redundant duplicate, and chart_type is circle_mod, don't add sector
     svg
   end
-  def draw_sector(svg, id_l, person_l, id_a, person_a, cfg, lineage, chart_type) do
+  def draw_sector(svg, id_l, person_l, person_a, cfg, chart_type) do
     # draw shape for this person
     Cfsjksas.Chart.Sector.make(id_l, person_l, person_a, cfg, chart_type)
-    |> make_shape_svg(person_l, svg, chart_type)
+    |> make_shape_svg(svg, chart_type)
 
   end
 
@@ -179,7 +179,7 @@ defp make_name_text(id, font_size, text) do
     <> " L " <> to_string(end_x) <> "," <> to_string(end_y) <> "\" />\n"
   end
 
-  def make_shape_svg(sector, person_l, svg, chart_type) do
+  defp make_shape_svg(sector, svg, chart_type) do
 
     # make shape svg
     ## consists of defs to define path and clipping path

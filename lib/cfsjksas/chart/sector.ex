@@ -131,8 +131,8 @@ defmodule Cfsjksas.Chart.Sector do
     |> add_g11_sector_number(chart_type)
     |> add_inner_radius(chart_type)
     |> add_outer_radius(chart_type)
-    |> add_lower_radians()
-    |> add_upper_radians()
+    |> add_lower_radians(chart_type)
+    |> add_upper_radians(chart_type)
     |> add_points(chart_type)
 
   end
@@ -145,6 +145,8 @@ defmodule Cfsjksas.Chart.Sector do
     layout = cfg.layout
     # reverse
     reverse = quadrant_reverse(quad)
+    # line size is from config
+    stroke_width = cfg.stroke_width
     # line color is function of male or female
     line_color = line_color(person_l.relation)
     # fill/fill_opacity is function of immigrant, duplicate, brickwall
@@ -167,13 +169,15 @@ defmodule Cfsjksas.Chart.Sector do
       death_year: death_year,
       layout: layout,
       reverse: reverse,
+      stroke_width: stroke_width,
       line_color: line_color,
       fill: fill,
       fill_opacity: opacity,
     }
   end
 
-  defp add_g11_sector_number(%{gen: 14} = sector, :circle_mod_chart) do
+  defp add_g11_sector_number(%{gen: gen} = sector, :circle_mod_chart)
+      when gen in [12, 13, 14] do
     # adjust placement for sectors in generations above 11
     ## using 11 size sectors
     ## lookup using get
@@ -182,6 +186,13 @@ defmodule Cfsjksas.Chart.Sector do
       IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
       IEx.pry() # oops need to enter this data
     end
+
+debug = "gen = #{gen}, "
+<> "old sector = #{sector.sector_num}, "
+<> "new sector = #{gen11_sector_num},"
+<> "name = #{sector.given_name} #{sector.surname}"
+IO.inspect(debug)
+
     %{sector | gen11_sector_num: gen11_sector_num}
   end
   defp add_g11_sector_number(sector, _chart_type) do
@@ -239,33 +250,48 @@ defmodule Cfsjksas.Chart.Sector do
     end
   end
 
-  defp add_inner_radius(sector, chart_type) do
-    inner_radius = case chart_type do
-      :circle_chart ->
-        Cfsjksas.Chart.GetCircle.inner_radius(sector.gen)
-      :circle_mod_chart ->
-        Cfsjksas.Chart.GetCircleMod.inner_radius(sector.gen)
-    end
-
+  defp add_inner_radius(sector, :circle_chart) do
+    inner_radius = Cfsjksas.Chart.GetCircle.inner_radius(sector.gen)
+    %Cfsjksas.Chart.Sector{sector | inner_radius: inner_radius }
+  end
+  defp add_inner_radius(sector, :circle_mod_chart) do
+    inner_radius = Cfsjksas.Chart.GetCircleMod.inner_radius(sector.gen)
     %Cfsjksas.Chart.Sector{sector | inner_radius: inner_radius }
   end
 
-  defp add_outer_radius(sector, chart_type) do
-    outer_radius = case chart_type do
-      :circle_chart ->
-        Cfsjksas.Chart.GetCircle.outer_radius(sector.gen)
-      :circle_mod_chart ->
-        Cfsjksas.Chart.GetCircleMod.outer_radius(sector.gen)
-    end
+  defp add_outer_radius(sector, :circle_chart) do
+    outer_radius = Cfsjksas.Chart.GetCircle.outer_radius(sector.gen)
+    %Cfsjksas.Chart.Sector{sector | outer_radius: outer_radius }
+  end
+  defp add_outer_radius(sector, :circle_mod_chart) do
+    outer_radius = Cfsjksas.Chart.GetCircleMod.outer_radius(sector.gen)
     %Cfsjksas.Chart.Sector{sector | outer_radius: outer_radius }
   end
 
-  defp add_lower_radians(sector) do
+  defp add_lower_radians(sector, :circle_chart) do
+    lower_radians = sector.sector_num * 2 * :math.pi() / (2 ** sector.gen)
+    %Cfsjksas.Chart.Sector{sector | lower_radians: lower_radians }
+  end
+  defp add_lower_radians(%{gen: gen} = sector, :circle_mod_chart)
+                        when gen in [12, 13, 14] do
+    lower_radians = sector.gen11_sector_num * 2 * :math.pi() / (2 ** 11)
+    %Cfsjksas.Chart.Sector{sector | lower_radians: lower_radians }
+  end
+  defp add_lower_radians(sector, :circle_mod_chart) do
     lower_radians = sector.sector_num * 2 * :math.pi() / (2 ** sector.gen)
     %Cfsjksas.Chart.Sector{sector | lower_radians: lower_radians }
   end
 
-  defp add_upper_radians(sector) do
+  defp add_upper_radians(sector, :circle_chart) do
+    upper_radians = rem(sector.sector_num + 1, 2**sector.gen) * 2 * :math.pi() / (2 ** sector.gen)
+    %Cfsjksas.Chart.Sector{sector | upper_radians: upper_radians }
+  end
+  defp add_upper_radians(%{gen: gen} = sector, :circle_mod_chart)
+                        when gen in [12, 13, 14] do
+    upper_radians = rem(sector.gen11_sector_num + 1, 2**11) * 2 * :math.pi() / (2 ** 11)
+    %Cfsjksas.Chart.Sector{sector | upper_radians: upper_radians }
+  end
+  defp add_upper_radians(sector, :circle_mod_chart) do
     upper_radians = rem(sector.sector_num + 1, 2**sector.gen) * 2 * :math.pi() / (2 ** sector.gen)
     %Cfsjksas.Chart.Sector{sector | upper_radians: upper_radians }
   end

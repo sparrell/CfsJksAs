@@ -283,7 +283,6 @@ defmodule Cfsjksas.Tools.Relation do
     ## but not brickwall is noship or ship
     mother = person_a.mother
     father = person_a.father
-    ship = Map.has_key?(person_a, :ship)
 
     # update person. immigrant, duplicate, brickwall
     #
@@ -291,7 +290,7 @@ defmodule Cfsjksas.Tools.Relation do
     |> put_in([{gen, quadrant, sector}, :immigrant], immigrant)
     |> put_in([{gen, quadrant, sector}, :duplicate], duplicate)
     |> put_in([{gen, quadrant, sector}, :brickwall], false)
-    |> add_brickwalls(mother, father, person_l, person_a, duplicate, ship)
+    |> add_brickwalls(person_l, person_a, duplicate)
     |> mark_redundants(duplicate, mother, father),
     mains}
     |> mark_single_lineage(rest_gen_tuples)
@@ -302,36 +301,51 @@ defmodule Cfsjksas.Tools.Relation do
     lineage
   end
 
-  # add_brickwalls edits the lineage of branch to be redundant
-  ## add_brickwalls(lineages, mother, father, person_l, person_a, ship)
-  defp add_brickwalls(lineages, _mother, _father, _person_l,
-      _person_a, _duplicate, true) do
-    # has ship so not brickwall regardless of parents
-    lineages
-  end
-  defp add_brickwalls(lineages, nil, nil, person_l, person_a, duplicate, false) do
-    # no mother or father so add sector for both
-    {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
-    {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
-    lineages
-    |> put_in([father_tuple_id], father)
-    |> put_in([mother_tuple_id], mother)
-  end
-  defp add_brickwalls(lineages, _mother, nil, person_l, person_a, duplicate, false) do
-    # has mother but no father, so add father brickwall sector
-    {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
-    lineages
-    |> put_in([father_tuple_id], father)
-  end
-  defp add_brickwalls(lineages, nil, _father, person_l, person_a, duplicate, false) do
-    # has father but no mother, so add mother brickwall sector
-    {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
-    lineages
-    |> put_in([mother_tuple_id], mother)
-  end
-  defp add_brickwalls(lineages, _mother, _father, _person_l, _person_a, _duplicate, false) do
-    # has father and mother so not a brickwall, so lineages unchanged
-    lineages
+  defp add_brickwalls(lineages, person_l, person_a, duplicate) do
+    # add in brickwall status, including of missing parents
+
+    # calculate some precursors
+    {gen, sector_num} = person_l.sector
+    id_l = {gen, person_l.quadrant, sector_num}
+    # brickwall of either mother or father, add new sectors in as brickwalls
+    ## but not brickwall is noship or ship
+    mother = person_a.mother
+    father = person_a.father
+    ship = Map.has_key?(person_a, :ship)
+    brickwall = Map.has_key?(person_l, :brickwall) and person_l.brickwall
+
+    cond do
+      brickwall ->
+        # already a brickwall, leave unchanged
+        lineages
+      unknown(person_a.surname) ->
+        # if don't know surname, mark person as brickwall
+        put_in(lineages, [id_l, :brickwall], true)
+      ship ->
+        # has ship so not brickwall regardless of parents
+        lineages
+      mother == nil and father == nil ->
+        # no mother or father so add sector for both
+        {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
+        {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
+        lineages
+        |> put_in([father_tuple_id], father)
+        |> put_in([mother_tuple_id], mother)
+      father == nil ->
+        # has mother but no father, so add father brickwall sector
+        {father_tuple_id, father} = add_bw_mom_or_dad(:father, person_l, person_a, duplicate)
+        lineages
+        |> put_in([father_tuple_id], father)
+      mother == nil ->
+        # has father but no mother, so add mother brickwall sector
+        {mother_tuple_id, mother} = add_bw_mom_or_dad(:mother, person_l, person_a, duplicate)
+        lineages
+        |> put_in([mother_tuple_id], mother)
+      true ->
+        # not a brickwall
+        put_in(lineages, [id_l, :brickwall], false)
+    end
+
   end
 
   defp add_bw_mom_or_dad(parent, person_l, person_a, duplicate) do
@@ -475,6 +489,33 @@ defmodule Cfsjksas.Tools.Relation do
         marked[child_id].duplicate
       false ->
         :main
+    end
+  end
+
+#  # add brickwall is surname is unknown
+#  defp find_unknowns(marked_lineages, true, {gen, quadrant, sector}) do
+#    # surname is unknown
+#    put_in(marked_lineages, [{gen, quadrant, sector}, :brickwall], true)
+#  end
+#  defp find_unknowns(marked_lineages, false, {_gen, _quadrant, _sector}) do
+#    # surname is unknown
+#    marked_lineages
+#  end
+
+  # return true if surname blank or unknow, false otherwise
+  def unknown(surname) do
+    cond do
+      is_nil(surname) ->
+        true
+      surname == "" ->
+        true
+      is_binary(surname) and (
+        String.starts_with?(surname, "unknow") or
+        String.starts_with?(surname, "Unknow")
+      ) ->
+        true
+      true ->
+        false
     end
   end
 

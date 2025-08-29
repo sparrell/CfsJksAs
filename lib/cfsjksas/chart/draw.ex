@@ -54,7 +54,7 @@ defmodule Cfsjksas.Chart.Draw do
     person_a = Cfsjksas.Ancestors.GetAncestors.person(id_a)
 
     svg
-    |> Cfsjksas.Chart.Svg.draw_sector(id_l, person_l, id_a, person_a, cfg, lineage, chart_type)
+    |> Cfsjksas.Chart.Svg.draw_sector(id_l, person_l, person_a, cfg, chart_type)
     # recurse to next person
     |> draw_person(gen, cfg, lineage, rest_keys, chart_type)
 
