@@ -519,6 +519,26 @@ defmodule Cfsjksas.Tools.Relation do
     end
   end
 
+  @doc """
+  make map with relation as key with id_m and id_a as values
+  """
+  def make_relation_ids(marked_lineages) do
+    # start with empty map
+    # for each entry in marked_lineages,
+    ## make a new entry with relation as key
+    ## and id_m and id_a as values
+
+
+    Enum.reduce(marked_lineages, %{}, fn {top_key, inner_map}, acc ->
+      rel_val = Map.get(inner_map, :relation)
+      ida_val = Map.get(inner_map, :id)
+
+      Map.put(acc, rel_val, %{id_m: top_key, id_a: ida_val})
+    end)
+
+
+  end
+
 
 ####################
  @doc """

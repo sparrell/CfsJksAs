@@ -2,6 +2,10 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	require IEx
 
+	def person_pages(:all) do
+		Enum.each(0..14, fn gen -> person_pages(gen) end)
+	end
+
 	def person_pages(gen) do
 
 		marked_lineages = Cfsjksas.Tools.Relation.make_lineages()
