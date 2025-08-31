@@ -15,8 +15,6 @@ Cfsjksas.Tools.Relation.dedup()
 
 ## make svg
 
-Cfsjksas.Hybrid.Create.main("hybrid.2.svg")
-
 ## check if missing links
 
 gen=3
@@ -140,6 +138,6 @@ marked = Cfsjksas.Tools.Relation.mark_lineages(sectors); :ok
 
 Cfsjksas.Tools.Script.setup()
 
-Cfsjksas.Chart.CircleMod.main("skinny.2.svg")
+Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 
-Cfsjksas.Chart.Circle.main("circle.1.svg")
+Cfsjksas.Chart.Circle.main("circle.svg")

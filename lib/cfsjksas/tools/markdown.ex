@@ -4,23 +4,37 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def person_pages(gen) do
 
-		marked_lineage = Cfsjksas.Tools.Relation.make_lineages()
+		marked_lineages = Cfsjksas.Tools.Relation.make_lineages()
     |> Cfsjksas.Tools.Relation.make_sector_lineages()
     |> Cfsjksas.Tools.Relation.mark_lineages()
 IO.inspect("need to convert person_pages to use marked lineages so can remove dedup")
 
-		dedup_relations = Cfsjksas.Tools.Relation.dedup()
-		people_keys = Map.keys(dedup_relations[gen])
-		person_page(people_keys, gen, dedup_relations)
+#		dedup_relations = Cfsjksas.Tools.Relation.dedup()
+#		people_keys = Map.keys(dedup_relations[gen])
+#		person_page(people_keys, gen, dedup_relations)
+
+		people_keys = marked_lineages
+		|> Enum.filter(fn {{l_gen, _quadrant, _sector}, _value} ->
+      gen == l_gen
+      end)
+		|> Enum.map(fn
+		{{gen, quadrant, sector}, _value} ->
+			{gen, quadrant, sector}
+		end)
+
+		person_page(people_keys, gen, marked_lineages)
 	end
 
-	def person_page([], gen, _dedup_relations) do
+	def person_page([], gen, _marked_lineages) do
 		# done
 		IO.inspect(gen, label: "finished")
 	end
-	def person_page([this_relation | rest_relations], gen, dedup_relations) do
+	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
+IO.inspect(this_id_l, label: "personpage this_relation")
+#		person = dedup_relations[gen][this_relation]
+		person = marked_lineages[this_id_l]
+		this_relation = person.relation
 
-		person = dedup_relations[gen][this_relation]
 		filepath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc)
 
 		check_facts(person.id)
@@ -33,7 +47,7 @@ IO.inspect("need to convert person_pages to use marked lineages so can remove de
 		<> make_ship(person, Map.has_key?(person, :ship))
 		<> make_no_ship(person, Map.has_key?(person, :no_ship))
 		<> "\n== Family\n"
-		<> make_family(person, gen, dedup_relations)
+		<> make_family(person, gen, marked_lineages)
 		<> "\n== Reference Links\n"
 		<> make_refs(person,this_relation)
 		<> "\n== Relations\n"
@@ -47,7 +61,7 @@ IO.inspect("need to convert person_pages to use marked lineages so can remove de
 		IO.inspect(this_relation, label: "wrote")
 
 		# recurse thru rest
-		person_page(rest_relations, gen, dedup_relations)
+		person_page(rest_id_ls, gen, marked_lineages)
 	end
 
 	def get_dates(person) do
@@ -110,6 +124,7 @@ IO.inspect("need to convert person_pages to use marked lineages so can remove de
 	end
 
 	def make_refs(person_r, relation) do
+IO.inspect(person_r)
 		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(relation)
 		<> Cfsjksas.Tools.Link.wikipedia(person_p)
@@ -457,10 +472,7 @@ IO.inspect("need to convert person_pages to use marked lineages so can remove de
 	"""
 	def check_facts(person_id) do
 		# keys already covered
-		already = Cfsjksas.Hybrid.Get.other()
-		  ++ Cfsjksas.Hybrid.Get.vitals()
-		  ++ Cfsjksas.Hybrid.Get.dontcare()
-		  ++ Cfsjksas.Hybrid.Get.links()
+		already = Cfsjksas.Chart.GetCircle.already()
 
 		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
 

@@ -78,6 +78,7 @@ defmodule Cfsjksas.Chart.GetCircle do
         :death_source,
       ],
       links: [
+        :links,
         :geni,
         :werelate,
         :myheritage,
@@ -250,6 +251,27 @@ defmodule Cfsjksas.Chart.GetCircle do
   end
   def quadrant_sweep(:se) do
     "0"
+  end
+
+  def other() do
+    @config.already.other
+  end
+
+  def vitals() do
+    @config.already.vitals
+  end
+
+  def links() do
+    @config.already.links
+  end
+
+  def dontcare() do
+    # person keys already covered or don't care about
+    @config.already.dontcare
+  end
+
+  def already() do
+    other() ++ vitals() ++ links() ++ dontcare()
   end
 
 end

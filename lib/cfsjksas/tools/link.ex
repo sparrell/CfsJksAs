@@ -11,6 +11,8 @@ defmodule Cfsjksas.Tools.Link do
   @datapath "static/data/"
   @adocpath "static/temp/"
 
+  require IEx
+
 
 	@doc """
 	given a person, create a hyperlink to that person
@@ -47,6 +49,7 @@ defmodule Cfsjksas.Tools.Link do
 
   def werelate(person_p) do
     # print werelate link if present, or TBD if not
+IEx.pry()
     url = Map.get(person_p, :werelate)
     case url do
       nil ->
