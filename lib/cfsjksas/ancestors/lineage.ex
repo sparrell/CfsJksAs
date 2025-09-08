@@ -18,7 +18,7 @@ defmodule Cfsjksas.Ancestors.Lineage do
   """
   def a_id_from_relation(relation) do
     # get all keys
-    a_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    a_ids = Cfsjksas.Chart.AgentStores.all_a_ids
     # look thru them till find one with relation
     a_id_from_relation(relation, a_ids)
   end
@@ -27,7 +27,8 @@ defmodule Cfsjksas.Ancestors.Lineage do
     IO.inspect("did not find relation")
   end
   def a_id_from_relation(relation, [a_id | rest_a_ids]) do
-    ancestor = Cfsjksas.Ancestors.GetAncestors.person(a_id)
+    ancestor = Cfsjksas.Chart.AgentStores.get_person_a(a_id)
+
     case relation in ancestor.relation_list do
       true ->
         #found ancestor with relation in relation list
@@ -43,7 +44,7 @@ defmodule Cfsjksas.Ancestors.Lineage do
   """
   def mother(relation) do
     relation_a_id = a_id_from_relation(relation)
-    person = Cfsjksas.Ancestors.GetAncestors.person(relation_a_id)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(relation_a_id)
     Map.get(person, :mother, nil)
   end
 
@@ -52,7 +53,7 @@ defmodule Cfsjksas.Ancestors.Lineage do
   """
   def father(relation) do
     relation_a_id = a_id_from_relation(relation)
-    person = Cfsjksas.Ancestors.GetAncestors.person(relation_a_id)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(relation_a_id)
     Map.get(person, :father, nil)
   end
 
@@ -80,7 +81,7 @@ defmodule Cfsjksas.Ancestors.Lineage do
     # get full relation person
     person_r = Cfsjksas.Ancestors.GetLineages.person(gen, next_person)
     # get full people person
-    person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
+    person_p = Cfsjksas.Chart.AgentStores.get_person_a(person_r.id)
     # see if they have key
     case Map.has_key?(person_p, key) do
       true ->

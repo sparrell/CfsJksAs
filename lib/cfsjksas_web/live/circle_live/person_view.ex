@@ -14,24 +14,21 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       :p0005
     end
 
-    person = Cfsjksas.Ancestors.GetAncestors.person(person_of_interest)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(person_of_interest)
     person_txt = Cfsjksas.Circle.Geprint.print_person(person)
 
     surname = to_string(person.surname)
     given_name = to_string(person.given_name)
 
-    # take random (first) relation to find father and mother
-    [relation | _rest ] = person.relation_list
-    father_result = Cfsjksas.Ancestors.Lineage.father(relation)
-    father =  case father_result do
+    father =  case person.father do
       nil -> ""
-      _ -> to_string(father_result)
+      _ -> to_string(person.father)
     end
-    mother_result = Cfsjksas.Ancestors.Lineage.mother(relation)
-    mother =  case mother_result do
+    mother =  case person.mother do
       nil -> ""
-      _ -> to_string(mother_result)
-    end
+      _ -> to_string(person.mother)
+   end
+
     get_urls? = Map.has_key?(person, :urls)
     urls = case get_urls? do
       false -> []

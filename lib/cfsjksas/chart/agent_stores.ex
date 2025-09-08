@@ -1,28 +1,32 @@
 defmodule Cfsjksas.Chart.AgentStores do
   @moduledoc """
-  make 'reduced circle' svg
-  ie duplicates removed
+  routines for accessing data in the Agent storage
+  - get_ancestors()
+        get entire ancestor map
+  - get_person_a(id_a)
+        get one person from ancestor
+  - all_a_ids()
+        get list of all ancestor id's
+  - get_marked_lineages()
+        get entire marked lineage map
+  - get_person_m(id_m)
+        get person from marked lineage map using {gen, quad, sector} id
+  - all_m_ids()
+        get list of marked lineage id's
+  - m_ids_by_gen
+        list all the m_id's in a generation
+  - get_relation_map()
+        get entire relation map (key is relation, value id_a, id_m)
+  - get_person_r(id_r)
+        get person from relation map
+  - all_r_ids()
+        list all of id_r
+  - id_a_by_gen()
+        list of ancestor id's sorted by generation of 'main' marked lineag
   """
 
   @doc """
-  creates agents for 3 data stores:
-  - :ancestors
-  - :marked_lineages
-  - :relation_ids
   """
-  def init() do
-    ancestors = Cfsjksas.Ancestors.GetAncestors.all_ancestors()
-    {:ok, _pid} = Agent.start_link(fn -> ancestors end, name: :ancestors)
-
-    marked_lineages = Cfsjksas.Tools.Relation.make_lineages()
-    |> Cfsjksas.Tools.Relation.make_sector_lineages()
-    |> Cfsjksas.Tools.Relation.mark_lineages()
-    {:ok, _pid} = Agent.start_link(fn -> marked_lineages end, name: :marked_lineages)
-
-    relation_map = Cfsjksas.Tools.Relation.make_relation_ids(marked_lineages)
-    {:ok, _pid} = Agent.start_link(fn -> relation_map end, name: :relation_map)
-
-  end
 
   def get_ancestors() do
     Agent.get(:ancestors, fn map -> map end)
@@ -82,7 +86,17 @@ defmodule Cfsjksas.Chart.AgentStores do
 
   def all_r_ids() do
     Agent.get(:relation_map, fn map -> Map.keys(map) end)
-    |> Enum.sort()
+    |> Enum.sort_by(fn relation ->
+      {length(relation), relation}
+    end)
+
+  end
+
+  def id_a_by_gen() do
+    all_r_ids()
+    |> Enum.map(fn id_r ->
+      get_person_r(id_r).id_a
+    end)
   end
 
 end

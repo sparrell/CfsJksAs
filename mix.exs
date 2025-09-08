@@ -40,7 +40,7 @@ defmodule Cfsjksas.MixProject do
       {:phoenix_live_reload, "~> 1.2", only: :dev},
       # TODO bump on release to {:phoenix_live_view, "~> 1.0.0"},
       {:phoenix_live_view, "~> 1.0.0-rc.1", override: true},
-      {:floki, ">= 0.30.0", only: :test},
+      {:floki, ">= 0.30.0"},
       {:phoenix_live_dashboard, "~> 0.8.3"},
       {:esbuild, "~> 0.8", runtime: Mix.env() == :dev},
       {:tailwind, "~> 0.2", runtime: Mix.env() == :dev},
@@ -59,7 +59,11 @@ defmodule Cfsjksas.MixProject do
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
       {:complex, "~> 0.5.0"},
-      {:bandit, "~> 1.5"}
+      {:bandit, "~> 1.5"},
+      {:req, "~> 0.5.0"},
+      {:req_easyhtml, "~> 0.2.0"},
+      {:lazy_html, "~> 0.1.7"},
+      {:easyhtml, "~> 0.4.0"},
     ]
   end
 

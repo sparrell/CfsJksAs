@@ -36,7 +36,7 @@ defmodule Cfsjksas.Ancestors.GetLineages do
       nil ->
         # oops, need to find the duplicate
         a_id = Cfsjksas.Tools.Relation.find_a_id_from_relation(relation)
-        Cfsjksas.Ancestors.GetAncestors.person(a_id)
+        Cfsjksas.Chart.AgentStores.get_person_a(a_id)
       _ ->
         # non-nil so return it
         person_r
@@ -61,12 +61,12 @@ IO.inspect(relation, label: "relation1")
   def person_from_dup_relation(relation) do
 IO.inspect(relation, label: "relation2")
 
-    all_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    all_ids = Cfsjksas.Chart.AgentStores.all_a_ids
     person_from_dup_relation(relation, all_ids)
   end
   def person_from_dup_relation(relation, [this_id | rest_ids]) do
     # see if this person has relation in it's list
-    person_p = Cfsjksas.Ancestors.GetAncestors.person(this_id)
+    person_p = Cfsjksas.Chart.AgentStores.get_person_a(this_id)
     case relation in person_p.relation_list do
       true ->
         # this is id of person but need to return person_r

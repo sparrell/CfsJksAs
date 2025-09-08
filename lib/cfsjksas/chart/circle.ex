@@ -5,9 +5,7 @@ defmodule Cfsjksas.Chart.Circle do
 
   def main(filename) do
     # get marked relations data
-    Cfsjksas.Tools.Relation.make_lineages()
-    |> Cfsjksas.Tools.Relation.make_sector_lineages()
-    |> Cfsjksas.Tools.Relation.mark_lineages()
+    Cfsjksas.Chart.AgentStores.get_marked_lineages()
     # and draw it
     |> Cfsjksas.Chart.Draw.main(:circle_chart)
     |> Cfsjksas.Chart.Svg.finish()

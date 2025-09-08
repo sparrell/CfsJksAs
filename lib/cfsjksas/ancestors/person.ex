@@ -58,7 +58,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
 
   def ship(id) do
-    person = Cfsjksas.Ancestors.GetAncestors.person(id)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
 		if person == nil do
 			IEx.pry()
 		end
@@ -113,7 +113,7 @@ defmodule Cfsjksas.Ancestors.Person do
     terminations
   end
   defp brick_walls([id | rest], terminations) do
-    person = Cfsjksas.Ancestors.GetAncestors.person(id)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
     termination = case categorize_person(id) do
       :not -> []
       :ship -> []
@@ -150,7 +150,7 @@ defmodule Cfsjksas.Ancestors.Person do
 
   def categorize() do
     # categorize everyone as brickwall, known_ship, etc
-    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    all_people = Cfsjksas.Chart.AgentStores.all_a_ids()
     categorize(all_people, {[],[],[],[],[],[],[]})
   end
   defp categorize([], category_lists) do
@@ -234,14 +234,12 @@ defmodule Cfsjksas.Ancestors.Person do
     if id == nil do
       IEx.pry()
     end
-    person = Cfsjksas.Ancestors.GetAncestors.person(id)
-    if person == nil do
+    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
+if person == nil do
       IEx.pry()
     end
-    relations = person.relation_list
-    [relation | _others] = relations
-    mother = Cfsjksas.Ancestors.Lineage.mother(relation)
-    father = Cfsjksas.Ancestors.Lineage.father(relation)
+    mother = person.mother
+    father = person.father
     has_ship? = Map.has_key?(person, :ship)
     categorize_person(id, has_ship?, mother, father, person)
   end
@@ -309,7 +307,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
   defp surnames([id | rest], surname_map) do
     # get surname of this person
-    person = Cfsjksas.Ancestors.GetAncestors.person(id)
+    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
     surname = get_surname(person.surname)
 
     # if surname in map, add this person otherwise add surname with this person

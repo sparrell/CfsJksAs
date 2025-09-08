@@ -14,6 +14,18 @@ defmodule Cfsjksas.Application do
       {Phoenix.PubSub, name: Cfsjksas.PubSub},
       # Start the Finch HTTP client for sending emails
       {Finch, name: Cfsjksas.Finch},
+      # start the 3 Agents for storing data
+      Cfsjksas.Ancestors.StoreAncestor,
+      Cfsjksas.Ancestors.StoreMarked,
+      Cfsjksas.Ancestors.StoreRelationMap,
+      # start some dev counters
+      Cfsjksas.DevTools.StoreLinkAlready,
+      Cfsjksas.DevTools.StoreNoFather,
+      Cfsjksas.DevTools.StoreNoMother,
+      Cfsjksas.DevTools.StoreUpdatingLink,
+      Cfsjksas.DevTools.StoreNoLinkYet,
+      Cfsjksas.DevTools.StoreCountPeople,
+      Cfsjksas.DevTools.StoreNilPerson,
       # Start a worker by calling: Cfsjksas.Worker.start_link(arg)
       # {Cfsjksas.Worker, arg},
       # Start to serve requests, typically the last entry

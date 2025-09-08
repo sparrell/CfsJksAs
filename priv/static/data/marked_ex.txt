@@ -14633,15 +14633,6 @@
       :relation: ["P", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M", "M"],
       :sector: {12, 1631},
 	}
-	{12, :nw, 1652} => %{
-      :brickwall: false,
-      :duplicate: :redundant,
-      :id: :p0919,
-      :immigrant: :no,
-      :quadrant: :nw,
-      :relation: ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"],
-      :sector: {12, 1652},
-	}
 	{12, :nw, 1654} => %{
       :brickwall: false,
       :duplicate: :redundant,
@@ -15659,15 +15650,6 @@
       :relation: ["M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M", "M"],
       :sector: {12, 3679},
 	}
-	{12, :se, 3700} => %{
-      :brickwall: false,
-      :duplicate: :main,
-      :id: :p0919,
-      :immigrant: :no,
-      :quadrant: :se,
-      :relation: ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"],
-      :sector: {12, 3700},
-	}
 	{12, :se, 3702} => %{
       :brickwall: false,
       :duplicate: :main,
@@ -16622,24 +16604,6 @@
       :relation: ["P", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M", "P", "M"],
       :sector: {13, 3261},
 	}
-	{13, :nw, 3304} => %{
-      :brickwall: true,
-      :duplicate: :redundant,
-      :id: "father of p0919",
-      :immigrant: :no,
-      :quadrant: :nw,
-      :relation: ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P", "P"],
-      :sector: {13, 3304},
-	}
-	{13, :nw, 3305} => %{
-      :brickwall: true,
-      :duplicate: :redundant,
-      :id: "mother of p0919",
-      :immigrant: :no,
-      :quadrant: :nw,
-      :relation: ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P", "M"],
-      :sector: {13, 3305},
-	}
 	{13, :nw, 3658} => %{
       :brickwall: true,
       :duplicate: :redundant,
@@ -16954,24 +16918,6 @@
       :quadrant: :se,
       :relation: ["M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M", "P", "M"],
       :sector: {13, 7357},
-	}
-	{13, :se, 7400} => %{
-      :brickwall: true,
-      :duplicate: :main,
-      :id: "father of p0919",
-      :immigrant: :no,
-      :quadrant: :se,
-      :relation: ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P", "P"],
-      :sector: {13, 7400},
-	}
-	{13, :se, 7401} => %{
-      :brickwall: true,
-      :duplicate: :main,
-      :id: "mother of p0919",
-      :immigrant: :no,
-      :quadrant: :se,
-      :relation: ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P", "M"],
-      :sector: {13, 7401},
 	}
 	{13, :se, 7754} => %{
       :brickwall: true,

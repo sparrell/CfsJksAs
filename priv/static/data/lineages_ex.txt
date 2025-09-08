@@ -9841,7 +9841,7 @@
         surname: "Fox",
         birth_year: "1619",
         death_year: "1658",
-        father: :p0919,
+        father: nil,
         mother: nil,
         sector: 1850
       },
@@ -10006,7 +10006,7 @@
         surname: "Fox",
         birth_year: "1619",
         death_year: "1658",
-        father: :p0919,
+        father: nil,
         mother: nil,
         sector: 826
       },
@@ -15754,17 +15754,6 @@
         mother: nil,
         sector: 3877
       },
-      ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"] => %{
-        id: :p0919,
-        relation: ["P", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"],
-        given_name: "Samuel",
-        surname: "Fox",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 1652
-      },
       ["M", "M", "M", "M", "P", "M", "P", "M", "P", "P", "M", "M"] => %{
         id: :p0591,
         relation: ["M", "M", "M", "M", "P", "M", "P", "M", "P", "P", "M", "M"],
@@ -15863,17 +15852,6 @@
         father: nil,
         mother: nil,
         sector: 1360
-      },
-      ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"] => %{
-        id: :p0919,
-        relation: ["M", "M", "M", "P", "P", "M", "M", "M", "P", "M", "P", "P"],
-        given_name: "Samuel",
-        surname: "Fox",
-        birth_year: "?",
-        death_year: "?",
-        father: nil,
-        mother: nil,
-        sector: 3700
       },
       ["P", "M", "M", "M", "P", "P", "M", "P", "P", "M", "M", "M"] => %{
         id: :p0707,

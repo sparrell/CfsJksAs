@@ -187,11 +187,11 @@ defmodule Cfsjksas.Chart.Sector do
       IEx.pry() # oops need to enter this data
     end
 
-debug = "gen = #{gen}, "
-<> "old sector = #{sector.sector_num}, "
-<> "new sector = #{gen11_sector_num},"
-<> "name = #{sector.given_name} #{sector.surname}"
-IO.inspect(debug)
+#debug = "gen = #{gen}, "
+#<> "old sector = #{sector.sector_num}, "
+#<> "new sector = #{gen11_sector_num},"
+#<> "name = #{sector.given_name} #{sector.surname}"
+#IO.inspect(debug)
 
     %{sector | gen11_sector_num: gen11_sector_num}
   end

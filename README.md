@@ -7,9 +7,26 @@ and Ann Sparrell (AS).
 
 ## 3 Start Phoenix endpoint with `mix phx.server` or inside IEx with
 
-  iex -S mix phx.server
+iex -S mix phx.server
 
-## make dedup file (usually won't need to)
+## make circle chart
+
+Cfsjksas.Chart.Circle.main("circle.svg")
+
+## make circlemod chart
+
+Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
+
+## make adoc pages
+
+gen=3
+Cfsjksas.Tools.Markdown.person_pages(gen)
+
+Cfsjksas.Tools.Markdown.person_pages(:all)
+
+## Cruft beyond here
+
+make dedup file (usually won't need to)
 
 Cfsjksas.Tools.Relation.dedup()
 
@@ -85,8 +102,6 @@ Cfsjksas.Annuli.Create.make_annuli(:annuli_base, "ancestors_annuli.svg")
 
 ## start with static/data/people_ex.txt
 
-ancestors = Cfsjksas.Ancestors.GetAncestors.all_ancestors()
-
 ## do whatever to change data
 
 outtext = Cfsjksas.Tools.Print.format_ancestor_map()
@@ -138,6 +153,4 @@ marked = Cfsjksas.Tools.Relation.mark_lineages(sectors); :ok
 
 Cfsjksas.Tools.Script.setup()
 
-Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
-
-Cfsjksas.Chart.Circle.main("circle.svg")
+Cfsjksas.Links.FindLink.werelate(:p0005)
