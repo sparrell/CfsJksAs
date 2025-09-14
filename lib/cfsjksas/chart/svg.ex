@@ -11,9 +11,12 @@ defmodule Cfsjksas.Chart.Svg do
         Cfsjksas.Chart.GetCircleMod.path(filename)
     end
 
-    File.write(filepath, svgtext)
-    test_filepath = filepath <> ".txt"
-    File.write(test_filepath, svgtext)
+    # write svg file
+    Cfsjksas.Tools.Print.write_file(svgtext, filepath)
+    # write text version of svg (for easier search)
+    text_filepath = filepath <> ".txt"
+    Cfsjksas.Tools.Print.write_file(svgtext, text_filepath)
+
   end
 
   def beg(chart_type) do

@@ -41,10 +41,18 @@ defmodule Cfsjksas.Links.FindLink do
     no_mother = Cfsjksas.DevTools.StoreNoMother.value()
     IO.inspect("no mother #{no_mother}")
 
-    updated_ancestors
+    IO.inspect("add in here ")
+
+
     IO.inspect("need to add in updating ancestor map")
     IO.inspect("need to remove these comments and actually return the data")
-    nil
+
+    # write temp file of this data
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/people_try1_ex.txt")
+    updated_ancestors
+    |> Cfsjksas.Tools.Print.format_ancestor_map()
+    |> Cfsjksas.Tools.Print.write_file(filepath)
+    IO.inspect(filepath, label: "wrote ")
   end
   defp werelate(updating_ancestors, [id_a | rest_ids_a]) do
     Cfsjksas.DevTools.StoreCountPeople.increment()
@@ -262,7 +270,7 @@ defmodule Cfsjksas.Links.FindLink do
 
     tree = EasyHTML.to_tree(parent_div)
     # peel ...
-    [{_, _, [f_tup, m_tup]}] = tree
+    [{_, _, [f_tup, _m_tup]}] = tree
     {_, _, [f_tup2, _]} = f_tup
     {_,_,[_, _, f_tup3]} = f_tup2
     {_,[f_tup4,_],_} = f_tup3

@@ -6,7 +6,9 @@ defmodule Cfsjksas.Tools.Print do
 
   def write_file(outtext, filename) do
     # swap order so can use in pipes
-    File.write(filename, outtext)
+    IO.inspect(filename, label: "filename")
+    result = File.write(filename, outtext)
+    IO.inspect(result, label: "result from writing file")
   end
 
   def print_person(person) do
@@ -59,16 +61,18 @@ defmodule Cfsjksas.Tools.Print do
   end
 
   defp marked_print(marked) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_ex.txt")
+
     # sort the keys
     id_m_s = Map.keys(marked)
     |> Enum.sort()
 
-    text = marked_print("%{\n", marked, id_m_s)
+    # format the text
+    outtext = marked_print("%{\n", marked, id_m_s)
     <> "}\n"
 
-    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_ex.txt")
-
-    File.write(filepath, text)
+    # write the file
+    write_file(outtext, filepath)
   end
 
   defp marked_print(input, _marked, []) do

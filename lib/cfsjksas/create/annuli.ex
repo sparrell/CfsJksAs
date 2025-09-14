@@ -21,7 +21,7 @@ defmodule Cfsjksas.Create.Annuli do
     Cfsjksas.Tools.Matrix.init_ancestors()
     |> process(chart)
     |> draw(chart)
-    |> Cfsjksas.Tools.GenPrint.write_file(filepath)
+    |> Cfsjksas.Tools.Print.write_file(filepath)
 
     IO.inspect(filepath, label: "created chart")
   end

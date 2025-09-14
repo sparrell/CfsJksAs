@@ -19,10 +19,25 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 
 ## make adoc pages
 
-gen=3
-Cfsjksas.Tools.Markdown.person_pages(gen)
+* gen=3
+* Cfsjksas.Tools.Markdown.person_pages(gen)
+*  
+* Cfsjksas.Tools.Markdown.person_pages(:all)
+*  
+* todo
+  * fix to use new marked lineage
 
-Cfsjksas.Tools.Markdown.person_pages(:all)
+## add werelate links
+
+* First restart server (to zero counters)
+* Cfsjksas.Links.FindLink.werelate()
+* validate changes and swap temp file into data file
+* to do
+  * write out to temp file
+  * add :links to every person
+  * actually put link in
+  * handle when no werelate page exists yet
+  * decide which parser based on previous bullet
 
 ## Cruft beyond here
 
