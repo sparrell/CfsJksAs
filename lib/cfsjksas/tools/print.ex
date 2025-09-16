@@ -26,7 +26,6 @@ defmodule Cfsjksas.Tools.Print do
     text
   end
   def print_person(text, [this | rest], person) do
-    #new = text <> "\t\t\t" <> inspect(this, pretty: true, limit: :infinity) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> "\n"
     new = text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
     print_person(new, rest, person)
   end
@@ -35,7 +34,7 @@ defmodule Cfsjksas.Tools.Print do
     # pretty print temp file with ancestor map
     ## people are in sorted surname/given_name order
     ## person keys are in alphabetical order
-    all_people = Enum.sort_by(Map.keys(ancestors_in), & {ancestors_in[&1].surname, ancestors_in[&1].given_name})
+    all_people = Enum.sort_by(Map.keys(ancestors_in), & {ancestors_in[&1].surname, ancestors_in[&1].given_name, ancestors_in[&1].id})
     format_ancestor_map("%{\n", ancestors_in, all_people) <> "}\n"
   end
   def format_ancestor_map(ancestors_out, _ancestors_in, []) do

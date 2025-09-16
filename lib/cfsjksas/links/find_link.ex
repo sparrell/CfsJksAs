@@ -4,6 +4,7 @@ defmodule Cfsjksas.Links.FindLink do
   """
 
   require IEx
+  require MapDiff
 
   @doc """
   walk thru all id_a's in gen order
@@ -18,6 +19,16 @@ defmodule Cfsjksas.Links.FindLink do
     werelate(updating_ancestors, all_ids_a)
   end
   defp werelate(updated_ancestors, []) do
+
+    #pre_ancestors = Cfsjksas.Chart.AgentStores.get_ancestors()
+    #check = MapDiff.diff(pre_ancestors, updated_ancestors)
+    pruned_diff = Cfsjksas.Chart.AgentStores.get_ancestors()
+    |> Cfsjksas.DevTools.CompareMaps.diff(updated_ancestors)
+    IO.inspect("############")
+    IO.inspect(pruned_diff)
+    IO.inspect("############")
+    IO.inspect(length(Map.keys(pruned_diff)))
+
     # done
 
     count = Cfsjksas.DevTools.StoreCountPeople.value()

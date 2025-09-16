@@ -64,6 +64,7 @@ defmodule Cfsjksas.MixProject do
       {:req_easyhtml, "~> 0.2.0"},
       {:lazy_html, "~> 0.1.7"},
       {:easyhtml, "~> 0.4.0"},
+      {:map_diff, "~> 1.3"},
     ]
   end
 
