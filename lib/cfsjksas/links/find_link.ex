@@ -16,9 +16,10 @@ defmodule Cfsjksas.Links.FindLink do
     IO.inspect("length of all_ids_a #{length(all_ids_a)}")
     # initialize updated ancestors with existing ancestor map
     updating_ancestors = Cfsjksas.Chart.AgentStores.get_ancestors()
-    werelate(updating_ancestors, all_ids_a)
+    updates_done = 0
+    werelate(updating_ancestors, all_ids_a, updates_done)
   end
-  defp werelate(updated_ancestors, []) do
+  defp werelate(updated_ancestors, [], _updates_done) do
 
     #pre_ancestors = Cfsjksas.Chart.AgentStores.get_ancestors()
     #check = MapDiff.diff(pre_ancestors, updated_ancestors)
@@ -27,7 +28,7 @@ defmodule Cfsjksas.Links.FindLink do
     IO.inspect("############")
     IO.inspect(pruned_diff)
     IO.inspect("############")
-    IO.inspect(length(Map.keys(pruned_diff)))
+#    IO.inspect(length(Map.keys(pruned_diff)))
 
     # done
 
@@ -65,49 +66,54 @@ defmodule Cfsjksas.Links.FindLink do
     |> Cfsjksas.Tools.Print.write_file(filepath)
     IO.inspect(filepath, label: "wrote ")
   end
-  defp werelate(updating_ancestors, [id_a | rest_ids_a]) do
+  defp werelate(updated_ancestors, _id_list, updates_done)
+      when updates_done > 10 do
+    # only update the first 10 links, then skip to end
+    werelate(updated_ancestors, [], updates_done)
+  end
+  defp werelate(updating_ancestors, [id_a | rest_ids_a], _updates_done) do
     Cfsjksas.DevTools.StoreCountPeople.increment()
 
-#IO.inspect("##### #{id_a} ####")
+  #IO.inspect("##### #{id_a} ####")
 
-  preperson = updating_ancestors[id_a]
-  # some special cases for special cases
-  nil_ok? = case preperson do
-    # note nil_ok? means not nil
-    nil ->
-      false
-    _ ->
-     true
-  end
-  person_a = case preperson do
-    nil ->
-      #fake empty person mapto setup next tests
-    IO.inspect("#{id_a} is empty person")
-      %{}
-    _ ->
-      # otherwise get person from map
-#       IO.inspect("#{preperson.id} #{preperson.given_name} #{preperson.surname}")
-      preperson
-  end
+    preperson = updating_ancestors[id_a]
+    # some special cases for special cases
+    nil_ok? = case preperson do
+      # note nil_ok? means not nil
+      nil ->
+        false
+      _ ->
+       true
+    end
+    person_a = case preperson do
+      nil ->
+        #fake empty person mapto setup next tests
+      IO.inspect("#{id_a} is empty person")
+        %{}
+      _ ->
+        # otherwise get person from map
+  #       IO.inspect("#{preperson.id} #{preperson.given_name} #{preperson.surname}")
+        preperson
+    end
 
-  # skip if person doesn't have links and links.werelate
-  # or if person doesn't has neither mother or father
-  link_ok? = Map.has_key?(person_a, :links)
-            and Map.has_key?(person_a.links, :werelate)
-            and String.valid?(person_a.links.werelate)
-            and String.length(person_a.links.werelate) > 5
-  father_ok? = Map.has_key?(person_a, :father)
-            and is_atom(person_a.father)
-            and not is_nil(person_a.father)
-  mother_ok? = Map.has_key?(person_a, :mother)
-            and is_atom(person_a.mother)
-            and not is_nil(person_a.mother)
+    # skip if person doesn't have links and links.werelate
+    # or if person doesn't has neither mother or father
+    link_ok? = Map.has_key?(person_a, :links)
+              and Map.has_key?(person_a.links, :werelate)
+              and String.valid?(person_a.links.werelate)
+              and String.length(person_a.links.werelate) > 5
+    father_ok? = Map.has_key?(person_a, :father)
+              and is_atom(person_a.father)
+              and not is_nil(person_a.father)
+    mother_ok? = Map.has_key?(person_a, :mother)
+              and is_atom(person_a.mother)
+              and not is_nil(person_a.mother)
 
     # update (or not) ancestors with father/mother links for id_a, and recurse
     updating_ancestors
     |> update_father(nil_ok?, link_ok?, father_ok?, id_a)
     |> update_mother(nil_ok?, link_ok?, mother_ok?, id_a)
-    |> werelate(rest_ids_a)
+    |> werelate(rest_ids_a, Cfsjksas.DevTools.StoreUpdatingLink.value())
 
   end
 
@@ -129,7 +135,7 @@ defmodule Cfsjksas.Links.FindLink do
   defp update_father(updating_ancestors, true = _nil_ok?, true =_link_ok?, true = _father_ok?, id_a) do
     # update father
     # conditions are  met for map to be updated so continue
-    person = Cfsjksas.Ancestors.GetAncestors.person(id_a) # this person
+    person = updating_ancestors[id_a] # this person
     # get this person's werelate link
     page_to_scrape = person.links.werelate
 
@@ -173,7 +179,7 @@ defmodule Cfsjksas.Links.FindLink do
   defp update_mother(updating_ancestors, true = _nil_ok?, true =_link_ok?, true = _mother_ok?, id_a) do
     # update mother
     # conditions are  met for map to be updated so continue
-    person = Cfsjksas.Ancestors.GetAncestors.person(id_a) # this person
+    person = updating_ancestors[id_a] # this person
     # get this person's werelate link
     page_to_scrape = person.links.werelate
 
@@ -206,6 +212,7 @@ defmodule Cfsjksas.Links.FindLink do
     req = (Req.new() |> ReqEasyHTML.attach())
 
     # ping web and get response
+    IO.inspect(page_to_scrape, label: "page_to_scrape")
     response = Req.get!(req, url: page_to_scrape)
 
     # pull the parent div
@@ -245,8 +252,9 @@ defmodule Cfsjksas.Links.FindLink do
   end
 
   def add_father_link(updating_ancestors, father_id_a, dad_link) do
-    IO.inspect("need to do add_father_link for #{father_id_a} #{dad_link}")
-    updating_ancestors
+    IO.inspect("adding  #{father_id_a} #{dad_link}")
+
+    put_in(updating_ancestors[father_id_a][:links][:werelate], dad_link)
   end
 
   def add_mother_link(updating_ancestors, mother_id_a, mom_link) do
