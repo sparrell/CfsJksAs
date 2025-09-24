@@ -19,12 +19,15 @@ defmodule Cfsjksas.Application do
       Cfsjksas.Ancestors.StoreMarked,
       Cfsjksas.Ancestors.StoreRelationMap,
       # start some dev counters
+      Cfsjksas.DevTools.StoreCountPeople,
+      Cfsjksas.DevTools.StoreNoChildMap,
+      Cfsjksas.DevTools.StoreChildNoWerelate,
+      Cfsjksas.DevTools.StoreChildNoWerelateList,
       Cfsjksas.DevTools.StoreLinkAlready,
       Cfsjksas.DevTools.StoreNoFather,
       Cfsjksas.DevTools.StoreNoMother,
       Cfsjksas.DevTools.StoreUpdatingLink,
       Cfsjksas.DevTools.StoreNoLinkYet,
-      Cfsjksas.DevTools.StoreCountPeople,
       Cfsjksas.DevTools.StoreNilPerson,
       # Start a worker by calling: Cfsjksas.Worker.start_link(arg)
       # {Cfsjksas.Worker, arg},

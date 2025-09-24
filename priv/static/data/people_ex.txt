@@ -1216,7 +1216,7 @@
 			graduation: [],
 			id: :p0492,
 			immigration: nil,
-			links: %{},
+			links: %{werelate: "http://werelate.org/wiki/Person:David_Andrews_%2824%29"},
 			married_name: nil,
 			mh_famc: "F305",
 			mh_famc2: nil,
@@ -1765,9 +1765,9 @@
 			id: :p0250,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Rhoda_Andrews_%281%29",
   geni: "https://www.geni.com/people/Rhoda-Gray/6000000080399002073",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000485/rhoda-andrews-gray",
-  werelate: "https://www.werelate.org/wiki/Person:Rhoda_Andrews_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000485/rhoda-andrews-gray"
 },
 			married_name: nil,
 			mh_famc: "F217",
@@ -5186,7 +5186,7 @@
 			graduation: [],
 			id: :p0426,
 			immigration: nil,
-			links: %{},
+			links: %{werelate: "http://werelate.org/wiki/Person:Jacob_Bennett_%285%29"},
 			married_name: nil,
 			mh_famc: "F578",
 			mh_famc2: nil,
@@ -5368,9 +5368,9 @@
 			id: :p0100,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Laura_Bennett_%284%29",
   geni: "https://www.geni.com/people/Laura-Bennett/6000000219179990264",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000329/laura-esther-bennett-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Laura_Bennett_%284%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000329/laura-esther-bennett-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F185",
@@ -7062,8 +7062,8 @@
 			id: :p0038,
 			immigration: nil,
 			links: %{
-  myheritage: "https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI",
   werelate: "https://www.werelate.org/wiki/Person:Peter_Bradley_%281%29",
+  myheritage: "https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI",
   wikitree: "https://www.wikitree.com/wiki/Bradley-34"
 },
 			married_name: nil,
@@ -8252,9 +8252,9 @@
 			id: :p0509,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:William_Brewster_%283%29",
   geni: "https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109",
   myheritage: "https://www.myheritage.com/profile-20674952-23000764/william-brewster",
-  werelate: "https://www.werelate.org/wiki/Person:William_Brewster_%283%29",
   wikitree: "https://www.wikitree.com/wiki/Brewster-4",
   wikipedia: "https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)"
 },
@@ -16443,9 +16443,9 @@
 			id: :p0086,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29",
   geni: "https://www.geni.com/people/Alice-Edgecomb/6000000007698827296",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong",
-  werelate: "https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong"
 },
 			married_name: nil,
 			mh_famc: "F360",
@@ -16506,9 +16506,9 @@
 			id: :p0628,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:George_Edgecomb_%281%29",
   geni: "https://www.geni.com/people/George-Edgecomb/6000000219179990385",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000886/george-washington-edgecomb",
-  werelate: "https://www.werelate.org/wiki/Person:George_Edgecomb_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000886/george-washington-edgecomb"
 },
 			married_name: nil,
 			mh_famc: "F332",
@@ -16627,7 +16627,7 @@
 			graduation: [],
 			id: :p0747,
 			immigration: nil,
-			links: %{},
+			links: %{werelate: "http://werelate.org/wiki/Person:Jabez_Edgecomb_%281%29"},
 			married_name: nil,
 			mh_famc: "F378",
 			mh_famc2: nil,
@@ -16750,9 +16750,9 @@
 			id: :p0650,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Martha_Edgecomb_%281%29",
   geni: "https://www.geni.com/people/Martha-Edgecomb/6000000219179990237",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000908/martha-avery-edgecomb-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Martha_Edgecomb_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000908/martha-avery-edgecomb-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F360",
@@ -17913,9 +17913,9 @@
 			id: :p0188,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Albert_Fisher_%2812%29",
   geni: "https://www.geni.com/people/Albert-Fisher/6000000219179990038",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000422/albert-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Albert_Fisher_%2812%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000422/albert-fisher"
 },
 			married_name: nil,
 			mh_famc: "F67",
@@ -17977,9 +17977,9 @@
 			id: :p0073,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Albert_Fisher_%2810%29",
   geni: "https://www.geni.com/people/Albert-Fisher/6000000219136528890",
-  myheritage: "https://www.myheritage.com/profile-20674952-23000287/albert-amory-fisk-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Albert_Fisher_%2810%29"
+  myheritage: "https://www.myheritage.com/profile-20674952-23000287/albert-amory-fisk-fisher"
 },
 			married_name: nil,
 			mh_famc: "F34",
@@ -18042,9 +18042,9 @@
 			id: :p0247,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Jacob_Fisher_%2818%29",
   geni: "https://www.geni.com/people/Jacob-Fisher/6000000219179990065",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000482/jacob-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Jacob_Fisher_%2818%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000482/jacob-fisher"
 },
 			married_name: nil,
 			mh_famc: nil,
@@ -18106,9 +18106,9 @@
 			id: :p0074,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29",
   geni: "https://www.geni.com/people/Marion-Sparrell/6000000007522238879",
-  myheritage: "https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29"
+  myheritage: "https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F559",
@@ -20324,9 +20324,9 @@
 			id: :p0329,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Emiline_Gleason_%281%29",
   geni: "https://www.geni.com/people/Emiline-Sparrell/6000000007500421270",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Emiline_Gleason_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F587",
@@ -21477,9 +21477,9 @@
 			id: :p0189,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Arvilla_Gray_%281%29",
   geni: "https://www.geni.com/people/Arvilla-Gray/6000000219179990052",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000423/arvilla-gray-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Arvilla_Gray_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000423/arvilla-gray-fisher"
 },
 			married_name: nil,
 			mh_famc: "F68",
@@ -21540,9 +21540,9 @@
 			id: :p0249,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:John_Gray_%28135%29",
   geni: "https://www.geni.com/people/John-Gray/6000000219179990084",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray",
-  werelate: "https://www.werelate.org/wiki/Person:John_Gray_%28135%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray"
 },
 			married_name: nil,
 			mh_famc: "F196",
@@ -21603,9 +21603,9 @@
 			id: :p0495,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:John_Gray_%28135%29",
   geni: "https://www.geni.com/people/John-Gray/6000000219179990084",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray",
-  werelate: "https://www.werelate.org/wiki/Person:John_Gray_%28135%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray"
 },
 			married_name: nil,
 			mh_famc: nil,
@@ -21666,7 +21666,7 @@
 			graduation: [],
 			id: :p0447,
 			immigration: nil,
-			links: %{},
+			links: %{werelate: "http://werelate.org/wiki/Person:Robert_Gray_%2844%29"},
 			married_name: nil,
 			mh_famc: "F216",
 			mh_famc2: nil,
@@ -25151,9 +25151,9 @@
 			id: :p0108,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Adam_Hurlburt_%281%29",
   geni: "https://www.geni.com/people/Captain-Adam-Hurlbut/6000000013231672620",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000337/adam-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Adam_Hurlburt_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000337/adam-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F574",
@@ -25216,9 +25216,9 @@
 			id: :p0071,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29",
   geni: "https://www.geni.com/people/Charles-Hurlburt/6000000219179990217",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F570",
@@ -25282,9 +25282,9 @@
 			id: :p0094,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Charles_Hurlburt_%282%29",
   geni: "https://www.geni.com/people/Charles-Hurlburt/6000000219179990253",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000318/charles-s-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Charles_Hurlburt_%282%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000318/charles-s-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F571",
@@ -25346,9 +25346,9 @@
 			id: :p0072,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Ida_Hurlburt_%281%29",
   geni: "https://www.geni.com/people/Ida-Hurlburt/6000000219136898849",
-  myheritage: "https://www.myheritage.com/profile-20674952-23000286/ida-a-hurlburt-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Ida_Hurlburt_%281%29"
+  myheritage: "https://www.myheritage.com/profile-20674952-23000286/ida-a-hurlburt-fisher"
 },
 			married_name: nil,
 			mh_famc: "F382",
@@ -25651,9 +25651,9 @@
 			id: :p0105,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Wait_Hurlburt_%281%29",
   geni: "https://www.geni.com/people/Wait-Hurlburt/6000000219179990274",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000334/wait-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Wait_Hurlburt_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000334/wait-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F572",
@@ -27248,9 +27248,9 @@
 			id: :p0151,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29",
   geni: "https://www.geni.com/people/Frank-J-Kerber/6000000019835055044",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber",
-  werelate: "https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber"
 },
 			married_name: nil,
 			mh_famc: "F21",
@@ -27373,9 +27373,9 @@
 			id: :p0285,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Louisa_Kerber_%281%29",
   geni: "https://www.geni.com/people/Louisa-Sparrell/6000000007500303582",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000520/louisa-k-kerber-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Louisa_Kerber_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000520/louisa-k-kerber-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F19",
@@ -27792,7 +27792,7 @@
 			graduation: [],
 			id: :p0661,
 			immigration: nil,
-			links: %{},
+			links: %{werelate: "http://werelate.org/wiki/Person:Erastus_Kimball_%281%29"},
 			married_name: nil,
 			mh_famc: "F404",
 			mh_famc2: nil,
@@ -28225,9 +28225,9 @@
 			id: :p0639,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Sarah_Kimball_%2818%29",
   geni: "https://www.geni.com/people/Sarah-Kimball/6000000219179990399",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000897/sarah-lavinia-kimball-edgecomb",
-  werelate: "https://www.werelate.org/wiki/Person:Sarah_Kimball_%2818%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000897/sarah-lavinia-kimball-edgecomb"
 },
 			married_name: nil,
 			mh_famc: "F393",
@@ -37473,9 +37473,9 @@
 			id: :p1253,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Mary_Pickett_%2810%29",
   geni: "https://www.geni.com/people/Mary-Shapleigh/6000000002504511703",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001625/mary-pickett-shapley",
-  werelate: "https://www.werelate.org/wiki/Person:Mary_Pickett_%2810%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001625/mary-pickett-shapley"
 },
 			married_name: "Shapley",
 			mh_famc: nil,
@@ -37540,9 +37540,9 @@
 			id: :p0248,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Ann_Pierce_%2813%29",
   geni: "https://www.geni.com/people/Ann-Pierce/6000000219179990075",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000483/ann-pierce-fisher",
-  werelate: "https://www.werelate.org/wiki/Person:Ann_Pierce_%2813%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000483/ann-pierce-fisher"
 },
 			married_name: nil,
 			mh_famc: nil,
@@ -39378,9 +39378,9 @@
 			id: :p0153,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29",
   geni: "https://www.geni.com/people/Catharine-Kerber/6000000019834512933",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber",
-  werelate: "https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber"
 },
 			married_name: nil,
 			mh_famc: "F20",
@@ -39561,9 +39561,9 @@
 			id: :p0107,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Charity_Schufeldt_%281%29",
   geni: "https://www.geni.com/people/Charity-Schufeldt/6000000219179990285",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000336/charity-schufeldt-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Charity_Schufeldt_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000336/charity-schufeldt-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F738",
@@ -39929,8 +39929,8 @@
 			id: :p1252,
 			immigration: nil,
 			links: %{
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001624/benjamin-shapley",
-  werelate: "https://www.werelate.org/wiki/Person:Benjamin_Shapley_%281%29"
+  werelate: "https://www.werelate.org/wiki/Person:Benjamin_Shapley_%281%29",
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001624/benjamin-shapley"
 },
 			married_name: nil,
 			mh_famc: "F715",
@@ -41584,9 +41584,9 @@
 			id: :p0005,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
   geni: "https://www.geni.com/people/Charles-Sparrell/6000000007500132430",
   myheritage: "https://www.myheritage.com/profile-20674952-23000181/charles-fisher-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%282%29",
   wikitree: "https://www.wikitree.com/wiki/Sparrell-2"
 },
 			married_name: nil,
@@ -41650,9 +41650,9 @@
 			id: :p0922,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%281%29",
   geni: "https://www.geni.com/people/Charles-Sparrell/6000000019835016249",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001183/charles-herbert-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Charles_Sparrell_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001183/charles-herbert-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F128",
@@ -41776,9 +41776,9 @@
 			id: :p0273,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29",
   geni: "https://www.geni.com/people/Herbert-K-Sparrell/6000000007500143808",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F172",
@@ -41848,9 +41848,9 @@
 			id: :p0486,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29",
   geni: "https://www.geni.com/people/Herbert-Sparrell/6000000019834806464",
   myheritage: "https://www.myheritage.com/profile-20674952-23000741/herbert-kirkwood-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29",
   wikitree: "https://www.wikitree.com/wiki/Sparrell-3"
 },
 			married_name: nil,
@@ -41915,9 +41915,9 @@
 			id: :p0328,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:James_Sparrell_%283%29",
   geni: "https://www.geni.com/people/James-Newton-Sparrell/6000000007500306389",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000564/james-newton-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:James_Sparrell_%283%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000564/james-newton-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F183",
@@ -44934,9 +44934,9 @@
 			id: :p0075,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Albert_Strong_%282%29",
   geni: "https://www.geni.com/people/Albert-Strong/6000000007698827300",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000290/albert-randolph-strong",
-  werelate: "https://www.werelate.org/wiki/Person:Albert_Strong_%282%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000290/albert-randolph-strong"
 },
 			married_name: nil,
 			mh_famc: "F18",
@@ -45121,9 +45121,9 @@
 			id: :p0106,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29",
   geni: "https://www.geni.com/people/Elijah-Strong/6000000007728206519",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong",
-  werelate: "https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong"
 },
 			married_name: nil,
 			mh_famc: "F29",
@@ -45423,9 +45423,9 @@
 			id: :p0006,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29",
   geni: "",
-  myheritage: "https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell",
-  werelate: "https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29"
+  myheritage: "https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell"
 },
 			married_name: nil,
 			mh_famc: "F524",
@@ -51787,9 +51787,9 @@
 			id: :p0113,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Rebecca_Warner_%284%29",
   geni: "https://www.geni.com/people/Rebecca-Warner-Hurlburt-Bronson/6000000008260580002",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000345/rebecca-booth-hurlburt",
-  werelate: "https://www.werelate.org/wiki/Person:Rebecca_Warner_%284%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000345/rebecca-booth-hurlburt"
 },
 			married_name: nil,
 			mh_famc: "F290",
@@ -52523,9 +52523,9 @@
 			id: :p0119,
 			immigration: nil,
 			links: %{
+  werelate: "https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29",
   geni: "https://www.geni.com/people/Elizabeth-Strong/6000000007727874196",
-  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong",
-  werelate: "https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29"
+  myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong"
 },
 			married_name: nil,
 			mh_famc: "F556",

@@ -11,6 +11,9 @@ defmodule Cfsjksas.Links.FindLink do
   finding their father and mother werelate links if appropriate
   """
   def werelate() do
+    # zero dev counts
+    Cfsjksas.DevTools.StoreReset.zero_counts()
+
     IO.inspect("resolve which parsing")
     all_ids_a = Cfsjksas.Chart.AgentStores.id_a_by_gen()
     IO.inspect("length of all_ids_a #{length(all_ids_a)}")
@@ -236,7 +239,7 @@ defmodule Cfsjksas.Links.FindLink do
         |> LazyHTML.attribute("href")
         |> List.first()
 
-        "http://werelate.org" <> predraft_list
+        "http://werelate.org" <> predraft_list <> ","
         end
     end
 
