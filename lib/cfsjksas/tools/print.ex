@@ -17,8 +17,7 @@ defmodule Cfsjksas.Tools.Print do
     # convert from struct to map so can access dynamically
     #person_map = Map.from_struct(person)
     person_map = person
-    keys = Map.keys(person_map)
-    keys = Enum.sort(keys)
+    keys = Enum.sort(Map.keys(person_map))
     print_person("", keys, person_map)
   end
   def print_person(text, [], _person) do
@@ -26,7 +25,8 @@ defmodule Cfsjksas.Tools.Print do
     text
   end
   def print_person(text, [this | rest], person) do
-    new = text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
+
+    new = text <> "\t\t\t" <> inspect(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
     print_person(new, rest, person)
   end
 
