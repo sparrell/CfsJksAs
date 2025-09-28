@@ -25,9 +25,36 @@ defmodule Cfsjksas.Tools.Print do
     text
   end
   def print_person(text, [this | rest], person) do
+# following is what was there
+#    new = text <> "\t\t\t" <> inspect(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
 
-    new = text <> "\t\t\t" <> inspect(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
-    print_person(new, rest, person)
+    # can we sort at next level???
+    # print this key added to previous text
+    ## recurse the print if list or map
+    text_to_add = cond do
+      is_list(person[this]) ->
+        sorted = Enum.sort(person[this])
+        text1 = text <> "\t\t\t" <> to_string(this) <> ": [\n"
+
+        text2 = Enum.reduce(sorted, text1, fn item, acc ->
+          new_piece = "\t\t\t\t" <> inspect(item) <> ",\n"
+          acc <> new_piece
+        end)
+        text3 = text2 <> "\t\t\t],\n"
+#      is_map(person[this]) ->
+#        #figure out
+#        IEx.pry
+      true ->
+        text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
+    end
+
+#    new = text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
+
+
+
+    print_person(text_to_add, rest, person)
+
+    #print_person(new, rest, person)
   end
 
   def format_ancestor_map(ancestors_in) do
