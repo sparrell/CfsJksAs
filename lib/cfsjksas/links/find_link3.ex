@@ -48,8 +48,6 @@ defmodule Cfsjksas.Links.FindLink3 do
   defp process_people(updated_ancestors, link_source, _id_list, updates_done)
       when updates_done > 10 do
     # only update the first 10 links, then skip to end
-    IEx.pry()
-
     process_people(updated_ancestors, link_source, [], updates_done)
   end
   defp process_people(updating_ancestors, :werelate, [id_a | rest_ids_a], _updates_done) do
@@ -58,10 +56,11 @@ defmodule Cfsjksas.Links.FindLink3 do
     # by screen scraping the child's werelate page
 
 IO.inspect("##### #{id_a} ####")
-    {updating_ancestors, id_a}
-    |> Cfsjksas.Links.Utils.precheck()
-    |> Cfsjksas.Links.Werelate.update_father()
-    |> Cfsjksas.Links.Werelate.update_mother()
+    updating_ancestors
+    |> Cfsjksas.Links.Utils.precheck(:werelate, id_a)
+    |> Cfsjksas.Links.Werelate.screenscrape(id_a)
+    |> Cfsjksas.Links.Werelate.update_father(id_a)
+    |> Cfsjksas.Links.Werelate.update_mother(id_a)
     # pass on updated ancestors, recalc updates_done
     |> process_people(:werelate, rest_ids_a, Cfsjksas.DevTools.StoreUpdatingLink.value())
 

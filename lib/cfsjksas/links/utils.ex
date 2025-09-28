@@ -44,13 +44,11 @@ defmodule Cfsjksas.Links.Utils do
   @doc """
   go to website, screen scrape, parse into desired info
   """
-  def screen_scrape(:werelate, page_to_scrape, parent) do
-    # add comment
+  def screen_scrape(:werelate, page_to_scrape) do
     # setup scrape function
     req = (Req.new() |> ReqEasyHTML.attach())
 
     # ping web and get response
-    IO.inspect(page_to_scrape, label: "page_to_scrape")
     response = Req.get!(req, url: page_to_scrape)
 
     # pull the parent div
@@ -61,11 +59,11 @@ defmodule Cfsjksas.Links.Utils do
 
 
     # loop thru the items
-    out = for item <- items do
+    parent_list = for item <- items do
       label = item["span.wr-infobox-label"]
       label_txt = EasyHTML.text(label)
-      if ((label_txt == "F") and (parent == :father))
-          or ((label_txt == "M") and (parent == :mother))
+      if (label_txt == "F")
+          or (label_txt == "M")
           do
         # kludge using lazy since couldn't get ReqEasyHTML to work right
         predraft_list = item["a"]
@@ -74,33 +72,123 @@ defmodule Cfsjksas.Links.Utils do
         |> LazyHTML.attribute("href")
         |> List.first()
 
-        IO.inspect(predraft_list)
-
-        "http://werelate.org" <> predraft_list <> ","
+        "https://werelate.org" <> predraft_list
         end
     end
 
-    # return parent link
-    case parent do
-          :father ->
-            List.first(out)
-          :mother ->
-            [_, second] = out
-            second
-    end
+#    # return parent link
+#    case parent do
+#          :father ->
+#            List.first(parent_list)
+#          :mother ->
+#            [_, second] = parent_list
+#            second
+#    end
 
   end
 
-  def precheck({updated_ancestors,
-                id_a,
-                }) do
-#cheat for now, fill in code
-skip = true
-skip_father = true
-skip_mother = true
+  def precheck(updating_ancestors, :werelate, id_a) do
+    child_a = updating_ancestors[id_a]
+    # validate child is map with a werelate link
+    ## and has either a mother or father or both
+
+    # conditions checked:
+    ## child is a map
+    ## child has links key
+    ## links is map and has werelate key
+    ## father exists (do if yes, skip if has link already)
+    ## mother exists (do if yes, skip if has link already)
+
+
+    child_check = is_map(child_a)
+          and Map.has_key?(child_a, :links)
+          and Map.has_key?(child_a.links, :werelate)
+    IO.inspect(child_check, label: "child_check")
+
+    # if child_check is true, then skip_father is true if father exists and is an atom
+    check_father = child_check
+                and Map.has_key?(child_a, :father)
+                and is_atom(child_a.father)
+    check_father_link = case check_father do
+      false ->
+        false
+      true ->
+        father = updating_ancestors[child_a.father]
+        is_map(father)
+        and Map.has_key?(father, :links)
+        and is_map(father.links)
+        and Map.has_key?(father.links, :werelate)
+        and String.starts_with?(father.links.werelate,
+                          "https://www.werelate.org/")
+    end
+    if check_father_link do
+        Cfsjksas.DevTools.StoreLinkAlready.increment()
+    end
+    IO.inspect(check_father_link, label: "check_father_link")
+    # similar for mother
+    check_mother = child_check
+                and Map.has_key?(child_a, :mother)
+                and is_atom(child_a.mother)
+
+
+                skip_father = not check_father
+    check_mother_link = case check_mother do
+      false ->
+        false
+      true ->
+        mother = updating_ancestors[child_a.mother]
+        is_map(mother)
+        and Map.has_key?(mother, :links)
+        and is_map(mother.links)
+        and Map.has_key?(mother.links, :werelate)
+        and String.starts_with?(mother.links.werelate,
+                          "https://www.werelate.org/")
+    end
+    if check_mother_link do
+        Cfsjksas.DevTools.StoreLinkAlready.increment()
+    end
+    IO.inspect(check_mother_link, label: "check_mother_link")
+
+    skip_father = case {child_check, check_father, check_father_link} do
+      {true, true, false} ->
+        # only condition to not skip is
+        ## child has info on father
+        ## and father doesn't already have link
+        false
+      {_, _, _} ->
+        # skip
+        true
+    end
+
+    skip_mother = case {child_check, check_mother, check_mother_link} do
+      {true, true, false} ->
+        # only condition to not skip is
+        ## child has info on mother
+        ## and mother doesn't already have link
+        false
+      {_, _, _} ->
+        # skip
+        true
+    end
+
+    skip = case {child_check, skip_father, skip_mother} do
+      {false, _, _} ->
+        # skip since failed child_check
+        true
+      {true, true, true} ->
+        # skip since both mother and father already have links
+        true
+      _ ->
+        # otherwise screen scrape
+        false
+    end
+
+    IO.inspect(skip, label: "skip")
+    IO.inspect(skip, label: "skip_father")
+    IO.inspect(skip, label: "skip_mother")
+
     # continue on updates
-{updated_ancestors,
-  id_a,
+{updating_ancestors,
   skip,
   skip_father,
   skip_mother,

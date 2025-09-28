@@ -41,9 +41,18 @@ defmodule Cfsjksas.Tools.Print do
           acc <> new_piece
         end)
         text3 = text2 <> "\t\t\t],\n"
-#      is_map(person[this]) ->
-#        #figure out
-#        IEx.pry
+      is_map(person[this]) ->
+        keys = Enum.sort(Map.keys(person[this]))
+        text1 = text <> "\t\t\t" <> to_string(this) <> ": %{\n"
+        text2 = Enum.reduce(keys, text1, fn key, acc ->
+          new_piece = "\t\t\t\t"
+            <> to_string(key) <> ": "
+            <> inspect(person[this][key])
+            <> ",\n"
+          acc <> new_piece
+        end)
+        text3 = text2 <> "\t\t\t},\n"
+        #figure out
       true ->
         text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
     end
