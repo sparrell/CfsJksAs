@@ -110,6 +110,7 @@ defmodule Cfsjksas.Links.Utils do
     # if child_check is true, then skip_father is true if father exists and is an atom
     check_father = child_check
                 and Map.has_key?(child_a, :father)
+                and not is_nil(child_a.father)
                 and is_atom(child_a.father)
     check_father_link = case check_father do
       false ->
@@ -120,8 +121,7 @@ defmodule Cfsjksas.Links.Utils do
         and Map.has_key?(father, :links)
         and is_map(father.links)
         and Map.has_key?(father.links, :werelate)
-        and String.starts_with?(father.links.werelate,
-                          "https://www.werelate.org/")
+        and link_check(father.links.werelate)
     end
     if check_father_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
@@ -130,6 +130,7 @@ defmodule Cfsjksas.Links.Utils do
     # similar for mother
     check_mother = child_check
                 and Map.has_key?(child_a, :mother)
+                and not is_nil(child_a.mother)
                 and is_atom(child_a.mother)
 
     check_mother_link = case check_mother do
@@ -141,8 +142,7 @@ defmodule Cfsjksas.Links.Utils do
         and Map.has_key?(mother, :links)
         and is_map(mother.links)
         and Map.has_key?(mother.links, :werelate)
-        and String.starts_with?(mother.links.werelate,
-                          "https://www.werelate.org/")
+        and link_check(mother.links.werelate)
     end
     if check_mother_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
@@ -184,8 +184,8 @@ defmodule Cfsjksas.Links.Utils do
     end
 
     IO.inspect(skip, label: "skip")
-    IO.inspect(skip, label: "skip_father")
-    IO.inspect(skip, label: "skip_mother")
+    IO.inspect(skip_father, label: "skip_father")
+    IO.inspect(skip_mother, label: "skip_mother")
 
     # continue on updates
 {updating_ancestors,
@@ -193,5 +193,16 @@ defmodule Cfsjksas.Links.Utils do
   skip_father,
   skip_mother,
 }
+  end
+
+  defp link_check(link) do
+    x = String.starts_with?(link, "https://www.werelate.org/")
+    or String.starts_with?(link, "http://www.werelate.org/")
+    or String.starts_with?(link, "https://werelate.org/")
+    or String.starts_with?(link, "http://werelate.org/")
+if not x do
+  IEx.pry()
+end
+    x
   end
 end
