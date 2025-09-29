@@ -1572,7 +1572,7 @@
 			id: :p0492,
 			immigration: nil,
 			links: %{
-				werelate: "http://werelate.org/wiki/Person:David_Andrews_%2824%29",
+				werelate: "https://werelate.org/wiki/Person:David_Andrews_%2824%29",
 			},
 			married_name: nil,
 			mh_famc: "F305",
@@ -6814,7 +6814,7 @@
 			id: :p0426,
 			immigration: nil,
 			links: %{
-				werelate: "http://werelate.org/wiki/Person:Jacob_Bennett_%285%29",
+				werelate: "https://werelate.org/wiki/Person:Jacob_Bennett_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F578",
@@ -11575,6 +11575,7 @@
 			id: :p0493,
 			immigration: nil,
 			links: %{
+				werelate: "https://werelate.org/wiki/Person:Naomi_Briggs_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F220",
@@ -13901,6 +13902,7 @@
 			id: :p0745,
 			immigration: nil,
 			links: %{
+				werelate: "https://werelate.org/wiki/Person:Bridget_Chesebrough_%284%29",
 			},
 			married_name: nil,
 			mh_famc: "F430",
@@ -21841,7 +21843,7 @@
 			id: :p0747,
 			immigration: nil,
 			links: %{
-				werelate: "http://werelate.org/wiki/Person:Jabez_Edgecomb_%281%29",
+				werelate: "https://werelate.org/wiki/Person:Jabez_Edgecomb_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F378",
@@ -36604,7 +36606,7 @@
 			id: :p0661,
 			immigration: nil,
 			links: %{
-				werelate: "http://werelate.org/wiki/Person:Erastus_Kimball_%281%29",
+				werelate: "https://werelate.org/wiki/Person:Erastus_Kimball_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F404",
@@ -38708,6 +38710,7 @@
 			id: :p0427,
 			immigration: nil,
 			links: %{
+				werelate: "https://werelate.org/wiki/Person:Esther_Lawrence_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F347",
@@ -40641,6 +40644,7 @@
 			id: :p0672,
 			immigration: nil,
 			links: %{
+				werelate: "https://werelate.org/wiki/Person:Lydia_Lester_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F495",

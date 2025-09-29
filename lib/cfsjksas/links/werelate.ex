@@ -7,9 +7,9 @@ defmodule Cfsjksas.Links.Werelate do
 
   def screenscrape({updating_ancestors,
                     true = _skip,
-                    skip_father,
-                    skip_mother,
-                    }, id_a) do
+                    _skip_father,
+                    _skip_mother,
+                    }, _id_a) do
     # skip
     Cfsjksas.DevTools.StoreChildNoWerelate.increment()
     { nil,
@@ -43,7 +43,7 @@ defmodule Cfsjksas.Links.Werelate do
                     true = skip,
                     skip_father,
                     skip_mother,
-                    }, id_a) do
+                    }, _id_a) do
 
     # don't update father since skipping entirely
 
@@ -60,7 +60,7 @@ defmodule Cfsjksas.Links.Werelate do
                     false = skip,
                     true = skip_father,
                     skip_mother,
-                    }, id_a) do
+                    }, _id_a) do
 
     # don't update father,
     Cfsjksas.DevTools.StoreNoFather.increment()
@@ -79,10 +79,12 @@ defmodule Cfsjksas.Links.Werelate do
                     skip_mother,
                     }, id_a) do
     father_link = List.first(screenscape)
+    child_a = updating_ancestors[id_a]
+    father_id_a = child_a.father
     Cfsjksas.DevTools.StoreUpdatingLink.increment()
-# needs work
-# temp for now, need to fill in
-updated_ancestors = updating_ancestors
+    IO.inspect("adding  #{father_id_a} #{father_link}")
+    updated_ancestors = put_in(updating_ancestors[father_id_a][:links][:werelate], father_link)
+
     # continue on to mother
     {screenscape,
       updated_ancestors,
@@ -94,7 +96,7 @@ updated_ancestors = updating_ancestors
 
 ###############
 
-  def update_mother({screenscape,
+  def update_mother({_screenscape,
                     updated_ancestors,
                     true = _skip,
                     _skip_father,
@@ -105,7 +107,7 @@ updated_ancestors = updating_ancestors
     # recurse on to next person
     updated_ancestors
   end
-  def update_mother({screenscape,
+  def update_mother({_screenscape,
                     updated_ancestors,
                     _skip,
                     _skip_father,
@@ -122,11 +124,16 @@ updated_ancestors = updating_ancestors
                     _skip,
                     _skip_father,
                     false = _skip_mother,
-                    }, _id_a) do
+                    }, id_a) do
     Cfsjksas.DevTools.StoreUpdatingLink.increment()
 
-# temp for now, need to fill in
-updated_ancestors = updating_ancestors
+    [_, mother_link] = screenscape
+    child_a = updating_ancestors[id_a]
+    mother_id_a = child_a.mother
+    Cfsjksas.DevTools.StoreUpdatingLink.increment()
+    IO.inspect("adding  #{mother_id_a} #{mother_link}")
+    updated_ancestors = put_in(updating_ancestors[mother_id_a][:links][:werelate], mother_link)
+
     # recurse on to next person
     updated_ancestors
   end

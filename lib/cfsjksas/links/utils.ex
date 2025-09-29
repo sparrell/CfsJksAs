@@ -8,6 +8,8 @@ defmodule Cfsjksas.Links.Utils do
 
   def print_werelate_counts() do
 
+    IO.inspect("###############***********###############")
+
     count = Cfsjksas.DevTools.StoreCountPeople.value()
     IO.inspect("total people #{count}")
 
@@ -59,7 +61,7 @@ defmodule Cfsjksas.Links.Utils do
 
 
     # loop thru the items
-    parent_list = for item <- items do
+    for item <- items do
       label = item["span.wr-infobox-label"]
       label_txt = EasyHTML.text(label)
       if (label_txt == "F")
@@ -130,8 +132,6 @@ defmodule Cfsjksas.Links.Utils do
                 and Map.has_key?(child_a, :mother)
                 and is_atom(child_a.mother)
 
-
-                skip_father = not check_father
     check_mother_link = case check_mother do
       false ->
         false

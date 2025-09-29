@@ -78,7 +78,6 @@ IO.inspect("##### #{id_a} ####")
         werelate(updating_ancestors, rest_ids_a, updates_done)
       true ->
         # continue evaluating, sanity check link
-        child_link = child_a.links.werelate
         check_child_link(updating_ancestors,
                         id_a,
                         rest_ids_a,
@@ -135,7 +134,7 @@ IO.inspect("##### #{id_a} ####")
     father_a = updating_ancestors[father_id_a]
     father_links = Map.has_key?(father_a.links, :werelate)
 IEx.pry()
-    xxx = Cfsjksas.Links.Utils.screen_scrape(:werelate, child_link, :father)
+    #xxx = Cfsjksas.Links.Utils.screen_scrape(:werelate, child_link, :father)
 IEx.pry()
     ## above belongs in later function once know you need to screen scape
 

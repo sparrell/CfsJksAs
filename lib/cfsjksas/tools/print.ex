@@ -28,7 +28,6 @@ defmodule Cfsjksas.Tools.Print do
 # following is what was there
 #    new = text <> "\t\t\t" <> inspect(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
 
-    # can we sort at next level???
     # print this key added to previous text
     ## recurse the print if list or map
     text_to_add = cond do
@@ -40,7 +39,7 @@ defmodule Cfsjksas.Tools.Print do
           new_piece = "\t\t\t\t" <> inspect(item) <> ",\n"
           acc <> new_piece
         end)
-        text3 = text2 <> "\t\t\t],\n"
+        text2 <> "\t\t\t],\n"
       is_map(person[this]) ->
         keys = Enum.sort(Map.keys(person[this]))
         text1 = text <> "\t\t\t" <> to_string(this) <> ": %{\n"
@@ -51,15 +50,10 @@ defmodule Cfsjksas.Tools.Print do
             <> ",\n"
           acc <> new_piece
         end)
-        text3 = text2 <> "\t\t\t},\n"
-        #figure out
+        text2 <> "\t\t\t},\n"
       true ->
         text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
     end
-
-#    new = text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
-
-
 
     print_person(text_to_add, rest, person)
 
