@@ -30,7 +30,7 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 ## add werelate links
 
 * First restart server (to zero counters)
-* Cfsjksas.Links.FindLink3.update(:werelate)
+* Cfsjksas.Links.FindLink.update(:werelate)
 * validate changes and swap temp file into data file
 * to do
   * write out to temp file

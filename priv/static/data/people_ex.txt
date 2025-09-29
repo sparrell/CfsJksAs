@@ -6662,6 +6662,7 @@
 			id: :p0121,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Jacob_Bennett_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F581",
@@ -8332,6 +8333,7 @@
 			id: :p0111,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Rebecca_Booth_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F343",
@@ -11342,6 +11344,7 @@
 			id: :p0499,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Israel_Briggs_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F160",
@@ -35479,6 +35482,7 @@
 			id: :p0500,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Naomi_Jones_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F309",
@@ -42843,6 +42847,7 @@
 			id: :p1300,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Elisabeth_Maul_%281%29",
 			},
 			married_name: "Zufelt",
 			mh_famc: "F739",
@@ -49286,6 +49291,7 @@
 			id: :p0122,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mahala_Phillips_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F580",
@@ -73774,6 +73780,7 @@
 			id: :p1299,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Georg_Zufelt_%283%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
