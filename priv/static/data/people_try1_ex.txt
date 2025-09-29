@@ -4812,6 +4812,7 @@
 			id: :p0941,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Anna_Baldwin_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F431",
@@ -10519,6 +10520,7 @@
 			id: :p0694,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Lucy_Brewster_%287%29",
 			},
 			married_name: nil,
 			mh_famc: "F415",
@@ -14140,6 +14142,7 @@
 			id: :p0940,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Edward_Chesebrough_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F432",
@@ -21767,6 +21770,7 @@
 			id: :p0834,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Jabez_Edgecomb_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F376",
@@ -37020,6 +37024,7 @@
 			id: :p0683,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Nathaniel_Kimball_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F460",
@@ -38640,6 +38645,7 @@
 			id: :p0777,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:David_Lawrence_%2815%29",
 			},
 			married_name: nil,
 			mh_famc: "F467",
@@ -44532,6 +44538,7 @@
 			id: :p0833,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Esther_Morgan_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F407",
@@ -71441,6 +71448,7 @@
 			id: :p0778,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Marvel_Wilkinson_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F368",
