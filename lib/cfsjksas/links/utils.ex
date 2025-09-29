@@ -74,7 +74,7 @@ defmodule Cfsjksas.Links.Utils do
         |> LazyHTML.attribute("href")
         |> List.first()
 
-        "https://werelate.org" <> predraft_list
+        "https://www.werelate.org" <> predraft_list
         end
     end
 
