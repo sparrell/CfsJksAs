@@ -3688,6 +3688,7 @@
 			id: :p0923,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sarah_Avery_%2814%29",
 			},
 			married_name: nil,
 			mh_famc: "F72",
@@ -7855,6 +7856,7 @@
 			id: :p0135,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sophia_Bixby_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F588",
@@ -26861,6 +26863,7 @@
 			id: :p0134,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Simeon_Gleason_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F126",
@@ -35963,6 +35966,7 @@
 			id: :p0156,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Franz_Kerber_%282%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -39840,6 +39844,7 @@
 			id: :p0911,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Amos_Lester_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F540",
@@ -54927,6 +54932,7 @@
 			id: :p0364,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Desire_Barrell_%281%29",
 			},
 			married_name: "Sparrell",
 			mh_famc: "F194",
@@ -55287,6 +55293,7 @@
 			id: :p0353,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:James_Sparrell_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F293",
@@ -66332,6 +66339,7 @@
 			id: :p0157,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Abby_Unknown_%2811%29",
 			},
 			married_name: "Kerber",
 			mh_famc: nil,
