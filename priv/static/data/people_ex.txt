@@ -12048,6 +12048,7 @@
 			id: :p0155,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Christine_Brumer_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -29592,6 +29593,7 @@
 			id: :p0152,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Lucy_Hannum_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F70",
@@ -30629,6 +30631,7 @@
 			id: :p0051,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Philena_Haughton_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F564",
@@ -51935,6 +51938,7 @@
 			id: :p0154,
 			immigration: "emigrated to America\r\n2 DATE ABT 1849",
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Unknown_Schaal_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -59520,6 +59524,7 @@
 			id: :p0141,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Genubeth_Strong_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F502",
@@ -68584,6 +68589,7 @@
 			id: :p0448,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Margaret_Watt_%2830%29",
 			},
 			married_name: "Gray",
 			mh_famc: "F737",
@@ -69479,6 +69485,7 @@
 			id: :p0050,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:William_Whaley_%2817%29",
 			},
 			married_name: nil,
 			mh_famc: "F561",
