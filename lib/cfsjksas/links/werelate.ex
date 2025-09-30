@@ -81,12 +81,13 @@ defmodule Cfsjksas.Links.Werelate do
     father_link = List.first(screenscape)
     child_a = updating_ancestors[id_a]
     father_id_a = child_a.father
-    # validate father_link isn't to special page
-    case String.contains?(father_link, "Special") do
+    # validate father_link exists and isn't to special page
+    bad_screenscape = (father_link == nil) or (String.contains?(father_link, "Special"))
+    case bad_screenscape do
       true ->
         # werelate doesn't have father yer
         Cfsjksas.DevTools.StoreNoLinkYet.increment()
-        IO.inspect("*** no page for #{inspect(father_id_a)}")
+        IO.inspect("*** no page for father #{inspect(father_id_a)}")
       # continue on to mother
         {screenscape,
           updating_ancestors,
@@ -143,15 +144,23 @@ defmodule Cfsjksas.Links.Werelate do
                     false = _skip_mother,
                     }, id_a) do
 
-    [_, mother_link] = screenscape
+    mother_link = if (screenscape == nil) or (screenscape == []) do
+      nil
+    else
+      [_, second] = screenscape
+      second
+    end
+
     child_a = updating_ancestors[id_a]
     mother_id_a = child_a.mother
 
-    case String.contains?(mother_link, "Special") do
+    # validate mother_link exists and isn't to special page
+    bad_screenscape = (mother_link == nil) or (String.contains?(mother_link, "Special"))
+    case bad_screenscape do
       true ->
         # werelate doesn't have mother yer
         Cfsjksas.DevTools.StoreNoLinkYet.increment()
-        IO.inspect("*** no page for #{inspect(mother_id_a)}")
+        IO.inspect("*** no page for mother #{inspect(mother_id_a)}")
         # iterate on
         updating_ancestors
       false ->

@@ -27,12 +27,6 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 * todo
   * fix to use new marked lineage
 
-## compare temp link file to main
-
-to comparing try1 to people
-
-* Cfsjksas.DevTools.CheckLinks.try1()
-
 ## add werelate links
 
 * Restart server (to zero counters and to read in data)
@@ -40,6 +34,8 @@ to comparing try1 to people
   * redo whenever data changes
 * Cfsjksas.Links.FindLink.update(:werelate)
 * validate changes and swap temp file into data file
+  * Cfsjksas.DevTools.CheckLinks.try1()
+
 * to do
   * write out to temp file
   * add :links to every person
