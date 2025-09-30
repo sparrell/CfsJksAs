@@ -5,7 +5,14 @@ defmodule Cfsjksas.DevTools.CompareMaps do
   require IEx
   require MapDiff
 
-  def diff(map1,map2) do
+  def diff_map_file(map1, file2) do
+    # change file2 to map2
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/" <> file2)
+    map2 = Code.eval_file(filepath) |> elem(0)
+    diff_maps(map1,map2)
+  end
+
+  def diff_maps(map1,map2) do
     MapDiff.diff(map1, map2)
     |> prune()
   end
