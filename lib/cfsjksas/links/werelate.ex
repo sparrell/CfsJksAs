@@ -144,11 +144,22 @@ defmodule Cfsjksas.Links.Werelate do
                     false = _skip_mother,
                     }, id_a) do
 
-    mother_link = if (screenscape == nil) or (screenscape == []) do
-      nil
-    else
-      [_, second] = screenscape
-      second
+#    mother_link = if (screenscape == nil) or (screenscape == []) do
+#      nil
+#    else
+#      [_, second] = screenscape
+#      second
+#    end
+    mother_link = cond do
+      screenscape == nil ->
+        nil
+      screenscape == [] ->
+        nil
+      length(screenscape) == 1 ->
+        nil
+      true ->
+        [_, second] = screenscape
+        second
     end
 
     child_a = updating_ancestors[id_a]
