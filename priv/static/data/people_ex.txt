@@ -1893,6 +1893,7 @@
 			id: :p0686,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Henry_Andrews_%285%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -3454,6 +3455,7 @@
 			id: :p0266,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Thomas_Lord_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F79",
@@ -4904,6 +4906,7 @@
 			id: :p0826,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Baldwin_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F373",
@@ -5637,6 +5640,7 @@
 			id: :p0442,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:William_Barrell_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F31",
@@ -5951,6 +5955,7 @@
 			id: :p0773,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Beach_%2810%29",
 			},
 			married_name: nil,
 			mh_famc: "F351",
@@ -7644,6 +7649,7 @@
 			id: :p0147,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Joseph_Bixby_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F594",
@@ -8837,6 +8843,7 @@
 			id: :p0230,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:James_Bowker_%2812%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -8998,6 +9005,7 @@
 			id: :p0991,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Samuel_Bradford_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F453",
@@ -9818,6 +9826,7 @@
 			id: :p0503,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Peter_Branch_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F241",
@@ -10636,6 +10645,7 @@
 			id: :p0475,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Brewster_%2814%29",
 			},
 			married_name: nil,
 			mh_famc: "F271",
@@ -11220,6 +11230,7 @@
 			id: :p0610,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Bridgman_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F277",
@@ -11938,6 +11949,7 @@
 			id: :p0117,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Rebecca_Brown_%2847%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -12015,6 +12027,7 @@
 			id: :p0654,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Rebecca_Brown_%288%29",
 			},
 			married_name: nil,
 			mh_famc: "F342",
@@ -12900,6 +12913,7 @@
 			id: :p0379,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Henry_Castle_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F239",
@@ -13633,6 +13647,7 @@
 			id: :p0232,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Catherine_Charlet_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F718",
@@ -14265,6 +14280,7 @@
 			id: :p0949,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Elisha_Chesebrough_%284%29",
 			},
 			married_name: nil,
 			mh_famc: "F180",
@@ -15170,6 +15186,7 @@
 			id: :p0091,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Samuel_Chester_%284%29",
 			},
 			married_name: nil,
 			mh_famc: "F213",
@@ -16326,6 +16343,7 @@
 			id: :p1277,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Isaac_Clark_%2834%29",
 			},
 			married_name: nil,
 			mh_famc: "F727",
@@ -16732,6 +16750,7 @@
 			id: :p0557,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Grace_Unknown_%28271%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -16901,6 +16920,7 @@
 			id: :p0193,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Collamore_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F53",
@@ -18108,6 +18128,7 @@
 			id: :p0378,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Jonathan_Copp_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F354",
@@ -19222,6 +19243,7 @@
 			id: :p0145,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Isaac_Cummings_%287%29",
 			},
 			married_name: nil,
 			mh_famc: "F187",
@@ -19711,6 +19733,7 @@
 			id: :p0190,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Zachariah_Damon_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F37",
@@ -21014,6 +21037,7 @@
 			id: :p0242,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hepsibah_Dibble_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F66",
@@ -21260,6 +21284,7 @@
 			id: :p0380,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Abigail_Dickerson_%282%29",
 			},
 			married_name: nil,
 			mh_famc: "F346",
@@ -22966,6 +22991,7 @@
 			id: :p0169,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Nathan_Farrow_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F28",
@@ -25157,6 +25183,7 @@
 			id: :p0653,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Benjamin_Galpin_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F287",
@@ -25955,6 +25982,7 @@
 			id: :p0170,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Gardner_%2826%29",
 			},
 			married_name: nil,
 			mh_famc: "F303",
@@ -26616,6 +26644,7 @@
 			id: :p0241,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Samuel_Gibbs_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F65",
@@ -27984,6 +28013,7 @@
 			id: :p0148,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sarah_Gould_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F113",
@@ -28711,6 +28741,7 @@
 			id: :p0267,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hannah_Thurston_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -29602,6 +29633,7 @@
 			id: :p0611,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Hannum_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F276",
@@ -30800,6 +30832,7 @@
 			id: :p0159,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Richard_Haughton_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -32616,6 +32649,7 @@
 			id: :p0988,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Thomas_Howes_%2815%29",
 			},
 			married_name: nil,
 			mh_famc: "F474",
@@ -32868,6 +32902,7 @@
 			id: :p0146,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Alice_Howlett_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F190",
@@ -33619,6 +33654,7 @@
 			id: :p0116,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Joseph_Hurlbut_%284%29",
 			},
 			married_name: nil,
 			mh_famc: "F577",
@@ -34105,6 +34141,7 @@
 			id: :p0609,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Judah_Hutchinson_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F289",
@@ -35495,6 +35532,7 @@
 			id: :p1296,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Jones_%28521%29",
 			},
 			married_name: nil,
 			mh_famc: "F736",
@@ -37786,6 +37824,7 @@
 			id: :p1276,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sarah_Lakin_%282%29",
 			},
 			married_name: "Willard",
 			mh_famc: "F732",
@@ -37946,6 +37985,7 @@
 			id: :p0252,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Lambert_%2846%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -38345,6 +38385,7 @@
 			id: :p0612,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Esther_Langton_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F274",
@@ -38903,6 +38944,7 @@
 			id: :p0377,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Catherine_Lay_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F372",
@@ -40927,6 +40969,7 @@
 			id: :p1020,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Abigail_Lewis_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F465",
@@ -41162,6 +41205,7 @@
 			id: :p0504,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hannah_Lincoln_%288%29",
 			},
 			married_name: nil,
 			mh_famc: "F243",
@@ -41730,6 +41774,7 @@
 			id: :p0237,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Nathaniel_Loomis_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F231",
@@ -42376,6 +42421,7 @@
 			id: :p1017,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sarah_Willey_%286%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -43115,6 +43161,7 @@
 			id: :p0198,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Joanna_May_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F43",
@@ -44333,6 +44380,7 @@
 			id: :p0239,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Elizabeth_Moore_%286%29",
 			},
 			married_name: nil,
 			mh_famc: "F71",
@@ -45564,6 +45612,7 @@
 			id: :p0383,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Morgan_%287%29",
 			},
 			married_name: nil,
 			mh_famc: "F94",
@@ -47171,6 +47220,7 @@
 			id: :p0825,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Rebecca_Palmer_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F112",
@@ -49017,6 +49067,7 @@
 			id: :p1016,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:James_Pemberton_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -51112,6 +51163,7 @@
 			id: :p0990,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hannah_Rogers_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F452",
@@ -53549,6 +53601,7 @@
 			id: :p1024,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Samuel_Slack_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F464",
@@ -53863,6 +53916,7 @@
 			id: :p0984,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Content_Smith_%284%29",
 			},
 			married_name: nil,
 			mh_famc: "F446",
@@ -56354,6 +56408,7 @@
 			id: :p0774,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hannah_Staples_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F352",
@@ -57001,6 +57056,7 @@
 			id: :p0382,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Thomas_Starr_%285%29",
 			},
 			married_name: nil,
 			mh_famc: "F159",
@@ -57651,6 +57707,7 @@
 			id: :p0192,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Robert_Stetson_%288%29",
 			},
 			married_name: nil,
 			mh_famc: "F55",
@@ -58702,6 +58759,7 @@
 			id: :p1278,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Sarah_Stow_%287%29",
 			},
 			married_name: "Clarke",
 			mh_famc: "F728",
@@ -59853,6 +59911,7 @@
 			id: :p0229,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Strong_%2850%29",
 			},
 			married_name: nil,
 			mh_famc: "F105",
@@ -61425,6 +61484,7 @@
 			id: :p0464,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Turner_%2860%29",
 			},
 			married_name: nil,
 			mh_famc: "F60",
@@ -61591,6 +61651,7 @@
 			id: :p0453,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Lydia_Turner_%283%29",
 			},
 			married_name: nil,
 			mh_famc: "F260",
@@ -63383,6 +63444,7 @@
 			id: :p0092,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Hannah_Unknown_%28873%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -63537,6 +63599,7 @@
 			id: :p0687,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Unknown_%285970%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -66593,6 +66656,7 @@
 			id: :p0164,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Unknown_%285151%29",
 			},
 			married_name: "Bowker",
 			mh_famc: nil,
@@ -67654,6 +67718,7 @@
 			id: :p0560,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Christopher_Wadsworth_%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -68294,6 +68359,7 @@
 			id: :p0655,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:John_Warner_%2884%29",
 			},
 			married_name: nil,
 			mh_famc: "F341",
@@ -68532,6 +68598,7 @@
 			id: :p0240,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Elizabeth_Warriner_%2811%29",
 			},
 			married_name: nil,
 			mh_famc: "F707",
@@ -71133,6 +71200,7 @@
 			id: :p0199,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Thomas_Whiton_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F41",
@@ -71787,6 +71855,7 @@
 			id: :p1275,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Benjamin_Willard_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F731",
@@ -73323,6 +73392,7 @@
 			id: :p0191,
 			immigration: nil,
 			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Martha_Woodworth_%281%29",
 			},
 			married_name: nil,
 			mh_famc: "F59",
