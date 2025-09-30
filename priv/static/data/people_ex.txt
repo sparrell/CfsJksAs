@@ -68698,7 +68698,6 @@
 			id: :p1298,
 			immigration: nil,
 			links: %{
-				werelate: "https://www.werelate.orghttp://www.werelate.org/wiki/Special:AddPage?ns=Person&g=Alexander&s=Watt&gnd=M&sf=Alexander+Watt+and+Unknown+%281%29",
 			},
 			married_name: nil,
 			mh_famc: nil,
