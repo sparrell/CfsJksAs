@@ -46,7 +46,7 @@ defmodule Cfsjksas.Links.FindLink do
     IO.inspect(filepath, label: "wrote ")
   end
   defp process_people(updated_ancestors, link_source, _id_list, updates_done)
-      when updates_done > 10 do
+      when updates_done > 20 do
     # only update the first 10 links, then skip to end
     process_people(updated_ancestors, link_source, [], updates_done)
   end

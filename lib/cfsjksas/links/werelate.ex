@@ -81,17 +81,34 @@ defmodule Cfsjksas.Links.Werelate do
     father_link = List.first(screenscape)
     child_a = updating_ancestors[id_a]
     father_id_a = child_a.father
-    Cfsjksas.DevTools.StoreUpdatingLink.increment()
-    IO.inspect("adding  #{father_id_a} #{father_link}")
-    updated_ancestors = put_in(updating_ancestors[father_id_a][:links][:werelate], father_link)
+    # validate father_link isn't to special page
+    case String.contains?(father_link, "Special") do
+      true ->
+        # werelate doesn't have father yer
+        Cfsjksas.DevTools.StoreNoLinkYet.increment()
+        IO.inspect("*** no page for #{inspect(father_id_a)}")
+      # continue on to mother
+        {screenscape,
+          updating_ancestors,
+          skip,
+          skip_father,
+          skip_mother,
+        }
+      false ->
+        # update map
+        Cfsjksas.DevTools.StoreUpdatingLink.increment()
+        IO.inspect("adding  #{father_id_a} #{father_link}")
+        updated_ancestors = put_in(updating_ancestors[father_id_a][:links][:werelate], father_link)
 
-    # continue on to mother
-    {screenscape,
-      updated_ancestors,
-      skip,
-      skip_father,
-      skip_mother,
-    }
+        # continue on to mother
+        {screenscape,
+          updated_ancestors,
+          skip,
+          skip_father,
+          skip_mother,
+        }
+    end
+
   end
 
 ###############
@@ -125,17 +142,28 @@ defmodule Cfsjksas.Links.Werelate do
                     _skip_father,
                     false = _skip_mother,
                     }, id_a) do
-    Cfsjksas.DevTools.StoreUpdatingLink.increment()
 
     [_, mother_link] = screenscape
     child_a = updating_ancestors[id_a]
     mother_id_a = child_a.mother
-    Cfsjksas.DevTools.StoreUpdatingLink.increment()
-    IO.inspect("adding  #{mother_id_a} #{mother_link}")
-    updated_ancestors = put_in(updating_ancestors[mother_id_a][:links][:werelate], mother_link)
 
-    # recurse on to next person
-    updated_ancestors
+    case String.contains?(mother_link, "Special") do
+      true ->
+        # werelate doesn't have mother yer
+        Cfsjksas.DevTools.StoreNoLinkYet.increment()
+        IO.inspect("*** no page for #{inspect(mother_id_a)}")
+        # iterate on
+        updating_ancestors
+      false ->
+        Cfsjksas.DevTools.StoreUpdatingLink.increment()
+        Cfsjksas.DevTools.StoreUpdatingLink.increment()
+        IO.inspect("adding  #{mother_id_a} #{mother_link}")
+        updated_ancestors = put_in(updating_ancestors[mother_id_a][:links][:werelate], mother_link)
+
+        # recurse on to next person
+        updated_ancestors
+    end
+
   end
 
 end
