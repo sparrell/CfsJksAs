@@ -29,10 +29,12 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       _ -> to_string(person.mother)
    end
 
-    get_urls? = Map.has_key?(person, :urls)
+    get_urls? = Map.has_key?(person, :links)
     urls = case get_urls? do
-      false -> []
-      true -> Map.to_list(person.urls)
+      false ->
+        []
+      true ->
+        Map.to_list(person.links)
     end
 
     {:ok,

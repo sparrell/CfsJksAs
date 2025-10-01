@@ -105,7 +105,7 @@ defmodule Cfsjksas.Links.Utils do
     child_check = is_map(child_a)
           and Map.has_key?(child_a, :links)
           and Map.has_key?(child_a.links, :werelate)
-    IO.inspect(child_check, label: "child_check")
+    #IO.inspect(child_check, label: "child_check")
 
     # if child_check is true, then skip_father is true if father exists and is an atom
     check_father = child_check
@@ -126,7 +126,7 @@ defmodule Cfsjksas.Links.Utils do
     if check_father_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
     end
-    IO.inspect(check_father_link, label: "check_father_link")
+    #IO.inspect(check_father_link, label: "check_father_link")
     # similar for mother
     check_mother = child_check
                 and Map.has_key?(child_a, :mother)
@@ -147,7 +147,7 @@ defmodule Cfsjksas.Links.Utils do
     if check_mother_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
     end
-    IO.inspect(check_mother_link, label: "check_mother_link")
+    #IO.inspect(check_mother_link, label: "check_mother_link")
 
     skip_father = case {child_check, check_father, check_father_link} do
       {true, true, false} ->
@@ -183,9 +183,9 @@ defmodule Cfsjksas.Links.Utils do
         false
     end
 
-    IO.inspect(skip, label: "skip")
-    IO.inspect(skip_father, label: "skip_father")
-    IO.inspect(skip_mother, label: "skip_mother")
+    #IO.inspect(skip, label: "skip")
+    #IO.inspect(skip_father, label: "skip_father")
+    #IO.inspect(skip_mother, label: "skip_mother")
 
     # continue on updates
 {updating_ancestors,
