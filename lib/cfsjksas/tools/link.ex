@@ -1,6 +1,6 @@
 defmodule Cfsjksas.Tools.Link do
   @moduledoc """
-  This module provides useful utilities for making links supporting the markdown module
+  This module provides useiful utilities for making links supporting the markdown module
   - book(person) - adoc link to person's page in the book
   - dev(person) - adoc link to person in CfsJksAs app on gigalixir
   - werelate(person) - adoc link to person in werelate
@@ -25,6 +25,30 @@ defmodule Cfsjksas.Tools.Link do
     <> book_link(relation, "[Book page]")
 	end
 
+  def book_link(:xxx, id_a) do
+    # make filename and label and create link
+    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+    name = person_a.given_name
+          <> " " <> cond do
+            is_nil(person_a.surname) ->
+              "Unknown"
+            true ->
+              person_a.surname
+          end
+		dates = " (" <> person_a.birth_year <> " - " <> person_a.death_year <> ")"
+		link_label = "[" <> name <> dates <> "]"
+    # need gen label for generation directory
+    gen = person_a.label |> String.split(".") |> List.first()
+    "https://github.com/sparrell/cfs_ancestors/blob/main/"
+		<> "Vol_02_Ships/"
+		<> "V2_C5_Ancestors/"
+    <> gen <> "/"
+    <> person_a.label
+    <> ".adoc"
+    <> link_label
+
+  end
+
   def book_link(relation, label) do
     # filename is combo of generation and relation
     filename = relation_to_file_root(relation)
@@ -32,9 +56,6 @@ defmodule Cfsjksas.Tools.Link do
     "https://github.com/sparrell/cfs_ancestors/blob/main/"
 		<> "Vol_02_Ships/"
 		<> "V2_C5_Ancestors/"
-		#<> "V2_C5_G"
-		#<> to_string(length(relation))
-		#<> "/"
 		<> filename
     <> label
 		<> "\n"
@@ -48,9 +69,8 @@ defmodule Cfsjksas.Tools.Link do
 	end
 
   def werelate(person_p) do
-    # print werelate link if present, or TBD if not
-IEx.pry()
-    url = Map.get(person_p, :werelate)
+    # output werelate link if present, or TBD if not
+    url = Map.get(person_p.links, :werelate)
     case url do
       nil ->
       "* WeRelate TBD\n"
@@ -63,7 +83,7 @@ IEx.pry()
 
 	def myheritage(person_p) do
     # print myheritage link if present, or TBD if not
-    url = Map.get(person_p, :myheritage)
+    url = Map.get(person_p.links, :myheritage)
     case url do
       nil ->
       "* MyHeritage TBD\n"
@@ -76,7 +96,7 @@ IEx.pry()
 
 	def geni(person_p) do
     # print geni link if present, or TBD if not
-    url = Map.get(person_p, :geni)
+    url = Map.get(person_p.links, :geni)
     case url do
       nil ->
       "* Geni TBD\n"
@@ -89,7 +109,7 @@ IEx.pry()
 
   def wikipedia(person_p) do
     # print wikipedia link if present, or leave out if not
-    url = Map.get(person_p, :wikipedia)
+    url = Map.get(person_p.links, :wikipedia)
     case url do
       nil ->
       ""
@@ -102,7 +122,7 @@ IEx.pry()
 
   def wikitree(person_p) do
     # print wikipedia link if present, or leave out if not
-    url = Map.get(person_p, :wikitree)
+    url = Map.get(person_p.links, :wikitree)
     case url do
       nil ->
       "* WikiTree TBD\n"

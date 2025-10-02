@@ -104,6 +104,7 @@ defmodule Cfsjksas.Chart.GetCircle do
         :id,
         :father,
         :mother,
+        :label,
       ],
     },
     sector: %{

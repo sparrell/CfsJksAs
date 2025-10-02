@@ -21,13 +21,11 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K._Kerber.adoc[Louisa K. Kerber (1852 - 1922)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 
 
 == Reference Links
@@ -41,9 +39,9 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[gen1.P.Herbert_Kirkwood_Sparrell_(1899_-_1978)]
 
-* Charles Herbert Sparrell (1873 - 1961)
+* gen2.PP.Charles_Herbert_Sparrell_(1873_-_1961)
 
 
 == Other
@@ -82,6 +80,20 @@ occupation: Paymaster - Const. Company
 
 
 == Sources
+* @S34@
+----
+2 PAGE http://www.myheritage.com/research/collection-10132/1910-united-states-federal-census?s=20674952&itemId=37591443-&groupId=b32f026fbe807fd5c9df94159e9557e9&action=showRecord&indId=individual-20674952-15001347
+2 QUAY 4
+2 DATA
+3 TEXT <p>Charles Sparrell<br />Gender: Male<br />Birth: Circa 1874 - Massachusetts, United States<br />Residence: 1910 - Worcester Ward 7, Worcester, Massachusetts, USA<br />Age: 36<br />Marital status: Mar
+4 CONC ried<br />Race: White<br />Ethnicity: American<br />Wife: Lavinia Sparrell<br />Children: Herbert K Sparrell, Lester S Sparrell<br />Census: Township:Worcester Ward 7Series:T624Image:284 County:Worces
+4 CONC terSheet:29-A State:MassachusettsFamily:682 Date:1910-00-00Line:28 See household members<br /><a id="household"></a>Household<br />Relation to head; Name; Age<br />Head; <a href="research/collection-1
+4 CONC 0132/1910-united-states-federal-census?s=20674952&amp;itemId=37591443-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Charles Sparrell</a>; 36<br />Wife; <a href="research/collect
+4 CONC ion-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34<br />Son; <a href="research/col
+4 CONC lection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11<br />Son; <a href="resear
+4 CONC ch/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6</p>
+----
+
 * @S43@
 ----
 2 PAGE https://www.myheritage.com/research/record-30033-379317/charles-h-sparrell-and-lavinia-e-strong-in-massachusetts-marriages
@@ -103,19 +115,5 @@ occupation: Paymaster - Const. Company
 4 CONC GS Film number: 1843709
 4 CONC Digital Folder Number: 4332401
 4 CONC Image Number: 00557
-----
-
-* @S34@
-----
-2 PAGE http://www.myheritage.com/research/collection-10132/1910-united-states-federal-census?s=20674952&itemId=37591443-&groupId=b32f026fbe807fd5c9df94159e9557e9&action=showRecord&indId=individual-20674952-15001347
-2 QUAY 4
-2 DATA
-3 TEXT <p>Charles Sparrell<br />Gender: Male<br />Birth: Circa 1874 - Massachusetts, United States<br />Residence: 1910 - Worcester Ward 7, Worcester, Massachusetts, USA<br />Age: 36<br />Marital status: Mar
-4 CONC ried<br />Race: White<br />Ethnicity: American<br />Wife: Lavinia Sparrell<br />Children: Herbert K Sparrell, Lester S Sparrell<br />Census: Township:Worcester Ward 7Series:T624Image:284 County:Worces
-4 CONC terSheet:29-A State:MassachusettsFamily:682 Date:1910-00-00Line:28 See household members<br /><a id="household"></a>Household<br />Relation to head; Name; Age<br />Head; <a href="research/collection-1
-4 CONC 0132/1910-united-states-federal-census?s=20674952&amp;itemId=37591443-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Charles Sparrell</a>; 36<br />Wife; <a href="research/collect
-4 CONC ion-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34<br />Son; <a href="research/col
-4 CONC lection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11<br />Son; <a href="resear
-4 CONC ch/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6</p>
 ----
 

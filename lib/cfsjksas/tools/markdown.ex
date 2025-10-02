@@ -19,7 +19,8 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
 IO.inspect(this_id_l, label: "person page this_relation")
-#IEx.pry()
+IEx.pry()
+# redo this next stuff using label for filepath
 		person_l = marked_lineages[this_id_l]
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_l.id)
 
@@ -60,9 +61,11 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		<> person.death_year
 	end
 
-	def make_label(person) do
-		Cfsjksas.Ancestors.Person.get_name(person)
-		<> " (" <> get_dates(person) <> ")"
+
+	def make_label(id_a) do
+		IO.inspect("need to fix make_label")
+		person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+		name = person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
 	end
 
 	def make_title(person) do
@@ -114,7 +117,6 @@ IO.inspect(this_id_l, label: "person page this_relation")
 	end
 
 	def make_refs(person_r, relation) do
-IO.inspect(person_r)
 		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(relation)
 		<> Cfsjksas.Tools.Link.wikipedia(person_p)
@@ -136,148 +138,38 @@ IO.inspect(person_r)
 				# person is not immigrant, and don't have mother so she is brickwall
 				"brickwall"
 			true ->
-				# return label
-				mom_relation = person_r.relation ++ ["M"]
-				mom_r = relations[gen+1][mom_relation]
-IEx.pry()
-				mom_label = "[" <> make_label(mom_r) <> "]"
-
 				# return labeled link
-				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
+				Cfsjksas.Tools.Link.book_link(:xxx, mom_id)
 				<> "\n"
-		end
-
-IEx.pry()
-
-
-
-
-
-
-		termination = person_r.termination
-
-		mom_id = person_r.mother
-
-		mom_text = case {mom_id, person_r.termination} do
-			{nil, :ship} ->
-				"Out of Scope\n"
-			{nil, :no_ship} ->
-				"Out of Scope\n"
-			{nil, :brickwall_both} ->
-				"Brickwall\n"
-			{nil, :brickwall_mother} ->
-				"Brickwall\n"
-			{nil, :brickwall_father} ->
-				"Brickwall\n"
-			{nil, :duplicate} ->
-				"duplicate, need to look up manually\n"
-			{nil, :not} ->
-				"not clear what happening"
-			{nil, huh} ->
-				IO.inspect(huh, label: "unplanned mom termination?")
-				IEx.pry()
-			{^mom_id, :ship} ->
-				IO.inspect(mom_id, label: "ship:mom_id")
-				"ship so parents NA"
-			{^mom_id, :no_ship} ->
-				IO.inspect(mom_id, label: "no_ship:mom_id")
-				"no_ship so parents NA"
-			{^mom_id, :duplicate} ->
-				IO.inspect(mom_id, label: "duplicate:mom_id")
-				"Mom ID = "
-				<> to_string(mom_id)
-				<> "is duplicate. "
-				<> "Software not written yet to handle, "
-				<> "so look up manually"
-			{_mom_id, :not} ->
-				mom_relation = person_r.relation ++ ["M"]
-				mom_r = relations[gen+1][mom_relation]
-				mom_label = "[" <> make_label(mom_r) <> "]"
-
-				# return labeled link
-				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
-				<> "\n"
-			{_mom_id, :brickwall_father} ->
-				# mother like normal
-				mom_relation = person_r.relation ++ ["M"]
-				mom_r = relations[gen+1][mom_relation]
-				mom_label = "[" <> make_label(mom_r) <> "]"
-
-				# return labeled link
-				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
-				<> "\n"
-			{mom_id, classification} ->
-				IEx.pry()
-		end
-
-		dad_id = person_r.father
-
-		dad_text = case {dad_id, person_r.termination} do
-			{nil, :ship} ->
-				"Out of Scope\n"
-			{nil, :no_ship} ->
-				"Out of Scope\n"
-			{nil, :brickwall_both} ->
-				"Brickwall\n"
-			{nil, :brickwall_father} ->
-				"Brickwall\n"
-			{nil, :duplicate} ->
-				"duplicate, need to look up manually\n"
-			{nil, :not} ->
-				"not clear what happening"
-			{nil, huh} ->
-				IO.inspect(huh, label: "unplanned dad termination?")
-				IEx.pry()
-			{^dad_id, :ship} ->
-				IO.inspect(dad_id, label: "ship:dad_id")
-				"ship so parents NA"
-			{^dad_id, :no_ship} ->
-				IO.inspect(dad_id, label: "no_ship:dad_id")
-				"no_ship so parents NA"
-			{^dad_id, :duplicate} ->
-				IO.inspect(dad_id, label: "duplicate:dad_id")
-
-				"Dad ID = "
-				<> to_string(dad_id)
-				<> "is duplicate. "
-				<> "Software not written yet to handle, "
-				<> "so look up manually"
-			{_dad_id, :not} ->
-				dad_relation = person_r.relation ++ ["P"]
-				dad_r = relations[gen+1][dad_relation]
-				dad_label = "[" <> make_label(dad_r) <> "]"
-
-				# return labeled link
-				Cfsjksas.Tools.Link.book_link(dad_relation, dad_label)
-			{_dad_id, :brickwall_mother} ->
-				# dad still there so treat like normal
-				dad_relation = person_r.relation ++ ["P"]
-				dad_r = relations[gen+1][dad_relation]
-				dad_label = "[" <> make_label(dad_r) <> "]"
-
-				# return labeled link
-				Cfsjksas.Tools.Link.book_link(dad_relation, dad_label)
-
-				<> "\n"
-			{_, _} ->
-				IEx.pry()
-
 			end
 
-			child_text = case gen do
-				# special case for gen 1
-				1 ->
-					"CFS/JKS/AS"
-				_ ->
+			dad_id = person_a.father
+			dad_text = cond do
+				(dad_id == nil) and (person_a.ship != nil) ->
+					# person in immigrant so Mom is out of scope
+					"immigrant so Dad is NA"
+				dad_id == nil ->
+					# person is not immigrant, and don't have father so she is brickwall
+					"brickwall"
+				true ->
+					# return labeled link
+					Cfsjksas.Tools.Link.book_link(:xxx, dad_id)
+					<> "\n"
+			end
+
+		child_text = case gen do
+			# special case for gen 1
+			1 ->
+				"CFS/JKS/AS"
+			_ ->
 				# to get the child in this line, take off the last P or M in the relation
 				child_relation = List.delete_at(person_r.relation, -1)
-				child_r = relations[gen-1][child_relation]
-				child_label = "[" <> make_label(child_r) <> "]"
-
+				# find the id_a of the child
+				child_id_a = Cfsjksas.Chart.AgentStores.get_person_r(child_relation).id_a
 				# return labeled link
-				Cfsjksas.Tools.Link.book_link(child_relation, child_label)
-				<> "\n"
-			end
+				Cfsjksas.Tools.Link.book_link(:xxx, child_id_a)
+					<> "\n"
+		end
 
 		"* Mother: "
 		<> mom_text
@@ -340,7 +232,7 @@ IEx.pry()
 		end
 
 		make_lineage(init_text, [], mod_r_list)
-		<> "* " <> make_label(person) <> "\n\n"
+		<> "* " <> make_label(person.id) <> "\n\n"
 	end
 	@doc """
 	make_lineage(person_r, text, done, todo, gen, relations)
@@ -359,7 +251,7 @@ IEx.pry()
 		this_relation = done ++ [this]
 		gen = length(this_relation)
 		this_person = Cfsjksas.Ancestors.GetLineages.person(gen, this_relation)
-		label = "[" <> make_label(this_person) <> "]"
+		label = "[" <> make_label(this_person.id) <> "]"
 		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_relation, label) <> "\n"
 		new_done = done ++ [this]
 		# recurse thru rest
@@ -492,7 +384,6 @@ IEx.pry()
 		# keys already covered
 		already = Cfsjksas.Chart.GetCircle.already()
 
-#		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
 		person = Cfsjksas.Chart.AgentStores.get_person_a(person_id)
 
 		Map.keys(person) -- already

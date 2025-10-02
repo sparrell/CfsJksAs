@@ -21,13 +21,11 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb.adoc[Martha Avery Edgecomb (1855 - 1939)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
 
 
 == Reference Links
@@ -41,19 +39,19 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[gen1.M.Marion_F_Fisher_(1904_-_2002)]
 
-* Ida A Hurlburt (1874 - 1965)
+* gen2.MM.Ida_A_Hurlburt_(1874_-_1965)
 
 
 == Other
-event:  _MEDICAL of Hurlburt, Ida A.
-----
-2 TYPE _MEDICAL
-----
- Coronary Thrombosis
+event:  Coronary Thrombosis
 ----
 2 TYPE _DCAUSE
+----
+ _MEDICAL of Hurlburt, Ida A.
+----
+2 TYPE _MEDICAL
 ----
 
 notes: Sometime after Albert's death Ida and Marion moved down to New London .World War I was coming on and Ida got a job at the Electric Boat Company as a secretary. While there she met and married her seco
@@ -72,17 +70,17 @@ occupation: Poultry Farmer,
 2 PLAC Uncasville, New London, Connecticut, USA
 2 AGE About 50-51
 ----
-Stenographer -Electric Boat Co.,
-----
-2 DATE 1920
-2 PLAC Groton, New London, Connecticut, USA
-2 AGE 45-46
-----
 Secretary-Typist,
 ----
 2 DATE ABT 1895
 2 PLAC Boston, Suffolk, Massachusetts, USA
 2 AGE About 20-21
+----
+Stenographer -Electric Boat Co.,
+----
+2 DATE 1920
+2 PLAC Groton, New London, Connecticut, USA
+2 AGE 45-46
 ----
 
 

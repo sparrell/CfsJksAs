@@ -21,13 +21,11 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Alice Virginia Edgecomb (1850 - 1914)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMP.Albert_Randolph_Strong[Albert Randolph Strong (1845 - 1920)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 
 
 == Reference Links
@@ -41,9 +39,9 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[gen1.P.Herbert_Kirkwood_Sparrell_(1899_-_1978)]
 
-* Lavinia Elizabeth Strong (1875 - 1941)
+* gen2.PM.Lavinia_Elizabeth_Strong_(1875_-_1941)
 
 
 == Other

@@ -31,7 +31,6 @@ defmodule Cfsjksas.DevTools.Labels do
               person_a.surname
           end
     |> String.replace(" ", "_")
-    dates = "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
     # need to find "best" relation (if multiple) to base gen and relation on
 IO.inspect(id_a)
     label = relation_label(person_a.relation_list) <> "." <> name
