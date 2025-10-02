@@ -21,19 +21,17 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell[Desire Sparrell (1798 - 1872)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPPP.James_Newton_Sparrell[James Newton Sparrell (1798 - 1859)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0328[Dev website]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000564/james-newton-sparrell[WeRelate]
+* https://www.werelate.org/wiki/Person:James_Sparrell_%283%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000564/james-newton-sparrell[MyHeritage]
 * https://www.geni.com/people/James-Newton-Sparrell/6000000007500306389[Geni]
 * WikiTree TBD
@@ -41,13 +39,10 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
-
-* James Newton Sparrell (1825 - 1877)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* gen4.PPPP.James_Newton_Sparrell_(1825_-_1877)
 
 
 == Other
@@ -59,31 +54,31 @@ census:
 ----
 
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-event:  Resigned; Illness-Hall's Hill VA
-----
-2 TYPE Military Service
-2 DATE 16 JAN 1862
-2 PLAC Arlington, Arlington, Virginia, USA
-2 AGE 36
-----
- Recurring fever contracted in VA
-----
-2 TYPE _DCAUSE
-----
- Mustered Ist Lt, Co G, 18 MVM-
+event:  Mustered Ist Lt, Co G, 18 MVM-
 ----
 2 TYPE Military Service
 2 DATE 7 MAY 1861
 2 PLAC Hanover, Plymouth, Massachusetts, USA
 2 AGE 36
 ----
+ Recurring fever contracted in VA
+----
+2 TYPE _DCAUSE
+----
+ Resigned; Illness-Hall's Hill VA
+----
+2 TYPE Military Service
+2 DATE 16 JAN 1862
+2 PLAC Arlington, Arlington, Virginia, USA
+2 AGE 36
+----
 
 notes: 1860 Federal Census - Carpenter; family shared house in South Scituate with family of brother, George Sparrell.
-occupation: Shoe finisher
+occupation: "Machinist"; census-
 ----
-2 DATE 1869
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 43-44
+2 DATE 1855
+2 PLAC Marshfield, Plymouth, Massachusetts, USA
+2 AGE 29-30
 ----
 Carpenter
 ----
@@ -91,11 +86,11 @@ Carpenter
 2 PLAC Scituate, Plymouth, Massachusetts, USA
 2 AGE 34-35
 ----
-"Machinist"; census-
+Housewright -
 ----
-2 DATE 1855
-2 PLAC Marshfield, Plymouth, Massachusetts, USA
-2 AGE 29-30
+2 DATE 1845
+2 PLAC New Bedford, Bristol, Massachusetts, USA
+2 AGE 19-20
 ----
 Pattern Maker -
 ----
@@ -103,11 +98,11 @@ Pattern Maker -
 2 PLAC Worcester, Worcester, Massachusetts, USA
 2 AGE 25-26
 ----
-Housewright -
+Shoe finisher
 ----
-2 DATE 1845
-2 PLAC New Bedford, Bristol, Massachusetts, USA
-2 AGE 19-20
+2 DATE 1869
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 43-44
 ----
 
 

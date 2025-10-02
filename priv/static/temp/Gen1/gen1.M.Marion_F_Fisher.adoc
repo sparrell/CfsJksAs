@@ -35,15 +35,14 @@ add story about maid and butler stealing silver and locking her in closet
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 
-
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 
 * Child*: CFS/JKS/AS
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
 * https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
 * https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
@@ -53,7 +52,7 @@ add story about maid and butler stealing silver and locking her in closet
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* Marion F Fisher (1904 - 2002)
+* gen1.M.Marion_F_Fisher_(1904_-_2002)
 
 
 == Other

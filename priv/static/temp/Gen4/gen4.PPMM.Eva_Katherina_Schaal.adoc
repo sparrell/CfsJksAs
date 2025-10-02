@@ -14,15 +14,21 @@ Narrative TBD
 * Age at Death: 73-74
 
 
-== Family
-* Mother: no_ship so parents NA
-* Father: no_ship so parents NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
+== Ship
+* Unknown
+* between 1828 and 1852
 
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMMM.Christine_Brumer.adoc[Christine Brumer (? - ?)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMMP.Unknown214_Schaal.adoc[Unknown214 Schaal (? - ?)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K._Kerber.adoc[Louisa K. Kerber (1852 - 1922)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMM.Eva_Katherina_Schaal[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0153[Dev website]
 * https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber[MyHeritage]
@@ -32,13 +38,10 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K_Kerber[Louisa K. Kerber (1852 - 1922)]
-
-* Eva Katherina Schaal (1828 - 1902)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K._Kerber.adoc[Louisa K. Kerber (1852 - 1922)]
+* gen4.PPMM.Eva_Katherina_Schaal_(1828_-_1902)
 
 
 == Other

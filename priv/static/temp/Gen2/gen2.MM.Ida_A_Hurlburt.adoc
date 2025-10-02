@@ -53,16 +53,7 @@ event:  Coronary Thrombosis
 2 TYPE _MEDICAL
 ----
 
-notes: Sometime after Albert's death Ida and Marion moved down to New London .World War I was coming on and Ida got a job at the Electric Boat Company as a secretary. While there she met and married her seco
-----
-2 CONC nd husband, Cyril Hewitt. Cyril was a draftstman at the shipyard. Cyril lived in Uncasville and Ida's father had retired from the railroad and moved back there into Ida's grandmother's house. Cyril an
-2 CONC d Ida built property on the west side of the Norwich-New London Road just North of the Waterford-Montville line. They built a house and started a chicken farm, raising White Leghorn hens to provide wh
-2 CONC ite eggs. (White eggs found a ready market among the New Yorkers who were moving into Connecticut. Native New Englanders produced and used only brown eggs.) <p></p> <p>The poultry business was a succe
-2 CONC ss, but Cyril was not well and and diedin the 1920's. Ida ran the farm alone until about 1940. She was in her60's and the work got too hard for her. She went to work atConecticutCollege as a salad pre
-2 CONC parer in the dining room. Sometime in the 50's she retired from that. After an accident in which she demolished her car, Marion convinced her to sell her home. Kirkwood built her a small house next to
-2 CONC  theirs in Wickford RI and there she lived for the rest of her life.
-----
-
+notes: Sometime after Albert's death Ida and Marion moved down to New London. World War I was coming on and Ida got a job at the Electric Boat Company as a secretary. While there she, met and married her second husband, Cyril Hewitt. Cyril was a draftstman at the shipyard. Cyril lived in Uncasville and Ida's father had retired from the railroad and moved back there into Ida's grandmother's house. Cyril and Ida built property on the west side of the Norwich-New London Road just North of the Waterford-Montville line. They built a house and started a chicken farm, raising White Leghorn hens to provide white eggs. (White eggs found a ready market among the New Yorkers who were moving into Connecticut. Native New Englanders produced and used only brown eggs.) <p></p> <p>The poultry business was a success, but Cyril was not well and died in the 1920's. Ida ran the farm alone until about 1940. She was in her 60's and the work got too hard for her. She went to work at Conecticut College as a salad preparer in the dining room. Sometime in the 50's she retired from that. After an accident in which she demolished her car, Marion convinced her to sell her home. Kirkwood built her a small house next to theirs in Wickford RI and there she lived for the rest of her life.
 occupation: Poultry Farmer,
 ----
 2 DATE ABT 1925

@@ -21,17 +21,15 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S._Gleason.adoc[Emiline S. Gleason (1825 - 1908)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell[James Newton Sparrell (1825 - 1877)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0273[Dev website]
 * https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell[MyHeritage]
@@ -41,11 +39,9 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
-
-* Herbert Kirkwood Sparrell (1847 - 1923)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* gen3.PPP.Herbert_Kirkwood_Sparrell_(1847_-_1923)
 
 
 == Other
@@ -56,9 +52,11 @@ census:
 2 AGE 13
 ----
 
-event:  _MEDICAL of Sparrell, Herbert Kirkwood
+event:  18th MVM- Orderly to Colonel Hayes
 ----
-2 TYPE _MEDICAL
+2 TYPE Military Service
+2 DATE MAY 1861
+2 AGE 13-14
 ----
  Cardio-renal failure
 ----
@@ -70,11 +68,9 @@ event:  _MEDICAL of Sparrell, Herbert Kirkwood
 2 DATE 1920
 2 AGE 72-73
 ----
- 18th MVM- Orderly to Colonel Hayes
+ _MEDICAL of Sparrell, Herbert Kirkwood
 ----
-2 TYPE Military Service
-2 DATE MAY 1861
-2 AGE 13-14
+2 TYPE _MEDICAL
 ----
 
 notes: <p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the
@@ -92,15 +88,26 @@ notes: <p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Wor
 2 CONC ly Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA</p>
 ----
 
-occupation: Vice Pres., Bowler Bros.
+occupation: Butcher,
 ----
-2 DATE 1899
-2 AGE 51-52
+2 DATE 1864
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 16-17
+----
+Clerk
+----
+2 DATE 1875
+2 AGE 27-28
 ----
 General Agent, Bowler Brothers Brewery
 ----
 2 DATE 1897
 2 AGE 49-50
+----
+Partner with F. J. Kerber in Butcher shop
+----
+2 DATE 1872
+2 AGE 24-25
 ----
 Salesman, Bowler Bros.
 ----
@@ -112,31 +119,20 @@ Saloon Keeper
 2 DATE 1880
 2 AGE 32-33
 ----
-Clerk
+Saloon Keeper
 ----
-2 DATE 1875
-2 AGE 27-28
+2 DATE 1883
+2 AGE 35-36
 ----
 Shop failed in financial panic
 ----
 2 DATE 1874
 2 AGE 26-27
 ----
-Partner with F. J. Kerber in Butcher shop
+Vice Pres., Bowler Bros.
 ----
-2 DATE 1872
-2 AGE 24-25
-----
-Butcher,
-----
-2 DATE 1864
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 16-17
-----
-Saloon Keeper
-----
-2 DATE 1883
-2 AGE 35-36
+2 DATE 1899
+2 AGE 51-52
 ----
 
 residence: 

@@ -40,6 +40,7 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
   * write out to temp file
   * add :links to every person
   * actually put link in
+  * extra colon at begining of marked_ex.txt
 
 ## Cruft beyond here
 

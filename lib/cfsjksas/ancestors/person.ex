@@ -42,23 +42,23 @@ defmodule Cfsjksas.Ancestors.Person do
 
   def get_name_dates(person) do
     name = get_name(person)
-    birth = case person.birth_date do
+    birth = case person.birth_year do
       nil ->
         "?"
       _ ->
-        person.birth_date
+        person.birth_year
     end
-    death = case person.death_date do
+    death = case person.death_year do
       nil ->
         "?"
       _ ->
-        person.death_date
+        person.death_year
     end
     name <> " (" <> birth <> " - " <> death <> ")"
   end
 
-  def ship(id) do
-    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
+  def ship(id_a) do
+    person = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
 		if person == nil do
 			IEx.pry()
 		end

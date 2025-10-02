@@ -29,15 +29,17 @@ defmodule Cfsjksas.Tools.Link do
   def book_link(id_a) do
     # make filename and label and create link
     person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
-    name = person_a.given_name
-          <> " " <> cond do
-            is_nil(person_a.surname) ->
-              "Unknown"
-            true ->
-              person_a.surname
-          end
-		dates = " (" <> person_a.birth_year <> " - " <> person_a.death_year <> ")"
-		link_label = "[" <> name <> dates <> "]"
+
+#    name = person_a.given_name
+#          <> " " <> cond do
+#            is_nil(person_a.surname) ->
+#              "Unknown"
+#            true ->
+#              person_a.surname
+#          end
+#		dates = " (" <> person_a.birth_year <> " - " <> person_a.death_year <> ")"
+#xxx		link_label = "[" <> name <> dates <> "]"
+    link_label = "[" <> Cfsjksas.Ancestors.Person.get_name_dates(person_a) <> "]"
     # need gen label for generation directory
     gen = person_a.label |> String.split(".") |> List.first()
     "https://github.com/sparrell/cfs_ancestors/blob/main/"
@@ -47,19 +49,6 @@ defmodule Cfsjksas.Tools.Link do
     <> person_a.label
     <> ".adoc"
     <> link_label
-
-  end
-
-  def book_link(relation, label) do
-    # filename is combo of generation and relation
-    filename = relation_to_file_root(relation)
-
-    "https://github.com/sparrell/cfs_ancestors/blob/main/"
-		<> "Vol_02_Ships/"
-		<> "V2_C5_Ancestors/"
-		<> filename
-    <> label
-		<> "\n"
 
   end
 

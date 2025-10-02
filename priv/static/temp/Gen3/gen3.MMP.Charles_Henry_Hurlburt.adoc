@@ -21,17 +21,15 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S._Hurlburt.adoc[Charles S. Hurlburt (1823 - 1886)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Charles S. Hurlburt (1823 - 1886)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0071[Dev website]
 * https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt[MyHeritage]
@@ -41,25 +39,23 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* Charles Henry Hurlburt (1849 - 1930)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* gen3.MMP.Charles_Henry_Hurlburt_(1849_-_1930)
 
 
 == Other
-census:  RR Agent Boston - Residence Dorchester
-----
-2 DATE 1910
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE 60-61
-----
- RR Agent
+census:  RR Agent
 ----
 2 DATE 1900
 2 PLAC Boston, Suffolk, Massachusetts, USA
 2 AGE 50-51
+----
+ RR Agent Boston - Residence Dorchester
+----
+2 DATE 1910
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+2 AGE 60-61
 ----
  US Census listed under parents in Oxford MA
 ----
@@ -74,19 +70,7 @@ notes: <p>The Worcester and Nashua Railroad became the Worcester Nashua and Roch
 2 CONC 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>
 ----
 
-occupation: RR Agent
-----
-2 DATE 1876
-2 PLAC Rochester, Strafford, New Hampshire, USA
-2 AGE 26-27
-----
-Clerk, W&N RR
-----
-2 DATE 1874
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 24-25
-----
-Clerk R.R. Office -
+occupation: Clerk R.R. Office -
 ----
 2 DATE 1870
 2 PLAC Uncasville, New London, Connecticut, USA
@@ -97,6 +81,18 @@ Clerk, Freight House, W&N RR
 2 DATE 1873
 2 PLAC Worcester, Worcester, Massachusetts, USA
 2 AGE 23-24
+----
+Clerk, W&N RR
+----
+2 DATE 1874
+2 PLAC Worcester, Worcester, Massachusetts, USA
+2 AGE 24-25
+----
+RR Agent
+----
+2 DATE 1876
+2 PLAC Rochester, Strafford, New Hampshire, USA
+2 AGE 26-27
 ----
 
 

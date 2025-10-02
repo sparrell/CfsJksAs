@@ -3,7 +3,7 @@ defmodule Cfsjksas.Tools.Markdown do
 	require IEx
 
 	def person_pages(:all) do
-		Enum.each(0..14, fn gen -> person_pages(gen) end)
+		Enum.each(1..14, fn gen -> person_pages(gen) end)
 	end
 
 	def person_pages(gen) do
@@ -34,7 +34,6 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		<> "\n== Vital Stats\n"
 		<> make_vitals(person_a)
 		<> make_ship(person_a, Map.has_key?(person_a, :ship))
-		<> make_no_ship(person_a, Map.has_key?(person_a, :no_ship))
 		<> "\n== Family\n"
 		<> make_family(person_l, gen)
 		<> "\n== Reference Links\n"
@@ -128,7 +127,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_r.id)
 		mom_id = person_a.mother
 		mom_text = cond do
-			(mom_id == nil) and (person_a.ship != nil) ->
+			(mom_id == nil) and (Map.has_key?(person_a, :ship)) and (person_a.ship != nil) ->
 				# person in immigrant so Mom is out of scope
 				"immigrant so Mom is NA"
 			mom_id == nil ->
@@ -142,7 +141,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 
 			dad_id = person_a.father
 			dad_text = cond do
-				(dad_id == nil) and (person_a.ship != nil) ->
+				(dad_id == nil) and (Map.has_key?(person_a, :ship)) and (person_a.ship != nil) ->
 					# person in immigrant so Mom is out of scope
 					"immigrant so Dad is NA"
 				dad_id == nil ->
@@ -257,20 +256,36 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		# not an immigrant so leave off ship markdown
 		""
 	end
-	def make_ship(person_r, true) do
-		# immigrgant whose ship is known
-		IEx.pry()
-		"\n== Ship\n"
-	end
-	def make_no_ship(_person_r, false) do
-		# not an immigrant so leave off no_ship markdown
-		""
-	end
-	def make_no_ship(person_r, true) do
-		# immigrgant whose ship is unknown
-		IEx.pry()
-		"\n== No Ship\n"
+	def make_ship(person_a, true) do
+		# immigrant since has ship key
+		# multiple cases on what is known
+		if is_nil(person_a.ship) do
+			# why get here?
+			IEx.pry()
+		end
 
+		ship_name = cond do
+			Map.has_key?(person_a.ship, :name) == false ->
+				"Unknown"
+			person_a.ship.name == nil ->
+				"Unknown"
+			true ->
+				person_a.ship.name
+		end
+
+		ship_date = cond do
+			Map.has_key?(person_a.ship, :year) == false ->
+				"Unknown"
+			person_a.ship.year == nil ->
+				"Unknown"
+			true ->
+				person_a.ship.year
+		end
+
+		"\n== Ship\n"
+		<> "* " <> ship_name <> "\n"
+		<> "* " <> ship_date <> "\n"
+		<> "\n"
 	end
 
 	def make_other(person_r) do

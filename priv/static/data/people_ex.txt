@@ -68630,8 +68630,6 @@
 			emigration: [
 			],
 			event: [
-				" 189\n2 TYPE Reference Number",
-				" 189\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
