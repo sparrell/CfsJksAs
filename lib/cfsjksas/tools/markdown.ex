@@ -8,25 +8,9 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def person_pages(gen) do
 
-		marked_lineages = Cfsjksas.Tools.Relation.make_lineages()
-    |> Cfsjksas.Tools.Relation.make_sector_lineages()
-    |> Cfsjksas.Tools.Relation.mark_lineages()
-IO.inspect("need to convert person_pages to use marked lineages so can remove dedup")
-
-#		dedup_relations = Cfsjksas.Tools.Relation.dedup()
-#		people_keys = Map.keys(dedup_relations[gen])
-#		person_page(people_keys, gen, dedup_relations)
-
-		people_keys = marked_lineages
-		|> Enum.filter(fn {{l_gen, _quadrant, _sector}, _value} ->
-      gen == l_gen
-      end)
-		|> Enum.map(fn
-		{{gen, quadrant, sector}, _value} ->
-			{gen, quadrant, sector}
-		end)
-
-		person_page(people_keys, gen, marked_lineages)
+		marked_lineages = Cfsjksas.Chart.AgentStores.get_marked_lineages()
+		this_gen_keys = Cfsjksas.Chart.AgentStores.m_ids_by_gen(gen)
+		person_page(this_gen_keys, gen, marked_lineages)
 	end
 
 	def person_page([], gen, _marked_lineages) do
@@ -34,32 +18,34 @@ IO.inspect("need to convert person_pages to use marked lineages so can remove de
 		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
-IO.inspect(this_id_l, label: "personpage this_relation")
-#		person = dedup_relations[gen][this_relation]
-		person = marked_lineages[this_id_l]
-		this_relation = person.relation
+IO.inspect(this_id_l, label: "person page this_relation")
+#IEx.pry()
+		person_l = marked_lineages[this_id_l]
+		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_l.id)
+
+		this_relation = person_l.relation
 
 		filepath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc)
 
-		check_facts(person.id)
+		check_facts(person_l.id)
 
 		"= "
-		<> make_title(person)
+		<> make_title(person_a)
 		<> make_narrative(this_relation)
 		<> "\n== Vital Stats\n"
-		<> make_vitals(person)
-		<> make_ship(person, Map.has_key?(person, :ship))
-		<> make_no_ship(person, Map.has_key?(person, :no_ship))
+		<> make_vitals(person_a)
+		<> make_ship(person_a, Map.has_key?(person_a, :ship))
+		<> make_no_ship(person_a, Map.has_key?(person_a, :no_ship))
 		<> "\n== Family\n"
-		<> make_family(person, gen, marked_lineages)
+		<> make_family(person_l, gen, marked_lineages)
 		<> "\n== Reference Links\n"
-		<> make_refs(person,this_relation)
+		<> make_refs(person_a,this_relation)
 		<> "\n== Relations\n"
-		<> make_relations(person)
+		<> make_relations(person_a)
 		<> "\n== Other\n"
-		<> make_other(person)
+		<> make_other(person_a)
 		<> "\n== Sources\n"
-		<> make_sources(person)
+		<> make_sources(person_a)
     |> Cfsjksas.Circle.Geprint.write_file(filepath)
 
 		IO.inspect(this_relation, label: "wrote")
@@ -140,6 +126,34 @@ IO.inspect(person_r)
 	end
 
 	def make_family(person_r, gen, relations) do
+		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_r.id)
+		mom_id = person_a.mother
+		mom_text = cond do
+			(mom_id == nil) and (person_a.ship != nil) ->
+				# person in immigrant so Mom is out of scope
+				"immigrant so Mom is NA"
+			mom_id == nil ->
+				# person is not immigrant, and don't have mother so she is brickwall
+				"brickwall"
+			true ->
+				# return label
+				mom_relation = person_r.relation ++ ["M"]
+				mom_r = relations[gen+1][mom_relation]
+IEx.pry()
+				mom_label = "[" <> make_label(mom_r) <> "]"
+
+				# return labeled link
+				Cfsjksas.Tools.Link.book_link(mom_relation, mom_label)
+				<> "\n"
+		end
+
+IEx.pry()
+
+
+
+
+
+
 		termination = person_r.termination
 
 		mom_id = person_r.mother
@@ -478,7 +492,8 @@ IO.inspect(person_r)
 		# keys already covered
 		already = Cfsjksas.Chart.GetCircle.already()
 
-		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
+#		person = Cfsjksas.Ancestors.GetAncestors.person(person_id)
+		person = Cfsjksas.Chart.AgentStores.get_person_a(person_id)
 
 		Map.keys(person) -- already
 		|> check_facts(person)
