@@ -19,11 +19,11 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPMMM.Christine_Brumer.adoc[Christine Brumer (? - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPMMM.Christine_Brumer.adoc[Christine Brumer (? - ?)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0155[Dev website]
 * https://www.werelate.org/wiki/Person:Christine_Brumer_%281%29[WeRelate]
 * MyHeritage TBD
@@ -33,10 +33,10 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K._Kerber.adoc[Louisa K. Kerber (1852 - 1922)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Louisa K Kerber (1852 - 1922)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
 * gen5.PPMMM.Christine_Brumer_(?_-_?)
 
 

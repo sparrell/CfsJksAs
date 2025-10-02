@@ -21,15 +21,15 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S._Gleason.adoc[Emiline S. Gleason (1825 - 1908)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0273[Dev website]
 * https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell[MyHeritage]
@@ -39,8 +39,8 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 * gen3.PPP.Herbert_Kirkwood_Sparrell_(1847_-_1923)
 
 
@@ -73,21 +73,7 @@ event:  18th MVM- Orderly to Colonel Hayes
 2 TYPE _MEDICAL
 ----
 
-notes: <p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the
-----
-2 CONC  trade. Through his work he became acquainted with a German beer & sausage saloonkeeper named Franz Josef Kerber. In 1871 they established a "smoked meat shop" under the name of Kerber & Sparrell cate
-2 CONC ring to the local German immigrant community. In 1872 Herbert married Louisa Katherine, one of the identical twin daughters of Franz. In August 1873, Franz died leaving Herbert and Louisa to run the s
-2 CONC hop. Louisa and Herbert extended credit to their customers, entering the sums due in a large ledger. In 1874 a financial panic occurred. Many customers lost their jobs and were unable to pay their bil
-2 CONC ls. The shop went under and the penniless couple was helped out by her extended family of German relatives.</p><p><p></p></p><p><p>Herbert found a job as a clerk in 1875, but by 1883 he had establishe
-2 CONC d abeer and sausage saloon catering to the German community. While runningthe saloon, Herbert met two brothers from Yorkshire who knew how to make good English ale but didn't know how to market it to 
-2 CONC Americans.  (Inthose days, beer and ale were locally brewed and distributed in barrels to saloons. If you wanted beer, you drank ina saloon or took a tin container called a "growler" down to the saloo
-2 CONC n to be filled and broughthome.) Herbert offered to help the Bowler brothers sell their beer to the local saloons. Herbert turned out to be a fabulous salesman. Bowler Brothers became the largest brew
-2 CONC ery in Massachusetts. In 1891, Herbert'stitle was "salesman", by 1897 he was "General Agent" and by 1899, VicePresident. The Bowler brothers and H.K. Sparrell made fortunes and livedin grand style. Wh
-2 CONC en the Volstead Act outlawed beer in 1918, they wereold and rich so they just shut up shop and retired. Herbert K. left quite a bit of money to his children and grandchildren when he died in 1923.<p><
-2 CONC p></p></p><p><p>Bowler Brothers Brewery, Ltd. operated from 1883 - 1918 at the corner of Quinsigamond and  Ellsworth Streets in Worcester.</p></p><p><p></p></p><p>According to article in Worcester Dai
-2 CONC ly Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA</p>
-----
-
+notes: <p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the trade. Through his work he became acquainted with a German beer & sausage saloonkeeper named Franz Josef Kerber. In 1871 they established a "smoked meat shop" under the name of Kerber & Sparrell catering to the local German immigrant community. In 1872 Herbert married Louisa Katherine, one of the identical twin daughters of Franz. In August 1873, Franz died leaving Herbert and Louisa to run the shop. Louisa and Herbert extended credit to their customers, entering the sums due in a large ledger. In 1874 a financial panic occurred. Many customers lost their jobs and were unable to pay their bills. The shop went under and the penniless couple was helped out by her extended family of German relatives.</p><p><p></p></p><p><p>Herbert found a job as a clerk in 1875, but by 1883 he had established abeer and sausage saloon catering to the German community. While runningthe saloon, Herbert met two brothers from Yorkshire who knew how to make good English ale but didn't know how to market it to Americans.  (Inthose days, beer and ale were locally brewed and distributed in barrels to saloons. If you wanted beer, you drank ina saloon or took a tin container called a "growler" down to the saloon to be filled and broughthome.) Herbert offered to help the Bowler brothers sell their beer to the local saloons. Herbert turned out to be a fabulous salesman. Bowler Brothers became the largest brewery in Massachusetts. In 1891, Herbert'stitle was "salesman", by 1897 he was "General Agent" and by 1899, VicePresident. The Bowler brothers and H.K. Sparrell made fortunes and livedin grand style. When the Volstead Act outlawed beer in 1918, they wereold and rich so they just shut up shop and retired. Herbert K. left quite a bit of money to his children and grandchildren when he died in 1923.<p><p></p></p><p><p>Bowler Brothers Brewery, Ltd. operated from 1883 - 1918 at the corner of Quinsigamond and  Ellsworth Streets in Worcester.</p></p><p><p></p></p><p>According to article in Worcester Daily Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA</p>
 occupation: Butcher,
 ----
 2 DATE 1864

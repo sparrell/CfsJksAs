@@ -1,4 +1,4 @@
-= Louisa K. Kerber (1852 - 1922)
+= Louisa K Kerber (1852 - 1922)
 
 Narrative TBD
 
@@ -20,15 +20,15 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPMP.Franz_Josef_Kerber.adoc[Franz Josef Kerber (1825 - 1873)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.Franz_Josef_Kerber.adoc[Franz Josef Kerber (1825 - 1873)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPM.Louisa_K._Kerber.adoc[Louisa K. Kerber (1852 - 1922)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Louisa K Kerber (1852 - 1922)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0285[Dev website]
 * https://www.werelate.org/wiki/Person:Louisa_Kerber_%281%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000520/louisa-k-kerber-sparrell[MyHeritage]
@@ -38,9 +38,9 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
-* gen3.PPM.Louisa_K._Kerber_(1852_-_1922)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* gen3.PPM.Louisa_K_Kerber_(1852_-_1922)
 
 
 == Other
@@ -56,11 +56,6 @@ event:  had an identical  twin sister Sarah
 2 TYPE Twin
 ----
 
-notes: <p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her b
-----
-2 CONC ed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried
-2 CONC  coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>
-----
-
+notes: <p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her bed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>
 
 == Sources

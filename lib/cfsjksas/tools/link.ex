@@ -30,22 +30,17 @@ defmodule Cfsjksas.Tools.Link do
     # make filename and label and create link
     person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
 
-#    name = person_a.given_name
-#          <> " " <> cond do
-#            is_nil(person_a.surname) ->
-#              "Unknown"
-#            true ->
-#              person_a.surname
-#          end
-#		dates = " (" <> person_a.birth_year <> " - " <> person_a.death_year <> ")"
-#xxx		link_label = "[" <> name <> dates <> "]"
     link_label = "[" <> Cfsjksas.Ancestors.Person.get_name_dates(person_a) <> "]"
     # need gen label for generation directory
-    gen = person_a.label |> String.split(".") |> List.first()
+    gen = person_a.label
+    |> String.split(".")
+    |> List.first()
+    |> String.slice(3..-1)
+
     "https://github.com/sparrell/cfs_ancestors/blob/main/"
 		<> "Vol_02_Ships/"
 		<> "V2_C5_Ancestors/"
-    <> gen <> "/"
+    <> "V2_C5_G" <> gen <> "/"
     <> person_a.label
     <> ".adoc"
     <> link_label
@@ -152,18 +147,23 @@ defmodule Cfsjksas.Tools.Link do
 
   def make_filename(relation, :adoc) do
     # filepath for people pages
-    filepath = @adocpath
-    <> relation_to_file_root(relation)
-    <> ".adoc"
 
+    # get person_a from relation
+    id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
+    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
+
+    gen = @adocpath <> "Gen" <> to_string(length(relation)) <> "/"
+    filepath = gen <> person_a.label <> ".adoc"
     Path.join(:code.priv_dir(:cfsjksas), filepath )
   end
   def make_filename(relation, :md) do
     # filepath for people pages
-    filepath = @datapath
-    <> relation_to_file_root(relation)
-    <> ".md"
+    # get person_a from relation
+    id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
+    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
 
+    gen = @adocpath <> "Gen" <> to_string(length(relation)) <> "/"
+    filepath = gen <> person_a.label <> ".md"
     Path.join(:code.priv_dir(:cfsjksas), filepath )
   end
 

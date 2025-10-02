@@ -35,10 +35,10 @@ defmodule Cfsjksas.Ancestors.GetLineages do
     case person_r do
       nil ->
         # oops, need to find the duplicate
-        {id_a, _id_m} = Cfsjksas.Chart.AgentStores.get_person_r(relation)
+        id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
 IEx.pry()
 #        a_id = Cfsjksas.Tools.Relation.find_a_id_from_relation(relation)
-        Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+        Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
       _ ->
         # non-nil so return it
         person_r

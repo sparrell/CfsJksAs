@@ -21,15 +21,15 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPPM.Ann_Pierce.adoc[Ann Pierce (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPM.Ann_Pierce.adoc[Ann Pierce (? - ?)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPPP.Jacob_Fisher.adoc[Jacob Fisher (1776 - 1820)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPP.Jacob_Fisher.adoc[Jacob Fisher (1776 - 1820)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPP.Albert_Fisher.adoc[Albert Fisher (1812 - 1887)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPP.Albert_Fisher.adoc[Albert Fisher (1812 - 1887)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0188[Dev website]
 * https://www.werelate.org/wiki/Person:Albert_Fisher_%2812%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000422/albert-fisher[MyHeritage]
@@ -39,8 +39,8 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 * gen3.MPP.Albert_Fisher_(1812_-_1887)
 
 
@@ -57,11 +57,7 @@ event:  See Notes
 2 TYPE Misc
 ----
 
-notes: <p>1854 Birth record of Albert A. F. Fisher lists father's occupation as Engineer and residence as Cohasset MA.</p> <p>&nbsp;</p> <p>1880 Federal Census Lists Albert(69) as a farmer in Dedham MA. Livi
-----
-2 CONC ng at the same location is his wife Arvilla (70), his son Albert F.(25) , his Daughter-in-law, Anna W.(24) and a granddaughter Adelle(2).</p> <p>&nbsp;</p> <p>Buried Groveland Cemetary, Dedham MA</p>
-----
-
+notes: <p>1854 Birth record of Albert A. F. Fisher lists father's occupation as Engineer and residence as Cohasset MA.</p> <p>&nbsp;</p> <p>1880 Federal Census Lists Albert(69) as a farmer in Dedham MA. Living at the same location is his wife Arvilla (70), his son Albert F.(25) , his Daughter-in-law, Anna W.(24) and a granddaughter Adelle(2).</p> <p>&nbsp;</p> <p>Buried Groveland Cemetary, Dedham MA</p>
 occupation: Farmer
 
 == Sources

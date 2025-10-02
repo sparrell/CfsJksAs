@@ -61,11 +61,7 @@ census:
 2 AGE 61-62
 ----
 
-notes: <p>Uncasville is a village in the town of Montville CT.</p><p><p></p></p><p>An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to 
-----
-2 CONC apply to Erastus B. Kimball in Preston.</p>
-----
-
+notes: <p>Uncasville is a village in the town of Montville CT.</p><p><p></p></p><p>An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to apply to Erastus B. Kimball in Preston.</p>
 occupation: Blacksmith in Montville (US Census)
 ----
 2 DATE 1860

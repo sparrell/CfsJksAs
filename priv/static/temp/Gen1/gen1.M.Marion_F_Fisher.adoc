@@ -1,21 +1,7 @@
 = Marion F Fisher (1904 - 2002)
 
-Her father was away on business when she was born.
-Her mother named her Helene and that is on her birth certificate 
-recorded in New York City. 
-Her father came home and didn't like Helene and they changed her name to Marion. 
-Growing up she only knew her name was Marion. 
-Birth certificates were not required when she first got her drivers license, 
-and when she was married. 
-When they started requiring birth certificates for drivers licenses, 
-she got her birth certificate and discovered it was for Helene. 
-Her mother explained how that came to be.",
+Narrative TBD
 
-
-add note to see Ida for interesting background on her birth
-
-
-add story about maid and butler stealing silver and locking her in closet
 
 == Vital Stats
 
@@ -35,14 +21,14 @@ add story about maid and butler stealing silver and locking her in closet
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 
 * Child*: CFS/JKS/AS
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev website]
 * https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
 * https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
