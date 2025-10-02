@@ -1207,7 +1207,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				".. Robert Allyn  1616-1683 <p></p> <p>..From Jacobus 1948 & Arnold 1965:</p> <p>According to testimony he gave in court in 1680 (Duff and Jacobus 1945 note</p> <p>that this was in a case of Edward Smi\r\n2 CONC th v Estate of John Smith), Robert was</p> <p>born in England about 1616.</p> <p></p> <p>He came to Gloucester Ma with the Dorchester Co. in 1624.  In 1636 he settled</p> <p>at Salem Ma with his broth\r\n2 CONC er William in the section of town which became</p> <p>Manchester.  Robert was a landowner in 1637, a freeman in 1649, a member of the church in May 1642 and Constable in 1648.</p> <p></p> <p>In 1651 R\r\n2 CONC obert moved to Pequot (New London Ct), receiving a home lot onCape</p> <p>Ann Lane.  In 1653 he received a Pocketannock Grant, northeast of New London,</p> <p>resulting in a large farm on the east sid\r\n2 CONC e of the Thames, at a place still known</p> <p>as Allyn's Point (now in the town of Ledyard about 1 mile north of Gales Ferry).</p> <p>He moved there in 1656 and built a wharf and trading house on wha\r\n2 CONC t later (1667)</p> <p>became part of the Mashantucket Indian reservation.</p> <p></p> <p>In June 1659 Robert left his farm and became one of the original proprietors of</p> <p>Norwich Ct, receiving a \r\n2 CONC home lot of 5 acres in November of that year. He was</p> <p>dismissed to Norwich by the First Church of Salem Ma on 12 Jan 1662/3. He was made Constable in 1669.  He later returned to Allyn's Point, g\r\n2 CONC iving his Norwich lot to his son John, and later exchanging it for land nearer Allyn's Point. <p></p> <p>He left his widow Sarah 1/3 of his real estate and 100 pounds of personal</p> <p>estate.  Thoma\r\n2 CONC s Rose came to own the farm where Robert had lived, through the</p> <p>distribution to his heirs and in deeds of 1685 and 1688.  Each daughterwas</p> <p>given L66 6s.  Carpenter's tools are mentioned \r\n2 CONC in the inventory of his estate.</p> <p>(Settlement of estate in New London Land Records 5-87 and New London County</p> <p>Court Records 4-56.)</p> <p></p>",
+				".. Robert Allyn  1616-1683 <p></p> <p>..From Jacobus 1948 & Arnold 1965:</p> <p>According to testimony he gave in court in 1680 (Duff and Jacobus 1945 note</p> <p>that this was in a case of Edward Smith v Estate of John Smith), Robert was</p> <p>born in England about 1616.</p> <p></p> <p>He came to Gloucester Ma with the Dorchester Co. in 1624.  In 1636 he settled</p> <p>at Salem Ma with his brother William in the section of town which became</p> <p>Manchester.  Robert was a landowner in 1637, a freeman in 1649, a member of the church in May 1642 and Constable in 1648.</p> <p></p> <p>In 1651 Robert moved to Pequot (New London Ct), receiving a home lot onCape</p> <p>Ann Lane.  In 1653 he received a Pocketannock Grant, northeast of New London,</p> <p>resulting in a large farm on the east side of the Thames, at a place still known</p> <p>as Allyn's Point (now in the town of Ledyard about 1 mile north of Gales Ferry).</p> <p>He moved there in 1656 and built a wharf and trading house on what later (1667)</p> <p>became part of the Mashantucket Indian reservation.</p> <p></p> <p>In June 1659 Robert left his farm and became one of the original proprietors of</p> <p>Norwich Ct, receiving a home lot of 5 acres in November of that year. He was</p> <p>dismissed to Norwich by the First Church of Salem Ma on 12 Jan 1662/3. He was made Constable in 1669.  He later returned to Allyn's Point, giving his Norwich lot to his son John, and later exchanging it for land nearer Allyn's Point. <p></p> <p>He left his widow Sarah 1/3 of his real estate and 100 pounds of personal</p> <p>estate.  Thomas Rose came to own the farm where Robert had lived, through the</p> <p>distribution to his heirs and in deeds of 1685 and 1688.  Each daughterwas</p> <p>given L66 6s.  Carpenter's tools are mentioned in the inventory of his estate.</p> <p>(Settlement of estate in New London Land Records 5-87 and New London County</p> <p>Court Records 4-56.)</p> <p></p>",
 			],
 			occupation: [
 				"Carpenter and farmer",
@@ -1857,7 +1857,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"In 1670, Henry Andrews was elected Clerk of the Taunton Iron Works (See notes under Jonas Austin.) <p></p> <p>In 1676, he was plowing  a field when he was killed be an Indian raiding party during King\r\n2 CONC  Phillip's war.  Buried where he fell, 5/8 mile eastof bridge at East Taunton. Pile of rocks over grave.</p>",
+				"In 1670, Henry Andrews was elected Clerk of the Taunton Iron Works (See notes under Jonas Austin.) <p></p> <p>In 1676, he was plowing  a field when he was killed be an Indian raiding party during King Phillip's war.  Buried where he fell, 5/8 mile eastof bridge at East Taunton. Pile of rocks over grave.</p>",
 			],
 			occupation: [
 			],
@@ -2187,7 +2187,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692.\r\n2 CONC  <p></p> <p>Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold of\r\n2 CONC fice, 50 pounds fine and costs, 500 pound bond",
+				"As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. <p></p> <p>Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond",
 			],
 			occupation: [
 				"Carpenter and farmer",
@@ -2692,7 +2692,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>He early showed a decided taste for military affairs, and soon became amember of the Ancient and Honorable Artillery Company, and was its captain from 1650 to 1658.  In 1644, he organized the first\r\n2 CONC  train-band in Dorchester. Later on he commanded the Suffolk regiment with the title of Major-General, and was the chief military officer in New England.  Formany years he served as selectman and town\r\n2 CONC  treasurer, and in 1638 and 1641, was Deputy to the General Court. <p></p> <p>Uncas, the Mohegan Sachem, after 1637 claimed vast territory in the vicinity of Norwich CT as a result of his assistance t\r\n2 CONC o the English in the Pequot War. Major General Humphrey Atherton was sent there by the United Colonies with 40 men to protect Uncas in his person and property. ThereMantinomo, Sachem of the Narraganse\r\n2 CONC tt Indians, was forced to sign a treaty with the United Colonies and to pay 2000 fathoms of white wampum damages and to leave hostages (children) with the United Colonies. When the damages claimed wer\r\n2 CONC e not paid, Atherton with twenty men marched to the wigwam of Pessacus, the Narragansett Sachem, and seizing him by the hair of the head drew him from the midst of his attendants, declaring that if th\r\n2 CONC ey should make the least resistance he would dispatch him in an instant. Therupon Pessacus was so alarmed that he paid all his damages.Atherton's demands for large sums of wampum appeared to have led \r\n2 CONC to the organization of the so-called \"Atherton Company\".  On 11 June and4 July1659, he and his \"Partners\" in the Atherton Company acquired from theIndian sachems large grants of land, situated west of\r\n2 CONC  Narragansett Bay, and these grants were confirmed 14 June 1660. <p></p> <p>In 1645 the Commissioners of the United Colonies appointed a Council ofWar, which was composed of Captain Standish of Plymou\r\n2 CONC th, Mason of Connecticut, and Leverett and Atherton of Massachusetts.</p> <p></p> <p>On 16 September 1661, Atherton was returning from a military review on Boston Common when his horse stumbled over a\r\n2 CONC  cow and he was fatally injured.</p> <p></p> <p>Johnson gives him good character; but Hubbard excites our suspicion that everybody did not value him so highly, when he remarks that by some the manner \r\n2 CONC of his death was noted as a judgement.</p> <p></p>",
+				"<p>He early showed a decided taste for military affairs, and soon became amember of the Ancient and Honorable Artillery Company, and was its captain from 1650 to 1658.  In 1644, he organized the first train-band in Dorchester. Later on he commanded the Suffolk regiment with the title of Major-General, and was the chief military officer in New England.  Formany years he served as selectman and town treasurer, and in 1638 and 1641, was Deputy to the General Court. <p></p> <p>Uncas, the Mohegan Sachem, after 1637 claimed vast territory in the vicinity of Norwich CT as a result of his assistance to the English in the Pequot War. Major General Humphrey Atherton was sent there by the United Colonies with 40 men to protect Uncas in his person and property. ThereMantinomo, Sachem of the Narragansett Indians, was forced to sign a treaty with the United Colonies and to pay 2000 fathoms of white wampum damages and to leave hostages (children) with the United Colonies. When the damages claimed were not paid, Atherton with twenty men marched to the wigwam of Pessacus, the Narragansett Sachem, and seizing him by the hair of the head drew him from the midst of his attendants, declaring that if they should make the least resistance he would dispatch him in an instant. Therupon Pessacus was so alarmed that he paid all his damages.Atherton's demands for large sums of wampum appeared to have led to the organization of the so-called \"Atherton Company\".  On 11 June and4 July1659, he and his \"Partners\" in the Atherton Company acquired from theIndian sachems large grants of land, situated west of Narragansett Bay, and these grants were confirmed 14 June 1660. <p></p> <p>In 1645 the Commissioners of the United Colonies appointed a Council ofWar, which was composed of Captain Standish of Plymouth, Mason of Connecticut, and Leverett and Atherton of Massachusetts.</p> <p></p> <p>On 16 September 1661, Atherton was returning from a military review on Boston Common when his horse stumbled over a cow and he was fatally injured.</p> <p></p> <p>Johnson gives him good character; but Hubbard excites our suspicion that everybody did not value him so highly, when he remarks that by some the manner of his death was noted as a judgement.</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -2857,7 +2857,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"EMIGRANTS IN THE HERCULES OF SANDWICH- of 200 tons, John Witherly, master, bound for \"the plantations called New England in America, with certificates from the ministers where they last dwelt, of thei\r\n2 CONC r conversation, and conformity to the orders and discipline of the church, and that they had taken the oath of allegiance and supremacy.\" <p></p> <p>Jonas Austen, of Tenterden, Constance, his wife, an\r\n2 CONC d four children.  Certificates from Mr. Jno. Gee, Vicar of Tenterden, Jno. Austin, Mayor ofTenterden, Fregift Stace, Jurat. 4 mar.1634</p> <p></p> <p>In 1653 the Taunton Iron Works were established be\r\n2 CONC side the Two Mile River in Taunton. Among the original proprietors were Jonah Austin Sr., Thomas Lincoln Sr. and Henry Andrews.</p>",
+				"EMIGRANTS IN THE HERCULES OF SANDWICH- of 200 tons, John Witherly, master, bound for \"the plantations called New England in America, with certificates from the ministers where they last dwelt, of their conversation, and conformity to the orders and discipline of the church, and that they had taken the oath of allegiance and supremacy.\" <p></p> <p>Jonas Austen, of Tenterden, Constance, his wife, and four children.  Certificates from Mr. Jno. Gee, Vicar of Tenterden, Jno. Austin, Mayor ofTenterden, Fregift Stace, Jurat. 4 mar.1634</p> <p></p> <p>In 1653 the Taunton Iron Works were established beside the Two Mile River in Taunton. Among the original proprietors were Jonah Austin Sr., Thomas Lincoln Sr. and Henry Andrews.</p>",
 			],
 			occupation: [
 			],
@@ -3438,7 +3438,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"James Avery, Jr., was deputy from New London to the general court of Connecticut, 1689, 1690, 1694, 1695, 1697, 1792.  He was deputy from Groton from 1707 to 1712 inclusive (after Groton was set off f\r\n2 CONC rom New London.)  He was commissioner of the peace, 1693, 1694, 1695.  He was made justice of the peace in 1712.  He was made advisor of the Pequots in 1694.  in 1720, he was made one of their guardia\r\n2 CONC ns, which office he held until his death;  the records show that he faithfully protected his wards in their lands and other rights.  In 1700, he was one of a committee to find lands for the volunteers\r\n2 CONC who had fought in the Naragansett war of1675.  That land is now known as Voluntown, Connecticut.  In 1690, hewas commissioned as lieutenant and in May, 1692, as captain of the trainband.  He and hiswi\r\n2 CONC fe were members of the New London First Church ofChrist.  In 1696, he with others petitioned the general court for permission to form a church on the east side of the river where he lived.  Thispetiti\r\n2 CONC on was not granted until 1704, when the territory east of theriverwas set off from New London and called Groton.  James Avery and his wife are first on the list of those in full communion in the Churc\r\n2 CONC h of Christ of Groton.  The above records, with the exception of his membershipin the church at Groton, are to be found in the Colonial Records published by the state of Connecticut. <p></p>",
+				"James Avery, Jr., was deputy from New London to the general court of Connecticut, 1689, 1690, 1694, 1695, 1697, 1792.  He was deputy from Groton from 1707 to 1712 inclusive (after Groton was set off from New London.)  He was commissioner of the peace, 1693, 1694, 1695.  He was made justice of the peace in 1712.  He was made advisor of the Pequots in 1694.  in 1720, he was made one of their guardians, which office he held until his death;  the records show that he faithfully protected his wards in their lands and other rights.  In 1700, he was one of a committee to find lands for the volunteerswho had fought in the Naragansett war of1675.  That land is now known as Voluntown, Connecticut.  In 1690, hewas commissioned as lieutenant and in May, 1692, as captain of the trainband.  He and hiswife were members of the New London First Church ofChrist.  In 1696, he with others petitioned the general court for permission to form a church on the east side of the river where he lived.  Thispetition was not granted until 1704, when the territory east of theriverwas set off from New London and called Groton.  James Avery and his wife are first on the list of those in full communion in the Church of Christ of Groton.  The above records, with the exception of his membershipin the church at Groton, are to be found in the Colonial Records published by the state of Connecticut. <p></p>",
 			],
 			occupation: [
 			],
@@ -3529,7 +3529,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Captain James Avery served throughout King Phillip's war and was in the Great Swamp Fight. He commanded the New London Militia Company that participated in the capture of Chief Canonchet (see John Bra\r\n2 CONC nch and GeorgeDenison).",
+				"Captain James Avery served throughout King Phillip's war and was in the Great Swamp Fight. He commanded the New London Militia Company that participated in the capture of Chief Canonchet (see John Branch and GeorgeDenison).",
 			],
 			occupation: [
 			],
@@ -5419,7 +5419,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"James Barrell, Jr. , Capt. Nathaniel Winslow's Company, General John Thomas Regt. Order for a bounty coat or its equivalent in money, Dated atcamp at Roxbury, 18 Dec 1775. <p></p> <p>James Barrell, Jr\r\n2 CONC ., Col. Benjamin Tucker's 10th Massachusetts Regiment,17 Mar 1781 to 1 Jan 1782</p> <p>6 months as Private, 3 months as corporal.  Also, 1 Jan 1782 to 1 Jan 1783.  In Nov 1782 regiment was stationed a\r\n2 CONC t Verplank's Point across from Stony Point on the east side of the Hudson River where the Tappen Zeenarrows below West Point. 10th Regt. disbanded at Verplank's 1 Jan 1783. Reported serving in 5th Mas\r\n2 CONC s. Regt. in Feb 1783. 5th Regiment disbanded at West Point 15 Nov 1783",
+				"James Barrell, Jr. , Capt. Nathaniel Winslow's Company, General John Thomas Regt. Order for a bounty coat or its equivalent in money, Dated atcamp at Roxbury, 18 Dec 1775. <p></p> <p>James Barrell, Jr., Col. Benjamin Tucker's 10th Massachusetts Regiment,17 Mar 1781 to 1 Jan 1782</p> <p>6 months as Private, 3 months as corporal.  Also, 1 Jan 1782 to 1 Jan 1783.  In Nov 1782 regiment was stationed at Verplank's Point across from Stony Point on the east side of the Hudson River where the Tappen Zeenarrows below West Point. 10th Regt. disbanded at Verplank's 1 Jan 1783. Reported serving in 5th Mass. Regt. in Feb 1783. 5th Regiment disbanded at West Point 15 Nov 1783",
 			],
 			occupation: [
 			],
@@ -5500,7 +5500,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"James Barrell, Scituate, Private, Capt. John Clapp's Company, Col. JohnBailey's Regt. which marched on the alarm of April 19th, 1775 Service of 15 days. <p></p> <p>James Barrell, Scituate, enlisted Oc\r\n2 CONC tober 1775 in Continental Army for one year.</p> <p></p> <p>James Barrell, Capt. Wm. Wyman's Company. Col. John Patterson's 26th Regt. Order for bounty coat or its equivalent in money, 16 Dec,1775</p>\r\n2 CONC  <p></p> <p>James Barrell, Private, Capt. John Turner's Company, Col. Eleazer Brooks, regiment of Guards, enlisted 6 Nov 1777; rolls made up to 3 Apr 1778, service 4 months, 27 days at Cambridge</p> <\r\n2 CONC p></p> <p>The Obituary Of James Barrell reported that he and his two sons were stationed at West Point, NY in Sept 1780 when the Fort Commander, Benedict Arnold attempted to betray the fort to the Bri\r\n2 CONC tish</p> <p></p> <p>Revolutionary War Pension Lists</p>",
+				"James Barrell, Scituate, Private, Capt. John Clapp's Company, Col. JohnBailey's Regt. which marched on the alarm of April 19th, 1775 Service of 15 days. <p></p> <p>James Barrell, Scituate, enlisted October 1775 in Continental Army for one year.</p> <p></p> <p>James Barrell, Capt. Wm. Wyman's Company. Col. John Patterson's 26th Regt. Order for bounty coat or its equivalent in money, 16 Dec,1775</p> <p></p> <p>James Barrell, Private, Capt. John Turner's Company, Col. Eleazer Brooks, regiment of Guards, enlisted 6 Nov 1777; rolls made up to 3 Apr 1778, service 4 months, 27 days at Cambridge</p> <p></p> <p>The Obituary Of James Barrell reported that he and his two sons were stationed at West Point, NY in Sept 1780 when the Fort Commander, Benedict Arnold attempted to betray the fort to the British</p> <p></p> <p>Revolutionary War Pension Lists</p>",
 			],
 			occupation: [
 			],
@@ -9835,7 +9835,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased th\r\n2 CONC e farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.",
+				"John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased the farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.",
 			],
 			occupation: [
 			],
@@ -10001,7 +10001,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Peter was in Norwich CT as early as 1680 when his cattle mark was established. He was amoung the petitioners in Oct 1686 to the General Court of Connecticut for the establishment of the Town of Presto\r\n2 CONC n. Although the petition was granted in that year, a church was not established until1693. Peter was a member of the committee charged with calling the first minister. <p></p> <p>Peter left an estate \r\n2 CONC valued at 200 Pounds. the record of its settlementon 13 Mar 1714/15 lists his nine children and their ages.</p>",
+				"Peter was in Norwich CT as early as 1680 when his cattle mark was established. He was amoung the petitioners in Oct 1686 to the General Court of Connecticut for the establishment of the Town of Preston. Although the petition was granted in that year, a church was not established until1693. Peter was a member of the committee charged with calling the first minister. <p></p> <p>Peter left an estate valued at 200 Pounds. the record of its settlementon 13 Mar 1714/15 lists his nine children and their ages.</p>",
 			],
 			occupation: [
 			],
@@ -10080,7 +10080,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"..  Peter Branch    d. 1638 <p></p> <p>Peter Branch and his son, John, were passengers on the Castle in 1638.  Peter</p> <p>died on the voyage and was buried at sea, leaving his ten year old son to th\r\n2 CONC e</p> <p>care of Thomas Wilborne, an old friend from Kent County who was residing in</p> <p>Scituate, Massachusetts.  His will, dated 16 June 1638, is recorded in Boston,</p> <p>(First Book of Suffolk\r\n2 CONC  Wills, page 16  NEHGR 2:183), as follows:</p> <p></p> <p>The Last Will and Testament of Peter Branch, late of Halden in Kent of owld</p> <p>England Carpenter, being weake in bodye but of good and per\r\n2 CONC fect sense and</p> <p>Memorye. I Will and bequeath and comitt unto Thomas Wilborne, late of Tenterden in Kent in ould England, my sonne, John Branch to have charge of him providing for him, and overse\r\n2 CONC eing him always a carefull, and ffaithful feafeere, duringe the terme of eleven yeares from henceforth Dated the sixteenth Daye of June 1638. And also I comitt into his hands, duringe the terme of yt \r\n2 CONC time of eleven yeares,my whole estate to use thiswhole terme of time to the sayde John Branch, sonne of the aforesayd Peeter Branch, or the worth thereof, in good and lawfull monye, beinge equally pre\r\n2 CONC ised, by Judiciall men, but my minde and will is that the saydThomas Wilborne shall discharge all my debtes out of the aforementionedestate which I leave in his hands ffurthermore my will is, that if \r\n2 CONC myson shall dye before he come to the end of this time, that then the saideThomas Wilborne shall give to widowe Igleden the late wife of StephenIgleden, or to his children, or to her children she had \r\n2 CONC by him, thefullsome of five pounds of good and lawful moneye. Item, I will and bequeathto Thomas Wilborne for the keepinge of my Sonne the full some ofeight pounds of good and lawful monye, If that my\r\n2 CONC  sonne John shall dyebefore the terme of the first fower years but afterwards within the termeof eleven yeares, that then it shalbe imployed as is before, and shalbe after, <p>Item I will and bequeath\r\n2 CONC  if that my sonne John,shall dye before the terme of eleven yeares be expired, that then what remaynes in the hands ofthe said Thomas Wilborne, shalbe given to the use of the pore of thosecongregation\r\n2 CONC s, of Concord of Sittuate and to that congregation wich A Company, that goes in the Shipp called te Castle, if there be a company of them if not then to be devided the aforesd two congreagations, only\r\n2 CONC  provided that the sayed Thomas Wilborne shall have the use of the said eight pownds till the eleven years be expired, though he dye not within the fower years, I doe ordeine my sonne John Branch sole\r\n2 CONC  Executor, and Thomas Wilborne my feafeer to whom I comitt the oversight of this my last will and testament. <p>.n</p> <p></p>",
+				"..  Peter Branch    d. 1638 <p></p> <p>Peter Branch and his son, John, were passengers on the Castle in 1638.  Peter</p> <p>died on the voyage and was buried at sea, leaving his ten year old son to the</p> <p>care of Thomas Wilborne, an old friend from Kent County who was residing in</p> <p>Scituate, Massachusetts.  His will, dated 16 June 1638, is recorded in Boston,</p> <p>(First Book of Suffolk Wills, page 16  NEHGR 2:183), as follows:</p> <p></p> <p>The Last Will and Testament of Peter Branch, late of Halden in Kent of owld</p> <p>England Carpenter, being weake in bodye but of good and perfect sense and</p> <p>Memorye. I Will and bequeath and comitt unto Thomas Wilborne, late of Tenterden in Kent in ould England, my sonne, John Branch to have charge of him providing for him, and overseeing him always a carefull, and ffaithful feafeere, duringe the terme of eleven yeares from henceforth Dated the sixteenth Daye of June 1638. And also I comitt into his hands, duringe the terme of yt time of eleven yeares,my whole estate to use thiswhole terme of time to the sayde John Branch, sonne of the aforesayd Peeter Branch, or the worth thereof, in good and lawfull monye, beinge equally preised, by Judiciall men, but my minde and will is that the saydThomas Wilborne shall discharge all my debtes out of the aforementionedestate which I leave in his hands ffurthermore my will is, that if myson shall dye before he come to the end of this time, that then the saideThomas Wilborne shall give to widowe Igleden the late wife of StephenIgleden, or to his children, or to her children she had by him, thefullsome of five pounds of good and lawful moneye. Item, I will and bequeathto Thomas Wilborne for the keepinge of my Sonne the full some ofeight pounds of good and lawful monye, If that my sonne John shall dyebefore the terme of the first fower years but afterwards within the termeof eleven yeares, that then it shalbe imployed as is before, and shalbe after, <p>Item I will and bequeath if that my sonne John,shall dye before the terme of eleven yeares be expired, that then what remaynes in the hands ofthe said Thomas Wilborne, shalbe given to the use of the pore of thosecongregations, of Concord of Sittuate and to that congregation wich A Company, that goes in the Shipp called te Castle, if there be a company of them if not then to be devided the aforesd two congreagations, only provided that the sayed Thomas Wilborne shall have the use of the said eight pownds till the eleven years be expired, though he dye not within the fower years, I doe ordeine my sonne John Branch sole Executor, and Thomas Wilborne my feafeer to whom I comitt the oversight of this my last will and testament. <p>.n</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -10494,7 +10494,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Jonathan Brewster obtained a licence to operate a ferry across the North River between present day Scituate and Marshfield. Because af the small population at the time , this venture was a failure. He\r\n2 CONC then became the agent for the Plymouth Colony in what later became the Connecticut Colony. <p></p> <p>Jonathan Brewster next became a trader along the coast of New England from Maine to Connecticut in\r\n2 CONC  a sloop as did his brother-in-law John Oldham. The murder of Oldham by Indians off Block Island was one of the precipitating events of the Pequot War. <p></p> <p>Jonathan  finally established a tradi\r\n2 CONC ng post on land along the Thames River which he had purchased from Uncas, Chief of the Mohicans in 1650.</p> <p></p> <p>His New London farm was located on what became the border between Norwich and Ne\r\n2 CONC w London lying partly in each. That is why he is recorded as dying in New London and Lucretia in Norwich although both died in the same house. He was a close friend of John Winthrop, Jr., founder of N\r\n2 CONC ew London and first Governor of the Connecticut Colony.",
+				"Jonathan Brewster obtained a licence to operate a ferry across the North River between present day Scituate and Marshfield. Because af the small population at the time , this venture was a failure. Hethen became the agent for the Plymouth Colony in what later became the Connecticut Colony. <p></p> <p>Jonathan Brewster next became a trader along the coast of New England from Maine to Connecticut in a sloop as did his brother-in-law John Oldham. The murder of Oldham by Indians off Block Island was one of the precipitating events of the Pequot War. <p></p> <p>Jonathan  finally established a trading post on land along the Thames River which he had purchased from Uncas, Chief of the Mohicans in 1650.</p> <p></p> <p>His New London farm was located on what became the border between Norwich and New London lying partly in each. That is why he is recorded as dying in New London and Lucretia in Norwich although both died in the same house. He was a close friend of John Winthrop, Jr., founder of New London and first Governor of the Connecticut Colony.",
 			],
 			occupation: [
 				"Coastal Trader (Notes)\r\n2 DATE AFT 1630\r\n2 AGE About 36-37",
@@ -11593,7 +11593,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Bristol County, Massachusetts Probate Records; Vol. 23, Page 355 <p></p> <p>In the Name of God, Amen. I, Israel Briggs, of Berkley in the county of Bristol in the Province of the Massachusetts Bay in \r\n2 CONC New England, yeoman, being of a sound disposing mind and memory through divine goodness, knowing that it is appointed unto men once to die but not knowing the time when, do make this my last will and \r\n2 CONC testament.  First of all I commit my soul into the hands of Jesus Christ, my Merciful Savior and Mighty Redeemer.  My body I commit to the earth to be decently buried not doubting but I shall receive \r\n2 CONC ye same again in the resurrection day of atoning.  My worldly estate, which God hath given me, I dispose of the same in the manner following; <p>First, I give unto my beloved wife, Naomi Briggs, the u\r\n2 CONC se &. improvement of ye one half of all my lands, buildings, stock and indoor moveableswhile she remains my widow.  Also, I give unto her my Negro girl called Dinah to be at her disposal. this bequest\r\n2 CONC  made to my widow is in rightof her dowry in my estate. <p>Item, I give unto my son Joseph Briggs, his heirs and assigns further all my lands and buildings I am lawfully possessed of together with my \r\n2 CONC husbandry tools and utensils and also my wearing apparel hepaying out yelegacys hereafter mentioned; the sd. Joseph to come into the possessionof the one half of my lands buildings and husbandry tools\r\n2 CONC  after my death and the other half after my wife. <p>Item, I give unto my daughter, Abigail Townsend, in addition to what she hath already received of me, one quarter part of ye whole of my indoor mov\r\n2 CONC eables & also one quarter part of my flock of creatures and after the death of my wife, I give her one half of my indoor moveables & flockof creatures which my wife improved in her life.  I give unto \r\n2 CONC my daughter Abigail ten pounds in money to be paid unto her by my son Joseph Briggs. <p>I give unto my daughter Naomi Andrews in addition to what she hath already received of me, one quarter part of t\r\n2 CONC he whole of my indoor moveables & also one quarter part of ye whole of my flock of creatures and after the death of my wife, I give her ye one half of ye indoor moveables and flock of creatures which \r\n2 CONC my wife improved in her lifetime.  I also give unto Naomi ten pounds in money to be paidunto her by my son JosephBriggs. <p>Item, I give unto my grandchildren, Cynthia and Phebe Briggs, daughtersof my\r\n2 CONC  son, Jotham Briggs, deceased, one hundred pounds in money to be equally divided between them to be paid unto them by my son, Joseph afsd.  that is to say fifty pounds to Cynthia when she arrives to t\r\n2 CONC he age of  eighteen years and the other fifty to Phebe  when she arrives to eighteen years. <p>Lastly, I constitute and appoint my son, Joseph Briggs, sole executor of this my last will and testament,\r\n2 CONC  hereby revoking and annulling all other wills by me made and notifying and confirming this andnone other tobe my will & testament and in testimony thereof, I have set my hand andseal, November the 5t\r\n2 CONC h day in the twelfth year of His Majesty, King George the third, King over Great Britain, A.Domini one thousand seven hundred & seventy one. <p></p> <p>Signed sealed published and uttered by ye sd.</p\r\n2 CONC > <p>Israel Briggs to be his last will and testament          Israel Briggs (seal)</p> <p>Samuel Tobey</p> <p>Bathsheba Tobey</p> <p>Enoch Tobey</p> <p>(Samuel Tobey was the local pastor and a Harvard\r\n2 CONC  graduate)</p> <p></p>",
+				"Bristol County, Massachusetts Probate Records; Vol. 23, Page 355 <p></p> <p>In the Name of God, Amen. I, Israel Briggs, of Berkley in the county of Bristol in the Province of the Massachusetts Bay in New England, yeoman, being of a sound disposing mind and memory through divine goodness, knowing that it is appointed unto men once to die but not knowing the time when, do make this my last will and testament.  First of all I commit my soul into the hands of Jesus Christ, my Merciful Savior and Mighty Redeemer.  My body I commit to the earth to be decently buried not doubting but I shall receive ye same again in the resurrection day of atoning.  My worldly estate, which God hath given me, I dispose of the same in the manner following; <p>First, I give unto my beloved wife, Naomi Briggs, the use &. improvement of ye one half of all my lands, buildings, stock and indoor moveableswhile she remains my widow.  Also, I give unto her my Negro girl called Dinah to be at her disposal. this bequest made to my widow is in rightof her dowry in my estate. <p>Item, I give unto my son Joseph Briggs, his heirs and assigns further all my lands and buildings I am lawfully possessed of together with my husbandry tools and utensils and also my wearing apparel hepaying out yelegacys hereafter mentioned; the sd. Joseph to come into the possessionof the one half of my lands buildings and husbandry tools after my death and the other half after my wife. <p>Item, I give unto my daughter, Abigail Townsend, in addition to what she hath already received of me, one quarter part of ye whole of my indoor moveables & also one quarter part of my flock of creatures and after the death of my wife, I give her one half of my indoor moveables & flockof creatures which my wife improved in her life.  I give unto my daughter Abigail ten pounds in money to be paid unto her by my son Joseph Briggs. <p>I give unto my daughter Naomi Andrews in addition to what she hath already received of me, one quarter part of the whole of my indoor moveables & also one quarter part of ye whole of my flock of creatures and after the death of my wife, I give her ye one half of ye indoor moveables and flock of creatures which my wife improved in her lifetime.  I also give unto Naomi ten pounds in money to be paidunto her by my son JosephBriggs. <p>Item, I give unto my grandchildren, Cynthia and Phebe Briggs, daughtersof my son, Jotham Briggs, deceased, one hundred pounds in money to be equally divided between them to be paid unto them by my son, Joseph afsd.  that is to say fifty pounds to Cynthia when she arrives to the age of  eighteen years and the other fifty to Phebe  when she arrives to eighteen years. <p>Lastly, I constitute and appoint my son, Joseph Briggs, sole executor of this my last will and testament, hereby revoking and annulling all other wills by me made and notifying and confirming this andnone other tobe my will & testament and in testimony thereof, I have set my hand andseal, November the 5th day in the twelfth year of His Majesty, King George the third, King over Great Britain, A.Domini one thousand seven hundred & seventy one. <p></p> <p>Signed sealed published and uttered by ye sd.</p> <p>Israel Briggs to be his last will and testament          Israel Briggs (seal)</p> <p>Samuel Tobey</p> <p>Bathsheba Tobey</p> <p>Enoch Tobey</p> <p>(Samuel Tobey was the local pastor and a Harvard graduate)</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -11675,7 +11675,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Taunton was set off from Plymouth and incorporated in 1639. <p>Dighton was set off from Taunton  and incorporated in 1712.</p> <p>Berkley was incorporated in 1735 from parts of Dighton and Taunton.</p\r\n2 CONC >",
+				"Taunton was set off from Plymouth and incorporated in 1639. <p>Dighton was set off from Taunton  and incorporated in 1712.</p> <p>Berkley was incorporated in 1735 from parts of Dighton and Taunton.</p>",
 			],
 			occupation: [
 			],
@@ -13958,7 +13958,7 @@
 				"F718",
 			],
 			mh_id: "I1632",
-			mh_name: "Pierre** /Charlet/",
+			mh_name: "Pierre /Charlet/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -13984,7 +13984,7 @@
 				year: nil,
 			},
 			sources: [
-				"@S52@\r\n2 PAGE Pierre** Charlet\r\n2 QUAY 3\r\n2 DATA\r\n3 DATE 9 FEB 2019\r\n3 TEXT Added via a Smart Match",
+				"@S52@\r\n2 PAGE Pierre Charlet\r\n2 QUAY 3\r\n2 DATA\r\n3 DATE 9 FEB 2019\r\n3 TEXT Added via a Smart Match",
 			],
 			surname: "Charlet",
 			title: nil,
@@ -15114,7 +15114,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"William Cheeseborough was one of those men of substance who came to NewEngland to live life as they wished, and not to become a part of the Puritan hegemony. After a relatively peaceful few years in B\r\n2 CONC oston and Braintree, he removed to Rehobeth where he was soon in trouble with the Plymouth authorities. In May 1646 Plymouth Court ordered that the constable \"arrest Will[ia}m cheesborrow\" for his par\r\n2 CONC t in \"an affray made upon Ussamequine and some of his people\"; \"Wm. Cheeseborrow of Rehoboth, blacksmith\" had to post 20 pounds bond. <p>On 7 Nov. 1649 Connecticut General Court \"ordered that a warren\r\n2 CONC t shall issue forth to the Constable of Pequot (new London) to repair forthwith to Chessbrooke of Long Island, and to let him understand that the government of Connecticutt doth dislike and distaste t\r\n2 CONC he way he is and trade he doth among the Indians.\" <p>A letter to John Winthrop, jr. stated specifically that \"Chesbrok is accused of mending guns\".</p>",
+				"William Cheeseborough was one of those men of substance who came to NewEngland to live life as they wished, and not to become a part of the Puritan hegemony. After a relatively peaceful few years in Boston and Braintree, he removed to Rehobeth where he was soon in trouble with the Plymouth authorities. In May 1646 Plymouth Court ordered that the constable \"arrest Will[ia}m cheesborrow\" for his part in \"an affray made upon Ussamequine and some of his people\"; \"Wm. Cheeseborrow of Rehoboth, blacksmith\" had to post 20 pounds bond. <p>On 7 Nov. 1649 Connecticut General Court \"ordered that a warrent shall issue forth to the Constable of Pequot (new London) to repair forthwith to Chessbrooke of Long Island, and to let him understand that the government of Connecticutt doth dislike and distaste the way he is and trade he doth among the Indians.\" <p>A letter to John Winthrop, jr. stated specifically that \"Chesbrok is accused of mending guns\".</p>",
 			],
 			occupation: [
 				"Blacksmith",
@@ -15531,7 +15531,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Samuel Chester was in the West Indies trade and in partnership with his nephew,William Condy, received a land grant for a warehouse in New London in 1664. He was much employed in land surveys, and in \r\n2 CONC 1693 was one of the agents appointed by the general court of Connecticut to meet witha committee from Massachusetts to renew and settle the boundaries between the two colonies.",
+				"Samuel Chester was in the West Indies trade and in partnership with his nephew,William Condy, received a land grant for a warehouse in New London in 1664. He was much employed in land surveys, and in 1693 was one of the agents appointed by the general court of Connecticut to meet witha committee from Massachusetts to renew and settle the boundaries between the two colonies.",
 			],
 			occupation: [
 				"Land surveyor",
@@ -16876,7 +16876,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"- One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. <p><\r\n2 CONC /p> <p>- Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark).</p> <p></p> <p>- Wealthy and prominent lead\r\n2 CONC er of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquitt\r\n2 CONC al. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.",
+				"- One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. <p></p> <p>- Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark).</p> <p></p> <p>- Wealthy and prominent leader of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquittal. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.",
 			],
 			occupation: [
 				"Tailor",
@@ -17131,7 +17131,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p></p> <p>Peter Collamore settled at Wills Island in the marshes on the Scituate side of the North River before 1643. In 1650 he purchased a farm from Edward Foster on the adjacent mainland (The Coll\r\n2 CONC amore farm site consistedof 20 acres of upland roughly bounded by  the present Route 3A on the west, the Driftway to the north and the North River marshes to the east and south together with 12 acres \r\n2 CONC of adjoining marsh. Being childless, Peter wrote to his brother in Northam, Devon with a request that one of his nephews come to New England to be his heir. In 1665, Anthony Collamore accepted the inv\r\n2 CONC itation andcame to live with his uncle. Peter died in 1684 and left his estate including the sloop Mayflower  and the farm to Anthony, as promised. <p></p> <p>In 1666 Anthony Collamore married Sarah C\r\n2 CONC hittenden and over the following 13 years, they had one son and four daughters. Anthony was active inthe Scituate militia company, rising through the ranks to Lieutenant in1686 and Captain in 1692. <p\r\n2 CONC ></p> <p>On December 15, 1693, Anthony Collamore loaded his sloop at Hobart?s Landing  with a cargo of firewood for the Boston market. He sailed down the North river as soon as the tide started to ebb\r\n2 CONC  in orderto take advantage of the current and to cross the bar at the old mouth without grounding. He then entered Scituate harbor  and anchored for the night. Thefollowing morning five passengers for\r\n2 CONC  Boston boarded the sloop - two men, a woman and two \"lads\". The day was overcast with a raw wind from thenorth-northeast. However, the weather did not seem unduly threateningand several vessels inclu\r\n2 CONC ding Collamore?s sloop put to sea as the tidestarted to ebb. <p></p> <p>Collamore's vessel was noted by several observers as it sailed north along the Scituate coast over the next hour. During that ti\r\n2 CONC me, a storm was rapidly developing and Collamore's sloop finally disappeared from view in a blizzard of wind-driven snow. Before dark of that same day, billets of cordwood and wreckage from a vessel b\r\n2 CONC egan coming ashore on NorthScituate beach. On the following day, the body of Ephraim Turner, aged26, came ashore on the beach. Fourteen days later, the body of AnthonyCollamore came ashore so badly ba\r\n2 CONC ttered that identification could onlybe made from his clothing. Collamore?s body was escorted to the old church on Meetinghouse Lane by the militia company under arms and he was buriedbeside the churc\r\n2 CONC h. No other bodies were ever recovered. <p></p> <p>From the pattern of the wreckage and cargo on North Scituate beach and the rapidity with which it came ashore, it was apparent that the sloop had bee\r\n2 CONC n driven on a ledge just offshore. That ledge has been identifiedon marine charts ever since as \"Collamore's Ledge\". <p></p> <p>A monument which includes the original slate headstone was later erected\r\n2 CONC  in the Old Meeting House Cemetary by Anthony's descendants.</p> <p></p> <p>Ancestor of Presidents William Henry Harrison and Benjamin Harrison.</p>",
+				"<p></p> <p>Peter Collamore settled at Wills Island in the marshes on the Scituate side of the North River before 1643. In 1650 he purchased a farm from Edward Foster on the adjacent mainland (The Collamore farm site consistedof 20 acres of upland roughly bounded by  the present Route 3A on the west, the Driftway to the north and the North River marshes to the east and south together with 12 acres of adjoining marsh. Being childless, Peter wrote to his brother in Northam, Devon with a request that one of his nephews come to New England to be his heir. In 1665, Anthony Collamore accepted the invitation andcame to live with his uncle. Peter died in 1684 and left his estate including the sloop Mayflower  and the farm to Anthony, as promised. <p></p> <p>In 1666 Anthony Collamore married Sarah Chittenden and over the following 13 years, they had one son and four daughters. Anthony was active inthe Scituate militia company, rising through the ranks to Lieutenant in1686 and Captain in 1692. <p></p> <p>On December 15, 1693, Anthony Collamore loaded his sloop at Hobart?s Landing  with a cargo of firewood for the Boston market. He sailed down the North river as soon as the tide started to ebb in orderto take advantage of the current and to cross the bar at the old mouth without grounding. He then entered Scituate harbor  and anchored for the night. Thefollowing morning five passengers for Boston boarded the sloop - two men, a woman and two \"lads\". The day was overcast with a raw wind from thenorth-northeast. However, the weather did not seem unduly threateningand several vessels including Collamore?s sloop put to sea as the tidestarted to ebb. <p></p> <p>Collamore's vessel was noted by several observers as it sailed north along the Scituate coast over the next hour. During that time, a storm was rapidly developing and Collamore's sloop finally disappeared from view in a blizzard of wind-driven snow. Before dark of that same day, billets of cordwood and wreckage from a vessel began coming ashore on NorthScituate beach. On the following day, the body of Ephraim Turner, aged26, came ashore on the beach. Fourteen days later, the body of AnthonyCollamore came ashore so badly battered that identification could onlybe made from his clothing. Collamore?s body was escorted to the old church on Meetinghouse Lane by the militia company under arms and he was buriedbeside the church. No other bodies were ever recovered. <p></p> <p>From the pattern of the wreckage and cargo on North Scituate beach and the rapidity with which it came ashore, it was apparent that the sloop had been driven on a ledge just offshore. That ledge has been identifiedon marine charts ever since as \"Collamore's Ledge\". <p></p> <p>A monument which includes the original slate headstone was later erected in the Old Meeting House Cemetary by Anthony's descendants.</p> <p></p> <p>Ancestor of Presidents William Henry Harrison and Benjamin Harrison.</p>",
 			],
 			occupation: [
 			],
@@ -17795,7 +17795,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"William Comstock is said to have come from Wales, apparently came to New England about 1637 with his wife Elizabeth,  and several children.  He was for a brief time at Weymouth, Mass but soon removed \r\n2 CONC to Wethersfield, Conn where he owned land as early a 1641.  He enlisted from Wethersfield for service in the Pequot War of 1637.  He sayed in Wethersfield and Hartford for a few years but in 1649 was \r\n2 CONC in New London, Conn where he took up a house lot the next year.  His home in New London was on Post Hill near the north corner of Williams and Vauxhall Streets and he apparently died there about 1663 \r\n2 CONC at an advanced age.  Late in life on Feb25 1661/62 the following appears about him.  \" Old Goodman Comtstock (was elected sexton) to order youth in the meeting house and beat out dogs, at forty shilli\r\n2 CONC ngs a year, dig all graes and have 4 shilling for a grave for a man or woman and 2 shilling for children.\" <p></p> <p>after his death land inherited by son Daniel and grandson William of Lyme who was \r\n2 CONC son of John Comstock, deceased, and Abigail</p> <p></p> <p>Reference #2 states that the information that he is to have come from Wales is not true.  Origin of family is from a town of Cumstock in Devo\r\n2 CONC nshire, Eng</p> <p>Reference 4 says ay have had a 2nd wife also named Elizabeth, Eliz Daniel</p> <p></p> <p>Reference:</p> <p>1. Ludington-Saltus Records, DeForest, 1925</p> <p>2. Hist & Genealogy of \r\n2 CONC Comstock Family by Comstock 1949</p> <p>3. Hist of New London, Caulkins</p> <p>3. Gen Dict of NE Settlers; Savage</p> <p>4. Comstock Genealogy, John Adams Comtock 1949</p> <p>5. Comstock Genealogy, Cy\r\n2 CONC rus Comstock 1907</p> <p></p>",
+				"William Comstock is said to have come from Wales, apparently came to New England about 1637 with his wife Elizabeth,  and several children.  He was for a brief time at Weymouth, Mass but soon removed to Wethersfield, Conn where he owned land as early a 1641.  He enlisted from Wethersfield for service in the Pequot War of 1637.  He sayed in Wethersfield and Hartford for a few years but in 1649 was in New London, Conn where he took up a house lot the next year.  His home in New London was on Post Hill near the north corner of Williams and Vauxhall Streets and he apparently died there about 1663 at an advanced age.  Late in life on Feb25 1661/62 the following appears about him.  \" Old Goodman Comtstock (was elected sexton) to order youth in the meeting house and beat out dogs, at forty shillings a year, dig all graes and have 4 shilling for a grave for a man or woman and 2 shilling for children.\" <p></p> <p>after his death land inherited by son Daniel and grandson William of Lyme who was son of John Comstock, deceased, and Abigail</p> <p></p> <p>Reference #2 states that the information that he is to have come from Wales is not true.  Origin of family is from a town of Cumstock in Devonshire, Eng</p> <p>Reference 4 says ay have had a 2nd wife also named Elizabeth, Eliz Daniel</p> <p></p> <p>Reference:</p> <p>1. Ludington-Saltus Records, DeForest, 1925</p> <p>2. Hist & Genealogy of Comstock Family by Comstock 1949</p> <p>3. Hist of New London, Caulkins</p> <p>3. Gen Dict of NE Settlers; Savage</p> <p>4. Comstock Genealogy, John Adams Comtock 1949</p> <p>5. Comstock Genealogy, Cyrus Comstock 1907</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -19087,7 +19087,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"1672 -  Moses name is on a subscription list to build anew meeting house in Roxbury MA. <p>1673 - Moses was granted a licence to keep an \"Ordinary\"in Deerfild.</p> <p>1675 -\"King Phillips War\" - India\r\n2 CONC ns attack Deerfield. Residents including Craft family abandon Deerfield and move to Hatfield.</p> <p>1678 - Craft family leaves Hatfield and moves to Branford CT.</p> <p>1683 - Moses Craft is living i\r\n2 CONC n Weathersfield when he sells his land inBranford.</p>",
+				"1672 -  Moses name is on a subscription list to build anew meeting house in Roxbury MA. <p>1673 - Moses was granted a licence to keep an \"Ordinary\"in Deerfild.</p> <p>1675 -\"King Phillips War\" - Indians attack Deerfield. Residents including Craft family abandon Deerfield and move to Hatfield.</p> <p>1678 - Craft family leaves Hatfield and moves to Branford CT.</p> <p>1683 - Moses Craft is living in Weathersfield when he sells his land inBranford.</p>",
 			],
 			occupation: [
 			],
@@ -19172,7 +19172,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"August 1651, he was imprisoned at Boston for a Baptist.....removed to Westerly [Rhode Island], preached as 7th day Baptist\". <p></p> <p>In 1676 he returned to Newort because of the perils of King Phii\r\n2 CONC lip's war and he died there.</p>",
+				"August 1651, he was imprisoned at Boston for a Baptist.....removed to Westerly [Rhode Island], preached as 7th day Baptist\". <p></p> <p>In 1676 he returned to Newort because of the perils of King Phiilip's war and he died there.</p>",
 			],
 			occupation: [
 			],
@@ -20903,7 +20903,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  re\r\n2 CONC turned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the communit\r\n2 CONC y, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1\r\n2 CONC 676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thor\r\n2 CONC n in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>",
+				"In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  returned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the community, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thorn in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -22299,7 +22299,7 @@
 			],
 			id: :p0747,
 			immigration: nil,
-			label: "gen5.MMMPP.Jabez_M._Edgecomb",
+			label: "gen5.MMMPP.Jabez_M_Edgecomb",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Jabez_Edgecomb_%281%29",
 			},
@@ -24043,7 +24043,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>1854 Birth record of Albert A. F. Fisher lists father's occupation as Engineer and residence as Cohasset MA.</p> <p>&nbsp;</p> <p>1880 Federal Census Lists Albert(69) as a farmer in Dedham MA. Livi\r\n2 CONC ng at the same location is his wife Arvilla (70), his son Albert F.(25) , his Daughter-in-law, Anna W.(24) and a granddaughter Adelle(2).</p> <p>&nbsp;</p> <p>Buried Groveland Cemetary, Dedham MA</p>",
+				"<p>1854 Birth record of Albert A. F. Fisher lists father's occupation as Engineer and residence as Cohasset MA.</p> <p>&nbsp;</p> <p>1880 Federal Census Lists Albert(69) as a farmer in Dedham MA. Living at the same location is his wife Arvilla (70), his son Albert F.(25) , his Daughter-in-law, Anna W.(24) and a granddaughter Adelle(2).</p> <p>&nbsp;</p> <p>Buried Groveland Cemetary, Dedham MA</p>",
 			],
 			occupation: [
 				"Farmer",
@@ -24131,7 +24131,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Albert Fisher enrolled at Harvard College, but did not graduate. His father thought he was going to college and kept giving him money antil he caught on.</p> <p>&nbsp;</p> <p>In 1904 Albert was a successful broker in Boston. He was 49 years old with a wife, Adele, and two daughters. Albert and Adele lived in Dedham.</p> <p>&nbsp;</p> <p>Ida Hurlburt was his 20 year old secretary. she lived in Dorchester with her parents, two sisters and a brother. Her father worked for the railroad.</p> <p>&nbsp;</p> <p>Early in 1906, Ida discovered she was pregnant by Alfred. One night sheclimbed out through her bedroom window and she and Albert ran off to Mexico. Albert got a quicky divorce in Mexico. Albert and Ida were then married in Texas (Fort Worth?).</p> <p>&nbsp;</p> <p>They then came back as f\r\n2 CONC ar as New York City, where Albert set up as a broker and their daughter Marion was born. He apparently did well enough, because they lived in an apartment on Central Park West and had a summmer place \r\n2 CONC in Hampton CT. They had a maid because Marion remembers thatthe maid and her boyfriend locked her in a closet and stole her mother's jewelry and other small valuables.</p> <p>&nbsp;</p> <p>Albert was \r\n2 CONC a heavy drinker. After he retired and they moved to Hampton permanently, his drinking problem got worse. He came home drunk one December night and Ida had the door locked. She told him to go sleep in \r\n2 CONC thebarn with the horses. He developed pneumonia and died.</p>",
+				"Albert Fisher enrolled at Harvard College, but did not graduate. His father thought he was going to college and kept giving him money antil he caught on.</p> <p>&nbsp;</p> <p>In 1904 Albert was a successful broker in Boston. He was 49 years old with a wife, Adele, and two daughters. Albert and Adele lived in Dedham.</p> <p>&nbsp;</p> <p>Ida Hurlburt was his 20 year old secretary. she lived in Dorchester with her parents, two sisters and a brother. Her father worked for the railroad.</p> <p>&nbsp;</p> <p>Early in 1906, Ida discovered she was pregnant by Alfred. One night sheclimbed out through her bedroom window and she and Albert ran off to Mexico. Albert got a quicky divorce in Mexico. Albert and Ida were then married in Texas (Fort Worth?).</p> <p>&nbsp;</p> <p>They then came back as far as New York City, where Albert set up as a broker and their daughter Marion was born. He apparently did well enough, because they lived in an apartment on Central Park West and had a summmer place in Hampton CT. They had a maid because Marion remembers thatthe maid and her boyfriend locked her in a closet and stole her mother's jewelry and other small valuables.</p> <p>&nbsp;</p> <p>Albert was a heavy drinker. After he retired and they moved to Hampton permanently, his drinking problem got worse. He came home drunk one December night and Ida had the door locked. She told him to go sleep in thebarn with the horses. He developed pneumonia and died.</p>",
 			],
 			occupation: [
 				"Commission Merchant (US Census)\r\n2 DATE 1880\r\n2 AGE 25-26",
@@ -25307,7 +25307,7 @@
 			will: [
 			],
 		},
-		##############  Antoinette** Gadenne
+		##############  Antoinette Gadenne
 		p1261: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -25340,12 +25340,12 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Antoinette**",
+			given_name: "Antoinette",
 			graduation: [
 			],
 			id: :p1261,
 			immigration: nil,
-			label: "gen10.PMPMMPPPMM.Antoinette**_Gadenne",
+			label: "gen10.PMPMMPPPMM.Antoinette_Gadenne",
 			links: %{
 			},
 			married_name: nil,
@@ -25355,7 +25355,7 @@
 				"F718",
 			],
 			mh_id: "I1633",
-			mh_name: "Antoinette** /Gadenne/",
+			mh_name: "Antoinette /Gadenne/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -25381,7 +25381,7 @@
 				year: nil,
 			},
 			sources: [
-				"@S52@\r\n2 PAGE Antoinette** Charlet (born Gadenne)\r\n2 QUAY 3\r\n2 DATA\r\n3 DATE 9 FEB 2019\r\n3 TEXT Added via a Smart Match",
+				"@S52@\r\n2 PAGE Antoinette Charlet (born Gadenne)\r\n2 QUAY 3\r\n2 DATA\r\n3 DATE 9 FEB 2019\r\n3 TEXT Added via a Smart Match",
 			],
 			surname: "Gadenne",
 			title: nil,
@@ -27234,12 +27234,12 @@
 			],
 			father: :p0134,
 			former_name: nil,
-			given_name: "Emiline S.",
+			given_name: "Emiline S",
 			graduation: [
 			],
 			id: :p0329,
 			immigration: nil,
-			label: "gen4.PPPM.Emiline_S._Gleason",
+			label: "gen4.PPPM.Emiline_S_Gleason",
 			links: %{
 				geni: "https://www.geni.com/people/Emiline-Sparrell/6000000007500421270",
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell",
@@ -29059,7 +29059,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumb\r\n2 CONC erland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.",
+				"Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumberland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.",
 			],
 			occupation: [
 			],
@@ -31183,7 +31183,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern o\r\n2 CONC n the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>",
+				"<p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>",
 			],
 			occupation: [
 				"Tavern Keeper, Montville CT",
@@ -31346,7 +31346,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"One of the first settlers of New London. In 1658, when it was still called Pequot, Haughton recieved permission from the general court to lease land from Uncas in what is now Montville for farming and\r\n2 CONC grazing cattle. <p></p> <p>He was building a ship at Wetherfield at the time of his death.</p>",
+				"One of the first settlers of New London. In 1658, when it was still called Pequot, Haughton recieved permission from the general court to lease land from Uncas in what is now Montville for farming andgrazing cattle. <p></p> <p>He was building a ship at Wetherfield at the time of his death.</p>",
 			],
 			occupation: [
 				"Shipwright",
@@ -32353,7 +32353,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Hills immigrated on the \"Lyon\" in 1632 as an indentured servant of the Reverend John Eliot . He apparently satisfied his obligation to Eliot by1634 as he was then made a freeman of Roxbury MA. In 1637\r\n2 CONC he moved to Hartford CT. <p>Reverend Eliot commented in a letter that William's first few years in Hartford were \"without giving such good satisfaction to the consciences of the saints\". This probably\r\n2 CONC  relates to his being fined four pounds forbuying stolen property in 1640. <p></p> <p>Around 1646, his first wife Phyllis died and around 1648, william married Mary, the widow of of Richard Risley.</p\r\n2 CONC >",
+				"Hills immigrated on the \"Lyon\" in 1632 as an indentured servant of the Reverend John Eliot . He apparently satisfied his obligation to Eliot by1634 as he was then made a freeman of Roxbury MA. In 1637he moved to Hartford CT. <p>Reverend Eliot commented in a letter that William's first few years in Hartford were \"without giving such good satisfaction to the consciences of the saints\". This probably relates to his being fined four pounds forbuying stolen property in 1640. <p></p> <p>Around 1646, his first wife Phyllis died and around 1648, william married Mary, the widow of of Richard Risley.</p>",
 			],
 			occupation: [
 			],
@@ -33792,7 +33792,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Adam Hurlburt was captain of an alarm company that turned out to repel the British attack on New Haven. During the latter part of the war he was stationed in Vermont near Lake Champlain and after the \r\n2 CONC war was over (about 1786) he brought his family to Underhill VT. <p></p> <p>Adam was one of the eight men who founded the first church (now the United Church) in Underhill.</p>",
+				"Adam Hurlburt was captain of an alarm company that turned out to repel the British attack on New Haven. During the latter part of the war he was stationed in Vermont near Lake Champlain and after the war was over (about 1786) he brought his family to Underhill VT. <p></p> <p>Adam was one of the eight men who founded the first church (now the United Church) in Underhill.</p>",
 			],
 			occupation: [
 			],
@@ -33877,7 +33877,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in1886.</p> <p>&nbsp;</p> <p>It appears that he started out working for the W\r\n2 CONC orcester and Norwich RRbefore 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired.</p> <p>&nbsp;</p> <p>In \r\n2 CONC 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>",
+				"<p>The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in1886.</p> <p>&nbsp;</p> <p>It appears that he started out working for the Worcester and Norwich RRbefore 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired.</p> <p>&nbsp;</p> <p>In 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>",
 			],
 			occupation: [
 				"Clerk R.R. Office -\r\n2 DATE 1870\r\n2 PLAC Uncasville, New London, Connecticut, USA\r\n2 AGE 20-21",
@@ -33905,7 +33905,7 @@
 			will: [
 			],
 		},
-		##############  Charles S. Hurlburt
+		##############  Charles S Hurlburt
 		p0094: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -33931,9 +33931,7 @@
 			],
 			emigration: [
 			],
-			event: [
-				" 137\r\n2 TYPE Reference Number",
-				" 137\r\n2 TYPE Reference Number",
+			event: [	
 			],
 			family_of_origin: :f491,
 			family_of_procreation: [
@@ -33941,12 +33939,12 @@
 			],
 			father: :p0105,
 			former_name: nil,
-			given_name: "Charles S.",
+			given_name: "Charles S",
 			graduation: [
 			],
 			id: :p0094,
 			immigration: nil,
-			label: "gen4.MMPP.Charles_S._Hurlburt",
+			label: "gen4.MMPP.Charles_S_Hurlburt",
 			links: %{
 				geni: "https://www.geni.com/people/Charles-Hurlburt/6000000219179990253",
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000318/charles-s-hurlburt",
@@ -33959,14 +33957,14 @@
 				"F570",
 			],
 			mh_id: "I318",
-			mh_name: "Charles S. /Hurlburt/",
+			mh_name: "Charles S /Hurlburt/",
 			mother: :p0107,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><\r\n2 CONC p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railro\r\n2 CONC ad when he met his wife, Esther in Griswold which is on the line, as is Oxford.</p> <p>&nbsp;</p> <p>The N&amp;W was acquired by the New Haven RR in 1889 after his death.</p> <p>&nbsp;</p> <p>Montvill\r\n2 CONC e, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?</p>",
+				"<p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railroad when he met his wife, Esther in Griswold which is on the line, as is Oxford.</p> <p>&nbsp;</p> <p>The N&amp;W was acquired by the New Haven RR in 1889 after his death.</p> <p>&nbsp;</p> <p>Montville, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?</p>",
 			],
 			occupation: [
 			],
@@ -34375,7 +34373,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt par\r\n2 CONC ty included his wife, her female servant and ten other males. <p></p> <p>Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the \r\n2 CONC Pequot war was developing.</p> <p>On February 22,1637, Gardiner took ten men a half-mile from the fort toclear weeds and reeds where the Indians might hide. They were attackedby Indians who were hidin\r\n2 CONC g in the burning reeds. Two men threw down their matchlocks and ran away. Three including Hurlburt and Gardiner werewounded and two were killed by arrows. Hurlburt was shot almost through the thigh. A\r\n2 CONC fter firing their muskets they drew their swords and fought their way hand to hand back to the fort. <p></p> <p>During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the \r\n2 CONC moccasins of the Pequots when they tried to sneak up on the fort at night.</p> <p></p> <p>Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active \r\n2 CONC in the militia and served in thelegislature.</p>",
+				"Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt party included his wife, her female servant and ten other males. <p></p> <p>Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the Pequot war was developing.</p> <p>On February 22,1637, Gardiner took ten men a half-mile from the fort toclear weeds and reeds where the Indians might hide. They were attackedby Indians who were hiding in the burning reeds. Two men threw down their matchlocks and ran away. Three including Hurlburt and Gardiner werewounded and two were killed by arrows. Hurlburt was shot almost through the thigh. After firing their muskets they drew their swords and fought their way hand to hand back to the fort. <p></p> <p>During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the moccasins of the Pequots when they tried to sneak up on the fort at night.</p> <p></p> <p>Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active in the militia and served in thelegislature.</p>",
 			],
 			occupation: [
 				"Blacksmith",
@@ -36728,7 +36726,7 @@
 			will: [
 			],
 		},
-		##############  Louisa K. Kerber
+		##############  Louisa K Kerber
 		p0285: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -36763,12 +36761,12 @@
 			],
 			father: :p0151,
 			former_name: nil,
-			given_name: "Louisa K.",
+			given_name: "Louisa K",
 			graduation: [
 			],
 			id: :p0285,
 			immigration: nil,
-			label: "gen3.PPM.Louisa_K._Kerber",
+			label: "gen3.PPM.Louisa_K_Kerber",
 			links: %{
 				geni: "https://www.geni.com/people/Louisa-Sparrell/6000000007500303582",
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000520/louisa-k-kerber-sparrell",
@@ -36781,14 +36779,14 @@
 				"F128",
 			],
 			mh_id: "I520",
-			mh_name: "Louisa K. /Kerber/",
+			mh_name: "Louisa K /Kerber/",
 			mother: :p0153,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her b\r\n2 CONC ed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried\r\n2 CONC  coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>",
+				"<p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her bed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>",
 			],
 			occupation: [
 			],
@@ -37357,7 +37355,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>Uncasville is a village in the town of Montville CT.</p><p><p></p></p><p>An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to \r\n2 CONC apply to Erastus B. Kimball in Preston.</p>",
+				"<p>Uncasville is a village in the town of Montville CT.</p><p><p></p></p><p>An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to apply to Erastus B. Kimball in Preston.</p>",
 			],
 			occupation: [
 				"Blacksmith in Montville (US Census)\r\n2 DATE 1860\r\n2 PLAC Montville, New London, Connecticut, USA\r\n2 AGE 61-62",
@@ -37603,7 +37601,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"John Kimball aged 3 sailed with his parents from Ipswich Essex England on April 30 1634. Aboard the same ship with her parents was Mary Bradstreet aged 1. Twenty-one years later, John and Mary were ma\r\n2 CONC rried at Ipswich, Essex County, Massachusetts.",
+				"John Kimball aged 3 sailed with his parents from Ipswich Essex England on April 30 1634. Aboard the same ship with her parents was Mary Bradstreet aged 1. Twenty-one years later, John and Mary were married at Ipswich, Essex County, Massachusetts.",
 			],
 			occupation: [
 			],
@@ -37857,7 +37855,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Richard Kimball sailed from Ipswich, Essex, England on April 30, 1634 aboard the \"Elizabeth\" bound for New England after taking the Oath of allegiance and supremacy at His Majesty's Custom House. He w\r\n2 CONC as acompaniedby his wife, Ursala and children Mary(9), Martha(5), John (3) and Thomas (1). <p></p> <p>Also on the ship were his brother-in-law, Thomas Scott, and his family.Richard settled in that par\r\n2 CONC t of Watertown, MA which later became Cambridge while his brother-in-law settled in Ipswich MA. Richard was made a freeman in 1635 and a proprietor in 1637. Shortly after this, the town of Ipswich mad\r\n2 CONC e him an attractive offrer to move to Ipswich as the community needed a wheelwright. The offer consisted of a house lot, forty acres of farmland and the freedom to cut all the white oak needed for his\r\n2 CONC  trade. His brother-in-law, Thomas, who lived in Ipswich probably was responsible for the offer being made.",
+				"Richard Kimball sailed from Ipswich, Essex, England on April 30, 1634 aboard the \"Elizabeth\" bound for New England after taking the Oath of allegiance and supremacy at His Majesty's Custom House. He was acompaniedby his wife, Ursala and children Mary(9), Martha(5), John (3) and Thomas (1). <p></p> <p>Also on the ship were his brother-in-law, Thomas Scott, and his family.Richard settled in that part of Watertown, MA which later became Cambridge while his brother-in-law settled in Ipswich MA. Richard was made a freeman in 1635 and a proprietor in 1637. Shortly after this, the town of Ipswich made him an attractive offrer to move to Ipswich as the community needed a wheelwright. The offer consisted of a house lot, forty acres of farmland and the freedom to cut all the white oak needed for his trade. His brother-in-law, Thomas, who lived in Ipswich probably was responsible for the offer being made.",
 			],
 			occupation: [
 				"Wheelwright",
@@ -40396,7 +40394,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>&nbsp;</p><p><p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the \r\n2 CONC town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54</p><p><p>SAMUEL LEONARD</p></p><p><p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family\r\n2 CONC  settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just \r\n2 CONC before been kidnapped near Worcester Mass.  and carried into captivity by the redskins, with whom he remained for nearly2 years. It chanced  that during this time he was brought into the company of Ha\r\n2 CONC nnah Dustin and Mary Neff, the details of whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three, while in a wigwamoccupied by 2 Indian families on an isla\r\n2 CONC nd in the Merrimac river, nearConcord, planned their escape. The boy Samuel had been so long with the savages that, when he asked his master how to strike to kill instantly, and how to take a scalp, i\r\n2 CONC t was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while their captors slept, the attack was made. Ten\r\n2 CONC  Indians were killed instantly; the two remaining, a squaw who was wounded, and a child who was spared purposely, escaped to the woods. With the scalps of the slain and their weapons, the 3, captives \r\n2 CONC nolonger, embarked in a canoe, and having scuttled the boats that remained, descended the river until they came in safety to their friends. Thenews of their escape spread from settlement to settlement\r\n2 CONC , and all whoheard were filled with astonishment and admiration because of their heroic deed. Soon after the family of the boy Samuel, doubtless fearing thenand always the vengeance of his implacable \r\n2 CONC foes, fled in secrecy toPachaug, and became permanent settlers there. Family tradition alone tellsus that at one timein the early days the Leonards became aware ofan Indian lurking about their home. A\r\n2 CONC t last, after days of watching, amemberofthe family shot the Indian dead, seemingly with no morecompunction thanhe would have shown toward a dangerous beast. But such incidents wereexceptional.</p><p>\r\n2 CONC </p>",
+				"<p>&nbsp;</p><p><p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54</p><p><p>SAMUEL LEONARD</p></p><p><p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped near Worcester Mass.  and carried into captivity by the redskins, with whom he remained for nearly2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the details of whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three, while in a wigwamoccupied by 2 Indian families on an island in the Merrimac river, nearConcord, planned their escape. The boy Samuel had been so long with the savages that, when he asked his master how to strike to kill instantly, and how to take a scalp, it was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while their captors slept, the attack was made. Ten Indians were killed instantly; the two remaining, a squaw who was wounded, and a child who was spared purposely, escaped to the woods. With the scalps of the slain and their weapons, the 3, captives nolonger, embarked in a canoe, and having scuttled the boats that remained, descended the river until they came in safety to their friends. Thenews of their escape spread from settlement to settlement, and all whoheard were filled with astonishment and admiration because of their heroic deed. Soon after the family of the boy Samuel, doubtless fearing thenand always the vengeance of his implacable foes, fled in secrecy toPachaug, and became permanent settlers there. Family tradition alone tellsus that at one timein the early days the Leonards became aware ofan Indian lurking about their home. At last, after days of watching, amemberofthe family shot the Indian dead, seemingly with no morecompunction thanhe would have shown toward a dangerous beast. But such incidents wereexceptional.</p><p></p>",
 			],
 			occupation: [
 			],
@@ -40481,7 +40479,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"FROM \"LEONARD GENEALOGY\" <p>Has been called carpenter, husbandsman and planter.He lived in Bridgewater at the time of his marraige, having built a house on his fathers land--a common thing in those da\r\n2 CONC ys--having assurance that a title would be given at a future date. He became an early proprietor in Worcester, where his brother Jacob had been living several years and removed to that place before 16\r\n2 CONC 90 and was living there whenhis only son Samuel was taken captive by Indians in 1695. About this time he  seems to have removed to Norwich ,Conn.and bought land in Preston, Conn.on the opposite side o\r\n2 CONC f the Shetucket River. He was probably led to this place by the fact that some of Major Bradfords family had located here and several oldfriends and neighbors from Duxbury and Bridgewater. Among them \r\n2 CONC Josiah and Miles Standish( son ans grandson of renowned Capt. Miles Standish ofthe Mayflower) and Deacon Caleb Fobes. He was a consistent member of theFirst Church of Preston, formed 16 Nov.1698 when \r\n2 CONC Rev. Salmon Treat wasordained pastor. Mr. Treat resigned14March1744, and died 6Jan1762 aged90. <p>Second wife Deborah is thought to be the daughter of John Leonard of Springfield who were relatives.</\r\n2 CONC p> <p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Grisw\r\n2 CONC old CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54 <p>SAMUEL LEONARD</p> <p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of \r\n2 CONC the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped  an\r\n2 CONC d carried into captivity by the redskins, with whomhe remained for nearly 2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the detailsof whose\r\n2 CONC  capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three,while in a wigwam occupied by 2 Indian families on an island in the Merrimac river, near Concord, planned\r\n2 CONC  theirescape. The boy Samuel had been so long with the savages that, whenhe asked his master how to strike to kill instantly, and how to take ascalp, it was taken as a sign that he had become one of t\r\n2 CONC hem, and he was freely told. When the  captives had perfected their plans, silently and with speed, while thier captors slept, the attack was made. Ten Indians were killed instantly; the two remaining\r\n2 CONC , a squaw who was wounded, and achild who was spared purposely, escaped to the woods. With thescalps ofthe slain and their weapons, the three, captives no longer, embarked ina canoe, and having scuttl\r\n2 CONC ed the boats that remained, descendedthe river until the came in safety to their friends. The news of theirescape spread from settlement to settlement, and all who heard were filled withastonishment a\r\n2 CONC nd admiration because of their heroic deed. Soon after theboy Samuel returned, doubtless fearing then and always the vengeanceofhis implacable foes, the family fled in secrecy to Pachaug,and becameper\r\n2 CONC manent settlers there. Family tradition alone tells us that at one timein the early days the Leonards became aware of an Indian lurkingabout their home. At last, after days of watching, a member of th\r\n2 CONC e family shoot the Indian dead, seemingly with no more compunction than he would have shown toward a dangerous beast. But such incidents were exceptional. <p></p>",
+				"FROM \"LEONARD GENEALOGY\" <p>Has been called carpenter, husbandsman and planter.He lived in Bridgewater at the time of his marraige, having built a house on his fathers land--a common thing in those days--having assurance that a title would be given at a future date. He became an early proprietor in Worcester, where his brother Jacob had been living several years and removed to that place before 1690 and was living there whenhis only son Samuel was taken captive by Indians in 1695. About this time he  seems to have removed to Norwich ,Conn.and bought land in Preston, Conn.on the opposite side of the Shetucket River. He was probably led to this place by the fact that some of Major Bradfords family had located here and several oldfriends and neighbors from Duxbury and Bridgewater. Among them Josiah and Miles Standish( son ans grandson of renowned Capt. Miles Standish ofthe Mayflower) and Deacon Caleb Fobes. He was a consistent member of theFirst Church of Preston, formed 16 Nov.1698 when Rev. Salmon Treat wasordained pastor. Mr. Treat resigned14March1744, and died 6Jan1762 aged90. <p>Second wife Deborah is thought to be the daughter of John Leonard of Springfield who were relatives.</p> <p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54 <p>SAMUEL LEONARD</p> <p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped  and carried into captivity by the redskins, with whomhe remained for nearly 2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the detailsof whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three,while in a wigwam occupied by 2 Indian families on an island in the Merrimac river, near Concord, planned theirescape. The boy Samuel had been so long with the savages that, whenhe asked his master how to strike to kill instantly, and how to take ascalp, it was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while thier captors slept, the attack was made. Ten Indians were killed instantly; the two remaining, a squaw who was wounded, and achild who was spared purposely, escaped to the woods. With thescalps ofthe slain and their weapons, the three, captives no longer, embarked ina canoe, and having scuttled the boats that remained, descendedthe river until the came in safety to their friends. The news of theirescape spread from settlement to settlement, and all who heard were filled withastonishment and admiration because of their heroic deed. Soon after theboy Samuel returned, doubtless fearing then and always the vengeanceofhis implacable foes, the family fled in secrecy to Pachaug,and becamepermanent settlers there. Family tradition alone tells us that at one timein the early days the Leonards became aware of an Indian lurkingabout their home. At last, after days of watching, a member of the family shoot the Indian dead, seemingly with no more compunction than he would have shown toward a dangerous beast. But such incidents were exceptional. <p></p>",
 			],
 			occupation: [
 			],
@@ -40565,7 +40563,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"\"The earliest settler to this country, bearing the family name of whom we have record, and the ancestor of what has long been known as the BRIDGEWATER BRANCH of the Leonard family must have been born \r\n2 CONC about 1610 in Monmouthshire or vicinity; in the southwesterly part of England. <p>He seems to have emigrated first to Leyden in Holland probably with his father  whose name is believed to be Samuel. T\r\n2 CONC here is some probabilitythey came together--if so the father must have died soon after. The exact period that Solomon emigrated to this country and the place from which he embarked  has been impossibl\r\n2 CONC e to asertain. (between 1629 and 1633 most probably)",
+				"\"The earliest settler to this country, bearing the family name of whom we have record, and the ancestor of what has long been known as the BRIDGEWATER BRANCH of the Leonard family must have been born about 1610 in Monmouthshire or vicinity; in the southwesterly part of England. <p>He seems to have emigrated first to Leyden in Holland probably with his father  whose name is believed to be Samuel. There is some probabilitythey came together--if so the father must have died soon after. The exact period that Solomon emigrated to this country and the place from which he embarked  has been impossible to asertain. (between 1629 and 1633 most probably)",
 			],
 			occupation: [
 				"Weaver",
@@ -40734,7 +40732,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Amos Lester answered the alarm for the British attack on New London Ct on 6 September 1781. He took part in the defense of Fort Griswold and was struck in the hip by a musket ball. After the British c\r\n2 CONC aptured the fort the wounded were rolled down the hill in an artillery cart by the British soldiers. The cart ran away further injuring the wounded men. Amos was permanently crippled and received a ve\r\n2 CONC teran's pension. His cousins, John and Jonas Lester, died from bayonet wounds in the battle. <p></p> <p>The raid on New London was planned and led by Benedict Arnold. Amos andJohn had been personal fr\r\n2 CONC iends of  Arnold when he was growing up in Norwich CT. Arnold suggested the raid on New London because it was a havenfor American privateers and he was intimately familiar with the town and its defens\r\n2 CONC es. The garrison of the fort were massacred and the town was burned. Arnold was long remembered by the people of the area.",
+				"Amos Lester answered the alarm for the British attack on New London Ct on 6 September 1781. He took part in the defense of Fort Griswold and was struck in the hip by a musket ball. After the British captured the fort the wounded were rolled down the hill in an artillery cart by the British soldiers. The cart ran away further injuring the wounded men. Amos was permanently crippled and received a veteran's pension. His cousins, John and Jonas Lester, died from bayonet wounds in the battle. <p></p> <p>The raid on New London was planned and led by Benedict Arnold. Amos andJohn had been personal friends of  Arnold when he was growing up in Norwich CT. Arnold suggested the raid on New London because it was a havenfor American privateers and he was intimately familiar with the town and its defenses. The garrison of the fort were massacred and the town was burned. Arnold was long remembered by the people of the area.",
 			],
 			occupation: [
 				"Farmer in present Ledyard CT",
@@ -40900,7 +40898,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>Andrew settled in Gloucester Ma as early as 1642.  He was made a freeman in</p> <p>1643 and was elected constable on 7 Jan 1643.  On 26 April (2nd mo.) 1648 the</p> <p>County Court issued him a lic\r\n2 CONC ense to keep a house of entertainment and to sell</p> <p>wine (Parkhurst).</p> <p></p> <p>Andrew, his wife Barbara, and their four children moved with Rev. Blynman's</p> <p>party to Pequot (New London\r\n2 CONC  Ct) in 1651.  He received a grant of land on 19 Oct</p> <p>1650 and settled on lot #4 on Cape Ann Lane, a street in the rear of the town.</p> <p>He was elected constable and collector of taxes for Ne\r\n2 CONC w London in 1668.</p> <p></p> <p>Together with Hugh Caulkins, John Elderkin and Mr. Denison, Andrew was given</p> <p>rights to the marsh between the town and Alewine Brook on condition that they</p> <\r\n2 CONC p>drain it. He also bought other land on 12 Jul 1659.  On 1 Nov 1665 Andrew deeded \"with the full and free consent of my now wife Ann Lester\" 250 acres in Groton to his sons Daniel and Andrew; he also\r\n2 CONC  gave each of them 20 pounds (Book 3, 1652-1667 p.299 New London land records - noted by Parkhurst). The younger Andrew remained on that land in North Groton;Daniel sold his land on 13 Feb 1677/8 and \r\n2 CONC remained on the west side ofthe river near his brothers Timothy, Joseph and Benjamin. <p></p> <p>1670   The last will and testament of Andrew Lester, Senior...decsd Jany 7,</p> <p>1669, was [  ] in Co\r\n2 CONC urt, proved, and ordered to be recorded (Court Records of</p> <p>New London County  Vol.2, p.4).</p> <p></p> <p>In settling Andrew's estate, Nathaniel Millet of Gloucester Ma signed 3May</p> <p>1670 a\r\n2 CONC  receipt in behalf of Andrew's wife Ann for her share of her father's</p> <p>estate - 20 pounds. The three younger sons signed receipts and receivedtheir</p> <p>portions as they came of age.  Timothy \r\n2 CONC received land in New London in 1684,</p> <p>Joseph and Benjamin received their portions in 1686/7.</p> <p></p>",
+				"<p>Andrew settled in Gloucester Ma as early as 1642.  He was made a freeman in</p> <p>1643 and was elected constable on 7 Jan 1643.  On 26 April (2nd mo.) 1648 the</p> <p>County Court issued him a license to keep a house of entertainment and to sell</p> <p>wine (Parkhurst).</p> <p></p> <p>Andrew, his wife Barbara, and their four children moved with Rev. Blynman's</p> <p>party to Pequot (New London Ct) in 1651.  He received a grant of land on 19 Oct</p> <p>1650 and settled on lot #4 on Cape Ann Lane, a street in the rear of the town.</p> <p>He was elected constable and collector of taxes for New London in 1668.</p> <p></p> <p>Together with Hugh Caulkins, John Elderkin and Mr. Denison, Andrew was given</p> <p>rights to the marsh between the town and Alewine Brook on condition that they</p> <p>drain it. He also bought other land on 12 Jul 1659.  On 1 Nov 1665 Andrew deeded \"with the full and free consent of my now wife Ann Lester\" 250 acres in Groton to his sons Daniel and Andrew; he also gave each of them 20 pounds (Book 3, 1652-1667 p.299 New London land records - noted by Parkhurst). The younger Andrew remained on that land in North Groton;Daniel sold his land on 13 Feb 1677/8 and remained on the west side ofthe river near his brothers Timothy, Joseph and Benjamin. <p></p> <p>1670   The last will and testament of Andrew Lester, Senior...decsd Jany 7,</p> <p>1669, was [  ] in Court, proved, and ordered to be recorded (Court Records of</p> <p>New London County  Vol.2, p.4).</p> <p></p> <p>In settling Andrew's estate, Nathaniel Millet of Gloucester Ma signed 3May</p> <p>1670 a receipt in behalf of Andrew's wife Ann for her share of her father's</p> <p>estate - 20 pounds. The three younger sons signed receipts and receivedtheir</p> <p>portions as they came of age.  Timothy received land in New London in 1684,</p> <p>Joseph and Benjamin received their portions in 1686/7.</p> <p></p>",
 			],
 			occupation: [
 			],
@@ -42047,7 +42045,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"When Thomas lived in Hingham MA, he was known as \"Thomas the miller \" to distinguish him from the two other Thomas Lincoln's in town. <p>A number of Lincolns came to Hingham MA from the area of Hingha\r\n2 CONC m, England about the same time including Samuel Lincoln who was a miller and the</p> <p>ancestor of President Abraham Lincoln. They all appear to have been related, but  \"Thomas the weaver\" was Samuel\r\n2 CONC 's brother, so \"Thomas the miller\" may have been a cousin.</p> <p></p> <p>Thomas left Hingham to build and operated the mill at Taunton in which the three commissioners from Plymouth met with King Phi\r\n2 CONC llip in 1675 to obtain explanations for his hostility toward the colonists.  Negotiations were  unsuccessful and war followed. <p></p>",
+				"When Thomas lived in Hingham MA, he was known as \"Thomas the miller \" to distinguish him from the two other Thomas Lincoln's in town. <p>A number of Lincolns came to Hingham MA from the area of Hingham, England about the same time including Samuel Lincoln who was a miller and the</p> <p>ancestor of President Abraham Lincoln. They all appear to have been related, but  \"Thomas the weaver\" was Samuel's brother, so \"Thomas the miller\" may have been a cousin.</p> <p></p> <p>Thomas left Hingham to build and operated the mill at Taunton in which the three commissioners from Plymouth met with King Phillip in 1675 to obtain explanations for his hostility toward the colonists.  Negotiations were  unsuccessful and war followed. <p></p>",
 			],
 			occupation: [
 			],
@@ -42295,7 +42293,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Joseph Loomis was a woolen-draper in Braintree, Essex County, England. He was a member of the Huit party that sailed from London April 11, 1638 in the ship 'Susan and Ellen', and arrived at Boston Jul\r\n2 CONC y17, 1638, tarrying about one year at Dorchester, MA, it is thought.  It is mentioned in the town records of Windsor, Volume 1, that on February 2, 1640 he had granted him from the plantation 21 acres\r\n2 CONC  adjoining Farmington River,onthe west side of the Connecticut River.  This 21 acres included the site of the first English settlement in Connecticut.  Also granted him were several large tracts of la\r\n2 CONC nd on the east side of the Connecticut River, received partly from the town and partly by purchase. <p>He therefore probably came to Windsor in the summer or autumn of 1639.  He is generally supposed \r\n2 CONC to have come in the company with the Rev. Ephraim Huet, who arrived at Windsor on August 17, 1639.  He brought with him five sons, all of whom were freemen, October 7, 1669, and three daughters.  His \r\n2 CONC house was situated near the mouth of the Farmington River on\"The Island\", so called because at every great freshet it became temporarily an island by the overflowing of the Connecticut River. <p></p> \r\n2 CONC <p>Ancestor of President Millard Fillmore.</p>",
+				"Joseph Loomis was a woolen-draper in Braintree, Essex County, England. He was a member of the Huit party that sailed from London April 11, 1638 in the ship 'Susan and Ellen', and arrived at Boston July17, 1638, tarrying about one year at Dorchester, MA, it is thought.  It is mentioned in the town records of Windsor, Volume 1, that on February 2, 1640 he had granted him from the plantation 21 acres adjoining Farmington River,onthe west side of the Connecticut River.  This 21 acres included the site of the first English settlement in Connecticut.  Also granted him were several large tracts of land on the east side of the Connecticut River, received partly from the town and partly by purchase. <p>He therefore probably came to Windsor in the summer or autumn of 1639.  He is generally supposed to have come in the company with the Rev. Ephraim Huet, who arrived at Windsor on August 17, 1639.  He brought with him five sons, all of whom were freemen, October 7, 1669, and three daughters.  His house was situated near the mouth of the Farmington River on\"The Island\", so called because at every great freshet it became temporarily an island by the overflowing of the Connecticut River. <p></p> <p>Ancestor of President Millard Fillmore.</p>",
 			],
 			occupation: [
 				"Woolen draper",
@@ -43286,7 +43284,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"PEQUOT WAR - In May 1637, the Connecticut General court declared an \" offensive war\" against the Pequot Indians. Command of the Connecticut forces was entrusted to Captain John Mason, a tall, portly, \r\n2 CONC vigorous soldier, thirty seven years of age. Mason was a veteran of the continental wars, having served during the past decade with the English expeditionary forces as a lieutenant under Sir Thomas Fa\r\n2 CONC irfax in the Netherlands. Before migrating to Connecticut from the Bay colony, Mason had represented Dorchester in the General Court for two years and had assisted in the planning of the fortification\r\n2 CONC s at Boston, Charlestown and Castle Island. On May 25th the English forces under Mason and guided by Uncas and his Mohicans surrounded the Pequot Village at Mystic. They attacked the palisaded village\r\n2 CONC , setting the lodges on fire and massacring the inhabitants as they tried to escape. Two colonial soldiers were killed and seventy-seven wounded, some severely. <p></p> <p>Late in 1638, a band of Pequ\r\n2 CONC ots reestablished a village at Pawcatuck near the Rhode Island border. Captain Mason and forty Connecticut sodiers, aided by Uncas and 100 Mohicans sailed to Pawcatuck Bay.Mason and his men proceeded \r\n2 CONC to loot and burn the Pequot village to the beat of a drum. Captured Pequots were turned over to the Mohicans.",
+				"PEQUOT WAR - In May 1637, the Connecticut General court declared an \" offensive war\" against the Pequot Indians. Command of the Connecticut forces was entrusted to Captain John Mason, a tall, portly, vigorous soldier, thirty seven years of age. Mason was a veteran of the continental wars, having served during the past decade with the English expeditionary forces as a lieutenant under Sir Thomas Fairfax in the Netherlands. Before migrating to Connecticut from the Bay colony, Mason had represented Dorchester in the General Court for two years and had assisted in the planning of the fortifications at Boston, Charlestown and Castle Island. On May 25th the English forces under Mason and guided by Uncas and his Mohicans surrounded the Pequot Village at Mystic. They attacked the palisaded village, setting the lodges on fire and massacring the inhabitants as they tried to escape. Two colonial soldiers were killed and seventy-seven wounded, some severely. <p></p> <p>Late in 1638, a band of Pequots reestablished a village at Pawcatuck near the Rhode Island border. Captain Mason and forty Connecticut sodiers, aided by Uncas and 100 Mohicans sailed to Pawcatuck Bay.Mason and his men proceeded to loot and burn the Pequot village to the beat of a drum. Captured Pequots were turned over to the Mohicans.",
 			],
 			occupation: [
 			],
@@ -45771,7 +45769,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"!SOURCE: \"James Morgan and His Descendants\" 1607-1869, by Nathaniel Morgan <p>!Birthplace: Actual birthplace unknown, probably Llandaff</p> <p>!Death: At age 78</p> <p>!History Note: From the first pa\r\n2 CONC ge of the cited Genealogy:</p> <p>\"James Morgan, the common ancestor of a numerous family now</p> <p>scattered widely over nearly or quite, every state and territory of the</p> <p>United States, was b\r\n2 CONC orn in Wales in 1607, but in what precise locality</p> <p>our honest progenitor first saw light is uncertain, though probably in</p> <p>Llandaff, Glamorgan Co. The family appears to have moved from Ll\r\n2 CONC andaff</p> <p>to Bristol, England on the opposite side of the Bristol Channel, a short</p> <p>time at least, perhaps a few years, prior to 1636. The name of his father</p> <p>is unknown, but there is \r\n2 CONC some traditionary evidence that it was William.</p> <p>(In another part of this Genealogy it gives the following information on</p> <p>William:</p> <p>There is a tradition that this William used to sa\r\n2 CONC y that his father, John,</p> <p>had a very old, little book, in which was written the name of \"William</p> <p>Morgan, of Llandaff\", (Wales) and dated before A.D. 1600, who he said</p> <p>was the fathe\r\n2 CONC r of our first James, the emigrant. There are other</p> <p>circumstances which strengthen the probabilities of this tradition. This</p> <p>William had a pair of gold sleeve buttons of antique make, an\r\n2 CONC d having</p> <p>\"WM.\" rudely but plainly stamped on each, which are said to have come</p> <p>down as an \"Heirloom\" from William A. (#375), and were long held by me</p> <p>as a precious relic, until st\r\n2 CONC olen a few years ago. By great effort I</p> <p>discovered a trace of them soon after, but all too late to save them from</p> <p>the crucible of an innocent purchaser, by whom they had been melted</p> \r\n2 CONC <p>with a common mass of old jewelery.)</p> <p>That year, 1636, in the month of March, he and two younger brothers,</p> <p>John and Miles, sailed from Bristol and arrived in Boston, Mass. in April</p>\r\n2 CONC  <p>following. John Morgan, his next younger brother, who from tradition</p> <p>appears to have been a high churchman and to have exceedingly disliked</p> <p>the austerity of the Puritans, left Boston\r\n2 CONC  in disgust for more congenial</p> <p>society in Virginia, soon after their arrival. How far the Morgans of</p> <p>Virginia are descended from him I am unable to say. Miles Morgan, the</p> <p>youngest\r\n2 CONC  brother, born in 1615, on his arrival at Boston, or soon after,</p> <p>joined a party of emigrants, mostly from Roxbury, of whom Col. Wm.</p> <p>Pyncheon was at the head, and founded the settlement o\r\n2 CONC f Springfield,</p> <p>Mass.</p> <p></p>\r\n2 SOUR @S17@\r\n3 QUAY 0",
+				"!SOURCE: \"James Morgan and His Descendants\" 1607-1869, by Nathaniel Morgan <p>!Birthplace: Actual birthplace unknown, probably Llandaff</p> <p>!Death: At age 78</p> <p>!History Note: From the first page of the cited Genealogy:</p> <p>\"James Morgan, the common ancestor of a numerous family now</p> <p>scattered widely over nearly or quite, every state and territory of the</p> <p>United States, was born in Wales in 1607, but in what precise locality</p> <p>our honest progenitor first saw light is uncertain, though probably in</p> <p>Llandaff, Glamorgan Co. The family appears to have moved from Llandaff</p> <p>to Bristol, England on the opposite side of the Bristol Channel, a short</p> <p>time at least, perhaps a few years, prior to 1636. The name of his father</p> <p>is unknown, but there is some traditionary evidence that it was William.</p> <p>(In another part of this Genealogy it gives the following information on</p> <p>William:</p> <p>There is a tradition that this William used to say that his father, John,</p> <p>had a very old, little book, in which was written the name of \"William</p> <p>Morgan, of Llandaff\", (Wales) and dated before A.D. 1600, who he said</p> <p>was the father of our first James, the emigrant. There are other</p> <p>circumstances which strengthen the probabilities of this tradition. This</p> <p>William had a pair of gold sleeve buttons of antique make, and having</p> <p>\"WM.\" rudely but plainly stamped on each, which are said to have come</p> <p>down as an \"Heirloom\" from William A. (#375), and were long held by me</p> <p>as a precious relic, until stolen a few years ago. By great effort I</p> <p>discovered a trace of them soon after, but all too late to save them from</p> <p>the crucible of an innocent purchaser, by whom they had been melted</p> <p>with a common mass of old jewelery.)</p> <p>That year, 1636, in the month of March, he and two younger brothers,</p> <p>John and Miles, sailed from Bristol and arrived in Boston, Mass. in April</p> <p>following. John Morgan, his next younger brother, who from tradition</p> <p>appears to have been a high churchman and to have exceedingly disliked</p> <p>the austerity of the Puritans, left Boston in disgust for more congenial</p> <p>society in Virginia, soon after their arrival. How far the Morgans of</p> <p>Virginia are descended from him I am unable to say. Miles Morgan, the</p> <p>youngest brother, born in 1615, on his arrival at Boston, or soon after,</p> <p>joined a party of emigrants, mostly from Roxbury, of whom Col. Wm.</p> <p>Pyncheon was at the head, and founded the settlement of Springfield,</p> <p>Mass.</p> <p></p>\r\n2 SOUR @S17@\r\n3 QUAY 0",
 			],
 			occupation: [
 			],
@@ -48081,7 +48079,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>Charged with manslaughter at Charlestown MA 0n 28 September 1630 and bound over for trial. The Coroner's Jury found \"that the strokes given by Walter Palmer were occasionally the means of the death\r\n2 CONC  of Austen Brachter, & so to be manslaughter. On 9 November the trial jury found Palmer not guilty.</p><p>First Representative to the General Court elected from Rehoboth in 1646</p>",
+				"<p>Charged with manslaughter at Charlestown MA 0n 28 September 1630 and bound over for trial. The Coroner's Jury found \"that the strokes given by Walter Palmer were occasionally the means of the death of Austen Brachter, & so to be manslaughter. On 9 November the trial jury found Palmer not guilty.</p><p>First Representative to the General Court elected from Rehoboth in 1646</p>",
 			],
 			occupation: [
 				"Farmer and Dairyman",
@@ -49514,7 +49512,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"In 1638, the Rev. Robert Peck left Hingham, Norfolk, England with his wife and daughter, Anne. They sailed to Boston from Ipswich on the ship,Diligent, and immediately went to Hingham MA. where a numb\r\n2 CONC er of his former parishoners had settled. In 1641 Peck and his wife returned to England. In the meanwhile, Anne had married John Mason and she remained inNew England.",
+				"In 1638, the Rev. Robert Peck left Hingham, Norfolk, England with his wife and daughter, Anne. They sailed to Boston from Ipswich on the ship,Diligent, and immediately went to Hingham MA. where a number of his former parishoners had settled. In 1641 Peck and his wife returned to England. In the meanwhile, Anne had married John Mason and she remained inNew England.",
 			],
 			occupation: [
 			],
@@ -49787,7 +49785,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Robert Peck was driven from his parish in Hingham England because of his zealous Puritan views. He fled to Massachusetts in 1638 with 132 of his parisioners including his brother, Joseph (see Joseph P\r\n2 CONC eck). <p></p> <p>He led his followers to found Hingham MA where he was ordained the first pastor of the church.</p> <p></p> <p>In 1641, with the Puritans winning the English Civil War, Peck returnedto\r\n2 CONC  England and in 1646 resumed his pulpit in Hingham, Norfolk, England.His wife and son returned with him but his daughter, Anne,had marriedCapt. John Mason and she remained in America. <p></p>",
+				"Robert Peck was driven from his parish in Hingham England because of his zealous Puritan views. He fled to Massachusetts in 1638 with 132 of his parisioners including his brother, Joseph (see Joseph Peck). <p></p> <p>He led his followers to found Hingham MA where he was ordained the first pastor of the church.</p> <p></p> <p>In 1641, with the Puritans winning the English Civil War, Peck returnedto England and in 1646 resumed his pulpit in Hingham, Norfolk, England.His wife and son returned with him but his daughter, Anne,had marriedCapt. John Mason and she remained in America. <p></p>",
 			],
 			occupation: [
 			],
@@ -51020,7 +51018,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"From \"History Of New London\"- <p>\"John Prentis - No account of the death of this early member of the community has been found, but the probate proceedings show that it took place in 1691.</p> <p>\"John\r\n2 CONC  Prentis, the son of Valentine and Alice, became an inhabitant of New London in 1652, and probably brought his wife, Hester, with him from Roxbury.  Though living in New London, he connected himself w\r\n2 CONC ith the Roxbury . . . <p>\"A blacksmith is an important persongage in a new settlement.  Richard Post and otherrs of the first comers were of this profession, but they had left the place, and an invita\r\n2 CONC tion was extended to JohnPrentis, of Roxbury, to become an inhabitant and wield the hammer for the public benefit.  The town of Hadley had made a similar proposal to him, but he came to Pequot on a vi\r\n2 CONC sit of inquiry, and entered into a contract with Mr.Winthrop and the townsmen, who, being authorized by the town, engaged,if he would remove, to build him a house and shop, pay the expense ofhistransp\r\n2 CONC ortation, and providehim with half a ton of iron, also \"twentyorthirty pound of steele,\" to be ready by the middle of May.  thesearticles were signed February 28, 1651, and at the same date he receive\r\n2 CONC d theusual accommodations of a planter, house lot, upland and meadow.The houselot of two acres was in an eligible and central position atthe corner of the present State and Bank Streets.\"",
+				"From \"History Of New London\"- <p>\"John Prentis - No account of the death of this early member of the community has been found, but the probate proceedings show that it took place in 1691.</p> <p>\"John Prentis, the son of Valentine and Alice, became an inhabitant of New London in 1652, and probably brought his wife, Hester, with him from Roxbury.  Though living in New London, he connected himself with the Roxbury . . . <p>\"A blacksmith is an important persongage in a new settlement.  Richard Post and otherrs of the first comers were of this profession, but they had left the place, and an invitation was extended to JohnPrentis, of Roxbury, to become an inhabitant and wield the hammer for the public benefit.  The town of Hadley had made a similar proposal to him, but he came to Pequot on a visit of inquiry, and entered into a contract with Mr.Winthrop and the townsmen, who, being authorized by the town, engaged,if he would remove, to build him a house and shop, pay the expense ofhistransportation, and providehim with half a ton of iron, also \"twentyorthirty pound of steele,\" to be ready by the middle of May.  thesearticles were signed February 28, 1651, and at the same date he received theusual accommodations of a planter, house lot, upland and meadow.The houselot of two acres was in an eligible and central position atthe corner of the present State and Bank Streets.\"",
 			],
 			occupation: [
 			],
@@ -51190,7 +51188,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"Abigail Proctor was the leader of a party of women who raised the frameof the meeting house at Chebacco, after an order had been issued by theGeneral Court forbidding the men from raising it. The wome\r\n2 CONC n were arrested, acknowledged their offense, but they accomplished their purpose.",
+				"Abigail Proctor was the leader of a party of women who raised the frameof the meeting house at Chebacco, after an order had been issued by theGeneral Court forbidding the men from raising it. The women were arrested, acknowledged their offense, but they accomplished their purpose.",
 			],
 			occupation: [
 			],
@@ -51271,7 +51269,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>John,aged 40, sailed 1635 from London in ship \"Susan and Ellen\" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1.</p> <p>They settle\r\n2 CONC d first in Ipswich, where he was a proprietor. He was a</p> <p>draper, and also a husbandman. He later removed to Salem. He was listed</p> <p>as a commoner in 1641. He was one of the 27 richest inhabi\r\n2 CONC tants and had 2</p> <p>shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov</p> <p>1672 at Salem. First two children born in England and the remainder in</p> <p>Salem, MA.</p> <p>\r\n2 CONC &nbsp;</p>",
+				"<p>John,aged 40, sailed 1635 from London in ship \"Susan and Ellen\" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1.</p> <p>They settled first in Ipswich, where he was a proprietor. He was a</p> <p>draper, and also a husbandman. He later removed to Salem. He was listed</p> <p>as a commoner in 1641. He was one of the 27 richest inhabitants and had 2</p> <p>shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov</p> <p>1672 at Salem. First two children born in England and the remainder in</p> <p>Salem, MA.</p> <p>&nbsp;</p>",
 			],
 			occupation: [
 			],
@@ -52907,7 +52905,7 @@
 			naturalized: "\r\n2 DATE 1851\r\n2 AGE 22-23",
 			nickname: nil,
 			notes: [
-				"<p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - \"dining rooms\", resident of Worcester.</p></p><p><p>&nbsp;</p></p><p>Wertheim is lo\r\n2 CONC cated on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>",
+				"<p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - \"dining rooms\", resident of Worcester.</p></p><p><p>&nbsp;</p></p><p>Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>",
 			],
 			occupation: [
 				"Landlady in Worcester (US Census)\r\n2 DATE 1900\r\n2 PLAC Worcester, Worcester, Massachusetts, USA\r\n2 AGE 71-72",
@@ -55955,7 +55953,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p><p>The following written by Charles F Sparrell:</p></p><p><p>&nbsp;</p></p><p>Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from \"Hinmans Business College\" in Worcester. Th\r\n2 CONC at is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Bro\r\n2 CONC thers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and \r\n2 CONC New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purc\r\n2 CONC hases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces with\r\n2 CONC out ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norc\r\n2 CONC ross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer \r\n2 CONC failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the de\r\n2 CONC pression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell (\"Vinnie\") had a prolonged \r\n2 CONC bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my fathe\r\n2 CONC r was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.\r\n2 CONC </p>",
+				"<p><p>The following written by Charles F Sparrell:</p></p><p><p>&nbsp;</p></p><p>Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from \"Hinmans Business College\" in Worcester. That is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Brothers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purchases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces without ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norcross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the depression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell (\"Vinnie\") had a prolonged bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my father was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.</p>",
 			],
 			occupation: [
 				"Paymaster - Const. Company\r\n2 DATE 1910\r\n2 AGE 36-37",
@@ -56126,7 +56124,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the\r\n2 CONC  trade. Through his work he became acquainted with a German beer & sausage saloonkeeper named Franz Josef Kerber. In 1871 they established a \"smoked meat shop\" under the name of Kerber & Sparrell cate\r\n2 CONC ring to the local German immigrant community. In 1872 Herbert married Louisa Katherine, one of the identical twin daughters of Franz. In August 1873, Franz died leaving Herbert and Louisa to run the s\r\n2 CONC hop. Louisa and Herbert extended credit to their customers, entering the sums due in a large ledger. In 1874 a financial panic occurred. Many customers lost their jobs and were unable to pay their bil\r\n2 CONC ls. The shop went under and the penniless couple was helped out by her extended family of German relatives.</p><p><p></p></p><p><p>Herbert found a job as a clerk in 1875, but by 1883 he had establishe\r\n2 CONC d abeer and sausage saloon catering to the German community. While runningthe saloon, Herbert met two brothers from Yorkshire who knew how to make good English ale but didn't know how to market it to \r\n2 CONC Americans.  (Inthose days, beer and ale were locally brewed and distributed in barrels to saloons. If you wanted beer, you drank ina saloon or took a tin container called a \"growler\" down to the saloo\r\n2 CONC n to be filled and broughthome.) Herbert offered to help the Bowler brothers sell their beer to the local saloons. Herbert turned out to be a fabulous salesman. Bowler Brothers became the largest brew\r\n2 CONC ery in Massachusetts. In 1891, Herbert'stitle was \"salesman\", by 1897 he was \"General Agent\" and by 1899, VicePresident. The Bowler brothers and H.K. Sparrell made fortunes and livedin grand style. Wh\r\n2 CONC en the Volstead Act outlawed beer in 1918, they wereold and rich so they just shut up shop and retired. Herbert K. left quite a bit of money to his children and grandchildren when he died in 1923.<p><\r\n2 CONC p></p></p><p><p>Bowler Brothers Brewery, Ltd. operated from 1883 - 1918 at the corner of Quinsigamond and  Ellsworth Streets in Worcester.</p></p><p><p></p></p><p>According to article in Worcester Dai\r\n2 CONC ly Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA</p>",
+				"<p>&nbsp;</p><p><p></p></p><p><p>When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the trade. Through his work he became acquainted with a German beer & sausage saloonkeeper named Franz Josef Kerber. In 1871 they established a \"smoked meat shop\" under the name of Kerber & Sparrell catering to the local German immigrant community. In 1872 Herbert married Louisa Katherine, one of the identical twin daughters of Franz. In August 1873, Franz died leaving Herbert and Louisa to run the shop. Louisa and Herbert extended credit to their customers, entering the sums due in a large ledger. In 1874 a financial panic occurred. Many customers lost their jobs and were unable to pay their bills. The shop went under and the penniless couple was helped out by her extended family of German relatives.</p><p><p></p></p><p><p>Herbert found a job as a clerk in 1875, but by 1883 he had established abeer and sausage saloon catering to the German community. While runningthe saloon, Herbert met two brothers from Yorkshire who knew how to make good English ale but didn't know how to market it to Americans.  (Inthose days, beer and ale were locally brewed and distributed in barrels to saloons. If you wanted beer, you drank ina saloon or took a tin container called a \"growler\" down to the saloon to be filled and broughthome.) Herbert offered to help the Bowler brothers sell their beer to the local saloons. Herbert turned out to be a fabulous salesman. Bowler Brothers became the largest brewery in Massachusetts. In 1891, Herbert'stitle was \"salesman\", by 1897 he was \"General Agent\" and by 1899, VicePresident. The Bowler brothers and H.K. Sparrell made fortunes and livedin grand style. When the Volstead Act outlawed beer in 1918, they wereold and rich so they just shut up shop and retired. Herbert K. left quite a bit of money to his children and grandchildren when he died in 1923.<p><p></p></p><p><p>Bowler Brothers Brewery, Ltd. operated from 1883 - 1918 at the corner of Quinsigamond and  Ellsworth Streets in Worcester.</p></p><p><p></p></p><p>According to article in Worcester Daily Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA</p>",
 			],
 			occupation: [
 				"Butcher,\r\n2 DATE 1864\r\n2 PLAC Worcester, Worcester, Massachusetts, USA\r\n2 AGE 16-17",
@@ -59872,7 +59870,7 @@
 			],
 			id: :p1281,
 			immigration: nil,
-			label: "gen10.PPPMMMPMMP.Rev._Samuel_Stow_Stowe",
+			label: "gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Samuel_Stow_%281%29",
 			},
@@ -73097,7 +73095,7 @@
 			],
 			id: :p1271,
 			immigration: nil,
-			label: "gen7.PPPMMMP.Lieut._Issac_Willard",
+			label: "gen7.PPPMMMP.Lieut_Issac_Willard",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Isaac_Willard_%281%29",
 			},

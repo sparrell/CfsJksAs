@@ -47,15 +47,6 @@ census:
 2 AGE 26-27
 ----
 
-event:  137
-----
-2 TYPE Reference Number
-----
- 137
-----
-2 TYPE Reference Number
-----
-
 notes: <p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><
 ----
 2 CONC p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railro
