@@ -61056,7 +61056,6 @@
 			immigration: nil,
 			label: "gen2.PM.Lavinia_Elizabeth_Strong",
 			links: %{
-				geni: "",
 				myheritage: "https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell",
 				werelate: "https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29",
 			},
