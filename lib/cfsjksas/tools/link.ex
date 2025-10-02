@@ -20,12 +20,13 @@ defmodule Cfsjksas.Tools.Link do
 	Terminations are special and not from this routine
 	Primary (C, J, A) are special and not from this module
 	"""
-	def book(relation) do
+	def book(id_a) do
     "* "
-    <> book_link(relation, "[Book page]")
+    <> book_link(id_a)
+    <> " i.e. this page\n"
 	end
 
-  def book_link(:xxx, id_a) do
+  def book_link(id_a) do
     # make filename and label and create link
     person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
     name = person_a.given_name

@@ -29,7 +29,7 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0072[Dev website]
 * https://www.werelate.org/wiki/Person:Ida_Hurlburt_%281%29[WeRelate]
 * https://www.myheritage.com/profile-20674952-23000286/ida-a-hurlburt-fisher[MyHeritage]
@@ -39,8 +39,7 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[gen1.M.Marion_F_Fisher_(1904_-_2002)]
-
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
 * gen2.MM.Ida_A_Hurlburt_(1874_-_1965)
 
 

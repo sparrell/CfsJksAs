@@ -19,8 +19,6 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
 IO.inspect(this_id_l, label: "person page this_relation")
-IEx.pry()
-# redo this next stuff using label for filepath
 		person_l = marked_lineages[this_id_l]
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_l.id)
 
@@ -38,9 +36,9 @@ IEx.pry()
 		<> make_ship(person_a, Map.has_key?(person_a, :ship))
 		<> make_no_ship(person_a, Map.has_key?(person_a, :no_ship))
 		<> "\n== Family\n"
-		<> make_family(person_l, gen, marked_lineages)
+		<> make_family(person_l, gen)
 		<> "\n== Reference Links\n"
-		<> make_refs(person_a,this_relation)
+		<> make_refs(person_a)
 		<> "\n== Relations\n"
 		<> make_relations(person_a)
 		<> "\n== Other\n"
@@ -63,9 +61,8 @@ IEx.pry()
 
 
 	def make_label(id_a) do
-		IO.inspect("need to fix make_label")
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
-		name = person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
+		person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
 	end
 
 	def make_title(person) do
@@ -116,9 +113,9 @@ IEx.pry()
 
 	end
 
-	def make_refs(person_r, relation) do
+	def make_refs(person_r) do
 		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
-		Cfsjksas.Tools.Link.book(relation)
+		Cfsjksas.Tools.Link.book(person_r.id)
 		<> Cfsjksas.Tools.Link.wikipedia(person_p)
 		<> Cfsjksas.Tools.Link.dev(person_r)
 		<> Cfsjksas.Tools.Link.werelate(person_p)
@@ -127,7 +124,7 @@ IEx.pry()
 		<> Cfsjksas.Tools.Link.wikitree(person_p)
 	end
 
-	def make_family(person_r, gen, relations) do
+	def make_family(person_r, gen) do
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_r.id)
 		mom_id = person_a.mother
 		mom_text = cond do
@@ -139,7 +136,7 @@ IEx.pry()
 				"brickwall"
 			true ->
 				# return labeled link
-				Cfsjksas.Tools.Link.book_link(:xxx, mom_id)
+				Cfsjksas.Tools.Link.book_link(mom_id)
 				<> "\n"
 			end
 
@@ -153,7 +150,7 @@ IEx.pry()
 					"brickwall"
 				true ->
 					# return labeled link
-					Cfsjksas.Tools.Link.book_link(:xxx, dad_id)
+					Cfsjksas.Tools.Link.book_link(dad_id)
 					<> "\n"
 			end
 
@@ -167,7 +164,7 @@ IEx.pry()
 				# find the id_a of the child
 				child_id_a = Cfsjksas.Chart.AgentStores.get_person_r(child_relation).id_a
 				# return labeled link
-				Cfsjksas.Tools.Link.book_link(:xxx, child_id_a)
+				Cfsjksas.Tools.Link.book_link(child_id_a)
 					<> "\n"
 		end
 
@@ -249,10 +246,8 @@ IEx.pry()
 	def make_lineage(text, done, [this | rest]) do
 		# the relation key for "this" person is done + this
 		this_relation = done ++ [this]
-		gen = length(this_relation)
-		this_person = Cfsjksas.Ancestors.GetLineages.person(gen, this_relation)
-		label = "[" <> make_label(this_person.id) <> "]"
-		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_relation, label) <> "\n"
+		this_id_a = Cfsjksas.Chart.AgentStores.get_person_r(this_relation).id_a
+		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_id_a) <> "\n"
 		new_done = done ++ [this]
 		# recurse thru rest
 		make_lineage(new_text, new_done, rest)
