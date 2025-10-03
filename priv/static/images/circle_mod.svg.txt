@@ -142,7 +142,7 @@ Herbert Kirkwood Sparrell
 <path id="arc_g3_s1_n" fill = "none"  d="M 14000,17140 A 3860,3860 0 0,1 16729,18271" />
 <text style="font-family: sans-serif; font-size:150pt; fill:#000000;">
 <textPath href="#arc_g3_s1_n" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Louisa K. Kerber
+Louisa K Kerber
 </textPath>
 </text>
 <path id="arc_g3_s1_d" fill = "none"  d="M 14000,17470 A 3530,3530 0 0,1 16496,18504" />
@@ -294,7 +294,7 @@ Sparrell
 <path id="arc_g4_s1_g" fill = "none"  d="M 17500,17500 A 4950,4950 0 0,1 18573,19106" />
 <text style="font-family: sans-serif; font-size:125pt; fill:#000000;">
 <textPath href="#arc_g4_s1_g" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Emiline S.
+Emiline S
 </textPath>
 </text>
 <path id="arc_g4_s1_s" fill = "none"  d="M 17323,17677 A 4700,4700 0 0,1 18342,19201" />
@@ -462,7 +462,7 @@ Kimball
 <path id="arc_g4_s12_g" fill = "none"  d="M 14000,25450 A 4450,4450 0 0,0 15703,25111" />
 <text style="font-family: sans-serif; font-size:125pt; fill:#000000;">
 <textPath href="#arc_g4_s12_g" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Charles S.
+Charles S
 </textPath>
 </text>
 <path id="arc_g4_s12_s" fill = "none"  d="M 14000,25700 A 4700,4700 0 0,0 15799,25342" />
@@ -7914,7 +7914,7 @@ Pierre Charlet (1593 - 1648)
 <path id="ray_g10_s355" d="M 4885,7972 L 6203,9857" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s355" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Antoinette** Gadenne (1620 - 1648)
+Antoinette Gadenne (1620 - 1648)
 </textPath>
 </text>
 <defs>
@@ -9940,7 +9940,7 @@ Anne Unknown011 (? - 1659)
 <clipPath id="sector_11_66_clip">
 <use href="#sector_11_66"/>
 </clipPath></defs>
-<use href="#sector_11_66" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_66_clip)"/>
+<use href="#sector_11_66" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="10%" clip-path="url(#sector_11_66_clip)"/>
 <path id="ray_g11_s66" d="M 29570,17779 L 31039,17475" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s66" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -14718,5 +14718,5 @@ Susanna Furner (? - 1620)
 </textPath>
 </text>
 
-<!-- made new svg at 2025-09-20 14:37:03.334860Z -->
+<!-- made new svg at 2025-10-03 16:14:35.688711Z -->
 </svg>
