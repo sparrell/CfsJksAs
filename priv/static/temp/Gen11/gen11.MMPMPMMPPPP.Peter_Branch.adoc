@@ -18,17 +18,19 @@ Narrative TBD
 * Age at Death: 41
 
 
+== Ship
+* Castle
+* 1638
+
+
 == Family
-* Mother: Out of Scope
-
-* Father: Out of Scope
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPPP.John_Branch[John Branch (1628 - 1711)]
-
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPPP.John_Branch.adoc[John Branch (1628 - 1711)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMPMPMMPPPP.Peter_Branch[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPPPP.Peter_Branch.adoc[Peter Branch (1597 - 1638)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0544[Dev website]
 * WeRelate TBD
 * MyHeritage TBD
@@ -38,46 +40,20 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPM.Mahala_Phillips[Mahala Phillips (1774 - 1852)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPMM.Genevereth_Branch[Genevereth Branch (1733 - 1812)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMMP.Peter_Branch[Peter Branch (1696 - 1759)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMMPP.Peter_Branch[Peter Branch (1659 - 1713)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPPP.John_Branch[John Branch (1628 - 1711)]
-
-* Peter Branch (1597 - 1638)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Peter Branch (1659 - 1713)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPPP.John_Branch.adoc[John Branch (1628 - 1711)]
+* gen11.MMPMPMMPPPP.Peter_Branch_(1597_-_1638)
 
 
 == Other
-notes: ..  Peter Branch    d. 1638 <p></p> <p>Peter Branch and his son, John, were passengers on the Castle in 1638.  Peter</p> <p>died on the voyage and was buried at sea, leaving his ten year old son to th
-----
-2 CONC e</p> <p>care of Thomas Wilborne, an old friend from Kent County who was residing in</p> <p>Scituate, Massachusetts.  His will, dated 16 June 1638, is recorded in Boston,</p> <p>(First Book of Suffolk
-2 CONC  Wills, page 16  NEHGR 2:183), as follows:</p> <p></p> <p>The Last Will and Testament of Peter Branch, late of Halden in Kent of owld</p> <p>England Carpenter, being weake in bodye but of good and per
-2 CONC fect sense and</p> <p>Memorye. I Will and bequeath and comitt unto Thomas Wilborne, late of Tenterden in Kent in ould England, my sonne, John Branch to have charge of him providing for him, and overse
-2 CONC eing him always a carefull, and ffaithful feafeere, duringe the terme of eleven yeares from henceforth Dated the sixteenth Daye of June 1638. And also I comitt into his hands, duringe the terme of yt 
-2 CONC time of eleven yeares,my whole estate to use thiswhole terme of time to the sayde John Branch, sonne of the aforesayd Peeter Branch, or the worth thereof, in good and lawfull monye, beinge equally pre
-2 CONC ised, by Judiciall men, but my minde and will is that the saydThomas Wilborne shall discharge all my debtes out of the aforementionedestate which I leave in his hands ffurthermore my will is, that if 
-2 CONC myson shall dye before he come to the end of this time, that then the saideThomas Wilborne shall give to widowe Igleden the late wife of StephenIgleden, or to his children, or to her children she had 
-2 CONC by him, thefullsome of five pounds of good and lawful moneye. Item, I will and bequeathto Thomas Wilborne for the keepinge of my Sonne the full some ofeight pounds of good and lawful monye, If that my
-2 CONC  sonne John shall dyebefore the terme of the first fower years but afterwards within the termeof eleven yeares, that then it shalbe imployed as is before, and shalbe after, <p>Item I will and bequeath
-2 CONC  if that my sonne John,shall dye before the terme of eleven yeares be expired, that then what remaynes in the hands ofthe said Thomas Wilborne, shalbe given to the use of the pore of thosecongregation
-2 CONC s, of Concord of Sittuate and to that congregation wich A Company, that goes in the Shipp called te Castle, if there be a company of them if not then to be devided the aforesd two congreagations, only
-2 CONC  provided that the sayed Thomas Wilborne shall have the use of the said eight pownds till the eleven years be expired, though he dye not within the fower years, I doe ordeine my sonne John Branch sole
-2 CONC  Executor, and Thomas Wilborne my feafeer to whom I comitt the oversight of this my last will and testament. <p>.n</p> <p></p>
-----
-
+notes: ..  Peter Branch    d. 1638 <p></p> <p>Peter Branch and his son, John, were passengers on the Castle in 1638.  Peter</p> <p>died on the voyage and was buried at sea, leaving his ten year old son to the</p> <p>care of Thomas Wilborne, an old friend from Kent County who was residing in</p> <p>Scituate, Massachusetts.  His will, dated 16 June 1638, is recorded in Boston,</p> <p>(First Book of Suffolk Wills, page 16  NEHGR 2:183), as follows:</p> <p></p> <p>The Last Will and Testament of Peter Branch, late of Halden in Kent of owld</p> <p>England Carpenter, being weake in bodye but of good and perfect sense and</p> <p>Memorye. I Will and bequeath and comitt unto Thomas Wilborne, late of Tenterden in Kent in ould England, my sonne, John Branch to have charge of him providing for him, and overseeing him always a carefull, and ffaithful feafeere, duringe the terme of eleven yeares from henceforth Dated the sixteenth Daye of June 1638. And also I comitt into his hands, duringe the terme of yt time of eleven yeares,my whole estate to use thiswhole terme of time to the sayde John Branch, sonne of the aforesayd Peeter Branch, or the worth thereof, in good and lawfull monye, beinge equally preised, by Judiciall men, but my minde and will is that the saydThomas Wilborne shall discharge all my debtes out of the aforementionedestate which I leave in his hands ffurthermore my will is, that if myson shall dye before he come to the end of this time, that then the saideThomas Wilborne shall give to widowe Igleden the late wife of StephenIgleden, or to his children, or to her children she had by him, thefullsome of five pounds of good and lawful moneye. Item, I will and bequeathto Thomas Wilborne for the keepinge of my Sonne the full some ofeight pounds of good and lawful monye, If that my sonne John shall dyebefore the terme of the first fower years but afterwards within the termeof eleven yeares, that then it shalbe imployed as is before, and shalbe after, <p>Item I will and bequeath if that my sonne John,shall dye before the terme of eleven yeares be expired, that then what remaynes in the hands ofthe said Thomas Wilborne, shalbe given to the use of the pore of thosecongregations, of Concord of Sittuate and to that congregation wich A Company, that goes in the Shipp called te Castle, if there be a company of them if not then to be devided the aforesd two congreagations, only provided that the sayed Thomas Wilborne shall have the use of the said eight pownds till the eleven years be expired, though he dye not within the fower years, I doe ordeine my sonne John Branch sole Executor, and Thomas Wilborne my feafeer to whom I comitt the oversight of this my last will and testament. <p>.n</p> <p></p>
 
 == Sources

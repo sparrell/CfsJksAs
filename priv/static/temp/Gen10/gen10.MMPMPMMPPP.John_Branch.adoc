@@ -14,16 +14,20 @@ Narrative TBD
 * Age at Death: About 82-83
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: Out of Scope
+* Mother: immigrant so Mom is NA
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPPPP.Peter_Branch.adoc[Peter Branch (1597 - 1638)]
 
-* Father: no_ship so parents NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMMPP.Peter_Branch[Peter Branch (1659 - 1713)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Peter Branch (1659 - 1713)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPPP.John_Branch[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPPP.John_Branch.adoc[John Branch (1628 - 1711)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0542[Dev website]
 * WeRelate TBD
 * MyHeritage TBD
@@ -33,25 +37,16 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPM.Mahala_Phillips[Mahala Phillips (1774 - 1852)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPMM.Genevereth_Branch[Genevereth Branch (1733 - 1812)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMMP.Peter_Branch[Peter Branch (1696 - 1759)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMMPP.Peter_Branch[Peter Branch (1659 - 1713)]
-
-* John Branch (1628 - 1711)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Peter Branch (1659 - 1713)]
+* gen10.MMPMPMMPPP.John_Branch_(1628_-_1711)
 
 
 == Other
@@ -75,10 +70,6 @@ event:
 2 PLAC Marshfield, Plymouth, Massachusetts, USA
 ----
 
-notes: John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased th
-----
-2 CONC e farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.
-----
-
+notes: John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased the farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.
 
 == Sources

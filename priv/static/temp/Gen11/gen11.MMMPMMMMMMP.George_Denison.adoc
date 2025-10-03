@@ -14,17 +14,23 @@ Narrative TBD
 * Age at Death: 73
 
 
-== Family
-* Mother: no_ship so parents NA
-* Father: no_ship so parents NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMMMMMM.Hannah_Dennison[Hannah Dennison (1643 - ?)]
+== Ship
+* Unknown
+* Unknown
 
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPMMMMMMPM.Margaret_Chandler.adoc[Margaret Chandler (? - 1645)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPMMMMMMPP.William_Denison.adoc[William Denison (1571 - 1653)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMMPMMMMMMP.George_Denison[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMP.George_Denison.adoc[George Denison (1620 - 1694)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p1018[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:George_Denison_%281%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -32,66 +38,46 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PM.Lavinia_Elizabeth_Strong[Lavinia Elizabeth Strong (1875 - 1941)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PMM.Alice_Virginia_Edgecomb[Alice Virginia Edgecomb (1850 - 1914)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PMMPMMMM.Bridget_Miner[Bridget Miner (1711 - 1766)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.PMMPMMMMM.Bridget_Chesebrough[Bridget Chesebrough (1683 - 1709)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.PMMPMMMMMM.Hannah_Dennison[Hannah Dennison (1643 - ?)]
-
-* George Denison (1620 - 1694)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMM.Martha_Avery_Edgecomb.adoc[Martha Avery Edgecomb (1855 - 1939)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
+* gen11.MMMPMMMMMMP.George_Denison_(1620_-_1694)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMM.Martha_Avery_Edgecomb[Martha Avery Edgecomb (1855 - 1939)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMMP.George_Washington_Edgecomb[George Washington Edgecomb (1826 - 1862)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMMPM.Bridget_Chesebrough[Bridget Chesebrough (1791 - 1857)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMMPMM.Anna_Baldwin[Anna Baldwin (1768 - 1832)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMMPMMM.Bridget_Chesebrough[Bridget Chesebrough (1737 - 1818)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMMPMMMM.Bridget_Miner[Bridget Miner (1711 - 1766)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMMPMMMMM.Bridget_Chesebrough[Bridget Chesebrough (1683 - 1709)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMMPMMMMMM.Hannah_Dennison[Hannah Dennison (1643 - ?)]
-
-* George Denison (1620 - 1694)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Alice Virginia Edgecomb (1850 - 1914)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
+* gen11.MMMPMMMMMMP.George_Denison_(1620_-_1694)
 
 
 == Other
-event:  Captain - King Phillips War
-----
-2 TYPE Military Service
-2 DATE 1676
-2 AGE 55-56
-----
-
+event: 
 ----
 2 TYPE Freeman
 2 DATE 1669
 2 PLAC Stonington, New London, Connecticut, USA
 2 AGE 48-49
+----
+ Captain - King Phillips War
+----
+2 TYPE Military Service
+2 DATE 1676
+2 AGE 55-56
 ----
  Parlimentary Army - English Civil War
 ----
@@ -100,13 +86,6 @@ event:  Captain - King Phillips War
 2 AGE 22-23
 ----
 
-notes: In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  re
-----
-2 CONC turned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the communit
-2 CONC y, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1
-2 CONC 676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thor
-2 CONC n in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>
-----
-
+notes: In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  returned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the community, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thorn in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>
 
 == Sources

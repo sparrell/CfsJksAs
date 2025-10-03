@@ -168,7 +168,7 @@
 			sex: "F",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -576,7 +576,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -2710,7 +2710,7 @@
 			sex: "M",
 			ship: %{
 				name: "James",
-				year: 1635,
+				year: "1635",
 			},
 			sources: [
 			],
@@ -2874,7 +2874,7 @@
 			sex: "M",
 			ship: %{
 				name: "Hercules",
-				year: 1634,
+				year: "1634",
 			},
 			sources: [
 			],
@@ -4037,7 +4037,7 @@
 			sex: "M",
 			ship: %{
 				name: "James",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -4778,7 +4778,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -6003,7 +6003,7 @@
 			sex: "M",
 			ship: %{
 				name: "Lyon",
-				year: 1632,
+				year: "1632",
 			},
 			sources: [
 			],
@@ -6329,7 +6329,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -6505,7 +6505,7 @@
 			sex: "M",
 			ship: %{
 				name: "Susan and Ellen",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -9264,7 +9264,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -9602,7 +9602,7 @@
 			sex: "M",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -9686,7 +9686,7 @@
 			sex: "F",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -10097,7 +10097,7 @@
 			sex: "M",
 			ship: %{
 				name: "Castle",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -10522,7 +10522,7 @@
 			sex: "M",
 			ship: %{
 				name: "Fortuen",
-				year: 1621,
+				year: "1621",
 			},
 			sources: [
 			],
@@ -10687,7 +10687,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -11118,7 +11118,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -11526,7 +11526,7 @@
 			sex: "M",
 			ship: %{
 				name: "Fortune",
-				year: 1621,
+				year: "1621",
 			},
 			sources: [
 			],
@@ -12749,7 +12749,7 @@
 			sex: "F",
 			ship: %{
 				name: "Anne",
-				year: 1623,
+				year: "1623",
 			},
 			sources: [
 			],
@@ -15634,7 +15634,7 @@
 			sex: "F",
 			ship: %{
 				name: nil,
-				year: 1629,
+				year: "1629",
 			},
 			sources: [
 				"@S28@\r\n2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-&action=showRecord&indId=individual-20674952-15001278\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT <p>Isabell Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Indexing Project (Batch) Number: P01654-1<br />System Origi\r\n4 CONC n: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>",
@@ -15719,7 +15719,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 				"@S28@\r\n2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT <p>James Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Child: Isabell Chilton<br />Indexing Project (Batch) Number: \r\n4 CONC P01654-1<br />System Origin: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>",
@@ -15806,7 +15806,7 @@
 			sex: "M",
 			ship: %{
 				name: "Increase",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -15973,7 +15973,7 @@
 			sex: "M",
 			ship: %{
 				name: "Increase",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -16893,8 +16893,8 @@
 			rin: "MH:I413",
 			sex: "M",
 			ship: %{
-				name: nil,
-				year: 1620,
+				name: "Winthrop Fleet",
+				year: "1630",
 			},
 			sources: [
 			],
@@ -17150,7 +17150,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1665,
+				year: "1665",
 			},
 			sources: [
 			],
@@ -20331,7 +20331,7 @@
 			sex: "F",
 			ship: %{
 				name: nil,
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -20502,7 +20502,7 @@
 			sex: "F",
 			ship: %{
 				name: "Hopewell",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -23236,7 +23236,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -25296,7 +25296,7 @@
 			sex: "F",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -26276,7 +26276,7 @@
 			sex: "M",
 			ship: %{
 				name: "Safety",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -26604,7 +26604,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -26947,7 +26947,7 @@
 			sex: "M",
 			ship: %{
 				name: "Mary and John",
-				year: 1630,
+				year: "1630",
 			},
 			sources: [
 			],
@@ -28418,7 +28418,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -28580,7 +28580,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -29156,7 +29156,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1718,
+				year: "1718",
 			},
 			sources: [
 			],
@@ -30470,7 +30470,7 @@
 			sex: "F",
 			ship: %{
 				name: "Susan and Ellen",
-				year: 1635,
+				year: "1635",
 			},
 			sources: [
 			],
@@ -32369,7 +32369,7 @@
 			rin: "MH:I816",
 			sex: "M",
 			ship: %{
-				date: 1632,
+				date: "1632",
 				name: "Lyon",
 			},
 			sources: [
@@ -34391,7 +34391,7 @@
 			sex: "M",
 			ship: %{
 				name: "Bachilor",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -37619,7 +37619,7 @@
 			sex: "M",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -37874,7 +37874,7 @@
 			sex: "M",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -39195,7 +39195,7 @@
 			sex: "F",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -42311,7 +42311,7 @@
 			sex: "M",
 			ship: %{
 				name: "Susan and Ellen",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -42721,7 +42721,7 @@
 			sex: "M",
 			ship: %{
 				name: "Elizabeth and Ann",
-				year: 1635,
+				year: "1635",
 			},
 			sources: [
 			],
@@ -46615,7 +46615,7 @@
 			sex: "F",
 			ship: %{
 				name: "Mayflower",
-				year: 1620,
+				year: "1620",
 			},
 			sources: [
 			],
@@ -47116,7 +47116,7 @@
 			sex: "F",
 			ship: %{
 				name: "Anne",
-				year: 1623,
+				year: "1623",
 			},
 			sources: [
 			],
@@ -47439,7 +47439,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -48104,7 +48104,7 @@
 			sex: "M",
 			ship: %{
 				name: "Four Sisters",
-				year: 1629,
+				year: "1629",
 			},
 			sources: [
 				"@S49@\r\n2 PAGE https://www.myheritage.com/person-1502068_350491171_350491171/walter-palmer\r\n2 QUAY 3\r\n2 DATA\r\n3 TEXT Added by confirming a Smart Match",
@@ -48528,7 +48528,7 @@
 			sex: "M",
 			ship: %{
 				name: "Arabella",
-				year: 1630,
+				year: "1630",
 			},
 			sources: [
 			],
@@ -48951,7 +48951,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -49196,7 +49196,7 @@
 			sex: "M",
 			ship: %{
 				name: "Planter",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -49534,7 +49534,7 @@
 			sex: "F",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -49622,7 +49622,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -49808,7 +49808,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -51287,7 +51287,7 @@
 			sex: "M",
 			ship: %{
 				name: "Susan and Elen",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 				"@S28@\r\n2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=42741179-F&action=showRecord&indId=individual-20674952-15000877\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT <p>John<br />Gender: Female<br />Christening: Oct 17 1633 - Assington, Suffolk, England<br />Father: John<br />Child: Marie Proctor<br />Indexing Project (Batch) Number: P01201-1<br />System Origin: E\r\n4 CONC ngland-ODM<br />GS Film number: 364109</p>",
@@ -57762,7 +57762,7 @@
 			sex: "M",
 			ship: %{
 				name: "Hercules",
-				year: 1634,
+				year: "1634",
 			},
 			sources: [
 			],
@@ -58090,7 +58090,7 @@
 			sex: "M",
 			ship: %{
 				name: "Hercules",
-				year: 1634,
+				year: "1634",
 			},
 			sources: [
 			],
@@ -58751,7 +58751,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1634,
+				year: "1634",
 			},
 			sources: [
 			],
@@ -59089,7 +59089,7 @@
 			sex: "M",
 			ship: %{
 				name: "Diligent",
-				year: 1638,
+				year: "1638",
 			},
 			sources: [
 			],
@@ -60235,7 +60235,7 @@
 			sex: "M",
 			ship: %{
 				name: "Susan and Ellen",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -60909,7 +60909,7 @@
 			sex: "M",
 			ship: %{
 				name: "Hopewell",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -60999,7 +60999,7 @@
 			sex: "M",
 			ship: %{
 				name: "Hopewell",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -61834,7 +61834,7 @@
 			sex: "F",
 			ship: %{
 				name: "Anne",
-				year: 1623,
+				year: "1623",
 			},
 			sources: [
 			],
@@ -63840,7 +63840,7 @@
 			sex: "F",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -68847,7 +68847,7 @@
 			sex: "M",
 			ship: %{
 				name: "Lion",
-				year: 1637,
+				year: "1637",
 			},
 			sources: [
 			],
@@ -71809,7 +71809,7 @@
 			sex: "F",
 			ship: %{
 				name: "Elizabeth",
-				year: 1636,
+				year: "1636",
 			},
 			sources: [
 			],
@@ -72636,7 +72636,7 @@
 			sex: "F",
 			ship: %{
 				name: nil,
-				year: 1718,
+				year: "1718",
 			},
 			sources: [
 			],
@@ -73214,7 +73214,7 @@
 			sex: "M",
 			ship: %{
 				name: nil,
-				year: 1634,
+				year: "1634",
 			},
 			sources: [
 				"@S102@\n2 QUAY 4\n2 DATA\n3 TEXT Simon Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Alias name: Simeon Willard, The Pioneer of New England Shipping and Trading, Major Simon Williard, Major Simon Willard, Maj Simon Willard&a\n4 CONC mp;lt;br&amp;gt;Residence: Groton, Middlesex County, Massachusetts, United States&amp;lt;br&amp;gt;Birth: Apr 7 1605 - Horsmonden, Kent, England&amp;lt;br&amp;gt;Baptism: Apr 7 1605 - Horsemonden, Ken\n4 CONC t, England&amp;lt;br&amp;gt;Occupation: Major in the British Army, Commander-in-chief of Colony Forces, Governor&#039;s assistant&amp;lt;br&amp;gt;Marriage: Spouse: Mary Noyes (born Dunster) - 1652 - \n4 CONC Lancaster, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Apr 24 1676 - Charlestown, Suffolk, Massachusetts, Colonial America&amp;lt;br&amp;gt;Burial: Apr 27 1676 - Boston, Suffolk County, Massachus\n4 CONC etts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Richard Willard&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Margery Willard (born Humphrey)&lt;/a&gt;&amp;lt;br&amp;gt;Wives: &lt;a&gt;Mary Willar\n4 CONC d (born Sharpe)&lt;/a&gt;, &lt;a&gt;Mary Noyes (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Willard (born Dunster)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Mary Edmunds (born Willard)&lt;/a&gt;, \n4 CONC &lt;a&gt;Sarah Willard&lt;/a&gt;, &lt;a&gt;Elizabeth infant Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Elizabeth Blood (born Willard)&lt;/a&\n4 CONC gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Samuel Symon Willard, Sr. VP Harvard Col.&lt;/a&gt;, &lt;a&gt;Abovehope Willard&lt;/a&gt;, &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;He\n4 CONC nry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph W\n4 CONC illard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Catherine Willard&lt;/a&gt;, &lt;a&gt;Margery Davis (born Willard)&lt;/a\n4 CONC &gt;, &lt;a&gt;Elizabeth Willard&lt;/a&gt;, &lt;a&gt;Mary (born Willard)&lt;/a&gt;",
@@ -73547,7 +73547,7 @@
 			sex: "M",
 			ship: %{
 				name: "Defense",
-				year: 1635,
+				year: "1636",
 			},
 			sources: [
 			],

@@ -14,15 +14,21 @@ Narrative TBD
 * Age at Death: About 60-61
 
 
-== Family
-* Mother: no_ship so parents NA
-* Father: no_ship so parents NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPPPPP.John_Bennett[John Bennett (1666 - 1745)]
+== Ship
+* Unknown
+* Unknown
 
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPPPM.Alice_Egington.adoc[Alice Egington (? - ?)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPPPP.Edward_Bennett.adoc[Edward Bennett (1600 - 1645)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPPPPPP.John_Bennett[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPPP.John_Bennett.adoc[John Bennett (1630 - 1691)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0129[Dev website]
 * WeRelate TBD
 * MyHeritage TBD
@@ -32,33 +38,24 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPP.Jacob_Bennett[Jacob Bennett (1761 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPPP.Jacob_Bennett[Jacob Bennett (1735 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPPPP.Issac_Bennett[Issac Bennett (1705 - 1783)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPPPPP.John_Bennett[John Bennett (1666 - 1745)]
-
-* John Bennett (1630 - 1691)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPP.Jacob_Bennett.adoc[Jacob Bennett (1761 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
+* gen10.MMPMPPPPPP.John_Bennett_(1630_-_1691)
 
 
 == Other
-event:  _ELEC of Bennett, John - Constable until 1667
+event:  Soldier - King Phillip's War
 ----
-2 TYPE _ELEC
-2 DATE 1664
-2 AGE About 33-34
+2 TYPE Military Service
+2 DATE 1676
+2 AGE About 45-46
 ----
  Surveyor and Collector of Taxes
 ----
@@ -66,17 +63,17 @@ event:  _ELEC of Bennett, John - Constable until 1667
 2 DATE 1670
 2 AGE About 39-40
 ----
+ _ELEC of Bennett, John - Constable until 1667
+----
+2 TYPE _ELEC
+2 DATE 1664
+2 AGE About 33-34
+----
  _ELEC of Bennett, John - Overseer of Highways to 1669
 ----
 2 TYPE _ELEC
 2 DATE 1668
 2 AGE About 37-38
-----
- Soldier - King Phillip's War
-----
-2 TYPE Military Service
-2 DATE 1676
-2 AGE About 45-46
 ----
 
 

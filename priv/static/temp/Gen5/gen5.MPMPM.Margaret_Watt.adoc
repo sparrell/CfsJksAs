@@ -16,19 +16,16 @@ Narrative TBD
 
 
 == Family
-* Mother: Brickwall
+* Mother: brickwall
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPMP.Alexander_Watts.adoc[Alexander Watts (? - ?)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPMP.Alexander_Watts[Alexander Watts (? - ?)]
-
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPM.Margaret_Watt[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPM.Margaret_Watt.adoc[Margaret Watt (1739 - 1796)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0448[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Margaret_Watt_%2830%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -36,15 +33,11 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
-
-* Margaret Watt (1739 - 1796)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
+* gen5.MPMPM.Margaret_Watt_(1739_-_1796)
 
 
 == Other

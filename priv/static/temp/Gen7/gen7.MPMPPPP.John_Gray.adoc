@@ -10,17 +10,19 @@ Narrative TBD
 * Birthplace: Londonderry, Ulster, Northern Ireland, UK
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: Out of Scope
-
-* Father: Out of Scope
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPP.Robert_Gray[Robert Gray (1697 - 1766)]
-
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPPP.Robert_Gray.adoc[Robert Gray (1697 - 1766)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MPMPPPP.John_Gray[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMPPPP.John_Gray.adoc[John Gray (? - ?)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0495[Dev website]
 * https://www.werelate.org/wiki/Person:John_Gray_%28135%29[WeRelate]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray[MyHeritage]
@@ -30,19 +32,13 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPP.Robert_Gray[Robert Gray (1734 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPP.Robert_Gray[Robert Gray (1697 - 1766)]
-
-* John Gray (? - ?)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPP.Robert_Gray.adoc[Robert Gray (1734 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPPP.Robert_Gray.adoc[Robert Gray (1697 - 1766)]
+* gen7.MPMPPPP.John_Gray_(?_-_?)
 
 
 == Other

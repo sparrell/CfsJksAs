@@ -8,7 +8,7 @@ defmodule Cfsjksas.Tools.Link do
   - geni(person) - adoc link to person in geni
   """
 
-  @datapath "static/data/"
+  #@datapath "static/data/"
   @adocpath "static/temp/"
 
   require IEx

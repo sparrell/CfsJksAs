@@ -13,19 +13,17 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPM.Sarah_Wiley[Sarah Wiley (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPPM.Sarah_Wiley.adoc[Sarah Wiley (? - ?)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPPP.Robert_Gray.adoc[Robert Gray (1697 - 1766)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMPPP.Robert_Gray[Robert Gray (1697 - 1766)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMPP.Robert_Gray[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPP.Robert_Gray.adoc[Robert Gray (1734 - ?)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0447[Dev website]
-* WeRelate TBD
+* http://werelate.org/wiki/Person:Robert_Gray_%2844%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -33,15 +31,11 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMP.John_Gray[John Gray (1763 - 1841)]
-
-* Robert Gray (1734 - ?)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
+* gen5.MPMPP.Robert_Gray_(1734_-_?)
 
 
 == Other
@@ -53,10 +47,6 @@ event:  Plantation No.4 incorporated as Paris
 2 AGE 57-58
 ----
 
-notes: Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumb
-----
-2 CONC erland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.
-----
-
+notes: Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumberland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.
 
 == Sources

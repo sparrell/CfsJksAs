@@ -36,8 +36,6 @@ defmodule Cfsjksas.Ancestors.GetLineages do
       nil ->
         # oops, need to find the duplicate
         id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
-IEx.pry()
-#        a_id = Cfsjksas.Tools.Relation.find_a_id_from_relation(relation)
         Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
       _ ->
         # non-nil so return it

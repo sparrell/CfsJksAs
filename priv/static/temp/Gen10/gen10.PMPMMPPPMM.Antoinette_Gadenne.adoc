@@ -1,0 +1,62 @@
+= Antoinette Gadenne (1620 - 1648)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Birth: 1620
+* Birthplace: Marcq en, Nord, Nord-Pas-de-Calais, France
+* Death: 1648
+* Deathplace: Boston, Middlesex, Massachusetts, USA
+* Age at Death: 27-28
+
+
+== Ship
+* Unknown
+* Unknown
+
+
+== Family
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPPPM.Catherine_Charlet.adoc[Catherine Charlet (1623 - 1670)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMPPPMM.Antoinette_Gadenne.adoc[Antoinette Gadenne (1620 - 1648)] i.e. this page
+* https://cfsjksas.gigalixirapp.com/person?p=p1261[Dev website]
+* WeRelate TBD
+* MyHeritage TBD
+* Geni TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Sampson Haughton (1692 - 1756)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPPP.Sampson_Haughton.adoc[Sampson Haughton (? - 1718)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPPPM.Catherine_Charlet.adoc[Catherine Charlet (1623 - 1670)]
+* gen10.PMPMMPPPMM.Antoinette_Gadenne_(1620_-_1648)
+
+
+== Other
+
+== Sources
+* @S52@
+----
+2 PAGE Antoinette Charlet (born Gadenne)
+2 QUAY 3
+2 DATA
+3 DATE 9 FEB 2019
+3 TEXT Added via a Smart Match
+----
+

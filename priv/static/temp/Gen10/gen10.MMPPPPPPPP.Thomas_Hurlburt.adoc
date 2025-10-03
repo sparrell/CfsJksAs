@@ -14,19 +14,21 @@ Narrative TBD
 * Age at Death: 61
 
 
+== Ship
+* Bachilor
+* 1636
+
+
 == Family
-* Mother: Out of Scope
-
-* Father: Out of Scope
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPPPPPPP.Joseph_Hurlburt[Joseph Hurlburt (1644 - 1732)]
-
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1644 - 1732)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPPPPPPPP.Thomas_Hurlburt[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPPPPP.Thomas_Hurlburt.adoc[Thomas Hurlburt (1610 - 1671)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0118[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Thomas_Hurlbut_%284%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -34,25 +36,16 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPP.Charles_S_Hurlburt[Charles S. Hurlburt (1823 - 1886)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPPP.Wait_Hurlburt[Wait Hurlburt (1777 - 1852)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPPPP.Adam_Hurlburt[Adam Hurlburt (1736 - 1828)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPPPPP.Moses_Hurlburt[Moses Hurlburt (1714 - 1763)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPPPPPP.Joseph_Hurlburt[Joseph Hurlburt (1677 - 1729)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPPPPPPP.Joseph_Hurlburt[Joseph Hurlburt (1644 - 1732)]
-
-* Thomas Hurlburt (1610 - 1671)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPP.Wait_Hurlburt.adoc[Wait Hurlburt (1777 - 1852)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1677 - 1729)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1644 - 1732)]
+* gen10.MMPPPPPPPP.Thomas_Hurlburt_(1610_-_1671)
 
 
 == Other
@@ -62,15 +55,15 @@ event:  Clerk of the train band
 2 DATE 1640
 2 AGE 29-30
 ----
+ Constable
+----
+2 TYPE Fact 4
+----
  England to Saybrook CT (Notes)
 ----
 2 TYPE Military Service
 2 DATE 1635
 2 AGE 24-25
-----
- Constable
-----
-2 TYPE Fact 4
 ----
  Settled in Wethersfield
 ----
@@ -80,16 +73,7 @@ event:  Clerk of the train band
 2 AGE About 27-28
 ----
 
-notes: Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt par
-----
-2 CONC ty included his wife, her female servant and ten other males. <p></p> <p>Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the 
-2 CONC Pequot war was developing.</p> <p>On February 22,1637, Gardiner took ten men a half-mile from the fort toclear weeds and reeds where the Indians might hide. They were attackedby Indians who were hidin
-2 CONC g in the burning reeds. Two men threw down their matchlocks and ran away. Three including Hurlburt and Gardiner werewounded and two were killed by arrows. Hurlburt was shot almost through the thigh. A
-2 CONC fter firing their muskets they drew their swords and fought their way hand to hand back to the fort. <p></p> <p>During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the 
-2 CONC moccasins of the Pequots when they tried to sneak up on the fort at night.</p> <p></p> <p>Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active 
-2 CONC in the militia and served in thelegislature.</p>
-----
-
+notes: Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt party included his wife, her female servant and ten other males. <p></p> <p>Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the Pequot war was developing.</p> <p>On February 22,1637, Gardiner took ten men a half-mile from the fort toclear weeds and reeds where the Indians might hide. They were attackedby Indians who were hiding in the burning reeds. Two men threw down their matchlocks and ran away. Three including Hurlburt and Gardiner werewounded and two were killed by arrows. Hurlburt was shot almost through the thigh. After firing their muskets they drew their swords and fought their way hand to hand back to the fort. <p></p> <p>During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the moccasins of the Pequots when they tried to sneak up on the fort at night.</p> <p></p> <p>Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active in the militia and served in thelegislature.</p>
 occupation: Blacksmith
 
 == Sources

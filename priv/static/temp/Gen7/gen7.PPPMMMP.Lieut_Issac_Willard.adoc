@@ -21,19 +21,17 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPM.Martha_Clarke[Martha Clarke (1693 - 1794)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr[Major Joseph Willard, Sr. (1692 - 1774)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.PPPMMMP.Lieut_Issac_Willard[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p1271[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Isaac_Willard_%281%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -41,19 +39,13 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.P.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1899 - 1978)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.PP.Charles_Herbert_Sparrell[Charles Herbert Sparrell (1873 - 1961)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.PPP.Herbert_Kirkwood_Sparrell[Herbert Kirkwood Sparrell (1847 - 1923)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.PPPM.Emiline_S_Gleason[Emiline S. Gleason (1825 - 1908)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.PPPMM.Sophia_Bixby[Sophia Bixby (1802 - 1859)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.PPPMMM.Betsy_Willard[Betsy Willard (1771 - ?)]
-
-* Lieut. Issac Willard (1724 - 1805)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* gen7.PPPMMMP.Lieut_Issac_Willard_(1724_-_1805)
 
 
 == Other
@@ -73,16 +65,6 @@ residence:
 
 
 == Sources
-* @S112@
-----
-2 QUAY 4
-2 DATA
-3 TEXT Lieut. Issac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Province of Massachusetts Bay&amp;lt;br&amp;gt;Marriage: Dec 29 1746 - Massachusetts&amp;lt
-4 CONC ;br&amp;gt;Death: Dec 26 1805 - Worcester, Worcester, Massachusetts, United States&amp;lt;br&amp;gt;Father: Major Joseph Willard&amp;lt;br&amp;gt;Mother: Martha Willard (born Clarke)&amp;lt;br&amp;gt;
-4 CONC Wife: Sarah Willard (born Whipple)&amp;lt;br&amp;gt;Child: Solomon Willard&amp;lt;br&amp;gt;Siblings: Hannah Newton (born Willard Roberts, Robbards)Josiah WillardSarah Brooks (born Willard)Mary Willar
-4 CONC dJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard
-----
-
 * @S102@
 ----
 2 QUAY 4
@@ -96,6 +78,16 @@ residence:
 4 CONC t;a&gt;Lucretia (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Wil
 4 CONC lard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&g
 4 CONC t;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Lieut. Issac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Province of Massachusetts Bay&amp;lt;br&amp;gt;Marriage: Dec 29 1746 - Massachusetts&amp;lt
+4 CONC ;br&amp;gt;Death: Dec 26 1805 - Worcester, Worcester, Massachusetts, United States&amp;lt;br&amp;gt;Father: Major Joseph Willard&amp;lt;br&amp;gt;Mother: Martha Willard (born Clarke)&amp;lt;br&amp;gt;
+4 CONC Wife: Sarah Willard (born Whipple)&amp;lt;br&amp;gt;Child: Solomon Willard&amp;lt;br&amp;gt;Siblings: Hannah Newton (born Willard Roberts, Robbards)Josiah WillardSarah Brooks (born Willard)Mary Willar
+4 CONC dJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard
 ----
 
 * @S60@

@@ -14,19 +14,21 @@ Narrative TBD
 * Age at Death: About 80-81
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: Out of Scope
-
-* Father: Out of Scope
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPMP.Thomas_Lincoln[Thomas Lincoln (1628 - 1720)]
-
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPMP.Thomas_Lincoln.adoc[Thomas Lincoln (1628 - 1720)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen11/gen11.MMPMPMMPMPP.Thomas_Lincoln[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPMPP.Thomas_Lincoln.adoc[Thomas Lincoln (1603 - 1684)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0548[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Thomas_Lincoln_%2841%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -34,27 +36,17 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MM.Ida_A_Hurlburt[Ida A Hurlburt (1874 - 1965)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MMP.Charles_Henry_Hurlburt[Charles Henry Hurlburt (1849 - 1930)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MMPM.Laura_Esther_Bennett[Laura Esther Bennett (1827 - ?)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MMPMP.Jacob_Bennett[Jacob Bennett (1798 - 1830)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MMPMPM.Mahala_Phillips[Mahala Phillips (1774 - 1852)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MMPMPMM.Genevereth_Branch[Genevereth Branch (1733 - 1812)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen8/gen8.MMPMPMMP.Peter_Branch[Peter Branch (1696 - 1759)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen9/gen9.MMPMPMMPM.Hannah_Lincoln[Hannah Lincoln (1664 - 1732)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen10/gen10.MMPMPMMPMP.Thomas_Lincoln[Thomas Lincoln (1628 - 1720)]
-
-* Thomas Lincoln (1603 - 1684)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPM.Hannah_Lincoln.adoc[Hannah Lincoln (1664 - 1732)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPMP.Thomas_Lincoln.adoc[Thomas Lincoln (1628 - 1720)]
+* gen11.MMPMPMMPMPP.Thomas_Lincoln_(1603_-_1684)
 
 
 == Other
@@ -72,12 +64,6 @@ event:
 2 AGE About 46-47
 ----
 
-notes: When Thomas lived in Hingham MA, he was known as "Thomas the miller " to distinguish him from the two other Thomas Lincoln's in town. <p>A number of Lincolns came to Hingham MA from the area of Hingha
-----
-2 CONC m, England about the same time including Samuel Lincoln who was a miller and the</p> <p>ancestor of President Abraham Lincoln. They all appear to have been related, but  "Thomas the weaver" was Samuel
-2 CONC 's brother, so "Thomas the miller" may have been a cousin.</p> <p></p> <p>Thomas left Hingham to build and operated the mill at Taunton in which the three commissioners from Plymouth met with King Phi
-2 CONC llip in 1675 to obtain explanations for his hostility toward the colonists.  Negotiations were  unsuccessful and war followed. <p></p>
-----
-
+notes: When Thomas lived in Hingham MA, he was known as "Thomas the miller " to distinguish him from the two other Thomas Lincoln's in town. <p>A number of Lincolns came to Hingham MA from the area of Hingham, England about the same time including Samuel Lincoln who was a miller and the</p> <p>ancestor of President Abraham Lincoln. They all appear to have been related, but  "Thomas the weaver" was Samuel's brother, so "Thomas the miller" may have been a cousin.</p> <p></p> <p>Thomas left Hingham to build and operated the mill at Taunton in which the three commissioners from Plymouth met with King Phillip in 1675 to obtain explanations for his hostility toward the colonists.  Negotiations were  unsuccessful and war followed. <p></p>
 
 == Sources

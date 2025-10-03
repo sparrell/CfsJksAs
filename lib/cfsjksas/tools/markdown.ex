@@ -20,6 +20,16 @@ defmodule Cfsjksas.Tools.Markdown do
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
 IO.inspect(this_id_l, label: "person page this_relation")
 		person_l = marked_lineages[this_id_l]
+		id_a = person_l.id
+		# determine if should make page or not
+		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
+	end
+	def person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
+			when is_atom(id_a) do
+		# valid id (as opposed to string like "father of ...")
+		## do make page
+		person_l = marked_lineages[this_id_l]
+
 		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_l.id)
 
 		this_relation = person_l.relation
@@ -49,6 +59,13 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		IO.inspect(this_relation, label: "wrote")
 
 		# recurse thru rest
+		person_page(rest_id_ls, gen, marked_lineages)
+	end
+	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages)
+			when is_binary(id_a) do
+		# id_a is a binary, eg a placeholder like "father of ..."
+		# therefore do NOT make a page and move on to next person
+		IO.inspect(id_a, label: "skipped")
 		person_page(rest_id_ls, gen, marked_lineages)
 	end
 
@@ -254,6 +271,10 @@ IO.inspect(this_id_l, label: "person page this_relation")
 
 	def make_ship(_person_r, false) do
 		# not an immigrant so leave off ship markdown
+		""
+	end
+	def make_ship(%{ship: :parent}, true) do
+		# parent of an immigrant so not appropriate to put ship
 		""
 	end
 	def make_ship(person_a, true) do

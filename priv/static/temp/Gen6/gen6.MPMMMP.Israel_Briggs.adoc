@@ -15,19 +15,17 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MPMMMPM.Abigail_Packard[Abigail Packard (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPM.Abigail_Packard.adoc[Abigail Packard (? - ?)]
 
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen7/gen7.MPMMMPP.John_Briggs[John Briggs (1673 - 1764)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMMM.Naomi_Briggs[Naomi Briggs (1742 - ?)]
-
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen6/gen6.MPMMMP.Israel_Briggs[Book page]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)] i.e. this page
 * https://cfsjksas.gigalixirapp.com/person?p=p0499[Dev website]
-* WeRelate TBD
+* https://www.werelate.org/wiki/Person:Israel_Briggs_%281%29[WeRelate]
 * MyHeritage TBD
 * Geni TBD
 * WikiTree TBD
@@ -35,41 +33,16 @@ Narrative TBD
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen1/gen1.M.Marion_F_Fisher[Marion F Fisher (1904 - 2002)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen2/gen2.MP.Albert_Amory_Fisk_Fisher[Albert Amory Fisk Fisher (1854 - 1915)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen3/gen3.MPM.Arvilla_Gray[Arvilla Gray (1808 - 1888)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen4/gen4.MPMM.Rhoda_Andrews[Rhoda Andrews (1775 - 1841)]
-
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/gen5/gen5.MPMMM.Naomi_Briggs[Naomi Briggs (1742 - ?)]
-
-* Israel Briggs (1703 - 1774)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
+* gen6.MPMMMP.Israel_Briggs_(1703_-_1774)
 
 
 == Other
-notes: Bristol County, Massachusetts Probate Records; Vol. 23, Page 355 <p></p> <p>In the Name of God, Amen. I, Israel Briggs, of Berkley in the county of Bristol in the Province of the Massachusetts Bay in 
-----
-2 CONC New England, yeoman, being of a sound disposing mind and memory through divine goodness, knowing that it is appointed unto men once to die but not knowing the time when, do make this my last will and 
-2 CONC testament.  First of all I commit my soul into the hands of Jesus Christ, my Merciful Savior and Mighty Redeemer.  My body I commit to the earth to be decently buried not doubting but I shall receive 
-2 CONC ye same again in the resurrection day of atoning.  My worldly estate, which God hath given me, I dispose of the same in the manner following; <p>First, I give unto my beloved wife, Naomi Briggs, the u
-2 CONC se &. improvement of ye one half of all my lands, buildings, stock and indoor moveableswhile she remains my widow.  Also, I give unto her my Negro girl called Dinah to be at her disposal. this bequest
-2 CONC  made to my widow is in rightof her dowry in my estate. <p>Item, I give unto my son Joseph Briggs, his heirs and assigns further all my lands and buildings I am lawfully possessed of together with my 
-2 CONC husbandry tools and utensils and also my wearing apparel hepaying out yelegacys hereafter mentioned; the sd. Joseph to come into the possessionof the one half of my lands buildings and husbandry tools
-2 CONC  after my death and the other half after my wife. <p>Item, I give unto my daughter, Abigail Townsend, in addition to what she hath already received of me, one quarter part of ye whole of my indoor mov
-2 CONC eables & also one quarter part of my flock of creatures and after the death of my wife, I give her one half of my indoor moveables & flockof creatures which my wife improved in her life.  I give unto 
-2 CONC my daughter Abigail ten pounds in money to be paid unto her by my son Joseph Briggs. <p>I give unto my daughter Naomi Andrews in addition to what she hath already received of me, one quarter part of t
-2 CONC he whole of my indoor moveables & also one quarter part of ye whole of my flock of creatures and after the death of my wife, I give her ye one half of ye indoor moveables and flock of creatures which 
-2 CONC my wife improved in her lifetime.  I also give unto Naomi ten pounds in money to be paidunto her by my son JosephBriggs. <p>Item, I give unto my grandchildren, Cynthia and Phebe Briggs, daughtersof my
-2 CONC  son, Jotham Briggs, deceased, one hundred pounds in money to be equally divided between them to be paid unto them by my son, Joseph afsd.  that is to say fifty pounds to Cynthia when she arrives to t
-2 CONC he age of  eighteen years and the other fifty to Phebe  when she arrives to eighteen years. <p>Lastly, I constitute and appoint my son, Joseph Briggs, sole executor of this my last will and testament,
-2 CONC  hereby revoking and annulling all other wills by me made and notifying and confirming this andnone other tobe my will & testament and in testimony thereof, I have set my hand andseal, November the 5t
-2 CONC h day in the twelfth year of His Majesty, King George the third, King over Great Britain, A.Domini one thousand seven hundred & seventy one. <p></p> <p>Signed sealed published and uttered by ye sd.</p
-2 CONC > <p>Israel Briggs to be his last will and testament          Israel Briggs (seal)</p> <p>Samuel Tobey</p> <p>Bathsheba Tobey</p> <p>Enoch Tobey</p> <p>(Samuel Tobey was the local pastor and a Harvard
-2 CONC  graduate)</p> <p></p>
-----
-
+notes: Bristol County, Massachusetts Probate Records; Vol. 23, Page 355 <p></p> <p>In the Name of God, Amen. I, Israel Briggs, of Berkley in the county of Bristol in the Province of the Massachusetts Bay in New England, yeoman, being of a sound disposing mind and memory through divine goodness, knowing that it is appointed unto men once to die but not knowing the time when, do make this my last will and testament.  First of all I commit my soul into the hands of Jesus Christ, my Merciful Savior and Mighty Redeemer.  My body I commit to the earth to be decently buried not doubting but I shall receive ye same again in the resurrection day of atoning.  My worldly estate, which God hath given me, I dispose of the same in the manner following; <p>First, I give unto my beloved wife, Naomi Briggs, the use &. improvement of ye one half of all my lands, buildings, stock and indoor moveableswhile she remains my widow.  Also, I give unto her my Negro girl called Dinah to be at her disposal. this bequest made to my widow is in rightof her dowry in my estate. <p>Item, I give unto my son Joseph Briggs, his heirs and assigns further all my lands and buildings I am lawfully possessed of together with my husbandry tools and utensils and also my wearing apparel hepaying out yelegacys hereafter mentioned; the sd. Joseph to come into the possessionof the one half of my lands buildings and husbandry tools after my death and the other half after my wife. <p>Item, I give unto my daughter, Abigail Townsend, in addition to what she hath already received of me, one quarter part of ye whole of my indoor moveables & also one quarter part of my flock of creatures and after the death of my wife, I give her one half of my indoor moveables & flockof creatures which my wife improved in her life.  I give unto my daughter Abigail ten pounds in money to be paid unto her by my son Joseph Briggs. <p>I give unto my daughter Naomi Andrews in addition to what she hath already received of me, one quarter part of the whole of my indoor moveables & also one quarter part of ye whole of my flock of creatures and after the death of my wife, I give her ye one half of ye indoor moveables and flock of creatures which my wife improved in her lifetime.  I also give unto Naomi ten pounds in money to be paidunto her by my son JosephBriggs. <p>Item, I give unto my grandchildren, Cynthia and Phebe Briggs, daughtersof my son, Jotham Briggs, deceased, one hundred pounds in money to be equally divided between them to be paid unto them by my son, Joseph afsd.  that is to say fifty pounds to Cynthia when she arrives to the age of  eighteen years and the other fifty to Phebe  when she arrives to eighteen years. <p>Lastly, I constitute and appoint my son, Joseph Briggs, sole executor of this my last will and testament, hereby revoking and annulling all other wills by me made and notifying and confirming this andnone other tobe my will & testament and in testimony thereof, I have set my hand andseal, November the 5th day in the twelfth year of His Majesty, King George the third, King over Great Britain, A.Domini one thousand seven hundred & seventy one. <p></p> <p>Signed sealed published and uttered by ye sd.</p> <p>Israel Briggs to be his last will and testament          Israel Briggs (seal)</p> <p>Samuel Tobey</p> <p>Bathsheba Tobey</p> <p>Enoch Tobey</p> <p>(Samuel Tobey was the local pastor and a Harvard graduate)</p> <p></p>
 will: See Notes
 
 == Sources

@@ -42,6 +42,10 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
   * actually put link in
   * extra colon at begining of marked_ex.txt
 
+* to restart app
+Application.stop(:cfsjksas)
+Application.start(:cfsjksas)
+
 ## Cruft beyond here
 
 make dedup file (usually won't need to)
