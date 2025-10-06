@@ -8,8 +8,8 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def person_pages(gen) do
 
-		marked_lineages = Cfsjksas.Chart.AgentStores.get_marked_lineages()
-		this_gen_keys = Cfsjksas.Chart.AgentStores.m_ids_by_gen(gen)
+		marked_lineages = Cfsjksas.Ancestors.AgentStores.get_marked_lineages()
+		this_gen_keys = Cfsjksas.Ancestors.AgentStores.m_ids_by_gen(gen)
 		person_page(this_gen_keys, gen, marked_lineages)
 	end
 
@@ -30,7 +30,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		## do make page
 		person_l = marked_lineages[this_id_l]
 
-		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_l.id)
+		person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(person_l.id)
 
 		this_relation = person_l.relation
 
@@ -77,7 +77,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 
 
 	def make_label(id_a) do
-		person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+		person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
 		person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
 	end
 
@@ -130,18 +130,18 @@ IO.inspect(this_id_l, label: "person page this_relation")
 	end
 
 	def make_refs(person_r) do
-		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
+		person_a = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(person_r.id)
-		<> Cfsjksas.Tools.Link.wikipedia(person_p)
-		<> Cfsjksas.Tools.Link.dev(person_r)
-		<> Cfsjksas.Tools.Link.werelate(person_p)
-		<> Cfsjksas.Tools.Link.myheritage(person_p)
-		<> Cfsjksas.Tools.Link.geni(person_p)
-		<> Cfsjksas.Tools.Link.wikitree(person_p)
+		<> Cfsjksas.Tools.Link.dev(person_r.id)
+		<> Cfsjksas.Tools.Link.geni(person_a)
+		<> Cfsjksas.Tools.Link.myheritage(person_a)
+		<> Cfsjksas.Tools.Link.werelate(person_a)
+		<> Cfsjksas.Tools.Link.wikipedia(person_a)
+		<> Cfsjksas.Tools.Link.wikitree(person_a)
 	end
 
 	def make_family(person_r, gen) do
-		person_a = Cfsjksas.Chart.AgentStores.get_person_a(person_r.id)
+		person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(person_r.id)
 		mom_id = person_a.mother
 		mom_text = cond do
 			(mom_id == nil) and (Map.has_key?(person_a, :ship)) and (person_a.ship != nil) ->
@@ -178,7 +178,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 				# to get the child in this line, take off the last P or M in the relation
 				child_relation = List.delete_at(person_r.relation, -1)
 				# find the id_a of the child
-				child_id_a = Cfsjksas.Chart.AgentStores.get_person_r(child_relation).id_a
+				child_id_a = Cfsjksas.Ancestors.AgentStores.get_person_r(child_relation).id_a
 				# return labeled link
 				Cfsjksas.Tools.Link.book_link(child_id_a)
 					<> "\n"
@@ -262,7 +262,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 	def make_lineage(text, done, [this | rest]) do
 		# the relation key for "this" person is done + this
 		this_relation = done ++ [this]
-		this_id_a = Cfsjksas.Chart.AgentStores.get_person_r(this_relation).id_a
+		this_id_a = Cfsjksas.Ancestors.AgentStores.get_person_r(this_relation).id_a
 		new_text = text <> "* " <> Cfsjksas.Tools.Link.book_link(this_id_a) <> "\n"
 		new_done = done ++ [this]
 		# recurse thru rest
@@ -415,7 +415,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		# keys already covered
 		already = Cfsjksas.Chart.GetCircle.already()
 
-		person = Cfsjksas.Chart.AgentStores.get_person_a(person_id)
+		person = Cfsjksas.Ancestors.AgentStores.get_person_a(person_id)
 
 		Map.keys(person) -- already
 		|> check_facts(person)

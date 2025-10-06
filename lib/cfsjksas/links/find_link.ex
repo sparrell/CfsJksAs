@@ -23,10 +23,10 @@ defmodule Cfsjksas.Links.FindLink do
     Cfsjksas.DevTools.StoreReset.zero_counts()
 
     IO.inspect("resolve which parsing")
-    all_ids_a = Cfsjksas.Chart.AgentStores.id_a_by_gen()
+    all_ids_a = Cfsjksas.Ancestors.AgentStores.id_a_by_gen()
     IO.inspect("length of all_ids_a #{length(all_ids_a)}")
     # initialize updated ancestors with existing ancestor map
-    starting_ancestors = Cfsjksas.Chart.AgentStores.get_ancestors()
+    starting_ancestors = Cfsjksas.Ancestors.AgentStores.get_ancestors()
     updates_done = 0
 
   process_people(starting_ancestors, link_source, all_ids_a, updates_done)

@@ -58,7 +58,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
 
   def ship(id_a) do
-    person = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+    person = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
 		if person == nil do
 			IEx.pry()
 		end
@@ -113,7 +113,7 @@ defmodule Cfsjksas.Ancestors.Person do
     terminations
   end
   defp brick_walls([id | rest], terminations) do
-    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
+    person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
     termination = case categorize_person(id) do
       :not -> []
       :ship -> []
@@ -150,7 +150,7 @@ defmodule Cfsjksas.Ancestors.Person do
 
   def categorize() do
     # categorize everyone as brickwall, known_ship, etc
-    all_people = Cfsjksas.Chart.AgentStores.all_a_ids()
+    all_people = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     categorize(all_people, {[],[],[],[],[],[],[]})
   end
   defp categorize([], category_lists) do
@@ -234,7 +234,7 @@ defmodule Cfsjksas.Ancestors.Person do
     if id == nil do
       IEx.pry()
     end
-    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
+    person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
 if person == nil do
       IEx.pry()
     end
@@ -307,7 +307,7 @@ if person == nil do
   end
   defp surnames([id | rest], surname_map) do
     # get surname of this person
-    person = Cfsjksas.Chart.AgentStores.get_person_a(id)
+    person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
     surname = get_surname(person.surname)
 
     # if surname in map, add this person otherwise add surname with this person

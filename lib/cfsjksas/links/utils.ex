@@ -182,12 +182,7 @@ defmodule Cfsjksas.Links.Utils do
         # otherwise screen scrape
         false
     end
-
-    #IO.inspect(skip, label: "skip")
-    #IO.inspect(skip_father, label: "skip_father")
-    #IO.inspect(skip_mother, label: "skip_mother")
-
-    # continue on updates
+# continue on updates
 {updating_ancestors,
   skip,
   skip_father,

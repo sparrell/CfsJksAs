@@ -22,15 +22,22 @@ defmodule Cfsjksas.Tools.Link do
 	"""
 	def book(id_a) do
     "* "
-    <> book_link(id_a)
-    <> " i.e. this page\n"
+    <> book_link(id_a, "[Book Link]")
+    <> "\n"
 	end
 
   def book_link(id_a) do
     # make filename and label and create link
-    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
 
     link_label = "[" <> Cfsjksas.Ancestors.Person.get_name_dates(person_a) <> "]"
+    book_link(id_a, link_label)
+  end
+  def book_link(id_a, link_label) do
+    # link to book page with labelled link
+    # make filename and label and create link
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
+
     # need gen label for generation directory
     gen = person_a.label
     |> String.split(".")
@@ -44,14 +51,17 @@ defmodule Cfsjksas.Tools.Link do
     <> person_a.label
     <> ".adoc"
     <> link_label
-
   end
 
-  def dev(person) do
-		"* https://cfsjksas.gigalixirapp.com/person?p="
-		<> to_string(person.id)
+  def dev(id) do
+    "* "
+    <> dev_link(id)
 		<> "[Dev website]\n"
 	end
+  def dev_link(id) do
+    "https://cfsjksas.gigalixirapp.com/person?p="
+		<> to_string(id)
+  end
 
   def werelate(person_p) do
     # output werelate link if present, or TBD if not
@@ -149,8 +159,8 @@ defmodule Cfsjksas.Tools.Link do
     # filepath for people pages
 
     # get person_a from relation
-    id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
-    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
+    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
 
     gen = @adocpath <> "Gen" <> to_string(length(relation)) <> "/"
     filepath = gen <> person_a.label <> ".adoc"
@@ -159,8 +169,8 @@ defmodule Cfsjksas.Tools.Link do
   def make_filename(relation, :md) do
     # filepath for people pages
     # get person_a from relation
-    id_map = Cfsjksas.Chart.AgentStores.get_person_r(relation)
-    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_map.id_a)
+    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
 
     gen = @adocpath <> "Gen" <> to_string(length(relation)) <> "/"
     filepath = gen <> person_a.label <> ".md"

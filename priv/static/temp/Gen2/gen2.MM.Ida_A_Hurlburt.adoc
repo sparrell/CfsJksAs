@@ -29,11 +29,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0072[Dev website]
-* https://www.werelate.org/wiki/Person:Ida_Hurlburt_%281%29[WeRelate]
-* https://www.myheritage.com/profile-20674952-23000286/ida-a-hurlburt-fisher[MyHeritage]
 * https://www.geni.com/people/Ida-Hurlburt/6000000219136898849[Geni]
+* https://www.myheritage.com/profile-20674952-23000286/ida-a-hurlburt-fisher[MyHeritage]
+* https://www.werelate.org/wiki/Person:Ida_Hurlburt_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

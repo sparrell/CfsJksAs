@@ -6,7 +6,7 @@ defmodule Cfsjksas.Chart.CircleMod do
 
   def main(filename) do
     # get marked relations data
-    Cfsjksas.Chart.AgentStores.get_marked_lineages()
+    Cfsjksas.Ancestors.AgentStores.get_marked_lineages()
     # and draw it
     |> Cfsjksas.Chart.Draw.main(:circle_mod_chart)
     |> Cfsjksas.Chart.Svg.finish()

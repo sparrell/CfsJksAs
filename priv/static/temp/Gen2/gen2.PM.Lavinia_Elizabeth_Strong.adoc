@@ -29,11 +29,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0006[Dev website]
-* https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29[WeRelate]
-* https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell[MyHeritage]
 * Geni TBD
+* https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell[MyHeritage]
+* https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

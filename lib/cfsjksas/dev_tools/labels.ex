@@ -6,8 +6,8 @@ defmodule Cfsjksas.DevTools.Labels do
   require IEx
 
   def make() do
-    ancestors = Cfsjksas.Chart.AgentStores.get_ancestors()
-    id_a_s = Cfsjksas.Chart.AgentStores.all_a_ids()
+    ancestors = Cfsjksas.Ancestors.AgentStores.get_ancestors()
+    id_a_s = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     make(ancestors, id_a_s)
   end
   def make(ancestors, []) do
@@ -21,7 +21,7 @@ defmodule Cfsjksas.DevTools.Labels do
   end
   def make(ancestors, [id_a | rest_id_a_s]) do
     # modify id_a person to add label
-    person_a = Cfsjksas.Chart.AgentStores.get_person_a(id_a)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
     # label is of form gen2.MM.Ida_A_Hurlburt
     name = person_a.given_name
           <> "_" <> cond do

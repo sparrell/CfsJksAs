@@ -14,7 +14,7 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
       :p0005
     end
 
-    person = Cfsjksas.Chart.AgentStores.get_person_a(person_of_interest)
+    person = Cfsjksas.Ancestors.AgentStores.get_person_a(person_of_interest)
     person_txt = Cfsjksas.Circle.Geprint.print_person(person)
 
     surname = to_string(person.surname)
@@ -30,12 +30,22 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
    end
 
     get_urls? = Map.has_key?(person, :links)
-    urls = case get_urls? do
+    pre_urls = case get_urls? do
       false ->
         []
       true ->
-        Map.to_list(person.links)
+        person.links
+        |> Map.to_list()
+        |> Enum.sort()
     end
+    book_url = Cfsjksas.Tools.Link.book_link(person.id, "")
+    dev_url = Cfsjksas.Tools.Link.dev_link(person.id)
+    urls = [{:book, book_url}, {:dev, dev_url}] ++ pre_urls
+
+    IO.inspect(urls)
+    IO.inspect(book_url)
+    IO.inspect(dev_url)
+
 
     {:ok,
      socket

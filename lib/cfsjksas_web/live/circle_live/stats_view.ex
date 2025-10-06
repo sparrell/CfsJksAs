@@ -10,8 +10,8 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
       _parents, normal
       } = Cfsjksas.Ancestors.Person.categorize()
 
-    quantity_total_people = length(Cfsjksas.Chart.AgentStores.all_a_ids())
-    quantity_total_ancestors = length(Cfsjksas.Chart.AgentStores.all_r_ids())
+    quantity_total_people = length(Cfsjksas.Ancestors.AgentStores.all_a_ids())
+    quantity_total_ancestors = length(Cfsjksas.Ancestors.AgentStores.all_r_ids())
 
     quanity_has_ships = length(has_ships)
     quanity_wo_ships = length(wo_ships)

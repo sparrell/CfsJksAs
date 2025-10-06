@@ -1,4 +1,4 @@
-defmodule Cfsjksas.Chart.AgentStores do
+defmodule Cfsjksas.Ancestors.AgentStores do
   @moduledoc """
   routines for accessing data in the Agent storage
   - get_ancestors()
