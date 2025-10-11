@@ -38863,6 +38863,10 @@
 			],
 			rin: "MH:I223",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Langley",
@@ -64257,6 +64261,10 @@
 			],
 			rin: "MH:I847",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Unknown024",
@@ -66549,6 +66557,10 @@
 			],
 			rin: "MH:I967",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Unknown110",
@@ -66630,6 +66642,10 @@
 			],
 			rin: "MH:I965",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Unknown111",

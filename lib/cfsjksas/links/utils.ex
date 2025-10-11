@@ -88,8 +88,17 @@ defmodule Cfsjksas.Links.Utils do
 #    end
 
   end
+  def screen_scrape(:wikitree, page_to_scrape) do
+    # setup scrape function
+    req = (Req.new() |> ReqEasyHTML.attach())
 
-  def precheck(updating_ancestors, :werelate, id_a) do
+    # ping web and get response
+    response = Req.get!(req, url: page_to_scrape)
+
+IEx.pry()
+  end
+  def precheck(updating_ancestors, link_source, id_a)
+      when link_source in [:werelate, :wikitree] do
     child_a = updating_ancestors[id_a]
     # validate child is map with a werelate link
     ## and has either a mother or father or both
@@ -104,7 +113,7 @@ defmodule Cfsjksas.Links.Utils do
 
     child_check = is_map(child_a)
           and Map.has_key?(child_a, :links)
-          and Map.has_key?(child_a.links, :werelate)
+          and Map.has_key?(child_a.links, link_source)
     #IO.inspect(child_check, label: "child_check")
 
     # if child_check is true, then skip_father is true if father exists and is an atom
@@ -120,8 +129,8 @@ defmodule Cfsjksas.Links.Utils do
         is_map(father)
         and Map.has_key?(father, :links)
         and is_map(father.links)
-        and Map.has_key?(father.links, :werelate)
-        and link_check(father.links.werelate)
+        and Map.has_key?(father.links, link_source)
+        and link_check(father.links[link_source], link_source)
     end
     if check_father_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
@@ -141,8 +150,8 @@ defmodule Cfsjksas.Links.Utils do
         is_map(mother)
         and Map.has_key?(mother, :links)
         and is_map(mother.links)
-        and Map.has_key?(mother.links, :werelate)
-        and link_check(mother.links.werelate)
+        and Map.has_key?(mother.links, link_source)
+        and link_check(mother.links[link_source], link_source)
     end
     if check_mother_link do
         Cfsjksas.DevTools.StoreLinkAlready.increment()
@@ -182,15 +191,19 @@ defmodule Cfsjksas.Links.Utils do
         # otherwise screen scrape
         false
     end
-# continue on updates
-{updating_ancestors,
-  skip,
-  skip_father,
-  skip_mother,
-}
+IO.inspect(skip, label: "skip")
+IO.inspect(skip_father, label: "skip_father")
+IO.inspect(skip_mother, label: "skip_mother")
+
+    # continue on updates
+    {updating_ancestors,
+      skip,
+      skip_father,
+      skip_mother,
+    }
   end
 
-  defp link_check(link) do
+  defp link_check(link, :werelate) do
     x = String.starts_with?(link, "https://www.werelate.org/")
     or String.starts_with?(link, "http://www.werelate.org/")
     or String.starts_with?(link, "https://werelate.org/")
@@ -200,4 +213,17 @@ if not x do
 end
     x
   end
+
+  defp link_check(link, :wikitree) do
+    x = String.starts_with?(link, "https://www.wikitree.com/")
+    or String.starts_with?(link, "http://www.wikitree.com/")
+    or String.starts_with?(link, "https://wikitree.com/")
+    or String.starts_with?(link, "http://wikitree.com/")
+if not x do
+  IEx.pry()
+end
+    x
+  end
+
+
 end

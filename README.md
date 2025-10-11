@@ -35,6 +35,8 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 * Cfsjksas.Links.FindLink.update(:werelate)
 * validate changes and swap temp file into data file
   * Cfsjksas.DevTools.CheckLinks.try1()
+* Cfsjksas.Links.FindLink.update(:wikitree)
+
 
 * to do
   * write out to temp file

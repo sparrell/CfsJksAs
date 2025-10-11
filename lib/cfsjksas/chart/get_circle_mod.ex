@@ -204,6 +204,13 @@ defmodule Cfsjksas.Chart.GetCircleMod do
     },
   }
 
+  # config for rearranging outer generations with larger sectors
+  @g10 %{
+    11 => %{
+
+    }
+  }
+
   @g11 %{
     12 => %{
       56 => 27,
@@ -423,6 +430,20 @@ defmodule Cfsjksas.Chart.GetCircleMod do
 
   def g11(gen, sector) do
     @g11[gen][sector]
+  end
+
+  def g10(gen, sector) do
+    new_sector = @g10[gen][sector]
+    case new_sector do
+      nil ->
+        # no replacement so use original
+IO.inspect(sector, label: "orig")
+        {:orig, sector}
+      _ ->
+        # replace with g10 sector #
+IO.inspect("orig sector #{sector} => g10: #{new_sector} ")
+        {:g10, new_sector}
+    end
   end
 
   def other() do

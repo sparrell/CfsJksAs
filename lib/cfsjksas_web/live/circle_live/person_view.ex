@@ -42,11 +42,6 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
     dev_url = Cfsjksas.Tools.Link.dev_link(person.id)
     urls = [{:book, book_url}, {:dev, dev_url}] ++ pre_urls
 
-    IO.inspect(urls)
-    IO.inspect(book_url)
-    IO.inspect(dev_url)
-
-
     {:ok,
      socket
      |> assign(:person_of_interest, to_string(person_of_interest))
