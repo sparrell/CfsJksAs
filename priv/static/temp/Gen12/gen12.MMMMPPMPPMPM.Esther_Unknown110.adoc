@@ -9,18 +9,23 @@ Narrative TBD
 * Sex: F
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMP.John_Jenner.adoc[John Jenner (? - 1677)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPMPPMPM.Esther_Unknown110.adoc[Esther Unknown110 (? - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPMPPMPM.Esther_Unknown110.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0709[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

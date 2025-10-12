@@ -35,11 +35,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Barnabas Paine (1737 - 1822)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1256[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

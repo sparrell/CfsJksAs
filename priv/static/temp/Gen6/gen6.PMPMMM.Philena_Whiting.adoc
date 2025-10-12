@@ -30,11 +30,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMM.Philena_Whiting.adoc[Philena Whiting (1743 - 1781)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMM.Philena_Whiting.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0081[Dev website]
-* https://www.werelate.org/wiki/Person:Philena_Whiting_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Philena_Whiting_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

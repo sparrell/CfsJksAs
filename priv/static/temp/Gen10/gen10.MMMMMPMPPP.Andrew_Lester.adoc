@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0340[Dev website]
-* https://www.werelate.org/wiki/Person:Andrew_Lester_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Andrew_Lester_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

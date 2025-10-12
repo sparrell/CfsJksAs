@@ -19,15 +19,15 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMPMPP.Richard_Ingraham.adoc[Richard Ingraham (1604 - 1683)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPM.Abigail_Ingraham.adoc[Abigail Ingraham (1636 - 1698)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPM.Abigail_Ingraham.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0951[Dev website]
-* https://www.werelate.org/wiki/Person:Abigail_Ingraham_%286%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Abigail_Ingraham_%286%29[WeRelate]
 * WikiTree TBD
 
 == Relations

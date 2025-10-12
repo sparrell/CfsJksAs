@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPP.William_Copp.adoc[William Copp (1589 - 1670)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPP.William_Copp.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0865[Dev website]
-* https://www.werelate.org/wiki/Person:William_Copp_%283%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:William_Copp_%283%29[WeRelate]
 * WikiTree TBD
 
 == Relations

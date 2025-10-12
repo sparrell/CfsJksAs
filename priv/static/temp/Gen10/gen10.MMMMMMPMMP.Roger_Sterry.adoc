@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMP.Roger_Sterry.adoc[Roger Sterry (1635 - 1680)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMP.Roger_Sterry.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0287[Dev website]
-* https://www.werelate.org/wiki/Person:Roger_Sterry_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Roger_Sterry_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

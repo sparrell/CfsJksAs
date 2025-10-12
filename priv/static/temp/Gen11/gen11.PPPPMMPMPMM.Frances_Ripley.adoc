@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPMM.Frances_Ripley.adoc[Frances Ripley (1584 - 1630)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPMM.Frances_Ripley.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0203[Dev website]
-* https://www.werelate.org/wiki/Person:Frances_Ripley_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Frances_Ripley_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

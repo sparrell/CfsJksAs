@@ -20,11 +20,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0136[Dev website]
-* https://www.werelate.org/wiki/Person:John_Bixby_%286%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:John_Bixby_%286%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPP.Thomas_Stanton.adoc[Thomas Stanton (1615 - 1676)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPP.Thomas_Stanton.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0901[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

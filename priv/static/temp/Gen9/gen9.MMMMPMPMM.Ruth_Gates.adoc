@@ -22,11 +22,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0413[Dev website]
-* https://www.werelate.org/wiki/Person:Ruth_Gates_%2812%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Ruth_Gates_%2812%29[WeRelate]
 * WikiTree TBD
 
 == Relations

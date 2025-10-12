@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMM.Mary_Morgan.adoc[Mary Morgan (1670 - 1765)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMM.Mary_Morgan.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0383[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Morgan_%287%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Morgan_%287%29[WeRelate]
 * WikiTree TBD
 
 == Relations

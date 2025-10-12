@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPM.Pheobe_Lay.adoc[Pheobe Lay (1651 - 1718)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPM.Pheobe_Lay.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0880[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

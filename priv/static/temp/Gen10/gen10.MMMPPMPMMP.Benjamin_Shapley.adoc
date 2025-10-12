@@ -29,11 +29,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMP.Benjamin_Shapley.adoc[Benjamin Shapley (1645 - 1706)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMP.Benjamin_Shapley.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1252[Dev website]
-* https://www.werelate.org/wiki/Person:Benjamin_Shapley_%281%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001624/benjamin-shapley[MyHeritage]
 * Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001624/benjamin-shapley[MyHeritage]
+* https://www.werelate.org/wiki/Person:Benjamin_Shapley_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

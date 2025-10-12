@@ -24,15 +24,15 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMPP.William_Chesebrough.adoc[William Chesebrough (1594 - 1667)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0422[Dev website]
-* https://www.werelate.org/wiki/Person:Samuel_Chesebrough_%288%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Samuel_Chesebrough_%288%29[WeRelate]
 * WikiTree TBD
 
 == Relations

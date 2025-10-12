@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMPMPMMMMMMMP.William_Henry_Newland.adoc[William Henry Newland (1580 - 1673)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMPMPMMMMMMMP.William_Henry_Newland.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1250[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

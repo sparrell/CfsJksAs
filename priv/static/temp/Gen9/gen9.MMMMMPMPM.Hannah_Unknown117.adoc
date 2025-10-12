@@ -14,15 +14,15 @@ Narrative TBD
 == Family
 * Mother: brickwall
 * Father: brickwall
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPM.Hannah_Unknown117.adoc[Hannah Unknown117 (? - 1735)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPM.Hannah_Unknown117.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0511[Dev website]
-* https://www.werelate.org/wiki/Person:Hannah_Unknown_%28708%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Hannah_Unknown_%28708%29[WeRelate]
 * WikiTree TBD
 
 == Relations

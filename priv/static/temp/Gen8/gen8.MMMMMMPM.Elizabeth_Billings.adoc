@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0260[Dev website]
-* https://www.werelate.org/wiki/Person:Elizabeth_Billings_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Elizabeth_Billings_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

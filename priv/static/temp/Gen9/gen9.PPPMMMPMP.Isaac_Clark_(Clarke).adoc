@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke).adoc[Isaac Clark (Clarke) (1666 - 1768)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke).adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1277[Dev website]
-* https://www.werelate.org/wiki/Person:Isaac_Clark_%2834%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Isaac_Clark_%2834%29[WeRelate]
 * WikiTree TBD
 
 == Relations

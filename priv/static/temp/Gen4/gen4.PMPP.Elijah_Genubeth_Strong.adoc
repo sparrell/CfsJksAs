@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev website]
-* https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
 * https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
+* https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
 * WikiTree TBD
 
 == Relations

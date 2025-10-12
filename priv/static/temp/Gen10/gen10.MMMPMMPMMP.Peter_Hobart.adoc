@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0818[Dev website]
-* https://www.werelate.org/wiki/Person:Peter_Hobart_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Peter_Hobart_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

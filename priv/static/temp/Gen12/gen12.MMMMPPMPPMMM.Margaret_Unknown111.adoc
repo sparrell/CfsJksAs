@@ -10,18 +10,23 @@ Narrative TBD
 * Deathplace: New Haven, New Haven, Connecticut, USA
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMM.Alice_Pigg.adoc[Alice Pigg (1627 - 1660)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPMPPMMM.Margaret_Unknown111.adoc[Margaret Unknown111 (? - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPMPPMMM.Margaret_Unknown111.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0707[Dev website]
-* WeRelate TBD
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
 * WikiTree TBD
 
 == Relations

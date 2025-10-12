@@ -24,11 +24,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.Franz_Josef_Kerber.adoc[Franz Josef Kerber (1825 - 1873)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.Franz_Josef_Kerber.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0151[Dev website]
-* https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber[MyHeritage]
 * https://www.geni.com/people/Frank-J-Kerber/6000000019835055044[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber[MyHeritage]
+* https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

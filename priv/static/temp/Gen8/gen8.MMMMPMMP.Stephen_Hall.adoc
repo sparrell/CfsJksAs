@@ -20,11 +20,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0429[Dev website]
-* https://www.werelate.org/wiki/Person:Stephen_Hall_%2820%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Stephen_Hall_%2820%29[WeRelate]
 * WikiTree TBD
 
 == Relations

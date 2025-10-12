@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMM.Bridget_Thompson.adoc[Bridget Thompson (1622 - 1643)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMM.Bridget_Thompson.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1019[Dev website]
-* https://www.werelate.org/wiki/Person:Bridget_Thompson_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Bridget_Thompson_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -89,7 +89,7 @@ defmodule Cfsjksas.Tools.Print do
     |> marked_print()
   end
 
-  defp marked_print(marked) do
+  def marked_print(marked) do
     filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_ex.txt")
 
     # sort the keys

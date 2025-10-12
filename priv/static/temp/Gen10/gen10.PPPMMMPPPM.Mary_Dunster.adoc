@@ -34,11 +34,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPPM.Mary_Dunster.adoc[Mary Dunster (1629 - 1715)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPPM.Mary_Dunster.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1288[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Unknown_%285450%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Unknown_%285450%29[WeRelate]
 * WikiTree TBD
 
 == Relations

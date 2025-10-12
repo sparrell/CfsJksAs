@@ -18,16 +18,46 @@ defmodule Cfsjksas.Tools.Markdown do
 		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
+IO.inspect("##########")
 IO.inspect(this_id_l, label: "person page this_relation")
-		person_l = marked_lineages[this_id_l]
-		id_a = person_l.id
-		# determine if should make page or not
-		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
+
+		person_page(
+			check_page(this_id_l, marked_lineages),
+			this_id_l,
+			rest_id_ls,
+			gen,
+			marked_lineages)
+#
+#		person_l = marked_lineages[this_id_l]
+#		id_a = person_l.id
+#		# determine if should make page or not
+#		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
 	end
-	def person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
-			when is_atom(id_a) do
-		# valid id (as opposed to string like "father of ...")
-		## do make page
+#	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages)
+#			when is_binary(id_a) do
+#		# id_a is a binary, eg a placeholder like "father of ..."
+#		# therefore do NOT make a page and move on to next person
+#		IO.inspect(id_a, label: "skipped since not atom")
+#		person_page(rest_id_ls, gen, marked_lineages)
+#	end
+#	def person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
+#			when is_atom(id_a) do
+#		# valid id (as opposed to string like "father of ...")
+#		# check if redundant duplicate
+#		check_redundant = marked_lineages[this_id_l].duplicate == :redundant
+#		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages, check_redundant)
+#	end
+#	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages, true) do
+#		# skip since this person already has a page
+#		IO.inspect(id_a, label: "skipped since redundant")
+#		person_page(rest_id_ls, gen, marked_lineages)
+#	end
+	def person_page(:skip, _this_id_l, rest_id_ls, gen, marked_lineages) do
+		# skip page for this person
+		person_page(rest_id_ls, gen, marked_lineages)
+	end
+	def person_page(:ok, this_id_l, rest_id_ls, gen, marked_lineages) do
+		# valid so make page
 		person_l = marked_lineages[this_id_l]
 
 		person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(person_l.id)
@@ -54,18 +84,11 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		<> make_other(person_a)
 		<> "\n== Sources\n"
 		<> make_sources(person_a)
-    |> Cfsjksas.Circle.Geprint.write_file(filepath)
+    |> Cfsjksas.Tools.Print.write_file(filepath)
 
 		IO.inspect(this_relation, label: "wrote")
 
 		# recurse thru rest
-		person_page(rest_id_ls, gen, marked_lineages)
-	end
-	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages)
-			when is_binary(id_a) do
-		# id_a is a binary, eg a placeholder like "father of ..."
-		# therefore do NOT make a page and move on to next person
-		IO.inspect(id_a, label: "skipped")
 		person_page(rest_id_ls, gen, marked_lineages)
 	end
 
@@ -438,6 +461,30 @@ IO.inspect(this_id_l, label: "person page this_relation")
 				IO.inspect(this, label: "key")
 				IO.inspect(person, label: "person")
 				IEx.pry()
+		end
+	end
+
+	defp check_page(id_l, marked_lineages) do
+		# decide whether to skip prining this page
+		## if id is a string (eg "father of...)
+		## if lineage.duplicate is :redundant
+		## if lineage.duplicate is :branch
+		cond do
+			is_binary(marked_lineages[id_l].id) -> true
+				# string not atom (eg "father of ...") so skip
+IO.inspect("skipping since id is string")
+				:skip
+			marked_lineages[id_l].duplicate == :redundant ->
+				# skip since redundant
+IO.inspect("skipping since redundant")
+				:skip
+			marked_lineages[id_l].duplicate == :branch ->
+				# skip since redundant
+IO.inspect("skipping since branch")
+				:skip
+			marked_lineages[id_l].duplicate == :main ->
+				# passed checks
+				:ok
 		end
 	end
 

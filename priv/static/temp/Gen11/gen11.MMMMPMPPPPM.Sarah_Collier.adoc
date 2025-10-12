@@ -27,11 +27,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPM.Sarah_Collier.adoc[Sarah Collier (1616 - 1691)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPM.Sarah_Collier.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0791[Dev website]
-* https://www.werelate.org/wiki/Person:Sarah_Collier_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Sarah_Collier_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

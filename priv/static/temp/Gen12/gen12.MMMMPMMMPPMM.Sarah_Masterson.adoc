@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPMM.Sarah_Masterson.adoc[Sarah Masterson (1622 - 1701)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPMM.Sarah_Masterson.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0484[Dev website]
-* https://www.werelate.org/wiki/Person:Sarah_Masterson_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Sarah_Masterson_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

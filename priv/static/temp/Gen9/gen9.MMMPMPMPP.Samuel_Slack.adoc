@@ -20,11 +20,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPP.Samuel_Slack.adoc[Samuel Slack (1687 - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPP.Samuel_Slack.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1024[Dev website]
-* https://www.werelate.org/wiki/Person:Samuel_Slack_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Samuel_Slack_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

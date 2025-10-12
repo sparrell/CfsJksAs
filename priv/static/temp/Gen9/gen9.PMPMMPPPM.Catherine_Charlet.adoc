@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPPPM.Catherine_Charlet.adoc[Catherine Charlet (1623 - 1670)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPPPM.Catherine_Charlet.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0232[Dev website]
-* https://www.werelate.org/wiki/Person:Catherine_Charlet_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Catherine_Charlet_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[John Whiting (1719 - 1770)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0206[Dev website]
-* https://www.werelate.org/wiki/Person:John_Whiting_%2826%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:John_Whiting_%2826%29[WeRelate]
 * WikiTree TBD
 
 == Relations

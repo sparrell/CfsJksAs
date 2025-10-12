@@ -29,11 +29,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMM.Martha_Avery_Edgecomb.adoc[Martha Avery Edgecomb (1855 - 1939)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMM.Martha_Avery_Edgecomb.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0650[Dev website]
-* https://www.werelate.org/wiki/Person:Martha_Edgecomb_%281%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000908/martha-avery-edgecomb-hurlburt[MyHeritage]
 * https://www.geni.com/people/Martha-Edgecomb/6000000219179990237[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000908/martha-avery-edgecomb-hurlburt[MyHeritage]
+* https://www.werelate.org/wiki/Person:Martha_Edgecomb_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

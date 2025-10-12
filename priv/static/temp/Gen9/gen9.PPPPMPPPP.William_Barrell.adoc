@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[William Barrell (1654 - 1689)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0442[Dev website]
-* https://www.werelate.org/wiki/Person:William_Barrell_%283%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:William_Barrell_%283%29[WeRelate]
 * WikiTree TBD
 
 == Relations

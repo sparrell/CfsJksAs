@@ -25,11 +25,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMP.Peter_Bradley.adoc[Peter Bradley (? - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMP.Peter_Bradley.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0038[Dev website]
-* https://www.werelate.org/wiki/Person:Peter_Bradley_%281%29[WeRelate]
-* https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * Geni TBD
+* https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
+* https://www.werelate.org/wiki/Person:Peter_Bradley_%281%29[WeRelate]
 * https://www.wikitree.com/wiki/Bradley-34[WikiTree]
 
 == Relations

@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPMMP.Richard_Masterson.adoc[Richard Masterson (1590 - 1633)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPMMP.Richard_Masterson.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0524[Dev website]
-* https://www.werelate.org/wiki/Person:Richard_Masterson_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Richard_Masterson_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

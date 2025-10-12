@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPP.Thomas_Starr.adoc[Thomas Starr (1615 - 1658)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPP.Thomas_Starr.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0389[Dev website]
-* https://www.werelate.org/wiki/Person:Thomas_Starr_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Thomas_Starr_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

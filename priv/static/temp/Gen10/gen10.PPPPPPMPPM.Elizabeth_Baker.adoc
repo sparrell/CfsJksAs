@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPM.Elizabeth_Baker.adoc[Elizabeth Baker (1644 - 1672)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPM.Elizabeth_Baker.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0744[Dev website]
-* https://www.werelate.org/wiki/Person:Elizabeth_Baker_%28115%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Elizabeth_Baker_%28115%29[WeRelate]
 * WikiTree TBD
 
 == Relations

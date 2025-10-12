@@ -29,11 +29,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Alice Virginia Edgecomb (1850 - 1914)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0086[Dev website]
-* https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong[MyHeritage]
 * https://www.geni.com/people/Alice-Edgecomb/6000000007698827296[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong[MyHeritage]
+* https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

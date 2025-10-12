@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMMP.Francis_Peabody.adoc[Francis Peabody (1614 - 1698)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMMP.Francis_Peabody.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0441[Dev website]
-* https://www.werelate.org/wiki/Person:Francis_Peabody_%2810%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Francis_Peabody_%2810%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPPPM.Honor_Capen.adoc[Honor Capen (1616 - 1680)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPPPM.Honor_Capen.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0616[Dev website]
-* https://www.werelate.org/wiki/Person:Honor_Capen_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Honor_Capen_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -22,15 +22,15 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPMP.William_Ingraham.adoc[William Ingraham (? - 1721)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPM.Abigail_Ingraham.adoc[Abigail Ingraham (1636 - 1698)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMPMPP.Richard_Ingraham.adoc[Richard Ingraham (1604 - 1683)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMPMPP.Richard_Ingraham.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0563[Dev website]
-* https://www.werelate.org/wiki/Person:Richard_Ingraham_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Richard_Ingraham_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

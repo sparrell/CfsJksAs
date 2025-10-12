@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPMPMPMPPPM.Elizabeth_Unknown022.adoc[Elizabeth Unknown022 (1595 - 1658)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPMPMPMPPPM.Elizabeth_Unknown022.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0394[Dev website]
-* https://www.werelate.org/wiki/Person:Elizabeth_Watts_%2833%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Elizabeth_Watts_%2833%29[WeRelate]
 * WikiTree TBD
 
 == Relations

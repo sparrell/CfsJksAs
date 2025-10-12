@@ -22,15 +22,15 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMM.Jerusha_Morgan.adoc[Jerusha Morgan (1682 - 1726)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPP.James_Morgan.adoc[James Morgan (1667 - 1748)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMMM.Mary_Vine.adoc[Mary Vine (1641 - 1689)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMMM.Mary_Vine.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0299[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Vine_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Vine_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

@@ -21,11 +21,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPM.Rebecca_Brown.adoc[Rebecca Brown (1650 - 1712)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPM.Rebecca_Brown.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0117[Dev website]
-* https://www.werelate.org/wiki/Person:Rebecca_Brown_%2847%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Rebecca_Brown_%2847%29[WeRelate]
 * WikiTree TBD
 
 == Relations

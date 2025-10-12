@@ -24,11 +24,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Thankful Loomis (1709 - 1771)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0197[Dev website]
-* https://www.werelate.org/wiki/Person:Thankful_Loomis_%284%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Thankful_Loomis_%284%29[WeRelate]
 * WikiTree TBD
 
 == Relations

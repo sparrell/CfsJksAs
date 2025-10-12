@@ -26,12 +26,12 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPMPPMPP.William_Brewster.adoc[William Brewster (1566 - 1644)] i.e. this page
-* https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[Wikipedia]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPMPPMPP.William_Brewster.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0509[Dev website]
-* https://www.werelate.org/wiki/Person:William_Brewster_%283%29[WeRelate]
-* https://www.myheritage.com/profile-20674952-23000764/william-brewster[MyHeritage]
 * https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109[Geni]
+* https://www.myheritage.com/profile-20674952-23000764/william-brewster[MyHeritage]
+* https://www.werelate.org/wiki/Person:William_Brewster_%283%29[WeRelate]
+* https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[Wikipedia]
 * https://www.wikitree.com/wiki/Brewster-4[WikiTree]
 
 == Relations

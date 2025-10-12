@@ -24,11 +24,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPPM.Ursula_Scott.adoc[Ursula Scott (? - 1660)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPPM.Ursula_Scott.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0588[Dev website]
-* https://www.werelate.org/wiki/Person:Ursula_Scott_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Ursula_Scott_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

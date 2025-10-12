@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0827[Dev website]
-* https://www.werelate.org/wiki/Person:Catherine_Copp_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Catherine_Copp_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

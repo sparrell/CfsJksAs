@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPPMM.Sarah_Baker.adoc[Sarah Baker (1640 - 1708)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPPMM.Sarah_Baker.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0325[Dev website]
-* https://www.werelate.org/wiki/Person:Sarah_Baker_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Sarah_Baker_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

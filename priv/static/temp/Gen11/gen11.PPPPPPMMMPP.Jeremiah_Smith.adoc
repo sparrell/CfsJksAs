@@ -21,11 +21,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMPP.Jeremiah_Smith.adoc[Jeremiah Smith (1650 - 1718)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMPP.Jeremiah_Smith.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0489[Dev website]
-* https://www.werelate.org/wiki/Person:Jeremiah_Smith_%283%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Jeremiah_Smith_%283%29[WeRelate]
 * WikiTree TBD
 
 == Relations

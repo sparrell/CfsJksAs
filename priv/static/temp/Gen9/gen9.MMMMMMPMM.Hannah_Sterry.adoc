@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Hannah Sterry (1672 - 1738)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0282[Dev website]
-* https://www.werelate.org/wiki/Person:Hannah_Sterry_%282%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Hannah_Sterry_%282%29[WeRelate]
 * WikiTree TBD
 
 == Relations

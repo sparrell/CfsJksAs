@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPMPM.Martha_Chaplin.adoc[Martha Chaplin (1584 - 1643)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPMPM.Martha_Chaplin.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0357[Dev website]
-* https://www.werelate.org/wiki/Person:Martha_Chaplin_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Martha_Chaplin_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

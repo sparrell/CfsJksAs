@@ -23,11 +23,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMM.Elizabeth_Peabody.adoc[Elizabeth Peabody (1647 - 1678)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMM.Elizabeth_Peabody.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0999[Dev website]
-* https://www.werelate.org/wiki/Person:Elizabeth_Pabodie_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Elizabeth_Pabodie_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

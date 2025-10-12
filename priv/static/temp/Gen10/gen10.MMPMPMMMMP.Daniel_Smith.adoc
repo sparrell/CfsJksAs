@@ -21,11 +21,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMP.Daniel_Smith.adoc[Daniel Smith (1647 - 1720)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMP.Daniel_Smith.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0987[Dev website]
-* https://www.werelate.org/wiki/Person:Daniel_Smith_%28117%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Daniel_Smith_%28117%29[WeRelate]
 * WikiTree TBD
 
 == Relations

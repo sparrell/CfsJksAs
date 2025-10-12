@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMMP.Joseph_Peck.adoc[Joseph Peck (1587 - 1663)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMMP.Joseph_Peck.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0010[Dev website]
-* https://www.werelate.org/wiki/Person:Joseph_Peck_%285%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Joseph_Peck_%285%29[WeRelate]
 * WikiTree TBD
 
 == Relations

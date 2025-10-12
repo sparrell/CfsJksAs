@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPPMM.Margaret_Unknown068.adoc[Margaret Unknown068 (1627 - 1680)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPPMM.Margaret_Unknown068.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0270[Dev website]
-* https://www.werelate.org/wiki/Person:Margaret_Unknown_%281965%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Margaret_Unknown_%281965%29[WeRelate]
 * WikiTree TBD
 
 == Relations

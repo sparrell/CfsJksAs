@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMMMM.Miriam_Unknown079.adoc[Miriam Unknown079 (1614 - 1681)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMMMM.Miriam_Unknown079.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0246[Dev website]
-* https://www.werelate.org/wiki/Person:Miriam_Unknown_%2841%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Miriam_Unknown_%2841%29[WeRelate]
 * WikiTree TBD
 
 == Relations

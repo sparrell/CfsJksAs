@@ -24,11 +24,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPM.Charity_Schufeldt.adoc[Charity Schufeldt (1792 - 1851)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPM.Charity_Schufeldt.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0107[Dev website]
-* https://www.werelate.org/wiki/Person:Charity_Schufeldt_%281%29[WeRelate]
-* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000336/charity-schufeldt-hurlburt[MyHeritage]
 * https://www.geni.com/people/Charity-Schufeldt/6000000219179990285[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000336/charity-schufeldt-hurlburt[MyHeritage]
+* https://www.werelate.org/wiki/Person:Charity_Schufeldt_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

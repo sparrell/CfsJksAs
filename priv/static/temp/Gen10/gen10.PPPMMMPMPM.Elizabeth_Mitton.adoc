@@ -22,11 +22,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMPM.Elizabeth_Mitton.adoc[Elizabeth Mitton (1644 - 1736)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMPM.Elizabeth_Mitton.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1280[Dev website]
-* https://www.werelate.org/wiki/Person:Elizabeth_Mitton_%283%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Elizabeth_Mitton_%283%29[WeRelate]
 * WikiTree TBD
 
 == Relations

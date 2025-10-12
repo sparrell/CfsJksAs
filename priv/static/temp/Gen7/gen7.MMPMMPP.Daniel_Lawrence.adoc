@@ -22,11 +22,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMPP.Daniel_Lawrence.adoc[Daniel Lawrence (1720 - 1775)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMPP.Daniel_Lawrence.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1030[Dev website]
-* https://www.werelate.org/wiki/Person:Daniel_Lawrence_%2818%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Daniel_Lawrence_%2818%29[WeRelate]
 * WikiTree TBD
 
 == Relations

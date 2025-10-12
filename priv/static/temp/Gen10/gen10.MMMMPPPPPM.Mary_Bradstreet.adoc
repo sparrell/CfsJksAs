@@ -28,11 +28,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Mary Bradstreet (1633 - 1698)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0586[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Bradstreet_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Bradstreet_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

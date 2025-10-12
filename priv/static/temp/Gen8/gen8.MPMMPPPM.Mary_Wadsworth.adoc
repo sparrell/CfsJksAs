@@ -20,11 +20,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPM.Mary_Wadsworth.adoc[Mary Wadsworth (1635 - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPM.Mary_Wadsworth.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0685[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Wadsworth_%285%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Wadsworth_%285%29[WeRelate]
 * WikiTree TBD
 
 == Relations

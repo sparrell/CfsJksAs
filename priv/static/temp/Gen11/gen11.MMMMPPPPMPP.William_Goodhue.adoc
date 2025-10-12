@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMPP.William_Goodhue.adoc[William Goodhue (1613 - 1699)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMPP.William_Goodhue.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0630[Dev website]
-* https://www.werelate.org/wiki/Person:William_Goodhue_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:William_Goodhue_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

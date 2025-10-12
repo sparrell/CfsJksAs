@@ -16,11 +16,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPPM.Mary_Stock.adoc[Mary Stock (? - ?)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPPM.Mary_Stock.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1026[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Stock_%285%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Stock_%285%29[WeRelate]
 * WikiTree TBD
 
 == Relations

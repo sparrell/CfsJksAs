@@ -22,15 +22,15 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMP.Nathaniel_Chesebrough.adoc[Nathaniel Chesebrough (1630 - 1678)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMPP.William_Chesebrough.adoc[William Chesebrough (1594 - 1667)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMPP.William_Chesebrough.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0962[Dev website]
-* https://www.werelate.org/wiki/Person:William_Chesebrough_%281%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:William_Chesebrough_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations

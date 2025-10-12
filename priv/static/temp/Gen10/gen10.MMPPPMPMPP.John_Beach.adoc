@@ -26,11 +26,11 @@ Narrative TBD
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPMPMPP.John_Beach.adoc[John Beach (1615 - 1677)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPMPMPP.John_Beach.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0783[Dev website]
-* https://www.werelate.org/wiki/Person:John_Beach_%2811%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:John_Beach_%2811%29[WeRelate]
 * WikiTree TBD
 
 == Relations

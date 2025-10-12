@@ -18,15 +18,15 @@ Narrative TBD
 == Family
 * Mother: brickwall
 * Father: brickwall
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMP.James_Bowker.adoc[James Bowker (1695 - 1763)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPM.Abigail_Bowker.adoc[Abigail Bowker (1700 - ?)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPMPM.Mary_Unknown155.adoc[Mary Unknown155 (1665 - 1733)] i.e. this page
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPMPM.Mary_Unknown155.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0164[Dev website]
-* https://www.werelate.org/wiki/Person:Mary_Unknown_%285151%29[WeRelate]
-* MyHeritage TBD
 * Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Mary_Unknown_%285151%29[WeRelate]
 * WikiTree TBD
 
 == Relations
