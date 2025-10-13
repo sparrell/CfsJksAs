@@ -17700,7 +17700,10 @@
 			immigration: nil,
 			label: "gen7.MMMMMMM.Mary_Comstock",
 			links: %{
+				geni: "https://www.geni.com/people/Mary-Comstock-Avery/6000000003941264876",
+				myheritage: "https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI",
 				werelate: "https://www.werelate.org/wiki/Person:Mary_Comstock_%283%29",
+				wikitree: "https://www.wikitree.com/wiki/Comstock-383",
 			},
 			married_name: nil,
 			mh_famc: "F81",
@@ -41365,8 +41368,6 @@
 			emigration: [
 			],
 			event: [
-				" 95\r\n2 TYPE Reference Number",
-				" 95\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f108,
 			family_of_procreation: [
@@ -41381,6 +41382,7 @@
 			immigration: nil,
 			label: "gen9.MMMMMPMPP.Jonathan_Lester",
 			links: %{
+				myheritage: "https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI",
 				werelate: "https://www.werelate.org/wiki/Person:Jonathan_Lester_%282%29",
 			},
 			married_name: nil,
@@ -67020,6 +67022,7 @@
 			immigration: nil,
 			label: "gen9.MMMMMPMPM.Hannah_Unknown117",
 			links: %{
+				myheritage: "https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI",
 				werelate: "https://www.werelate.org/wiki/Person:Hannah_Unknown_%28708%29",
 			},
 			married_name: nil,

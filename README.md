@@ -38,14 +38,17 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 * Cfsjksas.Links.FindLink.update(:wikitree)
 
 * to do
-  * write out to temp file
-  * add :links to every person
   * actually put link in
-  * extra colon at begining of marked_ex.txt
+  * rm extra colon at begining of marked_ex.txt
 
 * to restart app
 Application.stop(:cfsjksas)
 Application.start(:cfsjksas)
+
+## update gigalixir
+
+* git push gigalixir
+* https://cfsjksas.gigalixirapp.com
 
 ## Cruft beyond here
 

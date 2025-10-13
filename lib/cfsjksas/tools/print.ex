@@ -129,7 +129,7 @@ defmodule Cfsjksas.Tools.Print do
   end
   defp person_m_print(input_text, person, [key | rest_keys]) do
     input_text
-    <> "      " <> inspect(key) <> ": " <> inspect(person[key]) <> ",\n"
+    <> "      " <> to_string(key) <> ": " <> inspect(person[key]) <> ",\n"
     # and recurse to next key with above text as input
     |> person_m_print(person, rest_keys)
   end
