@@ -35488,7 +35488,7 @@
 			will: [
 			],
 		},
-		##############  Judith/Goodeth Itchenor
+		##############  Judith (or Goodeth) Itchenor
 		p0866: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -35521,12 +35521,12 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Judith/Goodeth",
+			given_name: "Judith_Goodeth",
 			graduation: [
 			],
 			id: :p0866,
 			immigration: nil,
-			label: "gen11.MMMPPPPMPPM.Judith/Goodeth_Itchenor",
+			label: "gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Goodeth_Itchenor_%281%29",
 			},
@@ -35537,7 +35537,7 @@
 				"F392",
 			],
 			mh_id: "I1127",
-			mh_name: "Judith/Goodeth /Itchenor/",
+			mh_name: "Judith_Goodeth /Itchenor/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,

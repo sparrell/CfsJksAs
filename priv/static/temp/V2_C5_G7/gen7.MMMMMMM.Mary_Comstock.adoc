@@ -25,10 +25,10 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0258[Dev website]
-* Geni TBD
-* MyHeritage TBD
+* https://www.geni.com/people/Mary-Comstock-Avery/6000000003941264876[Geni]
+* https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Comstock_%283%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Comstock-383[WikiTree]
 
 == Relations
 === Lineage #1

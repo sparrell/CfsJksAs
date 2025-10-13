@@ -1,4 +1,4 @@
-= David Copp (1635 - 1713)
+= Judith_Goodeth Itchenor (1605 - 1670)
 
 Narrative TBD
 
@@ -6,12 +6,18 @@ Narrative TBD
 == Vital Stats
 
 
-* Sex: M
-* Birth: 20 SEP 1635
-* Birthplace: Hatton Parish, Warick, England, UK
-* Death: 20 NOV 1713
+* Sex: F
+* Married Name: Copp
+* Birth: 1605
+* Birthplace: England, UK
+* Death: 1670
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-* Age at Death: 78
+* Buried: 
+----
+2 PLAC Copps Hill Burying Ground, Boston, Suffolk County, Massachusetts
+----
+
+* Age at Death: 64-65
 
 
 == Ship
@@ -20,19 +26,17 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor.adoc[Judith_Goodeth Itchenor (1605 - 1670)]
-
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPP.William_Copp.adoc[William Copp (1589 - 1670)]
-
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
 
 
 == Reference Links
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0789[Dev website]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor.adoc[Book Link]
+* https://cfsjksas.gigalixirapp.com/person?p=p0866[Dev website]
 * Geni TBD
 * MyHeritage TBD
-* https://www.werelate.org/wiki/Person:David_Copp_%281%29[WeRelate]
+* https://www.werelate.org/wiki/Person:Goodeth_Itchenor_%281%29[WeRelate]
 * WikiTree TBD
 
 == Relations
@@ -47,7 +51,8 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
-* gen10.MMMPPPPMPP.David_Copp_(1635_-_1713)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
+* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605_-_1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -60,17 +65,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
-* gen10.MMMPPPPMPP.David_Copp_(1635_-_1713)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
+* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605_-_1670)
 
 
 == Other
-event: 
-----
-2 TYPE Freeman
-2 DATE 1670
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 34-35
-----
-
 
 == Sources
+* @S13@
+----
+2 PAGE http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=13410413
+2 QUAY 0
+----
+

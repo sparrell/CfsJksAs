@@ -39,7 +39,6 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 
 * to do
   * actually put link in
-  * rm extra colon at begining of marked_ex.txt
 
 * to restart app
 Application.stop(:cfsjksas)

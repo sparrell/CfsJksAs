@@ -7,8 +7,7 @@ defmodule Cfsjksas.Tools.Print do
   def write_file(outtext, filename) do
     # swap order so can use in pipes
     IO.inspect(filename, label: "filename")
-    result = File.write(filename, outtext)
-    IO.inspect(result, label: "result from writing file")
+    :ok = File.write(filename, outtext)
   end
 
   def print_person(person) do

@@ -162,7 +162,7 @@ defmodule Cfsjksas.Tools.Link do
     id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
 
-    gen = @adocpath <> "Gen" <> to_string(length(relation)) <> "/"
+    gen = @adocpath <> "V2_C5_G" <> to_string(length(relation)) <> "/"
     filepath = gen <> person_a.label <> ".adoc"
     Path.join(:code.priv_dir(:cfsjksas), filepath )
   end
