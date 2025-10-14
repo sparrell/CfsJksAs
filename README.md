@@ -5,7 +5,9 @@ Charles Fisher Sparrell (CFS),
 James Kirkwood Sparrell (JKS),
 and Ann Sparrell (AS).
 
-## 3 Start Phoenix endpoint with `mix phx.server` or inside IEx with
+## 3 Start Phoenix
+
+`mix phx.server` or inside IEx with:
 
 iex -S mix phx.server
 
@@ -30,7 +32,7 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 ## add werelate links
 
 * Restart server (to zero counters and to read in data)
-  * needed to iniitalize data readin
+  * needed to initialize data readin
   * redo whenever data changes
 * Cfsjksas.Links.FindLink.update(:werelate)
 * validate changes and swap temp file into data file
@@ -40,18 +42,29 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
 ## restart app
 
 * to restart app
+
 Application.stop(:cfsjksas)
+
 Application.start(:cfsjksas)
 
 ## update gigalixir
 
 * git push gigalixir
-* https://cfsjksas.gigalixirapp.com
+* Gigalixir[https://cfsjksas.gigalixirapp.com]
 
 ## check if missing links
 
 gen=3
 Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
+
+## todo
+
+* make all agent_stores
+* make adoc pages displayed by dev website instead of map
+
+## Genealogy to do
+
+* Lester line - mine different from wikitree
 
 --------------------------------------------
 
@@ -60,14 +73,6 @@ Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 make dedup file (usually won't need to)
 
 Cfsjksas.Tools.Relation.dedup()
-
-## make svg
-
-
-## make pages for other repo
-
-gen=3
-Cfsjksas.Tools.Markdown.person_pages(gen)
 
 Charts created via
 

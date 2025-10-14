@@ -27,31 +27,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 			rest_id_ls,
 			gen,
 			marked_lineages)
-#
-#		person_l = marked_lineages[this_id_l]
-#		id_a = person_l.id
-#		# determine if should make page or not
-#		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
 	end
-#	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages)
-#			when is_binary(id_a) do
-#		# id_a is a binary, eg a placeholder like "father of ..."
-#		# therefore do NOT make a page and move on to next person
-#		IO.inspect(id_a, label: "skipped since not atom")
-#		person_page(rest_id_ls, gen, marked_lineages)
-#	end
-#	def person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages)
-#			when is_atom(id_a) do
-#		# valid id (as opposed to string like "father of ...")
-#		# check if redundant duplicate
-#		check_redundant = marked_lineages[this_id_l].duplicate == :redundant
-#		person_page(id_a, this_id_l, rest_id_ls, gen, marked_lineages, check_redundant)
-#	end
-#	def person_page(id_a, _this_id_l, rest_id_ls, gen, marked_lineages, true) do
-#		# skip since this person already has a page
-#		IO.inspect(id_a, label: "skipped since redundant")
-#		person_page(rest_id_ls, gen, marked_lineages)
-#	end
 	def person_page(:skip, _this_id_l, rest_id_ls, gen, marked_lineages) do
 		# skip page for this person
 		person_page(rest_id_ls, gen, marked_lineages)

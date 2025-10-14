@@ -21,13 +21,13 @@ defmodule Cfsjksas.Ancestors.AgentStores do
         get person from relation map
   - all_r_ids()
         list all of id_r
-  - id_a_by_gen()
-        list of ancestor id's sorted by generation of 'main' marked lineag
+  - id_a_by_gen(gen)
+        list of ancestor id's for a generation
   """
 
   @doc """
+  Get Ancestor map
   """
-
   def get_ancestors() do
     Agent.get(:ancestors, fn map -> map end)
   end
