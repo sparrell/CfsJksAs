@@ -37,8 +37,7 @@ Cfsjksas.Chart.CircleMod.main("circle_mod.svg")
   * Cfsjksas.DevTools.CheckLinks.try1()
 * Cfsjksas.Links.FindLink.update(:wikitree)
 
-* to do
-  * actually put link in
+## restart app
 
 * to restart app
 Application.stop(:cfsjksas)
@@ -49,6 +48,13 @@ Application.start(:cfsjksas)
 * git push gigalixir
 * https://cfsjksas.gigalixirapp.com
 
+## check if missing links
+
+gen=3
+Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
+
+--------------------------------------------
+
 ## Cruft beyond here
 
 make dedup file (usually won't need to)
@@ -57,10 +63,6 @@ Cfsjksas.Tools.Relation.dedup()
 
 ## make svg
 
-## check if missing links
-
-gen=3
-Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 
 ## make pages for other repo
 

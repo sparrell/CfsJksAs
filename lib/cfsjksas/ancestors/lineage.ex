@@ -69,7 +69,8 @@ defmodule Cfsjksas.Ancestors.Lineage do
 
   def list_no_key_for_gen(gen, key) do
     # get keys for gen
-    Cfsjksas.Ancestors.GetLineages.person_list(gen)
+    Cfsjksas.Ancestors.AgentStores.id_a_by_gen(gen)
+#    Cfsjksas.Ancestors.GetLineages.person_list(gen)
     # print those that don't have key
     |> list_no_key_for_gen(gen, key)
   end
@@ -78,22 +79,38 @@ defmodule Cfsjksas.Ancestors.Lineage do
     :ok
   end
   def list_no_key_for_gen([next_person | rest_people], gen, key) do
-    # get full relation person
-    person_r = Cfsjksas.Ancestors.GetLineages.person(gen, next_person)
     # get full people person
-    person_p = Cfsjksas.Ancestors.AgentStores.get_person_a(person_r.id)
-    # see if they have key
-    case Map.has_key?(person_p, key) do
-      true ->
-        # has it so continue
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(next_person)
+    # check if has key of interest
+    cond do
+      is_binary(next_person) ->
+        # string (eg "Mother of ...") so skip
         nil
-      false ->
-        # print info on person without key
-        text = to_string(person_p.id)
+      Map.has_key?(person_a.links, key) ->
+        # has key so skip
+        nil
+      not Map.has_key?(person_a.links, key) ->
+        # does not have this key so print info on person without key
+        text = to_string(person_a.id)
         <> ": "
-        <> Cfsjksas.Ancestors.Person.get_name(person_p)
+        <> Cfsjksas.Ancestors.Person.get_name(person_a)
         IO.inspect(text)
     end
+
+
+
+    # see if they have key
+#    case Map.has_key?(person_a.links, key) do
+#      true ->
+#        # has it so continue
+#        nil
+#      false ->
+#        # print info on person without key
+#        text = to_string(person_a.id)
+#        <> ": "
+#        <> Cfsjksas.Ancestors.Person.get_name(person_a)
+#        IO.inspect(text)
+#    end
     # recurse thru rest
     list_no_key_for_gen(rest_people, gen, key)
   end

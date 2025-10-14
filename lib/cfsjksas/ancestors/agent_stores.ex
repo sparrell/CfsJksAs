@@ -92,7 +92,15 @@ defmodule Cfsjksas.Ancestors.AgentStores do
 
   end
 
+  def id_a_by_gen(gen) do
+    m_ids_by_gen(gen)
+    |> Enum.map(fn id_m ->
+      get_person_m(id_m).id
+    end)
+  end
+
   def id_a_by_gen() do
+    IO.inspect("why? does this work?")
     all_r_ids()
     |> Enum.map(fn id_r ->
       get_person_r(id_r).id_a
