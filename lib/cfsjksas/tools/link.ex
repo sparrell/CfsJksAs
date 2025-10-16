@@ -9,7 +9,7 @@ defmodule Cfsjksas.Tools.Link do
   """
 
   #@datapath "static/data/"
-  @adocpath "static/temp/"
+  @adocpath "static/adoc/"
 
   require IEx
 
