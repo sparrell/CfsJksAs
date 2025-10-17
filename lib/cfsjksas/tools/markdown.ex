@@ -66,7 +66,6 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		IO.inspect(this_relation, label: "wrote adoc")
 		System.cmd("asciidoctor", [filepath, "-o", htmlpath])
 		IO.inspect(this_relation, label: "wrote html")
-IEx.pry()
 
 		# recurse thru rest
 		person_page(rest_id_ls, gen, marked_lineages)
