@@ -8,8 +8,8 @@ defmodule Cfsjksas.Tools.Link do
   - geni(person) - adoc link to person in geni
   """
 
-  #@datapath "static/data/"
   @adocpath "static/adoc/"
+  @htmlpath "static/adoc_html/"
 
   require IEx
 
@@ -156,7 +156,7 @@ defmodule Cfsjksas.Tools.Link do
   end
 
   def make_filename(relation, :adoc) do
-    # filepath for people pages
+    # filepath for adoc people pages
 
     # get person_a from relation
     id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
@@ -165,6 +165,13 @@ defmodule Cfsjksas.Tools.Link do
     gen = @adocpath <> "V2_C5_G" <> to_string(length(relation)) <> "/"
     filepath = gen <> person_a.label <> ".adoc"
     Path.join(:code.priv_dir(:cfsjksas), filepath )
+  end
+  def make_filename(relation, :adoc_html) do
+    # filepath for adoc people pages
+    # get person_a from relation
+    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
+    Path.join(:code.priv_dir(:cfsjksas), person_a.label <> ".html")
   end
   def make_filename(relation, :md) do
     # filepath for people pages

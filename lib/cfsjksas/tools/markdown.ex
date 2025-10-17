@@ -41,10 +41,11 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		this_relation = person_l.relation
 
 		filepath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc)
+		htmlpath = Cfsjksas.Tools.Link.make_filename(this_relation, :adoc_html)
 
 		check_facts(person_l.id)
 
-		"= "
+		adoc = "= "
 		<> make_title(person_a)
 		<> make_narrative(this_relation)
 		<> "\n== Vital Stats\n"
@@ -60,9 +61,12 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		<> make_other(person_a)
 		<> "\n== Sources\n"
 		<> make_sources(person_a)
-    |> Cfsjksas.Tools.Print.write_file(filepath)
 
-		IO.inspect(this_relation, label: "wrote")
+		Cfsjksas.Tools.Print.write_file(adoc,filepath)
+		IO.inspect(this_relation, label: "wrote adoc")
+		System.cmd("asciidoctor", [filepath, "-o", htmlpath])
+		IO.inspect(this_relation, label: "wrote html")
+IEx.pry()
 
 		# recurse thru rest
 		person_page(rest_id_ls, gen, marked_lineages)
