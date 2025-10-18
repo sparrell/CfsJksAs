@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1000[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1000[Dev-web]
+* https://localhost:4000/person?p=p1000[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1000[Adoc-web]
+* https://localhost:4000/adoc?p=p1000[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Street_%282%29[WeRelate]

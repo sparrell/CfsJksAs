@@ -25,7 +25,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G14/gen14.MMMMPMMMPPPMMM.Susanna_Furner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0850[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0850[Dev-web]
+* https://localhost:4000/person?p=p0850[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0850[Adoc-web]
+* https://localhost:4000/adoc?p=p0850[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Unknown_%2825775%29[WeRelate]

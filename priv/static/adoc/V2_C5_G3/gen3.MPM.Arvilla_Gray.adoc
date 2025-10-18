@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 4 JAN 1808
+
 * Birthplace: Paris, Oxford, Maine, USA
+
 * Death: 14 JUL 1888
+
 * Deathplace: Dedham, Norfolk, Massachusetts, USA
+
 * Buried: 
 ----
 2 DATE 17 JUL 1888
@@ -18,6 +23,7 @@ Narrative TBD
 ----
 
 * Age at Death: 80
+
 
 
 == Family
@@ -30,7 +36,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0189[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0189[Dev-web]
+* http://localhost:4000/person?p=p0189[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0189[Adoc-web]
+* adoc?p=p0189[Adoc-local]
 * https://www.geni.com/people/Arvilla-Gray/6000000219179990052[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000423/arvilla-gray-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Arvilla_Gray_%281%29[WeRelate]
@@ -54,4 +63,6 @@ census:
 
 occupation: Keeps House
 
+
 == Sources
+

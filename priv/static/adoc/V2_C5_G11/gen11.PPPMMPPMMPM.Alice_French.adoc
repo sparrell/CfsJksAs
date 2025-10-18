@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPM.Alice_French.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0440[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0440[Dev-web]
+* https://localhost:4000/person?p=p0440[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0440[Adoc-web]
+* https://localhost:4000/adoc?p=p0440[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_French_%281%29[WeRelate]

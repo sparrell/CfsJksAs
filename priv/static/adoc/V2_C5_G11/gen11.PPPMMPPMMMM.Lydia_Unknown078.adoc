@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMMM.Lydia_Unknown078.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0443[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0443[Dev-web]
+* https://localhost:4000/person?p=p0443[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0443[Adoc-web]
+* https://localhost:4000/adoc?p=p0443[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lydia_Unknown_%2832%29[WeRelate]

@@ -25,7 +25,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPMP.John_Wood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0523[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0523[Dev-web]
+* https://localhost:4000/person?p=p0523[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0523[Adoc-web]
+* https://localhost:4000/adoc?p=p0523[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Wood_%28161%29[WeRelate]

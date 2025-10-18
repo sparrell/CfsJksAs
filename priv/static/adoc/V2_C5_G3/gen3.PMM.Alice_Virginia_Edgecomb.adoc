@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: FEB 1850
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: 1914
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
 ----
 2 DATE 1914
@@ -18,6 +23,7 @@ Narrative TBD
 ----
 
 * Age at Death: 63-64
+
 
 
 == Family
@@ -30,7 +36,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0086[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0086[Dev-web]
+* http://localhost:4000/person?p=p0086[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0086[Adoc-web]
+* adoc?p=p0086[Adoc-local]
 * https://www.geni.com/people/Alice-Edgecomb/6000000007698827296[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29[WeRelate]
@@ -53,6 +62,7 @@ census:
 ----
 
 notes: Alice and her future husband Albert Strong both worked in a cotton millin Montville CT in 1870 (US Census).
+
 occupation: Cotton Mill - Montville -US Census
 ----
 2 DATE 1870
@@ -61,3 +71,4 @@ occupation: Cotton Mill - Montville -US Census
 
 
 == Sources
+

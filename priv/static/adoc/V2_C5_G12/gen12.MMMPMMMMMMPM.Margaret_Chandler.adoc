@@ -25,7 +25,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPMMMMMMPM.Margaret_Chandler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1021[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1021[Dev-web]
+* https://localhost:4000/person?p=p1021[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1021[Adoc-web]
+* https://localhost:4000/adoc?p=p1021[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Chandler_%281%29[WeRelate]

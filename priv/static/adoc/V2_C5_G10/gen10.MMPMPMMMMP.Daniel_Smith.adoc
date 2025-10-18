@@ -22,7 +22,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMP.Daniel_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0987[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0987[Dev-web]
+* https://localhost:4000/person?p=p0987[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0987[Adoc-web]
+* https://localhost:4000/adoc?p=p0987[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Daniel_Smith_%28117%29[WeRelate]

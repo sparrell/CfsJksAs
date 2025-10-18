@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPPMM.Margaret_Unknown068.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0270[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0270[Dev-web]
+* https://localhost:4000/person?p=p0270[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0270[Adoc-web]
+* https://localhost:4000/adoc?p=p0270[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Unknown_%281965%29[WeRelate]

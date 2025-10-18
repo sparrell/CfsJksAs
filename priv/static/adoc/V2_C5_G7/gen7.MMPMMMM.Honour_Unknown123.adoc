@@ -17,7 +17,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMMM.Honour_Unknown123.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0815[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0815[Dev-web]
+* https://localhost:4000/person?p=p0815[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0815[Adoc-web]
+* https://localhost:4000/adoc?p=p0815[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Honour_Unknown_%2810%29[WeRelate]

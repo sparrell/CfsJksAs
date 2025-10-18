@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Rhoda_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0250[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0250[Dev-web]
+* https://localhost:4000/person?p=p0250[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0250[Adoc-web]
+* https://localhost:4000/adoc?p=p0250[Adoc-local]
 * https://www.geni.com/people/Rhoda-Gray/6000000080399002073[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000485/rhoda-andrews-gray[MyHeritage]
 * https://www.werelate.org/wiki/Person:Rhoda_Andrews_%281%29[WeRelate]

@@ -23,7 +23,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPMPM.Mary_Unknown155.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0164[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0164[Dev-web]
+* https://localhost:4000/person?p=p0164[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0164[Adoc-web]
+* https://localhost:4000/adoc?p=p0164[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%285151%29[WeRelate]

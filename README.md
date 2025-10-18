@@ -60,11 +60,23 @@ Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 ## todo
 
 * make all agent_stores
+* expand the 14/13=>12 to 14/13/12=>11
 * make adoc pages displayed by dev website instead of map
+  * have adoc, have html, direct works, links don't work
+* refactor the other graphs
+* strip out cruft
 
 ## Genealogy to do
 
+* add in Fisher
+
 * Lester line - mine different from wikitree
+
+Mary Pickett
+
+* daughter of Ruth Brewster prb
+* need to add lineage to Jonathan, William, Mary Brewters
+* husband John Pickett - add him and his ancestors
 
 --------------------------------------------
 
@@ -164,13 +176,6 @@ Cfsjksas.Ancestors.Stats.ancestor_count(ancestors, :termination)
 
 Cfsjksas.Ancestors.LineEnd.classify(ancestors)
 
-## to do
-
-Mary Pickett
-
-* daughter of Ruth Brewster prb
-* need to add lineage to Jonathan, William, Mary Brewters
-* husband John Pickett - add him and his ancestors
 
 ## lineages
 

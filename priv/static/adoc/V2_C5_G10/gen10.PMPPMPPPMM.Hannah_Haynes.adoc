@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPPMM.Hannah_Haynes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0614[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0614[Dev-web]
+* https://localhost:4000/person?p=p0614[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0614[Adoc-web]
+* https://localhost:4000/adoc?p=p0614[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Unknown_%28874%29[WeRelate]

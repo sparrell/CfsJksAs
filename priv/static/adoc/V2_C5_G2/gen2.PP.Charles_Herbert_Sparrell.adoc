@@ -30,7 +30,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0922[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0922[Dev-web]
+* https://localhost:4000/person?p=p0922[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0922[Adoc-web]
+* https://localhost:4000/adoc?p=p0922[Adoc-local]
 * https://www.geni.com/people/Charles-Sparrell/6000000019835016249[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001183/charles-herbert-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Sparrell_%281%29[WeRelate]
@@ -101,4 +104,5 @@ occupation: Paymaster - Const. Company
 4 CONC Digital Folder Number: 4332401
 4 CONC Image Number: 00557
 ----
+
 

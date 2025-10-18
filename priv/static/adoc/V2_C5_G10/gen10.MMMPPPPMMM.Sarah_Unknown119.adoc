@@ -19,7 +19,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMMM.Sarah_Unknown119.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0820[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0820[Dev-web]
+* https://localhost:4000/person?p=p0820[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0820[Adoc-web]
+* https://localhost:4000/adoc?p=p0820[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Andrews_%2858%29[WeRelate]

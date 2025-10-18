@@ -21,7 +21,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0136[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0136[Dev-web]
+* https://localhost:4000/person?p=p0136[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0136[Adoc-web]
+* https://localhost:4000/adoc?p=p0136[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Bixby_%286%29[WeRelate]

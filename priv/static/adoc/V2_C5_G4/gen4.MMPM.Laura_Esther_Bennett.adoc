@@ -21,7 +21,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0100[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0100[Dev-web]
+* https://localhost:4000/person?p=p0100[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0100[Adoc-web]
+* https://localhost:4000/adoc?p=p0100[Adoc-local]
 * https://www.geni.com/people/Laura-Bennett/6000000219179990264[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000329/laura-esther-bennett-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Laura_Bennett_%284%29[WeRelate]

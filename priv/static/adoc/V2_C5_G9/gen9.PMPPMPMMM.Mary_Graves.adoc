@@ -23,7 +23,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPMMM.Mary_Graves.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0657[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0657[Dev-web]
+* https://localhost:4000/person?p=p0657[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0657[Adoc-web]
+* https://localhost:4000/adoc?p=p0657[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

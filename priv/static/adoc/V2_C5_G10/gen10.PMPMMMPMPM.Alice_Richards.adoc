@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMPM.Alice_Richards.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1002[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1002[Dev-web]
+* https://localhost:4000/person?p=p1002[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1002[Adoc-web]
+* https://localhost:4000/adoc?p=p1002[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_Richards_%2810%29[WeRelate]

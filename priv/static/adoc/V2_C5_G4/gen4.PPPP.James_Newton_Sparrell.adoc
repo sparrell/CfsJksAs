@@ -30,7 +30,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0328[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0328[Dev-web]
+* https://localhost:4000/person?p=p0328[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0328[Adoc-web]
+* https://localhost:4000/adoc?p=p0328[Adoc-local]
 * https://www.geni.com/people/James-Newton-Sparrell/6000000007500306389[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000564/james-newton-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:James_Sparrell_%283%29[WeRelate]

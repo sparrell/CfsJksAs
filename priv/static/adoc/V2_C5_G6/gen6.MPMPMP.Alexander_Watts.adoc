@@ -17,7 +17,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPMP.Alexander_Watts.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1298[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1298[Dev-web]
+* https://localhost:4000/person?p=p1298[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1298[Adoc-web]
+* https://localhost:4000/adoc?p=p1298[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

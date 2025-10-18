@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMPP.John_Mason.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0837[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0837[Dev-web]
+* https://localhost:4000/person?p=p0837[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0837[Adoc-web]
+* https://localhost:4000/adoc?p=p0837[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Mason_%2819%29[WeRelate]

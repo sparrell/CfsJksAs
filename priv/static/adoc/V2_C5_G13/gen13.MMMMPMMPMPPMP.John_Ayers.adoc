@@ -23,7 +23,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMPMPPMP.John_Ayers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0845[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0845[Dev-web]
+* https://localhost:4000/person?p=p0845[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0845[Adoc-web]
+* https://localhost:4000/adoc?p=p0845[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

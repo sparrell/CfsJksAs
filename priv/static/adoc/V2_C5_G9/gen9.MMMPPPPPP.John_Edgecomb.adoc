@@ -34,7 +34,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPPP.John_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0374[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0374[Dev-web]
+* https://localhost:4000/person?p=p0374[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0374[Adoc-web]
+* https://localhost:4000/adoc?p=p0374[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

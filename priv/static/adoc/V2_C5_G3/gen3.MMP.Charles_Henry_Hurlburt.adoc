@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 28 AUG 1849
+
 * Birthplace: Oxford, Worcester, Massachusetts, USA
+
 * Death: 1930
+
 * Deathplace: Uncasville, New London, Connecticut, USA
+
 * Buried: 
 ----
 2 DATE 1930
@@ -18,6 +23,7 @@ Narrative TBD
 ----
 
 * Age at Death: 80-81
+
 
 
 == Family
@@ -30,7 +36,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0071[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0071[Dev-web]
+* http://localhost:4000/person?p=p0071[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0071[Adoc-web]
+* adoc?p=p0071[Adoc-local]
 * https://www.geni.com/people/Charles-Hurlburt/6000000219179990217[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29[WeRelate]
@@ -65,6 +74,7 @@ census:  RR Agent
 ----
 
 notes: <p>The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in1886.</p> <p>&nbsp;</p> <p>It appears that he started out working for the Worcester and Norwich RRbefore 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired.</p> <p>&nbsp;</p> <p>In 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>
+
 occupation: Clerk R.R. Office -
 ----
 2 DATE 1870
@@ -92,3 +102,4 @@ RR Agent
 
 
 == Sources
+

@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMPMPM.Elizabeth_Hutchins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0855[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0855[Dev-web]
+* https://localhost:4000/person?p=p0855[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0855[Adoc-web]
+* https://localhost:4000/adoc?p=p0855[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

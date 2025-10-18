@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPMMP.Richard_Masterson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0524[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0524[Dev-web]
+* https://localhost:4000/person?p=p0524[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0524[Adoc-web]
+* https://localhost:4000/adoc?p=p0524[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Richard_Masterson_%282%29[WeRelate]

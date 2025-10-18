@@ -19,7 +19,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMMMPP.John_Wilkinson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0817[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0817[Dev-web]
+* https://localhost:4000/person?p=p0817[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0817[Adoc-web]
+* https://localhost:4000/adoc?p=p0817[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Wilkinson_%2879%29[WeRelate]

@@ -25,7 +25,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=prb[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=prb[Dev-web]
+* https://localhost:4000/person?p=prb[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=prb[Adoc-web]
+* https://localhost:4000/adoc?p=prb[Adoc-local]
 * https://www.geni.com/people/Ruth-Hill/6000000006444711555[Geni]
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ruth_Brewster_%282%29[WeRelate]

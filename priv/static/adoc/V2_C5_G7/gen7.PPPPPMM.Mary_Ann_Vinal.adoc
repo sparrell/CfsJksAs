@@ -22,7 +22,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMM.Mary_Ann_Vinal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0584[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0584[Dev-web]
+* https://localhost:4000/person?p=p0584[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0584[Adoc-web]
+* https://localhost:4000/adoc?p=p0584[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Vinal_%282%29[WeRelate]

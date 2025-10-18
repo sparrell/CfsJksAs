@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.William_Hannum.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0607[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0607[Dev-web]
+* https://localhost:4000/person?p=p0607[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0607[Adoc-web]
+* https://localhost:4000/adoc?p=p0607[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Hannum_%283%29[WeRelate]

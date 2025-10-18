@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1253[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1253[Dev-web]
+* https://localhost:4000/person?p=p1253[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1253[Adoc-web]
+* https://localhost:4000/adoc?p=p1253[Adoc-local]
 * https://www.geni.com/people/Mary-Shapleigh/6000000002504511703[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001625/mary-pickett-shapley[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Pickett_%2810%29[WeRelate]

@@ -18,8 +18,8 @@ defmodule Cfsjksas.Tools.Markdown do
 		IO.inspect(gen, label: "finished")
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
-IO.inspect("##########")
-IO.inspect(this_id_l, label: "person page this_relation")
+#IO.inspect("##########")
+#IO.inspect(this_id_l, label: "person page this_relation")
 
 		person_page(
 			check_page(this_id_l, marked_lineages),
@@ -63,9 +63,9 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		<> make_sources(person_a)
 
 		Cfsjksas.Tools.Print.write_file(adoc,filepath)
-		IO.inspect(this_relation, label: "wrote adoc")
+#		IO.inspect(this_relation, label: "wrote adoc")
 		System.cmd("asciidoctor", [filepath, "-o", htmlpath])
-		IO.inspect(this_relation, label: "wrote html")
+#		IO.inspect(this_relation, label: "wrote html")
 
 		# recurse thru rest
 		person_page(rest_id_ls, gen, marked_lineages)
@@ -134,7 +134,10 @@ IO.inspect(this_id_l, label: "person page this_relation")
 	def make_refs(person_r) do
 		person_a = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
 		Cfsjksas.Tools.Link.book(person_r.id)
-		<> Cfsjksas.Tools.Link.dev(person_r.id)
+		<> Cfsjksas.Tools.Link.x_dev_web_link(person_r.id)
+		<> Cfsjksas.Tools.Link.x_dev_local_link(person_r.id)
+		<> Cfsjksas.Tools.Link.x_adoc_web_link(person_r.id)
+		<> Cfsjksas.Tools.Link.x_adoc_local_link(person_r.id)
 		<> Cfsjksas.Tools.Link.geni(person_a)
 		<> Cfsjksas.Tools.Link.myheritage(person_a)
 		<> Cfsjksas.Tools.Link.werelate(person_a)
@@ -374,7 +377,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 
 	def make_sources(markdown, []) do
 		# done
-		markdown
+		markdown <> "\n"
 	end
 	def make_sources(markdown, [this | rest]) do
 		markdown
@@ -401,7 +404,7 @@ IO.inspect(this_id_l, label: "person page this_relation")
 		h
 		<> case t do
 			[] ->
-				""
+				"\n"
 			_ ->
 				"\n----\n" <> List.first(t) <> "\n----\n"
 		end

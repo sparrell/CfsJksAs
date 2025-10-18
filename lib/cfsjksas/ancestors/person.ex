@@ -75,7 +75,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, _normal
     } = categorize()
-    Enum.map(wo_ships, fn x -> {x, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
+    Enum.map(wo_ships, fn x -> {x, x |> Cfsjksas.Ancestors.AgentStores.get_person_a() |> get_name()} end)
   end
 
   def ship_people() do
@@ -84,8 +84,8 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, _normal
       } = categorize()
-    Enum.map(has_ships, fn x -> {Cfsjksas.Ancestors.GetAncestors.person(x).ship.name,
-                                x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name(),
+    Enum.map(has_ships, fn x -> {Cfsjksas.Ancestors.AgentStores.get_person_a(x).ship.name,
+                                x |> Cfsjksas.Ancestors.AgentStores.get_person_a() |> get_name(),
                                 x
                                 } end)
   end
@@ -96,7 +96,7 @@ defmodule Cfsjksas.Ancestors.Person do
       _brickwalls_mother, _brickwalls_father,
       _parents, normal
       } = categorize()
-    Enum.map(normal, fn x -> {x, x |> Cfsjksas.Ancestors.GetAncestors.person() |> get_name()} end)
+    Enum.map(normal, fn x -> {x, x |> Cfsjksas.Ancestors.AgentStores.get_person_a() |> get_name()} end)
   end
 
   def brick_walls() do
@@ -105,7 +105,7 @@ defmodule Cfsjksas.Ancestors.Person do
     ##   * line termination with ship
     ##   * line termination wo ship (return list)
 
-    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    all_people = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     brick_walls(all_people, [])
   end
   defp brick_walls([], terminations) do
@@ -295,7 +295,7 @@ if person == nil do
 
   def surnames() do
     # find all the surnames and list who has each
-    all_people = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    all_people = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     surnames(all_people, %{})
   end
   defp surnames([], surname_map) do
@@ -345,7 +345,7 @@ if person == nil do
 
   def list_key_values(key) do
     # list value for key for everybody
-    ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    ids = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     list_key_values([], ids, key)
   end
   defp list_key_values(values, [], _key) do
@@ -353,13 +353,13 @@ if person == nil do
     values
   end
   defp list_key_values(values, [this | rest], key) do
-    [Cfsjksas.Ancestors.GetAncestors.person(this)[key] | values]
+    [Cfsjksas.Ancestors.AgentStores.get_person_a(this)[key] | values]
     |> list_key_values(rest, key)
   end
 
   def relation_from_id(id) do
     # return person_r that has this id
-    all_ancestor_ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
+    all_ancestor_ids = Cfsjksas.Ancestors.AgentStores.all_a_ids()
     # recurse thru all relation keys to find one that has this person_id
     relation_from_id(id, all_ancestor_ids)
   end

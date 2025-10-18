@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0119[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0119[Dev-web]
+* https://localhost:4000/person?p=p0119[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0119[Adoc-web]
+* https://localhost:4000/adoc?p=p0119[Adoc-local]
 * https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29[WeRelate]

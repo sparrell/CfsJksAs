@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 3 MAR 1855
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: 1939
+
 * Deathplace: Uncasville, New London, Connecticut, USA
+
 * Buried: 
 ----
 2 DATE 1939
@@ -18,6 +23,7 @@ Narrative TBD
 ----
 
 * Age at Death: 83-84
+
 
 
 == Family
@@ -30,7 +36,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMM.Martha_Avery_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0650[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0650[Dev-web]
+* http://localhost:4000/person?p=p0650[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0650[Adoc-web]
+* adoc?p=p0650[Adoc-local]
 * https://www.geni.com/people/Martha-Edgecomb/6000000219179990237[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000908/martha-avery-edgecomb-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Martha_Edgecomb_%281%29[WeRelate]
@@ -69,4 +78,5 @@ census:
 4 CONC Edgecombe</a>; 6<br />Son (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRec
 4 CONC ord">George T Edgecombe</a>; 3</p>
 ----
+
 

@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMPP.William_Bradford.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1003[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1003[Dev-web]
+* https://localhost:4000/person?p=p1003[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1003[Adoc-web]
+* https://localhost:4000/adoc?p=p1003[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Bradford_%2836%29[WeRelate]

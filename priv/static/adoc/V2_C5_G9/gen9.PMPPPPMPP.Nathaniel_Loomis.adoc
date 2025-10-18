@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMPP.Nathaniel_Loomis.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0237[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0237[Dev-web]
+* https://localhost:4000/person?p=p0237[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0237[Adoc-web]
+* https://localhost:4000/adoc?p=p0237[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Nathaniel_Loomis_%283%29[WeRelate]

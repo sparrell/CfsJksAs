@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0801[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0801[Dev-web]
+* https://localhost:4000/person?p=p0801[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0801[Adoc-web]
+* https://localhost:4000/adoc?p=p0801[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Moses_Kimball_%282%29[WeRelate]

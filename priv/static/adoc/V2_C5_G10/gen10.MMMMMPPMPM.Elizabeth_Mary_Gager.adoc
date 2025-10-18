@@ -23,7 +23,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPM.Elizabeth_Mary_Gager.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0512[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0512[Dev-web]
+* https://localhost:4000/person?p=p0512[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0512[Adoc-web]
+* https://localhost:4000/adoc?p=p0512[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Gager_%282%29[WeRelate]

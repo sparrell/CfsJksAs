@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMPMMPP.Christopher_Avery.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0268[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0268[Dev-web]
+* https://localhost:4000/person?p=p0268[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0268[Adoc-web]
+* https://localhost:4000/adoc?p=p0268[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Lord_%281%29[WeRelate]

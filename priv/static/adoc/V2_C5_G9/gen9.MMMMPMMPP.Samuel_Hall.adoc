@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0444[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0444[Dev-web]
+* https://localhost:4000/person?p=p0444[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0444[Adoc-web]
+* https://localhost:4000/adoc?p=p0444[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Samuel_Hall_%28102%29[WeRelate]

@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0811[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0811[Dev-web]
+* https://localhost:4000/person?p=p0811[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0811[Adoc-web]
+* https://localhost:4000/adoc?p=p0811[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Nathan_Smith_%2848%29[WeRelate]

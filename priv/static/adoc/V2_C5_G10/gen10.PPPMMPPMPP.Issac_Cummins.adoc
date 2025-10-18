@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMPP.Issac_Cummins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0430[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0430[Dev-web]
+* https://localhost:4000/person?p=p0430[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0430[Adoc-web]
+* https://localhost:4000/adoc?p=p0430[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Isaac_Cummings_%285%29[WeRelate]

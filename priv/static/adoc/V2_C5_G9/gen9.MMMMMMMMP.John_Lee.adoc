@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMP.John_Lee.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1005[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1005[Dev-web]
+* https://localhost:4000/person?p=p1005[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1005[Adoc-web]
+* https://localhost:4000/adoc?p=p1005[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

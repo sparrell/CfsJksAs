@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 27 JUN 1812
+
 * Birthplace: Bolton, Worcester, Massachusetts, USA
+
 * Death: 8 JUN 1887
+
 * Deathplace: Dedham, Norfolk, Massachusetts, USA
+
 * Buried: 
 ----
 2 DATE 10 JUN 1887
@@ -18,6 +23,7 @@ Narrative TBD
 ----
 
 * Age at Death: 74
+
 
 
 == Family
@@ -30,7 +36,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPP.Albert_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0188[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0188[Dev-web]
+* http://localhost:4000/person?p=p0188[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0188[Adoc-web]
+* adoc?p=p0188[Adoc-local]
 * https://www.geni.com/people/Albert-Fisher/6000000219179990038[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000422/albert-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Albert_Fisher_%2812%29[WeRelate]
@@ -58,6 +67,9 @@ event:  See Notes
 ----
 
 notes: <p>1854 Birth record of Albert A. F. Fisher lists father's occupation as Engineer and residence as Cohasset MA.</p> <p>&nbsp;</p> <p>1880 Federal Census Lists Albert(69) as a farmer in Dedham MA. Living at the same location is his wife Arvilla (70), his son Albert F.(25) , his Daughter-in-law, Anna W.(24) and a granddaughter Adelle(2).</p> <p>&nbsp;</p> <p>Buried Groveland Cemetary, Dedham MA</p>
+
 occupation: Farmer
 
+
 == Sources
+

@@ -30,7 +30,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1273[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1273[Dev-web]
+* https://localhost:4000/person?p=p1273[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1273[Adoc-web]
+* https://localhost:4000/adoc?p=p1273[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_WIllard_%281%29[WeRelate]

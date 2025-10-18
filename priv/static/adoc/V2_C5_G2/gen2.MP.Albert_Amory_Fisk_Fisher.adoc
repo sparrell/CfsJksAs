@@ -30,7 +30,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0073[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0073[Dev-web]
+* https://localhost:4000/person?p=p0073[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0073[Adoc-web]
+* https://localhost:4000/adoc?p=p0073[Adoc-local]
 * https://www.geni.com/people/Albert-Fisher/6000000219136528890[Geni]
 * https://www.myheritage.com/profile-20674952-23000287/albert-amory-fisk-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Albert_Fisher_%2810%29[WeRelate]
@@ -78,3 +81,4 @@ Flour Merchant - Boston
 
 
 == Sources
+

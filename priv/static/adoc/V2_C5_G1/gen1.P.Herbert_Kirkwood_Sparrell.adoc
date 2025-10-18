@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0486[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0486[Dev-web]
+* https://localhost:4000/person?p=p0486[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0486[Adoc-web]
+* https://localhost:4000/adoc?p=p0486[Adoc-local]
 * https://www.geni.com/people/Herbert-Sparrell/6000000019834806464[Geni]
 * https://www.myheritage.com/profile-20674952-23000741/herbert-kirkwood-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Herbert_Sparrell_%282%29[WeRelate]
@@ -111,4 +114,5 @@ residence:
 4 CONC Son; <a href="https://www.myheritage.com/research/record-10053-27308256/james-k-sparrell-in-1940-united-states-federal-census?s=20674952">James K Sparrell</a>; 8
 4 CONC Daughter; <a href="https://www.myheritage.com/research/record-10053-27308257/ann-sparrell-in-1940-united-states-federal-census?s=20674952">Ann Sparrell</a>; 6
 ----
+
 

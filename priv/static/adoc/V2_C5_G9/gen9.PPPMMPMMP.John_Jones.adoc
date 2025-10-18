@@ -20,7 +20,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPMMP.John_Jones.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1296[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1296[Dev-web]
+* https://localhost:4000/person?p=p1296[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1296[Adoc-web]
+* https://localhost:4000/adoc?p=p1296[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Jones_%28521%29[WeRelate]

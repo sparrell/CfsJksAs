@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPP.Wait_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0105[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0105[Dev-web]
+* https://localhost:4000/person?p=p0105[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0105[Adoc-web]
+* https://localhost:4000/adoc?p=p0105[Adoc-local]
 * https://www.geni.com/people/Wait-Hurlburt/6000000219179990274[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000334/wait-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Wait_Hurlburt_%281%29[WeRelate]

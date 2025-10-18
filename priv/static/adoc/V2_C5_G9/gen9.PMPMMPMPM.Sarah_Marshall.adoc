@@ -19,7 +19,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMPM.Sarah_Marshall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1017[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1017[Dev-web]
+* https://localhost:4000/person?p=p1017[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1017[Adoc-web]
+* https://localhost:4000/adoc?p=p1017[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Willey_%286%29[WeRelate]

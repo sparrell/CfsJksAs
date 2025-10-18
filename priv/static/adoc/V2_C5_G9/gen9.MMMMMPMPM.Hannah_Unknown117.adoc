@@ -19,7 +19,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPM.Hannah_Unknown117.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0511[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0511[Dev-web]
+* https://localhost:4000/person?p=p0511[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0511[Adoc-web]
+* https://localhost:4000/adoc?p=p0511[Adoc-local]
 * Geni TBD
 * https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Hannah_Unknown_%28708%29[WeRelate]

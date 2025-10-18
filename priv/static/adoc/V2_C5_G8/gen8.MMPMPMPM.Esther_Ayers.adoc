@@ -22,7 +22,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMPM.Esther_Ayers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0541[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0541[Dev-web]
+* https://localhost:4000/person?p=p0541[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0541[Adoc-web]
+* https://localhost:4000/adoc?p=p0541[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

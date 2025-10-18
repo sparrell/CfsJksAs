@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0628[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0628[Dev-web]
+* https://localhost:4000/person?p=p0628[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0628[Adoc-web]
+* https://localhost:4000/adoc?p=p0628[Adoc-local]
 * https://www.geni.com/people/George-Edgecomb/6000000219179990385[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000886/george-washington-edgecomb[MyHeritage]
 * https://www.werelate.org/wiki/Person:George_Edgecomb_%281%29[WeRelate]

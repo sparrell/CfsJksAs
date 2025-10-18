@@ -6,7 +6,7 @@ defmodule Cfsjksas.Tools.Print do
 
   def write_file(outtext, filename) do
     # swap order so can use in pipes
-    IO.inspect(filename, label: "filename")
+#    IO.inspect(filename, label: "filename")
     :ok = File.write(filename, outtext)
   end
 

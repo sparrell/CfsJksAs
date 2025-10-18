@@ -28,7 +28,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMPM.Anne_Unknown.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1255[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1255[Dev-web]
+* https://localhost:4000/person?p=p1255[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1255[Adoc-web]
+* https://localhost:4000/adoc?p=p1255[Adoc-local]
 * Geni TBD
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001627/anne-shapley[MyHeritage]
 * WeRelate TBD

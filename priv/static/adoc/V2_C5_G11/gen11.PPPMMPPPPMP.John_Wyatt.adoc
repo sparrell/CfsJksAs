@@ -17,7 +17,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPPPMP.John_Wyatt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0399[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0399[Dev-web]
+* https://localhost:4000/person?p=p0399[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0399[Adoc-web]
+* https://localhost:4000/adoc?p=p0399[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

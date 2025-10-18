@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPP.Henry_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0684[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0684[Dev-web]
+* https://localhost:4000/person?p=p0684[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0684[Adoc-web]
+* https://localhost:4000/adoc?p=p0684[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Henry_Andrews_%283%29[WeRelate]

@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMMPPM.Anne_Poole.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0294[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0294[Dev-web]
+* https://localhost:4000/person?p=p0294[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0294[Adoc-web]
+* https://localhost:4000/adoc?p=p0294[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

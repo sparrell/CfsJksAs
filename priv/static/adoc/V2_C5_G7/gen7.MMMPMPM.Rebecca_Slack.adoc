@@ -21,7 +21,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0946[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0946[Dev-web]
+* https://localhost:4000/person?p=p0946[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0946[Adoc-web]
+* https://localhost:4000/adoc?p=p0946[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Slack_%282%29[WeRelate]

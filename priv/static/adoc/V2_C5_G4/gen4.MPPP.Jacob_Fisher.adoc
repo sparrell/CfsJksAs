@@ -22,7 +22,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPP.Jacob_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0247[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0247[Dev-web]
+* https://localhost:4000/person?p=p0247[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0247[Adoc-web]
+* https://localhost:4000/adoc?p=p0247[Adoc-local]
 * https://www.geni.com/people/Jacob-Fisher/6000000219179990065[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000482/jacob-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Jacob_Fisher_%2818%29[WeRelate]

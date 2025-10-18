@@ -53,15 +53,34 @@ defmodule Cfsjksas.Tools.Link do
     <> link_label
   end
 
-  def dev(id) do
+  def x_dev_web_link(id) do
     "* "
-    <> dev_link(id)
-		<> "[Dev website]\n"
-	end
-  def dev_link(id) do
-    "https://cfsjksas.gigalixirapp.com/person?p="
+    <> "https://cfsjksas.gigalixirapp.com/person?p="
 		<> to_string(id)
-  end
+    <> "[Dev-web]\n"
+	end
+
+  def x_dev_local_link(id) do
+    "* "
+    <> "http://localhost:4000/person?p="
+		<> to_string(id)
+    <> "[Dev-local]\n"
+	end
+
+  def x_adoc_web_link(id) do
+    "* "
+    <> "https://cfsjksas.gigalixirapp.com/adoc?p="
+		<> to_string(id)
+    <> "[Adoc-web]\n"
+	end
+
+  def x_adoc_local_link(id) do
+    "* "
+#    <> "http://localhost:4000/adoc?p="
+    <> "adoc?p="
+		<> to_string(id)
+    <> "[Adoc-local]\n"
+	end
 
   def werelate(person_p) do
     # output werelate link if present, or TBD if not
@@ -171,7 +190,8 @@ defmodule Cfsjksas.Tools.Link do
     # get person_a from relation
     id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
-    Path.join(:code.priv_dir(:cfsjksas), person_a.label <> ".html")
+    html_path = @htmlpath <> person_a.label <> ".html"
+    Path.join(:code.priv_dir(:cfsjksas), html_path)
   end
   def make_filename(relation, :md) do
     # filepath for people pages

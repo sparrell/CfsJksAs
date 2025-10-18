@@ -33,7 +33,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0866[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0866[Dev-web]
+* https://localhost:4000/person?p=p0866[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0866[Adoc-web]
+* https://localhost:4000/adoc?p=p0866[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Goodeth_Itchenor_%281%29[WeRelate]

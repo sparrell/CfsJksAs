@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0258[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0258[Dev-web]
+* https://localhost:4000/person?p=p0258[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0258[Adoc-web]
+* https://localhost:4000/adoc?p=p0258[Adoc-local]
 * https://www.geni.com/people/Mary-Comstock-Avery/6000000003941264876[Geni]
 * https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Comstock_%283%29[WeRelate]

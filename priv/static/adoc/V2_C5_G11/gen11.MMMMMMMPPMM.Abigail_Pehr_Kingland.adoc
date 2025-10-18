@@ -24,7 +24,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPPMM.Abigail_Pehr_Kingland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0369[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0369[Dev-web]
+* https://localhost:4000/person?p=p0369[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0369[Adoc-web]
+* https://localhost:4000/adoc?p=p0369[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

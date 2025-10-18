@@ -51,7 +51,7 @@ defmodule Cfsjksas.Chart.Draw do
     # determine if this is duplicate to be skipped
     person_l = lineage[id_l]
     id_a = person_l.id
-    person_a = Cfsjksas.Ancestors.GetAncestors.person(id_a)
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
 
     svg
     |> Cfsjksas.Chart.Svg.draw_sector(id_l, person_l, person_a, cfg, chart_type)

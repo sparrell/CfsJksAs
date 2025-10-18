@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0329[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0329[Dev-web]
+* https://localhost:4000/person?p=p0329[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0329[Adoc-web]
+* https://localhost:4000/adoc?p=p0329[Adoc-local]
 * https://www.geni.com/people/Emiline-Sparrell/6000000007500421270[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Emiline_Gleason_%281%29[WeRelate]

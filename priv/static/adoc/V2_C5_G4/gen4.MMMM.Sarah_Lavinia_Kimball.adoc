@@ -29,7 +29,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0639[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0639[Dev-web]
+* https://localhost:4000/person?p=p0639[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0639[Adoc-web]
+* https://localhost:4000/adoc?p=p0639[Adoc-local]
 * https://www.geni.com/people/Sarah-Kimball/6000000219179990399[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000897/sarah-lavinia-kimball-edgecomb[MyHeritage]
 * https://www.werelate.org/wiki/Person:Sarah_Kimball_%2818%29[WeRelate]

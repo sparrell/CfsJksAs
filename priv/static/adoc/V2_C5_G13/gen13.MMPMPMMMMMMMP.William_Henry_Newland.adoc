@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMPMPMMMMMMMP.William_Henry_Newland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1250[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p1250[Dev-web]
+* https://localhost:4000/person?p=p1250[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p1250[Adoc-web]
+* https://localhost:4000/adoc?p=p1250[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD

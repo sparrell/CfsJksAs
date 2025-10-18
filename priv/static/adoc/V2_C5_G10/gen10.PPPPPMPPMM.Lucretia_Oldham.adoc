@@ -27,7 +27,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMM.Lucretia_Oldham.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0498[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0498[Dev-web]
+* https://localhost:4000/person?p=p0498[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0498[Adoc-web]
+* https://localhost:4000/adoc?p=p0498[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lucretia_Oldham_%282%29[WeRelate]

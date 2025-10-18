@@ -31,7 +31,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPPP.Samuel_Chester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0091[Dev website]
+* https://cfsjksas.gigalixirapp.com/person?p=p0091[Dev-web]
+* https://localhost:4000/person?p=p0091[Dev-local]
+* https://cfsjksas.gigalixirapp.com/adoc?p=p0091[Adoc-web]
+* https://localhost:4000/adoc?p=p0091[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Samuel_Chester_%284%29[WeRelate]
