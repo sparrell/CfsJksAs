@@ -9,7 +9,7 @@ defmodule Cfsjksas.Chart.CircleMod do
     Cfsjksas.Ancestors.AgentStores.get_marked_lineages()
     # and draw it
     |> Cfsjksas.Chart.Draw.main(:circle_mod_chart)
-    |> Cfsjksas.Chart.Svg.finish()
+    # and save it
     |> Cfsjksas.Chart.Svg.save_file(filename, :circle_mod_chart)
 
   end

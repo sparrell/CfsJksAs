@@ -186,13 +186,7 @@ defmodule Cfsjksas.Chart.Sector do
       IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
       IEx.pry() # oops need to enter this data
     end
-
-#debug = "gen = #{gen}, "
-#<> "old sector = #{sector.sector_num}, "
-#<> "new sector = #{gen11_sector_num},"
-#<> "name = #{sector.given_name} #{sector.surname}"
-#IO.inspect(debug)
-
+    #return
     %{sector | gen11_sector_num: gen11_sector_num}
   end
   defp add_g11_sector_number(sector, _chart_type) do

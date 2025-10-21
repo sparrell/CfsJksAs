@@ -59,6 +59,7 @@ Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 
 ## todo
 
+* still has Cfsjksas.Circle routine which needs to be moved
 * make all agent_stores
 * expand the 14/13=>12 to 14/13/12=>11
 * make adoc pages displayed by dev website instead of map
@@ -175,7 +176,6 @@ Cfsjksas.Ancestors.Stats.ancestor_count(ancestors, :termination)
 ## create ancestors first either 3 commands up or run from _ex.txt
 
 Cfsjksas.Ancestors.LineEnd.classify(ancestors)
-
 
 ## lineages
 
