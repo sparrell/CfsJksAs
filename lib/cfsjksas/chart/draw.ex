@@ -96,6 +96,7 @@ defmodule Cfsjksas.Chart.Draw do
     <> "x1=\"#{outer_x}\" y1=\"#{outer_y}\" "
     <> "x2=\"#{inner_x}\" y2=\"#{inner_y}\" "
     <> "stroke=\"gray\" stroke-width=\"5\" />\n"
+
     touchup(svg <> connector, rest_of_lines)
 
   end
