@@ -9093,7 +9093,7 @@
       brickwall: false,
       duplicate: :main,
       id: :p0399,
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :ne,
       relation: ["P", "P", "P", "M", "M", "P", "P", "P", "P", "M", "P"],
       sector: {11, 194},
@@ -13552,24 +13552,6 @@
       quadrant: :ne,
       relation: ["P", "P", "P", "P", "M", "M", "M", "M", "M", "M", "M", "M"],
       sector: {12, 255},
-	}
-	{12, :ne, 388} => %{
-      brickwall: true,
-      duplicate: :main,
-      id: "father of p0399",
-      immigrant: :no,
-      quadrant: :ne,
-      relation: ["P", "P", "P", "M", "M", "P", "P", "P", "P", "M", "P", "P"],
-      sector: {12, 388},
-	}
-	{12, :ne, 389} => %{
-      brickwall: true,
-      duplicate: :main,
-      id: "mother of p0399",
-      immigrant: :no,
-      quadrant: :ne,
-      relation: ["P", "P", "P", "M", "M", "P", "P", "P", "P", "M", "P", "M"],
-      sector: {12, 389},
 	}
 	{12, :ne, 410} => %{
       brickwall: false,

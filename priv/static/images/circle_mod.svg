@@ -10084,7 +10084,7 @@ Martha Vinal (1625 - ?)
 <clipPath id="sector_11_194_clip">
 <use href="#sector_11_194"/>
 </clipPath></defs>
-<use href="#sector_11_194" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_194_clip)"/>
+<use href="#sector_11_194" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_194_clip)"/>
 <path id="ray_g11_s194" d="M 27152,12065 L 28393,11222" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s194" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -13298,30 +13298,6 @@ Anna Unknown091 (? - 1664)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_388" d="M 29184 10651 A 18375 18375 0 0 1 29215 10698 L 28470 11202 A 17475 17475 0 0 0 28440 11158 L 29184 10651 " />
-<clipPath id="sector_12_388_clip">
-<use href="#sector_12_388"/>
-</clipPath></defs>
-<use href="#sector_12_388" stroke="blue" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_12_388_clip)"/>
-<path id="ray_g12_s388" d="M 28455,11180 L 29200,10675" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g12_s388" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_389" d="M 29152 10605 A 18375 18375 0 0 1 29184 10651 L 28440 11158 A 17475 17475 0 0 0 28410 11114 L 29152 10605 " />
-<clipPath id="sector_12_389_clip">
-<use href="#sector_12_389"/>
-</clipPath></defs>
-<use href="#sector_12_389" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_12_389_clip)"/>
-<path id="ray_g12_s389" d="M 28425,11136 L 29168,10628" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g12_s389" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_410" d="M 28826 10145 A 18375 18375 0 0 1 28859 10190 L 28131 10720 A 17475 17475 0 0 0 28100 10676 L 28826 10145 " />
 <clipPath id="sector_12_410_clip">
 <use href="#sector_12_410"/>
@@ -14594,8 +14570,6 @@ Susanna Furner (? - 1620)
 <line id="g12_s126_g11_s126" x1="30175" y1="14387" x2="30106" y2="14415" stroke="gray" stroke-width="5" />
 <line id="g12_s127_g11_s127" x1="30155" y1="14337" x2="30086" y2="14366" stroke="gray" stroke-width="5" />
 <line id="g12_s128_g11_s127" x1="30135" y1="14288" x2="30086" y2="14366" stroke="gray" stroke-width="5" />
-<line id="g12_s194_g11_s194" x1="28455" y1="11180" x2="28393" y2="11222" stroke="gray" stroke-width="5" />
-<line id="g12_s195_g11_s194" x1="28425" y1="11136" x2="28393" y2="11222" stroke="gray" stroke-width="5" />
 <line id="g12_s205_g11_s205" x1="28115" y1="10698" x2="28055" y2="10742" stroke="gray" stroke-width="5" />
 <line id="g12_s206_g11_s205" x1="28084" y1="10655" x2="28055" y2="10742" stroke="gray" stroke-width="5" />
 <line id="g12_s236_g11_s236" x1="27073" y1="9404" x2="27017" y2="9454" stroke="gray" stroke-width="5" />
@@ -14702,5 +14676,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-10-22 19:24:14.561636Z -->
+<!-- made new svg at 2025-10-22 19:38:18.311191Z -->
 </svg>

@@ -74639,6 +74639,10 @@
 			],
 			rin: "MH:I654",
 			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Wyatt",
