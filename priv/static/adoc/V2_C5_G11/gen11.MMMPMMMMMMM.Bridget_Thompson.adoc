@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 11 SEP 1622
+
 * Birthplace: Preston Capes, Northamptonshire, England, UK
+
 * Death: 16 AUG 1643
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 20
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMM.Bridget_Thompson.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1019[Dev-web]
-* https://localhost:4000/person?p=p1019[Dev-local]
+* http://localhost:4000/person?p=p1019[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p1019[Adoc-web]
-* https://localhost:4000/adoc?p=p1019[Adoc-local]
+* adoc?p=p1019[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Bridget_Thompson_%282%29[WeRelate]
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

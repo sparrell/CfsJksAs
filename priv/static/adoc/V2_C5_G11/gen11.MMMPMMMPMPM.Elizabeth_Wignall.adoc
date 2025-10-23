@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1604
+
 * Birthplace: Frating, Essex, England, UK
+
 * Death: 16 SEP 1668
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 * Age at Death: 63-64
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMPMPM.Elizabeth_Wignall.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0564[Dev-web]
-* https://localhost:4000/person?p=p0564[Dev-local]
+* http://localhost:4000/person?p=p0564[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0564[Adoc-web]
-* https://localhost:4000/adoc?p=p0564[Adoc-local]
+* adoc?p=p0564[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -183,3 +189,4 @@ Narrative TBD
 == Other
 
 == Sources
+

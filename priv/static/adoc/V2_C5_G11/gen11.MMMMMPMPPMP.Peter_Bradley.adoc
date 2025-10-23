@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: Est. 1628
+
 * Birthplace: probably England
+
 * Death: 3 Apr 1662
+
 * Deathplace: New London, New London, Connecticut
+
 
 
 == Ship
@@ -27,9 +32,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMP.Peter_Bradley.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0038[Dev-web]
-* https://localhost:4000/person?p=p0038[Dev-local]
+* http://localhost:4000/person?p=p0038[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0038[Adoc-web]
-* https://localhost:4000/adoc?p=p0038[Adoc-local]
+* adoc?p=p0038[Adoc-local]
 * Geni TBD
 * https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Peter_Bradley_%281%29[WeRelate]
@@ -96,4 +101,6 @@ Narrative TBD
 == Other
 emigration: probably from England
 
+
 == Sources
+

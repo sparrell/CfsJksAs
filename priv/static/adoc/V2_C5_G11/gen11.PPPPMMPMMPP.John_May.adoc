@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1590
+
 * Birthplace: Mayfield, Sussex, England, UK
+
 * Death: 28 APR 1670
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 79-80
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMMPP.John_May.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0205[Dev-web]
-* https://localhost:4000/person?p=p0205[Dev-local]
+* http://localhost:4000/person?p=p0205[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0205[Adoc-web]
-* https://localhost:4000/adoc?p=p0205[Adoc-local]
+* adoc?p=p0205[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_May_%2872%29[WeRelate]
@@ -64,4 +70,6 @@ event:  227
 
 notes: Ancestor of President George W. Bush.
 
+
 == Sources
+

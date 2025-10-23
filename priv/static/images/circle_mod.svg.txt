@@ -10156,7 +10156,7 @@ Isaac Cummins (1601 - 1677)
 <clipPath id="sector_11_201_clip">
 <use href="#sector_11_201"/>
 </clipPath></defs>
-<use href="#sector_11_201" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_201_clip)"/>
+<use href="#sector_11_201" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_201_clip)"/>
 <path id="ray_g11_s201" d="M 26957,11785 L 28180,10916" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s201" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -14676,5 +14676,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-10-22 19:38:18.311191Z -->
+<!-- made new svg at 2025-10-23 17:34:30.982335Z -->
 </svg>

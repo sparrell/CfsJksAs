@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1640
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Death: 1 MAR 1732
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: About 91-92
+
 
 
 == Family
@@ -25,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMM.Abigail_Proctor.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0458[Dev-web]
-* https://localhost:4000/person?p=p0458[Dev-local]
+* http://localhost:4000/person?p=p0458[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0458[Adoc-web]
-* https://localhost:4000/adoc?p=p0458[Adoc-local]
+* adoc?p=p0458[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -73,4 +79,6 @@ event:  Brother John Proctor condemned for witchcraft
 
 notes: Abigail Proctor was the leader of a party of women who raised the frameof the meeting house at Chebacco, after an order had been issued by theGeneral Court forbidding the men from raising it. The women were arrested, acknowledged their offense, but they accomplished their purpose.
 
+
 == Sources
+

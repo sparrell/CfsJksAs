@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Stow
+
 * Birth: 1618
+
 * Birthplace: Suffolk, England
+
 * Death: 21 AUG 1680
+
 * Deathplace: Middletown, Middlesex, Connecticut
+
 * Age at Death: 61-62
+
 
 
 == Ship
@@ -29,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPM.Mary_Griggs_Gregg.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1284[Dev-web]
-* https://localhost:4000/person?p=p1284[Dev-local]
+* http://localhost:4000/person?p=p1284[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p1284[Adoc-web]
-* https://localhost:4000/adoc?p=p1284[Adoc-local]
+* adoc?p=p1284[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Griggs_%285%29[WeRelate]
@@ -75,4 +82,5 @@ Narrative TBD
 4 CONC amp;lt;br&amp;gt;Children: Rev. Samuel Stow StoweThomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Siblings: Jo
 4 CONC hn GriggsJoseph Griggs
 ----
+
 

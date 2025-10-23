@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: 16 JUL 1647
+
 * Deathplace: Rehoboth, Bristol, Massachusetts, USA
+
 
 
 == Ship
@@ -26,9 +30,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPPMP.Alexander_Winchester.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0885[Dev-web]
-* https://localhost:4000/person?p=p0885[Dev-local]
+* http://localhost:4000/person?p=p0885[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0885[Adoc-web]
-* https://localhost:4000/adoc?p=p0885[Adoc-local]
+* adoc?p=p0885[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -89,4 +93,6 @@ event:
 
 notes: Came over in the train of Sir Henry Vane, Governor of Massachusetts BayColony.
 
+
 == Sources
+

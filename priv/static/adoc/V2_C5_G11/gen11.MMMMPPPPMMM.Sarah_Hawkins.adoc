@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1598
+
 * Birthplace: Bocking, Essex, England, UK
+
 * Death: 14 JUN 1658
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: 59-60
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMMM.Sarah_Hawkins.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0632[Dev-web]
-* https://localhost:4000/person?p=p0632[Dev-local]
+* http://localhost:4000/person?p=p0632[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0632[Adoc-web]
-* https://localhost:4000/adoc?p=p0632[Adoc-local]
+* adoc?p=p0632[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Susanna_Clark_%2811%29[WeRelate]
@@ -78,3 +84,4 @@ event:  633
 
 
 == Sources
+

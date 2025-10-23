@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 21 DEC 1612
+
 * Birthplace: Sandy, Bedfordshire, England, UK
+
 * Christening: 
 ----
 2 DATE 21 DEC 1612
@@ -29,9 +32,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMPMM.Alice_Ingersoll.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0043[Dev-web]
-* https://localhost:4000/person?p=p0043[Dev-local]
+* http://localhost:4000/person?p=p0043[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0043[Adoc-web]
-* https://localhost:4000/adoc?p=p0043[Adoc-local]
+* adoc?p=p0043[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -65,3 +68,4 @@ event:  1034
 
 
 == Sources
+

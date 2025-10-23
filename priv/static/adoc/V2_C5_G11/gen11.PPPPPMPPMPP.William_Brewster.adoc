@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1566
+
 * Birthplace: Doncaster, Yorkshire, England, UK
+
 * Death: 10 APR 1644
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 77-78
+
 
 
 == Ship
@@ -28,14 +34,15 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPMPPMPP.William_Brewster.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0509[Dev-web]
-* https://localhost:4000/person?p=p0509[Dev-local]
+* http://localhost:4000/person?p=p0509[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0509[Adoc-web]
-* https://localhost:4000/adoc?p=p0509[Adoc-local]
+* adoc?p=p0509[Adoc-local]
 * https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109[Geni]
 * https://www.myheritage.com/profile-20674952-23000764/william-brewster[MyHeritage]
 * https://www.werelate.org/wiki/Person:William_Brewster_%283%29[WeRelate]
 * https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[Wikipedia]
 * https://www.wikitree.com/wiki/Brewster-4[WikiTree]
+* https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[wikipedia:]
 
 == Relations
 === Lineage #1
@@ -254,6 +261,7 @@ event:  Freeman of Plymouth
 ----
 
 notes: Ancestor of President Zachary Taylor.
+
 occupation: Postmaster
 ----
 2 DATE BEF 1608
@@ -266,6 +274,9 @@ Printer in Leyden
 ----
 
 ordained: Church Elder preached at Plymouth
+
 title: Elder
 
+
 == Sources
+

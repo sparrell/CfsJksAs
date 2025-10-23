@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,9 +28,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMPPMM.Unknown202_Unknown003.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0751[Dev-web]
-* https://localhost:4000/person?p=p0751[Dev-local]
+* http://localhost:4000/person?p=p0751[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0751[Adoc-web]
-* https://localhost:4000/adoc?p=p0751[Adoc-local]
+* adoc?p=p0751[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Unknown_Unknown_%284410%29[WeRelate]
@@ -52,3 +55,4 @@ Narrative TBD
 == Other
 
 == Sources
+

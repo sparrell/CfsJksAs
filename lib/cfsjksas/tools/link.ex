@@ -121,19 +121,6 @@ defmodule Cfsjksas.Tools.Link do
     end
   end
 
-  def wikipedia(person_p) do
-    # print wikipedia link if present, or leave out if not
-    url = Map.get(person_p.links, :wikipedia)
-    case url do
-      nil ->
-      ""
-      _ ->
-        "* "
-        <> url
-        <> "[Wikipedia]\n"
-    end
-  end
-
   def wikitree(person_p) do
     # print wikipedia link if present, or leave out if not
     url = Map.get(person_p.links, :wikitree)
@@ -144,6 +131,30 @@ defmodule Cfsjksas.Tools.Link do
         "* " <> url <> "[WikiTree]\n"
     end
   end
+
+  def other_links(person_p) do
+    # print other links, if present, or leave out if not
+    others = Map.get(person_p.links, :other_links)
+    case others do
+      nil ->
+        # no key so don't print anything
+        ""
+      _ ->
+        # loop thru other_links keys
+        print_other_links("", others, Map.keys(others))
+    end
+  end
+
+  def print_other_links(text, _others, []) do
+    #done
+    text
+  end
+  def print_other_links(text, others, [this_key | rest]) do
+    text
+    <> "* #{others[this_key]}[#{to_string(this_key)}:]\n"
+    |> print_other_links(others, rest)
+  end
+
 
 
   def relation_to_file_root(relation) do

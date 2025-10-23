@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1650
+
 * Birthplace: Milton, Norfolk, Massachusetts, USA
+
 * Death: 1718
+
 * Deathplace: Swansea, Bristol, Massachusetts, USA
+
 * Age at Death: 67-68
+
 
 
 == Family
@@ -23,9 +29,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMPP.Jeremiah_Smith.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0489[Dev-web]
-* https://localhost:4000/person?p=p0489[Dev-local]
+* http://localhost:4000/person?p=p0489[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0489[Adoc-web]
-* https://localhost:4000/adoc?p=p0489[Adoc-local]
+* adoc?p=p0489[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jeremiah_Smith_%283%29[WeRelate]
@@ -50,3 +56,4 @@ Narrative TBD
 == Other
 
 == Sources
+

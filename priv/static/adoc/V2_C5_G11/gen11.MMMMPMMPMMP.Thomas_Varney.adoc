@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1630
+
 * Birthplace: Barbados
+
 * Death: 4 DEC 1692
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: About 61-62
+
 
 
 == Family
@@ -25,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMP.Thomas_Varney.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0457[Dev-web]
-* https://localhost:4000/person?p=p0457[Dev-local]
+* http://localhost:4000/person?p=p0457[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0457[Adoc-web]
-* https://localhost:4000/adoc?p=p0457[Adoc-local]
+* adoc?p=p0457[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -75,3 +81,4 @@ event:  473
 
 
 == Sources
+

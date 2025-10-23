@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1603
+
 * Birthplace: Norwich, England, UK
+
 * Death: 5 FEB 1682
+
 * Deathplace: Stow, Middlesex, Massachusetts, USA
+
 * Age at Death: 78-79
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMPM.Ann_Veare.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0637[Dev-web]
-* https://localhost:4000/person?p=p0637[Dev-local]
+* http://localhost:4000/person?p=p0637[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0637[Adoc-web]
-* https://localhost:4000/adoc?p=p0637[Adoc-local]
+* adoc?p=p0637[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

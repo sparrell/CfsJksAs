@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: BEF 9 APR 1610
+
 * Birthplace: Assington, Suffolk, England, UK
+
 * Death: 26 JUN 1666
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: About 56
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPM.Alice_French.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0440[Dev-web]
-* https://localhost:4000/person?p=p0440[Dev-local]
+* http://localhost:4000/person?p=p0440[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0440[Adoc-web]
-* https://localhost:4000/adoc?p=p0440[Adoc-local]
+* adoc?p=p0440[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_French_%281%29[WeRelate]
@@ -56,6 +62,7 @@ Narrative TBD
 
 == Other
 notes: Alice French migrated to MA with her brother Thomas by 1632. Their parents and other siblings arrived after 1633.
+
 residence: 
 ----
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_French_%281%29:
@@ -63,3 +70,4 @@ residence:
 
 
 == Sources
+

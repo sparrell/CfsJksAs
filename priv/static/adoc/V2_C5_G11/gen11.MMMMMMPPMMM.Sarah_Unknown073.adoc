@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1620
+
 * Birthplace: Lancashire, England, UK
+
 * Death: 5 DEC 1683
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 * Age at Death: About 62-63
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMPPMMM.Sarah_Unknown073.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0514[Dev-web]
-* https://localhost:4000/person?p=p0514[Dev-local]
+* http://localhost:4000/person?p=p0514[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0514[Adoc-web]
-* https://localhost:4000/adoc?p=p0514[Adoc-local]
+* adoc?p=p0514[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Unknown_%283610%29[WeRelate]
@@ -125,3 +131,4 @@ Narrative TBD
 == Other
 
 == Sources
+

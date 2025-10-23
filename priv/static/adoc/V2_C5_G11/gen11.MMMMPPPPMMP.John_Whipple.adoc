@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 29 AUG 1596
+
 * Birthplace: Bocking, Essex, England, UK
+
 * Death: 30 JUN 1669
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: 72
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMMP.John_Whipple.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0629[Dev-web]
-* https://localhost:4000/person?p=p0629[Dev-local]
+* http://localhost:4000/person?p=p0629[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0629[Adoc-web]
-* https://localhost:4000/adoc?p=p0629[Adoc-local]
+* adoc?p=p0629[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Whipple_%281%29[WeRelate]
@@ -81,4 +87,6 @@ event:  Church Elder at Ipswich MA
 
 occupation: Clothier
 
+
 == Sources
+

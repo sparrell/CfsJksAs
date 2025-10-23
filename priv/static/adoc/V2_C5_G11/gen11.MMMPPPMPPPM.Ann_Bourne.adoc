@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 18 JAN 1615
+
 * Birthplace: England, UK
+
 * Death: 12 JAN 1684
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 * Age at Death: 68
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPPPM.Ann_Bourne.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0884[Dev-web]
-* https://localhost:4000/person?p=p0884[Dev-local]
+* http://localhost:4000/person?p=p0884[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0884[Adoc-web]
-* https://localhost:4000/adoc?p=p0884[Adoc-local]
+* adoc?p=p0884[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

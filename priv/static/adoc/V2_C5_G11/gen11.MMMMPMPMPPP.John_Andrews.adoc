@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1621
+
 * Birthplace: England, UK
+
 * Death: 20 APR 1708
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: About 86-87
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPPP.John_Andrews.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0577[Dev-web]
-* https://localhost:4000/person?p=p0577[Dev-local]
+* http://localhost:4000/person?p=p0577[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0577[Adoc-web]
-* https://localhost:4000/adoc?p=p0577[Adoc-local]
+* adoc?p=p0577[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -85,6 +91,9 @@ event:  Chairman, Ipswich  Selectmen
 ----
 
 notes: As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. <p></p> <p>Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond
+
 occupation: Carpenter and farmer
 
+
 == Sources
+

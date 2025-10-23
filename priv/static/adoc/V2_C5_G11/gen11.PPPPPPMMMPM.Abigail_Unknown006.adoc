@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 1720
+
 * Deathplace: Swansea, Bristol, Massachusetts, USA
+
 
 
 == Family
@@ -20,9 +23,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMPM.Abigail_Unknown006.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0490[Dev-web]
-* https://localhost:4000/person?p=p0490[Dev-local]
+* http://localhost:4000/person?p=p0490[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0490[Adoc-web]
-* https://localhost:4000/adoc?p=p0490[Adoc-local]
+* adoc?p=p0490[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Unknown_%2862%29[WeRelate]
@@ -56,3 +59,4 @@ event:  502
 
 
 == Sources
+

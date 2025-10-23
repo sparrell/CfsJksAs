@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 10 SEP 1609
+
 * Birthplace: Chelmsford, Essex, England, UK
+
 * Death: 1 AUG 1643
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 33
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMPM.Alice_Bredda.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0367[Dev-web]
-* https://localhost:4000/person?p=p0367[Dev-local]
+* http://localhost:4000/person?p=p0367[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0367[Adoc-web]
-* https://localhost:4000/adoc?p=p0367[Adoc-local]
+* adoc?p=p0367[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

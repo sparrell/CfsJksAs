@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 2 MAY 1585
+
 * Birthplace: Hingham, Norfolk, England, UK
+
 * Death: 24 OCT 1637
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 52
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMMM.Rebecca_Clark.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0011[Dev-web]
-* https://localhost:4000/person?p=p0011[Dev-local]
+* http://localhost:4000/person?p=p0011[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0011[Adoc-web]
-* https://localhost:4000/adoc?p=p0011[Adoc-local]
+* adoc?p=p0011[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Clark_%2814%29[WeRelate]
@@ -129,3 +135,4 @@ Narrative TBD
 == Other
 
 == Sources
+

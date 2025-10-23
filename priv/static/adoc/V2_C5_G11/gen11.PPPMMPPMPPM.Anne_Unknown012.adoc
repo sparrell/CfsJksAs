@@ -9,18 +9,24 @@ Narrative TBD
 * Sex: F
 
 
+
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMPP.Issac_Cummins.adoc[Issac Cummins (1633 - 1721)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMPPM.Anne_Unknown012.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0436[Dev-web]
-* https://localhost:4000/person?p=p0436[Dev-local]
+* http://localhost:4000/person?p=p0436[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0436[Adoc-web]
-* https://localhost:4000/adoc?p=p0436[Adoc-local]
+* adoc?p=p0436[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anne_Unknown_%28251%29[WeRelate]
@@ -54,3 +60,4 @@ event:  454
 
 
 == Sources
+

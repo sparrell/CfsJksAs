@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1609
+
 * Birthplace: Monmouthshire, England, UK
+
 * Death: 29 NOV 1676
+
 * Deathplace: Newport, Newport, Rhode Island, USA
+
 * Age at Death: 66-67
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMMP.John_Crandall.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0350[Dev-web]
-* https://localhost:4000/person?p=p0350[Dev-local]
+* http://localhost:4000/person?p=p0350[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0350[Adoc-web]
-* https://localhost:4000/adoc?p=p0350[Adoc-local]
+* adoc?p=p0350[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Crandall_%281%29[WeRelate]
@@ -100,4 +106,6 @@ event:
 
 notes: August 1651, he was imprisoned at Boston for a Baptist.....removed to Westerly [Rhode Island], preached as 7th day Baptist". <p></p> <p>In 1676 he returned to Newort because of the perils of King Phiilip's war and he died there.</p>
 
+
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 3 NOV 1616
+
 * Birthplace: Bishop's Stortford, Hertfordshire, England, UK
+
 * Death: 26 APR 1668
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 51
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPP.Edward_Denison.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0963[Dev-web]
-* https://localhost:4000/person?p=p0963[Dev-local]
+* http://localhost:4000/person?p=p0963[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0963[Adoc-web]
-* https://localhost:4000/adoc?p=p0963[Adoc-local]
+* adoc?p=p0963[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: AFT 1670
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 
 
 == Ship
@@ -27,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPM.Hannah_Churchman.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0349[Dev-web]
-* https://localhost:4000/person?p=p0349[Dev-local]
+* http://localhost:4000/person?p=p0349[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0349[Adoc-web]
-* https://localhost:4000/adoc?p=p0349[Adoc-local]
+* adoc?p=p0349[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Annis_Churchman_%281%29[WeRelate]
@@ -98,4 +102,6 @@ Narrative TBD
 == Other
 notes: "Widow Hannah came with her son Josiah to Stoningtonand lived to a great age & was drowned in a small brook having only her face in it."
 
+
 == Sources
+

@@ -10990,8 +10990,10 @@
 				geni: "https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109",
 				myheritage: "https://www.myheritage.com/profile-20674952-23000764/william-brewster",
 				werelate: "https://www.werelate.org/wiki/Person:William_Brewster_%283%29",
-				wikipedia: "https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)",
 				wikitree: "https://www.wikitree.com/wiki/Brewster-4",
+				other_links: %{
+					wikipedia: "https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)",
+				},
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -21723,6 +21725,7 @@
 			immigration: nil,
 			label: "gen7.PPPMMMM.Mercy_Dudley",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001644/mercy-dudley-willard",
 				werelate: "https://www.werelate.org/wiki/Person:Mercy_Dudley_%284%29",
 			},
 			married_name: nil,
@@ -63448,6 +63451,10 @@
 			],
 			rin: "MH:I691",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Unknown012",
@@ -72968,7 +72975,9 @@
 			immigration: nil,
 			label: "gen7.PPPMMMP.Lieut_Issac_Willard",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001643/lieut-issac-willard",
 				werelate: "https://www.werelate.org/wiki/Person:Isaac_Willard_%281%29",
+				wikitree: "https://www.wikitree.com/wiki/Willard-554",
 			},
 			married_name: nil,
 			mh_famc: "F724",

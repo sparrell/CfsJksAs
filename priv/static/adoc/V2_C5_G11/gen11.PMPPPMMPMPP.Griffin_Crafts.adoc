@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1601
+
 * Birthplace: Yorkshire, England, UK
+
 * Death: 4 OCT 1689
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 87-88
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMMPMPP.Griffin_Crafts.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0807[Dev-web]
-* https://localhost:4000/person?p=p0807[Dev-local]
+* http://localhost:4000/person?p=p0807[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0807[Adoc-web]
-* https://localhost:4000/adoc?p=p0807[Adoc-local]
+* adoc?p=p0807[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -55,3 +61,4 @@ Narrative TBD
 == Other
 
 == Sources
+

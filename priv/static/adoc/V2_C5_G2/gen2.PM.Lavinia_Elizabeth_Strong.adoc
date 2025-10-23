@@ -7,17 +7,24 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 23 NOV 1875
+
 * Birthplace: Worcester, Worcester, Massachusetts, USA
+
 * Death: 27 AUG 1941
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
 ----
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
 ----
 
 * Age at Death: 65
+
 * Death Cause: Cancer
+
 
 
 == Family
@@ -31,9 +38,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0006[Dev-web]
-* https://localhost:4000/person?p=p0006[Dev-local]
+* http://localhost:4000/person?p=p0006[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0006[Adoc-web]
-* https://localhost:4000/adoc?p=p0006[Adoc-local]
+* adoc?p=p0006[Adoc-local]
 * Geni TBD
 * https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29[WeRelate]

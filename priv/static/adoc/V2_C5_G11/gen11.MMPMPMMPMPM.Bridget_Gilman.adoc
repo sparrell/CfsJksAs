@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1603
+
 * Birthplace: Hingham, Norfolk, England, UK
+
 
 
 == Ship
@@ -25,9 +28,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPMPM.Bridget_Gilman.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0549[Dev-web]
-* https://localhost:4000/person?p=p0549[Dev-local]
+* http://localhost:4000/person?p=p0549[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0549[Adoc-web]
-* https://localhost:4000/adoc?p=p0549[Adoc-local]
+* adoc?p=p0549[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -52,3 +55,4 @@ Narrative TBD
 == Other
 
 == Sources
+

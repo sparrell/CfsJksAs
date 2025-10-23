@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 31 DEC 1615
+
 * Birthplace: Ashford, Kent, England, UK
+
 * Death: 26 NOV 1658
+
 * Deathplace: Charlestown, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 42
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPP.Thomas_Starr.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0389[Dev-web]
-* https://localhost:4000/person?p=p0389[Dev-local]
+* http://localhost:4000/person?p=p0389[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0389[Adoc-web]
-* https://localhost:4000/adoc?p=p0389[Adoc-local]
+* adoc?p=p0389[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Starr_%282%29[WeRelate]
@@ -87,4 +93,6 @@ notes: Thomas was 19 when his family emigrated from England to New England. <p>H
 
 occupation: Physician and Surgeon
 
+
 == Sources
+

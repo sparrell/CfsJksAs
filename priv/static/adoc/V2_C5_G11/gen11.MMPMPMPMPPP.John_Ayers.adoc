@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 2 SEP 1582
+
 * Birthplace: Wiltshire, England, UK
+
 * Death: 31 MAR 1657
+
 * Deathplace: Haverhill, Essex, Massachusetts, USA
+
 * Age at Death: 74
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMPMPPP.John_Ayers.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0938[Dev-web]
-* https://localhost:4000/person?p=p0938[Dev-local]
+* http://localhost:4000/person?p=p0938[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0938[Adoc-web]
-* https://localhost:4000/adoc?p=p0938[Adoc-local]
+* adoc?p=p0938[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -68,4 +74,5 @@ Narrative TBD
 4 CONC : Peters, Eleanor Bradley Peters, 1855-&lt;br /&gt;Sponsor: Internet Archive&lt;br /&gt;Tags: allen_county, americana&lt;br /&gt;Contributor: Allen County Public Library Genealogy Center&lt;/p&gt;&amp
 4 CONC ;lt;/p&amp;gt;
 ----
+
 

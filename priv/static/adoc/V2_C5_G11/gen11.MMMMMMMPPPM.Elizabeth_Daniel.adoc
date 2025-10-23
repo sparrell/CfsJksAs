@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 8 JAN 1608
+
 * Birthplace: England, UK
+
 * Death: AFT 1665
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 56-57
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPPPM.Elizabeth_Daniel.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0740[Dev-web]
-* https://localhost:4000/person?p=p0740[Dev-local]
+* http://localhost:4000/person?p=p0740[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0740[Adoc-web]
-* https://localhost:4000/adoc?p=p0740[Adoc-local]
+* adoc?p=p0740[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

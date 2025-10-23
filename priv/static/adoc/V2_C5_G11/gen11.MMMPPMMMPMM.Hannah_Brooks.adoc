@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1628
+
 * Birthplace: England, UK
+
 * Death: 14 FEB 1658
+
 * Deathplace: Concord, Middlesex, Massachusetts, USA
+
 * Age at Death: About 29-30
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMPMM.Hannah_Brooks.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0917[Dev-web]
-* https://localhost:4000/person?p=p0917[Dev-local]
+* http://localhost:4000/person?p=p0917[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0917[Adoc-web]
-* https://localhost:4000/adoc?p=p0917[Adoc-local]
+* adoc?p=p0917[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

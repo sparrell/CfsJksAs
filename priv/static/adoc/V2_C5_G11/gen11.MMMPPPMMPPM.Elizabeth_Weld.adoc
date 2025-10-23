@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: BEF 9 MAY 1625
+
 * Birthplace: Sudbury, Suffolk, England, UK
+
 * Death: 6 OCT 1646
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 21
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPM.Elizabeth_Weld.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0965[Dev-web]
-* https://localhost:4000/person?p=p0965[Dev-local]
+* http://localhost:4000/person?p=p0965[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0965[Adoc-web]
-* https://localhost:4000/adoc?p=p0965[Adoc-local]
+* adoc?p=p0965[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -80,3 +86,4 @@ event:  938
 
 
 == Sources
+

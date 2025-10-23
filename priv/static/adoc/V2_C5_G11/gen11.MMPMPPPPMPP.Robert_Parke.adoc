@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 3 JUN 1580
+
 * Birthplace: Poslingford, Suffolk, England, UK
+
 * Death: 4 FEB 1665
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 84
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPMPP.Robert_Parke.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0356[Dev-web]
-* https://localhost:4000/person?p=p0356[Dev-local]
+* http://localhost:4000/person?p=p0356[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0356[Adoc-web]
-* https://localhost:4000/adoc?p=p0356[Adoc-local]
+* adoc?p=p0356[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Robert_Parke_%281%29[WeRelate]
@@ -188,3 +194,4 @@ event:
 
 
 == Sources
+

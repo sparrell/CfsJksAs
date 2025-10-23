@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1588
+
 * Birthplace: England, UK
+
 * Death: 1 APR 1688
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: About 99-100
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPMP.John_Beal.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0202[Dev-web]
-* https://localhost:4000/person?p=p0202[Dev-local]
+* http://localhost:4000/person?p=p0202[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0202[Adoc-web]
-* https://localhost:4000/adoc?p=p0202[Adoc-local]
+* adoc?p=p0202[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Beal_%281%29[WeRelate]
@@ -66,3 +72,4 @@ event:  Shoemaker
 
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1605
+
 * Birthplace: Felsted, Essex, England, UK
+
 * Death: 1633
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 27-28
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMPP.Valentine_Prentice.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0368[Dev-web]
-* https://localhost:4000/person?p=p0368[Dev-local]
+* http://localhost:4000/person?p=p0368[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0368[Adoc-web]
-* https://localhost:4000/adoc?p=p0368[Adoc-local]
+* adoc?p=p0368[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -83,3 +89,4 @@ event:
 
 
 == Sources
+

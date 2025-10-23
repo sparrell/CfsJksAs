@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: AUG 1714
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 
 
 == Ship
@@ -26,9 +30,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMMPM.Hannah_Unknown062.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0566[Dev-web]
-* https://localhost:4000/person?p=p0566[Dev-local]
+* http://localhost:4000/person?p=p0566[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0566[Adoc-web]
-* https://localhost:4000/adoc?p=p0566[Adoc-local]
+* adoc?p=p0566[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -67,3 +71,4 @@ Narrative TBD
 == Other
 
 == Sources
+

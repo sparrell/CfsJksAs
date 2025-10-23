@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: ABT 1638
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -20,9 +23,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPPM.Audrey_Unknown014.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0862[Dev-web]
-* https://localhost:4000/person?p=p0862[Dev-local]
+* http://localhost:4000/person?p=p0862[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0862[Adoc-web]
-* https://localhost:4000/adoc?p=p0862[Adoc-local]
+* adoc?p=p0862[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -56,3 +59,4 @@ event:  845
 
 
 == Sources
+

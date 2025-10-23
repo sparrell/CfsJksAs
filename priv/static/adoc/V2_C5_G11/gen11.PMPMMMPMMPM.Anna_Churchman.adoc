@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1617
+
 * Birthplace: Huntington, Suffolk, England, UK
+
 * Death: 1672
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: 54-55
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMMPM.Anna_Churchman.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0996[Dev-web]
-* https://localhost:4000/person?p=p0996[Dev-local]
+* http://localhost:4000/person?p=p0996[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0996[Adoc-web]
-* https://localhost:4000/adoc?p=p0996[Adoc-local]
+* adoc?p=p0996[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Churchman_%281%29[WeRelate]
@@ -55,3 +61,4 @@ Narrative TBD
 == Other
 
 == Sources
+

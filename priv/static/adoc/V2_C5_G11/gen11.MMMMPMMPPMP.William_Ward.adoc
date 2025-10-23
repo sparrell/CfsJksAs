@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1632
+
 * Death: 1690
+
 * Deathplace: Middletown, Middlesex, Connecticut, USA
+
 * Age at Death: 57-58
+
 
 
 == Family
@@ -22,9 +27,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPMP.William_Ward.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0624[Dev-web]
-* https://localhost:4000/person?p=p0624[Dev-local]
+* http://localhost:4000/person?p=p0624[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0624[Adoc-web]
-* https://localhost:4000/adoc?p=p0624[Adoc-local]
+* adoc?p=p0624[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -72,3 +77,4 @@ event:  626
 
 
 == Sources
+

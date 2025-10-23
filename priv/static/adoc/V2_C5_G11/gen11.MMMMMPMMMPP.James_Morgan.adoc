@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1607
+
 * Birthplace: LLandaff, Glamorgan, Wales, UK
+
 * Death: 5 APR 1704
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: About 96-97
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMMMPP.James_Morgan.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0478[Dev-web]
-* https://localhost:4000/person?p=p0478[Dev-local]
+* http://localhost:4000/person?p=p0478[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0478[Adoc-web]
-* https://localhost:4000/adoc?p=p0478[Adoc-local]
+* adoc?p=p0478[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Morgan_%2856%29[WeRelate]
@@ -241,3 +247,4 @@ notes: !SOURCE: "James Morgan and His Descendants" 1607-1869, by Nathaniel Morga
 
 
 == Sources
+

@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: Wales, UK
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -26,9 +29,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMMM.Mary_Hewes.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0361[Dev-web]
-* https://localhost:4000/person?p=p0361[Dev-local]
+* http://localhost:4000/person?p=p0361[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0361[Adoc-web]
-* https://localhost:4000/adoc?p=p0361[Adoc-local]
+* adoc?p=p0361[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Hewes_%286%29[WeRelate]
@@ -53,3 +56,4 @@ Narrative TBD
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1607
+
 * Birthplace: Minwick, Lancashire, England, UK
+
 * Death: 17 SEP 1661
+
 * Deathplace: Dorchester, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 53-54
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMPMPMP.Humphrey_Atherton.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0320[Dev-web]
-* https://localhost:4000/person?p=p0320[Dev-local]
+* http://localhost:4000/person?p=p0320[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0320[Adoc-web]
-* https://localhost:4000/adoc?p=p0320[Adoc-local]
+* adoc?p=p0320[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -116,4 +122,6 @@ immigration: Arr. Boston in the ship "James"
 
 notes: <p>He early showed a decided taste for military affairs, and soon became amember of the Ancient and Honorable Artillery Company, and was its captain from 1650 to 1658.  In 1644, he organized the first train-band in Dorchester. Later on he commanded the Suffolk regiment with the title of Major-General, and was the chief military officer in New England.  Formany years he served as selectman and town treasurer, and in 1638 and 1641, was Deputy to the General Court. <p></p> <p>Uncas, the Mohegan Sachem, after 1637 claimed vast territory in the vicinity of Norwich CT as a result of his assistance to the English in the Pequot War. Major General Humphrey Atherton was sent there by the United Colonies with 40 men to protect Uncas in his person and property. ThereMantinomo, Sachem of the Narragansett Indians, was forced to sign a treaty with the United Colonies and to pay 2000 fathoms of white wampum damages and to leave hostages (children) with the United Colonies. When the damages claimed were not paid, Atherton with twenty men marched to the wigwam of Pessacus, the Narragansett Sachem, and seizing him by the hair of the head drew him from the midst of his attendants, declaring that if they should make the least resistance he would dispatch him in an instant. Therupon Pessacus was so alarmed that he paid all his damages.Atherton's demands for large sums of wampum appeared to have led to the organization of the so-called "Atherton Company".  On 11 June and4 July1659, he and his "Partners" in the Atherton Company acquired from theIndian sachems large grants of land, situated west of Narragansett Bay, and these grants were confirmed 14 June 1660. <p></p> <p>In 1645 the Commissioners of the United Colonies appointed a Council ofWar, which was composed of Captain Standish of Plymouth, Mason of Connecticut, and Leverett and Atherton of Massachusetts.</p> <p></p> <p>On 16 September 1661, Atherton was returning from a military review on Boston Common when his horse stumbled over a cow and he was fatally injured.</p> <p></p> <p>Johnson gives him good character; but Hubbard excites our suspicion that everybody did not value him so highly, when he remarks that by some the manner of his death was noted as a judgement.</p> <p></p>
 
+
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1 MAY 1637
+
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Death: 1708
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 70-71
+
 
 
 == Family
@@ -25,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0027[Dev-web]
-* https://localhost:4000/person?p=p0027[Dev-local]
+* http://localhost:4000/person?p=p0027[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0027[Adoc-web]
-* https://localhost:4000/adoc?p=p0027[Adoc-local]
+* adoc?p=p0027[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Brewster_%2811%29[WeRelate]
@@ -94,3 +100,4 @@ Narrative TBD
 == Other
 
 == Sources
+

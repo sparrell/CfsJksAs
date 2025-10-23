@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Weymouth, Norfolk, Massachusetts, USA
+
 * Death: 15 JUL 1677
+
 * Deathplace: Stratford, Fairfield, Connecticut, USA
+
 
 
 == Family
@@ -23,9 +27,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMP.John_Jenner.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0702[Dev-web]
-* https://localhost:4000/person?p=p0702[Dev-local]
+* http://localhost:4000/person?p=p0702[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0702[Adoc-web]
-* https://localhost:4000/adoc?p=p0702[Adoc-local]
+* adoc?p=p0702[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -90,3 +94,4 @@ event:
 
 
 == Sources
+

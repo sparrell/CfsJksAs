@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1611
+
 * Birthplace: Leyden, South Holland, Netherlands
+
 * Death: BEF 31 JAN 1651
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 39-40
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPP.Love_Brewster.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0595[Dev-web]
-* https://localhost:4000/person?p=p0595[Dev-local]
+* http://localhost:4000/person?p=p0595[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0595[Adoc-web]
-* https://localhost:4000/adoc?p=p0595[Adoc-local]
+* adoc?p=p0595[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Love_Brewster_%281%29[WeRelate]
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

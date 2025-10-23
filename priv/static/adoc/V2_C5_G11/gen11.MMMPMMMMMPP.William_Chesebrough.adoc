@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: JUN 1594
+
 * Birthplace: Boston, Lincolnshire, England, UK
+
 * Death: 9 JUN 1667
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 72-73
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMPP.William_Chesebrough.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0962[Dev-web]
-* https://localhost:4000/person?p=p0962[Dev-local]
+* http://localhost:4000/person?p=p0962[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0962[Adoc-web]
-* https://localhost:4000/adoc?p=p0962[Adoc-local]
+* adoc?p=p0962[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Chesebrough_%281%29[WeRelate]
@@ -229,6 +235,9 @@ event:
 ----
 
 notes: William Cheeseborough was one of those men of substance who came to NewEngland to live life as they wished, and not to become a part of the Puritan hegemony. After a relatively peaceful few years in Boston and Braintree, he removed to Rehobeth where he was soon in trouble with the Plymouth authorities. In May 1646 Plymouth Court ordered that the constable "arrest Will[ia}m cheesborrow" for his part in "an affray made upon Ussamequine and some of his people"; "Wm. Cheeseborrow of Rehoboth, blacksmith" had to post 20 pounds bond. <p>On 7 Nov. 1649 Connecticut General Court "ordered that a warrent shall issue forth to the Constable of Pequot (new London) to repair forthwith to Chessbrooke of Long Island, and to let him understand that the government of Connecticutt doth dislike and distaste the way he is and trade he doth among the Indians." <p>A letter to John Winthrop, jr. stated specifically that "Chesbrok is accused of mending guns".</p>
+
 occupation: Blacksmith
 
+
 == Sources
+

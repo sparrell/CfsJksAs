@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1603
+
 * Birthplace: Swanton Morley, Norfolk, England, UK
+
 * Death: BEF 5 MAR 1684
+
 * Deathplace: Taunton, Bristol, Massachusetts, USA
+
 * Age at Death: About 80-81
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPMPP.Thomas_Lincoln.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0548[Dev-web]
-* https://localhost:4000/person?p=p0548[Dev-local]
+* http://localhost:4000/person?p=p0548[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0548[Adoc-web]
-* https://localhost:4000/adoc?p=p0548[Adoc-local]
+* adoc?p=p0548[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Lincoln_%2841%29[WeRelate]
@@ -69,4 +75,6 @@ event:
 
 notes: When Thomas lived in Hingham MA, he was known as "Thomas the miller " to distinguish him from the two other Thomas Lincoln's in town. <p>A number of Lincolns came to Hingham MA from the area of Hingham, England about the same time including Samuel Lincoln who was a miller and the</p> <p>ancestor of President Abraham Lincoln. They all appear to have been related, but  "Thomas the weaver" was Samuel's brother, so "Thomas the miller" may have been a cousin.</p> <p></p> <p>Thomas left Hingham to build and operated the mill at Taunton in which the three commissioners from Plymouth met with King Phillip in 1675 to obtain explanations for his hostility toward the colonists.  Negotiations were  unsuccessful and war followed. <p></p>
 
+
 == Sources
+

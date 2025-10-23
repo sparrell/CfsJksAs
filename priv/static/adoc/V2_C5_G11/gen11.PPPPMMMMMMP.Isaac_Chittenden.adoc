@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1625
+
 * Birthplace: Hawkhurst, Kent, England, UK
+
 * Death: 20 MAY 1676
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death note: King Phillip's War (see notes)
+
 * Age at Death: About 50-51
+
 
 
 == Ship
@@ -31,9 +38,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0221[Dev-web]
-* https://localhost:4000/person?p=p0221[Dev-local]
+* http://localhost:4000/person?p=p0221[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0221[Adoc-web]
-* https://localhost:4000/adoc?p=p0221[Adoc-local]
+* adoc?p=p0221[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Isaac_Chittenden_%281%29[WeRelate]
@@ -79,4 +86,6 @@ emigration:  Arr. Boston on ship Increase with parents.
 
 notes: He was killed by the indian war party that raided Scituate in May 1676
 
+
 == Sources
+

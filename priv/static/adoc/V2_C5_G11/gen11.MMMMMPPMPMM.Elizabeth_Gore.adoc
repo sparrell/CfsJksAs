@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1627
+
 * Birthplace: London, England, UK
+
 * Death: AFT 1704
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 * Age at Death: About 76-77
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPPMPMM.Elizabeth_Gore.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0516[Dev-web]
-* https://localhost:4000/person?p=p0516[Dev-local]
+* http://localhost:4000/person?p=p0516[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0516[Adoc-web]
-* https://localhost:4000/adoc?p=p0516[Adoc-local]
+* adoc?p=p0516[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Gore_%2818%29[WeRelate]
@@ -71,3 +77,4 @@ Narrative TBD
 == Other
 
 == Sources
+

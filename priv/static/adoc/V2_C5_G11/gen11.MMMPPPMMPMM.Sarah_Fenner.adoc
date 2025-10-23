@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 26 NOV 1615
+
 * Birthplace: Horley, Surrey, England, UK
+
 * Death: 25 MAY 1676
+
 * Deathplace: Old Saybrook, Middlesex, Connecticut, USA
+
 * Age at Death: 60
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPMM.Sarah_Fenner.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0890[Dev-web]
-* https://localhost:4000/person?p=p0890[Dev-local]
+* http://localhost:4000/person?p=p0890[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0890[Adoc-web]
-* https://localhost:4000/adoc?p=p0890[Adoc-local]
+* adoc?p=p0890[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

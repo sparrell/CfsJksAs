@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1648
+
 * Birthplace: Lynn, Essex, Massachusetts, USA
+
 * Death: 5 AUG 1672
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 23-24
+
 
 
 == Family
@@ -25,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0417[Dev-web]
-* https://localhost:4000/person?p=p0417[Dev-local]
+* http://localhost:4000/person?p=p0417[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0417[Adoc-web]
-* https://localhost:4000/adoc?p=p0417[Adoc-local]
+* adoc?p=p0417[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Wheeler_%2845%29[WeRelate]
@@ -75,3 +81,4 @@ event:  437
 
 
 == Sources
+

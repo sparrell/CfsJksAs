@@ -7,17 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 4 JUL 1873
+
 * Birthplace: Worcester, Worcester, Massachusetts, USA
+
 * Death: 14 NOV 1961
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
 ----
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
 ----
 
 * Age at Death: 88
+
 * Death Cause: arteriosclerosis leading to cerebral thrombosis
+
 
 
 == Family
@@ -31,9 +38,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0922[Dev-web]
-* https://localhost:4000/person?p=p0922[Dev-local]
+* http://localhost:4000/person?p=p0922[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0922[Adoc-web]
-* https://localhost:4000/adoc?p=p0922[Adoc-local]
+* adoc?p=p0922[Adoc-local]
 * https://www.geni.com/people/Charles-Sparrell/6000000019835016249[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001183/charles-herbert-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Sparrell_%281%29[WeRelate]
@@ -60,6 +67,7 @@ event:  arteriosclerosis leading to cerebral thrombosis
 ----
 
 notes: <p><p>The following written by Charles F Sparrell:</p></p><p><p>&nbsp;</p></p><p>Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from "Hinmans Business College" in Worcester. That is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Brothers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purchases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces without ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norcross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the depression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell ("Vinnie") had a prolonged bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my father was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.</p>
+
 occupation: Paymaster - Const. Company
 ----
 2 DATE 1910

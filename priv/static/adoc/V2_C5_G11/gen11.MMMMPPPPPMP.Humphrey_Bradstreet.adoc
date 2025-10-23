@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1594
+
 * Birthplace: Capel, Suffolk, England, UK
+
 * Death: BEF 25 SEP 1655
+
 * Deathplace: Rowley, Essex, Massachusetts, USA
+
 * Age at Death: About 60-61
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPMP.Humphrey_Bradstreet.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0633[Dev-web]
-* https://localhost:4000/person?p=p0633[Dev-local]
+* http://localhost:4000/person?p=p0633[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0633[Adoc-web]
-* https://localhost:4000/adoc?p=p0633[Adoc-local]
+* adoc?p=p0633[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Humphrey_Bradstreet_%281%29[WeRelate]
@@ -73,6 +79,7 @@ emigration:  Sailed on Elizabeth from Ipswich England
 2 AGE About 39-40
 ----
  See Notes
+
 event:  Deputy to  Mass. General Court
 ----
 2 TYPE _ELEC
@@ -82,4 +89,6 @@ event:  Deputy to  Mass. General Court
 
 notes: Sailed from Ipswich Essex England 30 April 1636 on "Elizabeth" after taking oath of allegiance at Custom House. Accompanied by His wife Bridget(age30) and children John(age 3), Martha(2) and Mary(1)
 
+
 == Sources
+

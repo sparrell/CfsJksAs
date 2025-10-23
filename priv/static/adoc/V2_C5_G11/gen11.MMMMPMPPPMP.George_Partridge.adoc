@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1617
+
 * Birthplace: England, UK
+
 * Death: ABT 1695
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 77-78
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPMP.George_Partridge.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0402[Dev-web]
-* https://localhost:4000/person?p=p0402[Dev-local]
+* http://localhost:4000/person?p=p0402[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0402[Adoc-web]
-* https://localhost:4000/adoc?p=p0402[Adoc-local]
+* adoc?p=p0402[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Partridge_%283%29[WeRelate]
@@ -78,3 +84,4 @@ event:  423
 
 
 == Sources
+

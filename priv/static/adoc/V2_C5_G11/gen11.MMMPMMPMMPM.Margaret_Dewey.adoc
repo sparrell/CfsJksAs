@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1574
+
 * Birthplace: Wymondham, Norfolk, England, UK
+
 * Death: BEF SEP 1633
+
 * Age at Death: About 58-59
+
 
 
 == Ship
@@ -27,9 +32,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMPM.Margaret_Dewey.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0601[Dev-web]
-* https://localhost:4000/person?p=p0601[Dev-local]
+* http://localhost:4000/person?p=p0601[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0601[Adoc-web]
-* https://localhost:4000/adoc?p=p0601[Adoc-local]
+* adoc?p=p0601[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Dewey_%282%29[WeRelate]
@@ -128,3 +133,4 @@ Narrative TBD
 == Other
 
 == Sources
+

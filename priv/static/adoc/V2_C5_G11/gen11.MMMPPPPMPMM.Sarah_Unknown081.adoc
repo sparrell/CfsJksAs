@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1605
+
 * Birthplace: England, UK
+
 * Death: 25 JUL 1693
+
 * Deathplace: Dorchester, Boston, Massachusetts, USA
+
 * Age at Death: 87-88
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPMM.Sarah_Unknown081.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0869[Dev-web]
-* https://localhost:4000/person?p=p0869[Dev-local]
+* http://localhost:4000/person?p=p0869[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0869[Adoc-web]
-* https://localhost:4000/adoc?p=p0869[Adoc-local]
+* adoc?p=p0869[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Unknown_%28492%29[WeRelate]
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

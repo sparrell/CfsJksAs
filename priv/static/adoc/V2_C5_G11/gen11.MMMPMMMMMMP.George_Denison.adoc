@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 10 DEC 1620
+
 * Birthplace: Bishop's Stortford, Hertfordshire, England, UK
+
 * Death: 23 OCT 1694
+
 * Deathplace: Hartford, Hartford, Connecticut, USA
+
 * Age at Death: 73
+
 
 
 == Ship
@@ -30,9 +36,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMP.George_Denison.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1018[Dev-web]
-* https://localhost:4000/person?p=p1018[Dev-local]
+* http://localhost:4000/person?p=p1018[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p1018[Adoc-web]
-* https://localhost:4000/adoc?p=p1018[Adoc-local]
+* adoc?p=p1018[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Denison_%281%29[WeRelate]
@@ -91,4 +97,6 @@ event:
 
 notes: In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  returned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the community, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thorn in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>
 
+
 == Sources
+

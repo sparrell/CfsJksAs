@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1621
+
 * Birthplace: Leyden, South Holland, Netherlands
+
 * Death: 6 OCT 1708
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 86-87
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPMM.Sarah_Tracy.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0403[Dev-web]
-* https://localhost:4000/person?p=p0403[Dev-local]
+* http://localhost:4000/person?p=p0403[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0403[Adoc-web]
-* https://localhost:4000/adoc?p=p0403[Adoc-local]
+* adoc?p=p0403[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Tracy_%281%29[WeRelate]
@@ -69,3 +75,4 @@ Narrative TBD
 == Other
 
 == Sources
+

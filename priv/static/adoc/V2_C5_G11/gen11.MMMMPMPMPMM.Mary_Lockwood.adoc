@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1628
+
 * Birthplace: England, UK
+
 * Death: OCT 1700
+
 * Age at Death: About 71-72
+
 
 
 == Family
@@ -24,9 +29,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPMM.Mary_Lockwood.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0576[Dev-web]
-* https://localhost:4000/person?p=p0576[Dev-local]
+* http://localhost:4000/person?p=p0576[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0576[Adoc-web]
-* https://localhost:4000/adoc?p=p0576[Adoc-local]
+* adoc?p=p0576[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -65,3 +70,4 @@ Narrative TBD
 == Other
 
 == Sources
+

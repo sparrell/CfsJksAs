@@ -141,8 +141,8 @@ defmodule Cfsjksas.Tools.Markdown do
 		<> Cfsjksas.Tools.Link.geni(person_a)
 		<> Cfsjksas.Tools.Link.myheritage(person_a)
 		<> Cfsjksas.Tools.Link.werelate(person_a)
-		<> Cfsjksas.Tools.Link.wikipedia(person_a)
 		<> Cfsjksas.Tools.Link.wikitree(person_a)
+		<> Cfsjksas.Tools.Link.other_links(person_a)
 	end
 
 	def make_family(person_r, gen) do

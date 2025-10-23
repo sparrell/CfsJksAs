@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1539
+
 * Birthplace: Awiscombe Devonshire England
+
 * Christening: 
 ----
 2 DATE 25 OCT 1539
@@ -17,6 +20,7 @@ Narrative TBD
 ----
 
 * Deathplace: Massachusetts
+
 
 
 == Ship
@@ -33,9 +37,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPPPMMP.John_James_Searle.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1246[Dev-web]
-* https://localhost:4000/person?p=p1246[Dev-local]
+* http://localhost:4000/person?p=p1246[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p1246[Adoc-web]
-* https://localhost:4000/adoc?p=p1246[Adoc-local]
+* adoc?p=p1246[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
@@ -68,4 +72,5 @@ Narrative TBD
 3 DATE 13 JAN 2019
 3 TEXT Added via a Person Discovery
 ----
+
 

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1593
+
 * Birthplace: Little Warley, Essex, England, UK
+
 * Death: 1 AUG 1662
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 68-69
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMPPPPMP.William_Colborn.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0179[Dev-web]
-* https://localhost:4000/person?p=p0179[Dev-local]
+* http://localhost:4000/person?p=p0179[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0179[Adoc-web]
-* https://localhost:4000/adoc?p=p0179[Adoc-local]
+* adoc?p=p0179[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Colborn_%281%29[WeRelate]
@@ -79,6 +85,9 @@ event:  Elder of First Church
 ----
 
 notes: - One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. <p></p> <p>- Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark).</p> <p></p> <p>- Wealthy and prominent leader of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquittal. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.
+
 occupation: Tailor
 
+
 == Sources
+

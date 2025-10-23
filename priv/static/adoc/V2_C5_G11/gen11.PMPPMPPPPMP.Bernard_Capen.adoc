@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1562
+
 * Birthplace: Dorchester, Dorset, England, UK
+
 * Death: 8 NOV 1638
+
 * Deathplace: Dorchester, Boston, Massachusetts, USA
+
 * Age at Death: About 75-76
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPPPMP.Bernard_Capen.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0018[Dev-web]
-* https://localhost:4000/person?p=p0018[Dev-local]
+* http://localhost:4000/person?p=p0018[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0018[Adoc-web]
-* https://localhost:4000/adoc?p=p0018[Adoc-local]
+* adoc?p=p0018[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Bernard_Capen_%281%29[WeRelate]
@@ -68,4 +74,6 @@ immigration: Dorchester England to Dorchester MA
 
 occupation: Shoemaker
 
+
 == Sources
+

@@ -9147,7 +9147,7 @@
       brickwall: true,
       duplicate: :main,
       id: :p0436,
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :ne,
       relation: ["P", "P", "P", "M", "M", "P", "P", "M", "P", "P", "M"],
       sector: {11, 201},

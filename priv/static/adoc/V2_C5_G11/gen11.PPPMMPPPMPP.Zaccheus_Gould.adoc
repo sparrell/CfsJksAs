@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1589
+
 * Birthplace: Bovingdon, England
+
 * Death: 30 MAR 1668
+
 * Deathplace: Topsfield, Essex County, Massachusetts, USA
+
 * Age at Death: About 78-79
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPPMPP.Zaccheus_Gould.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p1179[Dev-web]
-* https://localhost:4000/person?p=p1179[Dev-local]
+* http://localhost:4000/person?p=p1179[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p1179[Adoc-web]
-* https://localhost:4000/adoc?p=p1179[Adoc-local]
+* adoc?p=p1179[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Zaccheus_Gould_%283%29[WeRelate]
@@ -55,3 +61,4 @@ Narrative TBD
 == Other
 
 == Sources
+

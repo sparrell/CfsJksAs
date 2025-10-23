@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1606
+
 * Birthplace: County of Suffolk, England, UK
+
 * Death: 1678
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: About 71-72
+
 
 
 == Ship
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPP.Thomas_Howlett.adoc[Book Link]
 * https://cfsjksas.gigalixirapp.com/person?p=p0439[Dev-web]
-* https://localhost:4000/person?p=p0439[Dev-local]
+* http://localhost:4000/person?p=p0439[Dev-local]
 * https://cfsjksas.gigalixirapp.com/adoc?p=p0439[Adoc-web]
-* https://localhost:4000/adoc?p=p0439[Adoc-local]
+* adoc?p=p0439[Adoc-local]
 * Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Howlett_%281%29[WeRelate]
@@ -96,6 +102,7 @@ event:  Deacon of the Ipswich Church
 ----
 
 notes: Apparently trained as a surveyor, for he was in great demand in laying out lands and determining boundaries between towns
+
 residence: 
 ----
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%281%29:
@@ -109,3 +116,4 @@ will: Signed will with mark
 
 
 == Sources
+
