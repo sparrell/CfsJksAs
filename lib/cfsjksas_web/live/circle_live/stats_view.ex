@@ -28,11 +28,8 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     # get list of ancestors per generation
     gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Ancestors.GetLineages.person_list(gen))}
 
-    # get stats on completion of goal
-    {_relations, ancestors, _processed_a_id_list} = Cfsjksas.Tools.Transform.dup_lineage()
-
     %{ship: ship, no_ship: no_ship, brickwall: brickwall} =
-      Cfsjksas.Ancestors.LineEnd.classify(ancestors)
+      Cfsjksas.Ancestors.Person.ring_percents()
     ship_percent = to_percent_string(ship)
     no_ship_percent = to_percent_string(no_ship)
     brickwall_percent = to_percent_string(brickwall)

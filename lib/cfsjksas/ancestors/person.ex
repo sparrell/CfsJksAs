@@ -223,7 +223,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
 
   def categorize_person(id) do
-    # dtermine if person is:
+    # determine if person is:
     ## brickwall
     ## immigrant with known ship
     ## immigrant without ship
@@ -381,6 +381,106 @@ IEx.pry()
         # mo match, recurse to next id
         relation_from_id(id, rest_ancestor_ids)
     end
+  end
+
+  @doc """
+  determine 'completeness' of outer ring
+  ie in percent, how much ship/no_ship/brickwall
+  """
+  def ring_percents() do
+    # determine status of each ancestor
+    category_lists = Cfsjksas.Ancestors.Person.categorize()
+    has_ships = elem(category_lists, 0)
+    wo_ships = elem(category_lists, 1)
+    brickwalls_both = elem(category_lists, 2)
+    brickwalls_mother = elem(category_lists, 3)
+    brickwalls_father = elem(category_lists, 4)
+
+    # create 'ring' representing 'outer edge'
+    num_sectors = 2**14
+    sectors = for i <- 0..(num_sectors-1), into: %{}, do: {i, nil}
+
+
+    # mark ring for each termination
+    ## noting 'inner' generations respond to multiple 'outer sectors'
+    ## and worry about overlaps and gaps
+    sectors
+    |> mark_sectors(brickwalls_both, :brickwall_both)
+    |> mark_sectors(brickwalls_father, :brickwall_father)
+    |> mark_sectors(brickwalls_mother, :brickwall_mother)
+    |> mark_sectors(wo_ships, :wo_ships)
+    |> mark_sectors(has_ships, :ships)
+    |> check_missing()
+    |> summarize()
+  end
+
+  def mark_sectors(sectors, [], _termination) do
+    #done
+    sectors
+  end
+  def mark_sectors(sectors, [id_a | rest_id_a], termination) do
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
+    relations = person_a.relation_list
+
+    sectors
+    |> mark_sectors(id_a, rest_id_a, termination, relations)
+  end
+  def mark_sectors(sectors, _id_a, rest_id_a, termination, []) do
+    # done with relation list
+    sectors
+    |> mark_sectors(rest_id_a, termination)
+  end
+  def mark_sectors(sectors, id_a, rest_id_a, termination, [id_r | rest_relations]) do
+    person_r = Cfsjksas.Ancestors.AgentStores.get_person_r(id_r)
+    {orig_gen, _quadrant, orig_sector} = person_r.id_m
+    {gen, sector, value} = case termination do
+      :brickwall_both ->
+        {orig_gen, orig_sector, :brickwall}
+      :brickwall_father ->
+        {orig_gen + 1, orig_sector * 2, :brickwall}
+      :brickwall_mother ->
+        {orig_gen + 1, (orig_sector * 2) + 1, :brickwall}
+      :wo_ships ->
+        {orig_gen, orig_sector, :no_ship}
+      :ships ->
+        {orig_gen, orig_sector, :ship}
+    end
+    gen_dif = 14 - gen
+    # sectors in gen 14 corresponding to gen sector
+    beg_range = sector * (2 ** gen_dif)
+    end_range = ((sector + 1) * (2 ** gen_dif)) - 1
+
+    updates = Enum.into(beg_range..end_range, %{}, fn key -> {key, value} end)
+    Map.merge(sectors, updates)
+    |> mark_sectors(id_a, rest_id_a, termination, rest_relations)
+  end
+
+  def check_missing(sectors) do
+    # check all values of sectors are non-nil
+    nil_keys = sectors
+    |> Enum.filter(fn {_k, v} -> is_nil(v) end)
+    |> Enum.map(fn {k, _v} -> k end)
+    if nil_keys != [] do
+      IEx.pry()
+    end
+    sectors
+  end
+
+  def summarize(sectors) do
+
+    # Count occurrences of each value
+    counts = Enum.reduce(sectors, %{:no_ship => 0, :ship => 0, :brickwall => 0}, fn {_key, value}, acc ->
+      Map.update!(acc, value, &(&1 + 1))
+    end)
+
+    total = counts.ship + counts.no_ship + counts.brickwall
+
+    # return ratios
+    %{
+      ship: counts.ship / total,
+      no_ship: counts.no_ship / total,
+      brickwall: counts.brickwall / total,
+    }
   end
 
 

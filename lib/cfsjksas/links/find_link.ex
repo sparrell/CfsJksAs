@@ -51,8 +51,6 @@ defmodule Cfsjksas.Links.FindLink do
     case link_source do
       :werelate ->
         :ok = Cfsjksas.Links.Utils.print_werelate_counts()
-      :wikitree ->
-        :ok = Cfsjksas.Links.Utils.print_wikitree_counts()
     end
 
     # write temp file of this data

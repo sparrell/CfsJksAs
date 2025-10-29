@@ -61,7 +61,6 @@ Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
 
 * still has Cfsjksas.Circle routine which needs to be moved
 * make all agent_stores
-* expand the 14/13=>12 to 14/13/12=>11
 * make adoc pages displayed by dev website instead of map
   * have adoc, have html, direct works, links don't work
 * refactor the other graphs

@@ -16567,8 +16567,7 @@
 			rin: "MH:I1649",
 			sex: "M",
 			sources: [
-				"@S112@\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&\r\n4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a\r\n4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clar\r\n4 CONC k",
-				"@S112@\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&\r\n4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a\r\n4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clar\r\n4 CONC k",
+				"@S112@\r\n2 QUAY 4\r\n2 DATA\r\n3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&\r\n4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a\r\n4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan Clark,Martha Willard (born Clarke)Matthias Clar\r\n4 CONC k",
 			],
 			surname: "Clark (Clarke)",
 			title: nil,
@@ -72794,8 +72793,6 @@
 			emigration: [
 			],
 			event: [
-				" 166\n2 TYPE Reference Number",
-				" 166\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f608,
 			family_of_procreation: [
@@ -72811,6 +72808,9 @@
 			label: "gen6.PPPMMM.Betsy_Willard",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Betsy_Willard_%281%29",
+				other_links: %{
+					willard: "https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978",
+				},
 			},
 			married_name: nil,
 			mh_famc: "F723",
@@ -72891,6 +72891,9 @@
 			label: "gen9.PPPMMMPPP.Captain_Benjamin_Willard",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Benjamin_Willard_%281%29",
+				other_links: %{
+					willard: "https://willardfamilyassociation.org/2ndsite/g0/p67.htm#i1981",
+				},
 			},
 			married_name: nil,
 			mh_famc: "F731",
@@ -72978,6 +72981,9 @@
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001643/lieut-issac-willard",
 				werelate: "https://www.werelate.org/wiki/Person:Isaac_Willard_%281%29",
 				wikitree: "https://www.wikitree.com/wiki/Willard-554",
+				other_links: %{
+					willard: "https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978",
+				},
 			},
 			married_name: nil,
 			mh_famc: "F724",
@@ -73061,6 +73067,9 @@
 			label: "gen10.PPPMMMPPPP.Simon_Willard",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Simon_Willard_%284%29",
+				other_links: %{
+					willard: "https://willardfamilyassociation.org/2ndsite/g0/p36.htm#i1062",
+				},
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -73147,6 +73156,9 @@
 			label: "gen8.PPPMMMPP.Major_Joseph_Willard,_Sr.",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Joseph_WIllard_%281%29",
+				other_links: %{
+					willard: "https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978",
+				},
 			},
 			married_name: nil,
 			mh_famc: "F725",
