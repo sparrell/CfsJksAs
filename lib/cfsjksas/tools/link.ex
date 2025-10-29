@@ -54,32 +54,23 @@ defmodule Cfsjksas.Tools.Link do
   end
 
   def x_dev_web_link(id) do
-    "* "
-    <> "https://cfsjksas.gigalixirapp.com/person?p="
+    "https://cfsjksas.gigalixirapp.com/person?p="
 		<> to_string(id)
-    <> "[Dev-web]\n"
 	end
 
   def x_dev_local_link(id) do
-    "* "
-    <> "http://localhost:4000/person?p="
+    "http://localhost:4000/person?p="
 		<> to_string(id)
-    <> "[Dev-local]\n"
 	end
 
   def x_adoc_web_link(id) do
-    "* "
-    <> "https://cfsjksas.gigalixirapp.com/adoc?p="
+    "https://cfsjksas.gigalixirapp.com/adoc?p="
 		<> to_string(id)
-    <> "[Adoc-web]\n"
 	end
 
   def x_adoc_local_link(id) do
-    "* "
-#    <> "http://localhost:4000/adoc?p="
-    <> "adoc?p="
+    "http://localhost:4000/adoc?p="
 		<> to_string(id)
-    <> "[Adoc-local]\n"
 	end
 
   def werelate(person_p) do

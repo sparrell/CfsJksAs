@@ -43,13 +43,14 @@ defmodule CfsjksasWeb.CircleLive.PersonView do
     x_adoc_local_url = Cfsjksas.Tools.Link.x_adoc_local_link(person.id)
     x_dev_web_url = Cfsjksas.Tools.Link.x_dev_web_link(person.id)
     x_dev_local_url = Cfsjksas.Tools.Link.x_dev_local_link(person.id)
-    urls = [{:book, book_url},
-            {:x_adoc_web_url, x_adoc_web_url},
-            {:x_adoc_local_url, x_adoc_local_url},
-            {:x_dev_web_url, x_dev_web_url},
-            {:x_dev_local_url, x_dev_local_url},
-            ] ++ pre_urls
-
+    urls = [{:book, book_url}]
+            ++ pre_urls
+            ++ [
+              {:x_adoc_web_url, x_adoc_web_url},
+              {:x_adoc_local_url, x_adoc_local_url},
+              {:x_dev_web_url, x_dev_web_url},
+              {:x_dev_local_url, x_dev_local_url},
+            ]
     {:ok,
      socket
      |> assign(:person_of_interest, to_string(person_of_interest))
