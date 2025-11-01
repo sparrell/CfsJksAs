@@ -5988,11 +5988,11 @@ Ralph Stoddard (1666 - 1749)
 <clipPath id="sector_9_461_clip">
 <use href="#sector_9_461"/>
 </clipPath></defs>
-<use href="#sector_9_461" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="50%" clip-path="url(#sector_9_461_clip)"/>
+<use href="#sector_9_461" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="0%" clip-path="url(#sector_9_461_clip)"/>
 <path id="ray_g9_s461" d="M 23117,27505 L 25071,28899" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s461" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Mary Ames (1661 - 1727/8)
 </textPath>
 </text>
 <defs>
@@ -8743,6 +8743,30 @@ John Stoddard (1612 - 1676)
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s921" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Catherine Seabrook (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_922" d="M 26943 30235 A 15900 15900 0 0 1 26886 30314 L 25022 28967 A 13600 13600 0 0 0 25071 28899 L 26943 30235 " />
+<clipPath id="sector_10_922_clip">
+<use href="#sector_10_922"/>
+</clipPath></defs>
+<use href="#sector_10_922" stroke="blue" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_922_clip)"/>
+<path id="ray_g10_s922" d="M 25047,28933 L 26915,30275" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s922" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_923" d="M 27000 30155 A 15900 15900 0 0 1 26943 30235 L 25071 28899 A 13600 13600 0 0 0 25119 28831 L 27000 30155 " />
+<clipPath id="sector_10_923_clip">
+<use href="#sector_10_923"/>
+</clipPath></defs>
+<use href="#sector_10_923" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_923_clip)"/>
+<path id="ray_g10_s923" d="M 25095,28865 L 26971,30195" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s923" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14676,5 +14700,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-10-23 17:34:30.982335Z -->
+<!-- made new svg at 2025-10-30 19:06:29.413509Z -->
 </svg>

@@ -1161,6 +1161,89 @@
 			will: [
 			],
 		},
+		##############  Mary Ames
+		p9999: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "Aug 10 1661",
+			birth_note: nil,
+			birth_place: "Boston, Suffolk,  Mass",
+			birth_source: nil,
+			birth_year: "1661",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "Feb 3 1727/8",
+			death_note: nil,
+			death_place: nil,
+			death_source: nil,
+			death_year: "1727/8",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+				nil,
+			],
+
+			father: nil,
+			former_name: nil,
+			given_name: "Mary",
+			graduation: [
+			],
+			id: :p9999,
+			immigration: nil,
+			label: "gen9.MMMPPMMPM.Mary_Ames",
+			links: %{
+				geni: "https://www.geni.com/people/Mary-Stoddard/6000000008869054254",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500046/mary-ames-stoddard",
+				werelate: "https://www.werelate.org/wiki/Person:Mary_Ames_%2829%29",
+				wikitree: "https://www.wikitree.com/wiki/Ames-803",
+			},
+			married_name: "Stoddard",
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Mary /Ames/",
+			mother: nil,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["M", "M", "M", "P", "P", "M", "M", "P", "M"],
+				["P", "M", "M", "P", "P", "M", "M", "P", "M"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: "MH:I500046",
+			sex: "F",
+			sources: [
+			],
+			surname: "Ames",
+			title: nil,
+			uid: "6902B9F04A3A1050D0EE470C1765C6AA",
+			upd: nil,
+			will: [
+			],
+		},
 		##############  Esther Amos
 		p0467: %{
 			also_known_as: nil,
@@ -17949,7 +18032,9 @@
 			immigration: nil,
 			label: "gen10.MMMMPMMMPM.Lydia_Cook",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000724/lydia-cook-leonard",
 				werelate: "https://www.werelate.org/wiki/Person:Lydia_Cook_%2813%29",
+				wikitree: "https://www.wikitree.com/wiki/Cook-11027",
 			},
 			married_name: nil,
 			mh_famc: "F388",
@@ -19210,22 +19295,22 @@
 		p0396: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: nil,
+			birth_date: "circa 1672",
 			birth_note: nil,
-			birth_place: nil,
+			birth_place: "Groton, New London, Connecticut",
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "~1672",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "1720",
 			death_note: nil,
-			death_place: nil,
+			death_place: "Groton, New London, Connecticut",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1720",
 			description: nil,
 			education: [
 			],
@@ -19246,6 +19331,7 @@
 			immigration: nil,
 			label: "gen9.MMMPPMPPM.Hannah_Cromwell",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000651/hannah-cromwell-morgan",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -24860,6 +24946,7 @@
 			immigration: nil,
 			label: "gen11.MMMMPMPMMMP.Edmund_Freeman",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000894/edmund-freeman",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -39483,8 +39570,6 @@
 			emigration: [
 			],
 			event: [
-				" 807\r\n2 TYPE Reference Number",
-				" 815\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f397,
 			family_of_procreation: [
@@ -39499,6 +39584,7 @@
 			immigration: nil,
 			label: "gen10.MMMPPPPMMP.John_Lay",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001081/john-lay",
 				werelate: "https://www.werelate.org/wiki/Person:John_Lay_%282%29",
 			},
 			married_name: nil,
@@ -40215,8 +40301,6 @@
 			emigration: [
 			],
 			event: [
-				" 483\r\n2 TYPE Reference Number",
-				" 483\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f180,
 			family_of_procreation: [
@@ -40231,7 +40315,9 @@
 			immigration: nil,
 			label: "gen10.MMMMPMMMPP.Samuel_Leonard",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000723/samuel-leonard",
 				werelate: "https://www.werelate.org/wiki/Person:Samuel_Leonard_%2816%29",
+				wikitree: "https://www.wikitree.com/wiki/Leonard-703",
 			},
 			married_name: nil,
 			mh_famc: "F206",
@@ -45531,6 +45617,8 @@
 			immigration: nil,
 			label: "gen9.MMMPPMPPP.James_Morgan",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000650/james-morgan",
+				wikitree: "https://www.wikitree.com/wiki/Morgan-216",
 			},
 			married_name: nil,
 			mh_famc: "F94",
@@ -50701,7 +50789,9 @@
 			immigration: nil,
 			label: "gen8.MMMMPPMM.Mary_Powers",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001117/mary-powers-satterlee",
 				werelate: "https://www.werelate.org/wiki/Person:Mary_Powers_%2833%29",
+				wikitree: "https://www.wikitree.com/wiki/Powers-1437",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -52569,8 +52659,6 @@
 			emigration: [
 			],
 			event: [
-				" 83\r\n2 TYPE Reference Number",
-				" 83\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f450,
 			family_of_procreation: [
@@ -52585,7 +52673,9 @@
 			immigration: nil,
 			label: "gen8.MMMMPPMP.William_Satterlee",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001106/william-satterlee",
 				werelate: "https://www.werelate.org/wiki/Person:William_Satterly_%281%29",
+				wikitree: "https://www.wikitree.com/wiki/Satterlee-80",
 			},
 			married_name: nil,
 			mh_famc: "F486",
@@ -59001,6 +59091,8 @@
 			immigration: nil,
 			label: "gen8.MMMPPMMP.Ralph_Stoddard",
 			links: %{
+				geni: "https://www.geni.com/people/Ralph-Stoddard-Sr/6000000008868838094",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001159/ralph-stoddard",
 				werelate: "https://www.werelate.org/wiki/Person:Ralph_Stoddard_%281%29",
 			},
 			married_name: nil,
@@ -59011,7 +59103,7 @@
 			],
 			mh_id: "I1157",
 			mh_name: "Ralph /Stoddard/",
-			mother: nil,
+			mother: :p9999,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -69164,8 +69256,6 @@
 			emigration: [
 			],
 			event: [
-				" 626\n2 TYPE Reference Number",
-				" 626\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -69180,6 +69270,8 @@
 			immigration: nil,
 			label: "gen11.MMMMPMMPPMP.William_Ward",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000882/william-ward",
+				wikitree: "https://www.wikitree.com/wiki/Ward-14313",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -69210,6 +69302,10 @@
 			],
 			rin: "MH:I882",
 			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Ward",
