@@ -41618,7 +41618,7 @@
 			death_note: nil,
 			death_place: nil,
 			death_source: nil,
-			death_year: "<1690",
+			death_year: "bef 1690",
 			description: nil,
 			education: [
 			],
