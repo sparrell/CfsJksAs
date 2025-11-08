@@ -56,4 +56,3 @@ Application.start(:cfsjksas)
 
 gen=3
 Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
-

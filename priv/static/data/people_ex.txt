@@ -17811,7 +17811,9 @@
 			probate: nil,
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "M", "P", "P", "P", "P"],
+			#	["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
 				["P", "M", "M", "M", "M", "M", "M", "P", "P", "P", "P"],
+			#	["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -50753,10 +50755,10 @@
 		p0856: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: nil,
+			birth_date: "20 Aug 1721",
 			birth_note: nil,
-			birth_place: nil,
-			birth_source: nil,
+			birth_place: "Griswold CT",
+			birth_source: :wikitree,
 			birth_year: "?",
 			buried: nil,
 			census: [
@@ -50764,11 +50766,11 @@
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "1785",
 			death_note: nil,
 			death_place: nil,
 			death_source: nil,
-			death_year: "?",
+			death_year: "1785",
 			description: nil,
 			education: [
 			],
@@ -50801,7 +50803,7 @@
 			],
 			mh_id: "I1117",
 			mh_name: "Mary /Powers/",
-			mother: nil,
+			mother: :p9998,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,

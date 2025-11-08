@@ -45,6 +45,8 @@ Mary Pickett
 * husband John Pickett - add him and his ancestors
 
 * Rhode Island Genealogical Society https://rigensoc.org/cpage.php?pt=13
+* Willard Family Association
+* check out avery book https://archive.org/details/grotonaveryclan01aver/page/162/mode/2up
 
 --------------------------------------------
 

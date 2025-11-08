@@ -1,23 +1,23 @@
-		##############  First Middle Last
-		pXxxx: %{
+		##############  John Elderkin
+		p9991: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "xxx",
+			birth_date: "circa 1616",
 			birth_note: nil,
-			birth_place: nil, 
+			birth_place: "probably England",
 			birth_source: nil,
-			birth_year: "xxx",
+			birth_year: "1616",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "xxx",
+			death_date: "23 June 1687",
 			death_note: nil,
-			death_place: xxx or nil,
+			death_place: "Norwich, CT",
 			death_source: nil,
-			death_year: "xxx",
+			death_year: "1687",
 			description: nil,
 			education: [
 			],
@@ -28,22 +28,19 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :xxx lookup or nil,
+			father: nil,
 			former_name: nil,
-			given_name: "first middle",
+			given_name: "John",
 			graduation: [
 			],
-			id: :xxx_look_up_or_makeup,
+			id: :p9991,
 			immigration: nil,
-			label: "genXxxx.Pxxx.Namexxx",
+			label: "gen12.MMMMPPMMMMMP.John_Elderkin",
 			links: %{
-				geni: "xxx",
-				myheritage: "xxx",
-				werelate: "xxx",
-				wikitree: "xxx",
-                other_links: %{
-					wikipedia: "",
-				},
+				geni: "https://www.geni.com/people/John-Elderkin-III/6000000009896924544",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500054/john-elderkin",
+				werelate: "https://www.werelate.org/wiki/Person:John_Elderkin_%282%29",
+				wikitree: "https://www.wikitree.com/wiki/Elderkin-19",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -51,8 +48,8 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "xxx First /Surname/",
-			mother: :xxx lookup or nil,
+			mh_name: "John /Elderkin/",
+			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -65,20 +62,21 @@
 			],
 			probate: nil,
 			relation_list: [
-				["P", xxx],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "MxxxF",
-xxx			ship: %{
+			sex: "M",
+			ship: %{
 				name: nil,
 				year: nil,
 			},
 			sources: [
 			],
-			surname: "xxx",
+			surname: "Elderkin",
 			title: nil,
 			uid: nil,
 			upd: nil,

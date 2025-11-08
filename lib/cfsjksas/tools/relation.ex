@@ -198,17 +198,44 @@ defmodule Cfsjksas.Tools.Relation do
   """
   def mark_lineages(sector_lineages) do
     # initialize new marked_lineage
-    ## with gen zero already filled in as special case
+    # Gen 0,1,2 are special cases since
+    ## parent/child in same quadrant doesn't start
+    ## until parent is Gen 3 and child is Gen 2
     marked_lineages = sector_lineages
-    |> put_in([{0, :ne, 0}, :brickwall], false) # special case for gen0
+    |> put_in([{0, :ne, 0}, :brickwall], false)
     |> put_in([{0, :ne, 0}, :immigrant], :no)
     |> put_in([{0, :ne, 0}, :duplicate], :main)
+    |> put_in([{1, :ne, 0}, :brickwall], false)
+    |> put_in([{1, :ne, 0}, :immigrant], :no)
+    |> put_in([{1, :ne, 0}, :duplicate], :main)
+    |> put_in([{1, :se, 1}, :brickwall], false)
+    |> put_in([{1, :se, 1}, :immigrant], :no)
+    |> put_in([{1, :se, 1}, :duplicate], :main)
+    |> put_in([{2, :ne, 0}, :brickwall], false)
+    |> put_in([{2, :ne, 0}, :immigrant], :no)
+    |> put_in([{2, :ne, 0}, :duplicate], :main)
+    |> put_in([{2, :nw, 1}, :brickwall], false)
+    |> put_in([{2, :nw, 1}, :immigrant], :no)
+    |> put_in([{2, :nw, 1}, :duplicate], :main)
+    |> put_in([{2, :sw, 2}, :brickwall], false)
+    |> put_in([{2, :sw, 2}, :immigrant], :no)
+    |> put_in([{2, :sw, 2}, :duplicate], :main)
+    |> put_in([{2, :se, 3}, :brickwall], false)
+    |> put_in([{2, :se, 3}, :immigrant], :no)
+    |> put_in([{2, :se, 3}, :duplicate], :main)
 
     # initialize primaries
-    mains = [sector_lineages[{0, :ne, 0}].id]
+    mains = [sector_lineages[{0, :ne, 0}].id,
+            sector_lineages[{1, :ne, 0}].id,
+            sector_lineages[{1, :se, 1}].id,
+            sector_lineages[{2, :ne, 0}].id,
+            sector_lineages[{2, :nw, 1}].id,
+            sector_lineages[{2, :sw, 2}].id,
+            sector_lineages[{2, :se, 3}].id,
+            ]
 
     # generations to walk thru
-    gens = Enum.to_list(1..15)
+    gens = Enum.to_list(3..15)
 
     # iterate thru generations
     mark_lineages_by_gen({marked_lineages, mains}, gens)
@@ -477,12 +504,14 @@ defmodule Cfsjksas.Tools.Relation do
     child_gen = parent_gen - 1
     # child quadrant is parent's quadrant
     child_quad = person_l.quadrant
-    # child is parent's relation minus last value
-    #child_relattion = Enum.take(person_l.relation,length(person_l.relation)-1)
     # child's sector_num is parent's sector num divided by 2 (ignore remainder)
     child_sector_num = div(parent_sector_num, 2)
     # child's id
     child_id = {child_gen, child_quad, child_sector_num}
+    # look for data bugs
+    if marked[child_id] == nil do
+      IEx.pry()
+    end
     # child's duplicate status (fudge for first gens)
     case child_gen > 1 do
       true ->

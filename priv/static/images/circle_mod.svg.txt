@@ -5944,7 +5944,7 @@ James Morgan (1667 - 1748)
 <path id="ray_g9_s457" d="M 22787,27945 L 24670,29433" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s457" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Cromwell (? - ?)
+Hannah Cromwell (~1672 - 1720)
 </textPath>
 </text>
 <defs>
@@ -8898,7 +8898,7 @@ Mary Stock (? - ?)
 <path id="ray_g10_s938" d="M 25771,27812 L 27762,28964" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s938" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lewis (~1624 - <1690)
+John Lewis (~1624 - bef 1690)
 </textPath>
 </text>
 <defs>
@@ -12568,7 +12568,7 @@ Elizabeth Cooke (1640 - 1711)
 <clipPath id="sector_11_1970_clip">
 <use href="#sector_11_1970"/>
 </clipPath></defs>
-<use href="#sector_11_1970" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_1970_clip)"/>
+<use href="#sector_11_1970" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_1970_clip)"/>
 <path id="ray_g11_s1970" d="M 29453,24745 L 30910,25098" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s1970" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -14222,30 +14222,6 @@ brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3940" d="M 31865 25301 A 18375 18375 0 0 1 31851 25355 L 30977 25142 A 17475 17475 0 0 0 30990 25090 L 31865 25301 " />
-<clipPath id="sector_12_3940_clip">
-<use href="#sector_12_3940"/>
-</clipPath></defs>
-<use href="#sector_12_3940" stroke="blue" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3940_clip)"/>
-<path id="ray_g12_s3940" d="M 30983,25116 L 31858,25328" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g12_s3940" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3941" d="M 31878 25246 A 18375 18375 0 0 1 31865 25301 L 30990 25090 A 17475 17475 0 0 0 31002 25038 L 31878 25246 " />
-<clipPath id="sector_12_3941_clip">
-<use href="#sector_12_3941"/>
-</clipPath></defs>
-<use href="#sector_12_3941" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3941_clip)"/>
-<path id="ray_g12_s3941" d="M 30996,25064 L 31871,25273" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g12_s3941" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3944" d="M 31891 25191 A 18375 18375 0 0 1 31878 25246 L 31002 25038 A 17475 17475 0 0 0 31014 24986 L 31891 25191 " />
 <clipPath id="sector_12_3944_clip">
 <use href="#sector_12_3944"/>
@@ -14700,5 +14676,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-10-30 19:06:29.413509Z -->
+<!-- made new svg at 2025-11-02 01:51:42.218602Z -->
 </svg>
