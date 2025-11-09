@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 6 JUN 1725
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 20 OCT 1809
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 84
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0739[Dev-web]
-* https://localhost:4000/person?p=p0739[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0739[Adoc-web]
-* https://localhost:4000/adoc?p=p0739[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0739http://localhost:4000/person?p=p0739https://cfsjksas.gigalixirapp.com/adoc?p=p0739http://localhost:4000/adoc?p=p0739* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anne_Andrews_%286%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
-* gen8.MMMMPMPM.Anne_Andrews_(1725_-_1809)
+* gen8.MMMMPMPM.Anne_Andrews_(1725 - 1809)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
-* gen8.MMMMPMPM.Anne_Andrews_(1725_-_1809)
+* gen8.MMMMPMPM.Anne_Andrews_(1725 - 1809)
 
 
 == Other
 
 == Sources
+

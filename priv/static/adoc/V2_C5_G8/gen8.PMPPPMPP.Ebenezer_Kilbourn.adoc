@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 10 MAR 1679
+
 * Birthplace: Wethersfield, Hartford, Connecticut, USA
+
 * Death: ABT 1732
+
 * Deathplace: Morristown, Morris, New Jersey, USA
+
 * Age at Death: About 52-53
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0306[Dev-web]
-* https://localhost:4000/person?p=p0306[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0306[Adoc-web]
-* https://localhost:4000/adoc?p=p0306[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0306http://localhost:4000/person?p=p0306https://cfsjksas.gigalixirapp.com/adoc?p=p0306http://localhost:4000/adoc?p=p0306* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,9 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMP.Benjamin_Kilbourn.adoc[Benjamin Kilbourn (1730 - 1817)]
-* gen8.PMPPPMPP.Ebenezer_Kilbourn_(1679_-_1732)
+* gen8.PMPPPMPP.Ebenezer_Kilbourn_(1679 - 1732)
 
 
 == Other
 
 == Sources
+

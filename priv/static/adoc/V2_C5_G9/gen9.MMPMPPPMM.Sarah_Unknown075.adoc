@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPMM.Sarah_Unknown075.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0782[Dev-web]
-* https://localhost:4000/person?p=p0782[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0782[Adoc-web]
-* https://localhost:4000/adoc?p=p0782[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0782http://localhost:4000/person?p=p0782https://cfsjksas.gigalixirapp.com/adoc?p=p0782http://localhost:4000/adoc?p=p0782* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -37,9 +34,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPP.Jacob_Bennett.adoc[Jacob Bennett (1761 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPM.Mary_(Marcy)_Harrington.adoc[Mary (Marcy) Harrington (1699 - 1772)]
-* gen9.MMPMPPPMM.Sarah_Unknown075_(?_-_?)
+* gen9.MMPMPPPMM.Sarah_Unknown075_(? - ?)
 
 
 == Other
 
 == Sources
+

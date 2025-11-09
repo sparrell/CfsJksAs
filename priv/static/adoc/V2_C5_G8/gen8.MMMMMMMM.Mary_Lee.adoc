@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 30 JAN 1707
+
 * Birthplace: Town of Lyme, Connecticut, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0274[Dev-web]
-* https://localhost:4000/person?p=p0274[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0274[Adoc-web]
-* https://localhost:4000/adoc?p=p0274[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0274http://localhost:4000/person?p=p0274https://cfsjksas.gigalixirapp.com/adoc?p=p0274http://localhost:4000/adoc?p=p0274* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Lee_%2828%29[WeRelate]
 * WikiTree TBD
@@ -40,7 +39,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
-* gen8.MMMMMMMM.Mary_Lee_(1707_-_?)
+* gen8.MMMMMMMM.Mary_Lee_(1707 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,10 +50,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
-* gen8.MMMMMMMM.Mary_Lee_(1707_-_?)
+* gen8.MMMMMMMM.Mary_Lee_(1707 - ?)
 
 
 == Other
 notes: Sister of Benjamin Lee of Lyme.
 
+
 == Sources
+

@@ -22,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMPPPP.Stephen_Vinal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0162[Dev-web]
-* http://localhost:4000/person?p=p0162[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0162[Adoc-web]
-* adoc?p=p0162[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0162http://localhost:4000/person?p=p0162https://cfsjksas.gigalixirapp.com/adoc?p=p0162http://localhost:4000/adoc?p=p0162* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Stephen_Vinall_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +41,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMM.Martha_Vinal.adoc[Martha Vinal (1625 - ?)]
-* gen11.PPPPPPMPPPP.Stephen_Vinal_(?_-_?)
+* gen11.PPPPPPMPPPP.Stephen_Vinal_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +57,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMM.Martha_Vinal.adoc[Martha Vinal (1625 - ?)]
-* gen11.PPPPPPMPPPP.Stephen_Vinal_(?_-_?)
+* gen11.PPPPPPMPPPP.Stephen_Vinal_(? - ?)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,7 +71,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPP.John_Vinal.adoc[John Vinal (1636 - 1698)]
-* gen11.PPPPPPMPPPP.Stephen_Vinal_(?_-_?)
+* gen11.PPPPPPMPPPP.Stephen_Vinal_(? - ?)
 
 
 == Other

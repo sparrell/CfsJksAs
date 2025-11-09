@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1607
+
 * Birthplace: England, UK
+
 * Death: 1670
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: 62-63
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPMPPM.Mary_Ayres.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0452[Dev-web]
-* https://localhost:4000/person?p=p0452[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0452[Adoc-web]
-* https://localhost:4000/adoc?p=p0452[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0452http://localhost:4000/person?p=p0452https://cfsjksas.gigalixirapp.com/adoc?p=p0452http://localhost:4000/adoc?p=p0452* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -52,7 +54,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMP.John_Fellows.adoc[John Fellows (1668 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
-* gen12.MMMMPMMPMPPM.Mary_Ayres_(1607_-_1670)
+* gen12.MMMMPMMPMPPM.Mary_Ayres_(1607 - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -67,9 +69,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMP.John_Fellows.adoc[John Fellows (1668 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
-* gen12.MMMMPMMPMPPM.Mary_Ayres_(1607_-_1670)
+* gen12.MMMMPMMPMPPM.Mary_Ayres_(1607 - 1670)
 
 
 == Other
 
 == Sources
+

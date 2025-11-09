@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 20 MAY 1643
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0794[Dev-web]
-* https://localhost:4000/person?p=p0794[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0794[Adoc-web]
-* https://localhost:4000/adoc?p=p0794[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0794http://localhost:4000/person?p=p0794https://cfsjksas.gigalixirapp.com/adoc?p=p0794http://localhost:4000/adoc?p=p0794* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Denison_%281%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
-* gen10.MMMPMMMMMM.Hannah_Dennison_(1643_-_?)
+* gen10.MMMPMMMMMM.Hannah_Dennison_(1643 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
-* gen10.MMMPMMMMMM.Hannah_Dennison_(1643_-_?)
+* gen10.MMMPMMMMMM.Hannah_Dennison_(1643 - ?)
 
 
 == Other
 
 == Sources
+

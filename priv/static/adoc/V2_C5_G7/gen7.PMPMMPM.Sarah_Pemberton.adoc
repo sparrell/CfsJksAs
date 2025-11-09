@@ -49,7 +49,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0083http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
-* gen7.PMPMMPM.Sarah_Pemberton_(1695_-_1749)
+* gen7.PMPMMPM.Sarah_Pemberton_(1695 - 1749)
 
 
 == Other

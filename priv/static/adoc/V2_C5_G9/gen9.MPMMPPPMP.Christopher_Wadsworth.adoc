@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1 DEC 1609
+
 * Birthplace: Nottingham, England, UK
+
 * Death: 31 JUL 1677
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: 67
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMPPPMP.Christopher_Wadsworth.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0560[Dev-web]
-* https://localhost:4000/person?p=p0560[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0560[Adoc-web]
-* https://localhost:4000/adoc?p=p0560[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0560http://localhost:4000/person?p=p0560https://cfsjksas.gigalixirapp.com/adoc?p=p0560http://localhost:4000/adoc?p=p0560* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Christopher_Wadsworth_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,15 +49,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPM.Mary_Wadsworth.adoc[Mary Wadsworth (1635 - ?)]
-* gen9.MPMMPPPMP.Christopher_Wadsworth_(1609_-_1677)
+* gen9.MPMMPPPMP.Christopher_Wadsworth_(1609 - 1677)
 
 
 == Other
 emigration:  Arr. on ship "Lion"
-----
+<p>
 2 DATE SEP 1637
 2 AGE 27
-----
+</p>
 
 
 == Sources
+

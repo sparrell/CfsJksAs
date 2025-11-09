@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1646
+
 * Birthplace: Rehoboth, Bristol, Massachusetts, USA
+
 * Death: 2 MAY 1713
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: About 66-67
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPM.Rebecca_Palmer.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0825[Dev-web]
-* https://localhost:4000/person?p=p0825[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0825[Adoc-web]
-* https://localhost:4000/adoc?p=p0825[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0825http://localhost:4000/person?p=p0825https://cfsjksas.gigalixirapp.com/adoc?p=p0825http://localhost:4000/adoc?p=p0825* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Palmer_%285%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
-* gen9.MMMPMMPPM.Rebecca_Palmer_(1646_-_1713)
+* gen9.MMMPMMPPM.Rebecca_Palmer_(1646 - 1713)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +58,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
-* gen9.MMMPMMPPM.Rebecca_Palmer_(1646_-_1713)
+* gen9.MMMPMMPPM.Rebecca_Palmer_(1646 - 1713)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 25 NOV 1696
+
 * Birthplace: Middletown, Middlesex, Connecticut, USA
+
 * Death: 5 NOV 1770
+
 * Deathplace: Plainfield, Windham, Connecticut, USA
+
 * Age at Death: 73
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0444[Dev-web]
-* https://localhost:4000/person?p=p0444[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0444[Adoc-web]
-* https://localhost:4000/adoc?p=p0444[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0444http://localhost:4000/person?p=p0444https://cfsjksas.gigalixirapp.com/adoc?p=p0444http://localhost:4000/adoc?p=p0444* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Samuel_Hall_%28102%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
-* gen9.MMMMPMMPP.Samuel_Hall_(1696_-_1770)
+* gen9.MMMMPMMPP.Samuel_Hall_(1696 - 1770)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +58,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
-* gen9.MMMMPMMPP.Samuel_Hall_(1696_-_1770)
+* gen9.MMMMPMMPP.Samuel_Hall_(1696 - 1770)
 
 
 == Other
 
 == Sources
+

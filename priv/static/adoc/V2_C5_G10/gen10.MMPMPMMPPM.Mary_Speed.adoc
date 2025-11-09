@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Deathplace: Marshfield, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -18,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPPM.Mary_Speed.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0543[Dev-web]
-* https://localhost:4000/person?p=p0543[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0543[Adoc-web]
-* https://localhost:4000/adoc?p=p0543[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0543http://localhost:4000/person?p=p0543https://cfsjksas.gigalixirapp.com/adoc?p=p0543http://localhost:4000/adoc?p=p0543* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -39,9 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Peter Branch (1659 - 1713)]
-* gen10.MMPMPMMPPM.Mary_Speed_(?_-_?)
+* gen10.MMPMPMMPPM.Mary_Speed_(? - ?)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1635
+
 * Birthplace: Dedham, Norfolk, Massachusetts, USA
+
 * Death: 21 FEB 1713
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 77-78
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPM.Pelatiah_Elderkin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0278[Dev-web]
-* https://localhost:4000/person?p=p0278[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0278[Adoc-web]
-* https://localhost:4000/adoc?p=p0278[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0278http://localhost:4000/person?p=p0278https://cfsjksas.gigalixirapp.com/adoc?p=p0278http://localhost:4000/adoc?p=p0278* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* gen10.MMMMMMMPPM.Pelatiah_Elderkin_(1635_-_1713)
+* gen10.MMMMMMMPPM.Pelatiah_Elderkin_(1635 - 1713)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,9 +60,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* gen10.MMMMMMMPPM.Pelatiah_Elderkin_(1635_-_1713)
+* gen10.MMMMMMMPPM.Pelatiah_Elderkin_(1635 - 1713)
 
 
 == Other
 
 == Sources
+

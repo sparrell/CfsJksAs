@@ -39,7 +39,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0495http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPP.Robert_Gray.adoc[Robert Gray (1734 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMPPP.Robert_Gray.adoc[Robert Gray (1697 - 1766)]
-* gen7.MPMPPPP.John_Gray_(?_-_?)
+* gen7.MPMPPPP.John_Gray_(? - ?)
 
 
 == Other

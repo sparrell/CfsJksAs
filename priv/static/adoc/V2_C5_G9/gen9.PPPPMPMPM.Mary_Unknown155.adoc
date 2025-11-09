@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Bowker
+
 * Birth: 1665
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: 1733
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: 67-68
+
 
 
 == Family
@@ -23,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPMPM.Mary_Unknown155.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0164[Dev-web]
-* https://localhost:4000/person?p=p0164[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0164[Adoc-web]
-* https://localhost:4000/adoc?p=p0164[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0164http://localhost:4000/person?p=p0164https://cfsjksas.gigalixirapp.com/adoc?p=p0164http://localhost:4000/adoc?p=p0164* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%285151%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPM.Deborah_Bowker.adoc[Deborah Bowker (1730 - 1813)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMP.James_Bowker.adoc[James Bowker (1695 - 1763)]
-* gen9.PPPPMPMPM.Mary_Unknown155_(1665_-_1733)
+* gen9.PPPPMPMPM.Mary_Unknown155_(1665 - 1733)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,14 +58,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[James Barrell (1727 - 1827)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPM.Abigail_Bowker.adoc[Abigail Bowker (1700 - ?)]
-* gen9.PPPPMPMPM.Mary_Unknown155_(1665_-_1733)
+* gen9.PPPPMPMPM.Mary_Unknown155_(1665 - 1733)
 
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Unknown_%285151%29:
-----
+</p>
 
 
 == Sources
+

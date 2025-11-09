@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1635
+
 * Birthplace: Aston Clinton, Buckinghamshire, England, UK
+
 * Death: 19 AUG 1683
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 47-48
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPP.John_Baldwin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0826[Dev-web]
-* https://localhost:4000/person?p=p0826[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0826[Adoc-web]
-* https://localhost:4000/adoc?p=p0826[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0826http://localhost:4000/person?p=p0826https://cfsjksas.gigalixirapp.com/adoc?p=p0826http://localhost:4000/adoc?p=p0826* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Baldwin_%282%29[WeRelate]
 * WikiTree TBD
@@ -49,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
-* gen9.MMMPMMPPP.John_Baldwin_(1635_-_1683)
+* gen9.MMMPMMPPP.John_Baldwin_(1635 - 1683)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,9 +63,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
-* gen9.MMMPMMPPP.John_Baldwin_(1635_-_1683)
+* gen9.MMMPMMPPP.John_Baldwin_(1635 - 1683)
 
 
 == Other
 
 == Sources
+

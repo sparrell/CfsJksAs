@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMPMPMP.Humphrey_Atherton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0320[Dev-web]
-* http://localhost:4000/person?p=p0320[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0320[Adoc-web]
-* adoc?p=p0320[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0320http://localhost:4000/person?p=p0320https://cfsjksas.gigalixirapp.com/adoc?p=p0320http://localhost:4000/adoc?p=p0320* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMP.William_Billings.adoc[William Billings (1660 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMPM.Mary_Atherton.adoc[Mary Atherton (1636 - 1718)]
-* gen11.MMMMMMPMPMP.Humphrey_Atherton_(1607_-_1661)
+* gen11.MMMMMMPMPMP.Humphrey_Atherton_(1607 - 1661)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,56 +65,56 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMP.William_Billings.adoc[William Billings (1660 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMPM.Mary_Atherton.adoc[Mary Atherton (1636 - 1718)]
-* gen11.MMMMMMPMPMP.Humphrey_Atherton_(1607_-_1661)
+* gen11.MMMMMMPMPMP.Humphrey_Atherton_(1607 - 1661)
 
 
 == Other
 emigration:  Freeman of Boston
-----
+<p>
 2 DATE 2 MAY 1636
 2 AGE About 28-29
-----
+</p>
 
 event:  (See notes)
-----
+<p>
 2 TYPE Fact 9
-----
+</p>
  Assistant until his death
-----
+<p>
 2 TYPE Fact 7
 2 DATE 1654
 2 AGE About 46-47
-----
+</p>
  Captain - Artillery Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1650
 2 AGE About 42-43
-----
+</p>
  Joined Artillery Company of Boston
-----
+<p>
 2 TYPE Military Service
 2 DATE 1636
 2 AGE About 28-29
-----
+</p>
  Major general until death
-----
+<p>
 2 TYPE Military Service
 2 DATE 1656
 2 AGE About 48-49
-----
+</p>
  Representative nine years (intermittent)
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1638
 2 AGE About 30-31
-----
+</p>
 
 immigration: Arr. Boston in the ship "James"
-----
+<p>
 2 DATE 1635
 2 AGE About 27-28
-----
+</p>
 
 notes: <p>He early showed a decided taste for military affairs, and soon became amember of the Ancient and Honorable Artillery Company, and was its captain from 1650 to 1658.  In 1644, he organized the first train-band in Dorchester. Later on he commanded the Suffolk regiment with the title of Major-General, and was the chief military officer in New England.  Formany years he served as selectman and town treasurer, and in 1638 and 1641, was Deputy to the General Court. <p></p> <p>Uncas, the Mohegan Sachem, after 1637 claimed vast territory in the vicinity of Norwich CT as a result of his assistance to the English in the Pequot War. Major General Humphrey Atherton was sent there by the United Colonies with 40 men to protect Uncas in his person and property. ThereMantinomo, Sachem of the Narragansett Indians, was forced to sign a treaty with the United Colonies and to pay 2000 fathoms of white wampum damages and to leave hostages (children) with the United Colonies. When the damages claimed were not paid, Atherton with twenty men marched to the wigwam of Pessacus, the Narragansett Sachem, and seizing him by the hair of the head drew him from the midst of his attendants, declaring that if they should make the least resistance he would dispatch him in an instant. Therupon Pessacus was so alarmed that he paid all his damages.Atherton's demands for large sums of wampum appeared to have led to the organization of the so-called "Atherton Company".  On 11 June and4 July1659, he and his "Partners" in the Atherton Company acquired from theIndian sachems large grants of land, situated west of Narragansett Bay, and these grants were confirmed 14 June 1660. <p></p> <p>In 1645 the Commissioners of the United Colonies appointed a Council ofWar, which was composed of Captain Standish of Plymouth, Mason of Connecticut, and Leverett and Atherton of Massachusetts.</p> <p></p> <p>On 16 September 1661, Atherton was returning from a military review on Boston Common when his horse stumbled over a cow and he was fatally injured.</p> <p></p> <p>Johnson gives him good character; but Hubbard excites our suspicion that everybody did not value him so highly, when he remarks that by some the manner of his death was noted as a judgement.</p> <p></p>
 

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BEF 1620
+
 * Birthplace: Ashill, Somerset, England, UK
+
 * Death: 15 AUG 1658
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 37-38
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPMP.William_Harvey.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0692[Dev-web]
-* https://localhost:4000/person?p=p0692[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0692[Adoc-web]
-* https://localhost:4000/adoc?p=p0692[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0692http://localhost:4000/person?p=p0692https://cfsjksas.gigalixirapp.com/adoc?p=p0692http://localhost:4000/adoc?p=p0692* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,9 +49,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Experience_Harvey.adoc[Experience Harvey (1644 - ?)]
-* gen9.MPMMMPPMP.William_Harvey_(1620_-_1658)
+* gen9.MPMMMPPMP.William_Harvey_(1620 - 1658)
 
 
 == Other
 
 == Sources
+

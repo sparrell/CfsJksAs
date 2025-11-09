@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMPPMP.Nicholas_Baker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0746[Dev-web]
-* http://localhost:4000/person?p=p0746[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0746[Adoc-web]
-* adoc?p=p0746[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0746http://localhost:4000/person?p=p0746https://cfsjksas.gigalixirapp.com/adoc?p=p0746http://localhost:4000/adoc?p=p0746* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Nicholas_Baker_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,41 +51,41 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPM.Elizabeth_Baker.adoc[Elizabeth Baker (1644 - 1672)]
-* gen11.PPPPPPMPPMP.Nicholas_Baker_(1610_-_1678)
+* gen11.PPPPPPMPPMP.Nicholas_Baker_(1610 - 1678)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE 1635
 2 PLAC Hingham, Plymouth, Massachusetts, USA
 2 AGE About 24-25
-----
+</p>
 
 event:  A.B., St.Johns College, Cambridge
-----
+<p>
 2 TYPE Degree
 2 DATE 1631
 2 AGE About 20-21
-----
+</p>
  A.M., S. Johns College, Cambridge
-----
+<p>
 2 TYPE Degree
 2 DATE 1635
 2 AGE About 24-25
-----
+</p>
  General Court
-----
+<p>
 2 TYPE Deputy
 2 DATE 1636
 2 AGE About 25-26
-----
+</p>
 
 ordained: Pastor, First Parish, Scituate
-----
+<p>
 2 DATE 1660
 2 AGE About 49-50
-----
+</p>
 
 
 == Sources

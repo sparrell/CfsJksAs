@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 7 MAY 1666
+
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Death: 15 SEP 1751
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 85
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMM.Joanna_May.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0198[Dev-web]
-* https://localhost:4000/person?p=p0198[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0198[Adoc-web]
-* https://localhost:4000/adoc?p=p0198[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0198http://localhost:4000/person?p=p0198https://cfsjksas.gigalixirapp.com/adoc?p=p0198http://localhost:4000/adoc?p=p0198* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joanna_May_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
-* gen9.PPPPMMPMM.Joanna_May_(1666_-_1751)
+* gen9.PPPPMMPMM.Joanna_May_(1666 - 1751)
 
 
 == Other
 event:  220
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  220
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

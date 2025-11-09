@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMMPMP.Phillip_Kirtland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1012[Dev-web]
-* http://localhost:4000/person?p=p1012[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1012[Adoc-web]
-* adoc?p=p1012[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1012http://localhost:4000/person?p=p1012https://cfsjksas.gigalixirapp.com/adoc?p=p1012http://localhost:4000/adoc?p=p1012* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMP.John_Lee.adoc[John Lee (1670 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPM.Sarah_Kirtland.adoc[Sarah Kirtland (1646 - 1676)]
-* gen11.MMMMMMMMPMP.Phillip_Kirtland_(1617_-_1688)
+* gen11.MMMMMMMMPMP.Phillip_Kirtland_(1617 - 1688)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMP.John_Lee.adoc[John Lee (1670 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPM.Sarah_Kirtland.adoc[Sarah Kirtland (1646 - 1676)]
-* gen11.MMMMMMMMPMP.Phillip_Kirtland_(1617_-_1688)
+* gen11.MMMMMMMMPMP.Phillip_Kirtland_(1617 - 1688)
 
 
 == Other

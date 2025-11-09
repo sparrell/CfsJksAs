@@ -7,23 +7,29 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BEF 29 MAY 1692
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Baptism: 
-----
+<p>
 2 DATE 29 MAY 1692
 2 PLAC Groton, New London, Connecticut, USA
 2 AGE About 0
-----
+</p>
 
 * Death: 1 JUN 1771
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Starr Cemetery, Groton, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: About 79
+
 
 
 == Family
@@ -36,11 +42,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPP.John_Chester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0089[Dev-web]
-* https://localhost:4000/person?p=p0089[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0089[Adoc-web]
-* https://localhost:4000/adoc?p=p0089[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0089http://localhost:4000/person?p=p0089https://cfsjksas.gigalixirapp.com/adoc?p=p0089http://localhost:4000/adoc?p=p0089* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Chester_%2822%29[WeRelate]
 * WikiTree TBD
@@ -55,10 +57,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMP.William_Patten_Whaley.adoc[William Patten Whaley (1786 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPM.Mary_Chester.adoc[Mary Chester (1764 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
-* gen8.PMPMPMPP.John_Chester_(1692_-_1771)
+* gen8.PMPMPMPP.John_Chester_(1692 - 1771)
 
 
 == Other
 occupation: Sea Captain
 
+
 == Sources
+

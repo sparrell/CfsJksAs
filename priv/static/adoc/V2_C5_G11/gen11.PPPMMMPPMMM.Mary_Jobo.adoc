@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPPMMM.Mary_Jobo.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1292[Dev-web]
-* http://localhost:4000/person?p=p1292[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1292[Adoc-web]
-* adoc?p=p1292[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1292http://localhost:4000/person?p=p1292https://cfsjksas.gigalixirapp.com/adoc?p=p1292http://localhost:4000/adoc?p=p1292* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%283804%29[WeRelate]
 * WikiTree TBD
@@ -57,19 +53,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPM.Sarah_Lakin.adoc[Sarah Lakin (1662 - 1740)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPMM.Mary_Bacon.adoc[Mary Bacon (1640 - 1701)]
-* gen11.PPPMMMPPMMM.Mary_Jobo_(1610_-_1655)
+* gen11.PPPMMMPPMMM.Mary_Jobo_(1610 - 1655)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1610 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Death: Aug 26 1655 - Woburn, 
 4 CONC Middlesex, Massachusetts&amp;lt;br&amp;gt;Husband: Michael Bacon&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bac
 4 CONC on)Michael Bacon, JrMichael Bacon
-----
+</p>
 
 

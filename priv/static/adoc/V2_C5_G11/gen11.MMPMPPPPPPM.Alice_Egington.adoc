@@ -25,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPPPM.Alice_Egington.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0132[Dev-web]
-* http://localhost:4000/person?p=p0132[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0132[Adoc-web]
-* adoc?p=p0132[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0132http://localhost:4000/person?p=p0132https://cfsjksas.gigalixirapp.com/adoc?p=p0132http://localhost:4000/adoc?p=p0132* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPPP.John_Bennett.adoc[John Bennett (1630 - 1691)]
-* gen11.MMPMPPPPPPM.Alice_Egington_(?_-_?)
+* gen11.MMPMPPPPPPM.Alice_Egington_(? - ?)
 
 
 == Other

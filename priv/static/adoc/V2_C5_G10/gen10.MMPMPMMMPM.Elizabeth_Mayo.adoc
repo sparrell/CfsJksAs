@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 16 MAR 1701
+
 * Deathplace: Eastham, Barnstable, Massachusetts, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMPM.Elizabeth_Mayo.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0036[Dev-web]
-* https://localhost:4000/person?p=p0036[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0036[Adoc-web]
-* https://localhost:4000/adoc?p=p0036[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0036http://localhost:4000/person?p=p0036https://cfsjksas.gigalixirapp.com/adoc?p=p0036http://localhost:4000/adoc?p=p0036* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -42,9 +41,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Content Howes (1702 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMP.Thomas_Howes.adoc[Thomas Howes (1680 - 1738)]
-* gen10.MMPMPMMMPM.Elizabeth_Mayo_(?_-_1701)
+* gen10.MMPMPMMMPM.Elizabeth_Mayo_(? - 1701)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1600
+
 * Birthplace: England, UK
+
 * Death: 1652
+
 * Deathplace: Taunton, Bristol, Massachusetts, USA
+
 * Age at Death: 51-52
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMPPPPP.Henry_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0686[Dev-web]
-* https://localhost:4000/person?p=p0686[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0686[Adoc-web]
-* https://localhost:4000/adoc?p=p0686[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0686http://localhost:4000/person?p=p0686https://cfsjksas.gigalixirapp.com/adoc?p=p0686http://localhost:4000/adoc?p=p0686* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Henry_Andrews_%285%29[WeRelate]
 * WikiTree TBD
@@ -47,30 +49,31 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPP.Henry_Andrews.adoc[Henry Andrews (1630 - 1676)]
-* gen9.MPMMPPPPP.Henry_Andrews_(1600_-_1652)
+* gen9.MPMMPPPPP.Henry_Andrews_(1600 - 1652)
 
 
 == Other
 event:  Built first Meeting House in Taunton
-----
+<p>
 2 TYPE Fact 1
 2 DATE 1647
 2 AGE 46-47
-----
+</p>
  First representative to Plymouth Court from Taunton
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
  Original purchaser of Taunton from Indians
-----
+<p>
 2 TYPE Fact 3
 2 DATE 1637
 2 AGE 36-37
-----
+</p>
  arr. MA prior to 1630
-----
+<p>
 2 TYPE Fact 4
-----
+</p>
 
 
 == Sources
+

@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1595
+
 * Birthplace: Kent, England, UK
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPPMMMMMMPM.Rebecca_Unknown070.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0223[Dev-web]
-* https://localhost:4000/person?p=p0223[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0223[Adoc-web]
-* https://localhost:4000/adoc?p=p0223[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0223http://localhost:4000/person?p=p0223https://cfsjksas.gigalixirapp.com/adoc?p=p0223http://localhost:4000/adoc?p=p0223* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Isaac Chittenden (1625 - 1676)]
-* gen12.PPPPMMMMMMPM.Rebecca_Unknown070_(1595_-_?)
+* gen12.PPPPMMMMMMPM.Rebecca_Unknown070_(1595 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -64,18 +64,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Isaac Chittenden (1625 - 1676)]
-* gen12.PPPPMMMMMMPM.Rebecca_Unknown070_(1595_-_?)
+* gen12.PPPPMMMMMMPM.Rebecca_Unknown070_(1595 - ?)
 
 
 == Other
 event:  244
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  244
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

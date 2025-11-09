@@ -31,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMPPPM.Anna_Unknown091.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0233[Dev-web]
-* http://localhost:4000/person?p=p0233[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0233[Adoc-web]
-* adoc?p=p0233[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0233http://localhost:4000/person?p=p0233https://cfsjksas.gigalixirapp.com/adoc?p=p0233http://localhost:4000/adoc?p=p0233* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Uredge_%281%29[WeRelate]
 * WikiTree TBD
@@ -54,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMM.Martha_Vinal.adoc[Martha Vinal (1625 - ?)]
-* gen11.PPPPPPMPPPM.Anna_Unknown091_(?_-_1664)
+* gen11.PPPPPPMPPPM.Anna_Unknown091_(? - 1664)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -70,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMM.Martha_Vinal.adoc[Martha Vinal (1625 - ?)]
-* gen11.PPPPPPMPPPM.Anna_Unknown091_(?_-_1664)
+* gen11.PPPPPPMPPPM.Anna_Unknown091_(? - 1664)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -84,25 +80,25 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPP.John_Vinal.adoc[John Vinal (1636 - 1698)]
-* gen11.PPPPPPMPPPM.Anna_Unknown091_(?_-_1664)
+* gen11.PPPPPPMPPPM.Anna_Unknown091_(? - 1664)
 
 
 == Other
 emigration:  Widowed in England
-----
+<p>
 2 DATE ABT 1644
-----
+</p>
 
 event:  Conihasset Partner (1/30 share)
-----
+<p>
 2 TYPE Fact 4
-----
+</p>
  Emigrated to Scituate
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1636
 2 PLAC Scituate, Plymouth, Massachusetts, USA
-----
+</p>
 
 occupation: Wool weaver
 

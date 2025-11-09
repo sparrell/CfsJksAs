@@ -45,7 +45,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0143http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
-* gen8.PPPMMPPP.Thomas_Bixby_(1696_-_1776)
+* gen8.PPPMMPPP.Thomas_Bixby_(1696 - 1776)
 
 
 == Other

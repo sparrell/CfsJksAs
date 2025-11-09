@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: BEF 1640
+
 * Deathplace: Weymouth, Norfolk, Massachusetts, USA
+
 
 
 == Ship
@@ -27,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPM.Joan_Allen.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0696[Dev-web]
-* https://localhost:4000/person?p=p0696[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0696[Adoc-web]
-* https://localhost:4000/adoc?p=p0696[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0696http://localhost:4000/person?p=p0696https://cfsjksas.gigalixirapp.com/adoc?p=p0696http://localhost:4000/adoc?p=p0696* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,9 +47,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Jonathan_Briggs.adoc[Jonathan Briggs (1635 - 1699)]
-* gen9.MPMMMPPPM.Joan_Allen_(?_-_1640)
+* gen9.MPMMMPPPM.Joan_Allen_(? - 1640)
 
 
 == Other
 
 == Sources
+

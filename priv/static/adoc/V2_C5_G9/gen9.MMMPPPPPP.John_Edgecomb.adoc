@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BEF 12 MAR 1648
+
 * Birthplace: Plymouth, Devon, England, UK
+
 * Christening: 
-----
+<p>
 2 DATE 12 MAR 1648
 2 PLAC Plymouth, Devon, England, UK
 2 AGE About 0
-----
+</p>
 
 * Death: 11 APR 1721
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 73
+
 
 
 == Ship
@@ -34,11 +40,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPPP.John_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0374[Dev-web]
-* https://localhost:4000/person?p=p0374[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0374[Adoc-web]
-* https://localhost:4000/adoc?p=p0374[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0374http://localhost:4000/person?p=p0374https://cfsjksas.gigalixirapp.com/adoc?p=p0374http://localhost:4000/adoc?p=p0374* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -54,7 +56,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
-* gen9.MMMPPPPPP.John_Edgecomb_(1648_-_1721)
+* gen9.MMMPPPPPP.John_Edgecomb_(1648 - 1721)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -66,23 +68,25 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
-* gen9.MMMPPPPPP.John_Edgecomb_(1648_-_1721)
+* gen9.MMMPPPPPP.John_Edgecomb_(1648 - 1721)
 
 
 == Other
 emigration:  Plymouth England to New London CT
-----
+<p>
 2 DATE ABT 1673
 2 AGE About 24-25
-----
+</p>
 
 event:  Sheriff of New London County
-----
+<p>
 2 TYPE Appointed
 2 DATE 2 NOV 1687
 2 AGE About 39
-----
+</p>
 
 occupation: Tanner, farmer
 
+
 == Sources
+

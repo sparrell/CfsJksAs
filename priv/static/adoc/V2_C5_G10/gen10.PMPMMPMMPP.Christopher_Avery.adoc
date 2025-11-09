@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1586
+
 * Birthplace: Devonshire, England, UK
+
 * Death: 12 MAR 1679
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 92-93
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMPMMPP.Christopher_Avery.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0268[Dev-web]
-* https://localhost:4000/person?p=p0268[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0268[Adoc-web]
-* https://localhost:4000/adoc?p=p0268[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0268http://localhost:4000/person?p=p0268https://cfsjksas.gigalixirapp.com/adoc?p=p0268http://localhost:4000/adoc?p=p0268* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Lord_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,7 +82,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -95,7 +97,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -110,7 +112,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -125,7 +127,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -138,19 +140,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPM.Sarah_Pemberton.adoc[Sarah Pemberton (1695 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPMM.Mary_Avery.adoc[Mary Avery (1648 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[James Avery (1620 - 1700)]
-* gen10.PMPMMPMMPP.Christopher_Avery_(1586_-_1679)
+* gen10.PMPMMPMMPP.Christopher_Avery_(1586 - 1679)
 
 
 == Other
 emigration:  Arrived Gloucester MA
-----
+<p>
 2 DATE BEF 1641
 2 PLAC Gloucester, Essex, Massachusetts, USA
 2 AGE About 54-55
-----
+</p>
 
 notes: In October 1650 ,land grants were given at Peqout (later New London CT)to Rev. Mr. Blinman, John Coite, James Avery and Andrew Lester. Christopher joined his son later.
+
 occupation: Weaver
+
 title: Captain
 
+
 == Sources
+

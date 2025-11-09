@@ -13,11 +13,11 @@ Narrative TBD
 * Birthplace: Bridgewater, Somerset, England, UK
 
 * Baptism: 
-----
+<p>
 2 DATE 29 JAN 1603
 2 PLAC England, UK
 2 AGE About 0
-----
+</p>
 
 * Death: 22 APR 1676
 
@@ -40,11 +40,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMMPPP.Nicholas_Street.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0293[Dev-web]
-* http://localhost:4000/person?p=p0293[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0293[Adoc-web]
-* adoc?p=p0293[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0293http://localhost:4000/person?p=p0293https://cfsjksas.gigalixirapp.com/adoc?p=p0293http://localhost:4000/adoc?p=p0293* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -62,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPP.Samuel_Street.adoc[Samuel Street (1635 - 1717)]
-* gen11.MMMMMPMMPPP.Nicholas_Street_(1603_-_1676)
+* gen11.MMMMMPMMPPP.Nicholas_Street_(1603 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -76,45 +72,45 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPP.Samuel_Street.adoc[Samuel Street (1635 - 1717)]
-* gen11.MMMMMPMMPPP.Nicholas_Street_(1603_-_1676)
+* gen11.MMMMMPMMPPP.Nicholas_Street_(1603 - 1676)
 
 
 == Other
 education:  Enrolled Oxford University
-----
+<p>
 2 DATE 2 NOV 1621
 2 AGE About 18
-----
+</p>
 
 emigration:  Emigrated in ship "Susan and Ellen"
-----
+<p>
 2 DATE 1636
 2 AGE About 32-33
-----
+</p>
 
 graduation: A.B. Pembroke College Oxford
-----
+<p>
 2 DATE MAY 1624
 2 AGE About 21
-----
+</p>
 A.M. Emmanuel College, Oxford
-----
+<p>
 2 DATE 1626
 2 AGE About 22-23
-----
+</p>
 
 occupation: Gentleman
 
 ordained: Installed Asst. Pastor at Taunton
-----
+<p>
 2 DATE 17 JAN 1641
 2 AGE About 37
-----
+</p>
 Pastor, First Church, New Haven CT
-----
+<p>
 2 DATE 27 SEP 1667
 2 AGE About 64
-----
+</p>
 
 
 == Sources

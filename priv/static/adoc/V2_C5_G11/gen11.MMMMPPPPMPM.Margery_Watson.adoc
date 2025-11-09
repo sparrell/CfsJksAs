@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMPM.Margery_Watson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0631[Dev-web]
-* http://localhost:4000/person?p=p0631[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0631[Adoc-web]
-* adoc?p=p0631[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0631http://localhost:4000/person?p=p0631https://cfsjksas.gigalixirapp.com/adoc?p=p0631http://localhost:4000/adoc?p=p0631* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margery_Watson_%282%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMP.Joseph_Goodhue.adoc[Joseph Goodhue (1639 - 1697)]
-* gen11.MMMMPPPPMPM.Margery_Watson_(1617_-_1668)
+* gen11.MMMMPPPPMPM.Margery_Watson_(1617 - 1668)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMP.Joseph_Goodhue.adoc[Joseph Goodhue (1639 - 1697)]
-* gen11.MMMMPPPPMPM.Margery_Watson_(1617_-_1668)
+* gen11.MMMMPPPPMPM.Margery_Watson_(1617 - 1668)
 
 
 == Other

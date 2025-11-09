@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPMM.Frances_Ripley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0203[Dev-web]
-* http://localhost:4000/person?p=p0203[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0203[Adoc-web]
-* adoc?p=p0203[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0203http://localhost:4000/person?p=p0203https://cfsjksas.gigalixirapp.com/adoc?p=p0203http://localhost:4000/adoc?p=p0203* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Frances_Ripley_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPM.Mary_Beal.adoc[Mary Beal (1623 - 1696)]
-* gen11.PPPPMMPMPMM.Frances_Ripley_(1584_-_1630)
+* gen11.PPPPMMPMPMM.Frances_Ripley_(1584 - 1630)
 
 
 == Other

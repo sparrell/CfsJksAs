@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: BEF 2 MAY 1648
+
 * Deathplace: Sandwich, Barnstable, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPPMP.George_Allen.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0558[Dev-web]
-* https://localhost:4000/person?p=p0558[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0558[Adoc-web]
-* https://localhost:4000/adoc?p=p0558[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0558http://localhost:4000/person?p=p0558https://cfsjksas.gigalixirapp.com/adoc?p=p0558http://localhost:4000/adoc?p=p0558* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Jonathan_Briggs.adoc[Jonathan Briggs (1635 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPM.Joan_Allen.adoc[Joan Allen (? - 1640)]
-* gen10.MPMMMPPPMP.George_Allen_(?_-_1648)
+* gen10.MPMMMPPPMP.George_Allen_(? - 1648)
 
 
 == Other
 
 == Sources
+

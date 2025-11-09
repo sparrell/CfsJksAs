@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: 13 NOV 1669
+
 * Deathplace: Milford, New Haven, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPPPM.Sarah_Bryant.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0822[Dev-web]
-* https://localhost:4000/person?p=p0822[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0822[Adoc-web]
-* https://localhost:4000/adoc?p=p0822[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0822http://localhost:4000/person?p=p0822https://cfsjksas.gigalixirapp.com/adoc?p=p0822http://localhost:4000/adoc?p=p0822* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Unknown_%283538%29[WeRelate]
 * WikiTree TBD
@@ -46,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPP.John_Baldwin.adoc[John Baldwin (1635 - 1683)]
-* gen10.MMMPMMPPPM.Sarah_Bryant_(?_-_1669)
+* gen10.MMMPMMPPPM.Sarah_Bryant_(? - 1669)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,9 +59,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPP.John_Baldwin.adoc[John Baldwin (1635 - 1683)]
-* gen10.MMMPMMPPPM.Sarah_Bryant_(?_-_1669)
+* gen10.MMMPMMPPPM.Sarah_Bryant_(? - 1669)
 
 
 == Other
 
 == Sources
+

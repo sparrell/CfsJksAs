@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1595
+
 * Birthplace: England, UK
+
 * Death: 1672
+
 * Deathplace: Salem, Essex, Massachusetts, USA
+
 * Age at Death: About 76-77
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPMMMP.John_Proctor.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0459[Dev-web]
-* https://localhost:4000/person?p=p0459[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0459[Adoc-web]
-* https://localhost:4000/adoc?p=p0459[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0459http://localhost:4000/person?p=p0459https://cfsjksas.gigalixirapp.com/adoc?p=p0459http://localhost:4000/adoc?p=p0459* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMM.Abigail_Proctor.adoc[Abigail Proctor (1640 - 1732)]
-* gen12.MMMMPMMPMMMP.John_Proctor_(1595_-_1672)
+* gen12.MMMMPMMPMMMP.John_Proctor_(1595 - 1672)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,31 +67,33 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMM.Abigail_Proctor.adoc[Abigail Proctor (1640 - 1732)]
-* gen12.MMMMPMMPMMMP.John_Proctor_(1595_-_1672)
+* gen12.MMMMPMMPMMMP.John_Proctor_(1595 - 1672)
 
 
 == Other
 emigration:  Came with wife and older children (Notes)
-----
+<p>
 2 DATE 1635
 2 AGE About 39-40
-----
+</p>
 
 notes: <p>John,aged 40, sailed 1635 from London in ship "Susan and Ellen" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1.</p> <p>They settled first in Ipswich, where he was a proprietor. He was a</p> <p>draper, and also a husbandman. He later removed to Salem. He was listed</p> <p>as a commoner in 1641. He was one of the 27 richest inhabitants and had 2</p> <p>shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov</p> <p>1672 at Salem. First two children born in England and the remainder in</p> <p>Salem, MA.</p> <p>&nbsp;</p>
+
 will: Will named daughter Abigail Varney
-----
+<p>
 2 DATE 28 AUG 1672
 2 AGE About 76-77
-----
+</p>
 
 
 == Sources
 * @S28@
-----
+<p>
 2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=42741179-F&action=showRecord&indId=individual-20674952-15000877
 2 QUAY 4
 2 DATA
 3 TEXT <p>John<br />Gender: Female<br />Christening: Oct 17 1633 - Assington, Suffolk, England<br />Father: John<br />Child: Marie Proctor<br />Indexing Project (Batch) Number: P01201-1<br />System Origin: E
 4 CONC ngland-ODM<br />GS Film number: 364109</p>
-----
+</p>
+
 

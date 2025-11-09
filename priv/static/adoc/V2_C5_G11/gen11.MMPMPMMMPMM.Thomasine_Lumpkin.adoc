@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMMPMM.Thomasine_Lumpkin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0039[Dev-web]
-* http://localhost:4000/person?p=p0039[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0039[Adoc-web]
-* adoc?p=p0039[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0039http://localhost:4000/person?p=p0039https://cfsjksas.gigalixirapp.com/adoc?p=p0039http://localhost:4000/adoc?p=p0039* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Content Howes (1702 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMP.Thomas_Howes.adoc[Thomas Howes (1680 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMPM.Elizabeth_Mayo.adoc[Elizabeth Mayo (? - 1701)]
-* gen11.MMPMPMMMPMM.Thomasine_Lumpkin_(?_-_1682)
+* gen11.MMPMPMMMPMM.Thomasine_Lumpkin_(? - 1682)
 
 
 == Other

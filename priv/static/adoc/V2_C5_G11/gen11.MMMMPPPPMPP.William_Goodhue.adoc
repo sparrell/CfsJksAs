@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMPP.William_Goodhue.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0630[Dev-web]
-* http://localhost:4000/person?p=p0630[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0630[Adoc-web]
-* adoc?p=p0630[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0630http://localhost:4000/person?p=p0630https://cfsjksas.gigalixirapp.com/adoc?p=p0630http://localhost:4000/adoc?p=p0630* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Goodhue_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMP.Joseph_Goodhue.adoc[Joseph Goodhue (1639 - 1697)]
-* gen11.MMMMPPPPMPP.William_Goodhue_(1613_-_1699)
+* gen11.MMMMPPPPMPP.William_Goodhue_(1613 - 1699)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,22 +65,22 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMP.Joseph_Goodhue.adoc[Joseph Goodhue (1639 - 1697)]
-* gen11.MMMMPPPPMPP.William_Goodhue_(1613_-_1699)
+* gen11.MMMMPPPPMPP.William_Goodhue_(1613 - 1699)
 
 
 == Other
 event:  Deacon of the Ipswich Church
-----
+<p>
 2 TYPE Appointed
 2 DATE 1658
 2 AGE 44-45
-----
+</p>
  _ELEC of Goodhue, William = Representative (and subsequent years)
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1666
 2 AGE 52-53
-----
+</p>
 
 
 == Sources

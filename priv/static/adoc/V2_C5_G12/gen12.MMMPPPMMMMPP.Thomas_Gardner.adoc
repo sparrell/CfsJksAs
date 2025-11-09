@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1590
+
 * Birthplace: England, UK
+
 * Death: NOV 1638
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: About 47-48
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPPMMMMPP.Thomas_Gardner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0802[Dev-web]
-* https://localhost:4000/person?p=p0802[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0802[Adoc-web]
-* https://localhost:4000/adoc?p=p0802[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0802http://localhost:4000/person?p=p0802https://cfsjksas.gigalixirapp.com/adoc?p=p0802http://localhost:4000/adoc?p=p0802* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMM.Joanna_Gardner.adoc[Joanna Gardner (1657 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMMP.Thomas_Gardner.adoc[Thomas Gardner (1619 - 1689)]
-* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590_-_1638)
+* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMM.Joanna_Gardner.adoc[Joanna Gardner (1657 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMMP.Thomas_Gardner.adoc[Thomas Gardner (1619 - 1689)]
-* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590_-_1638)
+* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,15 +82,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPM.Abigail_Crafts.adoc[Abigail Crafts (1676 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPMM.Rebecca_Gardner.adoc[Rebecca Gardner (1647 - 1700)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMMPMMP.Peter_Gardner.adoc[Peter Gardner (1617 - 1698)]
-* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590_-_1638)
+* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
 
 
 == Other
 emigration:  Ship "Safety"
-----
+<p>
 2 DATE BEF 1638
 2 AGE About 47-48
-----
+</p>
 
 
 == Sources
+

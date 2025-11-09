@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1696
+
 * Birthplace: Swansea, Bristol, Massachusetts, USA
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0334[Dev-web]
-* https://localhost:4000/person?p=p0334[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0334[Adoc-web]
-* https://localhost:4000/adoc?p=p0334[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0334http://localhost:4000/person?p=p0334https://cfsjksas.gigalixirapp.com/adoc?p=p0334http://localhost:4000/adoc?p=p0334* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Smith_%28108%29[WeRelate]
 * WikiTree TBD
@@ -42,18 +42,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1770 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Ruth Vinal (1746 - 1810)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
-* gen9.PPPPPPMMM.Anna_Smith_(1696_-_?)
+* gen9.PPPPPPMMM.Anna_Smith_(1696 - ?)
 
 
 == Other
 event:  362
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  362
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -45,7 +45,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0897http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
-* gen8.MMMPPMMM.Hannah_Lester_(1707_-_1750)
+* gen8.MMMPPMMM.Hannah_Lester_(1707 - 1750)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,7 +56,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0897http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
-* gen8.MMMPPMMM.Hannah_Lester_(1707_-_1750)
+* gen8.MMMPPMMM.Hannah_Lester_(1707 - 1750)
 
 
 == Other

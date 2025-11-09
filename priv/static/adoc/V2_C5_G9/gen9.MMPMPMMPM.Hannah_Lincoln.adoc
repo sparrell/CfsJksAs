@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 15 MAR 1664
+
 * Birthplace: Taunton, Bristol, Massachusetts, USA
+
 * Death: 16 JAN 1732
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 67
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPM.Hannah_Lincoln.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0504[Dev-web]
-* https://localhost:4000/person?p=p0504[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0504[Adoc-web]
-* https://localhost:4000/adoc?p=p0504[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0504http://localhost:4000/person?p=p0504https://cfsjksas.gigalixirapp.com/adoc?p=p0504http://localhost:4000/adoc?p=p0504* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Lincoln_%288%29[WeRelate]
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
-* gen9.MMPMPMMPM.Hannah_Lincoln_(1664_-_1732)
+* gen9.MMPMPMMPM.Hannah_Lincoln_(1664 - 1732)
 
 
 == Other
 
 == Sources
+

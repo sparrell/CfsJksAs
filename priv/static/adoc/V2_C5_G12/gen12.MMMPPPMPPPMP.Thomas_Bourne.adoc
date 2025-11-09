@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1581
+
 * Birthplace: Tenterden, Kent, England, UK
+
 * Death: 11 MAY 1664
+
 * Deathplace: Marshfield, Plymouth, Massachusetts, USA
+
 * Age at Death: About 82-83
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPPMPPPMP.Thomas_Bourne.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0891[Dev-web]
-* https://localhost:4000/person?p=p0891[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0891[Adoc-web]
-* https://localhost:4000/adoc?p=p0891[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0891http://localhost:4000/person?p=p0891https://cfsjksas.gigalixirapp.com/adoc?p=p0891http://localhost:4000/adoc?p=p0891* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPP.Nehemiah_Smith.adoc[Nehemiah Smith (1673 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPPP.Nehemiah_Smith.adoc[Nehemiah Smith (1646 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPPPM.Ann_Bourne.adoc[Ann Bourne (1615 - 1684)]
-* gen12.MMMPPPMPPPMP.Thomas_Bourne_(1581_-_1664)
+* gen12.MMMPPPMPPPMP.Thomas_Bourne_(1581 - 1664)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +67,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPP.Nehemiah_Smith.adoc[Nehemiah Smith (1673 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPPP.Nehemiah_Smith.adoc[Nehemiah Smith (1646 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPPPM.Ann_Bourne.adoc[Ann Bourne (1615 - 1684)]
-* gen12.MMMPPPMPPPMP.Thomas_Bourne_(1581_-_1664)
+* gen12.MMMPPPMPPPMP.Thomas_Bourne_(1581 - 1664)
 
 
 == Other
 
 == Sources
+

@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: M
+
 * Death note: Farmer
+
 
 
 == Family
@@ -20,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPP.William_Satterlee.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0867[Dev-web]
-* https://localhost:4000/person?p=p0867[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0867[Adoc-web]
-* https://localhost:4000/adoc?p=p0867[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0867http://localhost:4000/person?p=p0867https://cfsjksas.gigalixirapp.com/adoc?p=p0867http://localhost:4000/adoc?p=p0867* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Satterlee_%283%29[WeRelate]
 * WikiTree TBD
@@ -40,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Mary Satterlee (1746 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
-* gen9.MMMMPPMPP.William_Satterlee_(?_-_?)
+* gen9.MMMMPPMPP.William_Satterlee_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -52,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Mary Satterlee (1746 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
-* gen9.MMMMPPMPP.William_Satterlee_(?_-_?)
+* gen9.MMMMPPMPP.William_Satterlee_(? - ?)
 
 
 == Other
 
 == Sources
+

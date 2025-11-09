@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 16 DEC 1646
+
 * Birthplace: Boston, Suffolk, Massachusetts, USA
+
 * Death: 22 AUG 1728
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 81
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0264[Dev-web]
-* https://localhost:4000/person?p=p0264[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0264[Adoc-web]
-* https://localhost:4000/adoc?p=p0264[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0264http://localhost:4000/person?p=p0264https://cfsjksas.gigalixirapp.com/adoc?p=p0264http://localhost:4000/adoc?p=p0264* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Avery_%286%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
-* gen10.MMMMMMPPPP.James_Avery_(1646_-_1728)
+* gen10.MMMMMMPPPP.James_Avery_(1646 - 1728)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
-* gen10.MMMMMMPPPP.James_Avery_(1646_-_1728)
+* gen10.MMMMMMPPPP.James_Avery_(1646 - 1728)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,7 +73,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
-* gen10.MMMMMMPPPP.James_Avery_(1646_-_1728)
+* gen10.MMMMMMPPPP.James_Avery_(1646 - 1728)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -84,24 +86,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
-* gen10.MMMMMMPPPP.James_Avery_(1646_-_1728)
+* gen10.MMMMMMPPPP.James_Avery_(1646 - 1728)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 1669
 2 PLAC New London, New London, Connecticut, USA
 2 AGE 22-23
-----
+</p>
  Private in King Phillip's War
-----
+<p>
 2 TYPE Military Service
 2 DATE 1676
 2 AGE 29-30
-----
+</p>
 
 notes: James Avery, Jr., was deputy from New London to the general court of Connecticut, 1689, 1690, 1694, 1695, 1697, 1792.  He was deputy from Groton from 1707 to 1712 inclusive (after Groton was set off from New London.)  He was commissioner of the peace, 1693, 1694, 1695.  He was made justice of the peace in 1712.  He was made advisor of the Pequots in 1694.  in 1720, he was made one of their guardians, which office he held until his death;  the records show that he faithfully protected his wards in their lands and other rights.  In 1700, he was one of a committee to find lands for the volunteerswho had fought in the Naragansett war of1675.  That land is now known as Voluntown, Connecticut.  In 1690, hewas commissioned as lieutenant and in May, 1692, as captain of the trainband.  He and hiswife were members of the New London First Church ofChrist.  In 1696, he with others petitioned the general court for permission to form a church on the east side of the river where he lived.  Thispetition was not granted until 1704, when the territory east of theriverwas set off from New London and called Groton.  James Avery and his wife are first on the list of those in full communion in the Church of Christ of Groton.  The above records, with the exception of his membershipin the church at Groton, are to be found in the Colonial Records published by the state of Connecticut. <p></p>
 
+
 == Sources
+

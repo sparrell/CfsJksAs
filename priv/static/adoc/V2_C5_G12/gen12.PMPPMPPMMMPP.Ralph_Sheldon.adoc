@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1605
+
 * Birthplace: Ashford, England, UK
+
 * Death: 1651
+
 * Death note: Probably at sea
+
 * Age at Death: About 45-46
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPPMPPMMMPP.Ralph_Sheldon.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0371[Dev-web]
-* https://localhost:4000/person?p=p0371[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0371[Adoc-web]
-* https://localhost:4000/adoc?p=p0371[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0371http://localhost:4000/person?p=p0371https://cfsjksas.gigalixirapp.com/adoc?p=p0371http://localhost:4000/adoc?p=p0371* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ralph_Sheldon_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMM.Mary_Bridgman.adoc[Mary Bridgman (1672 - 1741)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMMM.Mary_Sheldon.adoc[Mary Sheldon (1654 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMMMP.Isaac_Sheldon.adoc[Isaac Sheldon (1629 - 1708)]
-* gen12.PMPPMPPMMMPP.Ralph_Sheldon_(1605_-_1651)
+* gen12.PMPPMPPMMMPP.Ralph_Sheldon_(1605 - 1651)
 
 
 == Other
 
 == Sources
+

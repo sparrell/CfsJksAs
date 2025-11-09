@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 28 JUN 1601
+
 * Birthplace: Norwich, England, UK
+
 * Death: 24 FEB 1691
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 89
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPMMPM.Prudence_Townsend.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0659[Dev-web]
-* https://localhost:4000/person?p=p0659[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0659[Adoc-web]
-* https://localhost:4000/adoc?p=p0659[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0659http://localhost:4000/person?p=p0659https://cfsjksas.gigalixirapp.com/adoc?p=p0659http://localhost:4000/adoc?p=p0659* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPM.Abiah_Cowles.adoc[Abiah Cowles (1722 - 1796)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPMM.Prudence_Frary.adoc[Prudence Frary (1677 - 1756)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPMMP.Eleazer_Frary.adoc[Eleazer Frary (1640 - 1709)]
-* gen10.PMPPMPMMPM.Prudence_Townsend_(1601_-_1691)
+* gen10.PMPPMPMMPM.Prudence_Townsend_(1601 - 1691)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 26 MAR 1610
+
 * Birthplace: Chippenham, Wiltshire, England, UK
+
 * Death: 12 OCT 1671
+
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
+
 * Age at Death: 61
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPPPPP.Thomas_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0118[Dev-web]
-* https://localhost:4000/person?p=p0118[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0118[Adoc-web]
-* https://localhost:4000/adoc?p=p0118[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0118http://localhost:4000/person?p=p0118https://cfsjksas.gigalixirapp.com/adoc?p=p0118http://localhost:4000/adoc?p=p0118* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Hurlbut_%284%29[WeRelate]
 * WikiTree TBD
@@ -48,35 +50,38 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1677 - 1729)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1644 - 1732)]
-* gen10.MMPPPPPPPP.Thomas_Hurlburt_(1610_-_1671)
+* gen10.MMPPPPPPPP.Thomas_Hurlburt_(1610 - 1671)
 
 
 == Other
 event:  Clerk of the train band
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1640
 2 AGE 29-30
-----
+</p>
  Constable
-----
+<p>
 2 TYPE Fact 4
-----
+</p>
  England to Saybrook CT (Notes)
-----
+<p>
 2 TYPE Military Service
 2 DATE 1635
 2 AGE 24-25
-----
+</p>
  Settled in Wethersfield
-----
+<p>
 2 TYPE Fact 2
 2 DATE ABT 1638
 2 PLAC Wethersfield, Hartford, Connecticut, USA
 2 AGE About 27-28
-----
+</p>
 
 notes: Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt party included his wife, her female servant and ten other males. <p></p> <p>Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the Pequot war was developing.</p> <p>On February 22,1637, Gardiner took ten men a half-mile from the fort toclear weeds and reeds where the Indians might hide. They were attackedby Indians who were hiding in the burning reeds. Two men threw down their matchlocks and ran away. Three including Hurlburt and Gardiner werewounded and two were killed by arrows. Hurlburt was shot almost through the thigh. After firing their muskets they drew their swords and fought their way hand to hand back to the fort. <p></p> <p>During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the moccasins of the Pequots when they tried to sneak up on the fort at night.</p> <p></p> <p>Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active in the militia and served in thelegislature.</p>
+
 occupation: Blacksmith
 
+
 == Sources
+

@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: AFT 1703
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: ABT 1750
+
 * Age at Death: About 46-47
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0413[Dev-web]
-* https://localhost:4000/person?p=p0413[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0413[Adoc-web]
-* https://localhost:4000/adoc?p=p0413[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0413http://localhost:4000/person?p=p0413https://cfsjksas.gigalixirapp.com/adoc?p=p0413http://localhost:4000/adoc?p=p0413* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ruth_Gates_%2812%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
-* gen9.MMMMPMPMM.Ruth_Gates_(1703_-_1750)
+* gen9.MMMMPMPMM.Ruth_Gates_(1703 - 1750)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
-* gen9.MMMMPMPMM.Ruth_Gates_(1703_-_1750)
+* gen9.MMMMPMPMM.Ruth_Gates_(1703 - 1750)
 
 
 == Other
 
 == Sources
+

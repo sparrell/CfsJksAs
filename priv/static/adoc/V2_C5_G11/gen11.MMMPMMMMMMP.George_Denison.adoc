@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMP.George_Denison.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1018[Dev-web]
-* http://localhost:4000/person?p=p1018[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1018[Adoc-web]
-* adoc?p=p1018[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1018http://localhost:4000/person?p=p1018https://cfsjksas.gigalixirapp.com/adoc?p=p1018http://localhost:4000/adoc?p=p1018* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Denison_%281%29[WeRelate]
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
-* gen11.MMMPMMMMMMP.George_Denison_(1620_-_1694)
+* gen11.MMMPMMMMMMP.George_Denison_(1620 - 1694)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,29 +67,29 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
-* gen11.MMMPMMMMMMP.George_Denison_(1620_-_1694)
+* gen11.MMMPMMMMMMP.George_Denison_(1620 - 1694)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 1669
 2 PLAC Stonington, New London, Connecticut, USA
 2 AGE 48-49
-----
+</p>
  Captain - King Phillips War
-----
+<p>
 2 TYPE Military Service
 2 DATE 1676
 2 AGE 55-56
-----
+</p>
  Parlimentary Army - English Civil War
-----
+<p>
 2 TYPE Military Service
 2 DATE 1643
 2 AGE 22-23
-----
+</p>
 
 notes: In 1643, following the death of his wife, Bridget, George returned to England and to serve in the Parlimentary Army. Wounded there he fell in love and married his nurse, Ann Borodil. <p></p> <p>He  returned to Roxbury Ma in 1646. Not able to fit into Roxbury Society, Dennison moved to Stonington, Connecticut. He was elected head of the militia company and became an important figure in the community, serving as tax assessor, inspector of the port and representative to the General Court at Hartford. <p></p> <p>During King Phillips War, he commanded the militia company from Stonington. In April 1676, he commanded the force in pursuit of Canonche , together with the New London Company commanded by Capt. JamesAvery,(see James Avery) and their Mohican Indian guides. <p></p> <p>Denison was a thorn in the side of the leaders of Connecticut Colony, having frequent spats with the magistrates in Hartford whom he often provoked with complaints and petitions.</p> <p></p>
 

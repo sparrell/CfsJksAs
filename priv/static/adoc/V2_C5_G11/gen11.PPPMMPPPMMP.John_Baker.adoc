@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPPMMP.John_Baker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0326[Dev-web]
-* http://localhost:4000/person?p=p0326[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0326[Adoc-web]
-* adoc?p=p0326[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0326http://localhost:4000/person?p=p0326https://cfsjksas.gigalixirapp.com/adoc?p=p0326http://localhost:4000/adoc?p=p0326* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Baker_%284%29[WeRelate]
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPP.Thomas_Bixby.adoc[Thomas Bixby (1696 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPPM.Sarah_Gould.adoc[Sarah Gould (1664 - 1723)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPPMM.Sarah_Baker.adoc[Sarah Baker (1640 - 1708)]
-* gen11.PPPMMPPPMMP.John_Baker_(1588_-_?)
+* gen11.PPPMMPPPMMP.John_Baker_(1588 - ?)
 
 
 == Other

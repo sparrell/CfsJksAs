@@ -43,7 +43,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0679http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
-* gen6.MPMMPP.Ebenezer_Andrews_(1700_-_1785)
+* gen6.MPMMPP.Ebenezer_Andrews_(1700 - 1785)
 
 
 == Other

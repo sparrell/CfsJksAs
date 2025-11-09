@@ -7,11 +7,12 @@ Narrative TBD
 
 
 * Sex: M
+
 * Buried: 
-----
+<p>
 2 DATE 27 JAN 1668
 2 PLAC St. Thomas Paris, Bristol, ENG
-----
+</p>
 
 
 
@@ -23,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMMPPMPP.William_Redwood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1211[Dev-web]
-* https://localhost:4000/person?p=p1211[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1211[Adoc-web]
-* https://localhost:4000/adoc?p=p1211[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1211http://localhost:4000/person?p=p1211https://cfsjksas.gigalixirapp.com/adoc?p=p1211http://localhost:4000/adoc?p=p1211* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -44,17 +41,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMPP.Daniel_Lawrence.adoc[Daniel Lawrence (1720 - 1775)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMMPPM.Mary_Redwood.adoc[Mary Redwood (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMMPPMP.Abraham_Redwood.adoc[Abraham Redwood (1665 - 1729)]
-* gen10.MMPMMPPMPP.William_Redwood_(?_-_?)
+* gen10.MMPMMPPMPP.William_Redwood_(? - ?)
 
 
 == Other
 
 == Sources
 * @S36@
-----
+<p>
 2 QUAY 3
 2 DATA
 3 DATE 22 JUL 2015
 3 TEXT Added via an Instant Discovery™
-----
+</p>
+
 

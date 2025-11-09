@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 16 APR 1609
+
 * Birthplace: Fenstanton, Cambridgeshire, England
+
 * Death: 17 JUN 1674
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, United States
+
 * Buried: 
-----
+<p>
 2 DATE JUN 1674
 2 PLAC Duxbury, Plymouth, Plymouth Colony, British Colonial America
-----
+</p>
 
 * Age at Death: 65
+
 
 
 == Family
@@ -30,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMPMPMMMMMMM.Mary_Sarah_Newland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0040[Dev-web]
-* https://localhost:4000/person?p=p0040[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0040[Adoc-web]
-* https://localhost:4000/adoc?p=p0040[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0040http://localhost:4000/person?p=p0040https://cfsjksas.gigalixirapp.com/adoc?p=p0040http://localhost:4000/adoc?p=p0040* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Newland_%283%29[WeRelate]
 * WikiTree TBD
@@ -53,9 +55,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMM.Content_Smith.adoc[Content Smith (1680 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMM.Mary_Young.adoc[Mary Young (1658 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMMMMM.Abigail_Howland.adoc[Abigail Howland (1629 - 1692)]
-* gen12.MMPMPMMMMMMM.Mary_Sarah_Newland_(1609_-_1674)
+* gen12.MMPMPMMMMMMM.Mary_Sarah_Newland_(1609 - 1674)
 
 
 == Other
 
 == Sources
+

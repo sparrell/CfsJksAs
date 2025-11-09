@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPM.Mary_Griggs_Gregg.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1284[Dev-web]
-* http://localhost:4000/person?p=p1284[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1284[Adoc-web]
-* adoc?p=p1284[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1284http://localhost:4000/person?p=p1284https://cfsjksas.gigalixirapp.com/adoc?p=p1284http://localhost:4000/adoc?p=p1284* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Griggs_%285%29[WeRelate]
 * WikiTree TBD
@@ -57,30 +53,30 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe.adoc[Rev. Samuel Stow Stowe (1645 - 1720)]
-* gen11.PPPMMMPMMPM.Mary_Griggs_Gregg_(1618_-_1680)
+* gen11.PPPMMMPMMPM.Mary_Griggs_Gregg_(1618 - 1680)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1618 - Suffolk, England&amp;lt;br&amp;gt;Marriage: Dec 4 1639 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;D
 4 CONC eath: Aug 21 1680 - Middletown, Middlesex, Connecticut&amp;lt;br&amp;gt;Father: Thomas Griggs&amp;lt;br&amp;gt;Mother: Mary Griggs (born Unknown)&amp;lt;br&amp;gt;Husband: Thomas Stow (born Stowe), I&
 4 CONC amp;lt;br&amp;gt;Children: Rev. Samuel Stow StoweThomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Siblings: Jo
 4 CONC hn GriggsJoseph Griggs
-----
+</p>
 
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1618 - Suffolk, England&amp;lt;br&amp;gt;Marriage: Dec 4 1639 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;D
 4 CONC eath: Aug 21 1680 - Middletown, Middlesex, Connecticut&amp;lt;br&amp;gt;Father: Thomas Griggs&amp;lt;br&amp;gt;Mother: Mary Griggs (born Unknown)&amp;lt;br&amp;gt;Husband: Thomas Stow (born Stowe), I&
 4 CONC amp;lt;br&amp;gt;Children: Rev. Samuel Stow StoweThomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Siblings: Jo
 4 CONC hn GriggsJoseph Griggs
-----
+</p>
 
 

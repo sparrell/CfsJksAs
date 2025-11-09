@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMMMMP.John_Young.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0031[Dev-web]
-* http://localhost:4000/person?p=p0031[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0031[Adoc-web]
-* adoc?p=p0031[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0031http://localhost:4000/person?p=p0031https://cfsjksas.gigalixirapp.com/adoc?p=p0031http://localhost:4000/adoc?p=p0031* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Young_%2845%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Content Howes (1702 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMM.Content_Smith.adoc[Content Smith (1680 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMM.Mary_Young.adoc[Mary Young (1658 - ?)]
-* gen11.MMPMPMMMMMP.John_Young_(1624_-_1691)
+* gen11.MMPMPMMMMMP.John_Young_(1624 - 1691)
 
 
 == Other

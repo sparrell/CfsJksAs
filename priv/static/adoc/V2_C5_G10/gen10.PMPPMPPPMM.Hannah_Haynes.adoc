@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 
 
 == Ship
@@ -24,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPPMM.Hannah_Haynes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0614[Dev-web]
-* https://localhost:4000/person?p=p0614[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0614[Adoc-web]
-* https://localhost:4000/adoc?p=p0614[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0614http://localhost:4000/person?p=p0614https://cfsjksas.gigalixirapp.com/adoc?p=p0614http://localhost:4000/adoc?p=p0614* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Unknown_%28874%29[WeRelate]
 * WikiTree TBD
@@ -45,18 +44,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.William_Hannum.adoc[William Hannum (1690 - 1755)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPPM.Hester_Langton.adoc[Hester Langton (1649 - 1712)]
-* gen10.PMPPMPPPMM.Hannah_Haynes_(?_-_?)
+* gen10.PMPPMPPPMM.Hannah_Haynes_(? - ?)
 
 
 == Other
 event:  617
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  617
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

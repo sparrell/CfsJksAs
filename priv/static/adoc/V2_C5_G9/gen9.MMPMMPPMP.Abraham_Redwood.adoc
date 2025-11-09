@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1665
+
 * Birthplace: Bristol, Gloucestershire, ENG
+
 * Christening: 
-----
+<p>
 2 DATE 2 JUL 1665
 2 PLAC St. Thomas, Bristol
 2 AGE 0
-----
+</p>
 
 * Death: 17 JAN 1729
+
 * Deathplace: Salem, Essex, Massachusetts, USA
+
 * Age at Death: 63-64
+
 
 
 == Family
@@ -31,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMMPPMP.Abraham_Redwood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1209[Dev-web]
-* https://localhost:4000/person?p=p1209[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1209[Adoc-web]
-* https://localhost:4000/adoc?p=p1209[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1209http://localhost:4000/person?p=p1209https://cfsjksas.gigalixirapp.com/adoc?p=p1209http://localhost:4000/adoc?p=p1209* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,22 +53,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMMP.David_Lawrence.adoc[David Lawrence (1761 - 1837)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMPP.Daniel_Lawrence.adoc[Daniel Lawrence (1720 - 1775)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMMPPM.Mary_Redwood.adoc[Mary Redwood (? - ?)]
-* gen9.MMPMMPPMP.Abraham_Redwood_(1665_-_1729)
+* gen9.MMPMMPPMP.Abraham_Redwood_(1665 - 1729)
 
 
 == Other
 event:  NP9H-PQ   D
-----
+<p>
 2 TYPE Ancestral File Number
-----
+</p>
 
 
 == Sources
 * @S36@
-----
+<p>
 2 QUAY 3
 2 DATA
 3 DATE 22 JUL 2015
 3 TEXT Added via an Instant Discovery™
-----
+</p>
+
 

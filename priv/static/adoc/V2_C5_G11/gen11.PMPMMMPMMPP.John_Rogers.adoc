@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMMPP.John_Rogers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0985[Dev-web]
-* http://localhost:4000/person?p=p0985[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0985[Adoc-web]
-* adoc?p=p0985[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0985http://localhost:4000/person?p=p0985https://cfsjksas.gigalixirapp.com/adoc?p=p0985http://localhost:4000/adoc?p=p0985* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Rogers_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMM.Hannah_Rogers.adoc[Hannah Rogers (1668 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMP.John_Rogers.adoc[John Rogers (1640 - 1732)]
-* gen11.PMPMMMPMMPP.John_Rogers_(1614_-_1692)
+* gen11.PMPMMMPMMPP.John_Rogers_(1614 - 1692)
 
 
 == Other

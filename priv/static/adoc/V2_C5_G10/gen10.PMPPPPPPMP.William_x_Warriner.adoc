@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 12 MAY 1602
+
 * Birthplace: Lincolnshire, Canterbury, Kent, England
+
 * Death: 2 JUN 1676
+
 * Deathplace: Springfield, Hampden, Colony of Massachusetts, British Colonial America
+
 * Buried: 
-----
+<p>
 2 DATE JUN 1676
 2 PLAC Springfield, Hampshire, Massachusetts Bay, British Colonial America
-----
+</p>
 
 * Age at Death: 74
+
 
 
 == Ship
@@ -33,11 +39,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPPPMP.William_x_Warriner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1238[Dev-web]
-* https://localhost:4000/person?p=p1238[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1238[Adoc-web]
-* https://localhost:4000/adoc?p=p1238[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1238http://localhost:4000/person?p=p1238https://cfsjksas.gigalixirapp.com/adoc?p=p1238http://localhost:4000/adoc?p=p1238* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -54,25 +56,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPM.Elizabeth_Warriner.adoc[Elizabeth Warriner (? - 1684)]
-* gen10.PMPPPPPPMP.William_x_Warriner_(1602_-_1676)
+* gen10.PMPPPPPPMP.William_x_Warriner_(1602 - 1676)
 
 
 == Other
 event:  Spouse: Elizabeth Baldwin (born Gibbons)
-----
+<p>
 2 TYPE Marriage
 2 DATE 2 OCT 1661
 2 AGE 59
-----
+</p>
 
 
 == Sources
 * @S48@
-----
+<p>
 2 PAGE William x Warriner
 2 QUAY 3
 2 DATA
 3 DATE 13 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

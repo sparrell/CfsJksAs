@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 15 FEB 1651
+
 * Birthplace: Wethersfield, Hartford, Connecticut, USA
+
 * Death: 25 NOV 1711
+
 * Deathplace: Glastonbury, Hartford, Connecticut, USA
+
 * Age at Death: 60
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPP.John_Kilbourn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0309[Dev-web]
-* https://localhost:4000/person?p=p0309[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0309[Adoc-web]
-* https://localhost:4000/adoc?p=p0309[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0309http://localhost:4000/person?p=p0309https://cfsjksas.gigalixirapp.com/adoc?p=p0309http://localhost:4000/adoc?p=p0309* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMP.Benjamin_Kilbourn.adoc[Benjamin Kilbourn (1730 - 1817)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
-* gen9.PMPPPMPPP.John_Kilbourn_(1651_-_1711)
+* gen9.PMPPPMPPP.John_Kilbourn_(1651 - 1711)
 
 
 == Other
 
 == Sources
+

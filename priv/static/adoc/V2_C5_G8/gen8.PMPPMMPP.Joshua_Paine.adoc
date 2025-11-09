@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 28 AUG 1697
+
 * Birthplace: Eastham, Barnstable Co., Massachusetts Colony
+
 * Death: 10 MAR 1775
+
 * Deathplace: Amenia, Dutchess, New York
+
 * Age at Death: 77
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMMPP.Joshua_Paine.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1258[Dev-web]
-* https://localhost:4000/person?p=p1258[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1258[Adoc-web]
-* https://localhost:4000/adoc?p=p1258[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1258http://localhost:4000/person?p=p1258https://cfsjksas.gigalixirapp.com/adoc?p=p1258http://localhost:4000/adoc?p=p1258* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -41,20 +43,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMM.Phoebe_Paine.adoc[Phoebe Paine (1762 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Barnabas Paine (1737 - 1822)]
-* gen8.PMPPMMPP.Joshua_Paine_(1697_-_1775)
+* gen8.PMPPMMPP.Joshua_Paine_(1697 - 1775)
 
 
 == Other
 name_suffix: Sr.
+
 occupation: Blacksmith
+
 
 == Sources
 * @S51@
-----
+<p>
 2 PAGE Joshua Paine, Sr.
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

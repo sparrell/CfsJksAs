@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPPP.John_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0577[Dev-web]
-* http://localhost:4000/person?p=p0577[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0577[Adoc-web]
-* adoc?p=p0577[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0577http://localhost:4000/person?p=p0577https://cfsjksas.gigalixirapp.com/adoc?p=p0577http://localhost:4000/adoc?p=p0577* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
-* gen11.MMMMPMPMPPP.John_Andrews_(1621_-_1708)
+* gen11.MMMMPMPMPPP.John_Andrews_(1621 - 1708)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,26 +65,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
-* gen11.MMMMPMPMPPP.John_Andrews_(1621_-_1708)
+* gen11.MMMMPMPMPPP.John_Andrews_(1621 - 1708)
 
 
 == Other
 event:  Chairman, Ipswich  Selectmen
-----
+<p>
 2 TYPE Election
 2 DATE 1687
 2 AGE About 65-66
-----
+</p>
  Lieutenant, Militia in Pequot War
-----
+<p>
 2 TYPE Military Service
-----
+</p>
  See Notes
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1692
 2 AGE About 70-71
-----
+</p>
 
 notes: As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. <p></p> <p>Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond
 

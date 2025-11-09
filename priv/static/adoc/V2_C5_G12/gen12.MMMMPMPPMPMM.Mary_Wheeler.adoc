@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Ship
 * Unknown
 * Unknown
@@ -22,11 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPPMPMM.Mary_Wheeler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0404[Dev-web]
-* https://localhost:4000/person?p=p0404[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0404[Adoc-web]
-* https://localhost:4000/adoc?p=p0404[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0404http://localhost:4000/person?p=p0404https://cfsjksas.gigalixirapp.com/adoc?p=p0404http://localhost:4000/adoc?p=p0404* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +42,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Elizabeth Wheeler (1648 - 1672)]
-* gen12.MMMMPMPPMPMM.Mary_Wheeler_(?_-_?)
+* gen12.MMMMPMPPMPMM.Mary_Wheeler_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -60,9 +57,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Elizabeth Wheeler (1648 - 1672)]
-* gen12.MMMMPMPPMPMM.Mary_Wheeler_(?_-_?)
+* gen12.MMMMPMPPMPMM.Mary_Wheeler_(? - ?)
 
 
 == Other
 
 == Sources
+

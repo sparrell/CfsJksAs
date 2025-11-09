@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1628
+
 * Birthplace: England, UK
+
 * Death: 1683
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 54-55
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0277[Dev-web]
-* https://localhost:4000/person?p=p0277[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0277[Adoc-web]
-* https://localhost:4000/adoc?p=p0277[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0277http://localhost:4000/person?p=p0277https://cfsjksas.gigalixirapp.com/adoc?p=p0277http://localhost:4000/adoc?p=p0277* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* gen10.MMMMMMMPPP.Gideon_Comstock_(1628_-_1683)
+* gen10.MMMMMMMPPP.Gideon_Comstock_(1628 - 1683)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,10 +65,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* gen10.MMMMMMMPPP.Gideon_Comstock_(1628_-_1683)
+* gen10.MMMMMMMPPP.Gideon_Comstock_(1628 - 1683)
 
 
 == Other
 notes: Present Comstock Cemetery in Uncasville is on land that was part of Daniel Comstock's farm. <p></p> <p>History of Montville shows line: William-Gideon-Daniel-John-Mary</p>
 
+
 == Sources
+

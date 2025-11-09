@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1640
+
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Death: 28 JUN 1732
+
 * Deathplace: Barrington, Bristol, Rhode Island, USA
+
 * Age at Death: 91-92
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMP.John_Rogers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1001[Dev-web]
-* https://localhost:4000/person?p=p1001[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1001[Adoc-web]
-* https://localhost:4000/adoc?p=p1001[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1001http://localhost:4000/person?p=p1001https://cfsjksas.gigalixirapp.com/adoc?p=p1001http://localhost:4000/adoc?p=p1001* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Rogers_%287%29[WeRelate]
 * WikiTree TBD
@@ -45,10 +47,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[John Whiting (1719 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMM.Hannah_Rogers.adoc[Hannah Rogers (1668 - 1754)]
-* gen10.PMPMMMPMMP.John_Rogers_(1640_-_1732)
+* gen10.PMPMMMPMMP.John_Rogers_(1640 - 1732)
 
 
 == Other
 name_suffix: Jr.
 
+
 == Sources
+

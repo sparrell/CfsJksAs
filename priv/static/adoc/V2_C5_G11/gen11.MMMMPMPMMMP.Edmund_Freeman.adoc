@@ -18,12 +18,8 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMMP.Edmund_Freeman.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0636[Dev-web]
-* http://localhost:4000/person?p=p0636[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0636[Adoc-web]
-* adoc?p=p0636[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0636http://localhost:4000/person?p=p0636https://cfsjksas.gigalixirapp.com/adoc?p=p0636http://localhost:4000/adoc?p=p0636* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000894/edmund-freeman[MyHeritage]
 * WeRelate TBD
 * WikiTree TBD
 
@@ -40,7 +36,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMM.Elizabeth_Freeman.adoc[Elizabeth Freeman (? - ?)]
-* gen11.MMMMPMPMMMP.Edmund_Freeman_(?_-_?)
+* gen11.MMMMPMPMMMP.Edmund_Freeman_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMM.Elizabeth_Freeman.adoc[Elizabeth Freeman (? - ?)]
-* gen11.MMMMPMPMMMP.Edmund_Freeman_(?_-_?)
+* gen11.MMMMPMPMMMP.Edmund_Freeman_(? - ?)
 
 
 == Other

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1605
+
 * Birthplace: Woking, England, UK
+
 * Death: ABT 1656
+
 * Deathplace: Sandwich, Barnstable, Massachusetts, USA
+
 * Age at Death: About 50-51
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPPMM.Katherine_Starkes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0561[Dev-web]
-* https://localhost:4000/person?p=p0561[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0561[Adoc-web]
-* https://localhost:4000/adoc?p=p0561[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0561http://localhost:4000/person?p=p0561https://cfsjksas.gigalixirapp.com/adoc?p=p0561http://localhost:4000/adoc?p=p0561* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Jonathan_Briggs.adoc[Jonathan Briggs (1635 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPM.Joan_Allen.adoc[Joan Allen (? - 1640)]
-* gen10.MPMMMPPPMM.Katherine_Starkes_(1605_-_1656)
+* gen10.MPMMMPPPMM.Katherine_Starkes_(1605 - 1656)
 
 
 == Other
 
 == Sources
+

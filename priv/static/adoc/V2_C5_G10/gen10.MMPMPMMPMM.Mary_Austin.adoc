@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 5 AUG 1632
+
 * Birthplace: Tenterden, Kent, England, UK
+
 * Death: ABT 1694
+
 * Deathplace: Taunton, Bristol, Massachusetts, USA
+
 * Age at Death: About 61-62
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPMM.Mary_Austin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0547[Dev-web]
-* https://localhost:4000/person?p=p0547[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0547[Adoc-web]
-* https://localhost:4000/adoc?p=p0547[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0547http://localhost:4000/person?p=p0547https://cfsjksas.gigalixirapp.com/adoc?p=p0547http://localhost:4000/adoc?p=p0547* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Austin_%28140%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPM.Hannah_Lincoln.adoc[Hannah Lincoln (1664 - 1732)]
-* gen10.MMPMPMMPMM.Mary_Austin_(1632_-_1694)
+* gen10.MMPMPMMPMM.Mary_Austin_(1632 - 1694)
 
 
 == Other
 
 == Sources
+

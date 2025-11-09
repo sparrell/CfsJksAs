@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1620
+
 * Birthplace: Assington, Suffolk, England, UK
+
 * Death: 6 MAR 1704
+
 * Deathplace: Boxford, Essex, Massachusetts, USA
+
 * Age at Death: 83-84
+
 
 
 == Ship
@@ -28,11 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPPPM.Sarah_Wyatt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0150[Dev-web]
-* https://localhost:4000/person?p=p0150[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0150[Adoc-web]
-* https://localhost:4000/adoc?p=p0150[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0150http://localhost:4000/person?p=p0150https://cfsjksas.gigalixirapp.com/adoc?p=p0150http://localhost:4000/adoc?p=p0150* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -49,9 +51,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPP.Thomas_Bixby.adoc[Thomas Bixby (1696 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPPP.Joseph_Bixby.adoc[Joseph Bixby (? - 1725)]
-* gen10.PPPMMPPPPM.Sarah_Wyatt_(1620_-_1704)
+* gen10.PPPMMPPPPM.Sarah_Wyatt_(1620 - 1704)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1596
+
 * Birthplace: Wye, Kent, England, UK
+
 * Death: 14 JUN 1646
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 49-50
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPPPPMMMMPP.Thomas_Hatch.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0366[Dev-web]
-* https://localhost:4000/person?p=p0366[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0366[Adoc-web]
-* https://localhost:4000/adoc?p=p0366[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0366http://localhost:4000/person?p=p0366https://cfsjksas.gigalixirapp.com/adoc?p=p0366http://localhost:4000/adoc?p=p0366* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Hatch_%2810%29[WeRelate]
 * WikiTree TBD
@@ -50,10 +52,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Anna Smith (1696 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMMMM.Anna_Hatch.adoc[Anna Hatch (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMMP.Jeremiah_Hatch.adoc[Jeremiah Hatch (1646 - 1712)]
-* gen12.PPPPPPMMMMPP.Thomas_Hatch_(1596_-_1646)
+* gen12.PPPPPPMMMMPP.Thomas_Hatch_(1596 - 1646)
 
 
 == Other
 emigration:  Ship "Hercules"
 
+
 == Sources
+

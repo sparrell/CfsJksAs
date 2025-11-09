@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Jones
+
 
 
 == Family
@@ -18,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPMMM.Elizabeth_Simpson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1295[Dev-web]
-* https://localhost:4000/person?p=p1295[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1295[Adoc-web]
-* https://localhost:4000/adoc?p=p1295[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1295http://localhost:4000/person?p=p1295https://cfsjksas.gigalixirapp.com/adoc?p=p1295http://localhost:4000/adoc?p=p1295* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,9 +36,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPM.Anna_Stone.adoc[Anna Stone (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPMM.Ann_Jones.adoc[Ann Jones (1720 - ?)]
-* gen9.PPPMMPMMM.Elizabeth_Simpson_(?_-_?)
+* gen9.PPPMMPMMM.Elizabeth_Simpson_(? - ?)
 
 
 == Other
 
 == Sources
+

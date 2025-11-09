@@ -46,7 +46,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0188http://localhost:4000/person?p=p
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
-* gen3.MPP.Albert_Fisher_(1812_-_1887)
+* gen3.MPP.Albert_Fisher_(1812 - 1887)
 
 
 == Other

@@ -7,16 +7,20 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 15 JAN 1587
+
 * Birthplace: Canterbury, Kent, England, UK
+
 * Christening: 
-----
+<p>
 2 DATE 15 JAN 1587
 2 PLAC Saint Paul, Canterbury, Kent, England
 2 AGE 0
-----
+</p>
 
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -34,11 +38,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPPMM.Isabella_Chilton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0853[Dev-web]
-* https://localhost:4000/person?p=p0853[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0853[Adoc-web]
-* https://localhost:4000/adoc?p=p0853[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0853http://localhost:4000/person?p=p0853https://cfsjksas.gigalixirapp.com/adoc?p=p0853http://localhost:4000/adoc?p=p0853* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Isabella_Chilton_%281%29[WeRelate]
 * WikiTree TBD
@@ -58,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
-* gen13.MMMMPMMMPPPMM.Isabella_Chilton_(1587_-_?)
+* gen13.MMMMPMMMPPPMM.Isabella_Chilton_(1587 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -74,18 +74,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
-* gen13.MMMMPMMMPPPMM.Isabella_Chilton_(1587_-_?)
+* gen13.MMMMPMMMPPPMM.Isabella_Chilton_(1587 - ?)
 
 
 == Other
 
 == Sources
 * @S28@
-----
+<p>
 2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-&action=showRecord&indId=individual-20674952-15001278
 2 QUAY 4
 2 DATA
 3 TEXT <p>Isabell Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Indexing Project (Batch) Number: P01654-1<br />System Origi
 4 CONC n: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>
-----
+</p>
+
 

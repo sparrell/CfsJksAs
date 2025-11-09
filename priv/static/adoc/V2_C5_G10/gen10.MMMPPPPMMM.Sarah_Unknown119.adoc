@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 12 JUN 1702
+
 * Deathplace: Town of Lyme, Connecticut, USA
+
 
 
 == Family
@@ -19,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMMM.Sarah_Unknown119.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0820[Dev-web]
-* https://localhost:4000/person?p=p0820[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0820[Adoc-web]
-* https://localhost:4000/adoc?p=p0820[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0820http://localhost:4000/person?p=p0820https://cfsjksas.gigalixirapp.com/adoc?p=p0820http://localhost:4000/adoc?p=p0820* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Andrews_%2858%29[WeRelate]
 * WikiTree TBD
@@ -40,7 +39,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMM.Catherine_Lay.adoc[Catherine Lay (1675 - 1761)]
-* gen10.MMMPPPPMMM.Sarah_Unknown119_(?_-_1702)
+* gen10.MMMPPPPMMM.Sarah_Unknown119_(? - 1702)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -53,18 +52,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMM.Catherine_Lay.adoc[Catherine Lay (1675 - 1761)]
-* gen10.MMMPPPPMMM.Sarah_Unknown119_(?_-_1702)
+* gen10.MMMPPPPMMM.Sarah_Unknown119_(? - 1702)
 
 
 == Other
 event:  806
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  814
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

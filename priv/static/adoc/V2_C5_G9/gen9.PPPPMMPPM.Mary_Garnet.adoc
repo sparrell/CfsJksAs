@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 19 NOV 1654
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: 27 FEB 1709
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 54
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPM.Mary_Garnet.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0170[Dev-web]
-* https://localhost:4000/person?p=p0170[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0170[Adoc-web]
-* https://localhost:4000/adoc?p=p0170[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0170http://localhost:4000/person?p=p0170https://cfsjksas.gigalixirapp.com/adoc?p=p0170http://localhost:4000/adoc?p=p0170* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Gardner_%2826%29[WeRelate]
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPP.Benjamin_Farrow.adoc[Benjamin Farrow (1692 - ?)]
-* gen9.PPPPMMPPM.Mary_Garnet_(1654_-_1709)
+* gen9.PPPPMMPPM.Mary_Garnet_(1654 - 1709)
 
 
 == Other
 
 == Sources
+

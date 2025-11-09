@@ -41,7 +41,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0606http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Rachel Turner (1776 - 1866)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
-* gen8.PPPPPMPM.Elizabeth_Hawkins_(1670_-_?)
+* gen8.PPPPPMPM.Elizabeth_Hawkins_(1670 - ?)
 
 
 == Other

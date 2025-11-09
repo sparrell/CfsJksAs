@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMPMP.Thomas_Fox.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0918[Dev-web]
-* http://localhost:4000/person?p=p0918[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0918[Adoc-web]
-* adoc?p=p0918[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0918http://localhost:4000/person?p=p0918https://cfsjksas.gigalixirapp.com/adoc?p=p0918http://localhost:4000/adoc?p=p0918* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPM.Hannah_Fox.adoc[Hannah Fox (1646 - 1712)]
-* gen11.MMMPPMMMPMP.Thomas_Fox_(1619_-_1658)
+* gen11.MMMPPMMMPMP.Thomas_Fox_(1619 - 1658)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPM.Hannah_Fox.adoc[Hannah Fox (1646 - 1712)]
-* gen11.MMMPPMMMPMP.Thomas_Fox_(1619_-_1658)
+* gen11.MMMPPMMMPMP.Thomas_Fox_(1619 - 1658)
 
 
 == Other

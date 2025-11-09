@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 SEP 1708
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 30 SEP 1799
+
 * Deathplace: Ledyard, New London, Connecticut, USA
+
 * Age at Death: 91
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0259[Dev-web]
-* https://localhost:4000/person?p=p0259[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0259[Adoc-web]
-* https://localhost:4000/adoc?p=p0259[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0259http://localhost:4000/person?p=p0259https://cfsjksas.gigalixirapp.com/adoc?p=p0259http://localhost:4000/adoc?p=p0259* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Theophilus_Avery_%281%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
-* gen8.MMMMMMPP.Theophilus_Avery_(1708_-_1799)
+* gen8.MMMMMMPP.Theophilus_Avery_(1708 - 1799)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,23 +56,25 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
-* gen8.MMMMMMPP.Theophilus_Avery_(1708_-_1799)
+* gen8.MMMMMMPP.Theophilus_Avery_(1708 - 1799)
 
 
 == Other
 event:  Ensign, 2nd Groton Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1746
 2 AGE 37-38
-----
+</p>
  Lieutenant, 2nd Groton Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1749
 2 AGE 40-41
-----
+</p>
 
 occupation: Farmer
 
+
 == Sources
+

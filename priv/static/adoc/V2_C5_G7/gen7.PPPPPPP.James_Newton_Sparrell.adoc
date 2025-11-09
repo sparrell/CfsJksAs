@@ -47,7 +47,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0540http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1770 - 1826)]
-* gen7.PPPPPPP.James_Newton_Sparrell_(1740_-_1773)
+* gen7.PPPPPPP.James_Newton_Sparrell_(1740 - 1773)
 
 
 == Other

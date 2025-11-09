@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1585
+
 * Birthplace: England, UK
+
 * Deathplace: Hartford, Hartford, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPPMMMPMP.Thomas_Lord.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0906[Dev-web]
-* https://localhost:4000/person?p=p0906[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0906[Adoc-web]
-* https://localhost:4000/adoc?p=p0906[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0906http://localhost:4000/person?p=p0906https://cfsjksas.gigalixirapp.com/adoc?p=p0906http://localhost:4000/adoc?p=p0906* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPM.Ann_Lord.adoc[Ann Lord (1614 - 1688)]
-* gen12.MMMPPPMMMPMP.Thomas_Lord_(1585_-_?)
+* gen12.MMMPPPMMMPMP.Thomas_Lord_(1585 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,16 +63,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPM.Ann_Lord.adoc[Ann Lord (1614 - 1688)]
-* gen12.MMMPPPMMMPMP.Thomas_Lord_(1585_-_?)
+* gen12.MMMPPPMMMPMP.Thomas_Lord_(1585 - ?)
 
 
 == Other
 emigration:  Ship Elizabeth & Ann, London to Boston
-----
+<p>
 2 DATE 1635
 2 AGE About 49-50
-----
+</p>
 
 occupation: Smith and farmer
 
+
 == Sources
+

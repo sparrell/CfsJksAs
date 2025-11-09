@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1622
+
 * Birthplace: Leiden, South Holland, Netherlands
+
 * Death: 1701
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Age at Death: 78-79
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPMM.Sarah_Masterson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0484[Dev-web]
-* https://localhost:4000/person?p=p0484[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0484[Adoc-web]
-* https://localhost:4000/adoc?p=p0484[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0484http://localhost:4000/person?p=p0484https://cfsjksas.gigalixirapp.com/adoc?p=p0484http://localhost:4000/adoc?p=p0484* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Masterson_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Abigail Wood (1645 - 1698)]
-* gen12.MMMMPMMMPPMM.Sarah_Masterson_(1622_-_1701)
+* gen12.MMMMPMMMPPMM.Sarah_Masterson_(1622 - 1701)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,18 +64,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Abigail Wood (1645 - 1698)]
-* gen12.MMMMPMMMPPMM.Sarah_Masterson_(1622_-_1701)
+* gen12.MMMMPMMMPPMM.Sarah_Masterson_(1622 - 1701)
 
 
 == Other
 event:  498
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  498
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

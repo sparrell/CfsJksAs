@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 16 JUL 1665
+
 * Birthplace: Boston, Suffolk, Massachusetts, USA
+
 * Death: 22 APR 1758
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 92
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMP.John_Amos.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0474[Dev-web]
-* https://localhost:4000/person?p=p0474[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0474[Adoc-web]
-* https://localhost:4000/adoc?p=p0474[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0474http://localhost:4000/person?p=p0474https://cfsjksas.gigalixirapp.com/adoc?p=p0474http://localhost:4000/adoc?p=p0474* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
-* gen10.MMMMPMMMMP.John_Amos_(1665_-_1758)
+* gen10.MMMMPMMMMP.John_Amos_(1665 - 1758)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,9 +60,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
-* gen10.MMMMPMMMMP.John_Amos_(1665_-_1758)
+* gen10.MMMMPMMMMP.John_Amos_(1665 - 1758)
 
 
 == Other
 
 == Sources
+

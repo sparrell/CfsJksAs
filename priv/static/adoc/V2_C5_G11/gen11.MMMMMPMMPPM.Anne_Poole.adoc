@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMMPPM.Anne_Poole.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0294[Dev-web]
-* http://localhost:4000/person?p=p0294[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0294[Adoc-web]
-* adoc?p=p0294[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0294http://localhost:4000/person?p=p0294https://cfsjksas.gigalixirapp.com/adoc?p=p0294http://localhost:4000/adoc?p=p0294* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPP.Samuel_Street.adoc[Samuel Street (1635 - 1717)]
-* gen11.MMMMMPMMPPM.Anne_Poole_(1606_-_1660)
+* gen11.MMMMMPMMPPM.Anne_Poole_(1606 - 1660)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPP.Samuel_Street.adoc[Samuel Street (1635 - 1717)]
-* gen11.MMMMMPMMPPM.Anne_Poole_(1606_-_1660)
+* gen11.MMMMMPMMPPM.Anne_Poole_(1606 - 1660)
 
 
 == Other

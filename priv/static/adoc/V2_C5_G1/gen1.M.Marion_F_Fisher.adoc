@@ -44,7 +44,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0074http://localhost:4000/person?p=p
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* gen1.M.Marion_F_Fisher_(1904_-_2002)
+* gen1.M.Marion_F_Fisher_(1904 - 2002)
 
 
 == Other

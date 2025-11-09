@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 16 MAR 1735
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 
 
 == Family
@@ -19,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPM.Hannah_Unknown117.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0511[Dev-web]
-* https://localhost:4000/person?p=p0511[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0511[Adoc-web]
-* https://localhost:4000/adoc?p=p0511[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0511http://localhost:4000/person?p=p0511https://cfsjksas.gigalixirapp.com/adoc?p=p0511http://localhost:4000/adoc?p=p0511* Geni TBD
 * https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Hannah_Unknown_%28708%29[WeRelate]
 * WikiTree TBD
@@ -39,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
-* gen9.MMMMMPMPM.Hannah_Unknown117_(?_-_1735)
+* gen9.MMMMMPMPM.Hannah_Unknown117_(? - 1735)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
-* gen9.MMMMMPMPM.Hannah_Unknown117_(?_-_1735)
+* gen9.MMMMMPMPM.Hannah_Unknown117_(? - 1735)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,7 +62,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
-* gen9.MMMMMPMPM.Hannah_Unknown117_(?_-_1735)
+* gen9.MMMMMPMPM.Hannah_Unknown117_(? - 1735)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,14 +74,14 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
-* gen9.MMMMMPMPM.Hannah_Unknown117_(?_-_1735)
+* gen9.MMMMMPMPM.Hannah_Unknown117_(? - 1735)
 
 
 == Other
 
 == Sources
 * @S54@
-----
+<p>
 2 PAGE https://www.myheritage.com/research/record-10704-1098424/the-boston-transcript
 2 QUAY 4
 2 DATA
@@ -90,5 +89,6 @@ Narrative TBD
 3 TEXT &amp;lt;p&amp;gt;The Boston Transcript&amp;lt;br /&amp;gt;Publication: Boston, Suffolk County, Massachusetts, United States&amp;lt;br /&amp;gt;Date: Dec 23 1931&amp;lt;br /&amp;gt;Text: "...samo cemet
 4 CONC ery. Her inscription reads: &ldquo;Here lies the Body of Mrs. Hannah Lester, widow of Mr. Jonathan Lester decd, who died March 16, 1735 in her year.&rdquo; The correspondent misreads the age of Peter 
 4 CONC Lester..."&amp;lt;/p&amp;gt;
-----
+</p>
+
 

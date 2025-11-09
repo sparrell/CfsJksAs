@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1628
+
 * Birthplace: High Halden, Kent, England, UK
+
 * Death: 7 MAY 1711
+
 * Deathplace: Marshfield, Plymouth, Massachusetts, USA
+
 * Age at Death: About 82-83
+
 
 
 == Ship
@@ -28,11 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPPP.John_Branch.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0542[Dev-web]
-* https://localhost:4000/person?p=p0542[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0542[Adoc-web]
-* https://localhost:4000/adoc?p=p0542[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0542http://localhost:4000/person?p=p0542https://cfsjksas.gigalixirapp.com/adoc?p=p0542http://localhost:4000/adoc?p=p0542* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -49,30 +51,32 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Peter Branch (1659 - 1713)]
-* gen10.MMPMPMMPPP.John_Branch_(1628_-_1711)
+* gen10.MMPMPMMPPP.John_Branch_(1628 - 1711)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE 1643
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
 2 AGE About 14-15
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Fact 1
 2 DATE 1638
 2 PLAC Scituate, Plymouth, Massachusetts, USA
 2 AGE About 9-10
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 2
 2 PLAC Marshfield, Plymouth, Massachusetts, USA
-----
+</p>
 
 notes: John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased the farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.
 
+
 == Sources
+

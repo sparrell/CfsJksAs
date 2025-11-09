@@ -19,9 +19,9 @@ Narrative TBD
 * Deathplace: Boston, Suffolk, Massachusetts, USA
 
 * Buried: 
-----
+<p>
 2 PLAC Copps Hill Burying Ground, Boston, Suffolk County, Massachusetts
-----
+</p>
 
 * Age at Death: 64-65
 
@@ -40,11 +40,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0866[Dev-web]
-* http://localhost:4000/person?p=p0866[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0866[Adoc-web]
-* adoc?p=p0866[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0866http://localhost:4000/person?p=p0866https://cfsjksas.gigalixirapp.com/adoc?p=p0866http://localhost:4000/adoc?p=p0866* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Goodeth_Itchenor_%281%29[WeRelate]
 * WikiTree TBD
@@ -62,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
-* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605_-_1670)
+* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605 - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -76,16 +72,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
-* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605_-_1670)
+* gen11.MMMPPPPMPPM.Judith_Goodeth_Itchenor_(1605 - 1670)
 
 
 == Other
 
 == Sources
 * @S13@
-----
+<p>
 2 PAGE http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=13410413
 2 QUAY 0
-----
+</p>
 
 

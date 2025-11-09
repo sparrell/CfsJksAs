@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: BEF 24 AUG 1590
+
 * Birthplace: Messing, Essex, England, UK
+
 * Baptism: 
-----
+<p>
 2 DATE 24 AUG 1590
 2 PLAC Messing, Essex, England, UK
 2 AGE About 0
-----
+</p>
 
 * Death: 23 AUG 1652
+
 * Deathplace: Windsor, Hartford, Connecticut, USA
+
 * Age at Death: About 61
+
 
 
 == Ship
@@ -34,11 +40,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMPPM.Mary_White.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0521[Dev-web]
-* https://localhost:4000/person?p=p0521[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0521[Adoc-web]
-* https://localhost:4000/adoc?p=p0521[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0521http://localhost:4000/person?p=p0521https://cfsjksas.gigalixirapp.com/adoc?p=p0521http://localhost:4000/adoc?p=p0521* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_White_%284%29[WeRelate]
 * WikiTree TBD
@@ -55,9 +57,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Thankful Loomis (1709 - 1771)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMP.Moses_Loomis.adoc[Moses Loomis (1671 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMPP.Nathaniel_Loomis.adoc[Nathaniel Loomis (1626 - 1688)]
-* gen10.PMPPPPMPPM.Mary_White_(1590_-_1652)
+* gen10.PMPPPPMPPM.Mary_White_(1590 - 1652)
 
 
 == Other
 
 == Sources
+

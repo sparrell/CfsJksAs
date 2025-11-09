@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 28 DEC 1641
+
 * Birthplace: Dedham, Norfolk, Massachusetts, USA
+
 * Death: 16 NOV 1708
+
 * Age at Death: 66
+
 
 
 == Family
@@ -21,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPMM.Mary_Barstow.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0970[Dev-web]
-* https://localhost:4000/person?p=p0970[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0970[Adoc-web]
-* https://localhost:4000/adoc?p=p0970[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0970http://localhost:4000/person?p=p0970https://cfsjksas.gigalixirapp.com/adoc?p=p0970http://localhost:4000/adoc?p=p0970* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Barstow_%285%29[WeRelate]
 * WikiTree TBD
@@ -42,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPM.Mary_Ingraham.adoc[Mary Ingraham (1666 - 1742)]
-* gen10.MMMPMMMPMM.Mary_Barstow_(1641_-_1708)
+* gen10.MMMPMMMPMM.Mary_Barstow_(1641 - 1708)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPM.Mary_Ingraham.adoc[Mary Ingraham (1666 - 1742)]
-* gen10.MMMPMMMPMM.Mary_Barstow_(1641_-_1708)
+* gen10.MMMPMMMPMM.Mary_Barstow_(1641 - 1708)
 
 
 == Other
 
 == Sources
+

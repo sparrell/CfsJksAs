@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPP.Thomas_Stanton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0901[Dev-web]
-* http://localhost:4000/person?p=p0901[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0901[Adoc-web]
-* adoc?p=p0901[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0901http://localhost:4000/person?p=p0901https://cfsjksas.gigalixirapp.com/adoc?p=p0901http://localhost:4000/adoc?p=p0901* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
-* gen11.MMMPPPMMMPP.Thomas_Stanton_(1615_-_1676)
+* gen11.MMMPPPMMMPP.Thomas_Stanton_(1615 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,26 +65,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
-* gen11.MMMPPPMMMPP.Thomas_Stanton_(1615_-_1676)
+* gen11.MMMPPPMMMPP.Thomas_Stanton_(1615 - 1676)
 
 
 == Other
 emigration:  London to Virginia
-----
+<p>
 2 DATE 1635
 2 AGE 19-20
-----
+</p>
 
 event:  Pequot War
-----
+<p>
 2 TYPE Military Service
 2 DATE 1637
 2 AGE 21-22
-----
+</p>
  Skilled interpreter of Indian language
-----
+<p>
 2 TYPE Fact
-----
+</p>
 
 occupation: Trader
 

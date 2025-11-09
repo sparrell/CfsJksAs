@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1614
+
 * Birthplace: England, UK
+
 * Death: 14 SEP 1677
+
 * Deathplace: Windsor, Hartford, Connecticut, USA
+
 * Age at Death: 62-63
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMPMP.John_Moore.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0255[Dev-web]
-* https://localhost:4000/person?p=p0255[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0255[Adoc-web]
-* https://localhost:4000/adoc?p=p0255[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0255http://localhost:4000/person?p=p0255https://cfsjksas.gigalixirapp.com/adoc?p=p0255http://localhost:4000/adoc?p=p0255* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Moore_%28103%29[WeRelate]
 * WikiTree TBD
@@ -50,18 +52,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Thankful Loomis (1709 - 1771)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMP.Moses_Loomis.adoc[Moses Loomis (1671 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMPM.Elizabeth_Moore.adoc[Elizabeth Moore (1638 - 1728)]
-* gen10.PMPPPPMPMP.John_Moore_(1614_-_1677)
+* gen10.PMPPPPMPMP.John_Moore_(1614 - 1677)
 
 
 == Other
 event:  273
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  273
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPMP.George_Partridge.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0402[Dev-web]
-* http://localhost:4000/person?p=p0402[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0402[Adoc-web]
-* adoc?p=p0402[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0402http://localhost:4000/person?p=p0402https://cfsjksas.gigalixirapp.com/adoc?p=p0402http://localhost:4000/adoc?p=p0402* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Partridge_%283%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPM.Lydia_Partridge.adoc[Lydia Partridge (1650 - 1743)]
-* gen11.MMMMPMPPPMP.George_Partridge_(1617_-_1695)
+* gen11.MMMMPMPPPMP.George_Partridge_(1617 - 1695)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,18 +65,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPM.Lydia_Partridge.adoc[Lydia Partridge (1650 - 1743)]
-* gen11.MMMMPMPPPMP.George_Partridge_(1617_-_1695)
+* gen11.MMMMPMPPPMP.George_Partridge_(1617 - 1695)
 
 
 == Other
 event:  423
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  423
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

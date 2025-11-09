@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPPMMP.Michael_Bacon.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1291[Dev-web]
-* http://localhost:4000/person?p=p1291[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1291[Adoc-web]
-* adoc?p=p1291[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1291http://localhost:4000/person?p=p1291https://cfsjksas.gigalixirapp.com/adoc?p=p1291http://localhost:4000/adoc?p=p1291* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Michael_Bacon_%284%29[WeRelate]
 * WikiTree TBD
@@ -55,20 +51,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPM.Sarah_Lakin.adoc[Sarah Lakin (1662 - 1740)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPMM.Mary_Bacon.adoc[Mary Bacon (1640 - 1701)]
-* gen11.PPPMMMPPMMP.Michael_Bacon_(1608_-_1688)
+* gen11.PPPMMMPPMMP.Michael_Bacon_(1608 - 1688)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Michael Bacon&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1608 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Marriage: Oct 26 1655 - Woburn, Middlese
 4 CONC x, Massachusetts Bay&amp;lt;br&amp;gt;Death: July 4 1688 - Woburn, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Alice Bacon (born UNKNOWN)&amp;lt;br&amp;gt;
 4 CONC Spouses: Mary Bacon (born Unknown Richardson, Baldwin)Mary Bacon (born Jobo)Mary Bacon (born Baldwin Richardson)&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin 
 4 CONC (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon&amp;lt;br&amp;gt;Siblings: Alice Bancroft (born Bacon)Daniel BaconJohn BaconSarah Hubbard (born Bacon)John Bacon
-----
+</p>
 
 

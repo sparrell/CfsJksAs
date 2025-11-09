@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: 1638
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPPMMPPMM.Elizabeth_Wyse.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0013[Dev-web]
-* https://localhost:4000/person?p=p0013[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0013[Adoc-web]
-* https://localhost:4000/adoc?p=p0013[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0013http://localhost:4000/person?p=p0013https://cfsjksas.gigalixirapp.com/adoc?p=p0013http://localhost:4000/adoc?p=p0013* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPM.Elizabeth_Weld.adoc[Elizabeth Weld (1625 - 1646)]
-* gen12.MMMPPPMMPPMM.Elizabeth_Wyse_(?_-_1638)
+* gen12.MMMPPPMMPPMM.Elizabeth_Wyse_(? - 1638)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,9 +63,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPM.Elizabeth_Weld.adoc[Elizabeth Weld (1625 - 1646)]
-* gen12.MMMPPPMMPPMM.Elizabeth_Wyse_(?_-_1638)
+* gen12.MMMPPPMMPPMM.Elizabeth_Wyse_(? - 1638)
 
 
 == Other
 
 == Sources
+

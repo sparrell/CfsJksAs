@@ -46,7 +46,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0006http://localhost:4000/person?p=p
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* gen2.PM.Lavinia_Elizabeth_Strong_(1875_-_1941)
+* gen2.PM.Lavinia_Elizabeth_Strong_(1875 - 1941)
 
 
 == Other

@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 26 JUN 1635
+
 * Birthplace: Great Missenden, Bucks., England, UK
+
 * Death: 26 JAN 1710
+
 * Deathplace: Topsfield, Essex, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Pine Grove Cemetery, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 74
+
 
 
 == Ship
@@ -34,11 +40,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPPMP.John_Gould.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0324[Dev-web]
-* https://localhost:4000/person?p=p0324[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0324[Adoc-web]
-* https://localhost:4000/adoc?p=p0324[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0324http://localhost:4000/person?p=p0324https://cfsjksas.gigalixirapp.com/adoc?p=p0324http://localhost:4000/adoc?p=p0324* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Gould_%283%29[WeRelate]
 * WikiTree TBD
@@ -55,10 +57,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPP.Thomas_Bixby.adoc[Thomas Bixby (1696 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPPM.Sarah_Gould.adoc[Sarah Gould (1664 - 1723)]
-* gen10.PPPMMPPPMP.John_Gould_(1635_-_1710)
+* gen10.PPPMMPPPMP.John_Gould_(1635 - 1710)
 
 
 == Other
 title: Capt.
 
+
 == Sources
+

@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 8 JAN 1793
+
 * Deathplace: Bolton, Tolland, Connecticut, USA
+
 
 
 == Family
@@ -19,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMM.Hannah_Unknown067.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0790[Dev-web]
-* https://localhost:4000/person?p=p0790[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0790[Adoc-web]
-* https://localhost:4000/adoc?p=p0790[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0790http://localhost:4000/person?p=p0790https://cfsjksas.gigalixirapp.com/adoc?p=p0790http://localhost:4000/adoc?p=p0790* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,9 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMM.Elizabeth_Goodrich.adoc[Elizabeth Goodrich (1733 - ?)]
-* gen8.PMPPPMMM.Hannah_Unknown067_(?_-_1793)
+* gen8.PMPPPMMM.Hannah_Unknown067_(? - 1793)
 
 
 == Other
 
 == Sources
+

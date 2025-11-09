@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 14 JAN 1581
+
 * Birthplace: Biddenden, Kent, England
+
 * Death: 6 MAY 1652
+
 * Deathplace: Roxbury, Suffolk, Massachusetts
+
 * Age at Death: 71
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPP.John_Stow_Stowe.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1285[Dev-web]
-* https://localhost:4000/person?p=p1285[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1285[Adoc-web]
-* https://localhost:4000/adoc?p=p1285[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1285http://localhost:4000/person?p=p1285https://cfsjksas.gigalixirapp.com/adoc?p=p1285http://localhost:4000/adoc?p=p1285* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Stowe_%285%29[WeRelate]
 * WikiTree TBD
@@ -50,19 +52,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe.adoc[Rev. Samuel Stow Stowe (1645 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe).adoc[Thomas Stow, I (Stowe) (1615 - 1684)]
-* gen12.PPPMMMPMMPPP.John_Stow_Stowe_(1581_-_1652)
+* gen12.PPPMMMPMMPPP.John_Stow_Stowe_(1581 - 1652)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT John Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Jan 14 1581 - Biddenden, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt;br&amp;gt;Death: M
 4 CONC ay 6 1652 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;Father: John Stow (born Stowe), II&amp;lt;br&amp;gt;Mother: Joan Stowe (born Baker Baker, Goldsmith)&amp;lt;br&amp;gt;Wife: Elizabeth Stowe
 4 CONC  (born Bigge Bigg)&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br
 4 CONC &amp;gt;Siblings: Joanna Joane Joan Boyse (born Stowe Stawe)Christopher StoweWilliam StoweChristopher Stow StoweThomas Stow StoweElizabeth StoweZachary Stowe
-----
+</p>
+
 

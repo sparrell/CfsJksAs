@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 8 AUG 1625
+
 * Birthplace: Brentwood, Essex, England, UK
+
 * Death: 23 JAN 1697
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 71
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMPPPPM.Mary_Colborne.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0178[Dev-web]
-* https://localhost:4000/person?p=p0178[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0178[Adoc-web]
-* https://localhost:4000/adoc?p=p0178[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0178http://localhost:4000/person?p=p0178https://cfsjksas.gigalixirapp.com/adoc?p=p0178http://localhost:4000/adoc?p=p0178* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Colborne_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[James Barrell (1727 - 1827)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[William Barrell (1654 - 1689)]
-* gen10.PPPPMPPPPM.Mary_Colborne_(1625_-_1697)
+* gen10.PPPPMPPPPM.Mary_Colborne_(1625 - 1697)
 
 
 == Other
 
 == Sources
+

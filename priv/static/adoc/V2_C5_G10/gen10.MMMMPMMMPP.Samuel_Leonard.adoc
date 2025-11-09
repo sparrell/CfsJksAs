@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1683
+
 * Birthplace: Bridgewater, Plymouth, Massachusetts, USA
+
 * Death: 11 MAY 1718
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: About 34-35
+
 
 
 == Family
@@ -24,14 +30,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0468[Dev-web]
-* https://localhost:4000/person?p=p0468[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0468[Adoc-web]
-* https://localhost:4000/adoc?p=p0468[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0468http://localhost:4000/person?p=p0468https://cfsjksas.gigalixirapp.com/adoc?p=p0468http://localhost:4000/adoc?p=p0468* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000723/samuel-leonard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Samuel_Leonard_%2816%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Leonard-703[WikiTree]
 
 == Relations
 === Lineage #1
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
-* gen10.MMMMPMMMPP.Samuel_Leonard_(1683_-_1718)
+* gen10.MMMMPMMMPP.Samuel_Leonard_(1683 - 1718)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,33 +60,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
-* gen10.MMMMPMMMPP.Samuel_Leonard_(1683_-_1718)
+* gen10.MMMMPMMMPP.Samuel_Leonard_(1683 - 1718)
 
 
 == Other
-event:  483
-----
-2 TYPE Reference Number
-----
- 483
-----
-2 TYPE Reference Number
-----
+notes: <p>&nbsp;</p><p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54</p><p><p>SAMUEL LEONARD</p></p><p><p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped near Worcester Mass.  and carried into captivity by the redskins, with whom he remained for nearly2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the details of whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three, while in a wigwamoccupied by 2 Indian families on an island in the Merrimac river, nearConcord, planned their escape. The boy Samuel had been so long with the savages that, when he asked his master how to strike to kill instantly, and how to take a scalp, it was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while their captors slept, the attack was made. Ten Indians were killed instantly; the two remaining, a squaw who was wounded, and a child who was spared purposely, escaped to the woods. With the scalps of the slain and their weapons, the 3, captives nolonger, embarked in a canoe, and having scuttled the boats that remained, descended the river until they came in safety to their friends. Thenews of their escape spread from settlement to settlement, and all whoheard were filled with astonishment and admiration because of their heroic deed. Soon after the family of the boy Samuel, doubtless fearing thenand always the vengeance of his implacable foes, fled in secrecy toPachaug, and became permanent settlers there. Family tradition alone tellsus that at one timein the early days the Leonards became aware ofan Indian lurking about their home. At last, after days of watching, amemberofthe family shot the Indian dead, seemingly with no morecompunction thanhe would have shown toward a dangerous beast. But such incidents wereexceptional.</p><p></p>
 
-notes: <p>&nbsp;</p><p><p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54</p><p><p>SAMUEL LEONARD</p></p><p><p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped near Worcester Mass.  and carried into captivity by the redskins, with whom he remained for nearly2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the details of whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three, while in a wigwamoccupied by 2 Indian families on an island in the Merrimac river, nearConcord, planned their escape. The boy Samuel had been so long with the savages that, when he asked his master how to strike to kill instantly, and how to take a scalp, it was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while their captors slept, the attack was made. Ten Indians were killed instantly; the two remaining, a squaw who was wounded, and a child who was spared purposely, escaped to the woods. With the scalps of the slain and their weapons, the 3, captives nolonger, embarked in a canoe, and having scuttled the boats that remained, descended the river until they came in safety to their friends. Thenews of their escape spread from settlement to settlement, and all whoheard were filled with astonishment and admiration because of their heroic deed. Soon after the family of the boy Samuel, doubtless fearing thenand always the vengeance of his implacable foes, fled in secrecy toPachaug, and became permanent settlers there. Family tradition alone tellsus that at one timein the early days the Leonards became aware ofan Indian lurking about their home. At last, after days of watching, amemberofthe family shot the Indian dead, seemingly with no morecompunction thanhe would have shown toward a dangerous beast. But such incidents wereexceptional.</p><p></p>
 
 == Sources
 * @S40@
-----
+<p>
 2 QUAY 0
 2 DATA
 3 TEXT <p>GRISWOLD-A HISTORY Being a history of the town of Griswold CTmicrofilm 1597788 item 5 book 975.65/G3 H2p pp11,12,54</p>
-----
+</p>
 
 * @S41@
-----
+<p>
 2 QUAY 0
 2 DATA
 3 TEXT <p>Fall 2016 has an article on Hannah Duston that includes Samuel's escpape from the Indians</p>
-----
+</p>
+
 

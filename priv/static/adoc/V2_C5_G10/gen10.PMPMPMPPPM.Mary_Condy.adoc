@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPPPM.Mary_Condy.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0488[Dev-web]
-* https://localhost:4000/person?p=p0488[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0488[Adoc-web]
-* https://localhost:4000/adoc?p=p0488[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0488http://localhost:4000/person?p=p0488https://cfsjksas.gigalixirapp.com/adoc?p=p0488http://localhost:4000/adoc?p=p0488* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,9 +35,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPP.John_Chester.adoc[John Chester (1692 - 1771)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPPP.Samuel_Chester.adoc[Samuel Chester (1660 - 1689)]
-* gen10.PMPMPMPPPM.Mary_Condy_(?_-_?)
+* gen10.PMPMPMPPPM.Mary_Condy_(? - ?)
 
 
 == Other
 
 == Sources
+

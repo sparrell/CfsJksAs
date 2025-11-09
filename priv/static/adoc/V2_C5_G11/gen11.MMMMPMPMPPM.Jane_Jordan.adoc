@@ -31,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPPM.Jane_Jordan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0578[Dev-web]
-* http://localhost:4000/person?p=p0578[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0578[Adoc-web]
-* adoc?p=p0578[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0578http://localhost:4000/person?p=p0578https://cfsjksas.gigalixirapp.com/adoc?p=p0578http://localhost:4000/adoc?p=p0578* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -53,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
-* gen11.MMMMPMPMPPM.Jane_Jordan_(?_-_1702)
+* gen11.MMMMPMPMPPM.Jane_Jordan_(? - 1702)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -67,18 +63,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
-* gen11.MMMMPMPMPPM.Jane_Jordan_(?_-_1702)
+* gen11.MMMMPMPMPPM.Jane_Jordan_(? - 1702)
 
 
 == Other
 event:  584
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  584
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

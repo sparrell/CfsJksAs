@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 16 JUN 1627
+
 * Birthplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Death: 12 DEC 1671
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Age at Death: 44
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMPM.Alice_Richards.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1002[Dev-web]
-* https://localhost:4000/person?p=p1002[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1002[Adoc-web]
-* https://localhost:4000/adoc?p=p1002[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1002http://localhost:4000/person?p=p1002https://cfsjksas.gigalixirapp.com/adoc?p=p1002http://localhost:4000/adoc?p=p1002* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_Richards_%2810%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +47,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[John Whiting (1719 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMP.Samuel_Bradford.adoc[Samuel Bradford (1667 - 1714)]
-* gen10.PMPMMMPMPM.Alice_Richards_(1627_-_1671)
+* gen10.PMPMMMPMPM.Alice_Richards_(1627 - 1671)
 
 
 == Other
 
 == Sources
+

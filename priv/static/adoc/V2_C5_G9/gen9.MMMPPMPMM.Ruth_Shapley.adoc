@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 21 DEC 1672
+
 * Birthplace: New London, New London Co., CT
+
 * Death: 19 OCT 1739
+
 * Deathplace: Groton, New London Co., CT
+
 * Buried: 
-----
+<p>
 2 DATE 21 OCT 1739
 2 PLAC Groton, CT
-----
+</p>
 
 * Age at Death: 66
+
 
 
 == Family
@@ -30,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0397[Dev-web]
-* https://localhost:4000/person?p=p0397[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0397[Adoc-web]
-* https://localhost:4000/adoc?p=p0397[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0397http://localhost:4000/person?p=p0397https://cfsjksas.gigalixirapp.com/adoc?p=p0397http://localhost:4000/adoc?p=p0397* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMM.Ruth_Shapley_(1672_-_1739)
+* gen9.MMMPPMPMM.Ruth_Shapley_(1672 - 1739)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,7 +64,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMM.Ruth_Shapley_(1672_-_1739)
+* gen9.MMMPPMPMM.Ruth_Shapley_(1672 - 1739)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -74,26 +76,27 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPM.Mary_Chester.adoc[Mary Chester (1764 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Mary Morgan (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMM.Ruth_Shapley_(1672_-_1739)
+* gen9.MMMPPMPMM.Ruth_Shapley_(1672 - 1739)
 
 
 == Other
 residence: 
-----
+<p>
 2 DATE 1727
 2 AGE 54-55
 2 ADDR
 3 ADR1 New London County, CT
-----
+</p>
 
 
 == Sources
 * @S50@
-----
+<p>
 2 PAGE Ruth Morgan (born Shapley (Shapleigh))
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added by confirming a Smart Match
-----
+</p>
+
 

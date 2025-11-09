@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: M
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPMMP.John_Lambert.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0252[Dev-web]
-* https://localhost:4000/person?p=p0252[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0252[Adoc-web]
-* https://localhost:4000/adoc?p=p0252[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0252http://localhost:4000/person?p=p0252https://cfsjksas.gigalixirapp.com/adoc?p=p0252http://localhost:4000/adoc?p=p0252* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Lambert_%2846%29[WeRelate]
 * WikiTree TBD
@@ -37,9 +34,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPM.Deborah_Bowker.adoc[Deborah Bowker (1730 - 1813)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMM.Hannah_Lambert.adoc[Hannah Lambert (1697 - ?)]
-* gen9.PPPPMPMMP.John_Lambert_(?_-_?)
+* gen9.PPPPMPMMP.John_Lambert_(? - ?)
 
 
 == Other
 
 == Sources
+

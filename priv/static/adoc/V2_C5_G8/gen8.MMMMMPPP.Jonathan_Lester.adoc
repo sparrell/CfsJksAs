@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BEF 8 MAR 1702
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 12 AUG 1774
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: About 72
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0956[Dev-web]
-* https://localhost:4000/person?p=p0956[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0956[Adoc-web]
-* https://localhost:4000/adoc?p=p0956[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0956http://localhost:4000/person?p=p0956https://cfsjksas.gigalixirapp.com/adoc?p=p0956http://localhost:4000/adoc?p=p0956* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jonathan_Lester_%281%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
-* gen8.MMMMMPPP.Jonathan_Lester_(1702_-_1774)
+* gen8.MMMMMPPP.Jonathan_Lester_(1702 - 1774)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,18 +56,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
-* gen8.MMMMMPPP.Jonathan_Lester_(1702_-_1774)
+* gen8.MMMMMPPP.Jonathan_Lester_(1702 - 1774)
 
 
 == Other
 event:  93
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  93
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

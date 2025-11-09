@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: 11 SEP 1658
+
 * Deathplace: Fairfield, Fairfield, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPPMMP.Thomas_Dickerson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0775[Dev-web]
-* https://localhost:4000/person?p=p0775[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0775[Adoc-web]
-* https://localhost:4000/adoc?p=p0775[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0775http://localhost:4000/person?p=p0775https://cfsjksas.gigalixirapp.com/adoc?p=p0775http://localhost:4000/adoc?p=p0775* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Dickerson_%283%29[WeRelate]
 * WikiTree TBD
@@ -46,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPM.Mary_Castle.adoc[Mary Castle (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPMM.Abigail_Dickerson.adoc[Abigail Dickerson (1645 - 1725)]
-* gen10.MMPPPPPMMP.Thomas_Dickerson_(?_-_1658)
+* gen10.MMPPPPPMMP.Thomas_Dickerson_(? - 1658)
 
 
 == Other
 
 == Sources
+

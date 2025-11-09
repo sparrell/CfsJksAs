@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMMPP.John_May.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0205[Dev-web]
-* http://localhost:4000/person?p=p0205[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0205[Adoc-web]
-* adoc?p=p0205[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0205http://localhost:4000/person?p=p0205https://cfsjksas.gigalixirapp.com/adoc?p=p0205http://localhost:4000/adoc?p=p0205* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_May_%2872%29[WeRelate]
 * WikiTree TBD
@@ -55,18 +51,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMM.Joanna_May.adoc[Joanna May (1666 - 1751)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMMP.Samuel_May.adoc[Samuel May (? - 1677)]
-* gen11.PPPPMMPMMPP.John_May_(1590_-_1670)
+* gen11.PPPPMMPMMPP.John_May_(1590 - 1670)
 
 
 == Other
 event:  227
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  227
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 notes: Ancestor of President George W. Bush.
 

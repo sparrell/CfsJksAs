@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 4 JUN 1618
+
 * Birthplace: St. Michaels South Elmham, Suffolk, England, UK
+
 * Death: 29 AUG 1658
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 40
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMPPPPP.John_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0177[Dev-web]
-* https://localhost:4000/person?p=p0177[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0177[Adoc-web]
-* https://localhost:4000/adoc?p=p0177[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0177http://localhost:4000/person?p=p0177https://cfsjksas.gigalixirapp.com/adoc?p=p0177http://localhost:4000/adoc?p=p0177* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Barrell_%283%29[WeRelate]
 * WikiTree TBD
@@ -50,29 +52,31 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[James Barrell (1727 - 1827)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[William Barrell (1654 - 1689)]
-* gen10.PPPPMPPPPP.John_Barrell_(1618_-_1658)
+* gen10.PPPPMPPPPP.John_Barrell_(1618 - 1658)
 
 
 == Other
 event:  Ensign of the Artillery Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1656
 2 AGE 37-38
-----
+</p>
  Member of First Church
-----
+<p>
 2 TYPE Fact 1
 2 DATE 1645
 2 AGE 26-27
-----
+</p>
  Sergeant of the Artillery Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1651
 2 AGE 32-33
-----
+</p>
 
 occupation: Cooper
 
+
 == Sources
+

@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: AFT 4 JUL 1640
+
 * Deathplace: Lynn, Essex, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPPMMPMP.Hugh_Churchman.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0418[Dev-web]
-* https://localhost:4000/person?p=p0418[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0418[Adoc-web]
-* https://localhost:4000/adoc?p=p0418[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0418http://localhost:4000/person?p=p0418https://cfsjksas.gigalixirapp.com/adoc?p=p0418http://localhost:4000/adoc?p=p0418* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hugh_Churchman_%281%29[WeRelate]
 * WikiTree TBD
@@ -49,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPM.Hannah_Churchman.adoc[Hannah Churchman (? - 1670)]
-* gen12.MMMMPPPMMPMP.Hugh_Churchman_(?_-_1640)
+* gen12.MMMMPPPMMPMP.Hugh_Churchman_(? - 1640)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -64,7 +64,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPM.Hannah_Churchman.adoc[Hannah Churchman (? - 1670)]
-* gen12.MMMMPPPMMPMP.Hugh_Churchman_(?_-_1640)
+* gen12.MMMMPPPMMPMP.Hugh_Churchman_(? - 1640)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,7 +80,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPM.Hannah_Churchman.adoc[Hannah Churchman (? - 1670)]
-* gen12.MMMMPPPMMPMP.Hugh_Churchman_(?_-_1640)
+* gen12.MMMMPPPMMPMP.Hugh_Churchman_(? - 1640)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -95,9 +95,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPM.Hannah_Churchman.adoc[Hannah Churchman (? - 1670)]
-* gen12.MMMMPPPMMPMP.Hugh_Churchman_(?_-_1640)
+* gen12.MMMMPPPMMPMP.Hugh_Churchman_(? - 1640)
 
 
 == Other
 
 == Sources
+

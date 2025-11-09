@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1594
+
 * Birthplace: Southwark, Surrey, England, UK
+
 * Death: 23 DEC 1648
+
 * Deathplace: Weymouth, Norfolk, Massachusetts, USA
+
 * Age at Death: About 53-54
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPP.Clement_Briggs.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0695[Dev-web]
-* https://localhost:4000/person?p=p0695[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0695[Adoc-web]
-* https://localhost:4000/adoc?p=p0695[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0695http://localhost:4000/person?p=p0695https://cfsjksas.gigalixirapp.com/adoc?p=p0695http://localhost:4000/adoc?p=p0695* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,17 +49,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Jonathan_Briggs.adoc[Jonathan Briggs (1635 - 1699)]
-* gen9.MPMMMPPPP.Clement_Briggs_(1594_-_1648)
+* gen9.MPMMMPPPP.Clement_Briggs_(1594 - 1648)
 
 
 == Other
 emigration:  arr. Plymouth on the "Fortune" from London
-----
+<p>
 2 DATE NOV 1621
 2 PLAC Plymouth, Plymouth, Massachusetts, USA
 2 AGE About 26-27
-----
+</p>
 
 occupation: "Fellmonger" ( Leather tanner)
 
+
 == Sources
+

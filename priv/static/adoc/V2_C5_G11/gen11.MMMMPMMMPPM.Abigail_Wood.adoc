@@ -30,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0471[Dev-web]
-* http://localhost:4000/person?p=p0471[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0471[Adoc-web]
-* adoc?p=p0471[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0471http://localhost:4000/person?p=p0471https://cfsjksas.gigalixirapp.com/adoc?p=p0471http://localhost:4000/adoc?p=p0471* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Wood_%2817%29[WeRelate]
 * WikiTree TBD
@@ -52,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
-* gen11.MMMMPMMMPPM.Abigail_Wood_(1645_-_1698)
+* gen11.MMMMPMMMPPM.Abigail_Wood_(1645 - 1698)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -66,7 +62,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
-* gen11.MMMMPMMMPPM.Abigail_Wood_(1645_-_1698)
+* gen11.MMMMPMMMPPM.Abigail_Wood_(1645 - 1698)
 
 
 == Other

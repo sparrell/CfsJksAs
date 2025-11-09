@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: Sudbury, Middlesex, Massachusetts, USA
+
 
 
 == Family
@@ -19,11 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMM.Elizabeth_Freeman.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0571[Dev-web]
-* https://localhost:4000/person?p=p0571[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0571[Adoc-web]
-* https://localhost:4000/adoc?p=p0571[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0571http://localhost:4000/person?p=p0571https://cfsjksas.gigalixirapp.com/adoc?p=p0571http://localhost:4000/adoc?p=p0571* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -40,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
-* gen10.MMMMPMPMMM.Elizabeth_Freeman_(?_-_?)
+* gen10.MMMMPMPMMM.Elizabeth_Freeman_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -53,9 +51,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
-* gen10.MMMMPMPMMM.Elizabeth_Freeman_(?_-_?)
+* gen10.MMMMPMPMMM.Elizabeth_Freeman_(? - ?)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 12 AUG 1593
+
 * Birthplace: Scrooby, Nottinghamshire, England, UK
+
 * Death: 7 AUG 1659
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 65
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0487[Dev-web]
-* https://localhost:4000/person?p=p0487[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0487[Adoc-web]
-* https://localhost:4000/adoc?p=p0487[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0487http://localhost:4000/person?p=p0487https://cfsjksas.gigalixirapp.com/adoc?p=p0487http://localhost:4000/adoc?p=p0487* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jonathan_Brewster_%283%29[WeRelate]
 * https://www.wikitree.com/wiki/Brewster-3[WikiTree]
@@ -52,7 +54,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -67,7 +69,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -82,7 +84,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -97,7 +99,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -112,7 +114,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -127,7 +129,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -142,7 +144,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -156,7 +158,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Mary Starr (1696 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPM.Hannah_Brewster.adoc[Hannah Brewster (1641 - 1711)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #9
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -170,7 +172,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPM.Lydia_Turner.adoc[Lydia Turner (1653 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 === Lineage #10
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -183,42 +185,44 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPP.Benjamin_Turner.adoc[Benjamin Turner (1660 - 1731)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
-* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593_-_1659)
+* gen10.PPPPPMPPMP.Jonathan_Brewster_(1593 - 1659)
 
 
 == Other
 emigration:  arrived Plymouth on the FORTUNE from London
-----
+<p>
 2 DATE 9 NOV 1621
 2 PLAC Plymouth, Plymouth, Massachusetts, USA
 2 AGE 28
-----
+</p>
 
 event:  Military Commisioner for the Pequot War
-----
+<p>
 2 TYPE Appointed
 2 DATE 1637
 2 AGE 43-44
-----
+</p>
  Sold house at Duxbury, Plymouth Colony to Dr. Comfort Starr
-----
+<p>
 2 TYPE Fact 7
 2 DATE 19 JUN 1638
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
 2 AGE 44
-----
+</p>
 
 notes: Jonathan Brewster obtained a licence to operate a ferry across the North River between present day Scituate and Marshfield. Because af the small population at the time , this venture was a failure. Hethen became the agent for the Plymouth Colony in what later became the Connecticut Colony. <p></p> <p>Jonathan Brewster next became a trader along the coast of New England from Maine to Connecticut in a sloop as did his brother-in-law John Oldham. The murder of Oldham by Indians off Block Island was one of the precipitating events of the Pequot War. <p></p> <p>Jonathan  finally established a trading post on land along the Thames River which he had purchased from Uncas, Chief of the Mohicans in 1650.</p> <p></p> <p>His New London farm was located on what became the border between Norwich and New London lying partly in each. That is why he is recorded as dying in New London and Lucretia in Norwich although both died in the same house. He was a close friend of John Winthrop, Jr., founder of New London and first Governor of the Connecticut Colony.
+
 occupation: Coastal Trader (Notes)
-----
+<p>
 2 DATE AFT 1630
 2 AGE About 36-37
-----
+</p>
 Ribbonmaker in Leyden, Netherlands
-----
+<p>
 2 DATE BEF 1620
 2 AGE About 26-27
-----
+</p>
 
 
 == Sources
+

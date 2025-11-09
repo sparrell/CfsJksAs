@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 
 
 == Ship
@@ -24,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMMM.Abigail_Stansfell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0754[Dev-web]
-* https://localhost:4000/person?p=p0754[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0754[Adoc-web]
-* https://localhost:4000/adoc?p=p0754[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0754http://localhost:4000/person?p=p0754https://cfsjksas.gigalixirapp.com/adoc?p=p0754http://localhost:4000/adoc?p=p0754* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Stansfield_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,19 +44,21 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMM.Joanna_May.adoc[Joanna May (1666 - 1751)]
-* gen10.PPPPMMPMMM.Abigail_Stansfell_(?_-_?)
+* gen10.PPPPMMPMMM.Abigail_Stansfell_(? - ?)
 
 
 == Other
 event:  743
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  744
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 notes: She was 16 when she married Samuel May.
 
+
 == Sources
+

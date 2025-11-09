@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPPPMPMPMM.Mary_Unknown082.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0937[Dev-web]
-* http://localhost:4000/person?p=p0937[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0937[Adoc-web]
-* adoc?p=p0937[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0937http://localhost:4000/person?p=p0937https://cfsjksas.gigalixirapp.com/adoc?p=p0937http://localhost:4000/adoc?p=p0937* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPMPM.Mehitable_Beach.adoc[Mehitable Beach (1690 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPMPMP.John_Beach.adoc[John Beach (1654 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPMPMPM.Mary_Staples.adoc[Mary Staples (? - 1677)]
-* gen11.MMPPPMPMPMM.Mary_Unknown082_(?_-_1676)
+* gen11.MMPPPMPMPMM.Mary_Unknown082_(? - 1676)
 
 
 == Other

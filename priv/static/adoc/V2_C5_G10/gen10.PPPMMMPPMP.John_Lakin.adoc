@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1 NOV 1628
+
 * Birthplace: Ruddington, England
+
 * Death: 21 MAR 1697
+
 * Deathplace: Groton, Middlesex, Massachusetts
+
 * Age at Death: 68
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPMP.John_Lakin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1289[Dev-web]
-* https://localhost:4000/person?p=p1289[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1289[Adoc-web]
-* https://localhost:4000/adoc?p=p1289[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1289http://localhost:4000/person?p=p1289https://cfsjksas.gigalixirapp.com/adoc?p=p1289http://localhost:4000/adoc?p=p1289* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Lakin_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,19 +50,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPM.Sarah_Lakin.adoc[Sarah Lakin (1662 - 1740)]
-* gen10.PPPMMMPPMP.John_Lakin_(1628_-_1697)
+* gen10.PPPMMMPPMP.John_Lakin_(1628 - 1697)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT John Lakin&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Nov 1 1628 - Ruddington, England&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Mar 21 1697
 4 CONC  - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: William Lakin&amp;lt;br&amp;gt;Mother: Mary Martin (born Bacon Lakin)&amp;lt;br&amp;gt;Wife: Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Child
 4 CONC ren: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (born Lakin)&amp;lt;br&amp;g
 4 CONC t;Sibling: Lieut. William Lakin
-----
+</p>
+
 

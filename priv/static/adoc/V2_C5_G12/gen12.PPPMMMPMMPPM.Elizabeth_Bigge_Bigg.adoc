@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Stowe
+
 * Birth: 1 NOV 1590
+
 * Birthplace: Cranbrook, Kent, England
+
 * Death: 21 AUG 1638
+
 * Deathplace: Roxbury, Suffolk, Massachusetts Bay
+
 * Age at Death: 47
+
 
 
 == Ship
@@ -28,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPM.Elizabeth_Bigge_Bigg.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1286[Dev-web]
-* https://localhost:4000/person?p=p1286[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1286[Adoc-web]
-* https://localhost:4000/adoc?p=p1286[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1286http://localhost:4000/person?p=p1286https://cfsjksas.gigalixirapp.com/adoc?p=p1286http://localhost:4000/adoc?p=p1286* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Bigge_%281%29[WeRelate]
 * WikiTree TBD
@@ -51,19 +54,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe.adoc[Rev. Samuel Stow Stowe (1645 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe).adoc[Thomas Stow, I (Stowe) (1615 - 1684)]
-* gen12.PPPMMMPMMPPM.Elizabeth_Bigge_Bigg_(1590_-_1638)
+* gen12.PPPMMMPMMPPM.Elizabeth_Bigge_Bigg_(1590 - 1638)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Nov 1 1590 - Cranbrook, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt
 4 CONC ;br&amp;gt;Death: Aug 21 1638 - Roxbury, Suffolk, Massachusetts Bay&amp;lt;br&amp;gt;Father: John Bigge Briggs, Sr.&amp;lt;br&amp;gt;Mother: Rachel Bigge (born Martin Bigg)&amp;lt;br&amp;gt;Husband: J
 4 CONC ohn Stow Stowe&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br&amp
 4 CONC ;gt;Siblings: Anna Bigg BiggeSmallhope Smalehope BiggJames Bigg BiggeJohn BiggThankful BiggPatience Foster (born Bigge Biggs)Samuel BriggsWilliam BriggsRachel Masters (born Bigge Starr)
-----
+</p>
+
 

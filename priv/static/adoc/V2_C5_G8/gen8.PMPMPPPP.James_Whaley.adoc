@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1680
+
 * Birthplace: Ulster, Northern Ireland, UK
+
 * Death: 30 MAR 1741
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Age at Death: 60-61
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPPPP.James_Whaley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0905[Dev-web]
-* https://localhost:4000/person?p=p0905[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0905[Adoc-web]
-* https://localhost:4000/adoc?p=p0905[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0905http://localhost:4000/person?p=p0905https://cfsjksas.gigalixirapp.com/adoc?p=p0905http://localhost:4000/adoc?p=p0905* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Whaley_%2814%29[WeRelate]
 * WikiTree TBD
@@ -46,17 +48,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMP.William_Patten_Whaley.adoc[William Patten Whaley (1786 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPP.Jonathan_Whaley.adoc[Jonathan Whaley (1759 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPPP.Alexander_Whaley.adoc[Alexander Whaley (1713 - 1799)]
-* gen8.PMPMPPPP.James_Whaley_(1680_-_1741)
+* gen8.PMPMPPPP.James_Whaley_(1680 - 1741)
 
 
 == Other
 emigration:  Ulster to Plymouth MA
-----
+<p>
 2 DATE 1722
 2 PLAC Plymouth, Plymouth, Massachusetts, USA
 2 AGE 41-42
-----
+</p>
 
 notes: He died in what was then Plymouth but his grave is now in the Town of Carver.
 
+
 == Sources
+

@@ -7,23 +7,29 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: OCT 1590
+
 * Birthplace: Nottinghamshire, UK
+
 * Christening: 
-----
+<p>
 2 DATE 9 OCT 1590
 2 AGE 0
-----
+</p>
 
 * Death: 10 NOV 1661
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 DATE NOV 1661
 2 PLAC Wequetequock Burial Ground, Stonington, New London, Connecticut, United States
-----
+</p>
 
 * Age at Death: 71
+
 
 
 == Ship
@@ -39,11 +45,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPPMP.Walter_Palmer.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0961[Dev-web]
-* https://localhost:4000/person?p=p0961[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0961[Adoc-web]
-* https://localhost:4000/adoc?p=p0961[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0961http://localhost:4000/person?p=p0961https://cfsjksas.gigalixirapp.com/adoc?p=p0961http://localhost:4000/adoc?p=p0961* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Walter_Palmer_%281%29[WeRelate]
 * WikiTree TBD
@@ -61,7 +63,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Hannah Sterry (1672 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMM.Hannah_Palmer.adoc[Hannah Palmer (1635 - ?)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,7 +77,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMP.Joseph_Miner.adoc[Joseph Miner (1644 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMPM.Grace_Palmer.adoc[Grace Palmer (1612 - 1690)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -88,7 +90,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPM.Rebecca_Palmer.adoc[Rebecca Palmer (1646 - 1713)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -102,7 +104,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Hannah Sterry (1672 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMM.Hannah_Palmer.adoc[Hannah Palmer (1635 - ?)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -116,7 +118,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMP.Joseph_Miner.adoc[Joseph Miner (1644 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMPM.Grace_Palmer.adoc[Grace Palmer (1612 - 1690)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -129,81 +131,85 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPM.Rebecca_Palmer.adoc[Rebecca Palmer (1646 - 1713)]
-* gen10.MMMPMMPPMP.Walter_Palmer_(1590_-_1661)
+* gen10.MMMPMMPPMP.Walter_Palmer_(1590 - 1661)
 
 
 == Other
 emigration:  England to Charlestown MA
-----
+<p>
 2 DATE 1629
 2 PLAC Charlestown, Massachusetts, USA
 2 AGE 38-39
-----
+</p>
 
 event:  Constable of Charlestown
-----
+<p>
 2 TYPE Appointed
 2 DATE 1631
 2 AGE 40-41
-----
+</p>
  Tried for manslaughter (see notes)
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1630
 2 AGE 39-40
-----
+</p>
  _ELEC of Palmer, Walter - Charlestown Selectman
-----
+<p>
 2 TYPE _ELEC
 2 DATE 10 FEB 1635
 2 AGE 44
-----
+</p>
  _ELEC of Palmer, Walter - Freeman of Charlestown
-----
+<p>
 2 TYPE _ELEC
 2 DATE 18 MAY 1631
 2 AGE 40
-----
+</p>
  _ELEC of Palmer, Walter - Representative from Rehoboth (Notes)
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1646
 2 AGE 55-56
-----
+</p>
 
 notes: <p>Charged with manslaughter at Charlestown MA 0n 28 September 1630 and bound over for trial. The Coroner's Jury found "that the strokes given by Walter Palmer were occasionally the means of the death of Austen Brachter, & so to be manslaughter. On 9 November the trial jury found Palmer not guilty.</p><p>First Representative to the General Court elected from Rehoboth in 1646</p>
-occupation: Farmer and Dairymanfarmer/dairyman, immigrated June 1629
+
+occupation: Farmer and Dairyman
+farmer/dairyman, immigrated June 1629
+
 religion: 2 DATE 1 JUN 1631
-----
+<p>
 2 AGE 40
-----
+</p>
 
 residence: 
-----
+<p>
 2 DATE JUN 1629
 2 AGE 38
 2 ADDR
 3 ADR2 Salem, Massachusetts
-----
+</p>
 
 will: Will dated at Stonington
-----
+<p>
 2 DATE 19 MAY 1658
 2 AGE 67
-----
+</p>
 Will probated
-----
+<p>
 2 DATE 11 MAY 1662
 2 AGE 71
-----
+</p>
 
 
 == Sources
 * @S49@
-----
+<p>
 2 PAGE https://www.myheritage.com/person-1502068_350491171_350491171/walter-palmer
 2 QUAY 3
 2 DATA
 3 TEXT Added by confirming a Smart Match
-----
+</p>
+
 

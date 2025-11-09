@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BEF 3 MAY 1646
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: 10 AUG 1726
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: About 80
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMP.Thomas_Gates.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0570[Dev-web]
-* https://localhost:4000/person?p=p0570[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0570[Adoc-web]
-* https://localhost:4000/adoc?p=p0570[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0570http://localhost:4000/person?p=p0570https://cfsjksas.gigalixirapp.com/adoc?p=p0570http://localhost:4000/adoc?p=p0570* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
-* gen10.MMMMPMPMMP.Thomas_Gates_(1646_-_1726)
+* gen10.MMMMPMPMMP.Thomas_Gates_(1646 - 1726)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,42 +60,43 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
-* gen10.MMMMPMPMMP.Thomas_Gates_(1646_-_1726)
+* gen10.MMMMPMPMMP.Thomas_Gates_(1646 - 1726)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE 1678
 2 PLAC Sudbury, Middlesex, Massachusetts, USA
 2 AGE About 31-32
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1682
 2 PLAC Stow, Middlesex, Massachusetts, USA
 2 AGE About 35-36
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 5
 2 PLAC Stow, Middlesex, Massachusetts, USA
-----
+</p>
 
-----
+<p>
 2 TYPE Military Service
 2 DATE 1671
 2 PLAC Marlborough, Middlesex, Massachusetts, USA
 2 AGE About 24-25
-----
+</p>
  Moved to Norwich (Preston) CT
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1703
 2 AGE About 56-57
-----
+</p>
 
 
 == Sources
+

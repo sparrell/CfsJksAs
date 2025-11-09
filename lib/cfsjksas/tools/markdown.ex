@@ -80,14 +80,12 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def make_label(id_a) do
 		person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
-		person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
+#		person_a.label <> "_(" <> person_a.birth_year <> "_-_" <> person_a.death_year <> ")"
+		person_a.label <> "_" <> Cfsjksas.Ancestors.Person.get_dates(person_a)
 	end
 
 	def make_title(person) do
-		Cfsjksas.Ancestors.Person.get_name(person)
-		<> " ("
-		<> get_dates(person)
-		<> ")"
+		Cfsjksas.Ancestors.Person.get_name_dates(person)
 	end
 
 	@doc """

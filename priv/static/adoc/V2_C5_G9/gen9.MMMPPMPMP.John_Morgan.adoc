@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 10 JUN 1667
+
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
+
 * Death: 4 MAY 1748
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 80
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0400[Dev-web]
-* https://localhost:4000/person?p=p0400[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0400[Adoc-web]
-* https://localhost:4000/adoc?p=p0400[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0400http://localhost:4000/person?p=p0400https://cfsjksas.gigalixirapp.com/adoc?p=p0400http://localhost:4000/adoc?p=p0400* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -44,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMP.John_Morgan_(1667_-_1748)
+* gen9.MMMPPMPMP.John_Morgan_(1667 - 1748)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMP.John_Morgan_(1667_-_1748)
+* gen9.MMMPPMPMP.John_Morgan_(1667 - 1748)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -68,17 +70,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPM.Mary_Chester.adoc[Mary Chester (1764 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Mary Morgan (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
-* gen9.MMMPPMPMP.John_Morgan_(1667_-_1748)
+* gen9.MMMPPMPMP.John_Morgan_(1667 - 1748)
 
 
 == Other
 event:  _ELEC of Morgan, John - Representative in Assembly for Groton
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1731
 2 PLAC Groton, New London, Connecticut, USA
 2 AGE 63-64
-----
+</p>
 
 
 == Sources
+

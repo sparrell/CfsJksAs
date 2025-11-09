@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 23 MAR 1651
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: 20 FEB 1715
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 63
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMM.Sarah_Hough.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0925[Dev-web]
-* https://localhost:4000/person?p=p0925[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0925[Adoc-web]
-* https://localhost:4000/adoc?p=p0925[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0925http://localhost:4000/person?p=p0925https://cfsjksas.gigalixirapp.com/adoc?p=p0925http://localhost:4000/adoc?p=p0925* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
-* gen10.MMMPPMMMMM.Sarah_Hough_(1651_-_1715)
+* gen10.MMMPPMMMMM.Sarah_Hough_(1651 - 1715)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,18 +60,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
-* gen10.MMMPPMMMMM.Sarah_Hough_(1651_-_1715)
+* gen10.MMMPPMMMMM.Sarah_Hough_(1651 - 1715)
 
 
 == Other
 event:  901
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  916
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

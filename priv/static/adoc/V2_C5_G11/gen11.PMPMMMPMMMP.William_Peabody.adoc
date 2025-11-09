@@ -31,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMMMP.William_Peabody.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0998[Dev-web]
-* http://localhost:4000/person?p=p0998[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0998[Adoc-web]
-* adoc?p=p0998[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0998http://localhost:4000/person?p=p0998https://cfsjksas.gigalixirapp.com/adoc?p=p0998http://localhost:4000/adoc?p=p0998* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Pabodie_%281%29[WeRelate]
 * WikiTree TBD
@@ -53,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMM.Hannah_Rogers.adoc[Hannah Rogers (1668 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMM.Elizabeth_Peabody.adoc[Elizabeth Peabody (1647 - 1678)]
-* gen11.PMPMMMPMMMP.William_Peabody_(1619_-_1707)
+* gen11.PMPMMMPMMMP.William_Peabody_(1619 - 1707)
 
 
 == Other

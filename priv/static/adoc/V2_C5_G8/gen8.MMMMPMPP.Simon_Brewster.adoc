@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 10 JUN 1720
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 29 JUN 1801
+
 * Deathplace: Town of Griswold, Connecticut, USA
+
 * Age at Death: 81
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0728[Dev-web]
-* https://localhost:4000/person?p=p0728[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0728[Adoc-web]
-* https://localhost:4000/adoc?p=p0728[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0728http://localhost:4000/person?p=p0728https://cfsjksas.gigalixirapp.com/adoc?p=p0728http://localhost:4000/adoc?p=p0728* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Simon_Brewster_%283%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
-* gen8.MMMMPMPP.Simon_Brewster_(1720_-_1801)
+* gen8.MMMMPMPP.Simon_Brewster_(1720 - 1801)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,17 +56,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
-* gen8.MMMMPMPP.Simon_Brewster_(1720_-_1801)
+* gen8.MMMMPMPP.Simon_Brewster_(1720 - 1801)
 
 
 == Other
 event:  _ELEC of Brewster, Simon - Representative in Assembly for Preston thru 1769
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1764
 2 AGE 43-44
-----
+</p>
 
 notes: Representative for Preston in Connecticut State assembly 1764-1769.
 
+
 == Sources
+

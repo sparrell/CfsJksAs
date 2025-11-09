@@ -25,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPPPMPMPMP.Thoms_Staples.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0936[Dev-web]
-* http://localhost:4000/person?p=p0936[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0936[Adoc-web]
-* adoc?p=p0936[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0936http://localhost:4000/person?p=p0936https://cfsjksas.gigalixirapp.com/adoc?p=p0936http://localhost:4000/adoc?p=p0936* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,18 +43,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPMPM.Mehitable_Beach.adoc[Mehitable Beach (1690 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPMPMP.John_Beach.adoc[John Beach (1654 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPMPMPM.Mary_Staples.adoc[Mary Staples (? - 1677)]
-* gen11.MMPPPMPMPMP.Thoms_Staples_(?_-_?)
+* gen11.MMPPPMPMPMP.Thoms_Staples_(? - ?)
 
 
 == Other
 event:  911
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  928
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

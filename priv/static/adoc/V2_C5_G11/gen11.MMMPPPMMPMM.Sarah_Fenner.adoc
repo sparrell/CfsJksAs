@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPMM.Sarah_Fenner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0890[Dev-web]
-* http://localhost:4000/person?p=p0890[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0890[Adoc-web]
-* adoc?p=p0890[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0890http://localhost:4000/person?p=p0890https://cfsjksas.gigalixirapp.com/adoc?p=p0890http://localhost:4000/adoc?p=p0890* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPM.Pheobe_Lay.adoc[Pheobe Lay (1651 - 1718)]
-* gen11.MMMPPPMMPMM.Sarah_Fenner_(1615_-_1676)
+* gen11.MMMPPPMMPMM.Sarah_Fenner_(1615 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPM.Pheobe_Lay.adoc[Pheobe Lay (1651 - 1718)]
-* gen11.MMMPPPMMPMM.Sarah_Fenner_(1615_-_1676)
+* gen11.MMMPPPMMPMM.Sarah_Fenner_(1615 - 1676)
 
 
 == Other

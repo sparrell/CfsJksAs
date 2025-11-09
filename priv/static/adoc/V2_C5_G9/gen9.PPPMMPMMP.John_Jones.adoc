@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 24 OCT 1691
+
 * Birthplace: Boston, Suffolk, MA
+
 
 
 == Family
@@ -20,11 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPMMP.John_Jones.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1296[Dev-web]
-* https://localhost:4000/person?p=p1296[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1296[Adoc-web]
-* https://localhost:4000/adoc?p=p1296[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1296http://localhost:4000/person?p=p1296https://cfsjksas.gigalixirapp.com/adoc?p=p1296http://localhost:4000/adoc?p=p1296* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Jones_%28521%29[WeRelate]
 * WikiTree TBD
@@ -40,9 +39,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPM.Anna_Stone.adoc[Anna Stone (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPMM.Ann_Jones.adoc[Ann Jones (1720 - ?)]
-* gen9.PPPMMPMMP.John_Jones_(1691_-_?)
+* gen9.PPPMMPMMP.John_Jones_(1691 - ?)
 
 
 == Other
 
 == Sources
+

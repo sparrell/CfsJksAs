@@ -7,24 +7,30 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 7 APR 1605
+
 * Birthplace: Horsmonden, Kent, England
+
 * Baptism: 
-----
+<p>
 2 DATE 7 APR 1605
 2 PLAC Horsemonden, Kent, England
 2 AGE 0
-----
+</p>
 
 * Death: 24 APR 1676
+
 * Deathplace: Charlestown, Suffolk, Massachusetts, Colonial America
+
 * Buried: 
-----
+<p>
 2 DATE 27 APR 1676
 2 PLAC Boston, Suffolk County, Massachusetts, United States
-----
+</p>
 
 * Age at Death: 71
+
 
 
 == Ship
@@ -40,14 +46,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPPP.Simon_Willard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1287[Dev-web]
-* https://localhost:4000/person?p=p1287[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1287[Adoc-web]
-* https://localhost:4000/adoc?p=p1287[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1287http://localhost:4000/person?p=p1287https://cfsjksas.gigalixirapp.com/adoc?p=p1287http://localhost:4000/adoc?p=p1287* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Simon_Willard_%284%29[WeRelate]
 * WikiTree TBD
+* https://willardfamilyassociation.org/2ndsite/g0/p36.htm#i1062[willard:]
 
 == Relations
 === Lineage #1
@@ -61,21 +64,22 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPP.Captain_Benjamin_Willard.adoc[Captain Benjamin Willard (1665 - 1732)]
-* gen10.PPPMMMPPPP.Simon_Willard_(1605_-_1676)
+* gen10.PPPMMMPPPP.Simon_Willard_(1605 - 1676)
 
 
 == Other
 occupation: Major in the British Army, Commander-in-chief of Colony Forces, Governor's assistant
+
 residence: 
-----
+<p>
 2 ADDR
 3 ADR1 Groton, Middlesex County, Massachusetts, United States
-----
+</p>
 
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Simon Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Alias name: Simeon Willard, The Pioneer of New England Shipping and Trading, Major Simon Williard, Major Simon Willard, Maj Simon Willard&a
@@ -89,5 +93,6 @@ residence:
 4 CONC nry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph W
 4 CONC illard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Catherine Willard&lt;/a&gt;, &lt;a&gt;Margery Davis (born Willard)&lt;/a
 4 CONC &gt;, &lt;a&gt;Elizabeth Willard&lt;/a&gt;, &lt;a&gt;Mary (born Willard)&lt;/a&gt;
-----
+</p>
+
 

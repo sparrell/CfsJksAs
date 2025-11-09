@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 30 JAN 1577
+
 * Birthplace: Preston Capes, Northamptonshire, England, UK
+
 * Death: 11 APR 1627
+
 * Deathplace: Preston Capes, Northamptonshire, England, UK
+
 * Age at Death: 50
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPPMPPMP.John_Thompson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0358[Dev-web]
-* https://localhost:4000/person?p=p0358[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0358[Adoc-web]
-* https://localhost:4000/adoc?p=p0358[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0358http://localhost:4000/person?p=p0358https://cfsjksas.gigalixirapp.com/adoc?p=p0358http://localhost:4000/adoc?p=p0358* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Thompson_%2815%29[WeRelate]
 * WikiTree TBD
@@ -46,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMM.Dorothy_Parke.adoc[Dorothy Parke (1652 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +63,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMP.Thomas_Parke.adoc[Thomas Parke (1676 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMPP.Thomas_Parke.adoc[Thomas Parke (1648 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -76,7 +78,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMM.Bridget_Thompson.adoc[Bridget Thompson (1622 - 1643)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -91,7 +93,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMM.Martha_Parke.adoc[Martha Parke (1646 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -107,7 +109,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMM.Dorothy_Parke.adoc[Dorothy Parke (1652 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -122,7 +124,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMP.Thomas_Parke.adoc[Thomas Parke (1676 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMPP.Thomas_Parke.adoc[Thomas Parke (1648 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -137,7 +139,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMM.Bridget_Thompson.adoc[Bridget Thompson (1622 - 1643)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -152,9 +154,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMM.Martha_Parke.adoc[Martha Parke (1646 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPM.Dorothy_Thompson.adoc[Dorothy Thompson (1624 - 1709)]
-* gen12.MMMMPPPMPPMP.John_Thompson_(1577_-_1627)
+* gen12.MMMMPPPMPPMP.John_Thompson_(1577 - 1627)
 
 
 == Other
 
 == Sources
+

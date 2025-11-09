@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 JUL 1589
+
 * Birthplace: Cranbrook, Kent, England, UK
+
 * Death: 2 JAN 1659
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 69
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPMPMPMPPPP.Comfort_Starr.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0393[Dev-web]
-* https://localhost:4000/person?p=p0393[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0393[Adoc-web]
-* https://localhost:4000/adoc?p=p0393[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0393http://localhost:4000/person?p=p0393https://cfsjksas.gigalixirapp.com/adoc?p=p0393http://localhost:4000/adoc?p=p0393* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Comfort_Starr_%287%29[WeRelate]
 * WikiTree TBD
@@ -50,40 +52,42 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPP.Samuel_Starr.adoc[Samuel Starr (1640 - 1688)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPP.Thomas_Starr.adoc[Thomas Starr (1615 - 1658)]
-* gen12.PMPMPMPMPPPP.Comfort_Starr_(1589_-_1659)
+* gen12.PMPMPMPMPPPP.Comfort_Starr_(1589 - 1659)
 
 
 == Other
 emigration:  arr. Boston ship Hercules
-----
+<p>
 2 DATE 1634
 2 AGE 44-45
-----
+</p>
 
 event:  Bought Jonathan Brewster's House
-----
+<p>
 2 TYPE Fact 2
 2 DATE 19 JUN 1638
 2 AGE 48
-----
+</p>
  Bought Jonathan Brewster's House
-----
+<p>
 2 TYPE Fact 5
-----
+</p>
  Freeman of Duxbury
-----
+<p>
 2 TYPE Fact 1
 2 DATE 1639
 2 AGE 49-50
-----
+</p>
 
 notes: Emigrants in the Hercules of Sandwich ( see notes for Jonas Austen) - <p>Comfort Starre, of Ashford, chirurgion, Three children and three servants. Certificates from Edm. Hayes, vicar of Ashford, 21 M
-----
+<p>
 2 CONC ar. 1634. Jno. Honeywood, Tho. Godfrey, justices</p> <p></p> <p>In 1638 he bought Jonathan Brewster's house at Duxbury and received a grant of 120 acres between the North and South Rivers.</p> <p></p>
 2 CONC  <p>Comfort was the first physician in Duxbury. He eventually decided that he could not develop a satifactory practice in Plymouth Colony and movedto Boston.</p> <p></p> <p>Ancestor of President Calvi
 2 CONC n Coolidge.</p>
-----
+</p>
 
 occupation: Physician and Surgeon
 
+
 == Sources
+

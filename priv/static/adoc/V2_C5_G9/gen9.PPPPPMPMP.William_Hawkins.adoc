@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: AFT 1 AUG 1685
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPMP.William_Hawkins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0337[Dev-web]
-* https://localhost:4000/person?p=p0337[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0337[Adoc-web]
-* https://localhost:4000/adoc?p=p0337[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0337http://localhost:4000/person?p=p0337https://cfsjksas.gigalixirapp.com/adoc?p=p0337http://localhost:4000/adoc?p=p0337* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,9 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Rachel Turner (1776 - 1866)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPM.Elizabeth_Hawkins.adoc[Elizabeth Hawkins (1670 - ?)]
-* gen9.PPPPPMPMP.William_Hawkins_(?_-_1685)
+* gen9.PPPPPMPMP.William_Hawkins_(? - 1685)
 
 
 == Other
 
 == Sources
+

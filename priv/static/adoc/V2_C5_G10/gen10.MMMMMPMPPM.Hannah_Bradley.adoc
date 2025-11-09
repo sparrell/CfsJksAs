@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 17 SEP 1656
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: AFT 1725
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: About 68-69
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0339[Dev-web]
-* https://localhost:4000/person?p=p0339[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0339[Adoc-web]
-* https://localhost:4000/adoc?p=p0339[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0339http://localhost:4000/person?p=p0339https://cfsjksas.gigalixirapp.com/adoc?p=p0339http://localhost:4000/adoc?p=p0339* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Bradley_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
-* gen10.MMMMMPMPPM.Hannah_Bradley_(1656_-_1725)
+* gen10.MMMMMPMPPM.Hannah_Bradley_(1656 - 1725)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
-* gen10.MMMMMPMPPM.Hannah_Bradley_(1656_-_1725)
+* gen10.MMMMMPMPPM.Hannah_Bradley_(1656 - 1725)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,7 +73,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
-* gen10.MMMMMPMPPM.Hannah_Bradley_(1656_-_1725)
+* gen10.MMMMMPMPPM.Hannah_Bradley_(1656 - 1725)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -84,9 +86,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
-* gen10.MMMMMPMPPM.Hannah_Bradley_(1656_-_1725)
+* gen10.MMMMMPMPPM.Hannah_Bradley_(1656 - 1725)
 
 
 == Other
 
 == Sources
+

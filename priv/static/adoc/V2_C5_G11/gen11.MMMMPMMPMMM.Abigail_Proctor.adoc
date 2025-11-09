@@ -30,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMM.Abigail_Proctor.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0458[Dev-web]
-* http://localhost:4000/person?p=p0458[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0458[Adoc-web]
-* adoc?p=p0458[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0458http://localhost:4000/person?p=p0458https://cfsjksas.gigalixirapp.com/adoc?p=p0458http://localhost:4000/adoc?p=p0458* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -52,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
-* gen11.MMMMPMMPMMM.Abigail_Proctor_(1640_-_1732)
+* gen11.MMMMPMMPMMM.Abigail_Proctor_(1640 - 1732)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -66,16 +62,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
-* gen11.MMMMPMMPMMM.Abigail_Proctor_(1640_-_1732)
+* gen11.MMMMPMMPMMM.Abigail_Proctor_(1640 - 1732)
 
 
 == Other
 event:  Brother John Proctor condemned for witchcraft
-----
+<p>
 2 TYPE Fact 1
 2 DATE 1692
 2 AGE About 51-52
-----
+</p>
 
 notes: Abigail Proctor was the leader of a party of women who raised the frameof the meeting house at Chebacco, after an order had been issued by theGeneral Court forbidding the men from raising it. The women were arrested, acknowledged their offense, but they accomplished their purpose.
 

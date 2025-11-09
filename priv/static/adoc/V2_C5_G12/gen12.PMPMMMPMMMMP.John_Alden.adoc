@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1598
+
 * Birthplace: Southampton, England, UK
+
 * Death: 12 SEP 1687
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: 88-89
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPMMMPMMMMP.John_Alden.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0986[Dev-web]
-* https://localhost:4000/person?p=p0986[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0986[Adoc-web]
-* https://localhost:4000/adoc?p=p0986[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0986http://localhost:4000/person?p=p0986https://cfsjksas.gigalixirapp.com/adoc?p=p0986http://localhost:4000/adoc?p=p0986* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Alden_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMM.Hannah_Rogers.adoc[Hannah Rogers (1668 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMM.Elizabeth_Peabody.adoc[Elizabeth Peabody (1647 - 1678)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMMMM.Elizabeth_Alden.adoc[Elizabeth Alden (1624 - ?)]
-* gen12.PMPMMMPMMMMP.John_Alden_(1598_-_1687)
+* gen12.PMPMMMPMMMMP.John_Alden_(1598 - 1687)
 
 
 == Other
 
 == Sources
+

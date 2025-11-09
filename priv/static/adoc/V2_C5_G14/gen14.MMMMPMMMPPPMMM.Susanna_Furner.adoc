@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: 11 JAN 1620
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G14/gen14.MMMMPMMMPPPMMM.Susanna_Furner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0850[Dev-web]
-* https://localhost:4000/person?p=p0850[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0850[Adoc-web]
-* https://localhost:4000/adoc?p=p0850[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0850http://localhost:4000/person?p=p0850https://cfsjksas.gigalixirapp.com/adoc?p=p0850http://localhost:4000/adoc?p=p0850* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Unknown_%2825775%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPPMM.Isabella_Chilton.adoc[Isabella Chilton (1587 - ?)]
-* gen14.MMMMPMMMPPPMMM.Susanna_Furner_(?_-_1620)
+* gen14.MMMMPMMMPPPMMM.Susanna_Furner_(? - 1620)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -67,10 +67,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPPMM.Isabella_Chilton.adoc[Isabella Chilton (1587 - ?)]
-* gen14.MMMMPMMMPPPMMM.Susanna_Furner_(?_-_1620)
+* gen14.MMMMPMMMPPPMMM.Susanna_Furner_(? - 1620)
 
 
 == Other
 notes: Susanna Chilton was one of four Separatists excommunicated from St. Peter's Parish in Sandwich, Kent, England between May 1609 and February 1610.
 
+
 == Sources
+

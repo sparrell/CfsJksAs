@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 25 FEB 1647
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: 25 OCT 1703
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: 56
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0215[Dev-web]
-* https://localhost:4000/person?p=p0215[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0215[Adoc-web]
-* https://localhost:4000/adoc?p=p0215[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0215http://localhost:4000/person?p=p0215https://cfsjksas.gigalixirapp.com/adoc?p=p0215http://localhost:4000/adoc?p=p0215* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Chittenden_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMM.Jemimah_Damon.adoc[Jemimah Damon (1724 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMM.Jemimah_Stetson.adoc[Jemimah Stetson (1695 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
-* gen10.PPPPMMMMMM.Sarah_Chittenden_(1647_-_1703)
+* gen10.PPPPMMMMMM.Sarah_Chittenden_(1647 - 1703)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,14 +61,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMP.Anthony_Stetson.adoc[Anthony Stetson (1693 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
-* gen10.PPPPMMMMMM.Sarah_Chittenden_(1647_-_1703)
+* gen10.PPPPMMMMMM.Sarah_Chittenden_(1647 - 1703)
 
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASarah_Chittenden_%282%29:
-----
+</p>
 
 
 == Sources
+

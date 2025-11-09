@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 29 JUN 1696
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: 15 APR 1774
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Star Cemetery, Groton, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 77
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0090[Dev-web]
-* https://localhost:4000/person?p=p0090[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0090[Adoc-web]
-* https://localhost:4000/adoc?p=p0090[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0090http://localhost:4000/person?p=p0090https://cfsjksas.gigalixirapp.com/adoc?p=p0090http://localhost:4000/adoc?p=p0090* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Starr_%2834%29[WeRelate]
 * WikiTree TBD
@@ -48,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMP.William_Patten_Whaley.adoc[William Patten Whaley (1786 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPM.Mary_Chester.adoc[Mary Chester (1764 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
-* gen8.PMPMPMPM.Mary_Starr_(1696_-_1774)
+* gen8.PMPMPMPM.Mary_Starr_(1696 - 1774)
 
 
 == Other
 
 == Sources
+

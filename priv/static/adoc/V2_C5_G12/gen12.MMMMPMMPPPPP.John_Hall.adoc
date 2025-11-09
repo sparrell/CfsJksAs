@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1584
+
 * Birthplace: Kent, England, UK
+
 * Death: 26 MAY 1673
+
 * Deathplace: Middletown, Middlesex, Connecticut, USA
+
 * Age at Death: About 88-89
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPPPPP.John_Hall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0733[Dev-web]
-* https://localhost:4000/person?p=p0733[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0733[Adoc-web]
-* https://localhost:4000/adoc?p=p0733[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0733http://localhost:4000/person?p=p0733https://cfsjksas.gigalixirapp.com/adoc?p=p0733http://localhost:4000/adoc?p=p0733* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPPP.Samuel_Hall.adoc[Samuel Hall (1626 - 1690)]
-* gen12.MMMMPMMPPPPP.John_Hall_(1584_-_1673)
+* gen12.MMMMPMMPPPPP.John_Hall_(1584 - 1673)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +67,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPPP.Samuel_Hall.adoc[Samuel Hall (1626 - 1690)]
-* gen12.MMMMPMMPPPPP.John_Hall_(1584_-_1673)
+* gen12.MMMMPMMPPPPP.John_Hall_(1584 - 1673)
 
 
 == Other
 
 == Sources
+

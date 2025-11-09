@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: England, UK
+
 * Death: 1650
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPPPPMP.William_Collier.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0401[Dev-web]
-* https://localhost:4000/person?p=p0401[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0401[Adoc-web]
-* https://localhost:4000/adoc?p=p0401[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0401http://localhost:4000/person?p=p0401https://cfsjksas.gigalixirapp.com/adoc?p=p0401http://localhost:4000/adoc?p=p0401* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Collier_%282%29[WeRelate]
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPP.William_Brewster.adoc[William Brewster (1645 - 1723)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPM.Sarah_Collier.adoc[Sarah Collier (1616 - 1691)]
-* gen12.MMMMPMPPPPMP.William_Collier_(?_-_1650)
+* gen12.MMMMPMPPPPMP.William_Collier_(? - 1650)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,31 +63,32 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPP.William_Brewster.adoc[William Brewster (1645 - 1723)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPM.Sarah_Collier.adoc[Sarah Collier (1616 - 1691)]
-* gen12.MMMMPMPPPPMP.William_Collier_(?_-_1650)
+* gen12.MMMMPMPPPPMP.William_Collier_(? - 1650)
 
 
 == Other
 emigration:  England to Plymouth
-----
+<p>
 2 DATE 1633
 2 PLAC Plymouth, Plymouth, Massachusetts, USA
-----
+</p>
 
 event:  "Merchant Adventurer"  of London
-----
+<p>
 2 TYPE Military Service
-----
+</p>
  Admitted Freeman -
-----
+<p>
 2 TYPE Fact 4
 2 DATE 2 MAR 1636
 2 PLAC Plymouth, Plymouth, Massachusetts, USA
-----
+</p>
  Assistant to Governor (until 1666)
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1644
-----
+</p>
 
 
 == Sources
+

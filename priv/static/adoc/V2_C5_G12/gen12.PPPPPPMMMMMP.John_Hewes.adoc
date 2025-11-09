@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Wales, UK
+
 * Death: AFT 1673
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPPPPMMMMMP.John_Hewes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0362[Dev-web]
-* https://localhost:4000/person?p=p0362[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0362[Adoc-web]
-* https://localhost:4000/adoc?p=p0362[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0362http://localhost:4000/person?p=p0362https://cfsjksas.gigalixirapp.com/adoc?p=p0362http://localhost:4000/adoc?p=p0362* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Hewes_%286%29[WeRelate]
 * WikiTree TBD
@@ -48,22 +48,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Anna Smith (1696 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMMMM.Anna_Hatch.adoc[Anna Hatch (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMMM.Mary_Hewes.adoc[Mary Hewes (? - ?)]
-* gen12.PPPPPPMMMMMP.John_Hewes_(?_-_1673)
+* gen12.PPPPPPMMMMMP.John_Hewes_(? - 1673)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 3 DEC 1639
 2 PLAC Scituate, Plymouth, Massachusetts, USA
-----
+</p>
  Constable
-----
+<p>
 2 TYPE Appointed
 2 DATE 1659
 2 PLAC Scituate, Plymouth, Massachusetts, USA
-----
+</p>
 
 
 == Sources
+

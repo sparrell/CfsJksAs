@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1620
+
 * Birthplace: Monmouthshire, England, UK
+
 * Death: 1 MAY 1671
+
 * Deathplace: West Bridgewater, Plymouth, Massachusetts, USA
+
 * Age at Death: About 50-51
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPP.Solomon_Leonard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0472[Dev-web]
-* https://localhost:4000/person?p=p0472[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0472[Adoc-web]
-* https://localhost:4000/adoc?p=p0472[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0472http://localhost:4000/person?p=p0472https://cfsjksas.gigalixirapp.com/adoc?p=p0472http://localhost:4000/adoc?p=p0472* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Solomon_Leonard_%284%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
-* gen12.MMMMPMMMPPPP.Solomon_Leonard_(1620_-_1671)
+* gen12.MMMMPMMMPPPP.Solomon_Leonard_(1620 - 1671)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,29 +67,32 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
-* gen12.MMMMPMMMPPPP.Solomon_Leonard_(1620_-_1671)
+* gen12.MMMMPMMMPPPP.Solomon_Leonard_(1620 - 1671)
 
 
 == Other
 emigration:  England to Leyden, Netherlands with parents
-----
+<p>
 2 PLAC Leiden, South Holland, Netherlands
-----
+</p>
  To Plymouth Colony
-----
+<p>
 2 DATE BEF 1633
 2 AGE About 12-13
-----
+</p>
 
 event:  To Duxbury
-----
+<p>
 2 TYPE Move
 2 DATE BEF 1637
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
 2 AGE About 16-17
-----
+</p>
 
 notes: "The earliest settler to this country, bearing the family name of whom we have record, and the ancestor of what has long been known as the BRIDGEWATER BRANCH of the Leonard family must have been born about 1610 in Monmouthshire or vicinity; in the southwesterly part of England. <p>He seems to have emigrated first to Leyden in Holland probably with his father  whose name is believed to be Samuel. There is some probabilitythey came together--if so the father must have died soon after. The exact period that Solomon emigrated to this country and the place from which he embarked  has been impossible to asertain. (between 1629 and 1633 most probably)
+
 occupation: Weaver
 
+
 == Sources
+

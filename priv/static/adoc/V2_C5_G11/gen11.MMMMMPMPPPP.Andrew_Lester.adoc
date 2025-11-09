@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPPP.Andrew_Lester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0406[Dev-web]
-* http://localhost:4000/person?p=p0406[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0406[Adoc-web]
-* adoc?p=p0406[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0406http://localhost:4000/person?p=p0406https://cfsjksas.gigalixirapp.com/adoc?p=p0406http://localhost:4000/adoc?p=p0406* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Andrew_Lester_%2813%29[WeRelate]
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -79,7 +75,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPP.Daniel_Lester.adoc[Daniel Lester (1642 - 1716)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -93,7 +89,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -107,7 +103,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -121,7 +117,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPP.Daniel_Lester.adoc[Daniel Lester (1642 - 1716)]
-* gen11.MMMMMPMPPPP.Andrew_Lester_(?_-_1670)
+* gen11.MMMMMPMPPPP.Andrew_Lester_(? - 1670)
 
 
 == Other

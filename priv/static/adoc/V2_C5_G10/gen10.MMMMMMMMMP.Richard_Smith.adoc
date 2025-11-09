@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1625
+
 * Birthplace: England, UK
+
 * Deathplace: Town of Lyme, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMMP.Richard_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1009[Dev-web]
-* https://localhost:4000/person?p=p1009[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1009[Adoc-web]
-* https://localhost:4000/adoc?p=p1009[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1009http://localhost:4000/person?p=p1009https://cfsjksas.gigalixirapp.com/adoc?p=p1009http://localhost:4000/adoc?p=p1009* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMM.Elizabeth_Smith.adoc[Elizabeth Smith (1670 - 1753)]
-* gen10.MMMMMMMMMP.Richard_Smith_(1625_-_?)
+* gen10.MMMMMMMMMP.Richard_Smith_(1625 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,9 +59,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMM.Elizabeth_Smith.adoc[Elizabeth Smith (1670 - 1753)]
-* gen10.MMMMMMMMMP.Richard_Smith_(1625_-_?)
+* gen10.MMMMMMMMMP.Richard_Smith_(1625 - ?)
 
 
 == Other
 
 == Sources
+

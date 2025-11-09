@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPPMPPP.William_Copp.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0865[Dev-web]
-* http://localhost:4000/person?p=p0865[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0865[Adoc-web]
-* adoc?p=p0865[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0865http://localhost:4000/person?p=p0865https://cfsjksas.gigalixirapp.com/adoc?p=p0865http://localhost:4000/adoc?p=p0865* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Copp_%283%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
-* gen11.MMMPPPPMPPP.William_Copp_(1589_-_1670)
+* gen11.MMMPPPPMPPP.William_Copp_(1589 - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,23 +65,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPM.Catherine_Copp.adoc[Catherine Copp (1692 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPMP.Jonathan_Copp.adoc[Jonathan Copp (1665 - 1746)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPMPP.David_Copp.adoc[David Copp (1635 - 1713)]
-* gen11.MMMPPPPMPPP.William_Copp_(1589_-_1670)
+* gen11.MMMPPPPMPPP.William_Copp_(1589 - 1670)
 
 
 == Other
 emigration:  London to Boston in the "Blessing"
-----
+<p>
 2 DATE 1635
 2 AGE 45-46
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 2 JUN 1641
 2 PLAC Boston, Suffolk, Massachusetts, USA
 2 AGE 51
-----
+</p>
 
 occupation: Shoemaker
 

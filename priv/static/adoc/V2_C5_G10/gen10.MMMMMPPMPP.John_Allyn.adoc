@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1640
+
 * Birthplace: Salem, Essex, Massachusetts, USA
+
 * Death: 1709
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 68-69
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPP.John_Allyn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0510[Dev-web]
-* https://localhost:4000/person?p=p0510[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0510[Adoc-web]
-* https://localhost:4000/adoc?p=p0510[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0510http://localhost:4000/person?p=p0510https://cfsjksas.gigalixirapp.com/adoc?p=p0510http://localhost:4000/adoc?p=p0510* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Allyn_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
-* gen10.MMMMMPPMPP.John_Allyn_(1640_-_1709)
+* gen10.MMMMMPPMPP.John_Allyn_(1640 - 1709)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,9 +60,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Amos Lester (1728 - 1808)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
-* gen10.MMMMMPPMPP.John_Allyn_(1640_-_1709)
+* gen10.MMMMMPPMPP.John_Allyn_(1640 - 1709)
 
 
 == Other
 
 == Sources
+

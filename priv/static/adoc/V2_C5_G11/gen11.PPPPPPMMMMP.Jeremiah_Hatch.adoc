@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMMP.Jeremiah_Hatch.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0360[Dev-web]
-* http://localhost:4000/person?p=p0360[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0360[Adoc-web]
-* adoc?p=p0360[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0360http://localhost:4000/person?p=p0360https://cfsjksas.gigalixirapp.com/adoc?p=p0360http://localhost:4000/adoc?p=p0360* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jeremiah_Hatch_%286%29[WeRelate]
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Anna Smith (1696 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMMMM.Anna_Hatch.adoc[Anna Hatch (1677 - ?)]
-* gen11.PPPPPPMMMMP.Jeremiah_Hatch_(1646_-_1712)
+* gen11.PPPPPPMMMMP.Jeremiah_Hatch_(1646 - 1712)
 
 
 == Other

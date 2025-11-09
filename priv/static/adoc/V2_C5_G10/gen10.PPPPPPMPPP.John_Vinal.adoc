@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1636
+
 * Birthplace: Biddenden, Kent, England, UK
+
 * Death: 21 AUG 1698
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: 61-62
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPP.John_Vinal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0411[Dev-web]
-* https://localhost:4000/person?p=p0411[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0411[Adoc-web]
-* https://localhost:4000/adoc?p=p0411[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0411http://localhost:4000/person?p=p0411https://cfsjksas.gigalixirapp.com/adoc?p=p0411http://localhost:4000/adoc?p=p0411* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Vinall_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,10 +52,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Ruth Vinal (1746 - 1810)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
-* gen10.PPPPPPMPPP.John_Vinal_(1636_-_1698)
+* gen10.PPPPPPMPPP.John_Vinal_(1636 - 1698)
 
 
 == Other
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
 
+
 == Sources
+

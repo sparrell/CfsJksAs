@@ -27,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPM.Rachel_Harris.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0392[Dev-web]
-* http://localhost:4000/person?p=p0392[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0392[Adoc-web]
-* adoc?p=p0392[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0392http://localhost:4000/person?p=p0392https://cfsjksas.gigalixirapp.com/adoc?p=p0392http://localhost:4000/adoc?p=p0392* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rachel_Unknown_%28472%29[WeRelate]
 * WikiTree TBD
@@ -49,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Mary Starr (1696 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPP.Samuel_Starr.adoc[Samuel Starr (1640 - 1688)]
-* gen11.PMPMPMPMPPM.Rachel_Harris_(?_-_?)
+* gen11.PMPMPMPMPPM.Rachel_Harris_(? - ?)
 
 
 == Other

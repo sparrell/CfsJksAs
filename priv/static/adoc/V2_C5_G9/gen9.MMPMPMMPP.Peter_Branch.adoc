@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 28 MAY 1659
+
 * Birthplace: Branch Island, Marshfield, Massachusetts, USA
+
 * Death: 27 DEC 1713
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 54
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPP.Peter_Branch.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0503[Dev-web]
-* https://localhost:4000/person?p=p0503[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0503[Adoc-web]
-* https://localhost:4000/adoc?p=p0503[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0503http://localhost:4000/person?p=p0503https://cfsjksas.gigalixirapp.com/adoc?p=p0503http://localhost:4000/adoc?p=p0503* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Peter_Branch_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,29 +46,31 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
-* gen9.MMPMPMMPP.Peter_Branch_(1659_-_1713)
+* gen9.MMPMPMMPP.Peter_Branch_(1659 - 1713)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Fact 2
 2 DATE ABT 1682
 2 PLAC Norwich, New London, Connecticut, USA
 2 AGE About 22-23
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 5
 2 PLAC Norwich, New London, Connecticut, USA
-----
+</p>
  At age 21 moved to Taunton, MA
-----
+<p>
 2 TYPE Move
 2 DATE 1680
 2 AGE 20-21
-----
+</p>
 
 notes: Peter was in Norwich CT as early as 1680 when his cattle mark was established. He was amoung the petitioners in Oct 1686 to the General Court of Connecticut for the establishment of the Town of Preston. Although the petition was granted in that year, a church was not established until1693. Peter was a member of the committee charged with calling the first minister. <p></p> <p>Peter left an estate valued at 200 Pounds. the record of its settlementon 13 Mar 1714/15 lists his nine children and their ages.</p>
 
+
 == Sources
+

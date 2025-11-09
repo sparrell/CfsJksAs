@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1654
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Christening:  Scituate 2nd Parish
-----
+<p>
 2 DATE 2 FEB 1654
 2 AGE About 0
-----
+</p>
 
 * Death: 3 SEP 1730
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 75-76
+
 
 
 == Family
@@ -30,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMPP.Zachariah_Damon.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0190[Dev-web]
-* https://localhost:4000/person?p=p0190[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0190[Adoc-web]
-* https://localhost:4000/adoc?p=p0190[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0190http://localhost:4000/person?p=p0190https://cfsjksas.gigalixirapp.com/adoc?p=p0190http://localhost:4000/adoc?p=p0190* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Zachariah_Damon_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,14 +52,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMM.Jemimah_Damon.adoc[Jemimah Damon (1724 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMP.Daniel_Damon.adoc[Daniel Damon (1688 - 1735)]
-* gen9.PPPPMMMPP.Zachariah_Damon_(1654_-_1730)
+* gen9.PPPPMMMPP.Zachariah_Damon_(1654 - 1730)
 
 
 == Other
 event:  Sergeant, Lt. - King Phillips War
-----
+<p>
 2 TYPE Military Service
-----
+</p>
 
 
 == Sources
+

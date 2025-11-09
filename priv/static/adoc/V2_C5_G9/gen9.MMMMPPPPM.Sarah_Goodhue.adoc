@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1670
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0581[Dev-web]
-* https://localhost:4000/person?p=p0581[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0581[Adoc-web]
-* https://localhost:4000/adoc?p=p0581[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0581http://localhost:4000/person?p=p0581https://cfsjksas.gigalixirapp.com/adoc?p=p0581http://localhost:4000/adoc?p=p0581* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Goodhue_%281%29[WeRelate]
 * WikiTree TBD
@@ -42,7 +42,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
-* gen9.MMMMPPPPM.Sarah_Goodhue_(1670_-_?)
+* gen9.MMMMPPPPM.Sarah_Goodhue_(1670 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,9 +54,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
-* gen9.MMMMPPPPM.Sarah_Goodhue_(1670_-_?)
+* gen9.MMMMPPPPM.Sarah_Goodhue_(1670 - ?)
 
 
 == Other
 
 == Sources
+

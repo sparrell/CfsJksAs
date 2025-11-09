@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1646
+
 * Birthplace: Essex, Essex, Massachusetts, USA
+
 * Death: 19 MAY 1717
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: About 70-71
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0572[Dev-web]
-* https://localhost:4000/person?p=p0572[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0572[Adoc-web]
-* https://localhost:4000/adoc?p=p0572[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0572http://localhost:4000/person?p=p0572https://cfsjksas.gigalixirapp.com/adoc?p=p0572http://localhost:4000/adoc?p=p0572* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
-* gen10.MMMMPMPMPP.John_Andrews_(1646_-_1717)
+* gen10.MMMMPMPMPP.John_Andrews_(1646 - 1717)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,17 +60,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
-* gen10.MMMMPMPMPP.John_Andrews_(1646_-_1717)
+* gen10.MMMMPMPMPP.John_Andrews_(1646 - 1717)
 
 
 == Other
 event:  To Preston CT (Then part of Norwich)
-----
+<p>
 2 TYPE Fact 1
 2 DATE OCT 1704
 2 AGE About 57-58
-----
+</p>
 
 occupation: Carpenter and farmer
 
+
 == Sources
+

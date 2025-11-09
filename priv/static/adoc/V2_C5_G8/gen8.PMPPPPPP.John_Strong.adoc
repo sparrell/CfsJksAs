@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 25 DEC 1665
+
 * Birthplace: Windsor, Hartford, Connecticut, USA
+
 * Death: 29 MAY 1749
+
 * Deathplace: Windsor, Hartford, Connecticut, USA
+
 * Age at Death: 83
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0208[Dev-web]
-* https://localhost:4000/person?p=p0208[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0208[Adoc-web]
-* https://localhost:4000/adoc?p=p0208[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0208http://localhost:4000/person?p=p0208https://cfsjksas.gigalixirapp.com/adoc?p=p0208http://localhost:4000/adoc?p=p0208* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Strong_%2852%29[WeRelate]
 * WikiTree TBD
@@ -43,16 +45,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.Ebenezer_Strong.adoc[Ebenezer Strong (1750 - 1824)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
-* gen8.PMPPPPPP.John_Strong_(1665_-_1749)
+* gen8.PMPPPPPP.John_Strong_(1665 - 1749)
 
 
 == Other
 event:  Sergeant - Militia
-----
+<p>
 2 TYPE Military Service
-----
+</p>
 
 notes: Estate Inventory taken 10 Oct 1749 - 449 pounds, 16 shillings
+
 occupation: Farmer
 
+
 == Sources
+

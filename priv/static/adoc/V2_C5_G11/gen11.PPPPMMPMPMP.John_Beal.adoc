@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPMP.John_Beal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0202[Dev-web]
-* http://localhost:4000/person?p=p0202[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0202[Adoc-web]
-* adoc?p=p0202[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0202http://localhost:4000/person?p=p0202https://cfsjksas.gigalixirapp.com/adoc?p=p0202http://localhost:4000/adoc?p=p0202* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Beal_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,20 +51,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPM.Mary_Beal.adoc[Mary Beal (1623 - 1696)]
-* gen11.PPPPMMPMPMP.John_Beal_(1588_-_1688)
+* gen11.PPPPMMPMPMP.John_Beal_(1588 - 1688)
 
 
 == Other
 emigration:  Arr. Boston on ship Diligent from Ipswich
-----
+<p>
 2 DATE 10 AUG 1638
 2 AGE About 49-50
-----
+</p>
 
 event:  Shoemaker
-----
+<p>
 2 TYPE Military Service
-----
+</p>
 
 
 == Sources

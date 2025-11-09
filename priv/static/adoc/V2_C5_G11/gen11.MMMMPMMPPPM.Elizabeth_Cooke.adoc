@@ -28,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPPM.Elizabeth_Cooke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0210[Dev-web]
-* http://localhost:4000/person?p=p0210[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0210[Adoc-web]
-* adoc?p=p0210[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0210http://localhost:4000/person?p=p0210https://cfsjksas.gigalixirapp.com/adoc?p=p0210http://localhost:4000/adoc?p=p0210* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
-* gen11.MMMMPMMPPPM.Elizabeth_Cooke_(1640_-_1711)
+* gen11.MMMMPMMPPPM.Elizabeth_Cooke_(1640 - 1711)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -64,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
-* gen11.MMMMPMMPPPM.Elizabeth_Cooke_(1640_-_1711)
+* gen11.MMMMPMMPPPM.Elizabeth_Cooke_(1640 - 1711)
 
 
 == Other

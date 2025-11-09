@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1657
+
 * Birthplace: Boston, Suffolk, Massachusetts, USA
+
 
 
 == Family
@@ -20,11 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMPMM.Hannah_Travers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0858[Dev-web]
-* https://localhost:4000/person?p=p0858[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0858[Adoc-web]
-* https://localhost:4000/adoc?p=p0858[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0858http://localhost:4000/person?p=p0858https://cfsjksas.gigalixirapp.com/adoc?p=p0858http://localhost:4000/adoc?p=p0858* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -40,18 +39,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMP.Jonathan_Phillips.adoc[Jonathan Phillips (1723 - 1787)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMPM.Esther_Ayers.adoc[Esther Ayers (1699 - ?)]
-* gen9.MMPMPMPMM.Hannah_Travers_(1657_-_?)
+* gen9.MMPMPMPMM.Hannah_Travers_(1657 - ?)
 
 
 == Other
 event:  841
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  856
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

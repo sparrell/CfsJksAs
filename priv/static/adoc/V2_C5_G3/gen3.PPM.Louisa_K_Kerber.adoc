@@ -45,7 +45,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0285http://localhost:4000/person?p=p
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
-* gen3.PPM.Louisa_K_Kerber_(1852_-_1922)
+* gen3.PPM.Louisa_K_Kerber_(1852 - 1922)
 
 
 == Other

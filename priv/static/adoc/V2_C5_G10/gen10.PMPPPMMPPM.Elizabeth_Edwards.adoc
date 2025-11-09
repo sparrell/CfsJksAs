@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 5 JUL 1670
+
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
+
 
 
 == Family
@@ -19,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPPM.Elizabeth_Edwards.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0796[Dev-web]
-* https://localhost:4000/person?p=p0796[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0796[Adoc-web]
-* https://localhost:4000/adoc?p=p0796[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0796http://localhost:4000/person?p=p0796https://cfsjksas.gigalixirapp.com/adoc?p=p0796http://localhost:4000/adoc?p=p0796* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -40,9 +39,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMM.Elizabeth_Goodrich.adoc[Elizabeth Goodrich (1733 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMP.Moses_Goodrich.adoc[Moses Goodrich (1697 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPP.Jonathan_Goodrich.adoc[Jonathan Goodrich (1657 - ?)]
-* gen10.PMPPPMMPPM.Elizabeth_Edwards_(?_-_1670)
+* gen10.PMPPPMMPPM.Elizabeth_Edwards_(? - 1670)
 
 
 == Other
 
 == Sources
+

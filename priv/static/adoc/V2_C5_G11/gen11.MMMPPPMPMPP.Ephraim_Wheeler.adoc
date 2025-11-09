@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPMPP.Ephraim_Wheeler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0886[Dev-web]
-* http://localhost:4000/person?p=p0886[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0886[Adoc-web]
-* adoc?p=p0886[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0886http://localhost:4000/person?p=p0886https://cfsjksas.gigalixirapp.com/adoc?p=p0886http://localhost:4000/adoc?p=p0886* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMP.Isaac_Wheeler.adoc[Isaac Wheeler (1642 - 1712)]
-* gen11.MMMPPPMPMPP.Ephraim_Wheeler_(1619_-_1670)
+* gen11.MMMPPPMPMPP.Ephraim_Wheeler_(1619 - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,18 +65,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMP.Isaac_Wheeler.adoc[Isaac Wheeler (1642 - 1712)]
-* gen11.MMMPPPMPMPP.Ephraim_Wheeler_(1619_-_1670)
+* gen11.MMMPPPMPMPP.Ephraim_Wheeler_(1619 - 1670)
 
 
 == Other
 event:  867
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  882
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

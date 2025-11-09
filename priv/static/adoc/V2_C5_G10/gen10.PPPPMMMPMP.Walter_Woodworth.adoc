@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Ashford, Kent, England, UK
+
 * Death: BEF 2 MAR 1686
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMPMP.Walter_Woodworth.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0224[Dev-web]
-* https://localhost:4000/person?p=p0224[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0224[Adoc-web]
-* https://localhost:4000/adoc?p=p0224[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0224http://localhost:4000/person?p=p0224https://cfsjksas.gigalixirapp.com/adoc?p=p0224http://localhost:4000/adoc?p=p0224* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Walter_Woodworth_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,15 +46,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMM.Jemimah_Damon.adoc[Jemimah Damon (1724 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMP.Daniel_Damon.adoc[Daniel Damon (1688 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMPM.Martha_Woodworth.adoc[Martha Woodworth (1657 - 1721)]
-* gen10.PPPPMMMPMP.Walter_Woodworth_(?_-_1686)
+* gen10.PPPPMMMPMP.Walter_Woodworth_(? - 1686)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE BEF 2 JAN 1634
 2 PLAC Scituate, Plymouth, Massachusetts, USA
-----
+</p>
 
 
 == Sources
+

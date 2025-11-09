@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 22 AUG 1649
+
 * Birthplace: Springfield, Hampden, Massachusetts, USA
+
 * Death: 1712
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 * Age at Death: 62-63
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPPM.Hester_Langton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0612[Dev-web]
-* https://localhost:4000/person?p=p0612[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0612[Adoc-web]
-* https://localhost:4000/adoc?p=p0612[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0612http://localhost:4000/person?p=p0612https://cfsjksas.gigalixirapp.com/adoc?p=p0612http://localhost:4000/adoc?p=p0612* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Esther_Langton_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.Elijah_Hannum.adoc[Elijah Hannum (1759 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.William_Hannum.adoc[William Hannum (1690 - 1755)]
-* gen9.PMPPMPPPM.Hester_Langton_(1649_-_1712)
+* gen9.PMPPMPPPM.Hester_Langton_(1649 - 1712)
 
 
 == Other
 
 == Sources
+

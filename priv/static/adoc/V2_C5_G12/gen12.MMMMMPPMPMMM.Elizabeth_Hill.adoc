@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: London, England, UK
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 
 
 == Ship
@@ -24,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMMPPMPMMM.Elizabeth_Hill.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0518[Dev-web]
-* https://localhost:4000/person?p=p0518[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0518[Adoc-web]
-* https://localhost:4000/adoc?p=p0518[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0518http://localhost:4000/person?p=p0518https://cfsjksas.gigalixirapp.com/adoc?p=p0518http://localhost:4000/adoc?p=p0518* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPM.Elizabeth_Mary_Gager.adoc[Elizabeth Mary Gager (1644 - 1673)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPPMPMM.Elizabeth_Gore.adoc[Elizabeth Gore (1627 - 1704)]
-* gen12.MMMMMPPMPMMM.Elizabeth_Hill_(?_-_?)
+* gen12.MMMMMPPMPMMM.Elizabeth_Hill_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,14 +61,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPM.Elizabeth_Mary_Gager.adoc[Elizabeth Mary Gager (1644 - 1673)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPPMPMM.Elizabeth_Gore.adoc[Elizabeth Gore (1627 - 1704)]
-* gen12.MMMMMPPMPMMM.Elizabeth_Hill_(?_-_?)
+* gen12.MMMMMPPMPMMM.Elizabeth_Hill_(? - ?)
 
 
 == Other
 event:  528
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  PE Reference Number
 
+
 == Sources
+

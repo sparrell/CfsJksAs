@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Fairfield, Fairfield, Connecticut, USA
+
 * Death: 2 FEB 1698
+
 * Deathplace: Woodbury, Litchfield, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPMP.Henry_Castle.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0379[Dev-web]
-* https://localhost:4000/person?p=p0379[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0379[Adoc-web]
-* https://localhost:4000/adoc?p=p0379[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0379http://localhost:4000/person?p=p0379https://cfsjksas.gigalixirapp.com/adoc?p=p0379http://localhost:4000/adoc?p=p0379* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Henry_Castle_%281%29[WeRelate]
 * WikiTree TBD
@@ -42,9 +42,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPM.Mary_Castle.adoc[Mary Castle (1678 - ?)]
-* gen9.MMPPPPPMP.Henry_Castle_(?_-_1698)
+* gen9.MMPPPPPMP.Henry_Castle_(? - 1698)
 
 
 == Other
 
 == Sources
+

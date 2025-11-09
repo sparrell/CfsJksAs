@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1625
+
 * Birthplace: England, UK
+
 * Deathplace: Fairfield, Fairfield, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPMMPM.Elizabeth_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0765[Dev-web]
-* https://localhost:4000/person?p=p0765[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0765[Adoc-web]
-* https://localhost:4000/adoc?p=p0765[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0765http://localhost:4000/person?p=p0765https://cfsjksas.gigalixirapp.com/adoc?p=p0765http://localhost:4000/adoc?p=p0765* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Smith_%28665%29[WeRelate]
 * WikiTree TBD
@@ -46,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Rebecca Warner (1715 - 1767)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPMM.Martha_Galpin.adoc[Martha Galpin (1685 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPMMP.Benjamin_Galpin.adoc[Benjamin Galpin (1654 - 1730)]
-* gen10.MMPPPPMMPM.Elizabeth_Smith_(1625_-_?)
+* gen10.MMPPPPMMPM.Elizabeth_Smith_(1625 - ?)
 
 
 == Other
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1638
+
 * Birthplace: Lynn, Essex, Massachusetts, USA
+
 * Death: 1690
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 51-52
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0347[Dev-web]
-* https://localhost:4000/person?p=p0347[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0347[Adoc-web]
-* https://localhost:4000/adoc?p=p0347[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0347http://localhost:4000/person?p=p0347https://cfsjksas.gigalixirapp.com/adoc?p=p0347http://localhost:4000/adoc?p=p0347* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Josiah_Witter_%283%29[WeRelate]
 * WikiTree TBD
@@ -46,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
-* gen10.MMMMPPPMMP.Josiah_Witter_(1638_-_1690)
+* gen10.MMMMPPPMMP.Josiah_Witter_(1638 - 1690)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
-* gen10.MMMMPPPMMP.Josiah_Witter_(1638_-_1690)
+* gen10.MMMMPPPMMP.Josiah_Witter_(1638 - 1690)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -73,7 +75,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
-* gen10.MMMMPPPMMP.Josiah_Witter_(1638_-_1690)
+* gen10.MMMMPPPMMP.Josiah_Witter_(1638 - 1690)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -86,9 +88,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
-* gen10.MMMMPPPMMP.Josiah_Witter_(1638_-_1690)
+* gen10.MMMMPPPMMP.Josiah_Witter_(1638 - 1690)
 
 
 == Other
 
 == Sources
+

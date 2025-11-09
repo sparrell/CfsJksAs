@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Shapley
+
 * Birth: ABT 1652
+
 * Birthplace: New London, New London, Connecticut, United States
+
 * Death: 13 JAN 1735
+
 * Deathplace: New London, New London, Connecticut, United States
+
 * Age at Death: ABOUT 82-83
+
 
 
 == Family
@@ -24,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1253[Dev-web]
-* https://localhost:4000/person?p=p1253[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1253[Adoc-web]
-* https://localhost:4000/adoc?p=p1253[Adoc-local]
-* https://www.geni.com/people/Mary-Shapleigh/6000000002504511703[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p1253http://localhost:4000/person?p=p1253https://cfsjksas.gigalixirapp.com/adoc?p=p1253http://localhost:4000/adoc?p=p1253* https://www.geni.com/people/Mary-Shapleigh/6000000002504511703[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001625/mary-pickett-shapley[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Pickett_%2810%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
-* gen10.MMMPPMPMMM.Mary_Pickett_(1652_-_1735)
+* gen10.MMMPPMPMMM.Mary_Pickett_(1652 - 1735)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
-* gen10.MMMPPMPMMM.Mary_Pickett_(1652_-_1735)
+* gen10.MMMPPMPMMM.Mary_Pickett_(1652 - 1735)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,18 +74,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Mary Morgan (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
-* gen10.MMMPPMPMMM.Mary_Pickett_(1652_-_1735)
+* gen10.MMMPPMPMMM.Mary_Pickett_(1652 - 1735)
 
 
 == Other
 
 == Sources
 * @S50@
-----
+<p>
 2 PAGE Mary Shapley (born Pickett)
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added via a Smart Match
-----
+</p>
+
 

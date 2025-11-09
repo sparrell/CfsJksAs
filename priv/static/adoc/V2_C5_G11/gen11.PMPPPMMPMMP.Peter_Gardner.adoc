@@ -34,11 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMMPMMP.Peter_Gardner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0803[Dev-web]
-* http://localhost:4000/person?p=p0803[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0803[Adoc-web]
-* adoc?p=p0803[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0803http://localhost:4000/person?p=p0803https://cfsjksas.gigalixirapp.com/adoc?p=p0803http://localhost:4000/adoc?p=p0803* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -56,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMP.Moses_Goodrich.adoc[Moses Goodrich (1697 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPM.Abigail_Crafts.adoc[Abigail Crafts (1676 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPMM.Rebecca_Gardner.adoc[Rebecca Gardner (1647 - 1700)]
-* gen11.PMPPPMMPMMP.Peter_Gardner_(1617_-_1698)
+* gen11.PMPPPMMPMMP.Peter_Gardner_(1617 - 1698)
 
 
 == Other

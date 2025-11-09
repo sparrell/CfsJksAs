@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1639
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Death: 2 SEP 1697
+
 * Age at Death: 57-58
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMP.Joseph_Goodhue.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0582[Dev-web]
-* https://localhost:4000/person?p=p0582[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0582[Adoc-web]
-* https://localhost:4000/adoc?p=p0582[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0582http://localhost:4000/person?p=p0582https://cfsjksas.gigalixirapp.com/adoc?p=p0582http://localhost:4000/adoc?p=p0582* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Goodhue_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
-* gen10.MMMMPPPPMP.Joseph_Goodhue_(1639_-_1697)
+* gen10.MMMMPPPPMP.Joseph_Goodhue_(1639 - 1697)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -57,24 +58,25 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
-* gen10.MMMMPPPPMP.Joseph_Goodhue_(1639_-_1697)
+* gen10.MMMMPPPPMP.Joseph_Goodhue_(1639 - 1697)
 
 
 == Other
 event:  Deacon
-----
+<p>
 2 TYPE Church
-----
+</p>
  Representative
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1672
 2 AGE 32-33
-----
+</p>
  Selectman-Ipswich
-----
+<p>
 2 TYPE Fact
-----
+</p>
 
 
 == Sources
+

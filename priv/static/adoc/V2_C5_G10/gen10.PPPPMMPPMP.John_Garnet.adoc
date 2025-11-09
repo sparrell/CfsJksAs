@@ -7,24 +7,29 @@ Narrative TBD
 
 
 * Sex: M
+
 * Death: ABT 1650
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death note: Arr. Hingham MA
 
 
+
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPM.Mary_Garnet.adoc[Mary Garnet (1654 - 1709)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPPMP.John_Garnet.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0677[Dev-web]
-* https://localhost:4000/person?p=p0677[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0677[Adoc-web]
-* https://localhost:4000/adoc?p=p0677[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0677http://localhost:4000/person?p=p0677https://cfsjksas.gigalixirapp.com/adoc?p=p0677http://localhost:4000/adoc?p=p0677* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Garnet_%282%29[WeRelate]
 * WikiTree TBD
@@ -41,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPP.Benjamin_Farrow.adoc[Benjamin Farrow (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPM.Mary_Garnet.adoc[Mary Garnet (1654 - 1709)]
-* gen10.PPPPMMPPMP.John_Garnet_(?_-_1650)
+* gen10.PPPPMMPPMP.John_Garnet_(? - 1650)
 
 
 == Other
 
 == Sources
+

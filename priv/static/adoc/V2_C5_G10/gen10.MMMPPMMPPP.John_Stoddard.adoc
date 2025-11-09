@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1612
+
 * Birthplace: England, UK
+
 * Death: 1676
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 63-64
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMPPP.John_Stoddard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0899[Dev-web]
-* https://localhost:4000/person?p=p0899[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0899[Adoc-web]
-* https://localhost:4000/adoc?p=p0899[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0899http://localhost:4000/person?p=p0899https://cfsjksas.gigalixirapp.com/adoc?p=p0899http://localhost:4000/adoc?p=p0899* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMP.Ralph_Stoddard.adoc[Ralph Stoddard (1697 - 1744)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPP.Ralph_Stoddard.adoc[Ralph Stoddard (1666 - 1749)]
-* gen10.MMMPPMMPPP.John_Stoddard_(1612_-_1676)
+* gen10.MMMPPMMPPP.John_Stoddard_(1612 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,15 +63,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMP.Ralph_Stoddard.adoc[Ralph Stoddard (1697 - 1744)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPP.Ralph_Stoddard.adoc[Ralph Stoddard (1666 - 1749)]
-* gen10.MMMPPMMPPP.John_Stoddard_(1612_-_1676)
+* gen10.MMMPPMMPPP.John_Stoddard_(1612 - 1676)
 
 
 == Other
 emigration:  Ship Diligent, England to Boston
-----
+<p>
 2 DATE 1638
 2 AGE 25-26
-----
+</p>
 
 
 == Sources
+

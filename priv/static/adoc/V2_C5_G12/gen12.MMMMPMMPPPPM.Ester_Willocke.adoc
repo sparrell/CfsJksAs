@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: BEF 1633
+
 
 
 == Ship
@@ -24,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPPPPM.Ester_Willocke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0734[Dev-web]
-* https://localhost:4000/person?p=p0734[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0734[Adoc-web]
-* https://localhost:4000/adoc?p=p0734[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0734http://localhost:4000/person?p=p0734https://cfsjksas.gigalixirapp.com/adoc?p=p0734http://localhost:4000/adoc?p=p0734* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPPP.Samuel_Hall.adoc[Samuel Hall (1626 - 1690)]
-* gen12.MMMMPMMPPPPM.Ester_Willocke_(?_-_1633)
+* gen12.MMMMPMMPPPPM.Ester_Willocke_(? - 1633)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,9 +61,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPPPP.Samuel_Hall.adoc[Samuel Hall (1626 - 1690)]
-* gen12.MMMMPMMPPPPM.Ester_Willocke_(?_-_1633)
+* gen12.MMMMPMMPPPPM.Ester_Willocke_(? - 1633)
 
 
 == Other
 
 == Sources
+

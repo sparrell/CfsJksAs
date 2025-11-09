@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPP.Thomas_Howlett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0439[Dev-web]
-* http://localhost:4000/person?p=p0439[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0439[Adoc-web]
-* adoc?p=p0439[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0439http://localhost:4000/person?p=p0439https://cfsjksas.gigalixirapp.com/adoc?p=p0439http://localhost:4000/adoc?p=p0439* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Howlett_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,64 +51,64 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPM.Alice_Cummings.adoc[Alice Cummings (1695 - 1734)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Alice Howlett (1666 - 1696)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMMP.Thomas_Howlett.adoc[Thomas Howlett (1637 - 1667)]
-* gen11.PPPMMPPMMPP.Thomas_Howlett_(1606_-_1678)
+* gen11.PPPMMPPMMPP.Thomas_Howlett_(1606 - 1678)
 
 
 == Other
 emigration:  arrives Boston
-----
+<p>
 2 DATE 1630
 2 AGE About 23-24
-----
+</p>
 
 event:  Deacon of the Ipswich Church
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
  Deacon of the Ipswich Church
-----
+<p>
 2 TYPE Fact 5
 2 DATE MAR 1639
 2 AGE About 32-33
-----
+</p>
  Elected Deputy to Mass. General Court
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1635
 2 AGE About 28-29
-----
+</p>
  Ensign
-----
+<p>
 2 TYPE Military Service
 2 DATE 1662
 2 AGE About 55-56
-----
+</p>
  Freeman Ipswich
-----
+<p>
 2 TYPE Fact 4
 2 DATE 4 MAR 1644
 2 AGE About 37-38
-----
+</p>
  moves to Ipswich, MA
-----
+<p>
 2 TYPE Move
 2 DATE 1633
 2 PLAC Ipswich, Essex, Massachusetts, USA
 2 AGE About 26-27
-----
+</p>
 
 notes: Apparently trained as a surveyor, for he was in great demand in laying out lands and determining boundaries between towns
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%281%29:
-----
+</p>
 
 will: Signed will with mark
-----
+<p>
 2 DATE NOV 1667
 2 AGE About 60-61
-----
+</p>
 
 
 == Sources

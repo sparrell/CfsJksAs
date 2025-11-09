@@ -49,7 +49,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0829http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
-* gen7.MMMPPPM.Dorothy_Smith_(1729_-_1813)
+* gen7.MMMPPPM.Dorothy_Smith_(1729 - 1813)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,7 +59,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0829http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
-* gen7.MMMPPPM.Dorothy_Smith_(1729_-_1813)
+* gen7.MMMPPPM.Dorothy_Smith_(1729 - 1813)
 
 
 == Other

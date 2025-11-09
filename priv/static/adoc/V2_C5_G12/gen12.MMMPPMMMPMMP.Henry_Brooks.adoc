@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1592
+
 * Birthplace: Norwich, Norfolk, England, UK
+
 * Death: 12 APR 1683
+
 * Deathplace: Woburn, Middlesex, Massachusetts, USA
+
 * Age at Death: About 90-91
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPMMMPMMP.Henry_Brooks.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0920[Dev-web]
-* https://localhost:4000/person?p=p0920[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0920[Adoc-web]
-* https://localhost:4000/adoc?p=p0920[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0920http://localhost:4000/person?p=p0920https://cfsjksas.gigalixirapp.com/adoc?p=p0920http://localhost:4000/adoc?p=p0920* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPM.Hannah_Fox.adoc[Hannah Fox (1646 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMPMM.Hannah_Brooks.adoc[Hannah Brooks (1628 - 1658)]
-* gen12.MMMPPMMMPMMP.Henry_Brooks_(1592_-_1683)
+* gen12.MMMPPMMMPMMP.Henry_Brooks_(1592 - 1683)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +67,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMP.John_Lester.adoc[John Lester (1679 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPM.Hannah_Fox.adoc[Hannah Fox (1646 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMPMM.Hannah_Brooks.adoc[Hannah Brooks (1628 - 1658)]
-* gen12.MMMPPMMMPMMP.Henry_Brooks_(1592_-_1683)
+* gen12.MMMPPMMMPMMP.Henry_Brooks_(1592 - 1683)
 
 
 == Other
 
 == Sources
+

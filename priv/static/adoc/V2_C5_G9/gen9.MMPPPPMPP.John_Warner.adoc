@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 26 SEP 1649
+
 * Birthplace: Hadley, Hampshire, Massachusetts, USA
+
 * Death: 21 JAN 1723
+
 * Deathplace: Waterbury, New Haven, Connecticut, USA
+
 * Age at Death: 73
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPMPP.John_Warner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0655[Dev-web]
-* https://localhost:4000/person?p=p0655[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0655[Adoc-web]
-* https://localhost:4000/adoc?p=p0655[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0655http://localhost:4000/person?p=p0655https://cfsjksas.gigalixirapp.com/adoc?p=p0655http://localhost:4000/adoc?p=p0655* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Warner_%2884%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Rebecca Warner (1715 - 1767)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPMP.Ebenezer_Warner.adoc[Ebenezer Warner (1681 - 1755)]
-* gen9.MMPPPPMPP.John_Warner_(1649_-_1723)
+* gen9.MMPPPPMPP.John_Warner_(1649 - 1723)
 
 
 == Other
 event:  654
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  654
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

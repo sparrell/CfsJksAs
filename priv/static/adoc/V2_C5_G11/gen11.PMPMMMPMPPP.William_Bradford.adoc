@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMPPP.William_Bradford.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0992[Dev-web]
-* http://localhost:4000/person?p=p0992[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0992[Adoc-web]
-* adoc?p=p0992[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0992http://localhost:4000/person?p=p0992https://cfsjksas.gigalixirapp.com/adoc?p=p0992http://localhost:4000/adoc?p=p0992* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Bradford_%289%29[WeRelate]
 * WikiTree TBD
@@ -55,30 +51,30 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMP.Samuel_Bradford.adoc[Samuel Bradford (1667 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMPP.William_Bradford.adoc[William Bradford (1624 - 1702)]
-* gen11.PMPMMMPMPPP.William_Bradford_(1589_-_1657)
+* gen11.PMPMMMPMPPP.William_Bradford_(1589 - 1657)
 
 
 == Other
 emigration:  "Mayflower" passenger
-----
+<p>
 2 DATE 1620
 2 AGE 30-31
-----
+</p>
 
 event:  _ELEC of Bradford, William to Governor - Plymouth Colony
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1621
 2 AGE 31-32
-----
+</p>
 
 notes: Mayflower Passenger
 
 occupation: Magistrate
-----
+<p>
 2 DATE 1620
 2 AGE 30-31
-----
+</p>
 
 
 == Sources

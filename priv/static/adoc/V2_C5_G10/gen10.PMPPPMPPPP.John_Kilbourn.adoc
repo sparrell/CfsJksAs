@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 29 SEP 1624
+
 * Birthplace: Woodditton, Cambridgeshire, England, UK
+
 * Death: 9 APR 1703
+
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
+
 * Age at Death: 78
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMPPPP.John_Kilbourn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0311[Dev-web]
-* https://localhost:4000/person?p=p0311[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0311[Adoc-web]
-* https://localhost:4000/adoc?p=p0311[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0311http://localhost:4000/person?p=p0311https://cfsjksas.gigalixirapp.com/adoc?p=p0311http://localhost:4000/adoc?p=p0311* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,27 +52,28 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMP.Benjamin_Kilbourn.adoc[Benjamin Kilbourn (1730 - 1817)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPP.John_Kilbourn.adoc[John Kilbourn (1651 - 1711)]
-* gen10.PMPPPMPPPP.John_Kilbourn_(1624_-_1703)
+* gen10.PMPPPMPPPP.John_Kilbourn_(1624 - 1703)
 
 
 == Other
 emigration:  Came with parents on the "Increase"
-----
+<p>
 2 DATE 1635
 2 AGE 10-11
-----
+</p>
 
 event:  Sgt. - Militia
-----
+<p>
 2 TYPE Military Service
-----
+</p>
  _ELEC of Kilbourn, John - Selectman of Wethersfield
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1683
 2 PLAC Wethersfield, Hartford, Connecticut, USA
 2 AGE 58-59
-----
+</p>
 
 
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 16 APR 1627
+
 * Birthplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Death: AFT 23 MAR 1697
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 69
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0475[Dev-web]
-* https://localhost:4000/person?p=p0475[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0475[Adoc-web]
-* https://localhost:4000/adoc?p=p0475[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0475http://localhost:4000/person?p=p0475https://cfsjksas.gigalixirapp.com/adoc?p=p0475http://localhost:4000/adoc?p=p0475* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Brewster_%2814%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[James Barrell (1727 - 1827)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPM.Lydia_Turner.adoc[Lydia Turner (1653 - 1714)]
-* gen9.PPPPPMPPM.Mary_Brewster_(1627_-_1697)
+* gen9.PPPPPMPPM.Mary_Brewster_(1627 - 1697)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -57,10 +59,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Rachel Turner (1776 - 1866)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPP.Benjamin_Turner.adoc[Benjamin Turner (1660 - 1731)]
-* gen9.PPPPPMPPM.Mary_Brewster_(1627_-_1697)
+* gen9.PPPPPMPPM.Mary_Brewster_(1627 - 1697)
 
 
 == Other
 notes: Mary was named for her Grandmother who died the week she was born. <p>She married John Turner shortly before her parents moved to Connecticut.</p>
 
+
 == Sources
+

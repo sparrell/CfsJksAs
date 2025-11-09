@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1645
+
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Death: 3 NOV 1723
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 77-78
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPP.William_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0770[Dev-web]
-* https://localhost:4000/person?p=p0770[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0770[Adoc-web]
-* https://localhost:4000/adoc?p=p0770[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0770http://localhost:4000/person?p=p0770https://cfsjksas.gigalixirapp.com/adoc?p=p0770http://localhost:4000/adoc?p=p0770* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Brewster_%285%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
-* gen10.MMMMPMPPPP.William_Brewster_(1645_-_1723)
+* gen10.MMMMPMPPPP.William_Brewster_(1645 - 1723)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,22 +60,24 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
-* gen10.MMMMPMPPPP.William_Brewster_(1645_-_1723)
+* gen10.MMMMPMPPPP.William_Brewster_(1645 - 1723)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 1689
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
 2 AGE About 43-44
-----
+</p>
  Deacon - First Church
-----
+<p>
 2 TYPE Church
-----
+</p>
 
 occupation: Carpenter
 
+
 == Sources
+

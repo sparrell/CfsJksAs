@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1666
+
 * Birthplace: Boxford, Essex, Massachusetts, USA
+
 * Death: JAN 1696
+
 * Deathplace: Topsfield, Essex, Massachusetts, USA
+
 * Age at Death: 29-30
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0146[Dev-web]
-* https://localhost:4000/person?p=p0146[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0146[Adoc-web]
-* https://localhost:4000/adoc?p=p0146[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0146http://localhost:4000/person?p=p0146https://cfsjksas.gigalixirapp.com/adoc?p=p0146http://localhost:4000/adoc?p=p0146* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_Howlett_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,23 +46,24 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPM.Alice_Cummings.adoc[Alice Cummings (1695 - 1734)]
-* gen9.PPPMMPPMM.Alice_Howlett_(1666_-_1696)
+* gen9.PPPMMPPMM.Alice_Howlett_(1666 - 1696)
 
 
 == Other
 event:  174
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  174
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_Howlett_%281%29:
-----
+</p>
 
 
 == Sources
+

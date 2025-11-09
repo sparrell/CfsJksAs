@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Jacobstow, Cornwall, England, UK
+
 * Death: 29 DEC 1676
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPPMP.George_Langton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0613[Dev-web]
-* https://localhost:4000/person?p=p0613[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0613[Adoc-web]
-* https://localhost:4000/adoc?p=p0613[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0613http://localhost:4000/person?p=p0613https://cfsjksas.gigalixirapp.com/adoc?p=p0613http://localhost:4000/adoc?p=p0613* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Langton_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.William_Hannum.adoc[William Hannum (1690 - 1755)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPPM.Hester_Langton.adoc[Hester Langton (1649 - 1712)]
-* gen10.PMPPMPPPMP.George_Langton_(?_-_1676)
+* gen10.PMPPMPPPMP.George_Langton_(? - 1676)
 
 
 == Other
 event:  616
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  616
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

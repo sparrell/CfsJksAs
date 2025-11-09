@@ -37,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0221[Dev-web]
-* http://localhost:4000/person?p=p0221[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0221[Adoc-web]
-* adoc?p=p0221[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0221http://localhost:4000/person?p=p0221https://cfsjksas.gigalixirapp.com/adoc?p=p0221http://localhost:4000/adoc?p=p0221* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Isaac_Chittenden_%281%29[WeRelate]
 * WikiTree TBD
@@ -59,7 +55,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMM.Jemimah_Stetson.adoc[Jemimah Stetson (1695 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
-* gen11.PPPPMMMMMMP.Isaac_Chittenden_(1625_-_1676)
+* gen11.PPPPMMMMMMP.Isaac_Chittenden_(1625 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -74,15 +70,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMP.Anthony_Stetson.adoc[Anthony Stetson (1693 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
-* gen11.PPPPMMMMMMP.Isaac_Chittenden_(1625_-_1676)
+* gen11.PPPPMMMMMMP.Isaac_Chittenden_(1625 - 1676)
 
 
 == Other
 emigration:  Arr. Boston on ship Increase with parents.
-----
+<p>
 2 DATE JUL 1635
 2 AGE About 9-10
-----
+</p>
 
 notes: He was killed by the indian war party that raided Scituate in May 1676
 

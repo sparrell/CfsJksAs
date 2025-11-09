@@ -30,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMP.Joseph_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0407[Dev-web]
-* http://localhost:4000/person?p=p0407[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0407[Adoc-web]
-* adoc?p=p0407[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0407http://localhost:4000/person?p=p0407https://cfsjksas.gigalixirapp.com/adoc?p=p0407http://localhost:4000/adoc?p=p0407* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Morgan_%281%29[WeRelate]
 * WikiTree TBD
@@ -52,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
-* gen11.MMMMPMPPMMP.Joseph_Morgan_(1646_-_1704)
+* gen11.MMMMPMPPMMP.Joseph_Morgan_(1646 - 1704)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -66,18 +62,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
-* gen11.MMMMPMPPMMP.Joseph_Morgan_(1646_-_1704)
+* gen11.MMMMPMPPMMP.Joseph_Morgan_(1646 - 1704)
 
 
 == Other
 event:  428
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  428
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

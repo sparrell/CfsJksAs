@@ -27,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMPPMM.Unknown202_Unknown003.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0751[Dev-web]
-* http://localhost:4000/person?p=p0751[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0751[Adoc-web]
-* adoc?p=p0751[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0751http://localhost:4000/person?p=p0751https://cfsjksas.gigalixirapp.com/adoc?p=p0751http://localhost:4000/adoc?p=p0751* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Unknown_Unknown_%284410%29[WeRelate]
 * WikiTree TBD
@@ -49,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPM.Elizabeth_Baker.adoc[Elizabeth Baker (1644 - 1672)]
-* gen11.PPPPPPMPPMM.Unknown202_Unknown003_(?_-_?)
+* gen11.PPPPPPMPPMM.Unknown202_Unknown003_(? - ?)
 
 
 == Other

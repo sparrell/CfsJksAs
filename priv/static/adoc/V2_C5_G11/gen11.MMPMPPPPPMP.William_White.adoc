@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPPMP.William_White.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0528[Dev-web]
-* http://localhost:4000/person?p=p0528[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0528[Adoc-web]
-* adoc?p=p0528[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0528http://localhost:4000/person?p=p0528https://cfsjksas.gigalixirapp.com/adoc?p=p0528http://localhost:4000/adoc?p=p0528* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPPM.Ursala_White.adoc[Ursala White (1636 - 1703)]
-* gen11.MMPMPPPPPMP.William_White_(1600_-_1673)
+* gen11.MMPMPPPPPMP.William_White_(1600 - 1673)
 
 
 == Other

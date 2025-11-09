@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: BEF 14 JAN 1600
+
 * Birthplace: Derby, Derbyshire, England, UK
+
 * Death: 4 MAR 1678
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 * Age at Death: About 78
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMM.Lucretia_Oldham.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0498[Dev-web]
-* https://localhost:4000/person?p=p0498[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0498[Adoc-web]
-* https://localhost:4000/adoc?p=p0498[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0498http://localhost:4000/person?p=p0498https://cfsjksas.gigalixirapp.com/adoc?p=p0498http://localhost:4000/adoc?p=p0498* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lucretia_Oldham_%282%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,7 +82,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -95,7 +97,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -110,7 +112,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMPP.Jonathan_Lester.adoc[Jonathan Lester (1678 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -125,7 +127,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -140,7 +142,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -154,7 +156,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Mary Starr (1696 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPM.Hannah_Brewster.adoc[Hannah Brewster (1641 - 1711)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #9
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -168,7 +170,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPM.Lydia_Turner.adoc[Lydia Turner (1653 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 === Lineage #10
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -181,16 +183,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPP.Benjamin_Turner.adoc[Benjamin Turner (1660 - 1731)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
-* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600_-_1678)
+* gen10.PPPPPMPPMM.Lucretia_Oldham_(1600 - 1678)
 
 
 == Other
 emigration:  Arrived Plymouth (see notes)
-----
+<p>
 2 DATE 1623
 2 AGE About 22-23
-----
+</p>
 
 notes: Lucretia accompanied her older brother John and his family in the ship "Anne" from England to Plymouth Colony in1623.
 
+
 == Sources
+

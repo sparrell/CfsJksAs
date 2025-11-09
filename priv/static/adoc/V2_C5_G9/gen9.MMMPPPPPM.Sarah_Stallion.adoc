@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1654
+
 * Death: ABT 1703
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 48-49
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPPM.Sarah_Stallion.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0373[Dev-web]
-* https://localhost:4000/person?p=p0373[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0373[Adoc-web]
-* https://localhost:4000/adoc?p=p0373[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0373http://localhost:4000/person?p=p0373https://cfsjksas.gigalixirapp.com/adoc?p=p0373http://localhost:4000/adoc?p=p0373* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
-* gen9.MMMPPPPPM.Sarah_Stallion_(1654_-_1703)
+* gen9.MMMPPPPPM.Sarah_Stallion_(1654 - 1703)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,18 +56,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
-* gen9.MMMPPPPPM.Sarah_Stallion_(1654_-_1703)
+* gen9.MMMPPPPPM.Sarah_Stallion_(1654 - 1703)
 
 
 == Other
 event:  398
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  398
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

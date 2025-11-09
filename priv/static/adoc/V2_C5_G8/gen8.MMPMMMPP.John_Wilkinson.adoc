@@ -37,7 +37,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0817http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMM.Esther_Lawrence.adoc[Esther Lawrence (1798 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMMM.Marvel_Wilkinson.adoc[Marvel Wilkinson (1771 - 1851)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMMP.James_York_Wilkinson.adoc[James York Wilkinson (1750 - ?)]
-* gen8.MMPMMMPP.John_Wilkinson_(1713_-_?)
+* gen8.MMPMMMPP.John_Wilkinson_(1713 - ?)
 
 
 == Other

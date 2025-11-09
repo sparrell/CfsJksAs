@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMMMPMPPM.Alice_Carpenter.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0993[Dev-web]
-* http://localhost:4000/person?p=p0993[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0993[Adoc-web]
-* adoc?p=p0993[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0993http://localhost:4000/person?p=p0993https://cfsjksas.gigalixirapp.com/adoc?p=p0993http://localhost:4000/adoc?p=p0993* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_Carpenter_%283%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMP.Samuel_Bradford.adoc[Samuel Bradford (1667 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMPP.William_Bradford.adoc[William Bradford (1624 - 1702)]
-* gen11.PMPMMMPMPPM.Alice_Carpenter_(1590_-_1670)
+* gen11.PMPMMMPMPPM.Alice_Carpenter_(1590 - 1670)
 
 
 == Other

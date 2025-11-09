@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1670
+
 * Birthplace: Swansea, Bristol, Massachusetts, USA
+
 * Death: 13 FEB 1702
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: 31-32
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMMMP.Joseph_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0335[Dev-web]
-* https://localhost:4000/person?p=p0335[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0335[Adoc-web]
-* https://localhost:4000/adoc?p=p0335[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0335http://localhost:4000/person?p=p0335https://cfsjksas.gigalixirapp.com/adoc?p=p0335http://localhost:4000/adoc?p=p0335* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Smith_%28292%29[WeRelate]
 * WikiTree TBD
@@ -45,18 +47,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Ruth Vinal (1746 - 1810)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Anna Smith (1696 - ?)]
-* gen10.PPPPPPMMMP.Joseph_Smith_(1670_-_1702)
+* gen10.PPPPPPMMMP.Joseph_Smith_(1670 - 1702)
 
 
 == Other
 event:  363
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  363
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Clark
+
 * Birth: 1644
+
 * Birthplace: Falmouth, Cumberland, Maine
+
 * Death: 1736
+
 * Deathplace: Boston, Massachusetts
+
 * Age at Death: 91-92
+
 
 
 == Family
@@ -23,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMPM.Elizabeth_Mitton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1280[Dev-web]
-* https://localhost:4000/person?p=p1280[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1280[Adoc-web]
-* https://localhost:4000/adoc?p=p1280[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1280http://localhost:4000/person?p=p1280https://cfsjksas.gigalixirapp.com/adoc?p=p1280http://localhost:4000/adoc?p=p1280* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Mitton_%283%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +47,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke).adoc[Isaac Clark (Clarke) (1666 - 1768)]
-* gen10.PPPMMMPMPM.Elizabeth_Mitton_(1644_-_1736)
+* gen10.PPPMMMPMPM.Elizabeth_Mitton_(1644 - 1736)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1644 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: 1736 
 4 CONC - Boston, Massachusetts&amp;lt;br&amp;gt;Father: Michael Mitton&amp;lt;br&amp;gt;Mother: Elizabeth Harvey (born Cleeves Mitton, Cleeve, Cleave)&amp;lt;br&amp;gt;Husband: Lieut Thaddeus Clark&amp;lt;br
 4 CONC &amp;gt;Child: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Siblings: Dorcas Sarah Andrews (born Mitton)Nathaniel MittonMary Brackett (born Mitton)Martha Graves (born Mitton)Ann Brackett (born Mitton)
-----
+</p>
+
 

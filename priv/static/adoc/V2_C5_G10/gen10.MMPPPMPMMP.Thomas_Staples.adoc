@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1620
+
 * Birthplace: Canterbury, Kent, England, UK
+
 * Death: 1688
+
 * Deathplace: Fairfield, Fairfield, Connecticut, USA
+
 * Age at Death: About 67-68
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPMPMMP.Thomas_Staples.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0785[Dev-web]
-* https://localhost:4000/person?p=p0785[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0785[Adoc-web]
-* https://localhost:4000/adoc?p=p0785[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0785http://localhost:4000/person?p=p0785https://cfsjksas.gigalixirapp.com/adoc?p=p0785http://localhost:4000/adoc?p=p0785* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,18 +50,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPMP.David_Booth.adoc[David Booth (1720 - 1753)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPMPM.Mehitable_Beach.adoc[Mehitable Beach (1690 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPMPMM.Hannah_Staples.adoc[Hannah Staples (1659 - ?)]
-* gen10.MMPPPMPMMP.Thomas_Staples_(1620_-_1688)
+* gen10.MMPPPMPMMP.Thomas_Staples_(1620 - 1688)
 
 
 == Other
 event:  773
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  774
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: Bedfordshire, England, UK
+
 
 
 == Ship
@@ -23,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPPMPPMPMMM.Alice_Langley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0045[Dev-web]
-* https://localhost:4000/person?p=p0045[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0045[Adoc-web]
-* https://localhost:4000/adoc?p=p0045[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0045http://localhost:4000/person?p=p0045https://cfsjksas.gigalixirapp.com/adoc?p=p0045http://localhost:4000/adoc?p=p0045* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,9 +44,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMP.Judah_Hutchinson.adoc[Judah Hutchinson (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMPM.Alice_Wallcott.adoc[Alice Wallcott (1635 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMPMM.Alice_Ingersoll.adoc[Alice Ingersoll (1612 - ?)]
-* gen12.PMPPMPPMPMMM.Alice_Langley_(?_-_?)
+* gen12.PMPPMPPMPMMM.Alice_Langley_(? - ?)
 
 
 == Other
 
 == Sources
+

@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 7 JUN 1684
+
 * Deathplace: Windsor, Hartford, Connecticut, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPM.Elizabeth_Warriner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0240[Dev-web]
-* https://localhost:4000/person?p=p0240[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0240[Adoc-web]
-* https://localhost:4000/adoc?p=p0240[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0240http://localhost:4000/person?p=p0240https://cfsjksas.gigalixirapp.com/adoc?p=p0240http://localhost:4000/adoc?p=p0240* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Warriner_%2811%29[WeRelate]
 * WikiTree TBD
@@ -41,9 +40,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.Ebenezer_Strong.adoc[Ebenezer Strong (1750 - 1824)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
-* gen9.PMPPPPPPM.Elizabeth_Warriner_(?_-_1684)
+* gen9.PMPPPPPPM.Elizabeth_Warriner_(? - 1684)
 
 
 == Other
 
 == Sources
+

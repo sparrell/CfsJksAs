@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPMP.Jeremiah_Belcher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0575[Dev-web]
-* http://localhost:4000/person?p=p0575[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0575[Adoc-web]
-* adoc?p=p0575[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0575http://localhost:4000/person?p=p0575https://cfsjksas.gigalixirapp.com/adoc?p=p0575http://localhost:4000/adoc?p=p0575* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPM.Judith_Belcher.adoc[Judith Belcher (1658 - ?)]
-* gen11.MMMMPMPMPMP.Jeremiah_Belcher_(1614_-_1690)
+* gen11.MMMMPMPMPMP.Jeremiah_Belcher_(1614 - 1690)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,42 +65,42 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPM.Judith_Belcher.adoc[Judith Belcher (1658 - ?)]
-* gen11.MMMMPMPMPMP.Jeremiah_Belcher_(1614_-_1690)
+* gen11.MMMMPMPMPMP.Jeremiah_Belcher_(1614 - 1690)
 
 
 == Other
 emigration:  Came in ship "Susan and Ellen"
-----
+<p>
 2 DATE 1635
 2 AGE About 20-21
-----
+</p>
 
 event:  Freeman of Ipswich MA
-----
+<p>
 2 TYPE Fact 1
 2 DATE 13 MAR 1639
 2 AGE About 24-25
-----
+</p>
  See Notes
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
  See Notes
-----
+<p>
 2 TYPE Fact 5
-----
+</p>
  Sergeant of Militia
-----
+<p>
 2 TYPE Military Service
 2 DATE JAN 1660
 2 AGE About 45-46
-----
+</p>
  _ELEC of Belcher, Jeremiah to Selectman
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1665
 2 AGE About 50-51
-----
+</p>
 
 notes: Jonathan Belcher, appointed Royal governor of Massachusetts in 1731, was the grandson of Jeremiah Belcher and his first wife, Mary Clifford.
 

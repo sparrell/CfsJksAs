@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1641
+
 * Birthplace: England, UK
+
 * Death: 1689
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 47-48
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMMM.Mary_Vine.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0299[Dev-web]
-* https://localhost:4000/person?p=p0299[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0299[Adoc-web]
-* https://localhost:4000/adoc?p=p0299[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0299http://localhost:4000/person?p=p0299https://cfsjksas.gigalixirapp.com/adoc?p=p0299http://localhost:4000/adoc?p=p0299* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Vine_%282%29[WeRelate]
 * WikiTree TBD
@@ -48,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMM.Jerusha_Morgan.adoc[Jerusha Morgan (1682 - 1726)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +63,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPP.James_Morgan.adoc[James Morgan (1693 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPP.James_Morgan.adoc[James Morgan (1667 - 1748)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -74,7 +76,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMM.Jerusha_Morgan.adoc[Jerusha Morgan (1682 - 1726)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -87,7 +89,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPP.James_Morgan.adoc[James Morgan (1693 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPP.James_Morgan.adoc[James Morgan (1667 - 1748)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -100,7 +102,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Mary Morgan (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPP.James_Morgan.adoc[James Morgan (1693 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPP.James_Morgan.adoc[James Morgan (1667 - 1748)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -113,18 +115,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Mary Starr (1696 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMM.Mary_Morgan.adoc[Mary Morgan (1670 - 1765)]
-* gen10.MMMMMPMMMM.Mary_Vine_(1641_-_1689)
+* gen10.MMMMMPMMMM.Mary_Vine_(1641 - 1689)
 
 
 == Other
 event:  312
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  312
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

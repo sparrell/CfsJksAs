@@ -25,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPMMMMM.Anne_Marsh.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0664[Dev-web]
-* http://localhost:4000/person?p=p0664[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0664[Adoc-web]
-* adoc?p=p0664[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0664http://localhost:4000/person?p=p0664https://cfsjksas.gigalixirapp.com/adoc?p=p0664http://localhost:4000/adoc?p=p0664* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPMM.Prudence_Frary.adoc[Prudence Frary (1677 - 1756)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPMMM.Mary_Graves.adoc[Mary Graves (1647 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPMMMM.Mary_Church.adoc[Mary Church (1632 - ?)]
-* gen11.PMPPMPMMMMM.Anne_Marsh_(?_-_?)
+* gen11.PMPPMPMMMMM.Anne_Marsh_(? - ?)
 
 
 == Other

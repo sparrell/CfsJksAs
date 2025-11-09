@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1611
+
 * Birthplace: Somersetshire, England, UK
+
 * Death: 26 OCT 1672
+
 * Deathplace: Salem, Essex, Massachusetts, USA
+
 * Age at Death: About 60-61
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPMMPM.Bridget_Knight.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0462[Dev-web]
-* https://localhost:4000/person?p=p0462[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0462[Adoc-web]
-* https://localhost:4000/adoc?p=p0462[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0462http://localhost:4000/person?p=p0462https://cfsjksas.gigalixirapp.com/adoc?p=p0462http://localhost:4000/adoc?p=p0462* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMP.Thomas_Varney.adoc[Thomas Varney (1630 - 1692)]
-* gen12.MMMMPMMPMMPM.Bridget_Knight_(1611_-_1672)
+* gen12.MMMMPMMPMMPM.Bridget_Knight_(1611 - 1672)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,18 +67,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Rachel Varney (1674 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMMP.Thomas_Varney.adoc[Thomas Varney (1630 - 1692)]
-* gen12.MMMMPMMPMMPM.Bridget_Knight_(1611_-_1672)
+* gen12.MMMMPMMPMMPM.Bridget_Knight_(1611 - 1672)
 
 
 == Other
 event:  478
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  478
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

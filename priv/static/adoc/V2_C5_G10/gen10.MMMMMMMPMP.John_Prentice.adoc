@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 MAY 1628
+
 * Birthplace: Chelmsford, Essex, England, UK
+
 * Death: 1691
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 62-63
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPMP.John_Prentice.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0743[Dev-web]
-* https://localhost:4000/person?p=p0743[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0743[Adoc-web]
-* https://localhost:4000/adoc?p=p0743[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0743http://localhost:4000/person?p=p0743https://cfsjksas.gigalixirapp.com/adoc?p=p0743http://localhost:4000/adoc?p=p0743* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
-* gen10.MMMMMMMPMP.John_Prentice_(1628_-_1691)
+* gen10.MMMMMMMPMP.John_Prentice_(1628 - 1691)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,17 +65,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
-* gen10.MMMMMMMPMP.John_Prentice_(1628_-_1691)
+* gen10.MMMMMMMPMP.John_Prentice_(1628 - 1691)
 
 
 == Other
 emigration:  See Notes
+
 immigration: Arr. Boston on ship "Lyon"
-----
+<p>
 2 DATE 2 NOV 1631
 2 AGE 3
-----
+</p>
 
 notes: From "History Of New London"- <p>"John Prentis - No account of the death of this early member of the community has been found, but the probate proceedings show that it took place in 1691.</p> <p>"John Prentis, the son of Valentine and Alice, became an inhabitant of New London in 1652, and probably brought his wife, Hester, with him from Roxbury.  Though living in New London, he connected himself with the Roxbury . . . <p>"A blacksmith is an important persongage in a new settlement.  Richard Post and otherrs of the first comers were of this profession, but they had left the place, and an invitation was extended to JohnPrentis, of Roxbury, to become an inhabitant and wield the hammer for the public benefit.  The town of Hadley had made a similar proposal to him, but he came to Pequot on a visit of inquiry, and entered into a contract with Mr.Winthrop and the townsmen, who, being authorized by the town, engaged,if he would remove, to build him a house and shop, pay the expense ofhistransportation, and providehim with half a ton of iron, also "twentyorthirty pound of steele," to be ready by the middle of May.  thesearticles were signed February 28, 1651, and at the same date he received theusual accommodations of a planter, house lot, upland and meadow.The houselot of two acres was in an eligible and central position atthe corner of the present State and Bank Streets."
 
+
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1593
+
 * Birthplace: Marcq, Nord, Nord-Pas-de-Calais, France
+
 * Death: 1648
+
 * Deathplace: Boston, Middlesex, Massachusetts, United States
+
 * Age at Death: 54-55
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMPPPMP.Pierre_Charlet.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1260[Dev-web]
-* https://localhost:4000/person?p=p1260[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1260[Adoc-web]
-* https://localhost:4000/adoc?p=p1260[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1260http://localhost:4000/person?p=p1260https://cfsjksas.gigalixirapp.com/adoc?p=p1260http://localhost:4000/adoc?p=p1260* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,18 +50,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Sampson Haughton (1692 - 1756)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPPP.Sampson_Haughton.adoc[Sampson Haughton (? - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPPPM.Catherine_Charlet.adoc[Catherine Charlet (1623 - 1670)]
-* gen10.PMPMMPPPMP.Pierre_Charlet_(1593_-_1648)
+* gen10.PMPMMPPPMP.Pierre_Charlet_(1593 - 1648)
 
 
 == Other
 
 == Sources
 * @S52@
-----
+<p>
 2 PAGE Pierre Charlet
 2 QUAY 3
 2 DATA
 3 DATE 9 FEB 2019
 3 TEXT Added via a Smart Match
-----
+</p>
+
 

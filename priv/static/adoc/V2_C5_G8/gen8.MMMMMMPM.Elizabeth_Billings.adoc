@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 5 JAN 1713
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 25 APR 1791
+
 * Deathplace: Ledyard, New London, Connecticut, USA
+
 * Age at Death: 78
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0260[Dev-web]
-* https://localhost:4000/person?p=p0260[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0260[Adoc-web]
-* https://localhost:4000/adoc?p=p0260[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0260http://localhost:4000/person?p=p0260https://cfsjksas.gigalixirapp.com/adoc?p=p0260http://localhost:4000/adoc?p=p0260* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Billings_%282%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
-* gen8.MMMMMMPM.Elizabeth_Billings_(1713_-_1791)
+* gen8.MMMMMMPM.Elizabeth_Billings_(1713 - 1791)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
-* gen8.MMMMMMPM.Elizabeth_Billings_(1713_-_1791)
+* gen8.MMMMMMPM.Elizabeth_Billings_(1713 - 1791)
 
 
 == Other
 
 == Sources
+

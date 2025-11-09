@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: Hingham, Norfolk, England, UK
+
 * Death: 28 JAN 1689
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPPPM.Francis_Unknown115.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0172[Dev-web]
-* https://localhost:4000/person?p=p0172[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0172[Adoc-web]
-* https://localhost:4000/adoc?p=p0172[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0172http://localhost:4000/person?p=p0172https://cfsjksas.gigalixirapp.com/adoc?p=p0172http://localhost:4000/adoc?p=p0172* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Frances_Unknown_%28133%29[WeRelate]
 * WikiTree TBD
@@ -46,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPP.Benjamin_Farrow.adoc[Benjamin Farrow (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPP.Nathan_Farrow.adoc[Nathan Farrow (1654 - 1715)]
-* gen10.PPPPMMPPPM.Francis_Unknown115_(?_-_1689)
+* gen10.PPPPMMPPPM.Francis_Unknown115_(? - 1689)
 
 
 == Other
 event:  198
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  198
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

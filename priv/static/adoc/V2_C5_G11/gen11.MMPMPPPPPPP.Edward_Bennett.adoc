@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPPPP.Edward_Bennett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0133[Dev-web]
-* http://localhost:4000/person?p=p0133[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0133[Adoc-web]
-* adoc?p=p0133[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0133http://localhost:4000/person?p=p0133https://cfsjksas.gigalixirapp.com/adoc?p=p0133http://localhost:4000/adoc?p=p0133* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,20 +51,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPPP.John_Bennett.adoc[John Bennett (1630 - 1691)]
-* gen11.MMPMPPPPPPP.Edward_Bennett_(1600_-_1645)
+* gen11.MMPMPPPPPPP.Edward_Bennett_(1600 - 1645)
 
 
 == Other
 emigration:  England to Weymouth MA w wife & 4 children
-----
+<p>
 2 DATE BEF 1636
 2 AGE About 35-36
-----
+</p>
  Moved with Rev. Newman to Rehobeth MA
-----
+<p>
 2 DATE 1643
 2 AGE 42-43
-----
+</p>
 
 
 == Sources

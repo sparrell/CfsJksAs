@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 2 MAR 1647
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: JAN 1720
+
 * Deathplace: Eastham, Barnstable, Massachusetts, USA
+
 * Age at Death: 72
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMP.Daniel_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0987[Dev-web]
-* https://localhost:4000/person?p=p0987[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0987[Adoc-web]
-* https://localhost:4000/adoc?p=p0987[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0987http://localhost:4000/person?p=p0987https://cfsjksas.gigalixirapp.com/adoc?p=p0987http://localhost:4000/adoc?p=p0987* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Daniel_Smith_%28117%29[WeRelate]
 * WikiTree TBD
@@ -43,9 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Content Howes (1702 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMM.Content_Smith.adoc[Content Smith (1680 - ?)]
-* gen10.MMPMPMMMMP.Daniel_Smith_(1647_-_1720)
+* gen10.MMPMPMMMMP.Daniel_Smith_(1647 - 1720)
 
 
 == Other
 
 == Sources
+

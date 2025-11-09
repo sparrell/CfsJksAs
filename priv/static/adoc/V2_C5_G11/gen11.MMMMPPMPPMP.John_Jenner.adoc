@@ -26,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMP.John_Jenner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0702[Dev-web]
-* http://localhost:4000/person?p=p0702[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0702[Adoc-web]
-* adoc?p=p0702[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0702http://localhost:4000/person?p=p0702https://cfsjksas.gigalixirapp.com/adoc?p=p0702http://localhost:4000/adoc?p=p0702* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPP.William_Satterlee.adoc[William Satterlee (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPPM.Mary_Jenner.adoc[Mary Jenner (1648 - 1660)]
-* gen11.MMMMPPMPPMP.John_Jenner_(?_-_1677)
+* gen11.MMMMPPMPPMP.John_Jenner_(? - 1677)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,35 +58,35 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPP.William_Satterlee.adoc[William Satterlee (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPPM.Mary_Jenner.adoc[Mary Jenner (1648 - 1660)]
-* gen11.MMMMPPMPPMP.John_Jenner_(?_-_1677)
+* gen11.MMMMPPMPPMP.John_Jenner_(? - 1677)
 
 
 == Other
 emigration: 
-----
+<p>
 2 PLAC Dorchester, Boston, Massachusetts, USA
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Fact 2
 2 PLAC Stratford, Fairfield, Connecticut, USA
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 4
 2 PLAC Setauket- East Setauket, Suffolk, New York, USA
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 5
 2 PLAC Stratford, Fairfield, Connecticut, USA
-----
+</p>
 
-----
+<p>
 2 TYPE Military Service
 2 PLAC England, UK
-----
+</p>
 
 
 == Sources

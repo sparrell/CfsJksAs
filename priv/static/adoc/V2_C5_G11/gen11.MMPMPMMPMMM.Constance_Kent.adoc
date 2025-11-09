@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMPMMM.Constance_Kent.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0555[Dev-web]
-* http://localhost:4000/person?p=p0555[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0555[Adoc-web]
-* adoc?p=p0555[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0555http://localhost:4000/person?p=p0555https://cfsjksas.gigalixirapp.com/adoc?p=p0555http://localhost:4000/adoc?p=p0555* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPM.Hannah_Lincoln.adoc[Hannah Lincoln (1664 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPMM.Mary_Austin.adoc[Mary Austin (1632 - 1694)]
-* gen11.MMPMPMMPMMM.Constance_Kent_(1608_-_1667)
+* gen11.MMPMPMMPMMM.Constance_Kent_(1608 - 1667)
 
 
 == Other

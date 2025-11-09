@@ -7,21 +7,26 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: BET 1570 AND 1588
+
 * Birthplace: Assington, Suffolk, England
+
 * Christening: 
-----
+<p>
 2 DATE 11 OCT 1584
 2 PLAC Bures St. Mary, Suffolk, England
-----
+</p>
 
 * Death: 5 NOV 1639
+
 * Deathplace: Ipswich, Essex, Massachusetts
+
 * Buried: 
-----
+<p>
 2 DATE ABT NOV 1639
 2 PLAC Ipswich, Essex, Massachusetts
-----
+</p>
 
 
 
@@ -38,11 +43,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMPPMMPMP.Thomas_French.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1213[Dev-web]
-* https://localhost:4000/person?p=p1213[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1213[Adoc-web]
-* https://localhost:4000/adoc?p=p1213[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1213http://localhost:4000/person?p=p1213https://cfsjksas.gigalixirapp.com/adoc?p=p1213http://localhost:4000/adoc?p=p1213* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_French_%285%29[WeRelate]
 * WikiTree TBD
@@ -61,17 +62,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Alice Howlett (1666 - 1696)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMMP.Thomas_Howlett.adoc[Thomas Howlett (1637 - 1667)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPM.Alice_French.adoc[Alice French (1610 - 1666)]
-* gen12.PPPMMPPMMPMP.Thomas_French_(1588_-_1639)
+* gen12.PPPMMPPMMPMP.Thomas_French_(1588 - 1639)
 
 
 == Other
 
 == Sources
 * @S37@
-----
+<p>
 2 QUAY 3
 2 DATA
 3 DATE 27 AUG 2015
 3 TEXT Added via an Instant Discovery™
-----
+</p>
+
 

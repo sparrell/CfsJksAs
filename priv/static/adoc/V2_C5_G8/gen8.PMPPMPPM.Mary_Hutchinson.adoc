@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 15 MAY 1699
+
 * Birthplace: Northampton, Hampshire, Massachusetts, USA
+
 * Deathplace: Belchertown, Hampshire, Massachusetts, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPM.Mary_Hutchinson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0608[Dev-web]
-* https://localhost:4000/person?p=p0608[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0608[Adoc-web]
-* https://localhost:4000/adoc?p=p0608[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0608http://localhost:4000/person?p=p0608https://cfsjksas.gigalixirapp.com/adoc?p=p0608http://localhost:4000/adoc?p=p0608* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Hutchinson_%2828%29[WeRelate]
 * WikiTree TBD
@@ -41,18 +41,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.Elijah_Hannum.adoc[Elijah Hannum (1759 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
-* gen8.PMPPMPPM.Mary_Hutchinson_(1699_-_?)
+* gen8.PMPPMPPM.Mary_Hutchinson_(1699 - ?)
 
 
 == Other
 event:  611
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  611
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

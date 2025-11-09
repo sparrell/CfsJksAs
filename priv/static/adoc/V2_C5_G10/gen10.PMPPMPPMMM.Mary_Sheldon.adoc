@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 4 SEP 1654
+
 * Birthplace: Hartford, Hartford, Connecticut, USA
+
 * Death: 20 APR 1708
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 * Age at Death: 53
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMMM.Mary_Sheldon.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0618[Dev-web]
-* https://localhost:4000/person?p=p0618[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0618[Adoc-web]
-* https://localhost:4000/adoc?p=p0618[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0618http://localhost:4000/person?p=p0618https://cfsjksas.gigalixirapp.com/adoc?p=p0618http://localhost:4000/adoc?p=p0618* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Sheldon_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,18 +47,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPM.Mary_Hutchinson.adoc[Mary Hutchinson (1699 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMM.Mary_Bridgman.adoc[Mary Bridgman (1672 - 1741)]
-* gen10.PMPPMPPMMM.Mary_Sheldon_(1654_-_1708)
+* gen10.PMPPMPPMMM.Mary_Sheldon_(1654 - 1708)
 
 
 == Other
 event:  620
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  620
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

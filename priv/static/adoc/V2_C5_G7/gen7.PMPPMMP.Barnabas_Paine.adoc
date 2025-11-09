@@ -56,7 +56,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p1256http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMM.Phoebe_Paine.adoc[Phoebe Paine (1762 - ?)]
-* gen7.PMPPMMP.Barnabas_Paine_(1737_-_1822)
+* gen7.PMPPMMP.Barnabas_Paine_(1737 - 1822)
 
 
 == Other

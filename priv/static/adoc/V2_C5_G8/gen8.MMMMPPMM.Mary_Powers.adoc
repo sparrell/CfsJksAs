@@ -1,4 +1,4 @@
-= Mary Powers (? - ?)
+= Mary Powers (? - 1785)
 
 Narrative TBD
 
@@ -7,6 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
+* Birth: 20 Aug 1721
+
+* Birthplace: Griswold CT
+
+* Birth source: wikitree
+
+* Death: 1785
+
 
 
 == Family
@@ -17,14 +26,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMM.Mary_Powers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0856[Dev-web]
-* https://localhost:4000/person?p=p0856[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0856[Adoc-web]
-* https://localhost:4000/adoc?p=p0856[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0856http://localhost:4000/person?p=p0856https://cfsjksas.gigalixirapp.com/adoc?p=p0856http://localhost:4000/adoc?p=p0856* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001117/mary-powers-satterlee[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Powers_%2833%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Powers-1437[WikiTree]
 
 == Relations
 === Lineage #1
@@ -36,7 +41,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Mary Satterlee (1746 - 1809)]
-* gen8.MMMMPPMM.Mary_Powers_(?_-_?)
+* gen8.MMMMPPMM.Mary_Powers_(? - 1785)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -47,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Mary Satterlee (1746 - 1809)]
-* gen8.MMMMPPMM.Mary_Powers_(?_-_?)
+* gen8.MMMMPPMM.Mary_Powers_(? - 1785)
 
 
 == Other
 
 == Sources
+

@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1624
+
 * Birthplace: Birch Great, Essex, England, UK
+
 
 
 == Ship
@@ -24,11 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPMPPM.Pricilla_Symonds.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0764[Dev-web]
-* https://localhost:4000/person?p=p0764[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0764[Adoc-web]
-* https://localhost:4000/adoc?p=p0764[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0764http://localhost:4000/person?p=p0764https://cfsjksas.gigalixirapp.com/adoc?p=p0764http://localhost:4000/adoc?p=p0764* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Unknown_%281683%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +44,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Rebecca Warner (1715 - 1767)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPMP.Ebenezer_Warner.adoc[Ebenezer Warner (1681 - 1755)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPMPP.John_Warner.adoc[John Warner (1649 - 1723)]
-* gen10.MMPPPPMPPM.Pricilla_Symonds_(1624_-_?)
+* gen10.MMPPPPMPPM.Pricilla_Symonds_(1624 - ?)
 
 
 == Other
 
 == Sources
+

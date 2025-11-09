@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 20 MAR 1624
+
 * Birthplace: Hook Norton, Oxfordshire, England, UK
+
 * Death: 26 APR 1710
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 86
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPP.James_Whiton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0200[Dev-web]
-* https://localhost:4000/person?p=p0200[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0200[Adoc-web]
-* https://localhost:4000/adoc?p=p0200[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0200http://localhost:4000/person?p=p0200https://cfsjksas.gigalixirapp.com/adoc?p=p0200http://localhost:4000/adoc?p=p0200* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Whiton_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,18 +52,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
-* gen10.PPPPMMPMPP.James_Whiton_(1624_-_1710)
+* gen10.PPPPMMPMPP.James_Whiton_(1624 - 1710)
 
 
 == Other
 event:  222
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  222
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -7,22 +7,28 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1665
+
 * Birthplace: Lancaster, Middlesex, Massachusetts Bay, British Colonial America
+
 * Baptism: 
-----
+<p>
 2 PLAC Sudbury, Middlesex County, Massachusetts, Colonial America
-----
+</p>
 
 * Death: 16 JUN 1732
+
 * Deathplace: Grafton, Worcester, Massachusetts Bay, British Colonial America
+
 * Buried: 
-----
+<p>
 2 DATE 16 JUN 1732
 2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States
-----
+</p>
 
 * Age at Death: 66-67
+
 
 
 == Family
@@ -35,14 +41,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPP.Captain_Benjamin_Willard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1275[Dev-web]
-* https://localhost:4000/person?p=p1275[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1275[Adoc-web]
-* https://localhost:4000/adoc?p=p1275[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1275http://localhost:4000/person?p=p1275https://cfsjksas.gigalixirapp.com/adoc?p=p1275http://localhost:4000/adoc?p=p1275* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Benjamin_Willard_%281%29[WeRelate]
 * WikiTree TBD
+* https://willardfamilyassociation.org/2ndsite/g0/p67.htm#i1981[willard:]
 
 == Relations
 === Lineage #1
@@ -55,27 +58,28 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
-* gen9.PPPMMMPPP.Captain_Benjamin_Willard_(1665_-_1732)
+* gen9.PPPMMMPPP.Captain_Benjamin_Willard_(1665 - 1732)
 
 
 == Other
 occupation: Carpenter, Housewright, Public Office Justice of the Peace
+
 residence: 
-----
+<p>
 2 ADDR
 3 ADR1 Grafton, Middlesex, Massachusetts, United States
-----
+</p>
 
-----
+<p>
 2 DATE TO 1690
 2 ADDR
 3 ADR1 Marriage
-----
+</p>
 
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Benjamin Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Residence: Grafton, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Birth: 1665 - Lancaster, Worcester County, Massachuset
@@ -87,15 +91,16 @@ residence:
 4 CONC  Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willa
 4 CONC rd&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt
 4 CONC ;/a&gt;
-----
+</p>
 
 * @S111@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Benjamin Willard&amp;lt;br&amp;gt;Also known as: Captain Benjamin Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Circa 1664 - Lancaster, Middlesex, Massachusetts Bay, British Colonial A
 4 CONC merica&amp;lt;br&amp;gt;Marriage: Spouse: Sarah Lakin - To 1690 - Massachusetts Bay, British Colonial America&amp;lt;br&amp;gt;Residence: Marriage - To 1690 - Massachusetts Bay, British Colonial Ameri
 4 CONC ca&amp;lt;br&amp;gt;Death: June 16 1732 - Grafton, Worcester, Massachusetts Bay, British Colonial America&amp;lt;br&amp;gt;Burial: 1732 - Old Oak Street Burial Ground, Grafton, Worcester, Massachusett
 4 CONC s, United States&amp;lt;br&amp;gt;There seems to be an issue with this person&#039;s relatives. View this person on FamilySearch to see this information.
-----
+</p>
+
 

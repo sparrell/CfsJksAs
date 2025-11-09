@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1645
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: 1680
+
 * Deathplace: Bridgewater, Plymouth, Massachusetts, USA
+
 * Age at Death: About 34-35
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPMP.Israel_Packard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0689[Dev-web]
-* https://localhost:4000/person?p=p0689[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0689[Adoc-web]
-* https://localhost:4000/adoc?p=p0689[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0689http://localhost:4000/person?p=p0689https://cfsjksas.gigalixirapp.com/adoc?p=p0689http://localhost:4000/adoc?p=p0689* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,18 +45,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPM.Abigail_Packard.adoc[Abigail Packard (? - ?)]
-* gen8.MPMMMPMP.Israel_Packard_(1645_-_1680)
+* gen8.MPMMMPMP.Israel_Packard_(1645 - 1680)
 
 
 == Other
 event:  685
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  686
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

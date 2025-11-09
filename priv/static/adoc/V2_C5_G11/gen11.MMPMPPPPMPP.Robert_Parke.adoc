@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPPPPMPP.Robert_Parke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0356[Dev-web]
-* http://localhost:4000/person?p=p0356[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0356[Adoc-web]
-* adoc?p=p0356[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0356http://localhost:4000/person?p=p0356https://cfsjksas.gigalixirapp.com/adoc?p=p0356http://localhost:4000/adoc?p=p0356* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Robert_Parke_%281%29[WeRelate]
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMM.Dorothy_Parke.adoc[Dorothy Parke (1652 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -72,7 +68,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMP.Thomas_Parke.adoc[Thomas Parke (1676 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMPP.Thomas_Parke.adoc[Thomas Parke (1648 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -87,7 +83,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMM.Martha_Parke.adoc[Martha Parke (1646 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -101,7 +97,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPM.Elizabeth_Parke.adoc[Elizabeth Parke (1672 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPMP.Samuel_Parke.adoc[Samuel Parke (1621 - 1684)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -117,7 +113,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMM.Dorothy_Parke.adoc[Dorothy Parke (1652 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -132,7 +128,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMP.Thomas_Parke.adoc[Thomas Parke (1676 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMPP.Thomas_Parke.adoc[Thomas Parke (1648 - 1699)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -147,50 +143,50 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMM.Martha_Parke.adoc[Martha Parke (1646 - 1716)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMPPP.Thomas_Parke.adoc[Thomas Parke (1615 - 1709)]
-* gen11.MMPMPPPPMPP.Robert_Parke_(1580_-_1665)
+* gen11.MMPMPPPPMPP.Robert_Parke_(1580 - 1665)
 
 
 == Other
 emigration:  Sailed on the Arabella
-----
+<p>
 2 DATE 1630
 2 AGE 49-50
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1634
 2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
 2 AGE 53-54
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 3
 2 DATE 1639
 2 PLAC Wethersfield, Hartford, Connecticut, USA
 2 AGE 58-59
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 4
 2 DATE 1649
 2 PLAC New London, New London, Connecticut, USA
 2 AGE 68-69
-----
+</p>
 
-----
+<p>
 2 TYPE Fact 5
 2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
-----
+</p>
  Gentleman
-----
+<p>
 2 TYPE Fact 6
-----
+</p>
  Secretary to John Winthrop
-----
+<p>
 2 TYPE Fact 1
-----
+</p>
 
 
 == Sources

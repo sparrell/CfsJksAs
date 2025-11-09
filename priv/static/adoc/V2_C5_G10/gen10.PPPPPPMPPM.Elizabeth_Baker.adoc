@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 10 NOV 1644
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: AFT 1672
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 27-28
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMPPM.Elizabeth_Baker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0744[Dev-web]
-* https://localhost:4000/person?p=p0744[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0744[Adoc-web]
-* https://localhost:4000/adoc?p=p0744[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0744http://localhost:4000/person?p=p0744https://cfsjksas.gigalixirapp.com/adoc?p=p0744http://localhost:4000/adoc?p=p0744* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Baker_%28115%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +47,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Ruth Vinal (1746 - 1810)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPP.John_Vinal.adoc[John Vinal (1667 - 1728)]
-* gen10.PPPPPPMPPM.Elizabeth_Baker_(1644_-_1672)
+* gen10.PPPPPPMPPM.Elizabeth_Baker_(1644 - 1672)
 
 
 == Other
 
 == Sources
+

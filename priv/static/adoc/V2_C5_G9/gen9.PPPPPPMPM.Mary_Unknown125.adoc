@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMPM.Mary_Unknown125.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0748[Dev-web]
-* https://localhost:4000/person?p=p0748[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0748[Adoc-web]
-* https://localhost:4000/adoc?p=p0748[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0748http://localhost:4000/person?p=p0748https://cfsjksas.gigalixirapp.com/adoc?p=p0748http://localhost:4000/adoc?p=p0748* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -37,9 +34,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1770 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Ruth Vinal (1746 - 1810)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
-* gen9.PPPPPPMPM.Mary_Unknown125_(?_-_?)
+* gen9.PPPPPPMPM.Mary_Unknown125_(? - ?)
 
 
 == Other
 
 == Sources
+

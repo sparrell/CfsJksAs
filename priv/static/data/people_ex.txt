@@ -50803,7 +50803,7 @@
 			],
 			mh_id: "I1117",
 			mh_name: "Mary /Powers/",
-			mother: :p9998,
+			mother: nil, #:p9998,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,

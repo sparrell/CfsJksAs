@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1640
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Death: 1715
+
 * Deathplace: Topsfield, Essex, Massachusetts, USA
+
 * Age at Death: 74-75
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMMM.Lydia_Peabody.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0438[Dev-web]
-* https://localhost:4000/person?p=p0438[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0438[Adoc-web]
-* https://localhost:4000/adoc?p=p0438[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0438http://localhost:4000/person?p=p0438https://cfsjksas.gigalixirapp.com/adoc?p=p0438http://localhost:4000/adoc?p=p0438* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lydia_Peabody_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,14 +47,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPM.Alice_Cummings.adoc[Alice Cummings (1695 - 1734)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Alice Howlett (1666 - 1696)]
-* gen10.PPPMMPPMMM.Lydia_Peabody_(1640_-_1715)
+* gen10.PPPMMPPMMM.Lydia_Peabody_(1640 - 1715)
 
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALydia_Peabody_%281%29:
-----
+</p>
 
 
 == Sources
+

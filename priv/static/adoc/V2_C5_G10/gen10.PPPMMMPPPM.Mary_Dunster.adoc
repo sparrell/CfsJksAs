@@ -7,19 +7,26 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Noyes
+
 * Birth: BEF 29 OCT 1629
+
 * Birthplace: Bury, Lancashire, England
+
 * Baptism: 
-----
+<p>
 2 DATE 15 DEC 1630
 2 PLAC Bury, Lancashire, England
 2 AGE About 1
-----
+</p>
 
 * Death: 28 DEC 1715
+
 * Deathplace: Sudbury, Middlesex, Massachusetts, Colonial America
+
 * Age at Death: About 86
+
 
 
 == Ship
@@ -35,11 +42,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPPM.Mary_Dunster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1288[Dev-web]
-* https://localhost:4000/person?p=p1288[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1288[Adoc-web]
-* https://localhost:4000/adoc?p=p1288[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1288http://localhost:4000/person?p=p1288https://cfsjksas.gigalixirapp.com/adoc?p=p1288http://localhost:4000/adoc?p=p1288* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%285450%29[WeRelate]
 * WikiTree TBD
@@ -56,20 +59,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPP.Captain_Benjamin_Willard.adoc[Captain Benjamin Willard (1665 - 1732)]
-* gen10.PPPMMMPPPM.Mary_Dunster_(1629_-_1715)
+* gen10.PPPMMMPPPM.Mary_Dunster_(1629 - 1715)
 
 
 == Other
 residence: 
-----
+<p>
 2 ADDR
 3 ADR1 United States
-----
+</p>
 
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Noyes (born Dunster)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Alias name: Mary (Dunster) [Willard] Noyes, widow Willard married Noyes&amp;lt;br&amp;gt;Residence: United States&amp;lt;br&a
@@ -81,5 +84,6 @@ residence:
 4 CONC (born Smith)&lt;/a&gt;, &lt;a&gt;Richard Dunster&lt;/a&gt;, &lt;a&gt;Mary (born Dunster), Died Young&lt;/a&gt;, &lt;a&gt;Henry Dunster, First President of Harvard&lt;/a&gt;, &lt;a&gt;John Dunster, of 
 4 CONC Elton&lt;/a&gt;, &lt;a&gt;Daniel Dunster&lt;/a&gt;, &lt;a&gt;Alice (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Bowers (born Dunster)&lt;/a&gt;, &lt;a&gt;James Dunster&lt;/a&gt;, &lt;a&gt;Dorothy (bor
 4 CONC n Dunster)&lt;/a&gt;
-----
+</p>
+
 

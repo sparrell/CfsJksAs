@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 15 OCT 1622
+
 * Birthplace: Leiden, South Holland, Netherlands
+
 * Death: 27 OCT 1675
+
 * Deathplace: West Bridgewater, Plymouth, Massachusetts, USA
+
 * Age at Death: 53
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0473[Dev-web]
-* https://localhost:4000/person?p=p0473[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0473[Adoc-web]
-* https://localhost:4000/adoc?p=p0473[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0473http://localhost:4000/person?p=p0473https://cfsjksas.gigalixirapp.com/adoc?p=p0473http://localhost:4000/adoc?p=p0473* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Chandler_%284%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
-* gen12.MMMMPMMMPPPM.Sarah_Chandler_(1622_-_1675)
+* gen12.MMMMPMMMPPPM.Sarah_Chandler_(1622 - 1675)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,9 +64,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
-* gen12.MMMMPMMMPPPM.Sarah_Chandler_(1622_-_1675)
+* gen12.MMMMPMMMPPPM.Sarah_Chandler_(1622 - 1675)
 
 
 == Other
 
 == Sources
+

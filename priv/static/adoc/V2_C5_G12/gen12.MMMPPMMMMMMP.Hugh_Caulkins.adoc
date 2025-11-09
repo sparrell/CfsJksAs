@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1600
+
 * Birthplace: Chepstow, Monmouthshire, England, UK
+
 * Death: ABT 1689
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 * Age at Death: About 88-89
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPMMMMMMP.Hugh_Caulkins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0931[Dev-web]
-* https://localhost:4000/person?p=p0931[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0931[Adoc-web]
-* https://localhost:4000/adoc?p=p0931[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0931http://localhost:4000/person?p=p0931https://cfsjksas.gigalixirapp.com/adoc?p=p0931http://localhost:4000/adoc?p=p0931* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMM.Sarah_Hough.adoc[Sarah Hough (1651 - 1715)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMMMM.Sarah_Caulkins.adoc[Sarah Caulkins (1626 - 1684)]
-* gen12.MMMPPMMMMMMP.Hugh_Caulkins_(1600_-_1689)
+* gen12.MMMPPMMMMMMP.Hugh_Caulkins_(1600 - 1689)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +67,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMM.Sarah_Hough.adoc[Sarah Hough (1651 - 1715)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMMMM.Sarah_Caulkins.adoc[Sarah Caulkins (1626 - 1684)]
-* gen12.MMMPPMMMMMMP.Hugh_Caulkins_(1600_-_1689)
+* gen12.MMMPPMMMMMMP.Hugh_Caulkins_(1600 - 1689)
 
 
 == Other
 
 == Sources
+

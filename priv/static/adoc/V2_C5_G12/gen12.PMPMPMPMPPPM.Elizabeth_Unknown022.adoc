@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1595
+
 * Birthplace: Kent, England, UK
+
 * Death: 25 JUN 1658
+
 * Deathplace: Charlestown, Boston, Suffolk, Massachusetts, USA
+
 * Age at Death: 62-63
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPMPMPMPPPM.Elizabeth_Unknown022.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0394[Dev-web]
-* https://localhost:4000/person?p=p0394[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0394[Adoc-web]
-* https://localhost:4000/adoc?p=p0394[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0394http://localhost:4000/person?p=p0394https://cfsjksas.gigalixirapp.com/adoc?p=p0394http://localhost:4000/adoc?p=p0394* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Watts_%2833%29[WeRelate]
 * WikiTree TBD
@@ -50,18 +52,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPP.Samuel_Starr.adoc[Samuel Starr (1640 - 1688)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPMPMPMPPP.Thomas_Starr.adoc[Thomas Starr (1615 - 1658)]
-* gen12.PMPMPMPMPPPM.Elizabeth_Unknown022_(1595_-_1658)
+* gen12.PMPMPMPMPPPM.Elizabeth_Unknown022_(1595 - 1658)
 
 
 == Other
 event:  416
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  416
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

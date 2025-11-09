@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1589
+
 * Birthplace: Denham, Suffolk, England, UK
+
 * Death: 8 FEB 1670
+
 * Deathplace: Newbury, Essex, Massachusetts, USA
+
 * Age at Death: About 80-81
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPMPPMP.Stephen_Jordan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0579[Dev-web]
-* https://localhost:4000/person?p=p0579[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0579[Adoc-web]
-* https://localhost:4000/adoc?p=p0579[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0579http://localhost:4000/person?p=p0579https://cfsjksas.gigalixirapp.com/adoc?p=p0579http://localhost:4000/adoc?p=p0579* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPPM.Jane_Jordan.adoc[Jane Jordan (? - 1702)]
-* gen12.MMMMPMPMPPMP.Stephen_Jordan_(1589_-_1670)
+* gen12.MMMMPMPMPPMP.Stephen_Jordan_(1589 - 1670)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +67,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPP.John_Andrews.adoc[John Andrews (1646 - 1717)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPPM.Jane_Jordan.adoc[Jane Jordan (? - 1702)]
-* gen12.MMMMPMPMPPMP.Stephen_Jordan_(1589_-_1670)
+* gen12.MMMMPMPMPPMP.Stephen_Jordan_(1589 - 1670)
 
 
 == Other
 
 == Sources
+

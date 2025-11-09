@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 10 MAY 1594
+
 * Birthplace: England, UK
+
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPMPMPMMM.Alice_Gaylord.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0483[Dev-web]
-* https://localhost:4000/person?p=p0483[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0483[Adoc-web]
-* https://localhost:4000/adoc?p=p0483[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0483http://localhost:4000/person?p=p0483https://cfsjksas.gigalixirapp.com/adoc?p=p0483http://localhost:4000/adoc?p=p0483* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -49,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594_-_?)
+* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -64,7 +64,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594_-_?)
+* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594 - ?)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,7 +80,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594_-_?)
+* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594 - ?)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -95,7 +95,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594_-_?)
+* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594 - ?)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -110,9 +110,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594_-_?)
+* gen12.MMMPPMPMPMMM.Alice_Gaylord_(1594 - ?)
 
 
 == Other
 
 == Sources
+

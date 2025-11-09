@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1622
+
 * Birthplace: Devon, England, UK
+
 * Death: 1693
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: About 70-71
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMM.Joanna_Greenslade.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0267[Dev-web]
-* https://localhost:4000/person?p=p0267[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0267[Adoc-web]
-* https://localhost:4000/adoc?p=p0267[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0267http://localhost:4000/person?p=p0267https://cfsjksas.gigalixirapp.com/adoc?p=p0267http://localhost:4000/adoc?p=p0267* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Thurston_%281%29[WeRelate]
 * WikiTree TBD
@@ -49,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -77,7 +79,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -91,7 +93,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -105,7 +107,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -119,7 +121,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -131,9 +133,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPM.Sarah_Pemberton.adoc[Sarah Pemberton (1695 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPMM.Mary_Avery.adoc[Mary Avery (1648 - 1708)]
-* gen9.PMPMMPMMM.Joanna_Greenslade_(1622_-_1693)
+* gen9.PMPMMPMMM.Joanna_Greenslade_(1622 - 1693)
 
 
 == Other
 
 == Sources
+

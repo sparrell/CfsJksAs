@@ -46,7 +46,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0186http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.Ebenezer_Strong.adoc[Ebenezer Strong (1750 - 1824)]
-* gen7.PMPPPPP.David_Strong_(1704_-_1801)
+* gen7.PMPPPPP.David_Strong_(1704 - 1801)
 
 
 == Other

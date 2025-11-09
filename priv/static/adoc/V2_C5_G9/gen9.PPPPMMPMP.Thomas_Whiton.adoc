@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 18 MAY 1662
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Death: 17 SEP 1708
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 46
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0199[Dev-web]
-* https://localhost:4000/person?p=p0199[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0199[Adoc-web]
-* https://localhost:4000/adoc?p=p0199[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0199http://localhost:4000/person?p=p0199https://cfsjksas.gigalixirapp.com/adoc?p=p0199http://localhost:4000/adoc?p=p0199* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Whiton_%281%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
-* gen9.PPPPMMPMP.Thomas_Whiton_(1662_-_1708)
+* gen9.PPPPMMPMP.Thomas_Whiton_(1662 - 1708)
 
 
 == Other
 event:  221
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  221
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

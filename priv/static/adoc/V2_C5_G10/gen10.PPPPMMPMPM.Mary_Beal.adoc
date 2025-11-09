@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 28 OCT 1623
+
 * Birthplace: Hingham, Norfolk, England, UK
+
 * Death: 12 DEC 1696
+
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
+
 * Age at Death: 73
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPM.Mary_Beal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0201[Dev-web]
-* https://localhost:4000/person?p=p0201[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0201[Adoc-web]
-* https://localhost:4000/adoc?p=p0201[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0201http://localhost:4000/person?p=p0201https://cfsjksas.gigalixirapp.com/adoc?p=p0201http://localhost:4000/adoc?p=p0201* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Beal_%283%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
-* gen10.PPPPMMPMPM.Mary_Beal_(1623_-_1696)
+* gen10.PPPPMMPMPM.Mary_Beal_(1623 - 1696)
 
 
 == Other
 
 == Sources
+

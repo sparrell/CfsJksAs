@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: London, England, UK
+
 * Death: 1675
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPMP.John_Wood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0523[Dev-web]
-* https://localhost:4000/person?p=p0523[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0523[Adoc-web]
-* https://localhost:4000/adoc?p=p0523[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0523http://localhost:4000/person?p=p0523https://cfsjksas.gigalixirapp.com/adoc?p=p0523http://localhost:4000/adoc?p=p0523* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Wood_%28161%29[WeRelate]
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Abigail Wood (1645 - 1698)]
-* gen12.MMMMPMMMPPMP.John_Wood_(?_-_1675)
+* gen12.MMMMPMMMPPMP.John_Wood_(? - 1675)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,9 +63,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPP.Samuel_Leonard.adoc[Samuel Leonard (1683 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Abigail Wood (1645 - 1698)]
-* gen12.MMMMPMMMPPMP.John_Wood_(?_-_1675)
+* gen12.MMMMPMMMPPMP.John_Wood_(? - 1675)
 
 
 == Other
 
 == Sources
+

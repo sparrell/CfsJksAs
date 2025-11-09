@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: M
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPP.John_Lay.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1007[Dev-web]
-* https://localhost:4000/person?p=p1007[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1007[Adoc-web]
-* https://localhost:4000/adoc?p=p1007[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1007http://localhost:4000/person?p=p1007https://cfsjksas.gigalixirapp.com/adoc?p=p1007http://localhost:4000/adoc?p=p1007* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,7 +35,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMP.John_Lee.adoc[John Lee (1670 - 1716)]
-* gen10.MMMMMMMMPP.John_Lay_(?_-_?)
+* gen10.MMMMMMMMPP.John_Lay_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,9 +48,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMMP.John_Lee.adoc[John Lee (1670 - 1716)]
-* gen10.MMMMMMMMPP.John_Lay_(?_-_?)
+* gen10.MMMMMMMMPP.John_Lay_(? - ?)
 
 
 == Other
 
 == Sources
+

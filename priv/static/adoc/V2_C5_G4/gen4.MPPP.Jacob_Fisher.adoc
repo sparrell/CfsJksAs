@@ -39,7 +39,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0247http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPP.Albert_Fisher.adoc[Albert Fisher (1812 - 1887)]
-* gen4.MPPP.Jacob_Fisher_(1776_-_1820)
+* gen4.MPPP.Jacob_Fisher_(1776 - 1820)
 
 
 == Other

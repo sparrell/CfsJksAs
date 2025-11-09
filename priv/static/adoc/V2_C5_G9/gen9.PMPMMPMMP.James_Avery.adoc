@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1620
+
 * Birthplace: Ipplepen, Devon, England, UK
+
 * Death: 18 APR 1700
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: About 79-80
+
 
 
 == Ship
@@ -28,11 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMPMMP.James_Avery.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0266[Dev-web]
-* https://localhost:4000/person?p=p0266[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0266[Adoc-web]
-* https://localhost:4000/adoc?p=p0266[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0266http://localhost:4000/person?p=p0266https://cfsjksas.gigalixirapp.com/adoc?p=p0266http://localhost:4000/adoc?p=p0266* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Lord_%285%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -64,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -78,7 +80,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -92,7 +94,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -106,7 +108,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPP.James_Avery.adoc[James Avery (1646 - 1728)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -120,7 +122,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMP.John_Avery.adoc[John Avery (1654 - 1724)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -132,44 +134,46 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPM.Sarah_Pemberton.adoc[Sarah Pemberton (1695 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPMM.Mary_Avery.adoc[Mary Avery (1648 - 1708)]
-* gen9.PMPMMPMMP.James_Avery_(1620_-_1700)
+* gen9.PMPMMPMMP.James_Avery_(1620 - 1700)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE BEF 1641
 2 PLAC Gloucester, Essex, Massachusetts, USA
 2 AGE About 20-21
-----
+</p>
 
 event:  Captain, Militia
-----
+<p>
 2 TYPE Military Service
 2 DATE 1673
 2 AGE About 52-53
-----
+</p>
  Deputy
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1656
 2 AGE About 35-36
-----
+</p>
  Ensign, Militia
-----
+<p>
 2 TYPE Military Service
-----
+</p>
  King Phillip's War (see notes)
-----
+<p>
 2 TYPE Military Service
-----
+</p>
  Lieutenant, Militia
-----
+<p>
 2 TYPE Military Service
 2 DATE 1665
 2 AGE About 44-45
-----
+</p>
 
 notes: Captain James Avery served throughout King Phillip's war and was in the Great Swamp Fight. He commanded the New London Militia Company that participated in the capture of Chief Canonchet (see John Branch and GeorgeDenison).
 
+
 == Sources
+

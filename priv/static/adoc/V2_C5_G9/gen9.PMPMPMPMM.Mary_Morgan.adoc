@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 20 MAR 1670
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 14 SEP 1765
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 95
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMM.Mary_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0383[Dev-web]
-* https://localhost:4000/person?p=p0383[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0383[Adoc-web]
-* https://localhost:4000/adoc?p=p0383[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0383http://localhost:4000/person?p=p0383https://cfsjksas.gigalixirapp.com/adoc?p=p0383http://localhost:4000/adoc?p=p0383* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Morgan_%287%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMPM.Mary_Chester.adoc[Mary Chester (1764 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPM.Mary_Starr.adoc[Mary Starr (1696 - 1774)]
-* gen9.PMPMPMPMM.Mary_Morgan_(1670_-_1765)
+* gen9.PMPMPMPMM.Mary_Morgan_(1670 - 1765)
 
 
 == Other
 event:  406
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  406
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

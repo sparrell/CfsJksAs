@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1671
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Baptism: 
-----
+<p>
 2 DATE 9 APR 1671
 2 PLAC New London, New London, Connecticut, USA
 2 AGE 0
-----
+</p>
 
 * Death: 24 APR 1746
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 74-75
+
 
 
 == Family
@@ -31,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0280[Dev-web]
-* https://localhost:4000/person?p=p0280[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0280[Adoc-web]
-* https://localhost:4000/adoc?p=p0280[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0280http://localhost:4000/person?p=p0280https://cfsjksas.gigalixirapp.com/adoc?p=p0280http://localhost:4000/adoc?p=p0280* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
-* gen9.MMMMMMMPP.Daniel_Comstock_(1671_-_1746)
+* gen9.MMMMMMMPP.Daniel_Comstock_(1671 - 1746)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,9 +65,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
-* gen9.MMMMMMMPP.Daniel_Comstock_(1671_-_1746)
+* gen9.MMMMMMMPP.Daniel_Comstock_(1671 - 1746)
 
 
 == Other
 
 == Sources
+

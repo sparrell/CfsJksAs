@@ -7,17 +7,24 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Baker
+
 * Birth: 17 FEB 1704
+
 * Birthplace: Eastham, Barnstable, Massachusetts
+
 * Death: 15 MAY 1787
+
 * Deathplace: Amenia, Dutchess, New York
+
 * Buried: 
-----
+<p>
 2 PLAC Old Amenia Burying Ground, New York, USA
-----
+</p>
 
 * Age at Death: 83
+
 
 
 == Family
@@ -28,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMMPM.Constance_Paine.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1259[Dev-web]
-* https://localhost:4000/person?p=p1259[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1259[Adoc-web]
-* https://localhost:4000/adoc?p=p1259[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1259http://localhost:4000/person?p=p1259https://cfsjksas.gigalixirapp.com/adoc?p=p1259http://localhost:4000/adoc?p=p1259* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,18 +50,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMM.Phoebe_Paine.adoc[Phoebe Paine (1762 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Barnabas Paine (1737 - 1822)]
-* gen8.PMPPMMPM.Constance_Paine_(1704_-_1787)
+* gen8.PMPPMMPM.Constance_Paine_(1704 - 1787)
 
 
 == Other
 
 == Sources
 * @S51@
-----
+<p>
 2 PAGE Constance Baker (born Paine)
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

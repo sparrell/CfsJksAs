@@ -7,20 +7,26 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1595
+
 * Birthplace: England, UK
+
 * Birth source: @S18@
-----
+<p>
 3 QUAY 2
-----
+</p>
 
 * Death: 1616
+
 * Deathplace: Farmington, Hartford, Connecticut, USA
+
 * Age at Death: 20-21
+
 * Death Source: @S18@
-----
+<p>
 3 QUAY 2
-----
+</p>
 
 
 
@@ -37,11 +43,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPMMMMPMP.John_Weybourne.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0928[Dev-web]
-* https://localhost:4000/person?p=p0928[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0928[Adoc-web]
-* https://localhost:4000/adoc?p=p0928[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0928http://localhost:4000/person?p=p0928https://cfsjksas.gigalixirapp.com/adoc?p=p0928http://localhost:4000/adoc?p=p0928* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -60,7 +62,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMP.David_Carpenter.adoc[David Carpenter (1647 - 1700)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMMPM.Abigail_Weyborn.adoc[Abigail Weyborn (1619 - 1664)]
-* gen12.MMMPPMMMMPMP.John_Weybourne_(1595_-_1616)
+* gen12.MMMPPMMMMPMP.John_Weybourne_(1595 - 1616)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,14 +77,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMP.David_Carpenter.adoc[David Carpenter (1647 - 1700)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMMPM.Abigail_Weyborn.adoc[Abigail Weyborn (1619 - 1664)]
-* gen12.MMMPPMMMMPMP.John_Weybourne_(1595_-_1616)
+* gen12.MMMPPMMMMPMP.John_Weybourne_(1595 - 1616)
 
 
 == Other
 
 == Sources
 * @S18@
-----
+<p>
 2 QUAY 2
-----
+</p>
+
 

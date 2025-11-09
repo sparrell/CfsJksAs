@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: BEF 1650
+
 * Deathplace: Boston, Suffolk, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPMM.Joanne_Hucker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0693[Dev-web]
-* https://localhost:4000/person?p=p0693[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0693[Adoc-web]
-* https://localhost:4000/adoc?p=p0693[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0693http://localhost:4000/person?p=p0693https://cfsjksas.gigalixirapp.com/adoc?p=p0693http://localhost:4000/adoc?p=p0693* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,14 +45,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Experience_Harvey.adoc[Experience Harvey (1644 - ?)]
-* gen9.MPMMMPPMM.Joanne_Hucker_(?_-_1650)
+* gen9.MPMMMPPMM.Joanne_Hucker_(? - 1650)
 
 
 == Other
 event:  also recorded as Hinker and Hickser
-----
+<p>
 2 TYPE Fact
-----
+</p>
 
 
 == Sources
+

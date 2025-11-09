@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPP.Edward_Denison.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0963[Dev-web]
-* http://localhost:4000/person?p=p0963[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0963[Adoc-web]
-* adoc?p=p0963[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0963http://localhost:4000/person?p=p0963https://cfsjksas.gigalixirapp.com/adoc?p=p0963http://localhost:4000/adoc?p=p0963* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
-* gen11.MMMPPPMMPPP.Edward_Denison_(1616_-_1668)
+* gen11.MMMPPPMMPPP.Edward_Denison_(1616 - 1668)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
-* gen11.MMMPPPMMPPP.Edward_Denison_(1616_-_1668)
+* gen11.MMMPPPMMPPP.Edward_Denison_(1616 - 1668)
 
 
 == Other

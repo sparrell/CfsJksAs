@@ -31,7 +31,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p1298http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.John_Gray.adoc[John Gray (1763 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPM.Margaret_Watt.adoc[Margaret Watt (1739 - 1796)]
-* gen6.MPMPMP.Alexander_Watts_(?_-_?)
+* gen6.MPMPMP.Alexander_Watts_(? - ?)
 
 
 == Other

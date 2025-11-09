@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1660
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Baptism:  Baptized at New London CT
-----
+<p>
 2 DATE 1 SEP 1672
 2 PLAC New London, New London, Connecticut, USA
 2 AGE 11-12
-----
+</p>
 
 * Death: 8 JUN 1738
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 77-78
+
 
 
 == Family
@@ -31,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMP.William_Billings.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0281[Dev-web]
-* https://localhost:4000/person?p=p0281[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0281[Adoc-web]
-* https://localhost:4000/adoc?p=p0281[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0281http://localhost:4000/person?p=p0281https://cfsjksas.gigalixirapp.com/adoc?p=p0281http://localhost:4000/adoc?p=p0281* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Billings_%2810%29[WeRelate]
 * WikiTree TBD
@@ -51,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
-* gen9.MMMMMMPMP.William_Billings_(1660_-_1738)
+* gen9.MMMMMMPMP.William_Billings_(1660 - 1738)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,28 +65,29 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMM.Sarah_Avery.adoc[Sarah Avery (1781 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
-* gen9.MMMMMMPMP.William_Billings_(1660_-_1738)
+* gen9.MMMMMMPMP.William_Billings_(1660 - 1738)
 
 
 == Other
 event:  Captain, Militia Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1716
 2 AGE 55-56
-----
+</p>
  Ensign- Preston Militia Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1704
 2 AGE 43-44
-----
+</p>
  _ELEC of Billings, William - Deputy to Legislature
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1703
 2 AGE 42-43
-----
+</p>
 
 
 == Sources
+

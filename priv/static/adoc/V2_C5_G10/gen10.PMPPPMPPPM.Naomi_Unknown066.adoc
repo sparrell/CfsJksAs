@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 1 OCT 1659
+
 
 
 == Family
@@ -18,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMPPPM.Naomi_Unknown066.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0312[Dev-web]
-* https://localhost:4000/person?p=p0312[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0312[Adoc-web]
-* https://localhost:4000/adoc?p=p0312[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0312http://localhost:4000/person?p=p0312https://cfsjksas.gigalixirapp.com/adoc?p=p0312http://localhost:4000/adoc?p=p0312* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -39,18 +37,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMP.Benjamin_Kilbourn.adoc[Benjamin Kilbourn (1730 - 1817)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPP.John_Kilbourn.adoc[John Kilbourn (1651 - 1711)]
-* gen10.PMPPPMPPPM.Naomi_Unknown066_(?_-_1659)
+* gen10.PMPPPMPPPM.Naomi_Unknown066_(? - 1659)
 
 
 == Other
 event:  324
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  324
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

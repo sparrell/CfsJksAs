@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 26 NOV 1626
+
 * Birthplace: Taunton, Somerset, England, UK
+
 * Death: 20 FEB 1698
+
 * Deathplace: Windsor, Hartford, Connecticut, USA
+
 * Age at Death: 71
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPP.John_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0229[Dev-web]
-* https://localhost:4000/person?p=p0229[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0229[Adoc-web]
-* https://localhost:4000/adoc?p=p0229[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0229http://localhost:4000/person?p=p0229https://cfsjksas.gigalixirapp.com/adoc?p=p0229http://localhost:4000/adoc?p=p0229* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Strong_%2850%29[WeRelate]
 * WikiTree TBD
@@ -49,16 +51,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.Ebenezer_Strong.adoc[Ebenezer Strong (1750 - 1824)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
-* gen9.PMPPPPPPP.John_Strong_(1626_-_1698)
+* gen9.PMPPPPPPP.John_Strong_(1626 - 1698)
 
 
 == Other
 emigration:  Ship "Hopewell" with parents
-----
+<p>
 2 DATE 1635
 2 AGE 8-9
-----
+</p>
 
 occupation: A tanner at Windsor
 
+
 == Sources
+

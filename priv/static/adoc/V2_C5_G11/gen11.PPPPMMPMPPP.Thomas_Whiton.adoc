@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPPP.Thomas_Whiton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0861[Dev-web]
-* http://localhost:4000/person?p=p0861[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0861[Adoc-web]
-* adoc?p=p0861[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0861http://localhost:4000/person?p=p0861https://cfsjksas.gigalixirapp.com/adoc?p=p0861http://localhost:4000/adoc?p=p0861* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,18 +51,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPP.James_Whiton.adoc[James Whiton (1624 - 1710)]
-* gen11.PPPPMMPMPPP.Thomas_Whiton_(1599_-_1644)
+* gen11.PPPPMMPMPPP.Thomas_Whiton_(1599 - 1644)
 
 
 == Other
 event:  844
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  859
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

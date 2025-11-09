@@ -7,19 +7,26 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: French
+
 * Birth: 1584
+
 * Birthplace: of, Assington, Suffolk, England
+
 * Christening: 
-----
+<p>
 2 DATE 20 APR 1584
 2 PLAC Boxford, Suffolk, England
 2 AGE 0
-----
+</p>
 
 * Death: AUG 1658
+
 * Deathplace: Ipswich, Essex, MA
+
 * Age at Death: 73-74
+
 
 
 == Ship
@@ -35,11 +42,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMPPMMPMM.Susan_(Susannah)_(Sara)_Unknown.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1214[Dev-web]
-* https://localhost:4000/person?p=p1214[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1214[Adoc-web]
-* https://localhost:4000/adoc?p=p1214[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1214http://localhost:4000/person?p=p1214https://cfsjksas.gigalixirapp.com/adoc?p=p1214http://localhost:4000/adoc?p=p1214* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Susan_Riddlesdale_%281%29[WeRelate]
 * WikiTree TBD
@@ -58,17 +61,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Alice Howlett (1666 - 1696)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMMP.Thomas_Howlett.adoc[Thomas Howlett (1637 - 1667)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPM.Alice_French.adoc[Alice French (1610 - 1666)]
-* gen12.PPPMMPPMMPMM.Susan_(Susannah)_(Sara)_Unknown_(1584_-_1658)
+* gen12.PPPMMPPMMPMM.Susan_(Susannah)_(Sara)_Unknown_(1584 - 1658)
 
 
 == Other
 
 == Sources
 * @S37@
-----
+<p>
 2 QUAY 3
 2 DATA
 3 DATE 27 AUG 2015
 3 TEXT Added via an Instant Discovery™
-----
+</p>
+
 

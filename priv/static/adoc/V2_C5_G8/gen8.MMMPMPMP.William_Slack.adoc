@@ -45,7 +45,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0423http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
-* gen8.MMMPMPMP.William_Slack_(1717_-_1776)
+* gen8.MMMPMPMP.William_Slack_(1717 - 1776)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,7 +56,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0423http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
-* gen8.MMMPMPMP.William_Slack_(1717_-_1776)
+* gen8.MMMPMPMP.William_Slack_(1717 - 1776)
 
 
 == Other

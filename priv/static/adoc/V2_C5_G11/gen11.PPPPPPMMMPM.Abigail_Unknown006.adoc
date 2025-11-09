@@ -22,11 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPPMMMPM.Abigail_Unknown006.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0490[Dev-web]
-* http://localhost:4000/person?p=p0490[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0490[Adoc-web]
-* adoc?p=p0490[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0490http://localhost:4000/person?p=p0490https://cfsjksas.gigalixirapp.com/adoc?p=p0490http://localhost:4000/adoc?p=p0490* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Unknown_%2862%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +40,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMM.Anna_Smith.adoc[Anna Smith (1696 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPPMMMP.Joseph_Smith.adoc[Joseph Smith (1670 - 1702)]
-* gen11.PPPPPPMMMPM.Abigail_Unknown006_(?_-_1720)
+* gen11.PPPPPPMMMPM.Abigail_Unknown006_(? - 1720)
 
 
 == Other
 event:  502
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  502
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

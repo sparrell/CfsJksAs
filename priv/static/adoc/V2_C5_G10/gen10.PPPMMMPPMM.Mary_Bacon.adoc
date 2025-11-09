@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Lakin
+
 * Birth: 18 FEB 1640
+
 * Birthplace: Groton, Middlesex County, Massachusetts
+
 * Death: 22 OCT 1701
+
 * Deathplace: Groton, Middlesex County, Massachusetts
+
 * Age at Death: 61
+
 
 
 == Family
@@ -25,11 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPPMM.Mary_Bacon.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1290[Dev-web]
-* https://localhost:4000/person?p=p1290[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1290[Adoc-web]
-* https://localhost:4000/adoc?p=p1290[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1290http://localhost:4000/person?p=p1290https://cfsjksas.gigalixirapp.com/adoc?p=p1290http://localhost:4000/adoc?p=p1290* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Bacon_%2864%29[WeRelate]
 * WikiTree TBD
@@ -46,29 +49,30 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Major Joseph Willard, Sr. (1692 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPPM.Sarah_Lakin.adoc[Sarah Lakin (1662 - 1740)]
-* gen10.PPPMMMPPMM.Mary_Bacon_(1640_-_1701)
+* gen10.PPPMMMPPMM.Mary_Bacon_(1640 - 1701)
 
 
 == Other
 
 == Sources
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
 4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
 4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (bo
 4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
-----
+</p>
 
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
 4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
 4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (bo
 4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
-----
+</p>
+
 

@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPMMM.Sarah_Hawkins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0632[Dev-web]
-* http://localhost:4000/person?p=p0632[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0632[Adoc-web]
-* adoc?p=p0632[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0632http://localhost:4000/person?p=p0632https://cfsjksas.gigalixirapp.com/adoc?p=p0632http://localhost:4000/adoc?p=p0632* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Susanna_Clark_%2811%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMM.Sarah_Whipple.adoc[Sarah Whipple (1641 - 1681)]
-* gen11.MMMMPPPPMMM.Sarah_Hawkins_(1598_-_1658)
+* gen11.MMMMPPPPMMM.Sarah_Hawkins_(1598 - 1658)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,18 +65,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMM.Sarah_Whipple.adoc[Sarah Whipple (1641 - 1681)]
-* gen11.MMMMPPPPMMM.Sarah_Hawkins_(1598_-_1658)
+* gen11.MMMMPPPPMMM.Sarah_Hawkins_(1598 - 1658)
 
 
 == Other
 event:  633
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  633
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

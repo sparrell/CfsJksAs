@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMMP.John_Crandall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0350[Dev-web]
-* http://localhost:4000/person?p=p0350[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0350[Adoc-web]
-* adoc?p=p0350[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0350http://localhost:4000/person?p=p0350https://cfsjksas.gigalixirapp.com/adoc?p=p0350http://localhost:4000/adoc?p=p0350* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Crandall_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMM.Sarah_Crandall.adoc[Sarah Crandall (1650 - 1685)]
-* gen11.MMMMPPPMMMP.John_Crandall_(1609_-_1676)
+* gen11.MMMMPPPMMMP.John_Crandall_(1609 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,40 +65,40 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMM.Sarah_Crandall.adoc[Sarah Crandall (1650 - 1685)]
-* gen11.MMMMPPPMMMP.John_Crandall_(1609_-_1676)
+* gen11.MMMMPPPMMMP.John_Crandall_(1609 - 1676)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE 1651
 2 PLAC Newport, Newport, Rhode Island, USA
 2 AGE 41-42
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Military Service
 2 DATE 1637
 2 PLAC Providence, Providence, Rhode Island, USA
 2 AGE 27-28
-----
+</p>
  Elder Seventh Day Baptist Chuch
-----
+<p>
 2 TYPE Church
-----
+</p>
  first settler -  Westerly RI
-----
+<p>
 2 TYPE Fact 2
 2 DATE 1661
 2 AGE 51-52
-----
+</p>
  first settler -  Westerly RI
-----
+<p>
 2 TYPE Fact 5
 2 DATE 1675
 2 AGE 65-66
-----
+</p>
 
 notes: August 1651, he was imprisoned at Boston for a Baptist.....removed to Westerly [Rhode Island], preached as 7th day Baptist". <p></p> <p>In 1676 he returned to Newort because of the perils of King Phiilip's war and he died there.</p>
 

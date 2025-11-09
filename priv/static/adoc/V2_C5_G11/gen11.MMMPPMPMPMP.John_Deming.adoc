@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMP.John_Deming.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0480[Dev-web]
-* http://localhost:4000/person?p=p0480[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0480[Adoc-web]
-* adoc?p=p0480[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0480http://localhost:4000/person?p=p0480https://cfsjksas.gigalixirapp.com/adoc?p=p0480http://localhost:4000/adoc?p=p0480* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -56,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
-* gen11.MMMPPMPMPMP.John_Deming_(1615_-_1705)
+* gen11.MMMPPMPMPMP.John_Deming_(1615 - 1705)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -70,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
-* gen11.MMMPPMPMPMP.John_Deming_(1615_-_1705)
+* gen11.MMMPPMPMPMP.John_Deming_(1615 - 1705)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -85,7 +81,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
-* gen11.MMMPPMPMPMP.John_Deming_(1615_-_1705)
+* gen11.MMMPPMPMPMP.John_Deming_(1615 - 1705)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -99,7 +95,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
-* gen11.MMMPPMPMPMP.John_Deming_(1615_-_1705)
+* gen11.MMMPPMPMPMP.John_Deming_(1615 - 1705)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -113,7 +109,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
-* gen11.MMMPPMPMPMP.John_Deming_(1615_-_1705)
+* gen11.MMMPPMPMPMP.John_Deming_(1615 - 1705)
 
 
 == Other

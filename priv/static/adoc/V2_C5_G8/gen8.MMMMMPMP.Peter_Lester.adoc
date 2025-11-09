@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1705
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 10 SEP 1789
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Hurlbut Cemetery, Ledyard, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: About 83-84
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0007[Dev-web]
-* https://localhost:4000/person?p=p0007[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0007[Adoc-web]
-* https://localhost:4000/adoc?p=p0007[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0007http://localhost:4000/person?p=p0007https://cfsjksas.gigalixirapp.com/adoc?p=p0007http://localhost:4000/adoc?p=p0007* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Peter_Lester_%2819%29[WeRelate]
 * WikiTree TBD
@@ -48,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
-* gen8.MMMMMPMP.Peter_Lester_(1705_-_1789)
+* gen8.MMMMMPMP.Peter_Lester_(1705 - 1789)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,9 +61,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
-* gen8.MMMMMPMP.Peter_Lester_(1705_-_1789)
+* gen8.MMMMMPMP.Peter_Lester_(1705 - 1789)
 
 
 == Other
 
 == Sources
+

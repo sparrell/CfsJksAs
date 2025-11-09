@@ -32,11 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=prb[Dev-web]
-* http://localhost:4000/person?p=prb[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=prb[Adoc-web]
-* adoc?p=prb[Adoc-local]
-* https://www.geni.com/people/Ruth-Hill/6000000006444711555[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=prbhttp://localhost:4000/person?p=prbhttps://cfsjksas.gigalixirapp.com/adoc?p=prbhttp://localhost:4000/adoc?p=prb* https://www.geni.com/people/Ruth-Hill/6000000006444711555[Geni]
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ruth_Brewster_%282%29[WeRelate]
 * https://www.wikitree.com/wiki/Brewster-2[WikiTree]
@@ -54,7 +50,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
-* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631_-_1677)
+* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631 - 1677)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -68,7 +64,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
-* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631_-_1677)
+* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631 - 1677)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -82,7 +78,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMM.Ruth_Shapley.adoc[Ruth Shapley (1672 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
-* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631_-_1677)
+* gen11.MMMPPMPMMMM.Ruth_Brewster_(1631 - 1677)
 
 
 == Other

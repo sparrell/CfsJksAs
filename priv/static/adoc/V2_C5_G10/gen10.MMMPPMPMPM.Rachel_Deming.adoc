@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 30 MAR 1644
+
 * Birthplace: Wethersfield, Hartford, Connecticut, USA
+
 * Death: BEF 1689
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 44-45
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0477[Dev-web]
-* https://localhost:4000/person?p=p0477[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0477[Adoc-web]
-* https://localhost:4000/adoc?p=p0477[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0477http://localhost:4000/person?p=p0477https://cfsjksas.gigalixirapp.com/adoc?p=p0477http://localhost:4000/adoc?p=p0477* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
-* gen10.MMMPPMPMPM.Rachel_Deming_(1644_-_1689)
+* gen10.MMMPPMPMPM.Rachel_Deming_(1644 - 1689)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
-* gen10.MMMPPMPMPM.Rachel_Deming_(1644_-_1689)
+* gen10.MMMPPMPMPM.Rachel_Deming_(1644 - 1689)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -73,7 +75,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMM.Esther_Amos.adoc[Esther Amos (1711 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
-* gen10.MMMPPMPMPM.Rachel_Deming_(1644_-_1689)
+* gen10.MMMPPMPMPM.Rachel_Deming_(1644 - 1689)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -86,7 +88,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Joshua Morgan (1733 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
-* gen10.MMMPPMPMPM.Rachel_Deming_(1644_-_1689)
+* gen10.MMMPPMPMPM.Rachel_Deming_(1644 - 1689)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -99,9 +101,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Mary Morgan (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPM.Mary_Morgan.adoc[Mary Morgan (1698 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
-* gen10.MMMPPMPMPM.Rachel_Deming_(1644_-_1689)
+* gen10.MMMPPMPMPM.Rachel_Deming_(1644 - 1689)
 
 
 == Other
 
 == Sources
+

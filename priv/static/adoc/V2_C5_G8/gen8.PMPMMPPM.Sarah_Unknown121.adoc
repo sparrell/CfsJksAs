@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1664
+
 * Death: 24 NOV 1760
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: About 95-96
+
 
 
 == Family
@@ -21,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPPM.Sarah_Unknown121.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0085[Dev-web]
-* https://localhost:4000/person?p=p0085[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0085[Adoc-web]
-* https://localhost:4000/adoc?p=p0085[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0085http://localhost:4000/person?p=p0085https://cfsjksas.gigalixirapp.com/adoc?p=p0085http://localhost:4000/adoc?p=p0085* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Unknown_%282424%29[WeRelate]
 * WikiTree TBD
@@ -40,9 +41,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Sampson Haughton (1692 - 1756)]
-* gen8.PMPMMPPM.Sarah_Unknown121_(1664_-_1760)
+* gen8.PMPMMPPM.Sarah_Unknown121_(1664 - 1760)
 
 
 == Other
 
 == Sources
+

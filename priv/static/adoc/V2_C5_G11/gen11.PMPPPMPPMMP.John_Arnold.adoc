@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMPPMMP.John_Arnold.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0313[Dev-web]
-* http://localhost:4000/person?p=p0313[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0313[Adoc-web]
-* adoc?p=p0313[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0313http://localhost:4000/person?p=p0313https://cfsjksas.gigalixirapp.com/adoc?p=p0313http://localhost:4000/adoc?p=p0313* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPM.Susannah_Hills.adoc[Susannah Hills (1651 - 1701)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMPPMM.Mary_Arnold.adoc[Mary Arnold (1619 - 1655)]
-* gen11.PMPPPMPPMMP.John_Arnold_(?_-_1664)
+* gen11.PMPPPMPPMMP.John_Arnold_(? - 1664)
 
 
 == Other

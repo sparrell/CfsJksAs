@@ -18,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPMMMPM.Unknown201_Unknown002.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0522[Dev-web]
-* http://localhost:4000/person?p=p0522[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0522[Adoc-web]
-* adoc?p=p0522[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0522http://localhost:4000/person?p=p0522https://cfsjksas.gigalixirapp.com/adoc?p=p0522http://localhost:4000/adoc?p=p0522* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Unknown_%2825433%29[WeRelate]
 * WikiTree TBD
@@ -40,18 +36,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMM.Joanna_Gibbs.adoc[Joanna Gibbs (1671 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMMM.Hepzibah_Dibble.adoc[Hepzibah Dibble (1641 - 1698)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMMMP.Thomas_Dibble.adoc[Thomas Dibble (1613 - 1700)]
-* gen11.PMPPPPMMMPM.Unknown201_Unknown002_(?_-_?)
+* gen11.PMPPPPMMMPM.Unknown201_Unknown002_(? - ?)
 
 
 == Other
 event:  531
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  531
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

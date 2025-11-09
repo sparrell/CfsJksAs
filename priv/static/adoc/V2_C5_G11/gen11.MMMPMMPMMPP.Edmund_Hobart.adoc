@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMPP.Edmund_Hobart.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0600[Dev-web]
-* http://localhost:4000/person?p=p0600[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0600[Adoc-web]
-* adoc?p=p0600[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0600http://localhost:4000/person?p=p0600https://cfsjksas.gigalixirapp.com/adoc?p=p0600http://localhost:4000/adoc?p=p0600* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Edmund_Hobart_%282%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -70,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -85,7 +81,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -99,7 +95,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -114,7 +110,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -129,24 +125,24 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570_-_1646)
+* gen11.MMMPMMPMMPP.Edmund_Hobart_(1570 - 1646)
 
 
 == Other
 emigration: 
-----
+<p>
 2 DATE 1635
 2 PLAC Hingham, Plymouth, Massachusetts, USA
 2 AGE 64-65
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Military Service
 2 DATE JUN 1633
 2 PLAC Charlestown, Boston, Suffolk, Massachusetts, USA
 2 AGE 62-63
-----
+</p>
 
 
 == Sources

@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMMPMM.Katherine_Constable.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0305[Dev-web]
-* http://localhost:4000/person?p=p0305[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0305[Adoc-web]
-* adoc?p=p0305[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0305http://localhost:4000/person?p=p0305https://cfsjksas.gigalixirapp.com/adoc?p=p0305http://localhost:4000/adoc?p=p0305* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPM.Anna_Miles.adoc[Anna Miles (1642 - 1730)]
-* gen11.MMMMMPMMPMM.Katherine_Constable_(?_-_1687)
+* gen11.MMMMMPMMPMM.Katherine_Constable_(? - 1687)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Nicholas Street (1677 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMMPM.Anna_Miles.adoc[Anna Miles (1642 - 1730)]
-* gen11.MMMMMPMMPMM.Katherine_Constable_(?_-_1687)
+* gen11.MMMMMPMMPMM.Katherine_Constable_(? - 1687)
 
 
 == Other

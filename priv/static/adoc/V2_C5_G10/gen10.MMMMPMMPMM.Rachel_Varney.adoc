@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1674
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Deathplace: Plainfield, Windham, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMM.Rachel_Varney.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0449[Dev-web]
-* https://localhost:4000/person?p=p0449[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0449[Adoc-web]
-* https://localhost:4000/adoc?p=p0449[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0449http://localhost:4000/person?p=p0449https://cfsjksas.gigalixirapp.com/adoc?p=p0449http://localhost:4000/adoc?p=p0449* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
-* gen10.MMMMPMMPMM.Rachel_Varney_(1674_-_?)
+* gen10.MMMMPMMPMM.Rachel_Varney_(1674 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,18 +56,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
-* gen10.MMMMPMMPMM.Rachel_Varney_(1674_-_?)
+* gen10.MMMMPMMPMM.Rachel_Varney_(1674 - ?)
 
 
 == Other
 event:  466
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  466
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

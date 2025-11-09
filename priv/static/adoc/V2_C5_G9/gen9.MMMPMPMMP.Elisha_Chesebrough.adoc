@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 4 AUG 1667
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Death: 7 SEP 1727
+
 * Deathplace: Stonington, New London, Connecticut, USA
+
 * Age at Death: 60
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0949[Dev-web]
-* https://localhost:4000/person?p=p0949[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0949[Adoc-web]
-* https://localhost:4000/adoc?p=p0949[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0949http://localhost:4000/person?p=p0949https://cfsjksas.gigalixirapp.com/adoc?p=p0949http://localhost:4000/adoc?p=p0949* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elisha_Chesebrough_%284%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
-* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667_-_1727)
+* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667 - 1727)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1738 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
-* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667_-_1727)
+* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667 - 1727)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -68,7 +70,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
-* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667_-_1727)
+* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667 - 1727)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,9 +82,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1738 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
-* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667_-_1727)
+* gen9.MMMPMPMMP.Elisha_Chesebrough_(1667 - 1727)
 
 
 == Other
 
 == Sources
+

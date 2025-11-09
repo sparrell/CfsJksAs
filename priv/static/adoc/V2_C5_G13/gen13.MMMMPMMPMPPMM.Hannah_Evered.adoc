@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 2 SEP 1582
+
 * Birthplace: Salisbury, Wiltshire, England, UK
+
 * Deathplace: Haverhill, Essex, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMPMPPMM.Hannah_Evered.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0860[Dev-web]
-* https://localhost:4000/person?p=p0860[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0860[Adoc-web]
-* https://localhost:4000/adoc?p=p0860[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0860http://localhost:4000/person?p=p0860https://cfsjksas.gigalixirapp.com/adoc?p=p0860http://localhost:4000/adoc?p=p0860* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -49,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMP.John_Fellows.adoc[John Fellows (1668 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPMPPM.Mary_Ayres.adoc[Mary Ayres (1607 - 1670)]
-* gen13.MMMMPMMPMPPMM.Hannah_Evered_(1582_-_?)
+* gen13.MMMMPMMPMPPMM.Hannah_Evered_(1582 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,9 +65,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMP.John_Fellows.adoc[John Fellows (1668 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPMPPM.Mary_Ayres.adoc[Mary Ayres (1607 - 1670)]
-* gen13.MMMMPMMPMPPMM.Hannah_Evered_(1582_-_?)
+* gen13.MMMMPMMPMPPMM.Hannah_Evered_(1582 - ?)
 
 
 == Other
 
 == Sources
+

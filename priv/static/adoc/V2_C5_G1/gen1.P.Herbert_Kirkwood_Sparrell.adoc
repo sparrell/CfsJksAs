@@ -44,7 +44,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0486http://localhost:4000/person?p=p
 == Relations
 === Lineage #1
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* gen1.P.Herbert_Kirkwood_Sparrell_(1899_-_1978)
+* gen1.P.Herbert_Kirkwood_Sparrell_(1899 - 1978)
 
 
 == Other

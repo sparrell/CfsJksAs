@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPMP.Humphrey_Bradstreet.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0633[Dev-web]
-* http://localhost:4000/person?p=p0633[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0633[Adoc-web]
-* adoc?p=p0633[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0633http://localhost:4000/person?p=p0633https://cfsjksas.gigalixirapp.com/adoc?p=p0633http://localhost:4000/adoc?p=p0633* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Humphrey_Bradstreet_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Mary Bradstreet (1633 - 1698)]
-* gen11.MMMMPPPPPMP.Humphrey_Bradstreet_(1594_-_1655)
+* gen11.MMMMPPPPPMP.Humphrey_Bradstreet_(1594 - 1655)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,23 +65,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Mary Bradstreet (1633 - 1698)]
-* gen11.MMMMPPPPPMP.Humphrey_Bradstreet_(1594_-_1655)
+* gen11.MMMMPPPPPMP.Humphrey_Bradstreet_(1594 - 1655)
 
 
 == Other
 emigration:  Sailed on Elizabeth from Ipswich England
-----
+<p>
 2 DATE 30 APR 1634
 2 AGE About 39-40
-----
+</p>
  See Notes
 
 event:  Deputy to  Mass. General Court
-----
+<p>
 2 TYPE _ELEC
 2 DATE 2 SEP 1635
 2 AGE About 40-41
-----
+</p>
 
 notes: Sailed from Ipswich Essex England 30 April 1636 on "Elizabeth" after taking oath of allegiance at Custom House. Accompanied by His wife Bridget(age30) and children John(age 3), Martha(2) and Mary(1)
 

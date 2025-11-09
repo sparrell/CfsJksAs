@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 19 AUG 1658
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMPM.Judith_Belcher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0574[Dev-web]
-* https://localhost:4000/person?p=p0574[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0574[Adoc-web]
-* https://localhost:4000/adoc?p=p0574[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0574http://localhost:4000/person?p=p0574https://cfsjksas.gigalixirapp.com/adoc?p=p0574http://localhost:4000/adoc?p=p0574* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
-* gen10.MMMMPMPMPM.Judith_Belcher_(1658_-_?)
+* gen10.MMMMPMPMPM.Judith_Belcher_(1658 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMP.John_Andrews.adoc[John Andrews (1684 - 1750)]
-* gen10.MMMMPMPMPM.Judith_Belcher_(1658_-_?)
+* gen10.MMMMPMPMPM.Judith_Belcher_(1658 - ?)
 
 
 == Other
 
 == Sources
+

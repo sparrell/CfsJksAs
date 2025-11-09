@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1614
+
 * Birthplace: Norfolk, England, UK
+
 * Death: AFT 27 OCT 1694
+
 * Deathplace: Bridgewater, Plymouth, Massachusetts, USA
+
 * Age at Death: About 79-80
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPMPM.Elizabeth_Unknown025.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0698[Dev-web]
-* https://localhost:4000/person?p=p0698[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0698[Adoc-web]
-* https://localhost:4000/adoc?p=p0698[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0698http://localhost:4000/person?p=p0698https://cfsjksas.gigalixirapp.com/adoc?p=p0698http://localhost:4000/adoc?p=p0698* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,9 +49,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPM.Abigail_Packard.adoc[Abigail Packard (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPMP.Israel_Packard.adoc[Israel Packard (1645 - 1680)]
-* gen9.MPMMMPMPM.Elizabeth_Unknown025_(1614_-_1694)
+* gen9.MPMMMPMPM.Elizabeth_Unknown025_(1614 - 1694)
 
 
 == Other
 
 == Sources
+

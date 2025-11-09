@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1580
+
 * Birthplace: of Canterbury, Kent, England
+
 * Death: 23 FEB 1673
+
 * Deathplace: Sandwich, Barnstable, Massachusetts, USA
+
 * Age at Death: 92-93
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMPMPMMMMMMMP.William_Henry_Newland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1250[Dev-web]
-* https://localhost:4000/person?p=p1250[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1250[Adoc-web]
-* https://localhost:4000/adoc?p=p1250[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1250http://localhost:4000/person?p=p1250https://cfsjksas.gigalixirapp.com/adoc?p=p1250http://localhost:4000/adoc?p=p1250* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,17 +53,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMM.Mary_Young.adoc[Mary Young (1658 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMMMMM.Abigail_Howland.adoc[Abigail Howland (1629 - 1692)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMPMPMMMMMMM.Mary_Sarah_Newland.adoc[Mary Sarah Newland (1609 - 1674)]
-* gen13.MMPMPMMMMMMMP.William_Henry_Newland_(1580_-_1673)
+* gen13.MMPMPMMMMMMMP.William_Henry_Newland_(1580 - 1673)
 
 
 == Other
 
 == Sources
 * @S49@
-----
+<p>
 2 PAGE https://www.myheritage.com/person-1501279_306010031_306010031/william-henry-newland
 2 QUAY 3
 2 DATA
 3 TEXT Individual added by confirming a Smart Match
-----
+</p>
+
 

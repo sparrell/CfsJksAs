@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1653
+
 * Death: 19 APR 1744
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: About 90-91
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPMP.Thomas_Rose.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0341[Dev-web]
-* https://localhost:4000/person?p=p0341[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0341[Adoc-web]
-* https://localhost:4000/adoc?p=p0341[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0341http://localhost:4000/person?p=p0341https://cfsjksas.gigalixirapp.com/adoc?p=p0341http://localhost:4000/adoc?p=p0341* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Rose_%2814%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPM.Hannah_Rose.adoc[Hannah Rose (1682 - 1724)]
-* gen10.MMMMMMPPMP.Thomas_Rose_(1653_-_1744)
+* gen10.MMMMMMPPMP.Thomas_Rose_(1653 - 1744)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -57,18 +58,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMP.James_Avery.adoc[James Avery (1737 - 1822)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPM.Hannah_Rose.adoc[Hannah Rose (1682 - 1724)]
-* gen10.MMMMMMPPMP.Thomas_Rose_(1653_-_1744)
+* gen10.MMMMMMPPMP.Thomas_Rose_(1653 - 1744)
 
 
 == Other
 event:  369
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  369
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

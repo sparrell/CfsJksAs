@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: England, UK
+
 * Death: 10 JUN 1687
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMPPPMM.Grace_Cole.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0557[Dev-web]
-* https://localhost:4000/person?p=p0557[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0557[Adoc-web]
-* https://localhost:4000/adoc?p=p0557[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0557http://localhost:4000/person?p=p0557https://cfsjksas.gigalixirapp.com/adoc?p=p0557http://localhost:4000/adoc?p=p0557* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Grace_Unknown_%28271%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMPPPM.Mary_Wadsworth.adoc[Mary Wadsworth (1635 - ?)]
-* gen9.MPMMPPPMM.Grace_Cole_(?_-_1687)
+* gen9.MPMMPPPMM.Grace_Cole_(? - 1687)
 
 
 == Other
 
 == Sources
+

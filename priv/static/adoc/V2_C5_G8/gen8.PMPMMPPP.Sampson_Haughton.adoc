@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: M
+
 * Death: 12 NOV 1718
+
 * Deathplace: New London, New London, Connecticut, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMPPP.Sampson_Haughton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0084[Dev-web]
-* https://localhost:4000/person?p=p0084[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0084[Adoc-web]
-* https://localhost:4000/adoc?p=p0084[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0084http://localhost:4000/person?p=p0084https://cfsjksas.gigalixirapp.com/adoc?p=p0084http://localhost:4000/adoc?p=p0084* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sampson_Haughton_%282%29[WeRelate]
 * WikiTree TBD
@@ -40,10 +39,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Sampson Haughton (1692 - 1756)]
-* gen8.PMPMMPPP.Sampson_Haughton_(?_-_1718)
+* gen8.PMPMMPPP.Sampson_Haughton_(? - 1718)
 
 
 == Other
 notes: He lived in an area of New London where his father had obtained land from Uncas, Chief of the Mohegans. This area is now the Uncasville section of the Town of Montville.
 
+
 == Sources
+

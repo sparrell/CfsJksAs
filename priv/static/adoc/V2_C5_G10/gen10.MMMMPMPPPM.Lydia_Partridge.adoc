@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: ABT 1650
+
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Death: 21 FEB 1743
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: About 92-93
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPM.Lydia_Partridge.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0781[Dev-web]
-* https://localhost:4000/person?p=p0781[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0781[Adoc-web]
-* https://localhost:4000/adoc?p=p0781[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0781http://localhost:4000/person?p=p0781https://cfsjksas.gigalixirapp.com/adoc?p=p0781http://localhost:4000/adoc?p=p0781* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lydia_Partridge_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
-* gen10.MMMMPMPPPM.Lydia_Partridge_(1650_-_1743)
+* gen10.MMMMPMPPPM.Lydia_Partridge_(1650 - 1743)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,9 +60,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Judah Brewster (1749 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
-* gen10.MMMMPMPPPM.Lydia_Partridge_(1650_-_1743)
+* gen10.MMMMPMPPPM.Lydia_Partridge_(1650 - 1743)
 
 
 == Other
 
 == Sources
+

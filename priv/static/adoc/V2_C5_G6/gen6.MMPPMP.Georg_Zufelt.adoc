@@ -41,7 +41,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p1299http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPM.Charity_Schufeldt.adoc[Charity Schufeldt (1792 - 1851)]
-* gen6.MMPPMP.Georg_Zufelt_(1761_-_1851)
+* gen6.MMPPMP.Georg_Zufelt_(1761 - 1851)
 
 
 == Other

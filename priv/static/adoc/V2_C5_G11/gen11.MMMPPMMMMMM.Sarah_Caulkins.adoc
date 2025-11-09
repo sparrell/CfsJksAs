@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMMMMMM.Sarah_Caulkins.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0930[Dev-web]
-* http://localhost:4000/person?p=p0930[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0930[Adoc-web]
-* adoc?p=p0930[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0930http://localhost:4000/person?p=p0930https://cfsjksas.gigalixirapp.com/adoc?p=p0930http://localhost:4000/adoc?p=p0930* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMM.Sarah_Hough.adoc[Sarah Hough (1651 - 1715)]
-* gen11.MMMPPMMMMMM.Sarah_Caulkins_(1626_-_1684)
+* gen11.MMMPPMMMMMM.Sarah_Caulkins_(1626 - 1684)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMM.Hannah_Lester.adoc[Hannah Lester (1707 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMMM.Hannah_Carpenter.adoc[Hannah Carpenter (1683 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMMM.Sarah_Hough.adoc[Sarah Hough (1651 - 1715)]
-* gen11.MMMPPMMMMMM.Sarah_Caulkins_(1626_-_1684)
+* gen11.MMMPPMMMMMM.Sarah_Caulkins_(1626 - 1684)
 
 
 == Other

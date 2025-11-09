@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: London, England, UK
+
 * Death: 19 MAY 1643
+
 * Deathplace: Norwich, New London, Connecticut, USA
+
 
 
 == Ship
@@ -25,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMMPPMPMMP.Samuel_Gore.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0517[Dev-web]
-* https://localhost:4000/person?p=p0517[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0517[Adoc-web]
-* https://localhost:4000/adoc?p=p0517[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0517http://localhost:4000/person?p=p0517https://cfsjksas.gigalixirapp.com/adoc?p=p0517http://localhost:4000/adoc?p=p0517* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPM.Elizabeth_Mary_Gager.adoc[Elizabeth Mary Gager (1644 - 1673)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPPMPMM.Elizabeth_Gore.adoc[Elizabeth Gore (1627 - 1704)]
-* gen12.MMMMMPPMPMMP.Samuel_Gore_(?_-_1643)
+* gen12.MMMMMPPMPMMP.Samuel_Gore_(? - 1643)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,10 +63,12 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMP.Robert_Allyn.adoc[Robert Allyn (1671 - 1730)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPPMPM.Elizabeth_Mary_Gager.adoc[Elizabeth Mary Gager (1644 - 1673)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPPMPMM.Elizabeth_Gore.adoc[Elizabeth Gore (1627 - 1704)]
-* gen12.MMMMMPPMPMMP.Samuel_Gore_(?_-_1643)
+* gen12.MMMMMPPMPMMP.Samuel_Gore_(? - 1643)
 
 
 == Other
 notes: From the records of the Grocer's Company of London: <p>Samuel Goore became free of the Grocer's Co. London 16 May 1622; late apprentice of Henry Dodd.</p>
 
+
 == Sources
+

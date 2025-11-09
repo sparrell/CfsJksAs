@@ -13,11 +13,11 @@ Narrative TBD
 * Birthplace: Sandy, Bedfordshire, England, UK
 
 * Christening: 
-----
+<p>
 2 DATE 21 DEC 1612
 2 PLAC Sandy, Bedford, England
 2 AGE 0
-----
+</p>
 
 
 
@@ -31,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMPMM.Alice_Ingersoll.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0043[Dev-web]
-* http://localhost:4000/person?p=p0043[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0043[Adoc-web]
-* adoc?p=p0043[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0043http://localhost:4000/person?p=p0043https://cfsjksas.gigalixirapp.com/adoc?p=p0043http://localhost:4000/adoc?p=p0043* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -53,18 +49,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPM.Mary_Hutchinson.adoc[Mary Hutchinson (1699 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMP.Judah_Hutchinson.adoc[Judah Hutchinson (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMPM.Alice_Wallcott.adoc[Alice Wallcott (1635 - 1714)]
-* gen11.PMPPMPPMPMM.Alice_Ingersoll_(1612_-_?)
+* gen11.PMPPMPPMPMM.Alice_Ingersoll_(1612 - ?)
 
 
 == Other
 event:  1034
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  1060
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

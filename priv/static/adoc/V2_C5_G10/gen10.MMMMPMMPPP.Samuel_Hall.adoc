@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 3 FEB 1664
+
 * Birthplace: Middletown, Middlesex, Connecticut, USA
+
 * Deathplace: Middletown, Middlesex, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0455[Dev-web]
-* https://localhost:4000/person?p=p0455[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0455[Adoc-web]
-* https://localhost:4000/adoc?p=p0455[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0455http://localhost:4000/person?p=p0455https://cfsjksas.gigalixirapp.com/adoc?p=p0455http://localhost:4000/adoc?p=p0455* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
-* gen10.MMMMPMMPPP.Samuel_Hall_(1664_-_?)
+* gen10.MMMMPMMPPP.Samuel_Hall_(1664 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +56,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPP.Samuel_Hall.adoc[Samuel Hall (1696 - 1770)]
-* gen10.MMMMPMMPPP.Samuel_Hall_(1664_-_?)
+* gen10.MMMMPMMPPP.Samuel_Hall_(1664 - ?)
 
 
 == Other
 
 == Sources
+

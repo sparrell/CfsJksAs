@@ -31,7 +31,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0330http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMP.Simeon_Gleason.adoc[Simeon Gleason (1795 - 1839)]
-* gen6.PPPMPP.John_Gleason_(?_-_?)
+* gen6.PPPMPP.John_Gleason_(? - ?)
 
 
 == Other

@@ -30,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0417[Dev-web]
-* http://localhost:4000/person?p=p0417[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0417[Adoc-web]
-* adoc?p=p0417[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0417http://localhost:4000/person?p=p0417https://cfsjksas.gigalixirapp.com/adoc?p=p0417http://localhost:4000/adoc?p=p0417* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Wheeler_%2845%29[WeRelate]
 * WikiTree TBD
@@ -52,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
-* gen11.MMMMPMPPMPM.Elizabeth_Wheeler_(1648_-_1672)
+* gen11.MMMMPMPPMPM.Elizabeth_Wheeler_(1648 - 1672)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -66,18 +62,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
-* gen11.MMMMPMPPMPM.Elizabeth_Wheeler_(1648_-_1672)
+* gen11.MMMMPMPPMPM.Elizabeth_Wheeler_(1648 - 1672)
 
 
 == Other
 event:  437
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  437
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

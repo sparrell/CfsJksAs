@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: JUN 1639
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: BEF 8 MAY 1734
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 94
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMPP.Joseph_Stetson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0217[Dev-web]
-* https://localhost:4000/person?p=p0217[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0217[Adoc-web]
-* https://localhost:4000/adoc?p=p0217[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0217http://localhost:4000/person?p=p0217https://cfsjksas.gigalixirapp.com/adoc?p=p0217http://localhost:4000/adoc?p=p0217* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Stetson_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMM.Jemimah_Damon.adoc[Jemimah Damon (1724 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMM.Jemimah_Stetson.adoc[Jemimah Stetson (1695 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMP.Robert_Stetson.adoc[Robert Stetson (1670 - 1760)]
-* gen10.PPPPMMMMPP.Joseph_Stetson_(1639_-_1734)
+* gen10.PPPPMMMMPP.Joseph_Stetson_(1639 - 1734)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,23 +61,24 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPPMMP.Anthony_Stetson.adoc[Anthony Stetson (1693 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMP.Robert_Stetson.adoc[Robert Stetson (1670 - 1760)]
-* gen10.PPPPMMMMPP.Joseph_Stetson_(1639_-_1734)
+* gen10.PPPPMMMMPP.Joseph_Stetson_(1639 - 1734)
 
 
 == Other
 event:  238
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  238
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJoseph_Stetson_%281%29:
-----
+</p>
 
 
 == Sources
+

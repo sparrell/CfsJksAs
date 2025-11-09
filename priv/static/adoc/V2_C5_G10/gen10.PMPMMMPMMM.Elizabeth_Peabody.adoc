@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 24 OCT 1647
+
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Death: 1678
+
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
+
 * Age at Death: 30-31
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMMMPMMM.Elizabeth_Peabody.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0999[Dev-web]
-* https://localhost:4000/person?p=p0999[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0999[Adoc-web]
-* https://localhost:4000/adoc?p=p0999[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0999http://localhost:4000/person?p=p0999https://cfsjksas.gigalixirapp.com/adoc?p=p0999http://localhost:4000/adoc?p=p0999* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Pabodie_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +47,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[John Whiting (1719 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMMMPM.Elizabeth_Bradford.adoc[Elizabeth Bradford (1696 - 1777)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMMMPMM.Hannah_Rogers.adoc[Hannah Rogers (1668 - 1754)]
-* gen10.PMPMMMPMMM.Elizabeth_Peabody_(1647_-_1678)
+* gen10.PMPMMMPMMM.Elizabeth_Peabody_(1647 - 1678)
 
 
 == Other
 
 == Sources
+

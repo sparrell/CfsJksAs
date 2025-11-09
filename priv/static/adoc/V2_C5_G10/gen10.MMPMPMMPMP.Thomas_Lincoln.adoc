@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1628
+
 * Birthplace: Norfolk, England, UK
+
 * Death: ABT 1720
+
 * Deathplace: Taunton, Bristol, Massachusetts, USA
+
 * Age at Death: About 91-92
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMPMP.Thomas_Lincoln.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0546[Dev-web]
-* https://localhost:4000/person?p=p0546[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0546[Adoc-web]
-* https://localhost:4000/adoc?p=p0546[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0546http://localhost:4000/person?p=p0546https://cfsjksas.gigalixirapp.com/adoc?p=p0546http://localhost:4000/adoc?p=p0546* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Lincoln_%2834%29[WeRelate]
 * WikiTree TBD
@@ -50,23 +52,24 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Peter Branch (1696 - 1759)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMPM.Hannah_Lincoln.adoc[Hannah Lincoln (1664 - 1732)]
-* gen10.MMPMPMMPMP.Thomas_Lincoln_(1628_-_1720)
+* gen10.MMPMPMMPMP.Thomas_Lincoln_(1628 - 1720)
 
 
 == Other
 emigration:  England to Hingham MA
-----
+<p>
 2 DATE 1636
 2 AGE About 7-8
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Move
 2 DATE 1643
 2 PLAC Taunton, Bristol, Massachusetts, USA
 2 AGE About 14-15
-----
+</p>
 
 
 == Sources
+

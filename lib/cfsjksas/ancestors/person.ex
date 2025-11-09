@@ -40,6 +40,37 @@ defmodule Cfsjksas.Ancestors.Person do
     end
     given <> " " <> surname
   end
+  def get_birth(nil) do
+    IO.inspect(Process.info(self(), :current_stacktrace))
+    raise "get_birth of nil person"
+  end
+  def get_birth(person) do
+    case person.birth_year do
+      nil ->
+        "?"
+      _ ->
+        person.birth_year
+    end
+  end
+  def get_death(nil) do
+    IO.inspect(Process.info(self(), :current_stacktrace))
+    raise "get_death of nil person"
+  end
+  def get_death(person) do
+    case person.death_year do
+      nil ->
+        "?"
+      _ ->
+        person.death_year
+    end
+  end
+  def get_dates(nil) do
+    IO.inspect(Process.info(self(), :current_stacktrace))
+    raise "get_dates of nil person"
+  end
+  def get_dates(person) do
+    "(" <> get_birth(person) <> " - " <> get_death(person) <> ")"
+  end
 
   def get_name_dates(nil) do
     IO.inspect(Process.info(self(), :current_stacktrace))
@@ -47,20 +78,7 @@ defmodule Cfsjksas.Ancestors.Person do
     raise "get_name_dates of nil person"
   end
   def get_name_dates(person) do
-    name = get_name(person)
-    birth = case person.birth_year do
-      nil ->
-        "?"
-      _ ->
-        person.birth_year
-    end
-    death = case person.death_year do
-      nil ->
-        "?"
-      _ ->
-        person.death_year
-    end
-    name <> " (" <> birth <> " - " <> death <> ")"
+    get_name(person) <> " " <> get_dates(person)
   end
 
   def ship(id_a) do

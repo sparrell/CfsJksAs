@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1657
+
 * Birthplace: Weymouth, Norfolk, Massachusetts, USA
+
 * Death: 26 APR 1727
+
 * Deathplace: Attleboro, Bristol, Massachusetts, USA
+
 * Age at Death: 69-70
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPPP.William_Slack.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1025[Dev-web]
-* https://localhost:4000/person?p=p1025[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1025[Adoc-web]
-* https://localhost:4000/adoc?p=p1025[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1025http://localhost:4000/person?p=p1025https://cfsjksas.gigalixirapp.com/adoc?p=p1025http://localhost:4000/adoc?p=p1025* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Slack_%282%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMP.William_Slack.adoc[William Slack (1717 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPP.Samuel_Slack.adoc[Samuel Slack (1687 - ?)]
-* gen10.MMMPMPMPPP.William_Slack_(1657_-_1727)
+* gen10.MMMPMPMPPP.William_Slack_(1657 - 1727)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,9 +58,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMP.William_Slack.adoc[William Slack (1717 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPP.Samuel_Slack.adoc[Samuel Slack (1687 - ?)]
-* gen10.MMMPMPMPPP.William_Slack_(1657_-_1727)
+* gen10.MMMPMPMPPP.William_Slack_(1657 - 1727)
 
 
 == Other
 
 == Sources
+

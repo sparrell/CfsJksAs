@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMPM.Anna_Stevenson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0425[Dev-web]
-* http://localhost:4000/person?p=p0425[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0425[Adoc-web]
-* adoc?p=p0425[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0425http://localhost:4000/person?p=p0425https://cfsjksas.gigalixirapp.com/adoc?p=p0425http://localhost:4000/adoc?p=p0425* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anne_Stevenson_%281%29[WeRelate]
 * WikiTree TBD
@@ -56,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1656 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -70,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMP.Nathaniel_Chesebrough.adoc[Nathaniel Chesebrough (1630 - 1678)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -84,7 +80,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -98,7 +94,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -112,7 +108,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -127,7 +123,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1656 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -141,7 +137,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMP.Nathaniel_Chesebrough.adoc[Nathaniel Chesebrough (1630 - 1678)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -155,7 +151,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #9
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -169,7 +165,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 === Lineage #10
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -183,7 +179,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
-* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598_-_1673)
+* gen11.MMMPMMMMMPM.Anna_Stevenson_(1598 - 1673)
 
 
 == Other

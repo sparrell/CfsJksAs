@@ -7,26 +7,34 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Warriner
+
 * Birth: ABT 1602
+
 * Birthplace: Cholesbury, Chiltern, Buckinghamshire, England, United Kingdom
+
 * Birth note: Spouse: Christopher Smith
+
 * Christening: 
-----
+<p>
 2 DATE 16 JAN 1616
 2 PLAC Ottery St Mary, Devon, England
 2 AGE ABOUT 13-14
-----
+</p>
 
 * Death: 7 FEB 1661
+
 * Deathplace: Springfield, Hampden, Massachusetts, United States
+
 * Buried: 
-----
+<p>
 2 DATE 1661
 2 PLAC Springfield Cemetery ( Willow Ave 2-97 ), Springfield, Hampden County, Massachusetts, United States
-----
+</p>
 
 * Age at Death: ABOUT 57-58
+
 
 
 == Ship
@@ -43,11 +51,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPPPMM.Joanna_Searle.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1239[Dev-web]
-* https://localhost:4000/person?p=p1239[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1239[Adoc-web]
-* https://localhost:4000/adoc?p=p1239[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1239http://localhost:4000/person?p=p1239https://cfsjksas.gigalixirapp.com/adoc?p=p1239http://localhost:4000/adoc?p=p1239* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -64,25 +68,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPM.Elizabeth_Warriner.adoc[Elizabeth Warriner (? - 1684)]
-* gen10.PMPPPPPPMM.Joanna_Searle_(1602_-_1661)
+* gen10.PMPPPPPPMM.Joanna_Searle_(1602 - 1661)
 
 
 == Other
 event:  Spouse: William Warriner
-----
+<p>
 2 TYPE Marriage
 2 DATE 31 JUL 1639
 2 AGE ABOUT 36-37
-----
+</p>
 
 
 == Sources
 * @S48@
-----
+<p>
 2 PAGE Joanna "Scant" x Warriner (born Searle)
 2 QUAY 3
 2 DATA
 3 DATE 13 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

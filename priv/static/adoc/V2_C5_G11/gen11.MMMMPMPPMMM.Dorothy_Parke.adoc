@@ -26,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMMM.Dorothy_Parke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0408[Dev-web]
-* http://localhost:4000/person?p=p0408[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0408[Adoc-web]
-* adoc?p=p0408[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0408http://localhost:4000/person?p=p0408https://cfsjksas.gigalixirapp.com/adoc?p=p0408http://localhost:4000/adoc?p=p0408* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Dorothy_Parke_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
-* gen11.MMMMPMPPMMM.Dorothy_Parke_(1652_-_?)
+* gen11.MMMMPMPPMMM.Dorothy_Parke_(1652 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,18 +58,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPP.Simon_Brewster.adoc[Simon Brewster (1720 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMM.Dorothy_Morgan.adoc[Dorothy Morgan (1675 - 1759)]
-* gen11.MMMMPMPPMMM.Dorothy_Parke_(1652_-_?)
+* gen11.MMMMPMPPMMM.Dorothy_Parke_(1652 - ?)
 
 
 == Other
 event:  429
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  429
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources

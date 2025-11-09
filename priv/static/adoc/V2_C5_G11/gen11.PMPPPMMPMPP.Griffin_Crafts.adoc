@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMMPMPP.Griffin_Crafts.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0807[Dev-web]
-* http://localhost:4000/person?p=p0807[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0807[Adoc-web]
-* adoc?p=p0807[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0807http://localhost:4000/person?p=p0807https://cfsjksas.gigalixirapp.com/adoc?p=p0807http://localhost:4000/adoc?p=p0807* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMP.Moses_Goodrich.adoc[Moses Goodrich (1697 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPM.Abigail_Crafts.adoc[Abigail Crafts (1676 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPMP.Moses_Crafts.adoc[Moses Crafts (1641 - 1718)]
-* gen11.PMPPPMMPMPP.Griffin_Crafts_(1601_-_1689)
+* gen11.PMPPPMMPMPP.Griffin_Crafts_(1601 - 1689)
 
 
 == Other

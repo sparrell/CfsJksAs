@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPM.Ann_Lord.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0902[Dev-web]
-* http://localhost:4000/person?p=p0902[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0902[Adoc-web]
-* adoc?p=p0902[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0902http://localhost:4000/person?p=p0902https://cfsjksas.gigalixirapp.com/adoc?p=p0902http://localhost:4000/adoc?p=p0902* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -57,7 +53,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
-* gen11.MMMPPPMMMPM.Ann_Lord_(1614_-_1688)
+* gen11.MMMPPPMMMPM.Ann_Lord_(1614 - 1688)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -71,7 +67,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
-* gen11.MMMPPPMMMPM.Ann_Lord_(1614_-_1688)
+* gen11.MMMPPPMMMPM.Ann_Lord_(1614 - 1688)
 
 
 == Other

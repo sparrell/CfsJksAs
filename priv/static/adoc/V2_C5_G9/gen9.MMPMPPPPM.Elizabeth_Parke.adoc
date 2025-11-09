@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 28 OCT 1672
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Death: ABT 1750
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: About 77-78
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPM.Elizabeth_Parke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0128[Dev-web]
-* https://localhost:4000/person?p=p0128[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0128[Adoc-web]
-* https://localhost:4000/adoc?p=p0128[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0128http://localhost:4000/person?p=p0128https://cfsjksas.gigalixirapp.com/adoc?p=p0128http://localhost:4000/adoc?p=p0128* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -44,18 +46,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPP.Jacob_Bennett.adoc[Jacob Bennett (1761 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
-* gen9.MMPMPPPPM.Elizabeth_Parke_(1672_-_1750)
+* gen9.MMPMPPPPM.Elizabeth_Parke_(1672 - 1750)
 
 
 == Other
 event:  158
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  158
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPMMPP.William_Witter.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0348[Dev-web]
-* http://localhost:4000/person?p=p0348[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0348[Adoc-web]
-* adoc?p=p0348[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0348http://localhost:4000/person?p=p0348https://cfsjksas.gigalixirapp.com/adoc?p=p0348http://localhost:4000/adoc?p=p0348* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Witter_%283%29[WeRelate]
 * WikiTree TBD
@@ -56,7 +52,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
-* gen11.MMMMPPPMMPP.William_Witter_(1584_-_1659)
+* gen11.MMMMPPPMMPP.William_Witter_(1584 - 1659)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -70,7 +66,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
-* gen11.MMMMPPPMMPP.William_Witter_(1584_-_1659)
+* gen11.MMMMPPPMMPP.William_Witter_(1584 - 1659)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -85,7 +81,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
-* gen11.MMMMPPPMMPP.William_Witter_(1584_-_1659)
+* gen11.MMMMPPPMMPP.William_Witter_(1584 - 1659)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -99,16 +95,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPM.Mary_Parke.adoc[Mary Parke (1711 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPMM.Hannah_Witter.adoc[Hannah Witter (1681 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPMMP.Josiah_Witter.adoc[Josiah Witter (1638 - 1690)]
-* gen11.MMMMPPPMMPP.William_Witter_(1584_-_1659)
+* gen11.MMMMPPPMMPP.William_Witter_(1584 - 1659)
 
 
 == Other
 notes: Radical Baptist. See John Crandell for similar beliefs and relationships through marriage.
 
 religion: 2 DATE 22 MAY 1646
-----
+<p>
 2 AGE 61-62
-----
+</p>
 
 
 == Sources

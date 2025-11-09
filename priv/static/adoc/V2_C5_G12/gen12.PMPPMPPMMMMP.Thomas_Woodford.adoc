@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1600
+
 * Birthplace: England, UK
+
 * Death: 6 MAR 1668
+
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
+
 * Age at Death: About 67-68
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPPMPPMMMMP.Thomas_Woodford.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0648[Dev-web]
-* https://localhost:4000/person?p=p0648[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0648[Adoc-web]
-* https://localhost:4000/adoc?p=p0648[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0648http://localhost:4000/person?p=p0648https://cfsjksas.gigalixirapp.com/adoc?p=p0648http://localhost:4000/adoc?p=p0648* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Woodford_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,27 +52,28 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMM.Mary_Bridgman.adoc[Mary Bridgman (1672 - 1741)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMMM.Mary_Sheldon.adoc[Mary Sheldon (1654 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMMMM.Mary_Woodford.adoc[Mary Woodford (1638 - 1684)]
-* gen12.PMPPMPPMMMMP.Thomas_Woodford_(1600_-_1668)
+* gen12.PMPPMPPMMMMP.Thomas_Woodford_(1600 - 1668)
 
 
 == Other
 emigration:  emigrated on the" William & Francis"
-----
+<p>
 2 DATE 1632
 2 AGE About 31-32
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Fact 4
 2 DATE BEF 1662
 2 PLAC Hartford, Hartford, Connecticut, USA
 2 AGE About 61-62
-----
+</p>
  Roxbury
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
 
 
 == Sources
+

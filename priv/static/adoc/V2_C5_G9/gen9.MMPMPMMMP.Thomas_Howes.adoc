@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1680
+
 * Birthplace: Yarmouth, Barnstable, Massachusetts, USA
+
 * Death: ABT 1738
+
 * Deathplace: Chatham, Barnstable, Massachusetts, USA
+
 * Age at Death: About 57-58
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMP.Thomas_Howes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0988[Dev-web]
-* https://localhost:4000/person?p=p0988[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0988[Adoc-web]
-* https://localhost:4000/adoc?p=p0988[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0988http://localhost:4000/person?p=p0988https://cfsjksas.gigalixirapp.com/adoc?p=p0988http://localhost:4000/adoc?p=p0988* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Howes_%2815%29[WeRelate]
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMM.Genevereth_Branch.adoc[Genevereth Branch (1733 - 1812)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Content Howes (1702 - ?)]
-* gen9.MMPMPMMMP.Thomas_Howes_(1680_-_1738)
+* gen9.MMPMPMMMP.Thomas_Howes_(1680 - 1738)
 
 
 == Other
 
 == Sources
+

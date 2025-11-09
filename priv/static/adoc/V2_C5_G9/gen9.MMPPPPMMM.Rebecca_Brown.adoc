@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1660
+
 * Birthplace: Stamford, Fairfield, Connecticut, USA
+
 * Death: 8 FEB 1743
+
 * Deathplace: Woodbury, Litchfield, Connecticut, USA
+
 * Age at Death: 82-83
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPMMM.Rebecca_Brown.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0654[Dev-web]
-* https://localhost:4000/person?p=p0654[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0654[Adoc-web]
-* https://localhost:4000/adoc?p=p0654[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0654http://localhost:4000/person?p=p0654https://cfsjksas.gigalixirapp.com/adoc?p=p0654http://localhost:4000/adoc?p=p0654* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Brown_%288%29[WeRelate]
 * WikiTree TBD
@@ -44,9 +46,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Rebecca Warner (1715 - 1767)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPMM.Martha_Galpin.adoc[Martha Galpin (1685 - 1745)]
-* gen9.MMPPPPMMM.Rebecca_Brown_(1660_-_1743)
+* gen9.MMPPPPMMM.Rebecca_Brown_(1660 - 1743)
 
 
 == Other
 
 == Sources
+

@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPMM.Bridget_Unknown016.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0634[Dev-web]
-* http://localhost:4000/person?p=p0634[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0634[Adoc-web]
-* adoc?p=p0634[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0634http://localhost:4000/person?p=p0634https://cfsjksas.gigalixirapp.com/adoc?p=p0634http://localhost:4000/adoc?p=p0634* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Bridget_Unknown_%284%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Mary Bradstreet (1633 - 1698)]
-* gen11.MMMMPPPPPMM.Bridget_Unknown016_(1604_-_1665)
+* gen11.MMMMPPPPPMM.Bridget_Unknown016_(1604 - 1665)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +65,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPM.Mary_Bradstreet.adoc[Mary Bradstreet (1633 - 1698)]
-* gen11.MMMMPPPPPMM.Bridget_Unknown016_(1604_-_1665)
+* gen11.MMMMPPPPPMM.Bridget_Unknown016_(1604 - 1665)
 
 
 == Other

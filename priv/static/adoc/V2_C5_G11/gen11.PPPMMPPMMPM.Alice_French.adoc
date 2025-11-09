@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMPPMMPM.Alice_French.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0440[Dev-web]
-* http://localhost:4000/person?p=p0440[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0440[Adoc-web]
-* adoc?p=p0440[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0440http://localhost:4000/person?p=p0440https://cfsjksas.gigalixirapp.com/adoc?p=p0440http://localhost:4000/adoc?p=p0440* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_French_%281%29[WeRelate]
 * WikiTree TBD
@@ -57,16 +53,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPM.Alice_Cummings.adoc[Alice Cummings (1695 - 1734)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPPMM.Alice_Howlett.adoc[Alice Howlett (1666 - 1696)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPPMMP.Thomas_Howlett.adoc[Thomas Howlett (1637 - 1667)]
-* gen11.PPPMMPPMMPM.Alice_French_(1610_-_1666)
+* gen11.PPPMMPPMMPM.Alice_French_(1610 - 1666)
 
 
 == Other
 notes: Alice French migrated to MA with her brother Thomas by 1632. Their parents and other siblings arrived after 1633.
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_French_%281%29:
-----
+</p>
 
 
 == Sources

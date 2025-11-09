@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMPPPPPP.George_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0181[Dev-web]
-* http://localhost:4000/person?p=p0181[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0181[Adoc-web]
-* adoc?p=p0181[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0181http://localhost:4000/person?p=p0181https://cfsjksas.gigalixirapp.com/adoc?p=p0181http://localhost:4000/adoc?p=p0181* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:George_Barrell_%282%29[WeRelate]
 * WikiTree TBD
@@ -55,22 +51,22 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[William Barrell (1654 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMPPPPP.John_Barrell.adoc[John Barrell (1618 - 1658)]
-* gen11.PPPPMPPPPPP.George_Barrell_(1585_-_1643)
+* gen11.PPPPMPPPPPP.George_Barrell_(1585 - 1643)
 
 
 == Other
 emigration:  emigrated to Boston
-----
+<p>
 2 DATE 1637
 2 AGE About 51-52
-----
+</p>
 
 event:  _ELEC of Barrell, George - Freeman
-----
+<p>
 2 TYPE Freeman
 2 DATE 10 MAY 1643
 2 AGE About 57-58
-----
+</p>
 
 occupation: Cooper
 

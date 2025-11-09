@@ -18,16 +18,12 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - <1690)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - bef 1690)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMPMPMPP.John_Lewis.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1029[Dev-web]
-* http://localhost:4000/person?p=p1029[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1029[Adoc-web]
-* adoc?p=p1029[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1029http://localhost:4000/person?p=p1029https://cfsjksas.gigalixirapp.com/adoc?p=p1029http://localhost:4000/adoc?p=p1029* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Lewis_%2892%29[WeRelate]
 * WikiTree TBD
@@ -44,8 +40,8 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMP.William_Slack.adoc[William Slack (1717 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPM.Abigail_Lewis.adoc[Abigail Lewis (1693 - ?)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - <1690)]
-* gen11.MMMPMPMPMPP.John_Lewis_(?_-_?)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - bef 1690)]
+* gen11.MMMPMPMPMPP.John_Lewis_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,8 +54,8 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMP.William_Slack.adoc[William Slack (1717 - 1776)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMPM.Abigail_Lewis.adoc[Abigail Lewis (1693 - ?)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - <1690)]
-* gen11.MMMPMPMPMPP.John_Lewis_(?_-_?)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMPMPMP.John_Lewis.adoc[John Lewis (~1624 - bef 1690)]
+* gen11.MMMPMPMPMPP.John_Lewis_(? - ?)
 
 
 == Other

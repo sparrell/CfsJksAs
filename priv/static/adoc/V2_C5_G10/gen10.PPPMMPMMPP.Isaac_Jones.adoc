@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: M
 
 
+
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -17,11 +18,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMPMMPP.Isaac_Jones.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1297[Dev-web]
-* https://localhost:4000/person?p=p1297[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1297[Adoc-web]
-* https://localhost:4000/adoc?p=p1297[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1297http://localhost:4000/person?p=p1297https://cfsjksas.gigalixirapp.com/adoc?p=p1297http://localhost:4000/adoc?p=p1297* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,9 +35,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPM.Anna_Stone.adoc[Anna Stone (1740 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPMM.Ann_Jones.adoc[Ann Jones (1720 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMPMMP.John_Jones.adoc[John Jones (1691 - ?)]
-* gen10.PPPMMPMMPP.Isaac_Jones_(?_-_?)
+* gen10.PPPMMPMMPP.Isaac_Jones_(? - ?)
 
 
 == Other
 
 == Sources
+

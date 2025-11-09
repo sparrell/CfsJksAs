@@ -29,11 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPPMP.Alexander_Winchester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0885[Dev-web]
-* http://localhost:4000/person?p=p0885[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0885[Adoc-web]
-* adoc?p=p0885[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0885http://localhost:4000/person?p=p0885https://cfsjksas.gigalixirapp.com/adoc?p=p0885http://localhost:4000/adoc?p=p0885* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPP.Nehemiah_Smith.adoc[Nehemiah Smith (1673 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPPM.Lydia_Winchester.adoc[Lydia Winchester (1647 - 1723)]
-* gen11.MMMPPPMPPMP.Alexander_Winchester_(?_-_1647)
+* gen11.MMMPPPMPPMP.Alexander_Winchester_(? - 1647)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,31 +61,31 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPP.Nehemiah_Smith.adoc[Nehemiah Smith (1673 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPPM.Lydia_Winchester.adoc[Lydia Winchester (1647 - 1723)]
-* gen11.MMMPPPMPPMP.Alexander_Winchester_(?_-_1647)
+* gen11.MMMPPPMPPMP.Alexander_Winchester_(? - 1647)
 
 
 == Other
 emigration:  arr Boston in the ship Defense, 3 Oct., 1635
-----
+<p>
 2 DATE 1635
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 7 DEC 1636
 2 PLAC Boston, Suffolk, Massachusetts, USA
-----
+</p>
  _ELEC of Winchester, Alexander - Representative from Braintree
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1641
-----
+</p>
  _ELEC of Winchester, Alexander - Selectman of Rehoboth
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1647
-----
+</p>
 
 notes: Came over in the train of Sir Henry Vane, Governor of Massachusetts BayColony.
 

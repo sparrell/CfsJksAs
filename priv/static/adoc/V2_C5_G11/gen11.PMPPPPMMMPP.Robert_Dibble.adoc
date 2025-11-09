@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPMMMPP.Robert_Dibble.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0410[Dev-web]
-* http://localhost:4000/person?p=p0410[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0410[Adoc-web]
-* adoc?p=p0410[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0410http://localhost:4000/person?p=p0410https://cfsjksas.gigalixirapp.com/adoc?p=p0410http://localhost:4000/adoc?p=p0410* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Robert_Dibble_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,30 +51,30 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMM.Joanna_Gibbs.adoc[Joanna Gibbs (1671 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMMM.Hepzibah_Dibble.adoc[Hepzibah Dibble (1641 - 1698)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMMMP.Thomas_Dibble.adoc[Thomas Dibble (1613 - 1700)]
-* gen11.PMPPPPMMMPP.Robert_Dibble_(1589_-_1640)
+* gen11.PMPPPPMMMPP.Robert_Dibble_(1589 - 1640)
 
 
 == Other
 emigration:  Weymouth England aboard "Recovery"
-----
+<p>
 2 DATE 31 MAR 1635
 2 AGE About 45-46
-----
+</p>
 
 event: 
-----
+<p>
 2 TYPE Freeman
 2 DATE 6 MAY 1637
 2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
 2 AGE About 47-48
-----
+</p>
  Grant of land at Dorchester
-----
+<p>
 2 TYPE PROP
 2 DATE 17 DEC 1635
 2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
 2 AGE About 45-46
-----
+</p>
 
 
 == Sources

@@ -46,7 +46,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0086http://localhost:4000/person?p=p
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
-* gen3.PMM.Alice_Virginia_Edgecomb_(1850_-_1914)
+* gen3.PMM.Alice_Virginia_Edgecomb_(1850 - 1914)
 
 
 == Other

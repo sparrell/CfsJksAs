@@ -33,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPPPPPP.Richard_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0587[Dev-web]
-* http://localhost:4000/person?p=p0587[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0587[Adoc-web]
-* adoc?p=p0587[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0587http://localhost:4000/person?p=p0587https://cfsjksas.gigalixirapp.com/adoc?p=p0587http://localhost:4000/adoc?p=p0587* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Richard_Kimball_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,7 +51,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPP.John_Kimball.adoc[John Kimball (1621 - 1698)]
-* gen11.MMMMPPPPPPP.Richard_Kimball_(1595_-_1675)
+* gen11.MMMMPPPPPPP.Richard_Kimball_(1595 - 1675)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,28 +65,28 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPP.John_Kimball.adoc[John Kimball (1668 - 1761)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPPP.John_Kimball.adoc[John Kimball (1621 - 1698)]
-* gen11.MMMMPPPPPPP.Richard_Kimball_(1595_-_1675)
+* gen11.MMMMPPPPPPP.Richard_Kimball_(1595 - 1675)
 
 
 == Other
 event: 
-----
+<p>
 2 TYPE Fact 2
 2 DATE FEB 1637
 2 PLAC Ipswich, Essex, Massachusetts, USA
 2 AGE About 41-42
-----
+</p>
 
-----
+<p>
 2 TYPE Freeman
 2 DATE 1635
 2 PLAC Watertown, Massachusetts, USA
 2 AGE About 39-40
-----
+</p>
  See Notes
-----
+<p>
 2 TYPE Fact 1
-----
+</p>
 
 notes: Richard Kimball sailed from Ipswich, Essex, England on April 30, 1634 aboard the "Elizabeth" bound for New England after taking the Oath of allegiance and supremacy at His Majesty's Custom House. He was acompaniedby his wife, Ursala and children Mary(9), Martha(5), John (3) and Thomas (1). <p></p> <p>Also on the ship were his brother-in-law, Thomas Scott, and his family.Richard settled in that part of Watertown, MA which later became Cambridge while his brother-in-law settled in Ipswich MA. Richard was made a freeman in 1635 and a proprietor in 1637. Shortly after this, the town of Ipswich made him an attractive offrer to move to Ipswich as the community needed a wheelwright. The offer consisted of a house lot, forty acres of farmland and the freedom to cut all the white oak needed for his trade. His brother-in-law, Thomas, who lived in Ipswich probably was responsible for the offer being made.
 

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 28 FEB 1641
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Death: 23 JUL 1681
+
 * Deathplace: Ipswich, Essex, Massachusetts, USA
+
 * Age at Death: 40
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPPPMM.Sarah_Whipple.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0583[Dev-web]
-* https://localhost:4000/person?p=p0583[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0583[Adoc-web]
-* https://localhost:4000/adoc?p=p0583[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0583http://localhost:4000/person?p=p0583https://cfsjksas.gigalixirapp.com/adoc?p=p0583http://localhost:4000/adoc?p=p0583* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sarah_Whipple_%283%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
-* gen10.MMMMPPPPMM.Sarah_Whipple_(1641_-_1681)
+* gen10.MMMMPPPPMM.Sarah_Whipple_(1641 - 1681)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,15 +60,17 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPP.Moses_Kimball.adoc[Moses Kimball (1741 - 1835)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Jacob Kimball (1706 - 1788)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPPPM.Sarah_Goodhue.adoc[Sarah Goodhue (1670 - ?)]
-* gen10.MMMMPPPPMM.Sarah_Whipple_(1641_-_1681)
+* gen10.MMMMPPPPMM.Sarah_Whipple_(1641 - 1681)
 
 
 == Other
 event:  See Notes
-----
+<p>
 2 TYPE Misc
-----
+</p>
 
 notes: She died suddenly July 23, 1681, (as she presaged she would) three days after she delivered twins, leaving 10 surviving children.
 
+
 == Sources
+

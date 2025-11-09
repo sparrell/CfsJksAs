@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: DEC 1609
+
 * Birthplace: Harrold, Bedfordshire, England, UK
+
 * Deathplace: Massachusetts, USA
+
 
 
 == Ship
@@ -27,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPPMPPMMMMM.Mary_Blott.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0649[Dev-web]
-* https://localhost:4000/person?p=p0649[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0649[Adoc-web]
-* https://localhost:4000/adoc?p=p0649[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0649http://localhost:4000/person?p=p0649https://cfsjksas.gigalixirapp.com/adoc?p=p0649http://localhost:4000/adoc?p=p0649* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Blott_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMM.Mary_Bridgman.adoc[Mary Bridgman (1672 - 1741)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMMM.Mary_Sheldon.adoc[Mary Sheldon (1654 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMMMM.Mary_Woodford.adoc[Mary Woodford (1638 - 1684)]
-* gen12.PMPPMPPMMMMM.Mary_Blott_(1609_-_?)
+* gen12.PMPPMPPMMMMM.Mary_Blott_(1609 - ?)
 
 
 == Other
 
 == Sources
+
