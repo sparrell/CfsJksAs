@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 15 NOV 1720
+
 * Birthplace: Hopkinton, Middlesex, MA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPMM.Ann_Jones.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0142[Dev-web]
-* https://localhost:4000/person?p=p0142[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0142[Adoc-web]
-* https://localhost:4000/adoc?p=p0142[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0142http://localhost:4000/person?p=p0142https://cfsjksas.gigalixirapp.com/adoc?p=p0142http://localhost:4000/adoc?p=p0142* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anne_Jones_%2837%29[WeRelate]
 * WikiTree TBD
@@ -45,18 +44,19 @@ Narrative TBD
 
 == Other
 event:  170
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  170
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnn_Jones_%2859%29:
-----
+</p>
 
 
 == Sources
+

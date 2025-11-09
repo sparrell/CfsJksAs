@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 18 APR 1729
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 14 JAN 1813
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 83
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPM.Dorothy_Smith.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0829[Dev-web]
-* https://localhost:4000/person?p=p0829[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0829[Adoc-web]
-* https://localhost:4000/adoc?p=p0829[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0829http://localhost:4000/person?p=p0829https://cfsjksas.gigalixirapp.com/adoc?p=p0829http://localhost:4000/adoc?p=p0829* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Dorothy_Smith_%2823%29[WeRelate]
 * WikiTree TBD
@@ -63,3 +65,4 @@ Narrative TBD
 == Other
 
 == Sources
+

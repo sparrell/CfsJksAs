@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 23 APR 1746
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: AFT 1810
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 63-64
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0207[Dev-web]
-* https://localhost:4000/person?p=p0207[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0207[Adoc-web]
-* https://localhost:4000/adoc?p=p0207[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0207http://localhost:4000/person?p=p0207https://cfsjksas.gigalixirapp.com/adoc?p=p0207http://localhost:4000/adoc?p=p0207* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ruth_Vinal_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,4 +50,6 @@ Narrative TBD
 == Other
 education:  She was illiterate
 
+
 == Sources
+

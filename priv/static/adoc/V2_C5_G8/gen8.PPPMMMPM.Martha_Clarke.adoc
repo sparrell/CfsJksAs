@@ -7,18 +7,25 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Willard
+
 * Birth: 26 MAY 1693
+
 * Birthplace: Milford, New Haven Co, Connecticut
+
 * Death: 3 JUN 1794
+
 * Deathplace: Grafton, Worcester County, Massachusetts, United States
+
 * Buried: 
-----
+<p>
 2 DATE AFT 3 JUN 1794
 2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States
-----
+</p>
 
 * Age at Death: 101
+
 
 
 == Family
@@ -31,11 +38,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1274[Dev-web]
-* https://localhost:4000/person?p=p1274[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1274[Adoc-web]
-* https://localhost:4000/adoc?p=p1274[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1274http://localhost:4000/person?p=p1274https://cfsjksas.gigalixirapp.com/adoc?p=p1274http://localhost:4000/adoc?p=p1274* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Martha_Clarke_%2821%29[WeRelate]
 * WikiTree TBD
@@ -57,7 +60,7 @@ Narrative TBD
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: May 26 1693 - Milford, New Haven Co, Connecticut,&amp;lt;br&amp;gt;Marriage: Spouse: Joseph Willard, Sr. - July 5 1
@@ -68,15 +71,16 @@ Narrative TBD
 4 CONC ard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &l
 4 CONC t;a&gt;Sarah Drury (born Clark)&lt;/a&gt;, &lt;a&gt;Jonathan Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Mary Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark&lt;/a&gt;, &lt;a&gt;Rebecca Stow Stone (born Clark)&l
 4 CONC t;/a&gt;, &lt;a&gt;Mercy Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Isaac Clarke&lt;/a&gt;, &lt;a&gt;Jonathan Clark&lt;/a&gt;
-----
+</p>
 
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1693 - Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts
 4 CONC &amp;lt;br&amp;gt;Death: June 3 1794 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Mother: Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Husband: 
 4 CONC Major Joseph Willard&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac WillardJosiah WillardSarah Brooks (born Willard)Mary WillardJoseph WillardSimon WillardSolomo
 4 CONC n WillardPhebe WillardBenjamin Willard&amp;lt;br&amp;gt;Siblings: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMatthias Clark
-----
+</p>
+
 

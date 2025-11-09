@@ -10,7 +10,7 @@ defmodule Cfsjksas.Tools.Print do
     :ok = File.write(filename, outtext)
   end
 
-  def print_person(person) do
+  defp print_person(person) do
     # print raw person struct, but do keys alphabetically
 
     # convert from struct to map so can access dynamically
@@ -19,14 +19,11 @@ defmodule Cfsjksas.Tools.Print do
     keys = Enum.sort(Map.keys(person_map))
     print_person("", keys, person_map)
   end
-  def print_person(text, [], _person) do
+  defp print_person(text, [], _person) do
     # list done so return final text
     text
   end
-  def print_person(text, [this | rest], person) do
-# following is what was there
-#    new = text <> "\t\t\t" <> inspect(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
-
+  defp print_person(text, [this | rest], person) do
     # print this key added to previous text
     ## recurse the print if list or map
     text_to_add = cond do
@@ -55,8 +52,6 @@ defmodule Cfsjksas.Tools.Print do
     end
 
     print_person(text_to_add, rest, person)
-
-    #print_person(new, rest, person)
   end
 
   def format_ancestor_map(ancestors_in) do
@@ -133,6 +128,54 @@ defmodule Cfsjksas.Tools.Print do
     |> person_m_print(person, rest_keys)
   end
 
+  def relations_print(relations) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/relations_ex.txt")
 
+    # sort the keys
+    id_r_s = Map.keys(relations)
+    |> Enum.sort(fn left, right -> compare_relations(left, right) end)
+    # format the text
+    outtext = relations_print("%{\n", relations, id_r_s)
+    <> "}\n"
+
+    # write the file
+    write_file(outtext, filepath)
+
+  end
+
+  defp relations_print(prev_text, _relations, []) do
+    # done
+    prev_text
+  end
+  defp relations_print(prev_text, relations, [this | rest]) do
+    prev_text <> "\t" <> inspect(relations[this]) <> ",\n"
+    |> relations_print(relations, rest)
+  end
+
+  defp compare_relations(a, b) do
+    la = length(a)
+    lb = length(b)
+    cond do
+      la < lb -> true
+      la > lb -> false
+      true -> lex_compare(a, b)
+    end
+  end
+
+  defp lex_compare([], []), do: false
+  defp lex_compare([h1 | t1], [h2 | t2]) do
+    case {h1,h2} do
+      {"P", "P"} ->
+        lex_compare(t1, t2)
+      {"P", "M"} ->
+        true
+      {"M", "P"} ->
+        false
+      {"M", "M"} ->
+        lex_compare(t1, t2)
+      {_,_} ->
+        IEx.pry()
+    end
+  end
 
 end

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Paine
+
 * Birth: 1741
+
 * Birthplace: Canterbury Conn
+
 * Death: 9 DEC 1775
+
 * Age at Death: 33-34
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMM.Martha_Holdridge.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1257[Dev-web]
-* https://localhost:4000/person?p=p1257[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1257[Adoc-web]
-* https://localhost:4000/adoc?p=p1257[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1257http://localhost:4000/person?p=p1257https://cfsjksas.gigalixirapp.com/adoc?p=p1257http://localhost:4000/adoc?p=p1257* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,11 +49,12 @@ Narrative TBD
 
 == Sources
 * @S51@
-----
+<p>
 2 PAGE Martha Paine (born Holdridge)
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

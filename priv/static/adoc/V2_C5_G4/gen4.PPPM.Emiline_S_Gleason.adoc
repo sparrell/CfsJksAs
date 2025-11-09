@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 3 NOV 1825
+
 * Birthplace: Worcester, Worcester, Massachusetts, USA
+
 * Death: 27 FEB 1908
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 82
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0329[Dev-web]
-* https://localhost:4000/person?p=p0329[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0329[Adoc-web]
-* https://localhost:4000/adoc?p=p0329[Adoc-local]
-* https://www.geni.com/people/Emiline-Sparrell/6000000007500421270[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0329http://localhost:4000/person?p=p0329https://cfsjksas.gigalixirapp.com/adoc?p=p0329http://localhost:4000/adoc?p=p0329* https://www.geni.com/people/Emiline-Sparrell/6000000007500421270[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000575/emiline-s-gleason-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Emiline_Gleason_%281%29[WeRelate]
 * WikiTree TBD
@@ -49,21 +51,21 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC Scituate, Plymouth, Massachusetts, USA
 2 AGE 34
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEmiline_Gleason_%281%29:
-----
+</p>
 
 
 == Sources
 * @S43@
-----
+<p>
 2 PAGE https://www.myheritage.com/research/record-30033-1259108-S/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
 2 QUAY 4
 2 DATA
@@ -79,5 +81,6 @@ residence:
 4 CONC GS Film number: 1428256
 4 CONC Digital Folder Number: 4279728
 4 CONC Image Number: 00797
-----
+</p>
+
 

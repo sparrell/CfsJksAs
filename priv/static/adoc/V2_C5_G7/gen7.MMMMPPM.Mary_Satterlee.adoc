@@ -7,15 +7,21 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 27 APR 1746
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Death: 25 SEP 1809
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 63
 
 
+
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMM.Mary_Powers.adoc[Mary Powers (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMM.Mary_Powers.adoc[Mary Powers (? - 1785)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0813[Dev-web]
-* https://localhost:4000/person?p=p0813[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0813[Adoc-web]
-* https://localhost:4000/adoc?p=p0813[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0813http://localhost:4000/person?p=p0813https://cfsjksas.gigalixirapp.com/adoc?p=p0813http://localhost:4000/adoc?p=p0813* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Satterlee_%284%29[WeRelate]
 * WikiTree TBD
@@ -58,3 +60,4 @@ Narrative TBD
 == Other
 
 == Sources
+

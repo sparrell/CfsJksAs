@@ -17,9 +17,9 @@ Narrative TBD
 * Deathplace: Hampton, Connecticut, USA
 
 * Buried: 2 DATE 15 DEC 1915
-----
+<p>
 2 PLAC Groveland Cemetery, Dedham, Norfolk, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 61
 
@@ -37,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0073[Dev-web]
-* http://localhost:4000/person?p=p0073[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0073[Adoc-web]
-* adoc?p=p0073[Adoc-local]
-* https://www.geni.com/people/Albert-Fisher/6000000219136528890[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0073http://localhost:4000/person?p=p0073https://cfsjksas.gigalixirapp.com/adoc?p=p0073http://localhost:4000/adoc?p=p0073* https://www.geni.com/people/Albert-Fisher/6000000219136528890[Geni]
 * https://www.myheritage.com/profile-20674952-23000287/albert-amory-fisk-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Albert_Fisher_%2810%29[WeRelate]
 * WikiTree TBD
@@ -55,37 +51,37 @@ Narrative TBD
 
 == Other
 census: 2 DATE 1880
-----
+<p>
 2 PLAC Dedham, Norfolk, Massachusetts, USA
 2 AGE 25-26
-----
+</p>
 
 event:  Pneumonia
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
  _MEDICAL of Fisher, Albert Amory Fisk
-----
+<p>
 2 TYPE _MEDICAL
-----
+</p>
 
 notes: Albert Fisher enrolled at Harvard College, but did not graduate. His father thought he was going to college and kept giving him money antil he caught on.</p> <p>&nbsp;</p> <p>In 1904 Albert was a successful broker in Boston. He was 49 years old with a wife, Adele, and two daughters. Albert and Adele lived in Dedham.</p> <p>&nbsp;</p> <p>Ida Hurlburt was his 20 year old secretary. she lived in Dorchester with her parents, two sisters and a brother. Her father worked for the railroad.</p> <p>&nbsp;</p> <p>Early in 1906, Ida discovered she was pregnant by Alfred. One night sheclimbed out through her bedroom window and she and Albert ran off to Mexico. Albert got a quicky divorce in Mexico. Albert and Ida were then married in Texas (Fort Worth?).</p> <p>&nbsp;</p> <p>They then came back as far as New York City, where Albert set up as a broker and their daughter Marion was born. He apparently did well enough, because they lived in an apartment on Central Park West and had a summmer place in Hampton CT. They had a maid because Marion remembers thatthe maid and her boyfriend locked her in a closet and stole her mother's jewelry and other small valuables.</p> <p>&nbsp;</p> <p>Albert was a heavy drinker. After he retired and they moved to Hampton permanently, his drinking problem got worse. He came home drunk one December night and Ida had the door locked. She told him to go sleep in thebarn with the horses. He developed pneumonia and died.</p>
 
 occupation: Commission Merchant (US Census)
-----
+<p>
 2 DATE 1880
 2 AGE 25-26
-----
+</p>
 Farmer
-----
+<p>
 2 DATE 1910
 2 AGE 55-56
-----
+</p>
 Flour Merchant - Boston
-----
+<p>
 2 DATE 1900
 2 AGE 45-46
-----
+</p>
 
 
 == Sources

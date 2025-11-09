@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1721
+
 * Death: 1801
+
 * Deathplace: Roxbury, Litchfield, Connecticut, USA
+
 * Age at Death: 79-80
+
 
 
 == Family
@@ -21,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPMM.Mary_Unknown084.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0769[Dev-web]
-* https://localhost:4000/person?p=p0769[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0769[Adoc-web]
-* https://localhost:4000/adoc?p=p0769[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0769http://localhost:4000/person?p=p0769https://cfsjksas.gigalixirapp.com/adoc?p=p0769http://localhost:4000/adoc?p=p0769* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%288518%29[WeRelate]
 * WikiTree TBD
@@ -44,13 +45,14 @@ Narrative TBD
 
 == Other
 event:  759
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  760
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

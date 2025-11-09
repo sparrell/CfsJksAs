@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Zufelt
+
 * Birth: 5 MAR 1769
+
 * Birthplace: New York, British Colonial America
+
 * Death: 25 AUG 1852
+
 * Deathplace: East Franklin, Franklin, Franklin, Vermont
+
 * Age at Death: 83
+
 
 
 == Family
@@ -25,11 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPMM.Elisabeth_Maul.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1300[Dev-web]
-* https://localhost:4000/person?p=p1300[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1300[Adoc-web]
-* https://localhost:4000/adoc?p=p1300[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1300http://localhost:4000/person?p=p1300https://cfsjksas.gigalixirapp.com/adoc?p=p1300http://localhost:4000/adoc?p=p1300* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elisabeth_Maul_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,3 +51,4 @@ Narrative TBD
 == Other
 
 == Sources
+

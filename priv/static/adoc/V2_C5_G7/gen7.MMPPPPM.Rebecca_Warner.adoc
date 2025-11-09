@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 12 DEC 1715
+
 * Birthplace: Waterbury, New Haven, Connecticut, USA
+
 * Death: AFT 23 DEC 1767
+
 * Age at Death: About 52
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0113[Dev-web]
-* https://localhost:4000/person?p=p0113[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0113[Adoc-web]
-* https://localhost:4000/adoc?p=p0113[Adoc-local]
-* https://www.geni.com/people/Rebecca-Warner-Hurlburt-Bronson/6000000008260580002[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0113http://localhost:4000/person?p=p0113https://cfsjksas.gigalixirapp.com/adoc?p=p0113http://localhost:4000/adoc?p=p0113* https://www.geni.com/people/Rebecca-Warner-Hurlburt-Bronson/6000000008260580002[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000345/rebecca-booth-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Rebecca_Warner_%284%29[WeRelate]
 * WikiTree TBD
@@ -47,3 +48,4 @@ Narrative TBD
 == Other
 
 == Sources
+

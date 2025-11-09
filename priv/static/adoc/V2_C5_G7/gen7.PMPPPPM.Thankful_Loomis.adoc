@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 5 MAY 1709
+
 * Birthplace: Windsor, Hartford, Connecticut, USA
+
 * Death: 21 MAY 1771
+
 * Deathplace: Bolton, Tolland, Connecticut, USA
+
 * Age at Death: 62
+
 * Death Cause: "Dropsie"
+
 
 
 == Family
@@ -25,11 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0197[Dev-web]
-* https://localhost:4000/person?p=p0197[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0197[Adoc-web]
-* https://localhost:4000/adoc?p=p0197[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0197http://localhost:4000/person?p=p0197https://cfsjksas.gigalixirapp.com/adoc?p=p0197http://localhost:4000/adoc?p=p0197* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thankful_Loomis_%284%29[WeRelate]
 * WikiTree TBD
@@ -48,9 +51,10 @@ Narrative TBD
 
 == Other
 event:  "Dropsie"
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 
 == Sources
+

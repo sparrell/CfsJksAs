@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 29 MAY 1692
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: 26 FEB 1756
+
 * Deathplace: Montville, New London, Connecticut, USA
+
 * Age at Death: 63
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0082[Dev-web]
-* https://localhost:4000/person?p=p0082[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0082[Adoc-web]
-* https://localhost:4000/adoc?p=p0082[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0082http://localhost:4000/person?p=p0082https://cfsjksas.gigalixirapp.com/adoc?p=p0082http://localhost:4000/adoc?p=p0082* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sampson_Haughton_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,13 +49,14 @@ Narrative TBD
 
 == Other
 event:  126
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  126
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

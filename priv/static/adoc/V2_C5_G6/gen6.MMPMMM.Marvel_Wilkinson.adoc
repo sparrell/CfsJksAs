@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 11 MAY 1771
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 18 AUG 1851
+
 * Deathplace: Plainfield, Windham, Connecticut, USA
+
 * Age at Death: 80
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMMM.Marvel_Wilkinson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0778[Dev-web]
-* https://localhost:4000/person?p=p0778[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0778[Adoc-web]
-* https://localhost:4000/adoc?p=p0778[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0778http://localhost:4000/person?p=p0778https://cfsjksas.gigalixirapp.com/adoc?p=p0778http://localhost:4000/adoc?p=p0778* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Marvel_Wilkinson_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,13 +48,14 @@ Narrative TBD
 
 == Other
 event:  767
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  768
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

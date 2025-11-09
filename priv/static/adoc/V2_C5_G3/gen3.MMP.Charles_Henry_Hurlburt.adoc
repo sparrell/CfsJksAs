@@ -17,10 +17,10 @@ Narrative TBD
 * Deathplace: Uncasville, New London, Connecticut, USA
 
 * Buried: 
-----
+<p>
 2 DATE 1930
 2 PLAC Cedar Grove Cemetery, New London, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 80-81
 
@@ -36,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0071[Dev-web]
-* http://localhost:4000/person?p=p0071[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0071[Adoc-web]
-* adoc?p=p0071[Adoc-local]
-* https://www.geni.com/people/Charles-Hurlburt/6000000219179990217[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0071http://localhost:4000/person?p=p0071https://cfsjksas.gigalixirapp.com/adoc?p=p0071http://localhost:4000/adoc?p=p0071* https://www.geni.com/people/Charles-Hurlburt/6000000219179990217[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000285/charles-henry-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Hurlburt_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,50 +51,50 @@ Narrative TBD
 
 == Other
 census:  RR Agent
-----
+<p>
 2 DATE 1900
 2 PLAC Boston, Suffolk, Massachusetts, USA
 2 AGE 50-51
-----
+</p>
  RR Agent Boston - Residence Dorchester
-----
+<p>
 2 DATE 1910
 2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
 2 AGE 60-61
-----
+</p>
  US Census listed under parents in Oxford MA
-----
+<p>
 2 DATE 1850
 2 PLAC Oxford, Worcester, Massachusetts, USA
 2 AGE 0-1
-----
+</p>
 
 notes: <p>The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in1886.</p> <p>&nbsp;</p> <p>It appears that he started out working for the Worcester and Norwich RRbefore 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired.</p> <p>&nbsp;</p> <p>In 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>
 
 occupation: Clerk R.R. Office -
-----
+<p>
 2 DATE 1870
 2 PLAC Uncasville, New London, Connecticut, USA
 2 AGE 20-21
-----
+</p>
 Clerk, Freight House, W&N RR
-----
+<p>
 2 DATE 1873
 2 PLAC Worcester, Worcester, Massachusetts, USA
 2 AGE 23-24
-----
+</p>
 Clerk, W&N RR
-----
+<p>
 2 DATE 1874
 2 PLAC Worcester, Worcester, Massachusetts, USA
 2 AGE 24-25
-----
+</p>
 RR Agent
-----
+<p>
 2 DATE 1876
 2 PLAC Rochester, Strafford, New Hampshire, USA
 2 AGE 26-27
-----
+</p>
 
 
 == Sources

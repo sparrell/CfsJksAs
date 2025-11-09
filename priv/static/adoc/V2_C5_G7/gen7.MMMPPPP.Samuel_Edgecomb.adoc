@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 MAR 1730
+
 * Birthplace: Norwich, New London, Connecticut, USA
+
 * Death: 14 AUG 1795
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 65
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0830[Dev-web]
-* https://localhost:4000/person?p=p0830[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0830[Adoc-web]
-* https://localhost:4000/adoc?p=p0830[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0830http://localhost:4000/person?p=p0830https://cfsjksas.gigalixirapp.com/adoc?p=p0830http://localhost:4000/adoc?p=p0830* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Samuel_Edgecomb_%283%29[WeRelate]
 * WikiTree TBD
@@ -62,6 +64,9 @@ Narrative TBD
 
 == Other
 occupation: Cabinetmaker, farmer
+
 ordained: Deacon
 
+
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 26 AUG 1714
+
 * Birthplace: Woodbury, Litchfield, Connecticut, USA
+
 * Death: 3 AUG 1763
+
 * Deathplace: Roxbury, Litchfield, Connecticut, USA
+
 * Age at Death: 48
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0112[Dev-web]
-* https://localhost:4000/person?p=p0112[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0112[Adoc-web]
-* https://localhost:4000/adoc?p=p0112[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0112http://localhost:4000/person?p=p0112https://cfsjksas.gigalixirapp.com/adoc?p=p0112http://localhost:4000/adoc?p=p0112* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Moses_Hurlbut_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,3 +50,4 @@ Narrative TBD
 == Other
 
 == Sources
+

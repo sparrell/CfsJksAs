@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1751
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: BEF 1801
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 49-50
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0376[Dev-web]
-* https://localhost:4000/person?p=p0376[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0376[Adoc-web]
-* https://localhost:4000/adoc?p=p0376[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0376http://localhost:4000/person?p=p0376https://cfsjksas.gigalixirapp.com/adoc?p=p0376http://localhost:4000/adoc?p=p0376* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Barrell_%282%29[WeRelate]
 * WikiTree TBD
@@ -46,10 +48,12 @@ Narrative TBD
 
 == Other
 event:  Revolution (see notes)
-----
+<p>
 2 TYPE Military Service
-----
+</p>
 
 notes: James Barrell, Jr. , Capt. Nathaniel Winslow's Company, General John Thomas Regt. Order for a bounty coat or its equivalent in money, Dated atcamp at Roxbury, 18 Dec 1775. <p></p> <p>James Barrell, Jr., Col. Benjamin Tucker's 10th Massachusetts Regiment,17 Mar 1781 to 1 Jan 1782</p> <p>6 months as Private, 3 months as corporal.  Also, 1 Jan 1782 to 1 Jan 1783.  In Nov 1782 regiment was stationed at Verplank's Point across from Stony Point on the east side of the Hudson River where the Tappen Zeenarrows below West Point. 10th Regt. disbanded at Verplank's 1 Jan 1783. Reported serving in 5th Mass. Regt. in Feb 1783. 5th Regiment disbanded at West Point 15 Nov 1783
 
+
 == Sources
+

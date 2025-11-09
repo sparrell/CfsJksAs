@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 25 OCT 1761
+
 * Birthplace: Rhinebeck, Dutchess, New York, United States
+
 * Death: 12 FEB 1851
+
 * Deathplace: East Franklin, Franklin, Franklin, Vermont
+
 * Age at Death: 89
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPMP.Georg_Zufelt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1299[Dev-web]
-* https://localhost:4000/person?p=p1299[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1299[Adoc-web]
-* https://localhost:4000/adoc?p=p1299[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1299http://localhost:4000/person?p=p1299https://cfsjksas.gigalixirapp.com/adoc?p=p1299http://localhost:4000/adoc?p=p1299* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Georg_Zufelt_%283%29[WeRelate]
 * WikiTree TBD
@@ -45,3 +47,4 @@ Narrative TBD
 == Other
 
 == Sources
+

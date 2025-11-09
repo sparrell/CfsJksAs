@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 29 MAY 1774
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 19 OCT 1852
+
 * Deathplace: Plainfield, Windham, Connecticut, USA
+
 * Age at Death: 78
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0122[Dev-web]
-* https://localhost:4000/person?p=p0122[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0122[Adoc-web]
-* https://localhost:4000/adoc?p=p0122[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0122http://localhost:4000/person?p=p0122https://cfsjksas.gigalixirapp.com/adoc?p=p0122http://localhost:4000/adoc?p=p0122* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mahala_Phillips_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,4 +49,6 @@ Narrative TBD
 == Other
 notes: Her second husband, Dixwell Lathrop was reported living in Preston in 1800 and in Griswold in 1820 (US Census)
 
+
 == Sources
+

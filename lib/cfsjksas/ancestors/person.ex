@@ -20,11 +20,12 @@ defmodule Cfsjksas.Ancestors.Person do
 
   require IEx
 
+  def get_name(nil) do
+    IO.inspect(Process.info(self(), :current_stacktrace))
+    IO.inspect("nil person in get name")
+    raise "get_name of nil person"
+  end
   def get_name(person) do
-    if person == nil do
-      IEx.pry()
-    end
-
     given = case person.given_name do
       nil ->
         "Unknown"
@@ -40,6 +41,11 @@ defmodule Cfsjksas.Ancestors.Person do
     given <> " " <> surname
   end
 
+  def get_name_dates(nil) do
+    IO.inspect(Process.info(self(), :current_stacktrace))
+    IO.inspect("nil person in get_name_dates")
+    raise "get_name_dates of nil person"
+  end
   def get_name_dates(person) do
     name = get_name(person)
     birth = case person.birth_year do

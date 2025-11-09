@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 31 JAN 1818
+
 * Birthplace: Bolton, Tolland, Connecticut, USA
+
 * Death: BEF 20 JUL 1870
+
 * Deathplace: Montville, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: About 52
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev-web]
-* https://localhost:4000/person?p=p0106[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0106[Adoc-web]
-* https://localhost:4000/adoc?p=p0106[Adoc-local]
-* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0106http://localhost:4000/person?p=p0106https://cfsjksas.gigalixirapp.com/adoc?p=p0106http://localhost:4000/adoc?p=p0106* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
 * WikiTree TBD
@@ -49,23 +51,25 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1850
 2 PLAC Montville, New London, Connecticut, USA
 2 AGE 31-32
-----
+</p>
 
-----
+<p>
 2 DATE 1860
 2 PLAC The Town Of Montville, New London, Connecticut, USA
 2 AGE 41-42
-----
+</p>
 
 occupation: Factory Worker (Census)
-----
+<p>
 2 DATE 1860
 2 AGE 41-42
-----
+</p>
 Farmer and Joiner
 
+
 == Sources
+

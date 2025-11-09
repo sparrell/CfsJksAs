@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Family
 * Mother: brickwall
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPMP.Israel_Packard.adoc[Israel Packard (1645 - 1680)]
@@ -18,11 +19,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPM.Abigail_Packard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0386[Dev-web]
-* https://localhost:4000/person?p=p0386[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0386[Adoc-web]
-* https://localhost:4000/adoc?p=p0386[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0386http://localhost:4000/person?p=p0386https://cfsjksas.gigalixirapp.com/adoc?p=p0386http://localhost:4000/adoc?p=p0386* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Packard_%286%29[WeRelate]
 * WikiTree TBD
@@ -42,3 +39,4 @@ Narrative TBD
 == Other
 
 == Sources
+

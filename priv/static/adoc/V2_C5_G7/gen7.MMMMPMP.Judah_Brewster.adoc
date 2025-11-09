@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 15 JAN 1749
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMP.Judah_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0706[Dev-web]
-* https://localhost:4000/person?p=p0706[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0706[Adoc-web]
-* https://localhost:4000/adoc?p=p0706[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0706http://localhost:4000/person?p=p0706https://cfsjksas.gigalixirapp.com/adoc?p=p0706http://localhost:4000/adoc?p=p0706* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Judah_Brewster_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,11 +55,12 @@ Narrative TBD
 
 == Other
 event:  Collector of Taxes
-----
+<p>
 2 TYPE Appointed
 2 DATE 1786
 2 AGE 36-37
-----
+</p>
 
 
 == Sources
+

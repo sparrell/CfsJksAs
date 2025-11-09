@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 6 OCT 1771
+
 * Birthplace: Worcester, Worcester, Massachusetts, USA
+
 
 
 == Family
@@ -21,14 +24,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0137[Dev-web]
-* https://localhost:4000/person?p=p0137[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0137[Adoc-web]
-* https://localhost:4000/adoc?p=p0137[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0137http://localhost:4000/person?p=p0137https://cfsjksas.gigalixirapp.com/adoc?p=p0137http://localhost:4000/adoc?p=p0137* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Betsy_Willard_%281%29[WeRelate]
 * WikiTree TBD
+* https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978[willard:]
 
 == Relations
 === Lineage #1
@@ -42,19 +42,11 @@ Narrative TBD
 
 
 == Other
-event:  166
-----
-2 TYPE Reference Number
-----
- 166
-----
-2 TYPE Reference Number
-----
-
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ABetsy_Willard_%281%29:
-----
+</p>
 
 
 == Sources
+

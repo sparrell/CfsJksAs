@@ -29,6 +29,11 @@ defmodule Cfsjksas.Tools.Link do
   def book_link(id_a) do
     # make filename and label and create link
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
+    if person_a == nil do
+      IO.inspect(Process.info(self(), :current_stacktrace))
+      IO.inspect(id_a, label: "book_link id_a is nil person")
+      raise "book_link id_a=#{id_a} is nil person"
+    end
 
     link_label = "[" <> Cfsjksas.Ancestors.Person.get_name_dates(person_a) <> "]"
     book_link(id_a, link_label)

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 9 AUG 1731
+
 * Birthplace: Hopkinton, Middlesex, Massachusetts, USA
+
 * Death: 18 OCT 1822
+
 * Deathplace: Hopkinton, Middlesex, Massachusetts, USA
+
 * Age at Death: 91
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0138[Dev-web]
-* https://localhost:4000/person?p=p0138[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0138[Adoc-web]
-* https://localhost:4000/adoc?p=p0138[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0138http://localhost:4000/person?p=p0138https://cfsjksas.gigalixirapp.com/adoc?p=p0138http://localhost:4000/adoc?p=p0138* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Pelitiah_Bixby_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,9 +49,10 @@ Narrative TBD
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3APelitiah_Bixby_%281%29:
-----
+</p>
 
 
 == Sources
+

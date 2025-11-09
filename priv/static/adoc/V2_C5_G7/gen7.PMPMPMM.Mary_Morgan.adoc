@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1731
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMM.Mary_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0088[Dev-web]
-* https://localhost:4000/person?p=p0088[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0088[Adoc-web]
-* https://localhost:4000/adoc?p=p0088[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0088http://localhost:4000/person?p=p0088https://cfsjksas.gigalixirapp.com/adoc?p=p0088http://localhost:4000/adoc?p=p0088* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Morgan_%28113%29[WeRelate]
 * WikiTree TBD
@@ -44,13 +43,14 @@ Narrative TBD
 
 == Other
 event:  131
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  131
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

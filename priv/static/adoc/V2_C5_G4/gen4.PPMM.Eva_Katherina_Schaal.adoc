@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 13 NOV 1828
+
 * Birthplace: Wertheim, Stadt, Baden-Wurttemberg, Germany
+
 * Death: 1902
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Age at Death: 73-74
+
 
 
 == Ship
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0153[Dev-web]
-* https://localhost:4000/person?p=p0153[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0153[Adoc-web]
-* https://localhost:4000/adoc?p=p0153[Adoc-local]
-* https://www.geni.com/people/Catharine-Kerber/6000000019834512933[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0153http://localhost:4000/person?p=p0153https://cfsjksas.gigalixirapp.com/adoc?p=p0153http://localhost:4000/adoc?p=p0153* https://www.geni.com/people/Catharine-Kerber/6000000019834512933[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber[MyHeritage]
 * https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29[WeRelate]
 * WikiTree TBD
@@ -49,36 +51,38 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
 2 AGE 31-32
-----
+</p>
 
 emigration: 
-----
+<p>
 2 DATE 1848
 2 AGE 19-20
-----
+</p>
 
 naturalized: 
-----
+<p>
 2 DATE 1851
 2 AGE 22-23
-----
+</p>
 
 notes: <p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.</p></p><p><p>&nbsp;</p></p><p>Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>
+
 occupation: Landlady in Worcester (US Census)
-----
+<p>
 2 DATE 1900
 2 PLAC Worcester, Worcester, Massachusetts, USA
 2 AGE 71-72
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEva_Schaal_%281%29:
-----
+</p>
 
 
 == Sources
+

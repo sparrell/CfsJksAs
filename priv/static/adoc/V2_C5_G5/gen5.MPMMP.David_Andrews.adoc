@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 23 MAY 1736
+
 * Birthplace: Taunton, Bristol, Massachusetts, USA
+
 * Death: OCT 1815
+
 * Deathplace: Paris, Oxford, Maine, USA
+
 * Buried:  Buried Forbes District Cemetery, Paris Hill
-----
+<p>
 2 PLAC Buried Forbes District Cemetery, Paris Hill, Buried Forbes District Cemetery, Paris Hill, Forbes District Cemetery, Paris, Oxford, Maine, USA
-----
+</p>
 
 * Age at Death: 79
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.David_Andrews.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0492[Dev-web]
-* https://localhost:4000/person?p=p0492[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0492[Adoc-web]
-* https://localhost:4000/adoc?p=p0492[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0492http://localhost:4000/person?p=p0492https://cfsjksas.gigalixirapp.com/adoc?p=p0492http://localhost:4000/adoc?p=p0492* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:David_Andrews_%2824%29[WeRelate]
 * WikiTree TBD
@@ -51,3 +53,4 @@ Narrative TBD
 == Other
 
 == Sources
+

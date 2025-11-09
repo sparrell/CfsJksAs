@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 20 JUL 1740
+
 * Birthplace: New York, British Colonial America
+
 * Death: 19 MAY 1821
+
 * Deathplace: Saint-Armand, Brome-Missisquoi, Quebec, Canada
+
 * Age at Death: 80
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPMMP.Frederich_Maul.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1301[Dev-web]
-* https://localhost:4000/person?p=p1301[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1301[Adoc-web]
-* https://localhost:4000/adoc?p=p1301[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1301http://localhost:4000/person?p=p1301https://cfsjksas.gigalixirapp.com/adoc?p=p1301http://localhost:4000/adoc?p=p1301* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,3 +48,4 @@ Narrative TBD
 == Other
 
 == Sources
+

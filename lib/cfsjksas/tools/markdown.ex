@@ -406,7 +406,7 @@ defmodule Cfsjksas.Tools.Markdown do
 			[] ->
 				"\n"
 			_ ->
-				"\n----\n" <> List.first(t) <> "\n----\n"
+				"\n<p>\n" <> List.first(t) <> "\n</p>\n"
 		end
 	end
 
@@ -454,15 +454,15 @@ defmodule Cfsjksas.Tools.Markdown do
 		cond do
 			is_binary(marked_lineages[id_l].id) -> true
 				# string not atom (eg "father of ...") so skip
-IO.inspect("skipping since id is string")
+#IO.inspect("skipping since id is string")
 				:skip
 			marked_lineages[id_l].duplicate == :redundant ->
 				# skip since redundant
-IO.inspect("skipping since redundant")
+#IO.inspect("skipping since redundant")
 				:skip
 			marked_lineages[id_l].duplicate == :branch ->
 				# skip since redundant
-IO.inspect("skipping since branch")
+#IO.inspect("skipping since branch")
 				:skip
 			marked_lineages[id_l].duplicate == :main ->
 				# passed checks

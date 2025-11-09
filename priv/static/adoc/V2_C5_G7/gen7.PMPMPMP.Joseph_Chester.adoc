@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 MAR 1731
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 4 AUG 1804
+
 * Deathplace: Montville, New London, Connecticut, USA
+
 * Age at Death: 73
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0087[Dev-web]
-* https://localhost:4000/person?p=p0087[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0087[Adoc-web]
-* https://localhost:4000/adoc?p=p0087[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0087http://localhost:4000/person?p=p0087https://cfsjksas.gigalixirapp.com/adoc?p=p0087http://localhost:4000/adoc?p=p0087* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Chester_%284%29[WeRelate]
 * WikiTree TBD
@@ -47,13 +49,16 @@ Narrative TBD
 
 == Other
 event:  _ELEC of Chester, Joseph - Lower House - Representative for Montville
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1791
 2 AGE 59-60
-----
+</p>
 
 occupation: Farmer
+
 ordained: Deacon
 
+
 == Sources
+

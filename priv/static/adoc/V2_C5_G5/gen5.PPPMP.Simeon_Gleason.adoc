@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1795
+
 * Birthplace: Worcester, Worcester, Massachusetts, USA
+
 * Death: 22 MAR 1839
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Age at Death: 43-44
+
 * Death Cause: Consumption
+
 
 
 == Family
@@ -24,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMP.Simeon_Gleason.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0134[Dev-web]
-* https://localhost:4000/person?p=p0134[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0134[Adoc-web]
-* https://localhost:4000/adoc?p=p0134[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0134http://localhost:4000/person?p=p0134https://cfsjksas.gigalixirapp.com/adoc?p=p0134http://localhost:4000/adoc?p=p0134* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Simeon_Gleason_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,15 +48,17 @@ Narrative TBD
 
 == Other
 event:  Consumption
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 notes: In 1833, he signed a receipt for his father's army veterans pension.
+
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASimeon_Gleason_%282%29:
-----
+</p>
 
 
 == Sources
+

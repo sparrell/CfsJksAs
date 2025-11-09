@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 6 FEB 1813
+
 * Birthplace: Montville, New London, Connecticut, USA
+
 * Death: AFT 20 JUL 1870
+
 * Deathplace: Montville, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: About 57
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0119[Dev-web]
-* https://localhost:4000/person?p=p0119[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0119[Adoc-web]
-* https://localhost:4000/adoc?p=p0119[Adoc-local]
-* https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0119http://localhost:4000/person?p=p0119https://cfsjksas.gigalixirapp.com/adoc?p=p0119http://localhost:4000/adoc?p=p0119* https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29[WeRelate]
 * WikiTree TBD
@@ -49,28 +51,29 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1850
 2 PLAC Montville, New London, Connecticut, USA
 2 AGE 36-37
-----
+</p>
 
-----
+<p>
 2 DATE 1860
 2 PLAC The Town Of Montville, New London, Connecticut, USA
 2 AGE 46-47
-----
+</p>
 
 notes: <p>The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker.</p> <p>&nbsp;</p> <p>The 187
-----
+<p>
 2 CONC 0 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.</p>
-----
+</p>
 
 occupation: Factory Worker
-----
+<p>
 2 DATE 1860
 2 AGE 46-47
-----
+</p>
 
 
 == Sources
+

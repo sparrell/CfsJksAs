@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 30 APR 1776
+
 * Birthplace: Sharon, Norfolk, Massachusetts, USA
+
 * Death: 8 JUL 1820
+
 * Deathplace: Bolton, Worcester, Massachusetts, USA
+
 * Age at Death: 44
+
 
 
 == Family
@@ -22,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPP.Jacob_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0247[Dev-web]
-* https://localhost:4000/person?p=p0247[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0247[Adoc-web]
-* https://localhost:4000/adoc?p=p0247[Adoc-local]
-* https://www.geni.com/people/Jacob-Fisher/6000000219179990065[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0247http://localhost:4000/person?p=p0247https://cfsjksas.gigalixirapp.com/adoc?p=p0247http://localhost:4000/adoc?p=p0247* https://www.geni.com/people/Jacob-Fisher/6000000219179990065[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000482/jacob-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Jacob_Fisher_%2818%29[WeRelate]
 * WikiTree TBD
@@ -43,3 +45,4 @@ Narrative TBD
 == Other
 
 == Sources
+

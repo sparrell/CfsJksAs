@@ -25,7 +25,6 @@ defmodule Cfsjksas.Tools.Relation do
 
   def make_lineages() do
     IO.inspect("remember to remove dedup once complete")
-    IO.inspect("need to finish circle_mod outer gens")
     ids = Cfsjksas.Ancestors.GetAncestors.all_ids()
     # initialize lineages with 15 generations
     lineages = init_gen(%{}, Enum.to_list(0..15))
@@ -555,14 +554,14 @@ defmodule Cfsjksas.Tools.Relation do
     # start with empty map
     # for each entry in marked_lineages,
     ## make a new entry with relation as key
-    ## and id_m and id_a as values
+    ## and id_m, id_a, id_r as values
 
 
     Enum.reduce(marked_lineages, %{}, fn {top_key, inner_map}, acc ->
       rel_val = Map.get(inner_map, :relation)
       ida_val = Map.get(inner_map, :id)
 
-      Map.put(acc, rel_val, %{id_m: top_key, id_a: ida_val})
+      Map.put(acc, rel_val, %{id_a: ida_val, id_m: top_key, id_r: rel_val})
     end)
 
 

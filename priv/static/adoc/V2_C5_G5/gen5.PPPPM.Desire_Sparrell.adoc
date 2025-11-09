@@ -7,18 +7,26 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Sparrell
+
 * Birth: 6 OCT 1798
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: 6 JAN 1872
+
 * Deathplace: South Scituate, Plymouth, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 73
+
 * Death Cause: "Paralysis"; Stroke?
+
 
 
 == Family
@@ -31,11 +39,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0364[Dev-web]
-* https://localhost:4000/person?p=p0364[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0364[Adoc-web]
-* https://localhost:4000/adoc?p=p0364[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0364http://localhost:4000/person?p=p0364https://cfsjksas.gigalixirapp.com/adoc?p=p0364http://localhost:4000/adoc?p=p0364* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Desire_Barrell_%281%29[WeRelate]
 * WikiTree TBD
@@ -52,14 +56,14 @@ Narrative TBD
 
 == Other
 event:  "Paralysis"; Stroke?
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 
 == Sources
 * @S43@
-----
+<p>
 2 PAGE https://www.myheritage.com/research/record-30033-1259108-M/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
 2 QUAY 4
 2 DATA
@@ -75,5 +79,6 @@ event:  "Paralysis"; Stroke?
 4 CONC GS Film number: 1428256
 4 CONC Digital Folder Number: 4279728
 4 CONC Image Number: 00797
-----
+</p>
+
 

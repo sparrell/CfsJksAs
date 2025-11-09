@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birthplace: Boston, Suffolk, Massachusetts, USA
+
 
 
 == Family
@@ -18,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPPM.Ann_Pierce.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0248[Dev-web]
-* https://localhost:4000/person?p=p0248[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0248[Adoc-web]
-* https://localhost:4000/adoc?p=p0248[Adoc-local]
-* https://www.geni.com/people/Ann-Pierce/6000000219179990075[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0248http://localhost:4000/person?p=p0248https://cfsjksas.gigalixirapp.com/adoc?p=p0248http://localhost:4000/adoc?p=p0248* https://www.geni.com/people/Ann-Pierce/6000000219179990075[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000483/ann-pierce-fisher[MyHeritage]
 * https://www.werelate.org/wiki/Person:Ann_Pierce_%2813%29[WeRelate]
 * WikiTree TBD
@@ -38,13 +36,14 @@ Narrative TBD
 
 == Other
 event:  267
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  267
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

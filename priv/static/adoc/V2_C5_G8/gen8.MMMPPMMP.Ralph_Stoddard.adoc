@@ -7,16 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 31 MAY 1697
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 26 AUG 1744
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 47
+
 * Death Cause: Sunstroke
 
 
+
 == Family
-* Mother: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPM.Mary_Ames.adoc[Mary Ames (1661 - 1727/8)]
+
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPP.Ralph_Stoddard.adoc[Ralph Stoddard (1666 - 1749)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
@@ -24,12 +32,8 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMP.Ralph_Stoddard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0896[Dev-web]
-* https://localhost:4000/person?p=p0896[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0896[Adoc-web]
-* https://localhost:4000/adoc?p=p0896[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0896http://localhost:4000/person?p=p0896https://cfsjksas.gigalixirapp.com/adoc?p=p0896http://localhost:4000/adoc?p=p0896* https://www.geni.com/people/Ralph-Stoddard-Sr/6000000008868838094[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001159/ralph-stoddard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Ralph_Stoddard_%281%29[WeRelate]
 * WikiTree TBD
 
@@ -59,9 +63,10 @@ Narrative TBD
 
 == Other
 event:  Sunstroke
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 
 == Sources
+

@@ -7,17 +7,24 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 27 NOV 1904
+
 * Birthplace: New York, New York, New York, USA
+
 * Death: 17 DEC 2002
+
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 98
+
 * Death Cause: Chronic Pulmonary Disease/ Dementia
+
 
 
 == Family
@@ -29,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0074[Dev-web]
-* https://localhost:4000/person?p=p0074[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0074[Adoc-web]
-* https://localhost:4000/adoc?p=p0074[Adoc-local]
-* https://www.geni.com/people/Marion-Sparrell/6000000007522238879[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0074http://localhost:4000/person?p=p0074https://cfsjksas.gigalixirapp.com/adoc?p=p0074http://localhost:4000/adoc?p=p0074* https://www.geni.com/people/Marion-Sparrell/6000000007522238879[Geni]
 * https://www.myheritage.com/profile-20674952-23000288/marion-f-fisher-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Marion_Fisher_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,37 +49,39 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1940
 2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
 2 AGE 35-36
-----
+</p>
 
 education:  B.A., Rhode Island College of Education
-----
+<p>
 2 DATE ABT 1960
 2 AGE About 55-56
-----
+</p>
  Willimantic Normal School (now E.C.U.)
-----
+<p>
 2 DATE 1926
 2 AGE 21-22
-----
+</p>
 
 event:  Chronic Pulmonary Disease/ Dementia
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 notes: Birth recorded in New York City as "Helene", name changed by father to "Marion".
+
 occupation: Primary School Teacher
+
 residence: 
-----
+<p>
 2 DATE 1935
 2 AGE 30-31
 2 ADDR
 3 ADR2 W Kingston, Wash, Rhode Island
-----
+</p>
 
 
 == Sources

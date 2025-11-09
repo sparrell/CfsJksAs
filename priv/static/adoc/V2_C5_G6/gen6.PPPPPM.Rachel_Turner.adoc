@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 18 APR 1776
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: 25 MAY 1866
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 90
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0551[Dev-web]
-* https://localhost:4000/person?p=p0551[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0551[Adoc-web]
-* https://localhost:4000/adoc?p=p0551[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0551http://localhost:4000/person?p=p0551https://cfsjksas.gigalixirapp.com/adoc?p=p0551http://localhost:4000/adoc?p=p0551* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rachel_Turner_%2810%29[WeRelate]
 * WikiTree TBD
@@ -51,10 +53,12 @@ Narrative TBD
 
 == Other
 event:  Buried Norwell Center Cemetery
-----
+<p>
 2 TYPE Fact 7
-----
+</p>
 
 notes: Preferred to be called "Betsy"
 
+
 == Sources
+

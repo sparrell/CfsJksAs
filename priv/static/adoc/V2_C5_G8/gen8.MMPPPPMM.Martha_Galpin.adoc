@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: MAR 1685
+
 * Birthplace: Woodbury, Litchfield, Connecticut, USA
+
 * Death: 1745
+
 * Age at Death: 59-60
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPMM.Martha_Galpin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0647[Dev-web]
-* https://localhost:4000/person?p=p0647[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0647[Adoc-web]
-* https://localhost:4000/adoc?p=p0647[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0647http://localhost:4000/person?p=p0647https://cfsjksas.gigalixirapp.com/adoc?p=p0647http://localhost:4000/adoc?p=p0647* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Martha_Galpin_%281%29[WeRelate]
 * WikiTree TBD
@@ -48,3 +49,4 @@ Narrative TBD
 == Other
 
 == Sources
+

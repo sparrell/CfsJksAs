@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 31 DEC 1823
+
 * Birthplace: Underhill, Chittenden, Vermont, USA
+
 * Death: 2 AUG 1886
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Age at Death: 62
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0094[Dev-web]
-* https://localhost:4000/person?p=p0094[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0094[Adoc-web]
-* https://localhost:4000/adoc?p=p0094[Adoc-local]
-* https://www.geni.com/people/Charles-Hurlburt/6000000219179990253[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0094http://localhost:4000/person?p=p0094https://cfsjksas.gigalixirapp.com/adoc?p=p0094http://localhost:4000/adoc?p=p0094* https://www.geni.com/people/Charles-Hurlburt/6000000219179990253[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000318/charles-s-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Hurlburt_%282%29[WeRelate]
 * WikiTree TBD
@@ -44,12 +46,14 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1850
 2 PLAC Oxford, Worcester, Massachusetts, USA
 2 AGE 26-27
-----
+</p>
 
 notes: <p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railroad when he met his wife, Esther in Griswold which is on the line, as is Oxford.</p> <p>&nbsp;</p> <p>The N&amp;W was acquired by the New Haven RR in 1889 after his death.</p> <p>&nbsp;</p> <p>Montville, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?</p>
 
+
 == Sources
+

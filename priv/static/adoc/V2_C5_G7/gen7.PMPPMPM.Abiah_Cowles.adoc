@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 27 OCT 1722
+
 * Death: 9 FEB 1796
+
 * Deathplace: Belchertown, Hampshire, Massachusetts, USA
+
 * Age at Death: 73
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPM.Abiah_Cowles.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0603[Dev-web]
-* https://localhost:4000/person?p=p0603[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0603[Adoc-web]
-* https://localhost:4000/adoc?p=p0603[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0603http://localhost:4000/person?p=p0603https://cfsjksas.gigalixirapp.com/adoc?p=p0603http://localhost:4000/adoc?p=p0603* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abiah_Cowles_%282%29[WeRelate]
 * WikiTree TBD
@@ -47,3 +48,4 @@ Narrative TBD
 == Other
 
 == Sources
+

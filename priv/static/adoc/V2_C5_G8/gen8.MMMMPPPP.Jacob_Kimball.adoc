@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 12 OCT 1706
+
 * Birthplace: Ipswich, Essex, Massachusetts, USA
+
 * Death: 4 MAY 1788
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 81
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPPP.Jacob_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0824[Dev-web]
-* https://localhost:4000/person?p=p0824[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0824[Adoc-web]
-* https://localhost:4000/adoc?p=p0824[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0824http://localhost:4000/person?p=p0824https://cfsjksas.gigalixirapp.com/adoc?p=p0824http://localhost:4000/adoc?p=p0824* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jacob_Kimball_%282%29[WeRelate]
 * WikiTree TBD
@@ -59,13 +61,14 @@ Narrative TBD
 
 == Other
 event:  81
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  81
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

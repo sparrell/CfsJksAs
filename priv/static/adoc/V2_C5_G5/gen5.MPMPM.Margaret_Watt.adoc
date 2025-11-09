@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Gray
+
 * Birth: 19 FEB 1739
+
 * Birthplace: Worcester, Worcester County, MA
+
 * Death: 7 SEP 1796
+
 * Deathplace: Worcester, Worcester County, MA
+
 * Age at Death: 57
+
 
 
 == Family
@@ -24,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPM.Margaret_Watt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0448[Dev-web]
-* https://localhost:4000/person?p=p0448[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0448[Adoc-web]
-* https://localhost:4000/adoc?p=p0448[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0448http://localhost:4000/person?p=p0448https://cfsjksas.gigalixirapp.com/adoc?p=p0448http://localhost:4000/adoc?p=p0448* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Watt_%2830%29[WeRelate]
 * WikiTree TBD
@@ -46,3 +49,4 @@ Narrative TBD
 == Other
 
 == Sources
+

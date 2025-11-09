@@ -17,10 +17,10 @@ Narrative TBD
 * Deathplace: Worcester, Worcester, Massachusetts, USA
 
 * Buried: 
-----
+<p>
 2 DATE 1914
 2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 63-64
 
@@ -36,11 +36,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0086[Dev-web]
-* http://localhost:4000/person?p=p0086[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0086[Adoc-web]
-* adoc?p=p0086[Adoc-local]
-* https://www.geni.com/people/Alice-Edgecomb/6000000007698827296[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0086http://localhost:4000/person?p=p0086https://cfsjksas.gigalixirapp.com/adoc?p=p0086http://localhost:4000/adoc?p=p0086* https://www.geni.com/people/Alice-Edgecomb/6000000007698827296[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000301/alice-virginia-edgecomb-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Alice_Edgecomb_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,19 +51,19 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC The City Of N. London, New London, Connecticut, USA
 2 AGE 9-10
-----
+</p>
 
 notes: Alice and her future husband Albert Strong both worked in a cotton millin Montville CT in 1870 (US Census).
 
 occupation: Cotton Mill - Montville -US Census
-----
+<p>
 2 DATE 1870
 2 AGE 19-20
-----
+</p>
 
 
 == Sources

@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 9 MAY 1830
+
 * Birthplace: Uncasville, New London, Connecticut, USA
+
 * Death: MAY 1909
+
 * Deathplace: Uncasville, New London, Connecticut, USA
+
 * Buried:  Buried beside John Babcock
-----
+<p>
 2 PLAC Buried beside John Babcock, Buried beside John Babcock, Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 78-79
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0639[Dev-web]
-* https://localhost:4000/person?p=p0639[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0639[Adoc-web]
-* https://localhost:4000/adoc?p=p0639[Adoc-local]
-* https://www.geni.com/people/Sarah-Kimball/6000000219179990399[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0639http://localhost:4000/person?p=p0639https://cfsjksas.gigalixirapp.com/adoc?p=p0639http://localhost:4000/adoc?p=p0639* https://www.geni.com/people/Sarah-Kimball/6000000219179990399[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000897/sarah-lavinia-kimball-edgecomb[MyHeritage]
 * https://www.werelate.org/wiki/Person:Sarah_Kimball_%2818%29[WeRelate]
 * WikiTree TBD
@@ -56,16 +58,16 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC The City Of N. London, New London, Connecticut, USA
 2 AGE 29-30
-----
+</p>
 
 
 == Sources
 * @S32@
-----
+<p>
 2 PAGE http://www.myheritage.com/research/collection-10127/1860-united-states-federal-census?s=20674952&itemId=1580050-&groupId=19dc1a4abc2b569c25cc10b8434b06b3&action=showRecord&indId=individual-20674952-15001060
 2 QUAY 4
 2 DATA
@@ -78,5 +80,6 @@ census:
 4 CONC ed); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580052-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Martha Edgecombe</a>; 6<br 
 4 CONC />Son (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George T Edgeco
 4 CONC mbe</a>; 3</p>
-----
+</p>
+
 

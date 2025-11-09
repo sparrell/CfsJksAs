@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 27 MAY 1692
+
 * Birthplace: Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial America
+
 * Death: 18 OCT 1774
+
 * Deathplace: Grafton, Worcester, Massachusetts Bay Colony, British Colonial America
+
 * Buried: 
-----
+<p>
 2 DATE 1774
 2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusets, United States
-----
+</p>
 
 * Age at Death: 82
+
 
 
 == Family
@@ -30,14 +36,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPP.Major_Joseph_Willard,_Sr..adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1273[Dev-web]
-* https://localhost:4000/person?p=p1273[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1273[Adoc-web]
-* https://localhost:4000/adoc?p=p1273[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1273http://localhost:4000/person?p=p1273https://cfsjksas.gigalixirapp.com/adoc?p=p1273http://localhost:4000/adoc?p=p1273* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_WIllard_%281%29[WeRelate]
 * WikiTree TBD
+* https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978[willard:]
 
 == Relations
 === Lineage #1
@@ -56,7 +59,7 @@ Narrative TBD
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Joseph Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massaschussets, United States&amp;lt;br&amp;gt;Marriage: Spouse: Martha Willard (born Clarke
@@ -67,10 +70,10 @@ Narrative TBD
 4 CONC h Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&
 4 CONC amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Howe (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Hannah Brigham (born Willard)&lt;/a&gt;, &l
 4 CONC t;a&gt;Benjamin Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;
-----
+</p>
 
 * @S111@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Joseph Willard&amp;lt;br&amp;gt;Also known as: Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1693 - Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial A
@@ -81,15 +84,16 @@ Narrative TBD
 4 CONC ;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Soloman 
 4 CONC Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Willard&lt;/a&gt;, &lt;a&gt;Esther Bogle (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard
 4 CONC &lt;/a&gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Hannah Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;
-----
+</p>
 
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts&
 4 CONC amp;lt;br&amp;gt;Death: Oct 18 1744 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Captain Benjamin Willard&amp;lt;br&amp;gt;Mother: Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Wife: Mar
 4 CONC tha Willard (born Clarke)&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac WillardJosiah WillardSarah Brooks (born Willard)Mary WillardJoseph WillardSimon WillardS
 4 CONC olomon WillardPhebe WillardBenjamin Willard&amp;lt;br&amp;gt;Siblings: Margaret Howe (born Willard)Simeon Simon WillardSarah Pratt (born Willard)Esther WillardHannah Brigham (born Willard)
-----
+</p>
+
 

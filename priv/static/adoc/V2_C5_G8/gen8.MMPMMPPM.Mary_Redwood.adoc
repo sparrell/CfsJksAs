@@ -9,6 +9,7 @@ Narrative TBD
 * Sex: F
 
 
+
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMMPPMM.Mehetable_Langford.adoc[Mehetable Langford (1678/1685 - 1715)]
 
@@ -19,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMMPPM.Mary_Redwood.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0008[Dev-web]
-* https://localhost:4000/person?p=p0008[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0008[Adoc-web]
-* https://localhost:4000/adoc?p=p0008[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0008http://localhost:4000/person?p=p0008https://cfsjksas.gigalixirapp.com/adoc?p=p0008http://localhost:4000/adoc?p=p0008* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -44,3 +41,4 @@ Narrative TBD
 == Other
 
 == Sources
+

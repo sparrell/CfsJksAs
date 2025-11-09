@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 3 AUG 1719
+
 * Birthplace: Norwich, New London, Connecticut, USA
+
 * Death: 17 DEC 1770
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Age at Death: 51
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMMP.John_Whiting.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0206[Dev-web]
-* https://localhost:4000/person?p=p0206[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0206[Adoc-web]
-* https://localhost:4000/adoc?p=p0206[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0206http://localhost:4000/person?p=p0206https://cfsjksas.gigalixirapp.com/adoc?p=p0206http://localhost:4000/adoc?p=p0206* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Whiting_%2826%29[WeRelate]
 * WikiTree TBD
@@ -47,9 +49,10 @@ Narrative TBD
 
 == Other
 event:  Colonel
-----
+<p>
 2 TYPE Military Service
-----
+</p>
 
 
 == Sources
+

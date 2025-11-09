@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 5 APR 1798
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 22 AUG 1879
+
 * Deathplace: Uncasville, New London, Connecticut, USA
+
 * Buried:  Buried Comstock Cemetery, Uncasville CT
-----
+<p>
 2 PLAC Buried Comstock Cemetery, Uncasville CT, Buried Comstock Cemetery, Uncasville CT, Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 81
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0661[Dev-web]
-* https://localhost:4000/person?p=p0661[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0661[Adoc-web]
-* https://localhost:4000/adoc?p=p0661[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0661http://localhost:4000/person?p=p0661https://cfsjksas.gigalixirapp.com/adoc?p=p0661http://localhost:4000/adoc?p=p0661* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Erastus_Kimball_%281%29[WeRelate]
 * WikiTree TBD
@@ -58,30 +60,31 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC The Town Of Montville, New London, Connecticut, USA
 2 AGE 61-62
-----
+</p>
 
 notes: <p>Uncasville is a village in the town of Montville CT.</p><p><p></p></p><p>An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to apply to Erastus B. Kimball in Preston.</p>
+
 occupation: Blacksmith in Montville (US Census)
-----
+<p>
 2 DATE 1860
 2 PLAC Montville, New London, Connecticut, USA
 2 AGE 61-62
-----
+</p>
 Blacksmith in Preston
-----
+<p>
 2 DATE 1822
 2 PLAC Preston, New London, Connecticut, USA
 2 AGE 23-24
-----
+</p>
 
 
 == Sources
 * @S32@
-----
+<p>
 2 PAGE https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census
 2 QUAY 4
 2 DATA
@@ -96,5 +99,6 @@ Blacksmith in Preston
 4 CONC Relation to head; Name; Age
 4 CONC Head (implied); <a href="https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census?s=20674952">Erastus B Kimball</a>; 63
 4 CONC Wife (implied); <a href="https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census?s=20674952">Lydia Kimball</a>; 58
-----
+</p>
+
 

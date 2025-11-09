@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 29 AUG 1706
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Death: 20 FEB 1798
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 91
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0810[Dev-web]
-* https://localhost:4000/person?p=p0810[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0810[Adoc-web]
-* https://localhost:4000/adoc?p=p0810[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0810http://localhost:4000/person?p=p0810https://cfsjksas.gigalixirapp.com/adoc?p=p0810http://localhost:4000/adoc?p=p0810* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Denison_%2829%29[WeRelate]
 * WikiTree TBD
@@ -60,3 +62,4 @@ Narrative TBD
 == Other
 
 == Sources
+

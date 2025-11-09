@@ -7,17 +7,23 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 15 APR 1724
+
 * Birthplace: Grafton, Worcester, Massaschussets, United States
+
 * Death: 26 DEC 1805
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 DATE JAN 1806
 2 PLAC Hope Cemetery, Worcester, Worcester County, Massachusetts, United States
-----
+</p>
 
 * Age at Death: 81
+
 
 
 == Family
@@ -30,14 +36,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1271[Dev-web]
-* https://localhost:4000/person?p=p1271[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1271[Adoc-web]
-* https://localhost:4000/adoc?p=p1271[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1271http://localhost:4000/person?p=p1271https://cfsjksas.gigalixirapp.com/adoc?p=p1271http://localhost:4000/adoc?p=p1271* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001643/lieut-issac-willard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Isaac_Willard_%281%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Willard-554[WikiTree]
+* https://willardfamilyassociation.org/2ndsite/g0/p66.htm#i1978[willard:]
 
 == Relations
 === Lineage #1
@@ -53,23 +56,23 @@ Narrative TBD
 
 == Other
 event:  Lieutenant
-----
+<p>
 2 TYPE Military Service
 2 SOUR @S60@
 3 QUAY 0
 3 DATA
 4 TEXT tombstone
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AIsaac_Willard_%281%29:
-----
+</p>
 
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Isaac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Massaschussets, United States&amp;lt;br&amp;gt;Occupation: Blacksmith&amp;lt;br&amp;gt;Marriage: S
@@ -81,22 +84,23 @@ residence:
 4 CONC t;a&gt;Lucretia (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Wil
 4 CONC lard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&g
 4 CONC t;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;
-----
+</p>
 
 * @S112@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Lieut. Issac Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 15 1724 - Grafton, Worcester, Province of Massachusetts Bay&amp;lt;br&amp;gt;Marriage: Dec 29 1746 - Massachusetts&amp;lt
 4 CONC ;br&amp;gt;Death: Dec 26 1805 - Worcester, Worcester, Massachusetts, United States&amp;lt;br&amp;gt;Father: Major Joseph Willard&amp;lt;br&amp;gt;Mother: Martha Willard (born Clarke)&amp;lt;br&amp;gt;
 4 CONC Wife: Sarah Willard (born Whipple)&amp;lt;br&amp;gt;Child: Solomon Willard&amp;lt;br&amp;gt;Siblings: Hannah Newton (born Willard Roberts, Robbards)Josiah WillardSarah Brooks (born Willard)Mary Willar
 4 CONC dJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard
-----
+</p>
 
 * @S60@
-----
+<p>
 2 QUAY 0
 2 DATA
 3 TEXT <p>Cemetery Headstone: In Memory of </p><p> Lieut. Isaac Willard </p><p> who died </p><p> Dec. 26, 1805, </p> Æ. 80
-----
+</p>
+
 

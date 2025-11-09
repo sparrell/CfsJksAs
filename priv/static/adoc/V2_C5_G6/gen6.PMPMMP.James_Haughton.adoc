@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 29 APR 1719
+
 * Birthplace: New London, New London, Connecticut, USA
+
 * Death: AFT JUN 1804
+
 * Deathplace: Montville, New London, Connecticut, USA
+
 * Age at Death: About 85
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0080[Dev-web]
-* https://localhost:4000/person?p=p0080[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0080[Adoc-web]
-* https://localhost:4000/adoc?p=p0080[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0080http://localhost:4000/person?p=p0080https://cfsjksas.gigalixirapp.com/adoc?p=p0080http://localhost:4000/adoc?p=p0080* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Haughton_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,13 +48,16 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 4 AUG 1800
 2 PLAC Montville, New London, Connecticut, USA
 2 AGE 81
-----
+</p>
 
 notes: <p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>
+
 occupation: Tavern Keeper, Montville CT
 
+
 == Sources
+

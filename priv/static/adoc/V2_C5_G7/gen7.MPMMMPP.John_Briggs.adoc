@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 13 FEB 1673
+
 * Birthplace: Taunton, Bristol, Massachusetts, USA
+
 * Death: 18 MAR 1764
+
 * Deathplace: Berkley, Bristol, Massachusetts, USA
+
 * Age at Death: 91
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.John_Briggs.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0388[Dev-web]
-* https://localhost:4000/person?p=p0388[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0388[Adoc-web]
-* https://localhost:4000/adoc?p=p0388[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0388http://localhost:4000/person?p=p0388https://cfsjksas.gigalixirapp.com/adoc?p=p0388http://localhost:4000/adoc?p=p0388* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Briggs_%2865%29[WeRelate]
 * WikiTree TBD
@@ -47,13 +49,15 @@ Narrative TBD
 
 == Other
 event:  Taunton Militia Company
-----
+<p>
 2 TYPE Military Service
 2 DATE 1700
 2 PLAC Taunton, Bristol, Massachusetts, USA
 2 AGE 26-27
-----
+</p>
 
 notes: Taunton was set off from Plymouth and incorporated in 1639. <p>Dighton was set off from Taunton  and incorporated in 1712.</p> <p>Berkley was incorporated in 1735 from parts of Dighton and Taunton.</p>
 
+
 == Sources
+

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 28 MAR 1683
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: ABT 1752
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 68-69
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0420[Dev-web]
-* https://localhost:4000/person?p=p0420[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0420[Adoc-web]
-* https://localhost:4000/adoc?p=p0420[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0420http://localhost:4000/person?p=p0420https://cfsjksas.gigalixirapp.com/adoc?p=p0420http://localhost:4000/adoc?p=p0420* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Barrell_%282%29[WeRelate]
 * WikiTree TBD
@@ -49,3 +51,4 @@ Narrative TBD
 == Other
 
 == Sources
+

@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 27 AUG 1826
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 31 MAR 1862
+
 * Deathplace: New London, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Cedar Grove Cemetery, New London, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: 35
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0628[Dev-web]
-* https://localhost:4000/person?p=p0628[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0628[Adoc-web]
-* https://localhost:4000/adoc?p=p0628[Adoc-local]
-* https://www.geni.com/people/George-Edgecomb/6000000219179990385[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0628http://localhost:4000/person?p=p0628https://cfsjksas.gigalixirapp.com/adoc?p=p0628http://localhost:4000/adoc?p=p0628* https://www.geni.com/people/George-Edgecomb/6000000219179990385[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000886/george-washington-edgecomb[MyHeritage]
 * https://www.werelate.org/wiki/Person:George_Edgecomb_%281%29[WeRelate]
 * WikiTree TBD
@@ -56,17 +58,18 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC The City Of N. London, New London, Connecticut, USA
 2 AGE 33-34
-----
+</p>
 
 occupation: Carpenter
 
+
 == Sources
 * @S32@
-----
+<p>
 2 PAGE http://www.myheritage.com/research/collection-10127/1860-united-states-federal-census?s=20674952&itemId=1580049-&groupId=19dc1a4abc2b569c25cc10b8434b06b3&action=showRecord&indId=individual-20674952-15001049
 2 QUAY 4
 2 DATA
@@ -79,5 +82,6 @@ occupation: Carpenter
 4 CONC <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580052-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Martha Edgecombe</a>; 6<br />Son
 4 CONC  (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George T Edgecombe</
 4 CONC a>; 3</p>
-----
+</p>
+
 

@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1740
+
 * Birthplace: London, England, UK
+
 * Death: 1773
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: About 32-33
+
 
 
 == Ship
@@ -27,11 +33,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPP.James_Newton_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0540[Dev-web]
-* https://localhost:4000/person?p=p0540[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0540[Adoc-web]
-* https://localhost:4000/adoc?p=p0540[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0540http://localhost:4000/person?p=p0540https://cfsjksas.gigalixirapp.com/adoc?p=p0540http://localhost:4000/adoc?p=p0540* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Sparrell_%284%29[WeRelate]
 * WikiTree TBD
@@ -50,12 +52,12 @@ Narrative TBD
 
 == Other
 event:  See Notes
-----
+<p>
 2 TYPE Fact 4
-----
+</p>
 
 notes: JAMES NEWTON SPARRELL I and RUTH VINAL SPARRELL <p></p> <p>JAMES NEWTON SPARRELL I - Family tradition (in italics):  James came from London. His father was an English mariner and his mother was a Fren
-----
+<p>
 2 CONC ch Huguenot. James and a brother came first to the Carolinas. James met Ruth Vinal on a voyage north, married her and settled in Scituate. James was a short, stocky, man of dark complexion. ( I have s
 2 CONC earched the Church of England Parish Records which generallybegin about 1600 and which have been collected and published by the Mormons. The only records of the Sparrell name occur in the area below t
 2 CONC he Tower of London in what is now known as the Docklands or East End of London. For example, Millicent Sparrell, child of James and Elizabeth Sparrell was christened at St. Mary?s Whitechapel on 21 Ja
@@ -75,8 +77,10 @@ notes: JAMES NEWTON SPARRELL I and RUTH VINAL SPARRELL <p></p> <p>JAMES NEWTON S
 2 CONC ames sold two acres of salt marsh on the Gulph River which she had inherited in the divisionof her father?s estate. Since she signed the deed with an X, she was illiterate which was not unusual for wo
 2 CONC men prior to 1800. <p></p> <p>Ruth and James had three children: Elizabeth (2 September 1767), James Newton (7 April 1770) and (Hannah 18 June 1772). Only James survived to adulthood.</p> <p></p> <p>C
 2 CONC aptain James?s inventory suggests the multitude of tasks that Ruth hadto tend to in addition to the care of three small child
-----
+</p>
 
 title: Captain
 
+
 == Sources
+

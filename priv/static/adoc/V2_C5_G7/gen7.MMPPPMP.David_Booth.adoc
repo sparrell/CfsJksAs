@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1720
+
 * Birthplace: Stratford, Fairfield, Connecticut, USA
+
 * Death: 12 APR 1753
+
 * Deathplace: Woodbury, Litchfield, Connecticut, USA
+
 * Age at Death: About 32-33
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPMP.David_Booth.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0768[Dev-web]
-* https://localhost:4000/person?p=p0768[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0768[Adoc-web]
-* https://localhost:4000/adoc?p=p0768[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0768http://localhost:4000/person?p=p0768https://cfsjksas.gigalixirapp.com/adoc?p=p0768http://localhost:4000/adoc?p=p0768* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:David_Booth_%288%29[WeRelate]
 * WikiTree TBD
@@ -48,3 +50,4 @@ Narrative TBD
 == Other
 
 == Sources
+

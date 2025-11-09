@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: F
+
 * Death: 1788
+
 
 
 == Family
@@ -18,11 +20,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPM.Faith_Unknown113.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0680[Dev-web]
-* https://localhost:4000/person?p=p0680[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0680[Adoc-web]
-* https://localhost:4000/adoc?p=p0680[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0680http://localhost:4000/person?p=p0680https://cfsjksas.gigalixirapp.com/adoc?p=p0680http://localhost:4000/adoc?p=p0680* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Faith_Unknown_%289%29[WeRelate]
 * WikiTree TBD
@@ -41,3 +39,4 @@ Narrative TBD
 == Other
 
 == Sources
+

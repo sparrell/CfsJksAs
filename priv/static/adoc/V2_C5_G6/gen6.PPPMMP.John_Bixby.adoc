@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 17 AUG 1767
+
 * Birthplace: Hopkinton, Middlesex, Massachusetts, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0136[Dev-web]
-* https://localhost:4000/person?p=p0136[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0136[Adoc-web]
-* https://localhost:4000/adoc?p=p0136[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0136http://localhost:4000/person?p=p0136https://cfsjksas.gigalixirapp.com/adoc?p=p0136http://localhost:4000/adoc?p=p0136* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Bixby_%286%29[WeRelate]
 * WikiTree TBD
@@ -43,9 +42,10 @@ Narrative TBD
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Bixby_%286%29:
-----
+</p>
 
 
 == Sources
+

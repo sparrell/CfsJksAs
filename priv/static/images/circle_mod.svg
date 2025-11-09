@@ -4262,7 +4262,7 @@ William Satterlee (1712 - 1752)
 <path id="ray_g8_s243" d="M 22770,23778 L 24677,24382" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g8_s243" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Powers (? - ?)
+Mary Powers (? - 1785)
 </textPath>
 </text>
 <defs>
@@ -6292,18 +6292,6 @@ Anne Avery (1692 - ?)
 <path id="ray_g9_s486" d="M 24656,24448 L 26940,25187" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s486" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_9_487" d="M 27014 24948 A 13600 13600 0 0 1 26965 25107 L 24677 24382 A 11200 11200 0 0 0 24718 24251 L 27014 24948 " />
-<clipPath id="sector_9_487_clip">
-<use href="#sector_9_487"/>
-</clipPath></defs>
-<use href="#sector_9_487" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="50%" clip-path="url(#sector_9_487_clip)"/>
-<path id="ray_g9_s487" d="M 24698,24317 L 26990,25028" />
-<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
-<textPath href="#ray_g9_s487" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
@@ -14676,5 +14664,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-11-02 01:51:42.218602Z -->
+<!-- made new svg at 2025-11-08 21:16:58.590184Z -->
 </svg>

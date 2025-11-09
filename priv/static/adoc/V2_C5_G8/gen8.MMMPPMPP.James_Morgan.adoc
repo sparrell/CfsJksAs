@@ -7,15 +7,21 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1693
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 25 AUG 1770
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Age at Death: 76-77
 
 
+
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPM.Hannah_Cromwell.adoc[Hannah Cromwell (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPM.Hannah_Cromwell.adoc[Hannah Cromwell (~1672 - 1720)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPPP.James_Morgan.adoc[James Morgan (1667 - 1748)]
 
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMPP.James_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0390[Dev-web]
-* https://localhost:4000/person?p=p0390[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0390[Adoc-web]
-* https://localhost:4000/adoc?p=p0390[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0390http://localhost:4000/person?p=p0390https://cfsjksas.gigalixirapp.com/adoc?p=p0390http://localhost:4000/adoc?p=p0390* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Morgan_%28101%29[WeRelate]
 * WikiTree TBD
@@ -70,18 +72,19 @@ Narrative TBD
 
 == Other
 event:  Justice of the Peace for New London County
-----
+<p>
 2 TYPE Appointd
 2 DATE 1735
 2 AGE 41-42
-----
+</p>
  _ELEC of Morgan, James - Representative in Assembly for Groton
-----
+<p>
 2 TYPE _ELEC
 2 DATE 1726
 2 PLAC Groton, Middlesex, Massachusetts, USA
 2 AGE 32-33
-----
+</p>
 
 
 == Sources
+

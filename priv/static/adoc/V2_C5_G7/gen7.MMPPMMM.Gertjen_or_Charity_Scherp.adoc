@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: F
+
 * Married Name: Maul
+
 * Birth: 20 JUL 1740
+
 * Birthplace: New York, British Colonial America
+
 * Death: 19 MAY 1821
+
 * Deathplace: Saint-Armand, Brome-Missisquoi, Quebec, Canada
+
 * Age at Death: 80
+
 
 
 == Family
@@ -23,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPMMM.Gertjen_or_Charity_Scherp.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1302[Dev-web]
-* https://localhost:4000/person?p=p1302[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1302[Adoc-web]
-* https://localhost:4000/adoc?p=p1302[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1302http://localhost:4000/person?p=p1302https://cfsjksas.gigalixirapp.com/adoc?p=p1302http://localhost:4000/adoc?p=p1302* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,3 +50,4 @@ Narrative TBD
 == Other
 
 == Sources
+

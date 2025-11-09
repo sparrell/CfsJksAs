@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1702
+
 * Birthplace: Eastham, Barnstable, Massachusetts, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMM.Content_Howes.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0502[Dev-web]
-* https://localhost:4000/person?p=p0502[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0502[Adoc-web]
-* https://localhost:4000/adoc?p=p0502[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0502http://localhost:4000/person?p=p0502https://cfsjksas.gigalixirapp.com/adoc?p=p0502http://localhost:4000/adoc?p=p0502* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Content_Howes_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,13 +44,14 @@ Narrative TBD
 
 == Other
 event:  513
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  513
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1733
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 10 OCT 1774
+
 * Age at Death: 40-41
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMP.Joshua_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0893[Dev-web]
-* https://localhost:4000/person?p=p0893[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0893[Adoc-web]
-* https://localhost:4000/adoc?p=p0893[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0893http://localhost:4000/person?p=p0893https://cfsjksas.gigalixirapp.com/adoc?p=p0893http://localhost:4000/adoc?p=p0893* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joshua_Morgan_%288%29[WeRelate]
 * WikiTree TBD
@@ -56,13 +57,14 @@ Narrative TBD
 
 == Other
 event:  873
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  888
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 
 == Sources
+

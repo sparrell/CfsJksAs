@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 30 MAR 1696
+
 * Birthplace: Preston, New London, Connecticut, USA
+
 * Death: 20 AUG 1759
+
 * Deathplace: Preston, New London, Connecticut, USA
+
 * Age at Death: 63
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMMP.Peter_Branch.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0501[Dev-web]
-* https://localhost:4000/person?p=p0501[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0501[Adoc-web]
-* https://localhost:4000/adoc?p=p0501[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0501http://localhost:4000/person?p=p0501https://cfsjksas.gigalixirapp.com/adoc?p=p0501http://localhost:4000/adoc?p=p0501* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Peter_Branch_%282%29[WeRelate]
 * WikiTree TBD
@@ -49,3 +51,4 @@ Narrative TBD
 == Other
 
 == Sources
+

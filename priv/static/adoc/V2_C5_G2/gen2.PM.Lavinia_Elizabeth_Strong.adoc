@@ -17,9 +17,9 @@ Narrative TBD
 * Deathplace: Worcester, Worcester, Massachusetts, USA
 
 * Buried: 
-----
+<p>
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 65
 
@@ -37,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0006[Dev-web]
-* http://localhost:4000/person?p=p0006[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0006[Adoc-web]
-* adoc?p=p0006[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0006http://localhost:4000/person?p=p0006https://cfsjksas.gigalixirapp.com/adoc?p=p0006http://localhost:4000/adoc?p=p0006* Geni TBD
 * https://www.myheritage.com/profile-20674952-23000182/lavinia-elizabeth-strong-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Lavinia_Strong_%282%29[WeRelate]
 * WikiTree TBD
@@ -55,33 +51,33 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1910
 2 PLAC Worcester Ward 7, Worcester, Massachusetts, USA
 2 AGE 34-35
-----
+</p>
  Living in Worcester with parents
-----
+<p>
 2 DATE 1880
 2 AGE 4-5
-----
+</p>
 
 event:  Cancer
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
  Regent Worcester Chapter D.A.R.
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
 
 notes: <p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p><p>Grandma Sparrell (Lavinia Elizabeth Strong) was the daughter of Albert Randolph Strong, foreman of the Worcester roundhouse of the Worcester &amp; Nashua 
-----
+<p>
 2 CONC Railroad.</p></p><p><p>&nbsp;</p></p><p><p>She was Regent of the Colonel Bigelow Chapter of the Daughters of the American Revolution in Worcester.</p></p><p><p>&nbsp;</p></p><p><p>She was active in th
 2 CONC e Women's Association of the Universalist Church and was much involved in the acquisition of the Clara Barton birthplace farm in Oxford and the creation of Clara Barton State Park and Camp Clara Barto
 2 CONC n for diabetic girls.</p></p><p><p>&nbsp;</p></p><p><p>She was also active in the Worcester Chapter of The Red Cross and the First Universalist Church.</p></p><p><p>&nbsp;</p></p><p>Birth record in Ma
 2 CONC ss Vital Records Vol 270 Page 427 at bottom of page. Page is partially torn but record is clear.</p>
-----
+</p>
 
 
 == Sources

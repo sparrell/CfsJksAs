@@ -7,11 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 6 AUG 1695
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Death: 17 JUL 1763
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 * Age at Death: 67
+
 
 
 == Family
@@ -24,11 +30,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMP.James_Bowker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0227[Dev-web]
-* https://localhost:4000/person?p=p0227[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0227[Adoc-web]
-* https://localhost:4000/adoc?p=p0227[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0227http://localhost:4000/person?p=p0227https://cfsjksas.gigalixirapp.com/adoc?p=p0227http://localhost:4000/adoc?p=p0227* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Bowker_%2814%29[WeRelate]
 * WikiTree TBD
@@ -48,9 +50,10 @@ Narrative TBD
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJames_Bowker_%2814%29:
-----
+</p>
 
 
 == Sources
+

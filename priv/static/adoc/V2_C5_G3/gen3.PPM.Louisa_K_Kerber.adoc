@@ -17,9 +17,9 @@ Narrative TBD
 * Deathplace: Worcester, Worcester, Massachusetts, USA
 
 * Buried: 
-----
+<p>
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 70
 
@@ -35,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0285[Dev-web]
-* http://localhost:4000/person?p=p0285[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0285[Adoc-web]
-* adoc?p=p0285[Adoc-local]
-* https://www.geni.com/people/Louisa-Sparrell/6000000007500303582[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0285http://localhost:4000/person?p=p0285https://cfsjksas.gigalixirapp.com/adoc?p=p0285http://localhost:4000/adoc?p=p0285* https://www.geni.com/people/Louisa-Sparrell/6000000007500303582[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000520/louisa-k-kerber-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Louisa_Kerber_%281%29[WeRelate]
 * WikiTree TBD
@@ -54,16 +50,16 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1860
 2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
 2 AGE 7-8
-----
+</p>
 
 event:  had an identical  twin sister Sarah
-----
+<p>
 2 TYPE Twin
-----
+</p>
 
 notes: <p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her bed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>
 

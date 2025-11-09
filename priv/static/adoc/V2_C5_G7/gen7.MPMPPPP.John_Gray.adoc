@@ -7,7 +7,9 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birthplace: Londonderry, Ulster, Northern Ireland, UK
+
 
 
 == Ship
@@ -23,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMPPPP.John_Gray.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0495[Dev-web]
-* https://localhost:4000/person?p=p0495[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0495[Adoc-web]
-* https://localhost:4000/adoc?p=p0495[Adoc-local]
-* https://www.geni.com/people/John-Gray/6000000219179990084[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0495http://localhost:4000/person?p=p0495https://cfsjksas.gigalixirapp.com/adoc?p=p0495http://localhost:4000/adoc?p=p0495* https://www.geni.com/people/John-Gray/6000000219179990084[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray[MyHeritage]
 * https://www.werelate.org/wiki/Person:John_Gray_%28135%29[WeRelate]
 * WikiTree TBD
@@ -46,10 +44,11 @@ Narrative TBD
 
 == Other
 emigration:  from Aghadowey Londonderry, Ulster
-----
+<p>
 2 DATE 1718
 2 PLAC Aghadowey, Londonderry, Ulster, Northern Ireland, UK
-----
+</p>
 
 
 == Sources
+

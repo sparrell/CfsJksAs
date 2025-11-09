@@ -4502,7 +4502,7 @@ William Satterlee (1712 - 1752)
 <path id="ray_g8_s115" d="M 10323,17618 L 12230,18222" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g8_s115" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Powers (? - ?)
+Mary Powers (? - 1785)
 </textPath>
 </text>
 <defs>
@@ -5126,7 +5126,7 @@ William Satterlee (1712 - 1752)
 <path id="ray_g8_s243" d="M 29770,23778 L 31677,24382" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g8_s243" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Powers (? - ?)
+Mary Powers (? - 1785)
 </textPath>
 </text>
 <defs>
@@ -6208,7 +6208,7 @@ James Morgan (1667 - 1748)
 <path id="ray_g9_s173" d="M 13795,9466 L 15066,11501" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s173" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Cromwell (? - ?)
+Hannah Cromwell (~1672 - 1720)
 </textPath>
 </text>
 <defs>
@@ -6472,7 +6472,7 @@ James Morgan (1667 - 1748)
 <path id="ray_g9_s201" d="M 10330,12567 L 12213,14055" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s201" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Cromwell (? - ?)
+Hannah Cromwell (~1672 - 1720)
 </textPath>
 </text>
 <defs>
@@ -6520,7 +6520,7 @@ Ralph Stoddard (1666 - 1749)
 <path id="ray_g9_s205" d="M 9929,13101 L 11883,14495" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s205" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Mary Ames (1661 - 1727/8)
 </textPath>
 </text>
 <defs>
@@ -6820,18 +6820,6 @@ Anne Avery (1692 - ?)
 <path id="ray_g9_s230" d="M 8060,16813 L 10344,17552" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s230" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_9_231" d="M 7986 17052 A 13600 13600 0 0 1 8035 16893 L 10323 17618 A 11200 11200 0 0 0 10282 17749 L 7986 17052 " />
-<clipPath id="sector_9_231_clip">
-<use href="#sector_9_231"/>
-</clipPath></defs>
-<use href="#sector_9_231" stroke="#FF6EC7" stroke-width="20" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_9_231_clip)"/>
-<path id="ray_g9_s231" d="M 8010,16972 L 10302,17683" />
-<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
-<textPath href="#ray_g9_s231" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
@@ -7624,7 +7612,7 @@ James Morgan (1667 - 1748)
 <path id="ray_g9_s457" d="M 29787,27945 L 31670,29433" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s457" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Cromwell (? - ?)
+Hannah Cromwell (~1672 - 1720)
 </textPath>
 </text>
 <defs>
@@ -7668,11 +7656,11 @@ Ralph Stoddard (1666 - 1749)
 <clipPath id="sector_9_461_clip">
 <use href="#sector_9_461"/>
 </clipPath></defs>
-<use href="#sector_9_461" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="50%" clip-path="url(#sector_9_461_clip)"/>
+<use href="#sector_9_461" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="0%" clip-path="url(#sector_9_461_clip)"/>
 <path id="ray_g9_s461" d="M 30117,27505 L 32071,28899" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s461" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Mary Ames (1661 - 1727/8)
 </textPath>
 </text>
 <defs>
@@ -7972,18 +7960,6 @@ Anne Avery (1692 - ?)
 <path id="ray_g9_s486" d="M 31656,24448 L 33940,25187" />
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s486" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_9_487" d="M 34014 24948 A 13600 13600 0 0 1 33965 25107 L 31677 24382 A 11200 11200 0 0 0 31718 24251 L 34014 24948 " />
-<clipPath id="sector_9_487_clip">
-<use href="#sector_9_487"/>
-</clipPath></defs>
-<use href="#sector_9_487" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="50%" clip-path="url(#sector_9_487_clip)"/>
-<path id="ray_g9_s487" d="M 31698,24317 L 33990,25028" />
-<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
-<textPath href="#ray_g9_s487" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
@@ -8618,7 +8594,7 @@ Francis Unknown115 (? - 1689)
 <clipPath id="sector_10_50_clip">
 <use href="#sector_10_50"/>
 </clipPath></defs>
-<use href="#sector_10_50" stroke="blue" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_50_clip)"/>
+<use href="#sector_10_50" stroke="blue" stroke-width="15" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_10_50_clip)"/>
 <path id="ray_g10_s50" d="M 33952,16853 L 36143,16152" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s50" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -10066,6 +10042,30 @@ Catherine Seabrook (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_410" d="M 8057 11765 A 15900 15900 0 0 1 8114 11686 L 9978 13033 A 13600 13600 0 0 0 9929 13101 L 8057 11765 " />
+<clipPath id="sector_10_410_clip">
+<use href="#sector_10_410"/>
+</clipPath></defs>
+<use href="#sector_10_410" stroke="blue" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_410_clip)"/>
+<path id="ray_g10_s410" d="M 8085,11725 L 9953,13067" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s410" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_411" d="M 8000 11845 A 15900 15900 0 0 1 8057 11765 L 9929 13101 A 13600 13600 0 0 0 9881 13169 L 8000 11845 " />
+<clipPath id="sector_10_411_clip">
+<use href="#sector_10_411"/>
+</clipPath></defs>
+<use href="#sector_10_411" stroke="#FF6EC7" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_411_clip)"/>
+<path id="ray_g10_s411" d="M 8029,11805 L 9905,13135" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s411" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_412" d="M 7944 11925 A 15900 15900 0 0 1 8000 11845 L 9881 13169 A 13600 13600 0 0 0 9833 13237 L 7944 11925 " />
 <clipPath id="sector_10_412_clip">
 <use href="#sector_10_412"/>
@@ -10194,7 +10194,7 @@ Mary Stock (? - ?)
 <path id="ray_g10_s426" d="M 7238,13036 L 9229,14188" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s426" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lewis (? - ?)
+John Lewis (~1624 - bef 1690)
 </textPath>
 </text>
 <defs>
@@ -10206,7 +10206,7 @@ John Lewis (? - ?)
 <path id="ray_g10_s427" d="M 7190,13121 L 9187,14260" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s427" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Anna Lamphere (1661 - 1748)
+Ann Unknown (  -  )
 </textPath>
 </text>
 <defs>
@@ -11866,6 +11866,30 @@ Catherine Seabrook (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_922" d="M 33943 30235 A 15900 15900 0 0 1 33886 30314 L 32022 28967 A 13600 13600 0 0 0 32071 28899 L 33943 30235 " />
+<clipPath id="sector_10_922_clip">
+<use href="#sector_10_922"/>
+</clipPath></defs>
+<use href="#sector_10_922" stroke="blue" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_922_clip)"/>
+<path id="ray_g10_s922" d="M 32047,28933 L 33915,30275" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s922" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_923" d="M 34000 30155 A 15900 15900 0 0 1 33943 30235 L 32071 28899 A 13600 13600 0 0 0 32119 28831 L 34000 30155 " />
+<clipPath id="sector_10_923_clip">
+<use href="#sector_10_923"/>
+</clipPath></defs>
+<use href="#sector_10_923" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_923_clip)"/>
+<path id="ray_g10_s923" d="M 32095,28865 L 33971,30195" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s923" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_924" d="M 34056 30075 A 15900 15900 0 0 1 34000 30155 L 32119 28831 A 13600 13600 0 0 0 32167 28763 L 34056 30075 " />
 <clipPath id="sector_10_924_clip">
 <use href="#sector_10_924"/>
@@ -11990,11 +12014,11 @@ Mary Stock (? - ?)
 <clipPath id="sector_10_938_clip">
 <use href="#sector_10_938"/>
 </clipPath></defs>
-<use href="#sector_10_938" stroke="blue" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_938_clip)"/>
+<use href="#sector_10_938" stroke="blue" stroke-width="15" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_10_938_clip)"/>
 <path id="ray_g10_s938" d="M 32771,27812 L 34762,28964" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s938" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lewis (? - ?)
+John Lewis (~1624 - bef 1690)
 </textPath>
 </text>
 <defs>
@@ -12002,11 +12026,11 @@ John Lewis (? - ?)
 <clipPath id="sector_10_939_clip">
 <use href="#sector_10_939"/>
 </clipPath></defs>
-<use href="#sector_10_939" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_939_clip)"/>
+<use href="#sector_10_939" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="50%" clip-path="url(#sector_10_939_clip)"/>
 <path id="ray_g10_s939" d="M 32813,27740 L 34810,28879" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s939" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Anna Lamphere (1661 - 1748)
+Ann Unknown (  -  )
 </textPath>
 </text>
 <defs>
@@ -13248,30 +13272,6 @@ Lucretia Oldham (1600 - 1678)
 </textPath>
 </text>
 <defs>
-<path id="sector_11_100" d="M 37571 15694 A 17400 17400 0 0 1 37588 15745 L 36158 16198 A 15900 15900 0 0 0 36143 16152 L 37571 15694 " />
-<clipPath id="sector_11_100_clip">
-<use href="#sector_11_100"/>
-</clipPath></defs>
-<use href="#sector_11_100" stroke="blue" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_100_clip)"/>
-<path id="ray_g11_s100" d="M 36150,16175 L 37579,15720" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s100" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_101" d="M 37555 15643 A 17400 17400 0 0 1 37571 15694 L 36143 16152 A 15900 15900 0 0 0 36128 16105 L 37555 15643 " />
-<clipPath id="sector_11_101_clip">
-<use href="#sector_11_101"/>
-</clipPath></defs>
-<use href="#sector_11_101" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_101_clip)"/>
-<path id="ray_g11_s101" d="M 36135,16128 L 37563,15669" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s101" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_11_104" d="M 37505 15491 A 17400 17400 0 0 1 37522 15542 L 36097 16012 A 15900 15900 0 0 0 36082 15966 L 37505 15491 " />
 <clipPath id="sector_11_104_clip">
 <use href="#sector_11_104"/>
@@ -13396,7 +13396,7 @@ Martha Vinal (1625 - ?)
 <clipPath id="sector_11_194_clip">
 <use href="#sector_11_194"/>
 </clipPath></defs>
-<use href="#sector_11_194" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_194_clip)"/>
+<use href="#sector_11_194" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_194_clip)"/>
 <path id="ray_g11_s194" d="M 34152,12065 L 35393,11222" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s194" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -13468,7 +13468,7 @@ Isaac Cummins (1601 - 1677)
 <clipPath id="sector_11_201_clip">
 <use href="#sector_11_201"/>
 </clipPath></defs>
-<use href="#sector_11_201" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_201_clip)"/>
+<use href="#sector_11_201" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_201_clip)"/>
 <path id="ray_g11_s201" d="M 33957,11785 L 35180,10916" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s201" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -14312,7 +14312,7 @@ William Copp (1589 - 1670)
 <path id="ray_g11_s777" d="M 8343,9060 L 9434,10089" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s777" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Judith/Goodeth Itchenor (1605 - 1670)
+Judith_Goodeth Itchenor (1605 - 1670)
 </textPath>
 </text>
 <defs>
@@ -14949,42 +14949,6 @@ brickwall  (? - ?)
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s852" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 John Lewis (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_853" d="M 5913 12331 A 17400 17400 0 0 1 5940 12285 L 7238 13036 A 15900 15900 0 0 0 7214 13078 L 5913 12331 " />
-<clipPath id="sector_11_853_clip">
-<use href="#sector_11_853"/>
-</clipPath></defs>
-<use href="#sector_11_853" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_853_clip)"/>
-<path id="ray_g11_s853" d="M 5927,12308 L 7226,13057" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s853" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_854" d="M 5887 12377 A 17400 17400 0 0 1 5913 12331 L 7214 13078 A 15900 15900 0 0 0 7190 13121 L 5887 12377 " />
-<clipPath id="sector_11_854_clip">
-<use href="#sector_11_854"/>
-</clipPath></defs>
-<use href="#sector_11_854" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_854_clip)"/>
-<path id="ray_g11_s854" d="M 5900,12354 L 7202,13099" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s854" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lanphear (1681 - 1740)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_855" d="M 5860 12424 A 17400 17400 0 0 1 5887 12377 L 7190 13121 A 15900 15900 0 0 0 7166 13163 L 5860 12424 " />
-<clipPath id="sector_11_855_clip">
-<use href="#sector_11_855"/>
-</clipPath></defs>
-<use href="#sector_11_855" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_855_clip)"/>
-<path id="ray_g11_s855" d="M 5874,12400 L 7178,13142" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s855" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ruth   (? - ?)
 </textPath>
 </text>
 <defs>
@@ -16964,7 +16928,7 @@ William Copp (1589 - 1670)
 <path id="ray_g11_s1801" d="M 32566,31911 L 33657,32940" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s1801" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Judith/Goodeth Itchenor (1605 - 1670)
+Judith_Goodeth Itchenor (1605 - 1670)
 </textPath>
 </text>
 <defs>
@@ -17596,47 +17560,11 @@ brickwall  (? - ?)
 <clipPath id="sector_11_1876_clip">
 <use href="#sector_11_1876"/>
 </clipPath></defs>
-<use href="#sector_11_1876" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_1876_clip)"/>
+<use href="#sector_11_1876" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_1876_clip)"/>
 <path id="ray_g11_s1876" d="M 34749,28985 L 36047,29738" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s1876" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 John Lewis (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1877" d="M 36087 29669 A 17400 17400 0 0 1 36060 29715 L 34762 28964 A 15900 15900 0 0 0 34786 28922 L 36087 29669 " />
-<clipPath id="sector_11_1877_clip">
-<use href="#sector_11_1877"/>
-</clipPath></defs>
-<use href="#sector_11_1877" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1877_clip)"/>
-<path id="ray_g11_s1877" d="M 34774,28943 L 36073,29692" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s1877" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1878" d="M 36113 29623 A 17400 17400 0 0 1 36087 29669 L 34786 28922 A 15900 15900 0 0 0 34810 28879 L 36113 29623 " />
-<clipPath id="sector_11_1878_clip">
-<use href="#sector_11_1878"/>
-</clipPath></defs>
-<use href="#sector_11_1878" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_1878_clip)"/>
-<path id="ray_g11_s1878" d="M 34798,28901 L 36100,29646" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s1878" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lanphear (1681 - 1740)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1879" d="M 36140 29576 A 17400 17400 0 0 1 36113 29623 L 34810 28879 A 15900 15900 0 0 0 34834 28837 L 36140 29576 " />
-<clipPath id="sector_11_1879_clip">
-<use href="#sector_11_1879"/>
-</clipPath></defs>
-<use href="#sector_11_1879" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1879_clip)"/>
-<path id="ray_g11_s1879" d="M 34822,28858 L 36126,29600" />
-<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
-<textPath href="#ray_g11_s1879" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ruth   (? - ?)
 </textPath>
 </text>
 <defs>
@@ -18460,7 +18388,7 @@ Elizabeth Cooke (1640 - 1711)
 <clipPath id="sector_11_1970_clip">
 <use href="#sector_11_1970"/>
 </clipPath></defs>
-<use href="#sector_11_1970" stroke="blue" stroke-width="10" fill="none" fill-opacity="0%" clip-path="url(#sector_11_1970_clip)"/>
+<use href="#sector_11_1970" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_11_1970_clip)"/>
 <path id="ray_g11_s1970" d="M 36453,24745 L 37910,25098" />
 <text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
 <textPath href="#ray_g11_s1970" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -19418,30 +19346,6 @@ Anna Unknown091 (? - 1664)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_388" d="M 35972 10829 A 18100 18100 0 0 1 35988 10852 L 35408 11244 A 17400 17400 0 0 0 35393 11222 L 35972 10829 " />
-<clipPath id="sector_12_388_clip">
-<use href="#sector_12_388"/>
-</clipPath></defs>
-<use href="#sector_12_388" stroke="blue" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_388_clip)"/>
-<path id="ray_g12_s388" d="M 35400,11233 L 35980,10841" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s388" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_389" d="M 35956 10806 A 18100 18100 0 0 1 35972 10829 L 35393 11222 A 17400 17400 0 0 0 35378 11200 L 35956 10806 " />
-<clipPath id="sector_12_389_clip">
-<use href="#sector_12_389"/>
-</clipPath></defs>
-<use href="#sector_12_389" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_389_clip)"/>
-<path id="ray_g12_s389" d="M 35385,11211 L 35964,10818" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s389" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_410" d="M 35620 10330 A 18100 18100 0 0 1 35637 10352 L 35071 10764 A 17400 17400 0 0 0 35055 10742 L 35620 10330 " />
 <clipPath id="sector_12_410_clip">
 <use href="#sector_12_410"/>
@@ -19566,7 +19470,7 @@ Richard Ingersoll (1587 - 1644)
 <clipPath id="sector_12_1175_clip">
 <use href="#sector_12_1175"/>
 </clipPath></defs>
-<use href="#sector_12_1175" stroke="#FF6EC7" stroke-width="1" fill="none" fill-opacity="0%" clip-path="url(#sector_12_1175_clip)"/>
+<use href="#sector_12_1175" stroke="#FF6EC7" stroke-width="1" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_12_1175_clip)"/>
 <path id="ray_g12_s1175" d="M 16831,3387 L 16993,4068" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s1175" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -20126,54 +20030,6 @@ Rebecca Clark (1585 - 1637)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_1704" d="M 5348 11910 A 18100 18100 0 0 1 5362 11886 L 5967 12238 A 17400 17400 0 0 0 5953 12262 L 5348 11910 " />
-<clipPath id="sector_12_1704_clip">
-<use href="#sector_12_1704"/>
-</clipPath></defs>
-<use href="#sector_12_1704" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1704_clip)"/>
-<path id="ray_g12_s1704" d="M 5355,11898 L 5960,12250" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1704" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_1705" d="M 5334 11934 A 18100 18100 0 0 1 5348 11910 L 5953 12262 A 17400 17400 0 0 0 5940 12285 L 5334 11934 " />
-<clipPath id="sector_12_1705_clip">
-<use href="#sector_12_1705"/>
-</clipPath></defs>
-<use href="#sector_12_1705" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1705_clip)"/>
-<path id="ray_g12_s1705" d="M 5341,11922 L 5947,12273" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1705" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_1708" d="M 5293 12006 A 18100 18100 0 0 1 5306 11982 L 5913 12331 A 17400 17400 0 0 0 5900 12354 L 5293 12006 " />
-<clipPath id="sector_12_1708_clip">
-<use href="#sector_12_1708"/>
-</clipPath></defs>
-<use href="#sector_12_1708" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1708_clip)"/>
-<path id="ray_g12_s1708" d="M 5300,11994 L 5907,12342" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1708" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_1709" d="M 5279 12030 A 18100 18100 0 0 1 5293 12006 L 5900 12354 A 17400 17400 0 0 0 5887 12377 L 5279 12030 " />
-<clipPath id="sector_12_1709_clip">
-<use href="#sector_12_1709"/>
-</clipPath></defs>
-<use href="#sector_12_1709" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1709_clip)"/>
-<path id="ray_g12_s1709" d="M 5286,12018 L 5893,12366" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1709" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_1722" d="M 5103 12346 A 18100 18100 0 0 1 5116 12321 L 5731 12657 A 17400 17400 0 0 0 5718 12680 L 5103 12346 " />
 <clipPath id="sector_12_1722_clip">
 <use href="#sector_12_1722"/>
@@ -20710,30 +20566,6 @@ brickwall  (? - ?)
 <path id="ray_g12_s1891" d="M 3419,16696 L 4099,16863" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s1891" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_1892" d="M 3409 16737 A 18100 18100 0 0 1 3416 16710 L 4096 16876 A 17400 17400 0 0 0 4090 16902 L 3409 16737 " />
-<clipPath id="sector_12_1892_clip">
-<use href="#sector_12_1892"/>
-</clipPath></defs>
-<use href="#sector_12_1892" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1892_clip)"/>
-<path id="ray_g12_s1892" d="M 3412,16723 L 4093,16889" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1892" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_1893" d="M 3403 16764 A 18100 18100 0 0 1 3409 16737 L 4090 16902 A 17400 17400 0 0 0 4083 16928 L 3403 16764 " />
-<clipPath id="sector_12_1893_clip">
-<use href="#sector_12_1893"/>
-</clipPath></defs>
-<use href="#sector_12_1893" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1893_clip)"/>
-<path id="ray_g12_s1893" d="M 3406,16750 L 4086,16915" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s1893" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
@@ -21386,54 +21218,6 @@ Rebecca Clark (1585 - 1637)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3752" d="M 36652 30090 A 18100 18100 0 0 1 36638 30114 L 36033 29762 A 17400 17400 0 0 0 36047 29738 L 36652 30090 " />
-<clipPath id="sector_12_3752_clip">
-<use href="#sector_12_3752"/>
-</clipPath></defs>
-<use href="#sector_12_3752" stroke="blue" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3752_clip)"/>
-<path id="ray_g12_s3752" d="M 36040,29750 L 36645,30102" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3752" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3753" d="M 36666 30066 A 18100 18100 0 0 1 36652 30090 L 36047 29738 A 17400 17400 0 0 0 36060 29715 L 36666 30066 " />
-<clipPath id="sector_12_3753_clip">
-<use href="#sector_12_3753"/>
-</clipPath></defs>
-<use href="#sector_12_3753" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3753_clip)"/>
-<path id="ray_g12_s3753" d="M 36053,29727 L 36659,30078" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3753" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3756" d="M 36707 29994 A 18100 18100 0 0 1 36694 30018 L 36087 29669 A 17400 17400 0 0 0 36100 29646 L 36707 29994 " />
-<clipPath id="sector_12_3756_clip">
-<use href="#sector_12_3756"/>
-</clipPath></defs>
-<use href="#sector_12_3756" stroke="blue" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3756_clip)"/>
-<path id="ray_g12_s3756" d="M 36093,29658 L 36700,30006" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3756" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3757" d="M 36721 29970 A 18100 18100 0 0 1 36707 29994 L 36100 29646 A 17400 17400 0 0 0 36113 29623 L 36721 29970 " />
-<clipPath id="sector_12_3757_clip">
-<use href="#sector_12_3757"/>
-</clipPath></defs>
-<use href="#sector_12_3757" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3757_clip)"/>
-<path id="ray_g12_s3757" d="M 36107,29634 L 36714,29982" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3757" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3770" d="M 36897 29654 A 18100 18100 0 0 1 36884 29679 L 36269 29343 A 17400 17400 0 0 0 36282 29320 L 36897 29654 " />
 <clipPath id="sector_12_3770_clip">
 <use href="#sector_12_3770"/>
@@ -21630,7 +21414,7 @@ Thomas Jenner (1601 - 1686)
 <clipPath id="sector_12_3877_clip">
 <use href="#sector_12_3877"/>
 </clipPath></defs>
-<use href="#sector_12_3877" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3877_clip)"/>
+<use href="#sector_12_3877" stroke="#FF6EC7" stroke-width="1" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_12_3877_clip)"/>
 <path id="ray_g12_s3877" d="M 37432,26723 L 38093,26954" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s3877" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -21654,7 +21438,7 @@ Robert Pigg (? - 1660)
 <clipPath id="sector_12_3879_clip">
 <use href="#sector_12_3879"/>
 </clipPath></defs>
-<use href="#sector_12_3879" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3879_clip)"/>
+<use href="#sector_12_3879" stroke="#FF6EC7" stroke-width="1" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_12_3879_clip)"/>
 <path id="ray_g12_s3879" d="M 37449,26673 L 38111,26901" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s3879" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -21894,7 +21678,7 @@ Edmund Lockwood (1594 - 1635)
 <clipPath id="sector_12_3927_clip">
 <use href="#sector_12_3927"/>
 </clipPath></defs>
-<use href="#sector_12_3927" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3927_clip)"/>
+<use href="#sector_12_3927" stroke="#FF6EC7" stroke-width="1" fill="lightskyblue" fill-opacity="10%" clip-path="url(#sector_12_3927_clip)"/>
 <path id="ray_g12_s3927" d="M 37822,25448 L 38499,25626" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s3927" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -21970,30 +21754,6 @@ brickwall  (? - ?)
 <path id="ray_g12_s3939" d="M 37901,25137 L 38581,25304" />
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s3939" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3940" d="M 38591 25263 A 18100 18100 0 0 1 38584 25290 L 37904 25124 A 17400 17400 0 0 0 37910 25098 L 38591 25263 " />
-<clipPath id="sector_12_3940_clip">
-<use href="#sector_12_3940"/>
-</clipPath></defs>
-<use href="#sector_12_3940" stroke="blue" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3940_clip)"/>
-<path id="ray_g12_s3940" d="M 37907,25111 L 38588,25277" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3940" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3941" d="M 38597 25236 A 18100 18100 0 0 1 38591 25263 L 37910 25098 A 17400 17400 0 0 0 37917 25072 L 38597 25236 " />
-<clipPath id="sector_12_3941_clip">
-<use href="#sector_12_3941"/>
-</clipPath></defs>
-<use href="#sector_12_3941" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_12_3941_clip)"/>
-<path id="ray_g12_s3941" d="M 37914,25085 L 38594,25250" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g12_s3941" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
@@ -22333,30 +22093,6 @@ Stephen Vinal (? - ?)
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g13_s111" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Anna Unknown091 (? - 1664)
-</textPath>
-</text>
-<defs>
-<path id="sector_13_2350" d="M 16693 2803 A 18700 18700 0 0 1 16707 2799 L 16845 3383 A 18100 18100 0 0 0 16831 3387 L 16693 2803 " />
-<clipPath id="sector_13_2350_clip">
-<use href="#sector_13_2350"/>
-</clipPath></defs>
-<use href="#sector_13_2350" stroke="blue" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_13_2350_clip)"/>
-<path id="ray_g13_s2350" d="M 16700,2801 L 16838,3385" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g13_s2350" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_13_2351" d="M 16679 2806 A 18700 18700 0 0 1 16693 2803 L 16831 3387 A 18100 18100 0 0 0 16818 3390 L 16679 2806 " />
-<clipPath id="sector_13_2351_clip">
-<use href="#sector_13_2351"/>
-</clipPath></defs>
-<use href="#sector_13_2351" stroke="#FF6EC7" stroke-width="1" fill="red" fill-opacity="50%" clip-path="url(#sector_13_2351_clip)"/>
-<path id="ray_g13_s2351" d="M 16686,2804 L 16825,3388" />
-<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
-<textPath href="#ray_g13_s2351" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -22937,6 +22673,120 @@ James Chilton (1563 - 1620)
 Susanna Furner (? - 1620)
 </textPath>
 </text>
+<line id="g12_s27_g11_s28" x1="31413" y1="19527" x2="31334" y2="19481" stroke="gray" stroke-width="5" />
+<line id="g12_s28_g11_s28" x1="31408" y1="19474" x2="31334" y2="19481" stroke="gray" stroke-width="5" />
+<line id="g12_s30_g11_s30" x1="31399" y1="19367" x2="31324" y2="19374" stroke="gray" stroke-width="5" />
+<line id="g12_s31_g11_s30" x1="31393" y1="19314" x2="31324" y2="19374" stroke="gray" stroke-width="5" />
+<line id="g12_s32_g11_s31" x1="31388" y1="19260" x2="31319" y2="19321" stroke="gray" stroke-width="5" />
+<line id="g12_s125_g11_s126" x1="30196" y1="14437" x2="30106" y2="14415" stroke="gray" stroke-width="5" />
+<line id="g12_s126_g11_s126" x1="30175" y1="14387" x2="30106" y2="14415" stroke="gray" stroke-width="5" />
+<line id="g12_s127_g11_s127" x1="30155" y1="14337" x2="30086" y2="14366" stroke="gray" stroke-width="5" />
+<line id="g12_s128_g11_s127" x1="30135" y1="14288" x2="30086" y2="14366" stroke="gray" stroke-width="5" />
+<line id="g12_s205_g11_s205" x1="28115" y1="10698" x2="28055" y2="10742" stroke="gray" stroke-width="5" />
+<line id="g12_s206_g11_s205" x1="28084" y1="10655" x2="28055" y2="10742" stroke="gray" stroke-width="5" />
+<line id="g12_s236_g11_s236" x1="27073" y1="9404" x2="27017" y2="9454" stroke="gray" stroke-width="5" />
+<line id="g12_s237_g11_s236" x1="27038" y1="9364" x2="27017" y2="9454" stroke="gray" stroke-width="5" />
+<line id="g12_s566_g11_s566" x1="11092" y1="3769" x2="11104" y2="3843" stroke="gray" stroke-width="5" />
+<line id="g12_s567_g11_s567" x1="11039" y1="3778" x2="11052" y2="3852" stroke="gray" stroke-width="5" />
+<line id="g12_s568_g11_s567" x1="10986" y1="3787" x2="11052" y2="3852" stroke="gray" stroke-width="5" />
+<line id="g12_s585_g11_s586" x1="10093" y1="3967" x2="10058" y2="4053" stroke="gray" stroke-width="5" />
+<line id="g12_s586_g11_s586" x1="10041" y1="3979" x2="10058" y2="4053" stroke="gray" stroke-width="5" />
+<line id="g12_s587_g11_s587" x1="9988" y1="3992" x2="10006" y2="4065" stroke="gray" stroke-width="5" />
+<line id="g12_s588_g11_s587" x1="9936" y1="4004" x2="10006" y2="4065" stroke="gray" stroke-width="5" />
+<line id="g12_s590_g11_s590" x1="9832" y1="4029" x2="9850" y2="4102" stroke="gray" stroke-width="5" />
+<line id="g12_s591_g11_s590" x1="9780" y1="4042" x2="9850" y2="4102" stroke="gray" stroke-width="5" />
+<line id="g12_s592_g11_s591" x1="9728" y1="4055" x2="9798" y2="4115" stroke="gray" stroke-width="5" />
+<line id="g12_s593_g11_s591" x1="9676" y1="4068" x2="9798" y2="4115" stroke="gray" stroke-width="5" />
+<line id="g12_s680_g11_s680" x1="5363" y1="5808" x2="5400" y2="5874" stroke="gray" stroke-width="5" />
+<line id="g12_s681_g11_s680" x1="5317" y1="5835" x2="5400" y2="5874" stroke="gray" stroke-width="5" />
+<line id="g12_s745_g11_s746" x1="2525" y1="7820" x2="2534" y2="7912" stroke="gray" stroke-width="5" />
+<line id="g12_s746_g11_s746" x1="2485" y1="7856" x2="2534" y2="7912" stroke="gray" stroke-width="5" />
+<line id="g12_s747_g11_s747" x1="2444" y1="7891" x2="2494" y2="7947" stroke="gray" stroke-width="5" />
+<line id="g12_s748_g11_s747" x1="2404" y1="7927" x2="2494" y2="7947" stroke="gray" stroke-width="5" />
+<line id="g12_s751_g11_s751" x1="2284" y1="8034" x2="2335" y2="8090" stroke="gray" stroke-width="5" />
+<line id="g12_s752_g11_s751" x1="2245" y1="8070" x2="2335" y2="8090" stroke="gray" stroke-width="5" />
+<line id="g12_s1727_g11_s1727" x1="23686" y1="35545" x2="23645" y2="35482" stroke="gray" stroke-width="5" />
+<line id="g12_s1728_g11_s1727" x1="23731" y1="35515" x2="23645" y2="35482" stroke="gray" stroke-width="5" />
+<line id="g12_s1809_g11_s1809" x1="27002" y1="32676" x2="26946" y2="32626" stroke="gray" stroke-width="5" />
+<line id="g12_s1810_g11_s1809" x1="27038" y1="32636" x2="26946" y2="32626" stroke="gray" stroke-width="5" />
+<line id="g12_s1813_g11_s1814" x1="27144" y1="32515" x2="27123" y2="32426" stroke="gray" stroke-width="5" />
+<line id="g12_s1814_g11_s1814" x1="27180" y1="32475" x2="27123" y2="32426" stroke="gray" stroke-width="5" />
+<line id="g12_s1815_g11_s1815" x1="27215" y1="32434" x2="27158" y2="32385" stroke="gray" stroke-width="5" />
+<line id="g12_s1816_g11_s1815" x1="27250" y1="32394" x2="27158" y2="32385" stroke="gray" stroke-width="5" />
+<line id="g12_s1817_g11_s1816" x1="27285" y1="32353" x2="27193" y2="32345" stroke="gray" stroke-width="5" />
+<line id="g12_s1818_g11_s1816" x1="27319" y1="32312" x2="27193" y2="32345" stroke="gray" stroke-width="5" />
+<line id="g12_s1819_g11_s1817" x1="27354" y1="32271" x2="27228" y2="32304" stroke="gray" stroke-width="5" />
+<line id="g12_s1820_g11_s1817" x1="27389" y1="32230" x2="27228" y2="32304" stroke="gray" stroke-width="5" />
+<line id="g12_s1821_g11_s1821" x1="27423" y1="32189" x2="27365" y2="32141" stroke="gray" stroke-width="5" />
+<line id="g12_s1822_g11_s1821" x1="27457" y1="32148" x2="27365" y2="32141" stroke="gray" stroke-width="5" />
+<line id="g12_s1823_g11_s1822" x1="27491" y1="32107" x2="27399" y2="32100" stroke="gray" stroke-width="5" />
+<line id="g12_s1835_g11_s1835" x1="27891" y1="31603" x2="27831" y2="31557" stroke="gray" stroke-width="5" />
+<line id="g12_s1836_g11_s1835" x1="27923" y1="31560" x2="27831" y2="31557" stroke="gray" stroke-width="5" />
+<line id="g12_s1839_g11_s1839" x1="28020" y1="31431" x2="27960" y2="31387" stroke="gray" stroke-width="5" />
+<line id="g12_s1840_g11_s1839" x1="28052" y1="31388" x2="27960" y2="31387" stroke="gray" stroke-width="5" />
+<line id="g12_s1851_g11_s1851" x1="28395" y1="30908" x2="28333" y2="30866" stroke="gray" stroke-width="5" />
+<line id="g12_s1852_g11_s1851" x1="28425" y1="30864" x2="28333" y2="30866" stroke="gray" stroke-width="5" />
+<line id="g12_s1853_g11_s1853" x1="28455" y1="30820" x2="28393" y2="30778" stroke="gray" stroke-width="5" />
+<line id="g12_s1855_g11_s1855" x1="28515" y1="30731" x2="28453" y2="30689" stroke="gray" stroke-width="5" />
+<line id="g12_s1856_g11_s1855" x1="28545" y1="30686" x2="28453" y2="30689" stroke="gray" stroke-width="5" />
+<line id="g12_s1917_g11_s1918" x1="30093" y1="27811" x2="30045" y2="27733" stroke="gray" stroke-width="5" />
+<line id="g12_s1918_g11_s1918" x1="30114" y1="27762" x2="30045" y2="27733" stroke="gray" stroke-width="5" />
+<line id="g12_s1919_g11_s1919" x1="30135" y1="27712" x2="30065" y2="27683" stroke="gray" stroke-width="5" />
+<line id="g12_s1920_g11_s1919" x1="30155" y1="27663" x2="30065" y2="27683" stroke="gray" stroke-width="5" />
+<line id="g12_s1933_g11_s1933" x1="30408" y1="27013" x2="30337" y2="26987" stroke="gray" stroke-width="5" />
+<line id="g12_s1937_g11_s1938" x1="30480" y1="26811" x2="30427" y2="26736" stroke="gray" stroke-width="5" />
+<line id="g12_s1938_g11_s1938" x1="30498" y1="26761" x2="30427" y2="26736" stroke="gray" stroke-width="5" />
+<line id="g12_s1939_g11_s1939" x1="30516" y1="26710" x2="30445" y2="26686" stroke="gray" stroke-width="5" />
+<line id="g12_s1940_g11_s1939" x1="30533" y1="26659" x2="30445" y2="26686" stroke="gray" stroke-width="5" />
+<line id="g12_s1951_g11_s1952" x1="30715" y1="26098" x2="30658" y2="26025" stroke="gray" stroke-width="5" />
+<line id="g12_s1952_g11_s1952" x1="30730" y1="26047" x2="30658" y2="26025" stroke="gray" stroke-width="5" />
+<line id="g12_s1953_g11_s1953" x1="30746" y1="25996" x2="30674" y2="25974" stroke="gray" stroke-width="5" />
+<line id="g12_s1954_g11_s1957" x1="30761" y1="25944" x2="30734" y2="25769" stroke="gray" stroke-width="5" />
+<line id="g12_s1955_g11_s1957" x1="30776" y1="25893" x2="30734" y2="25769" stroke="gray" stroke-width="5" />
+<line id="g12_s1956_g11_s1958" x1="30791" y1="25841" x2="30748" y2="25718" stroke="gray" stroke-width="5" />
+<line id="g12_s1957_g11_s1958" x1="30806" y1="25790" x2="30748" y2="25718" stroke="gray" stroke-width="5" />
+<line id="g12_s1958_g11_s1959" x1="30820" y1="25738" x2="30763" y2="25667" stroke="gray" stroke-width="5" />
+<line id="g12_s1959_g11_s1959" x1="30835" y1="25687" x2="30763" y2="25667" stroke="gray" stroke-width="5" />
+<line id="g12_s1960_g11_s1961" x1="30849" y1="25635" x2="30791" y2="25564" stroke="gray" stroke-width="5" />
+<line id="g12_s1961_g11_s1961" x1="30863" y1="25583" x2="30791" y2="25564" stroke="gray" stroke-width="5" />
+<line id="g12_s1962_g11_s1963" x1="30877" y1="25531" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
+<line id="g12_s1963_g11_s1963" x1="30891" y1="25480" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
+<line id="g12_s1964_g11_s1966" x1="30905" y1="25428" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
+<line id="g12_s1965_g11_s1966" x1="30918" y1="25376" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
+<line id="g12_s1966_g11_s1968" x1="30932" y1="25324" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
+<line id="g12_s1967_g11_s1968" x1="30945" y1="25272" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
+<line id="g12_s1968_g11_s1969" x1="30958" y1="25220" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
+<line id="g12_s1969_g11_s1969" x1="30971" y1="25168" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
+<line id="g12_s1970_g11_s1970" x1="30983" y1="25116" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
+<line id="g12_s1971_g11_s1970" x1="30996" y1="25064" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
+<line id="g12_s1972_g11_s1972" x1="31008" y1="25012" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
+<line id="g12_s1973_g11_s1972" x1="31021" y1="24959" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
+<line id="g12_s1974_g11_s1974" x1="31033" y1="24907" x2="30959" y2="24890" stroke="gray" stroke-width="5" />
+<line id="g12_s1975_g11_s1974" x1="31045" y1="24855" x2="30959" y2="24890" stroke="gray" stroke-width="5" />
+<line id="g12_s1976_g11_s1975" x1="31056" y1="24803" x2="30971" y2="24838" stroke="gray" stroke-width="5" />
+<line id="g12_s1977_g11_s1975" x1="31068" y1="24750" x2="30971" y2="24838" stroke="gray" stroke-width="5" />
+<line id="g12_s1978_g11_s1976" x1="31079" y1="24698" x2="30983" y2="24786" stroke="gray" stroke-width="5" />
+<line id="g12_s1979_g11_s1976" x1="31091" y1="24645" x2="30983" y2="24786" stroke="gray" stroke-width="5" />
+<line id="g12_s1980_g11_s1977" x1="31102" y1="24593" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
+<line id="g12_s1981_g11_s1977" x1="31113" y1="24541" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
+<line id="g12_s1982_g11_s1978" x1="31123" y1="24488" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
+<line id="g12_s1983_g11_s1978" x1="31134" y1="24435" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
+<line id="g12_s1987_g11_s1987" x1="31175" y1="24225" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
+<line id="g12_s1988_g11_s1987" x1="31185" y1="24172" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
+<line id="g12_s1995_g11_s1995" x1="31249" y1="23803" x2="31175" y2="23790" stroke="gray" stroke-width="5" />
+<line id="g12_s1996_g11_s1995" x1="31257" y1="23750" x2="31175" y2="23790" stroke="gray" stroke-width="5" />
+<line id="g13_s593_g12_s593" x1="9435" y1="3124" x2="9453" y2="3196" stroke="gray" stroke-width="5" />
+<line id="g13_s594_g12_s593" x1="9380" y1="3138" x2="9453" y2="3196" stroke="gray" stroke-width="5" />
+<line id="g13_s1728_g12_s1728" x1="24274" y1="36325" x2="24232" y2="36263" stroke="gray" stroke-width="5" />
+<line id="g13_s1729_g12_s1728" x1="24321" y1="36293" x2="24232" y2="36263" stroke="gray" stroke-width="5" />
+<line id="g13_s1972_g12_s1973" x1="31957" y1="25235" x2="31897" y2="25163" stroke="gray" stroke-width="5" />
+<line id="g13_s1973_g12_s1973" x1="31970" y1="25180" x2="31897" y2="25163" stroke="gray" stroke-width="5" />
+<line id="g13_s1979_g12_s1979" x1="32044" y1="24849" x2="31971" y2="24833" stroke="gray" stroke-width="5" />
+<line id="g13_s1980_g12_s1979" x1="32056" y1="24794" x2="31971" y2="24833" stroke="gray" stroke-width="5" />
+<line id="g13_s1981_g12_s1981" x1="32067" y1="24738" x2="31994" y2="24723" stroke="gray" stroke-width="5" />
+<line id="g13_s1982_g12_s1981" x1="32079" y1="24683" x2="31994" y2="24723" stroke="gray" stroke-width="5" />
+<line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
+<line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-10-06 22:47:28.742192Z -->
+<!-- made new svg at 2025-11-08 21:16:44.930373Z -->
 </svg>

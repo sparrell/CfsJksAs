@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 10 APR 1697
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -21,11 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMM.Hannah_Lambert.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0228[Dev-web]
-* https://localhost:4000/person?p=p0228[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0228[Adoc-web]
-* https://localhost:4000/adoc?p=p0228[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0228http://localhost:4000/person?p=p0228https://cfsjksas.gigalixirapp.com/adoc?p=p0228http://localhost:4000/adoc?p=p0228* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Hannah_Lambert_%283%29[WeRelate]
 * WikiTree TBD
@@ -45,18 +45,19 @@ Narrative TBD
 
 == Other
 event:  249
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  249
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AHannah_Lambert_%283%29:
-----
+</p>
 
 
 == Sources
+

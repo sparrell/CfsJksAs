@@ -7,14 +7,17 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 1738
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Christening: 
-----
+<p>
 2 DATE 3 APR 1738
 2 PLAC Stonington, New London, Connecticut, USA
 2 AGE 0
-----
+</p>
 
 
 
@@ -28,11 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0944[Dev-web]
-* https://localhost:4000/person?p=p0944[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0944[Adoc-web]
-* https://localhost:4000/adoc?p=p0944[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0944http://localhost:4000/person?p=p0944https://cfsjksas.gigalixirapp.com/adoc?p=p0944http://localhost:4000/adoc?p=p0944* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jedidiah_Chesebrough_%281%29[WeRelate]
 * WikiTree TBD
@@ -62,3 +61,4 @@ Narrative TBD
 == Other
 
 == Sources
+

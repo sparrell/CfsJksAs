@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 1746
+
 * Birthplace: Sutton, Worcester, Massachusetts, USA
+
 * Death: 26 JUL 1813
+
 * Deathplace: Worcester, Worcester, Massachusetts, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 66-67
+
 
 
 == Family
@@ -27,12 +33,8 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMM.Mercy_Dudley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1272[Dev-web]
-* https://localhost:4000/person?p=p1272[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1272[Adoc-web]
-* https://localhost:4000/adoc?p=p1272[Adoc-local]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1272http://localhost:4000/person?p=p1272https://cfsjksas.gigalixirapp.com/adoc?p=p1272http://localhost:4000/adoc?p=p1272* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001644/mercy-dudley-willard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mercy_Dudley_%284%29[WeRelate]
 * WikiTree TBD
 
@@ -50,25 +52,26 @@ Narrative TBD
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMercy_Dudley_%284%29:
-----
+</p>
 
 
 == Sources
 * @S102@
-----
+<p>
 2 QUAY 4
 2 DATA
 3 TEXT Mercy Willard (born Dudley)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1746&amp;lt;br&amp;gt;Marriage: Spouse: Isaac Willard - Sep 3 1768 - USA&amp;lt;br&amp;gt;Death: July 26 1813 - Worc
 4 CONC ester, Massachusetts, USA&amp;lt;br&amp;gt;Burial: Hope Cemetery , Worcester, Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Husband: &lt;a&gt;Isaac Willard&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&
 4 CONC gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;
-----
+</p>
 
 * @S60@
-----
+<p>
 2 QUAY 0
 2 DATA
 3 TEXT <p>Tombstone In Memory of </p><p> Mrs. Mercy Willard </p><p> Relict of </p><p> Lieut, Isaac Willard, </p><p> who died </p><p> July 26, 1813, </p> Æt. 67
-----
+</p>
+
 

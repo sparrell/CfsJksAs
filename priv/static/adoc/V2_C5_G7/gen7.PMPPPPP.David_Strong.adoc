@@ -7,12 +7,19 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 15 DEC 1704
+
 * Birthplace: Windsor, Hartford, Connecticut, USA
+
 * Death: 25 JAN 1801
+
 * Deathplace: Bolton, Tolland, Connecticut, USA
+
 * Age at Death: 96
+
 * Death Cause: "Old age"
+
 
 
 == Family
@@ -25,11 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0186[Dev-web]
-* https://localhost:4000/person?p=p0186[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0186[Adoc-web]
-* https://localhost:4000/adoc?p=p0186[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0186http://localhost:4000/person?p=p0186https://cfsjksas.gigalixirapp.com/adoc?p=p0186http://localhost:4000/adoc?p=p0186* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:David_Strong_%283%29[WeRelate]
 * WikiTree TBD
@@ -48,12 +51,16 @@ Narrative TBD
 
 == Other
 event:  "Old age"
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 notes: David and Thankful Strong were admitted to the church in Bolton CT fro the church in East Windsor  on 1July 1732
+
 occupation: Farmer
+
 ordained: Deacon
 
+
 == Sources
+

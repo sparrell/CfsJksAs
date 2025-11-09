@@ -7,6 +7,10 @@ defmodule Cfsjksas.Ancestors.StoreRelationMap do
     |> Cfsjksas.Tools.Relation.mark_lineages()
     |> Cfsjksas.Tools.Relation.make_relation_ids()
 
+    relation_map
+    |> Cfsjksas.Tools.Print.relations_print()
+
+
     Agent.start_link(fn -> relation_map end, name: :relation_map)
   end
 

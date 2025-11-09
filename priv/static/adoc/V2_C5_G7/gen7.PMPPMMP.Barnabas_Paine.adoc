@@ -7,23 +7,29 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 28 NOV 1737
+
 * Birthplace: Canterbury, Windham, Connecticutt.
+
 * Christening: 
-----
+<p>
 2 DATE 13 JUL 1751
 2 PLAC Amenia, Dutchess, Ny
 2 AGE 13
-----
+</p>
 
 * Death: 6 JUN 1822
+
 * Deathplace: Amenia, Dutchess, New York
+
 * Buried: 
-----
+<p>
 2 PLAC Amenia, Dutchess, New York
-----
+</p>
 
 * Age at Death: 84
+
 
 
 == Family
@@ -36,11 +42,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1256[Dev-web]
-* https://localhost:4000/person?p=p1256[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p1256[Adoc-web]
-* https://localhost:4000/adoc?p=p1256[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1256http://localhost:4000/person?p=p1256https://cfsjksas.gigalixirapp.com/adoc?p=p1256http://localhost:4000/adoc?p=p1256* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -61,11 +63,12 @@ Narrative TBD
 
 == Sources
 * @S51@
-----
+<p>
 2 PAGE Barnabas Paine
 2 QUAY 3
 2 DATA
 3 DATE 20 JAN 2019
 3 TEXT Added via a Person Discovery
-----
+</p>
+
 

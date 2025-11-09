@@ -7,18 +7,24 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 22 OCT 1791
+
 * Birthplace: Bolton, Tolland, Connecticut, USA
+
 * Baptism:  Baptized, Ist Church Bolton, Rev. Michael Wigglesworth
-----
+<p>
 2 DATE 17 JUN 1792
 2 PLAC Bolton, Tolland, Connecticut, USA
 2 AGE 0
-----
+</p>
 
 * Death: 13 AUG 1856
+
 * Deathplace: Andover, Tolland, Connecticut, USA
+
 * Age at Death: 64
+
 
 
 == Family
@@ -31,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0141[Dev-web]
-* https://localhost:4000/person?p=p0141[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0141[Adoc-web]
-* https://localhost:4000/adoc?p=p0141[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0141http://localhost:4000/person?p=p0141https://cfsjksas.gigalixirapp.com/adoc?p=p0141http://localhost:4000/adoc?p=p0141* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Genubeth_Strong_%281%29[WeRelate]
 * WikiTree TBD
@@ -52,14 +54,15 @@ Narrative TBD
 
 == Other
 event:  Genubeth was named by allowing a Bible to fall open. See 1 Kings 11:20 .
-----
+<p>
 2 TYPE Fact 2
-----
+</p>
 
 occupation: Farmer and Joiner at Andover CT
-----
+<p>
 2 PLAC Andover, Tolland, Connecticut, USA
-----
+</p>
 
 
 == Sources
+

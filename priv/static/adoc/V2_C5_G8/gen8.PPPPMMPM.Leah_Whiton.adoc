@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 4 APR 1693
+
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0168[Dev-web]
-* https://localhost:4000/person?p=p0168[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0168[Adoc-web]
-* https://localhost:4000/adoc?p=p0168[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0168http://localhost:4000/person?p=p0168https://cfsjksas.gigalixirapp.com/adoc?p=p0168http://localhost:4000/adoc?p=p0168* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Leah_Whiton_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,18 +46,19 @@ Narrative TBD
 
 == Other
 event:  194
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  194
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALeah_Whiton_%281%29:
-----
+</p>
 
 
 == Sources
+

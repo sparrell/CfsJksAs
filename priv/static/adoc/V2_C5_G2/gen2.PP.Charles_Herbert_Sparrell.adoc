@@ -17,9 +17,9 @@ Narrative TBD
 * Deathplace: Worcester, Worcester, Massachusetts, USA
 
 * Buried: 
-----
+<p>
 2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-----
+</p>
 
 * Age at Death: 88
 
@@ -37,11 +37,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0922[Dev-web]
-* http://localhost:4000/person?p=p0922[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0922[Adoc-web]
-* adoc?p=p0922[Adoc-local]
-* https://www.geni.com/people/Charles-Sparrell/6000000019835016249[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0922http://localhost:4000/person?p=p0922https://cfsjksas.gigalixirapp.com/adoc?p=p0922http://localhost:4000/adoc?p=p0922* https://www.geni.com/people/Charles-Sparrell/6000000019835016249[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001183/charles-herbert-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charles_Sparrell_%281%29[WeRelate]
 * WikiTree TBD
@@ -55,29 +51,29 @@ Narrative TBD
 
 == Other
 census: 
-----
+<p>
 2 DATE 1910
 2 PLAC Worcester Ward 7, Worcester, Massachusetts, USA
 2 AGE 36-37
-----
+</p>
 
 event:  arteriosclerosis leading to cerebral thrombosis
-----
+<p>
 2 TYPE _DCAUSE
-----
+</p>
 
 notes: <p><p>The following written by Charles F Sparrell:</p></p><p><p>&nbsp;</p></p><p>Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from "Hinmans Business College" in Worcester. That is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Brothers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purchases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces without ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norcross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the depression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell ("Vinnie") had a prolonged bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my father was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.</p>
 
 occupation: Paymaster - Const. Company
-----
+<p>
 2 DATE 1910
 2 AGE 36-37
-----
+</p>
 
 
 == Sources
 * @S34@
-----
+<p>
 2 PAGE http://www.myheritage.com/research/collection-10132/1910-united-states-federal-census?s=20674952&itemId=37591443-&groupId=b32f026fbe807fd5c9df94159e9557e9&action=showRecord&indId=individual-20674952-15001347
 2 QUAY 4
 2 DATA
@@ -88,10 +84,10 @@ occupation: Paymaster - Const. Company
 4 CONC ion-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34<br />Son; <a href="research/col
 4 CONC lection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11<br />Son; <a href="resear
 4 CONC ch/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6</p>
-----
+</p>
 
 * @S43@
-----
+<p>
 2 PAGE https://www.myheritage.com/research/record-30033-379317/charles-h-sparrell-and-lavinia-e-strong-in-massachusetts-marriages
 2 QUAY 4
 2 DATA
@@ -111,6 +107,6 @@ occupation: Paymaster - Const. Company
 4 CONC GS Film number: 1843709
 4 CONC Digital Folder Number: 4332401
 4 CONC Image Number: 00557
-----
+</p>
 
 

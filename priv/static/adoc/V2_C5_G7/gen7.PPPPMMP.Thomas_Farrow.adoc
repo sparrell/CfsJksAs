@@ -7,9 +7,13 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: 10 APR 1721
+
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
+
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
+
 
 
 == Family
@@ -22,11 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0165[Dev-web]
-* https://localhost:4000/person?p=p0165[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0165[Adoc-web]
-* https://localhost:4000/adoc?p=p0165[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0165http://localhost:4000/person?p=p0165https://cfsjksas.gigalixirapp.com/adoc?p=p0165http://localhost:4000/adoc?p=p0165* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Farrow_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +45,10 @@ Narrative TBD
 
 == Other
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Farrow_%281%29:
-----
+</p>
 
 
 == Sources
+

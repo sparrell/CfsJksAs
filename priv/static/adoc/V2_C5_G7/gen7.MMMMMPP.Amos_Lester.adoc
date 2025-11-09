@@ -7,16 +7,22 @@ Narrative TBD
 
 
 * Sex: M
+
 * Birth: ABT 1728
+
 * Birthplace: Groton, New London, Connecticut, USA
+
 * Death: 5 MAY 1808
+
 * Deathplace: Groton, New London, Connecticut, USA
+
 * Buried: 
-----
+<p>
 2 PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
-----
+</p>
 
 * Age at Death: About 79-80
+
 
 
 == Family
@@ -29,11 +35,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPP.Amos_Lester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0934[Dev-web]
-* https://localhost:4000/person?p=p0934[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0934[Adoc-web]
-* https://localhost:4000/adoc?p=p0934[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0934http://localhost:4000/person?p=p0934https://cfsjksas.gigalixirapp.com/adoc?p=p0934http://localhost:4000/adoc?p=p0934* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Amos_Lester_%284%29[WeRelate]
 * WikiTree TBD
@@ -62,13 +64,16 @@ Narrative TBD
 
 == Other
 event:  Ensign Alarm List 2nd Co. 8th Regt. (Notes)
-----
+<p>
 2 TYPE Military Service
 2 DATE 1781
 2 AGE About 52-53
-----
+</p>
 
 notes: Amos Lester answered the alarm for the British attack on New London Ct on 6 September 1781. He took part in the defense of Fort Griswold and was struck in the hip by a musket ball. After the British captured the fort the wounded were rolled down the hill in an artillery cart by the British soldiers. The cart ran away further injuring the wounded men. Amos was permanently crippled and received a veteran's pension. His cousins, John and Jonas Lester, died from bayonet wounds in the battle. <p></p> <p>The raid on New London was planned and led by Benedict Arnold. Amos andJohn had been personal friends of  Arnold when he was growing up in Norwich CT. Arnold suggested the raid on New London because it was a havenfor American privateers and he was intimately familiar with the town and its defenses. The garrison of the fort were massacred and the town was burned. Arnold was long remembered by the people of the area.
+
 occupation: Farmer in present Ledyard CT
 
+
 == Sources
+

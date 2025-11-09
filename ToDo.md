@@ -23,6 +23,10 @@
   * John Elkerkin Jr immigrant https://www.wikitree.com/wiki/Elderkin-19
   * Abigail Kingsland immigrant https://www.wikitree.com/wiki/Kingsland-5
 
+## data
+
+p0741 william comstock has two lines commented out in people
+
 ## todo
 
 * still has Cfsjksas.Circle routine which needs to be moved

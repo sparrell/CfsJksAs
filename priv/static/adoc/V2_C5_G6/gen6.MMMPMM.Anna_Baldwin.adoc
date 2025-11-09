@@ -7,10 +7,15 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 27 JUN 1768
+
 * Birthplace: Stonington, New London, Connecticut, USA
+
 * Death: 31 AUG 1832
+
 * Age at Death: 64
+
 
 
 == Family
@@ -23,11 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0941[Dev-web]
-* https://localhost:4000/person?p=p0941[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0941[Adoc-web]
-* https://localhost:4000/adoc?p=p0941[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0941http://localhost:4000/person?p=p0941https://cfsjksas.gigalixirapp.com/adoc?p=p0941http://localhost:4000/adoc?p=p0941* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Baldwin_%286%29[WeRelate]
 * WikiTree TBD
@@ -55,3 +56,4 @@ Narrative TBD
 == Other
 
 == Sources
+

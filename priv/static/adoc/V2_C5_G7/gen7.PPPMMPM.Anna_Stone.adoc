@@ -7,8 +7,11 @@ Narrative TBD
 
 
 * Sex: F
+
 * Birth: 11 FEB 1740
+
 * Birthplace: Hopkinton, Middlesex, Massachusetts, USA
+
 
 
 == Family
@@ -21,11 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPM.Anna_Stone.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0139[Dev-web]
-* https://localhost:4000/person?p=p0139[Dev-local]
-* https://cfsjksas.gigalixirapp.com/adoc?p=p0139[Adoc-web]
-* https://localhost:4000/adoc?p=p0139[Adoc-local]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0139http://localhost:4000/person?p=p0139https://cfsjksas.gigalixirapp.com/adoc?p=p0139http://localhost:4000/adoc?p=p0139* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Stone_%2815%29[WeRelate]
 * WikiTree TBD
@@ -44,18 +43,19 @@ Narrative TBD
 
 == Other
 event:  168
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
  168
-----
+<p>
 2 TYPE Reference Number
-----
+</p>
 
 residence: 
-----
+<p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnna_Stone_%2815%29:
-----
+</p>
 
 
 == Sources
+
