@@ -204,7 +204,7 @@ defmodule Cfsjksas.Tools.Markdown do
 		make_relations("", person_p.relation_list, 1)
 	end
 	@doc """
-	make_relations(text, list_of_relation_lists, lineage_numb, relations)
+	make_relations(text, list_of_relation_lists, lineage_numb)
 	recurse thru the lisf of relation lists, making linkeage text for each
 	"""
 	def make_relations(text, [], _lineage_numb) do
