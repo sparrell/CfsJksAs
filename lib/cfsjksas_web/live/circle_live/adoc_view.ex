@@ -11,7 +11,7 @@ defmodule CfsjksasWeb.CircleLive.AdocView do
     person_of_interest = if Map.has_key?(params, "p") do
       String.to_existing_atom(params["p"])
     else
-      :p0005
+      :0486
     end
 
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(person_of_interest)
