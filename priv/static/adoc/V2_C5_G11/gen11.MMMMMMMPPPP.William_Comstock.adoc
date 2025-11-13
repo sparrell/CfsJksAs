@@ -28,7 +28,7 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
 
 
 == Reference Links
@@ -50,7 +50,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0741http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
 * gen11.MMMMMMMPPPP.William_Comstock_(1595 - 1683)
 
 === Lineage #2
@@ -64,7 +64,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0741http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
 * gen11.MMMMMMMPPPP.William_Comstock_(1595 - 1683)
 
 

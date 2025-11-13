@@ -1,0 +1,146 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=150, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+
+{edge [style=invis]; title00 -> p0277;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="Daniel Gideon Comstock (1628 - 1683)" fontsize=40];		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0277 -> p0280;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0280 -> p0272;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0272 -> p0258;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0258 -> p0923;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0923 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0277 -> p0280;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0280 -> p0272;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0272 -> p0258;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0258 -> p0923;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0923 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0277 -> p9996;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p9996 -> p9998;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p9998 -> p0856;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0856 -> p0813;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0813 -> p0683;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0683 -> p0661;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0661 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0277 -> p9996;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p9996 -> p9998;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p9998 -> p0856;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0856 -> p0813;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0813 -> p0683;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0683 -> p0661;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0661 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0486 -> p0005;}
+		p0661 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Erastus Brewster Kimball
+(1798 - 1879)" ];
+		p0683 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Nathaniel Kimball
+(1768 - 1822)" ];
+		p0813 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Satterlee
+(1746 - 1809)" ];
+		p0856 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Powers
+(? - 1785)" ];
+		p9998 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Jemina Billings
+(1695 - 1733)" ];
+		p9996 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Comstock
+(circa 1663 - 1726/7)" ];
+		p0486 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+(1899 - 1978)" ];
+		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
+(1875 - 1941)" ];
+		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
+(1850 - 1914)" ];
+		p0074 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+(1904 - 2002)" ];
+		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
+(1874 - 1965)" ];
+		p0650 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb
+(1855 - 1939)" ];
+		p0639 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Lavinia Kimball
+(1830 - 1909)" ];
+		p0672 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Ann Lester
+(1802 - 1888)" ];
+		p0923 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Avery
+(1781 - 1872)" ];
+		p0258 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Comstock
+(1743 - 1785)" ];
+		p0272 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Comstock
+(1705 - 1743)" ];
+		p0280 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Daniel Comstock
+(1671 - 1746)" ];
+		p0277 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Daniel Gideon Comstock
+(1628 - 1683)" ];
+	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+}
+

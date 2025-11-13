@@ -28,9 +28,9 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :p9995,
+			father: :p0281,
 			former_name: nil,
-			given_name: "first middle",
+			given_name: "Ebenezer",
 			graduation: [
 			],
 			id: :p9997,
@@ -49,7 +49,7 @@
 			],
 			mh_id: nil,
 			mh_name: "Ebenezer /Billings/",
-			mother: :p9994,
+			mother: :p0282,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,

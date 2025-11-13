@@ -18,18 +18,6 @@ defmodule Cfsjksas.Links.FindLink do
   def update(:geni = link_source) do
     IO.inspect("#{link_source} not implemented yet")
   end
-  def update(:wikitree = link_source) do
-    # zero dev counts
-    Cfsjksas.DevTools.StoreReset.zero_counts()
-
-    all_ids_a = Cfsjksas.Ancestors.AgentStores.id_a_by_gen()
-    IO.inspect("length of all_ids_a #{length(all_ids_a)}")
-    # initialize updated ancestors with existing ancestor map
-    starting_ancestors = Cfsjksas.Ancestors.AgentStores.get_ancestors()
-    updates_done = 0
-
-    process_people(starting_ancestors, link_source, all_ids_a, updates_done)
-  end
   def update(:werelate = link_source) do
     # zero dev counts
     Cfsjksas.DevTools.StoreReset.zero_counts()

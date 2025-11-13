@@ -30,7 +30,7 @@ Narrative TBD
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPM.Pelatiah_Elderkin.adoc[Pelatiah Elderkin (1635 - 1713)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 

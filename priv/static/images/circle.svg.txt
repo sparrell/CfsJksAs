@@ -6824,6 +6824,18 @@ brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_9_231" d="M 7986 17052 A 13600 13600 0 0 1 8035 16893 L 10323 17618 A 11200 11200 0 0 0 10282 17749 L 7986 17052 " />
+<clipPath id="sector_9_231_clip">
+<use href="#sector_9_231"/>
+</clipPath></defs>
+<use href="#sector_9_231" stroke="#FF6EC7" stroke-width="20" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_9_231_clip)"/>
+<path id="ray_g9_s231" d="M 8010,16972 L 10302,17683" />
+<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
+<textPath href="#ray_g9_s231" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Jemina Billings (1695 - 1733)
+</textPath>
+</text>
+<defs>
 <path id="sector_9_232" d="M 7938 17212 A 13600 13600 0 0 1 7986 17052 L 10282 17749 A 11200 11200 0 0 0 10243 17881 L 7938 17212 " />
 <clipPath id="sector_9_232_clip">
 <use href="#sector_9_232"/>
@@ -7961,6 +7973,18 @@ Anne Avery (1692 - ?)
 <text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
 <textPath href="#ray_g9_s486" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_9_487" d="M 34014 24948 A 13600 13600 0 0 1 33965 25107 L 31677 24382 A 11200 11200 0 0 0 31718 24251 L 34014 24948 " />
+<clipPath id="sector_9_487_clip">
+<use href="#sector_9_487"/>
+</clipPath></defs>
+<use href="#sector_9_487" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="0%" clip-path="url(#sector_9_487_clip)"/>
+<path id="ray_g9_s487" d="M 31698,24317 L 33990,25028" />
+<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
+<textPath href="#ray_g9_s487" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Jemina Billings (1695 - 1733)
 </textPath>
 </text>
 <defs>
@@ -10594,6 +10618,30 @@ Abigail Chesebrough (1656 - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_462" d="M 5813 16291 A 15900 15900 0 0 1 5842 16198 L 8035 16893 A 13600 13600 0 0 0 8010 16972 L 5813 16291 " />
+<clipPath id="sector_10_462_clip">
+<use href="#sector_10_462"/>
+</clipPath></defs>
+<use href="#sector_10_462" stroke="blue" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_462_clip)"/>
+<path id="ray_g10_s462" d="M 5828,16245 L 8022,16933" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s462" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ebenezer Billings (1660/1 - 1726/7)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_463" d="M 5785 16384 A 15900 15900 0 0 1 5813 16291 L 8010 16972 A 13600 13600 0 0 0 7986 17052 L 5785 16384 " />
+<clipPath id="sector_10_463_clip">
+<use href="#sector_10_463"/>
+</clipPath></defs>
+<use href="#sector_10_463" stroke="#FF6EC7" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_463_clip)"/>
+<path id="ray_g10_s463" d="M 5799,16338 L 7998,17012" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s463" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ann Comstock (circa 1663 - 1726/7)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_464" d="M 5757 16478 A 15900 15900 0 0 1 5785 16384 L 7986 17052 A 13600 13600 0 0 0 7962 17132 L 5757 16478 " />
 <clipPath id="sector_10_464_clip">
 <use href="#sector_10_464"/>
@@ -11034,7 +11082,7 @@ Hannah Palmer (1635 - ?)
 <path id="ray_g10_s504" d="M 5117,20269 L 7414,20374" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s504" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Gideon Comstock (1628 - 1683)
+Daniel Gideon Comstock (1628 - 1683)
 </textPath>
 </text>
 <defs>
@@ -12418,6 +12466,30 @@ Abigail Chesebrough (1656 - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_974" d="M 36187 25709 A 15900 15900 0 0 1 36158 25802 L 33965 25107 A 13600 13600 0 0 0 33990 25028 L 36187 25709 " />
+<clipPath id="sector_10_974_clip">
+<use href="#sector_10_974"/>
+</clipPath></defs>
+<use href="#sector_10_974" stroke="blue" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_974_clip)"/>
+<path id="ray_g10_s974" d="M 33978,25067 L 36172,25755" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s974" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ebenezer Billings (1660/1 - 1726/7)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_975" d="M 36215 25616 A 15900 15900 0 0 1 36187 25709 L 33990 25028 A 13600 13600 0 0 0 34014 24948 L 36215 25616 " />
+<clipPath id="sector_10_975_clip">
+<use href="#sector_10_975"/>
+</clipPath></defs>
+<use href="#sector_10_975" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_975_clip)"/>
+<path id="ray_g10_s975" d="M 34002,24988 L 36201,25662" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s975" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ann Comstock (circa 1663 - 1726/7)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_976" d="M 36243 25522 A 15900 15900 0 0 1 36215 25616 L 34014 24948 A 13600 13600 0 0 0 34038 24868 L 36243 25522 " />
 <clipPath id="sector_10_976_clip">
 <use href="#sector_10_976"/>
@@ -12858,7 +12930,7 @@ Hannah Palmer (1635 - ?)
 <path id="ray_g10_s1016" d="M 34586,21626 L 36883,21731" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s1016" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Gideon Comstock (1628 - 1683)
+Daniel Gideon Comstock (1628 - 1683)
 </textPath>
 </text>
 <defs>
@@ -15552,6 +15624,54 @@ Abigail Ingraham (1636 - 1698)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_924" d="M 4396 15796 A 17400 17400 0 0 1 4412 15745 L 5842 16198 A 15900 15900 0 0 0 5828 16245 L 4396 15796 " />
+<clipPath id="sector_11_924_clip">
+<use href="#sector_11_924"/>
+</clipPath></defs>
+<use href="#sector_11_924" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_924_clip)"/>
+<path id="ray_g11_s924" d="M 4404,15771 L 5835,16221" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s924" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+William Billings (1629 - 1712)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_925" d="M 4381 15847 A 17400 17400 0 0 1 4396 15796 L 5828 16245 A 15900 15900 0 0 0 5813 16291 L 4381 15847 " />
+<clipPath id="sector_11_925_clip">
+<use href="#sector_11_925"/>
+</clipPath></defs>
+<use href="#sector_11_925" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_925_clip)"/>
+<path id="ray_g11_s925" d="M 4388,15821 L 5820,16268" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s925" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_926" d="M 4365 15898 A 17400 17400 0 0 1 4381 15847 L 5813 16291 A 15900 15900 0 0 0 5799 16338 L 4365 15898 " />
+<clipPath id="sector_11_926_clip">
+<use href="#sector_11_926"/>
+</clipPath></defs>
+<use href="#sector_11_926" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_926_clip)"/>
+<path id="ray_g11_s926" d="M 4373,15872 L 5806,16315" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s926" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Daniel Gideon Comstock (1628 - 1683)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_927" d="M 4349 15949 A 17400 17400 0 0 1 4365 15898 L 5799 16338 A 15900 15900 0 0 0 5785 16384 L 4349 15949 " />
+<clipPath id="sector_11_927_clip">
+<use href="#sector_11_927"/>
+</clipPath></defs>
+<use href="#sector_11_927" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_927_clip)"/>
+<path id="ray_g11_s927" d="M 4357,15924 L 5792,16361" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s927" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Pelatiah Elderkin (1635 - 1713)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_928" d="M 4334 16000 A 17400 17400 0 0 1 4349 15949 L 5785 16384 A 15900 15900 0 0 0 5771 16431 L 4334 16000 " />
 <clipPath id="sector_11_928_clip">
 <use href="#sector_11_928"/>
@@ -18168,6 +18288,54 @@ Abigail Ingraham (1636 - 1698)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_1948" d="M 37604 26204 A 17400 17400 0 0 1 37588 26255 L 36158 25802 A 15900 15900 0 0 0 36172 25755 L 37604 26204 " />
+<clipPath id="sector_11_1948_clip">
+<use href="#sector_11_1948"/>
+</clipPath></defs>
+<use href="#sector_11_1948" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1948_clip)"/>
+<path id="ray_g11_s1948" d="M 36165,25779 L 37596,26229" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1948" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+William Billings (1629 - 1712)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1949" d="M 37619 26153 A 17400 17400 0 0 1 37604 26204 L 36172 25755 A 15900 15900 0 0 0 36187 25709 L 37619 26153 " />
+<clipPath id="sector_11_1949_clip">
+<use href="#sector_11_1949"/>
+</clipPath></defs>
+<use href="#sector_11_1949" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1949_clip)"/>
+<path id="ray_g11_s1949" d="M 36180,25732 L 37612,26179" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1949" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1950" d="M 37635 26102 A 17400 17400 0 0 1 37619 26153 L 36187 25709 A 15900 15900 0 0 0 36201 25662 L 37635 26102 " />
+<clipPath id="sector_11_1950_clip">
+<use href="#sector_11_1950"/>
+</clipPath></defs>
+<use href="#sector_11_1950" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1950_clip)"/>
+<path id="ray_g11_s1950" d="M 36194,25685 L 37627,26128" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1950" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Daniel Gideon Comstock (1628 - 1683)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1951" d="M 37651 26051 A 17400 17400 0 0 1 37635 26102 L 36201 25662 A 15900 15900 0 0 0 36215 25616 L 37651 26051 " />
+<clipPath id="sector_11_1951_clip">
+<use href="#sector_11_1951"/>
+</clipPath></defs>
+<use href="#sector_11_1951" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1951_clip)"/>
+<path id="ray_g11_s1951" d="M 36208,25639 L 37643,26076" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1951" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Pelatiah Elderkin (1635 - 1713)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_1952" d="M 37666 26000 A 17400 17400 0 0 1 37651 26051 L 36215 25616 A 15900 15900 0 0 0 36229 25569 L 37666 26000 " />
 <clipPath id="sector_11_1952_clip">
 <use href="#sector_11_1952"/>
@@ -20318,6 +20486,30 @@ Elizabeth Wignall (1604 - 1668)
 </textPath>
 </text>
 <defs>
+<path id="sector_12_1854" d="M 3687 15719 A 18100 18100 0 0 1 3696 15693 L 4365 15898 A 17400 17400 0 0 0 4357 15924 L 3687 15719 " />
+<clipPath id="sector_12_1854_clip">
+<use href="#sector_12_1854"/>
+</clipPath></defs>
+<use href="#sector_12_1854" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1854_clip)"/>
+<path id="ray_g12_s1854" d="M 3692,15706 L 4361,15911" />
+<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
+<textPath href="#ray_g12_s1854" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+John Elderkin (1614 - 1687)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_1855" d="M 3679 15746 A 18100 18100 0 0 1 3687 15719 L 4357 15924 A 17400 17400 0 0 0 4349 15949 L 3679 15746 " />
+<clipPath id="sector_12_1855_clip">
+<use href="#sector_12_1855"/>
+</clipPath></defs>
+<use href="#sector_12_1855" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1855_clip)"/>
+<path id="ray_g12_s1855" d="M 3683,15733 L 4353,15936" />
+<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
+<textPath href="#ray_g12_s1855" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Abigail Pehr Kingland (? - 1643)
+</textPath>
+</text>
+<defs>
 <path id="sector_12_1856" d="M 3671 15772 A 18100 18100 0 0 1 3679 15746 L 4349 15949 A 17400 17400 0 0 0 4342 15975 L 3671 15772 " />
 <clipPath id="sector_12_1856_clip">
 <use href="#sector_12_1856"/>
@@ -21503,6 +21695,30 @@ Richard Ingraham (1604 - 1683)
 <text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
 <textPath href="#ray_g12_s3887" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Wignall (1604 - 1668)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3902" d="M 38313 26281 A 18100 18100 0 0 1 38304 26307 L 37635 26102 A 17400 17400 0 0 0 37643 26076 L 38313 26281 " />
+<clipPath id="sector_12_3902_clip">
+<use href="#sector_12_3902"/>
+</clipPath></defs>
+<use href="#sector_12_3902" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_3902_clip)"/>
+<path id="ray_g12_s3902" d="M 37639,26089 L 38308,26294" />
+<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
+<textPath href="#ray_g12_s3902" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+John Elderkin (1614 - 1687)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3903" d="M 38321 26254 A 18100 18100 0 0 1 38313 26281 L 37643 26076 A 17400 17400 0 0 0 37651 26051 L 38321 26254 " />
+<clipPath id="sector_12_3903_clip">
+<use href="#sector_12_3903"/>
+</clipPath></defs>
+<use href="#sector_12_3903" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_3903_clip)"/>
+<path id="ray_g12_s3903" d="M 37647,26064 L 38317,26267" />
+<text style="font-family: sans-serif; font-size:8pt; fill:#000000;">
+<textPath href="#ray_g12_s3903" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Abigail Pehr Kingland (? - 1643)
 </textPath>
 </text>
 <defs>
@@ -22788,5 +23004,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-11-08 21:16:44.930373Z -->
+<!-- made new svg at 2025-11-13 22:35:45.955254Z -->
 </svg>

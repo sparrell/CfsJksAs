@@ -7327,6 +7327,89 @@
 			will: [
 			],
 		},
+		##############  Ebenezer Billings
+		p9997: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "circa 1660/1",
+			birth_note: nil,
+			birth_place: "Stonington, CT",
+			birth_source: nil,
+			birth_year: "1660/1",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "16 Sep 1726/7",
+			death_note: nil,
+			death_place: nil,
+			death_source: nil,
+			death_year: "1726/7",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: :p0283,
+			former_name: nil,
+			given_name: "Ebenezer",
+			graduation: [
+			],
+			id: :p9997,
+			immigration: nil,
+			label: "gen10.MMMMPPMMMP.Ebenezer_Billings",
+			links: %{
+				geni: "https://www.geni.com/people/Ebenezer-Billings/6000000035337056833",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500048/ebenezer-billings",
+				werelate: "https://www.werelate.org/wiki/Person:Ebenezer_Billings_%282%29",
+				wikitree: "https://www.wikitree.com/wiki/Billings-45",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Ebenezer /Billings/",
+			mother: nil,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+		        "Ensign in military",
+        		"soldier in King Phillips War"
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "P"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "P"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "M",
+			sources: [
+			],
+			surname: "Billings",
+			title: nil,
+			uid: nil,
+			upd: nil,
+			will: [
+			],
+		},
 		##############  Elizabeth Billings
 		p0260: %{
 			also_known_as: nil,
@@ -7403,6 +7486,87 @@
 			surname: "Billings",
 			title: nil,
 			uid: "4A4165A5-6554-4C91-8755-2B4702B10B30",
+			upd: nil,
+			will: [
+			],
+		},
+		##############  Jemina Billings
+		p9998: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "15 Apr 1695",
+			birth_note: nil,
+			birth_place: "Stonington, CT",
+            birth_source: nil,
+			birth_year: "1695",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "Jan 23 1733",
+			death_note: nil,
+			death_place: "Stonington, CT",
+			death_source: nil,
+			death_year: "1733",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: :p9997,
+			former_name: nil,
+			given_name: "Jemina",
+			graduation: [
+			],
+			id: :p9998,
+			immigration: nil,
+			label: "gen9.MMMMPPMMM.Jemina_Billings",
+			links: %{
+				geni: "https://www.geni.com/people/Jemima-Billings/6000000002908270450",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500047/jemina-billings",
+				werelate: "https://www.werelate.org/wiki/Person:Jemima_Billings_%281%29",
+				wikitree: "https://www.wikitree.com/wiki/Billings-1513",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Jemina /Billings/",
+			mother: :p9996,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["M", "M", "M", "M", "P", "P", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "F",
+			sources: [
+			],
+			surname: "Billings",
+			title: nil,
+			uid: nil,
 			upd: nil,
 			will: [
 			],
@@ -7555,6 +7719,8 @@
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "P", "M", "P", "P"],
 				["P", "M", "M", "M", "M", "M", "P", "M", "P", "P"],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "P", "P"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "P", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -17418,6 +17584,92 @@
 			will: [
 			],
 		},
+		##############  Ann Comstock
+		p9996: %{
+			also_known_as: nil,
+			baptism: "9 April 1670/1",
+			birth_date: "circa 1663",
+			birth_note: nil,
+			birth_place: "Norwich, CT",
+			birth_source: nil,
+			birth_year: "circa 1663",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "circa Oct 1726/7",
+			death_note: nil,
+			death_place: "Stonington, CT",
+			death_source: nil,
+			death_year: "1726/7",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: :p0277,
+			former_name: nil,
+			given_name: "Ann",
+			graduation: [
+			],
+			id: :p9996,
+			immigration: nil,
+			label: "gen10.MMMMPPMMMM.Ann_Comstock",
+			links: %{
+				geni: "https://www.geni.com/people/Anna-Billings/6000000002531165775",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500049/ann-comstock-billings",
+				werelate: "https://www.werelate.org/w/index.php?title=Person:Anna_Comstock_%289%29",
+				wikitree: "https://www.wikitree.com/wiki/Comstock-40",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Ann /Comstock/",
+			mother: :p0278,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "F",
+			sources: [
+			],
+			surname: "Comstock",
+			title: nil,
+			uid: nil,
+			upd: nil,
+			will: [
+			],
+		},
+
+
+
+
+
 		##############  Daniel Comstock
 		p0280: %{
 			also_known_as: nil,
@@ -17497,9 +17749,9 @@
 			will: [
 			],
 		},
-		##############  Gideon Comstock
+		##############  Daniel Gideon Comstock
 		p0277: %{
-			also_known_as: nil,
+			also_known_as: "Gideon Comstock",
 			baptism: nil,
 			birth_date: "1628",
 			birth_note: nil,
@@ -17530,13 +17782,17 @@
 			],
 			father: :p0741,
 			former_name: nil,
-			given_name: "Gideon",
+			given_name: "Daniel Gideon",
 			graduation: [
 			],
 			id: :p0277,
 			immigration: nil,
-			label: "gen10.MMMMMMMPPP.Gideon_Comstock",
+			label: "gen10.MMMMMMMPPP.Daniel_Gideon_Comstock",
 			links: %{
+				geni: "https://www.geni.com/people/Daniel-Comstock-Sr/6000000002531156683",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500052/daniel-comstock",
+				werelate: "https://www.werelate.org/wiki/Person:Daniel_Comstock_%286%29",
+				wikitree: "https://www.wikitree.com/wiki/Comstock-147",
 			},
 			married_name: nil,
 			mh_famc: "F330",
@@ -17545,7 +17801,7 @@
 				"F83",
 			],
 			mh_id: "I512",
-			mh_name: "Gideon /Comstock/",
+			mh_name: "Daniel Gideon /Comstock/",
 			mother: :p0740,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -17553,6 +17809,7 @@
 			nickname: nil,
 			notes: [
 				"Present Comstock Cemetery in Uncasville is on land that was part of Daniel Comstock's farm. <p></p> <p>History of Montville shows line: William-Gideon-Daniel-John-Mary</p>",
+				"conflict on whether Gideon is seperate person from Daniel. Going with Comstock Genealogy that same person",
 			],
 			occupation: [
 			],
@@ -17562,6 +17819,8 @@
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "M", "P", "P", "P"],
 				["P", "M", "M", "M", "M", "M", "M", "P", "P", "P"],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -22886,6 +23145,10 @@
 			immigration: nil,
 			label: "gen11.MMMMMMMPPMP.John_Elderkin",
 			links: %{
+				geni: "https://www.geni.com/people/John-Elderkin-III/6000000009896924544",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500054/john-elderkin",
+				werelate: "https://www.werelate.org/wiki/Person:John_Elderkin_%282%29",
+				wikitree: "https://www.wikitree.com/wiki/Elderkin-19",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -22912,6 +23175,8 @@
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "M", "P", "P", "M", "P"],
 				["P", "M", "M", "M", "M", "M", "M", "P", "P", "M", "P"],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -22933,7 +23198,7 @@
 		},
 		##############  Pelatiah Elderkin
 		p0278: %{
-			also_known_as: nil,
+			also_known_as: "Paltiah",
 			baptism: nil,
 			birth_date: "ABT 1635",
 			birth_note: nil,
@@ -22995,6 +23260,8 @@
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "M", "P", "P", "M"],
 				["P", "M", "M", "M", "M", "M", "M", "P", "P", "M"],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
@@ -38031,6 +38298,10 @@
 			immigration: nil,
 			label: "gen11.MMMMMMMPPMM.Abigail_Pehr_Kingland",
 			links: %{
+				geni: "https://www.geni.com/people/Abigail-Elderkin/6000000002531156142",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500055/abigail-kingland-elderkin",
+				werelate: "https://www.werelate.org/wiki/Person:Abigail_Kingsland_%281%29",
+				wikitree: "https://www.wikitree.com/wiki/Kingsland-5",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -38055,6 +38326,8 @@
 			relation_list: [
 				["M", "M", "M", "M", "M", "M", "M", "P", "P", "M", "M"],
 				["P", "M", "M", "M", "M", "M", "M", "P", "P", "M", "M"],
+				["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
@@ -50803,7 +51076,7 @@
 			],
 			mh_id: "I1117",
 			mh_name: "Mary /Powers/",
-			mother: nil, #:p9998,
+			mother: :p9998,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -58079,8 +58352,6 @@
 			emigration: [
 			],
 			event: [
-				" 298\n2 TYPE Reference Number",
-				" 298\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f074,
 			family_of_procreation: [

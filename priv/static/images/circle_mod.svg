@@ -6296,6 +6296,18 @@ brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_9_487" d="M 27014 24948 A 13600 13600 0 0 1 26965 25107 L 24677 24382 A 11200 11200 0 0 0 24718 24251 L 27014 24948 " />
+<clipPath id="sector_9_487_clip">
+<use href="#sector_9_487"/>
+</clipPath></defs>
+<use href="#sector_9_487" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="0%" clip-path="url(#sector_9_487_clip)"/>
+<path id="ray_g9_s487" d="M 24698,24317 L 26990,25028" />
+<text style="font-family: sans-serif; font-size:75pt; fill:#000000;">
+<textPath href="#ray_g9_s487" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Jemina Billings (1695 - 1733)
+</textPath>
+</text>
+<defs>
 <path id="sector_9_488" d="M 27062 24788 A 13600 13600 0 0 1 27014 24948 L 24718 24251 A 11200 11200 0 0 0 24757 24119 L 27062 24788 " />
 <clipPath id="sector_9_488_clip">
 <use href="#sector_9_488"/>
@@ -9238,6 +9250,30 @@ Abigail Chesebrough (1656 - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_974" d="M 29187 25709 A 15900 15900 0 0 1 29158 25802 L 26965 25107 A 13600 13600 0 0 0 26990 25028 L 29187 25709 " />
+<clipPath id="sector_10_974_clip">
+<use href="#sector_10_974"/>
+</clipPath></defs>
+<use href="#sector_10_974" stroke="blue" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_974_clip)"/>
+<path id="ray_g10_s974" d="M 26978,25067 L 29172,25755" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s974" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ebenezer Billings (1660/1 - 1726/7)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_975" d="M 29215 25616 A 15900 15900 0 0 1 29187 25709 L 26990 25028 A 13600 13600 0 0 0 27014 24948 L 29215 25616 " />
+<clipPath id="sector_10_975_clip">
+<use href="#sector_10_975"/>
+</clipPath></defs>
+<use href="#sector_10_975" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="0%" clip-path="url(#sector_10_975_clip)"/>
+<path id="ray_g10_s975" d="M 27002,24988 L 29201,25662" />
+<text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
+<textPath href="#ray_g10_s975" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Ann Comstock (circa 1663 - 1726/7)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_976" d="M 29243 25522 A 15900 15900 0 0 1 29215 25616 L 27014 24948 A 13600 13600 0 0 0 27038 24868 L 29243 25522 " />
 <clipPath id="sector_10_976_clip">
 <use href="#sector_10_976"/>
@@ -9654,7 +9690,7 @@ Hannah Palmer (1635 - ?)
 <path id="ray_g10_s1016" d="M 27586,21626 L 29883,21731" />
 <text style="font-family: sans-serif; font-size:50pt; fill:#000000;">
 <textPath href="#ray_g10_s1016" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Gideon Comstock (1628 - 1683)
+Daniel Gideon Comstock (1628 - 1683)
 </textPath>
 </text>
 <defs>
@@ -12336,6 +12372,54 @@ Abigail Ingraham (1636 - 1698)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_1948" d="M 30604 26204 A 17400 17400 0 0 1 30588 26255 L 29158 25802 A 15900 15900 0 0 0 29172 25755 L 30604 26204 " />
+<clipPath id="sector_11_1948_clip">
+<use href="#sector_11_1948"/>
+</clipPath></defs>
+<use href="#sector_11_1948" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1948_clip)"/>
+<path id="ray_g11_s1948" d="M 29165,25779 L 30596,26229" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1948" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+William Billings (1629 - 1712)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1949" d="M 30619 26153 A 17400 17400 0 0 1 30604 26204 L 29172 25755 A 15900 15900 0 0 0 29187 25709 L 30619 26153 " />
+<clipPath id="sector_11_1949_clip">
+<use href="#sector_11_1949"/>
+</clipPath></defs>
+<use href="#sector_11_1949" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="50%" clip-path="url(#sector_11_1949_clip)"/>
+<path id="ray_g11_s1949" d="M 29180,25732 L 30612,26179" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1949" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1950" d="M 30635 26102 A 17400 17400 0 0 1 30619 26153 L 29187 25709 A 15900 15900 0 0 0 29201 25662 L 30635 26102 " />
+<clipPath id="sector_11_1950_clip">
+<use href="#sector_11_1950"/>
+</clipPath></defs>
+<use href="#sector_11_1950" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1950_clip)"/>
+<path id="ray_g11_s1950" d="M 29194,25685 L 30627,26128" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1950" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Daniel Gideon Comstock (1628 - 1683)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1951" d="M 30651 26051 A 17400 17400 0 0 1 30635 26102 L 29201 25662 A 15900 15900 0 0 0 29215 25616 L 30651 26051 " />
+<clipPath id="sector_11_1951_clip">
+<use href="#sector_11_1951"/>
+</clipPath></defs>
+<use href="#sector_11_1951" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_1951_clip)"/>
+<path id="ray_g11_s1951" d="M 29208,25639 L 30643,26076" />
+<text style="font-family: sans-serif; font-size:32pt; fill:#000000;">
+<textPath href="#ray_g11_s1951" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Pelatiah Elderkin (1635 - 1713)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_1952" d="M 30666 26000 A 17400 17400 0 0 1 30651 26051 L 29215 25616 A 15900 15900 0 0 0 29229 25569 L 30666 26000 " />
 <clipPath id="sector_11_1952_clip">
 <use href="#sector_11_1952"/>
@@ -14664,5 +14748,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-11-08 21:16:58.590184Z -->
+<!-- made new svg at 2025-11-13 22:35:57.202139Z -->
 </svg>
