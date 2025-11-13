@@ -68,20 +68,4 @@ defmodule Cfsjksas.Links.FindLink do
     |> process_people(:werelate, rest_ids_a, Cfsjksas.DevTools.StoreUpdatingLink.value())
 
   end
-  defp process_people(updating_ancestors, :wikitree, [id_a | rest_ids_a], _updates_done) do
-    Cfsjksas.DevTools.StoreCountPeople.increment()
-    # objective is to update parent's links
-    # by screen scraping the child's werelate page
-
-IO.inspect("##### #{id_a} ####")
-    updating_ancestors
-    |> Cfsjksas.Links.Utils.precheck(:wikitree, id_a)
-    |> Cfsjksas.Links.Wikitree.screenscrape(id_a)
-    |> Cfsjksas.Links.Wikitree.update_father(id_a)
-    |> Cfsjksas.Links.Wikitree.update_mother(id_a)
-    # pass on updated ancestors, recalc updates_done
-    |> process_people(:wikitree, rest_ids_a, Cfsjksas.DevTools.StoreUpdatingLink.value())
-
-  end
-
 end
