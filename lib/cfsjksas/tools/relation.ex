@@ -669,11 +669,23 @@ defmodule Cfsjksas.Tools.Relation do
     # add category termination
     # return tuple of {new relations, gen, new id_list}
     person_id = relations[gen][this].id
-    if person_id == nil do
-      IEx.pry()
+    category = case person_id do
+      nil ->
+        raise "nil person_id"
+      :bw ->
+        :bw
+      _ ->
+        Cfsjksas.Ancestors.Person.categorize_person(person_id)
     end
-    category = Cfsjksas.Ancestors.Person.categorize_person(person_id)
-    { put_in(relations, [gen, this, :termination], category),
+
+######
+#
+#    if person_id == nil do
+#      IEx.pry()
+#    end
+#   category = Cfsjksas.Ancestors.Person.categorize_person(person_id)
+
+{ put_in(relations, [gen, this, :termination], category),
       gen,
       [relations[gen][this].id | id_list]
     }

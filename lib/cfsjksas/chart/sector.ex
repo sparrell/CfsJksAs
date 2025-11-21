@@ -62,6 +62,7 @@ defmodule Cfsjksas.Chart.Sector do
     stroke_width: "50",
     fill: "none",
     fill_opacity: "50%",
+    font_color: "black",
     quadrant: :ne,
     reverse: false,
     inner_radius: 100,
@@ -94,6 +95,7 @@ defmodule Cfsjksas.Chart.Sector do
     stroke_width: String.t(),
     fill: String.t(),
     fill_opacity: String.t(),
+    font_color: String.t(),
     quadrant: atom(),
     reverse: boolean(),
     inner_radius: integer(),
@@ -115,19 +117,28 @@ defmodule Cfsjksas.Chart.Sector do
   def make(id_l, person_l, person_a, cfg, chart_type) do
     {gen, quadrant, sector_number} = id_l
     # special case for brickwalls
-    person_a = case person_a == nil do
-      false ->
-        person_a
-      true ->
+    person_a1 = case person_a do
+      nil ->
+        # brickwall
         %{
           given_name: "brickwall",
           surname: "",
           birth_year: "?",
           death_year: "?",
         }
+      :bw ->
+        # researched brickwall
+        %{
+          given_name: "* Brickwall",
+          surname: "",
+          birth_year: "?",
+          death_year: "?",
+        }
+      _ ->
+        person_a
     end
 
-    new_struct(gen, quadrant, sector_number, cfg, person_l, person_a)
+    new_struct(gen, quadrant, sector_number, cfg, person_l, person_a1)
     |> add_g11_sector_number(chart_type)
     |> add_inner_radius(chart_type)
     |> add_outer_radius(chart_type)
@@ -150,7 +161,7 @@ defmodule Cfsjksas.Chart.Sector do
     # line color is function of male or female
     line_color = line_color(person_l.relation)
     # fill/fill_opacity is function of immigrant, duplicate, brickwall
-    {fill, opacity} = format(person_l)
+    {fill, opacity, font_color} = format(person_l)
     # for name
     given_name = person_a.given_name
     surname = person_a.surname
@@ -173,6 +184,7 @@ defmodule Cfsjksas.Chart.Sector do
       line_color: line_color,
       fill: fill,
       fill_opacity: opacity,
+      font_color: font_color,
     }
   end
 
@@ -197,27 +209,27 @@ defmodule Cfsjksas.Chart.Sector do
   end
   defp format(%{duplicate: :branch} = _person_l) do
     # if duplicate-branch, color green
-    {"lightgreen", "50%"}
+    {"green", "100%", "white"}
   end
   defp format(%{duplicate: :redundant} = _person_l) do
-    # if duplicate-branch, color green
-    {"lightgreen", "50%"}
+    # if duplicate-redundant, color green
+    {"lightgreen", "50%", "black"}
   end
   defp format(%{immigrant: :ship} = _person_l) do
     # if ship, fill is blue
-    {"dodgerblue", "10%"}
+    {"dodgerblue", "100%", "yellow"}
   end
   defp format(%{immigrant: :no_ship} = _person_l) do
     # if ship, fill is light blue
-    {"lightskyblue", "10%"}
+    {"lightskyblue", "100%", "black"}
   end
   defp format(%{brickwall: true} = _person_l) do
-    # if duplicate-branch, color green
-    {"red", "50%"}
+    # if brickwall, color red
+    {"red", "100%", "white"}
   end
   defp format(_person_l) do
     # otherwise no fil
-    {"none", "0%"}
+    {"none", "100%", "black"}
   end
 
   defp quadrant_reverse(:ne) do
