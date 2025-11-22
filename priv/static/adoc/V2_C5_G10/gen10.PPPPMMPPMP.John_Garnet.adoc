@@ -1,4 +1,4 @@
-= John Garnet (? - 1650)
+= John Garnet (abt 1630 - 1668)
 
 Narrative TBD
 
@@ -8,7 +8,9 @@ Narrative TBD
 
 * Sex: M
 
-* Death: ABT 1650
+* Birth: abt 1630
+
+* Death: 1668
 
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
 
@@ -46,7 +48,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0677http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPP.Benjamin_Farrow.adoc[Benjamin Farrow (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPM.Mary_Garnet.adoc[Mary Garnet (1654 - 1709)]
-* gen10.PPPPMMPPMP.John_Garnet_(? - 1650)
+* gen10.PPPPMMPPMP.John_Garnet_(abt 1630 - 1668)
 
 
 == Other

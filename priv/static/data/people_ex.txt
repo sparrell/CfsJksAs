@@ -61253,10 +61253,10 @@
 			birth_place: "Worcester, Worcester, Massachusetts, USA",
 			birth_source: nil,
 			birth_year: "1875",
-			buried: "\n2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA",
+			buried: "Hope Cemetery, Worcester, Worcester, Massachusetts, USA",
 			census: [
-				"\n2 DATE 1910\n2 PLAC Worcester Ward 7, Worcester, Massachusetts, USA\n2 AGE 34-35",
-				" Living in Worcester with parents\n2 DATE 1880\n2 AGE 4-5",
+				"DATE 1910\n\n\tPLAC Worcester Ward 7, Worcester, Massachusetts, USA\n\n\tAGE 34-35\n\n",
+				"\tLiving in Worcester with parents\n\nDATE 1880\n\n\tAGE 4-5",
 			],
 			christening: nil,
 			death_age: "65",
@@ -61272,8 +61272,8 @@
 			emigration: [
 			],
 			event: [
-				" Cancer\n2 TYPE _DCAUSE",
-				" Regent Worcester Chapter D.A.R.\n2 TYPE Fact 2",
+				" Cause of death: Cancer\n\n",
+				" Regent Worcester Chapter D.A.R.\n",
 			],
 			family_of_origin: :f468,
 			family_of_procreation: [
@@ -61305,7 +61305,7 @@
 			naturalized: nil,
 			nickname: nil,
 			notes: [
-				"<p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p><p>Grandma Sparrell (Lavinia Elizabeth Strong) was the daughter of Albert Randolph Strong, foreman of the Worcester roundhouse of the Worcester &amp; Nashua \n2 CONC Railroad.</p></p><p><p>&nbsp;</p></p><p><p>She was Regent of the Colonel Bigelow Chapter of the Daughters of the American Revolution in Worcester.</p></p><p><p>&nbsp;</p></p><p><p>She was active in th\n2 CONC e Women's Association of the Universalist Church and was much involved in the acquisition of the Clara Barton birthplace farm in Oxford and the creation of Clara Barton State Park and Camp Clara Barto\n2 CONC n for diabetic girls.</p></p><p><p>&nbsp;</p></p><p><p>She was also active in the Worcester Chapter of The Red Cross and the First Universalist Church.</p></p><p><p>&nbsp;</p></p><p>Birth record in Ma\n2 CONC ss Vital Records Vol 270 Page 427 at bottom of page. Page is partially torn but record is clear.</p>",
+				"Grandma Sparrell (Lavinia Elizabeth Strong) was the daughter of Albert Randolph Strong, foreman of the Worcester roundhouse of the Worcester &amp; Nashua Railroad.\n\nShe was Regent of the Colonel Bigelow Chapter of the Daughters of the American Revolution in Worcester.\n\nShe was active in the Women's Association of the Universalist Church and was much involved in the acquisition of the Clara Barton birthplace farm in Oxford and the creation of Clara Barton State Park and Camp Clara Barton for diabetic girls.\n\nShe was also active in the Worcester Chapter of The Red Cross and the First Universalist Church.\n\nBirth record in Mass Vital Records Vol 270 Page 427 at bottom of page. Page is partially torn but record is clear.",
 			],
 			occupation: [
 			],

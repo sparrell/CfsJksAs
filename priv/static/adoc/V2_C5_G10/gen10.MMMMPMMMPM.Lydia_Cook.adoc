@@ -19,8 +19,9 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMP.Richard_Cooke.adoc[Richard Cooke (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMM.Grace_Cooke.adoc[Grace Unknown (? - ?)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMP.Richard_Cooke.adoc[Richard Cooke (1638 - 1716)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 

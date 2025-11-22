@@ -14,18 +14,23 @@ Narrative TBD
 
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPM.Mary_Garnet.adoc[Mary Garnet (1654 - 1709)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPPMM.Mary_Unknown072.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0678http://localhost:4000/person?p=p0678https://cfsjksas.gigalixirapp.com/adoc?p=p0678http://localhost:4000/adoc?p=p0678* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000936/mary-unknown072-garnet[MyHeritage]
 * https://www.werelate.org/wiki/Person:Mary_Arnold_%2839%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Garnett-49[WikiTree]
 
 == Relations
 === Lineage #1
@@ -43,6 +48,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0678http://localhost:4000/person?p=p
 
 
 == Other
+notes: different accounts on her surname
+
 
 == Sources
 
