@@ -19,7 +19,7 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMM.Grace_Cooke.adoc[Grace Unknown (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMM.Grace_Unknown.adoc[Grace Unknown (? - ?)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMP.Richard_Cooke.adoc[Richard Cooke (1638 - 1716)]
 

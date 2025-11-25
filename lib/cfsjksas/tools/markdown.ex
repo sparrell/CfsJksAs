@@ -15,7 +15,8 @@ defmodule Cfsjksas.Tools.Markdown do
 
 	def person_page([], gen, _marked_lineages) do
 		# done
-		IO.inspect(gen, label: "finished")
+		num_done = length(Cfsjksas.Ancestors.AgentStores.m_ids_by_gen(gen))
+		IO.inspect("finished #{num_done} ancestors in gen #{gen}")
 	end
 	def person_page([this_id_l | rest_id_ls], gen, marked_lineages) do
 #IO.inspect("##########")
@@ -107,7 +108,14 @@ defmodule Cfsjksas.Tools.Markdown do
 	end
 
 	def make_vitals(person_r) do
+if person_r == nil do
+	IEx.pry()
+end
 		person_p = Cfsjksas.Ancestors.GetAncestors.person(person_r.id)
+if person_p == nil do
+	IEx.pry()
+end
+
 		"\n\n"
 		<> not_nil("Sex: ", person_p.sex)
 		<> not_nil("Married Name: ", person_p.married_name)
