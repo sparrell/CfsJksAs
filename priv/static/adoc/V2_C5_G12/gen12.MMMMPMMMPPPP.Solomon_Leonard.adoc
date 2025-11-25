@@ -22,7 +22,7 @@ Narrative TBD
 
 == Ship
 * Unknown
-* Unknown
+* 1633-1637
 
 
 == Family
@@ -34,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPP.Solomon_Leonard.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0472http://localhost:4000/person?p=p0472https://cfsjksas.gigalixirapp.com/adoc?p=p0472http://localhost:4000/adoc?p=p0472* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000727/solomon-leonard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Solomon_Leonard_%284%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Leonard-47[WikiTree]
 
 == Relations
 === Lineage #1

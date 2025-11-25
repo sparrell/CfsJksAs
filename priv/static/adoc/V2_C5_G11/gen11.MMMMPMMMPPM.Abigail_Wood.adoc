@@ -31,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPM.Abigail_Wood.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0471http://localhost:4000/person?p=p0471https://cfsjksas.gigalixirapp.com/adoc?p=p0471http://localhost:4000/adoc?p=p0471* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000726/abigail-wood-leonard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Abigail_Wood_%2817%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Wood-775[WikiTree]
 
 == Relations
 === Lineage #1

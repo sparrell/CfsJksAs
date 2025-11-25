@@ -19,7 +19,8 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMMM.Jemina_Billings.adoc[Jemina Billings (1695 - 1733)]
+
 * Father: brickwall
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Mary Satterlee (1746 - 1809)]
 

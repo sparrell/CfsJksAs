@@ -152,27 +152,31 @@ defmodule Cfsjksas.Chart.Svg do
     <> " />\n"
   end
 
-def make_hidden_arc(id, r, beg_x, beg_y, end_x, end_y, sweep) do
-  # rotation is always set to zero
-  rot = "0"
-  # large_arc is always set to zero
-  large_arc = "0"
+  def make_hidden_arc(id, r, beg_x, beg_y, end_x, end_y, sweep) do
+    # rotation is always set to zero
+    rot = "0"
+    # large_arc is always set to zero
+    large_arc = "0"
 
-  "<path id=\"" <> to_string(id) <> "\" fill = \"none\" "
-  <> " d=\"M " <> to_string(end_x) <> "," <> to_string(end_y)
-  <> " A " <> to_string(r) <> "," <> to_string(r)
-  <> " " <> rot <> " " <> large_arc <> "," <> sweep
-  <> " " <> to_string(beg_x) <> "," <> to_string(beg_y) <> "\" />\n"
-end
+    "<path id=\"" <> to_string(id) <> "\" fill = \"none\" "
+    <> " d=\"M " <> to_string(end_x) <> "," <> to_string(end_y)
+    <> " A " <> to_string(r) <> "," <> to_string(r)
+    <> " " <> rot <> " " <> large_arc <> "," <> sweep
+    <> " " <> to_string(beg_x) <> "," <> to_string(beg_y) <> "\" />\n"
+  end
 
-defp make_name_text(id, font_size, text) do
-    # add text to exiting path
+  defp make_name_text(id, font_size, text) do
+      # add black text to exiting path
+      make_name_text(id, font_size, "#000000", text)
+  end
+  defp make_name_text(id, font_size, font_color, text) do
+      # add text to exiting path
 
-    "<text style=\"font-family: sans-serif; font-size:" <> font_size <> "; fill:#000000;\">\n"
-    <> "<textPath href=\"#" <> id <> "\" startOffset=\"50%\" dominant-baseline=\"middle\" text-anchor=\"middle\">\n"
-    <> text <> "\n"
-    <> "</textPath>\n"
-    <> "</text>\n"
+      "<text style=\"font-family: sans-serif; font-size:" <> font_size <> "; fill:" <> font_color <> ";\">\n"
+      <> "<textPath href=\"#" <> id <> "\" startOffset=\"50%\" dominant-baseline=\"middle\" text-anchor=\"middle\">\n"
+      <> text <> "\n"
+      <> "</textPath>\n"
+      <> "</text>\n"
   end
 
   defp make_hidden_ray(id, beg_x, beg_y, end_x, end_y) do
@@ -232,7 +236,7 @@ defp make_name_text(id, font_size, text) do
     <> add_name(sector, chart_type)
   end
 
-  def add_name(%{layout: :arc1} = sector, chart_type) do
+  defp add_name(%{layout: :arc1} = sector, chart_type) do
     # all on one line
     text = "#{sector.given_name} #{sector.surname} "
     <> "(#{sector.birth_year} - #{sector.death_year})"
@@ -263,7 +267,7 @@ defp make_name_text(id, font_size, text) do
     <> make_name_text(id, font_size, text)
 
   end
-  def add_name(%{layout: :arc2} = sector, chart_type) do
+  defp add_name(%{layout: :arc2} = sector, chart_type) do
   # two arc lines = name and date
   name = sector.given_name <> " " <> sector.surname
   dates = " (" <> sector.birth_year <> " - " <> sector.death_year <> ")"
@@ -313,7 +317,7 @@ defp make_name_text(id, font_size, text) do
   <> make_hidden_arc(id_d, r_d, beg_x_d, beg_y_d, end_x_d, end_y_d, sweep)
   <> make_name_text(id_d, font_size_d, dates)
   end
-  def add_name(%{layout: :arc3} = sector, chart_type) do
+  defp add_name(%{layout: :arc3} = sector, chart_type) do
   # three arc lines = given_name, surname, and dates
   gname = sector.given_name
   sname = sector.surname
@@ -370,7 +374,7 @@ defp make_name_text(id, font_size, text) do
   <> make_hidden_arc(id_d, r_d, beg_x_d, beg_y_d, end_x_d, end_y_d, sweep)
   <> make_name_text(id_d, font_size_d, dates)
   end
-  def add_name(%{layout: :ray1} = sector, chart_type) do
+  defp add_name(%{layout: :ray1} = sector, chart_type) do
     # name on ray, 1-line
 
   text = not_nil(sector.given_name) <> " "
@@ -392,6 +396,7 @@ defp make_name_text(id, font_size, text) do
 
 
   font_size = config.font_size
+  font_color = sector.font_color
 
   r_inner = sector.inner_radius
   r_outer = sector.outer_radius
@@ -431,7 +436,7 @@ defp make_name_text(id, font_size, text) do
   end
 
   make_hidden_ray(id, beg_x, beg_y, end_x, end_y)
-  <> make_name_text(id, font_size, text)
+  <> make_name_text(id, font_size, font_color, text)
   end
 
   defp arc_ends(quadrant, r, angle1, angle2, chart_type)

@@ -4185,9 +4185,9 @@
       sector: {9, 230},
 	}
 	{9, :nw, 231} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :redundant,
-      id: "mother of p0856",
+      id: :p9998,
       immigrant: :no,
       quadrant: :nw,
       relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M"],
@@ -5049,9 +5049,9 @@
       sector: {9, 486},
 	}
 	{9, :se, 487} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
-      id: "mother of p0856",
+      id: :p9998,
       immigrant: :no,
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M"],
@@ -5538,7 +5538,7 @@
       brickwall: true,
       duplicate: :main,
       id: :p0678,
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :ne,
       relation: ["P", "P", "P", "P", "M", "M", "P", "P", "M", "M"],
       sector: {10, 51},
@@ -7028,6 +7028,24 @@
       relation: ["P", "M", "M", "M", "P", "P", "M", "P", "M", "M"],
       sector: {10, 459},
 	}
+	{10, :nw, 462} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p9997,
+      immigrant: :no,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "P"],
+      sector: {10, 462},
+	}
+	{10, :nw, 463} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p9996,
+      immigrant: :no,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
+      sector: {10, 463},
+	}
 	{10, :nw, 464} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -8395,6 +8413,24 @@
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "P", "M", "P", "M", "M"],
       sector: {10, 971},
+	}
+	{10, :se, 974} => %{
+      brickwall: false,
+      duplicate: :main,
+      id: :p9997,
+      immigrant: :no,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "P"],
+      sector: {10, 974},
+	}
+	{10, :se, 975} => %{
+      brickwall: false,
+      duplicate: :main,
+      id: :p9996,
+      immigrant: :no,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
+      sector: {10, 975},
 	}
 	{10, :se, 976} => %{
       brickwall: false,
@@ -10745,6 +10781,42 @@
       relation: ["P", "M", "M", "M", "P", "P", "M", "P", "M", "M", "M"],
       sector: {11, 919},
 	}
+	{11, :nw, 924} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0283,
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "P", "P"],
+      sector: {11, 924},
+	}
+	{11, :nw, 925} => %{
+      brickwall: true,
+      duplicate: :redundant,
+      id: "mother of p9997",
+      immigrant: :no,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "P", "M"],
+      sector: {11, 925},
+	}
+	{11, :nw, 926} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0277,
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
+      sector: {11, 926},
+	}
+	{11, :nw, 927} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0278,
+      immigrant: :no,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M"],
+      sector: {11, 927},
+	}
 	{11, :nw, 928} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -10983,7 +11055,7 @@
       brickwall: false,
       duplicate: :redundant,
       id: :p0854,
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :nw,
       relation: ["P", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"],
       sector: {11, 954},
@@ -10991,8 +11063,8 @@
 	{11, :nw, 955} => %{
       brickwall: true,
       duplicate: :redundant,
-      id: "mother of p0469",
-      immigrant: :no,
+      id: :p9995,
+      immigrant: :no_ship,
       quadrant: :nw,
       relation: ["P", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
       sector: {11, 955},
@@ -12707,6 +12779,42 @@
       relation: ["M", "M", "M", "M", "P", "P", "M", "P", "M", "M", "M"],
       sector: {11, 1943},
 	}
+	{11, :se, 1948} => %{
+      brickwall: false,
+      duplicate: :branch,
+      id: :p0283,
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "P", "P"],
+      sector: {11, 1948},
+	}
+	{11, :se, 1949} => %{
+      brickwall: true,
+      duplicate: :main,
+      id: "mother of p9997",
+      immigrant: :no,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "P", "M"],
+      sector: {11, 1949},
+	}
+	{11, :se, 1950} => %{
+      brickwall: false,
+      duplicate: :branch,
+      id: :p0277,
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "P"],
+      sector: {11, 1950},
+	}
+	{11, :se, 1951} => %{
+      brickwall: false,
+      duplicate: :branch,
+      id: :p0278,
+      immigrant: :no,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M"],
+      sector: {11, 1951},
+	}
 	{11, :se, 1952} => %{
       brickwall: false,
       duplicate: :main,
@@ -12945,7 +13053,7 @@
       brickwall: false,
       duplicate: :main,
       id: :p0854,
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P"],
       sector: {11, 1978},
@@ -12953,8 +13061,8 @@
 	{11, :se, 1979} => %{
       brickwall: true,
       duplicate: :main,
-      id: "mother of p0469",
-      immigrant: :no,
+      id: :p9995,
+      immigrant: :no_ship,
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
       sector: {11, 1979},
@@ -14318,6 +14426,24 @@
       relation: ["P", "M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M"],
       sector: {12, 1839},
 	}
+	{12, :nw, 1854} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0370,
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
+      sector: {12, 1854},
+	}
+	{12, :nw, 1855} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0369,
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "M"],
+      sector: {12, 1855},
+	}
 	{12, :nw, 1856} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -14596,24 +14722,6 @@
       quadrant: :nw,
       relation: ["P", "M", "M", "M", "P", "M", "M", "M", "P", "P", "M", "M"],
       sector: {12, 1907},
-	}
-	{12, :nw, 1908} => %{
-      brickwall: true,
-      duplicate: :redundant,
-      id: "father of p0854",
-      immigrant: :no,
-      quadrant: :nw,
-      relation: ["P", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P", "P"],
-      sector: {12, 1908},
-	}
-	{12, :nw, 1909} => %{
-      brickwall: true,
-      duplicate: :redundant,
-      id: "mother of p0854",
-      immigrant: :no,
-      quadrant: :nw,
-      relation: ["P", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P", "M"],
-      sector: {12, 1909},
 	}
 	{12, :nw, 1916} => %{
       brickwall: false,
@@ -15209,6 +15317,24 @@
       relation: ["M", "M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "M"],
       sector: {12, 3887},
 	}
+	{12, :se, 3902} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0370,
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "P"],
+      sector: {12, 3902},
+	}
+	{12, :se, 3903} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p0369,
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "P", "M", "M", "M", "M", "M", "M"],
+      sector: {12, 3903},
+	}
 	{12, :se, 3904} => %{
       brickwall: false,
       duplicate: :branch,
@@ -15487,24 +15613,6 @@
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "M", "M", "M", "P", "P", "M", "M"],
       sector: {12, 3955},
-	}
-	{12, :se, 3956} => %{
-      brickwall: true,
-      duplicate: :main,
-      id: "father of p0854",
-      immigrant: :no,
-      quadrant: :se,
-      relation: ["M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P", "P"],
-      sector: {12, 3956},
-	}
-	{12, :se, 3957} => %{
-      brickwall: true,
-      duplicate: :main,
-      id: "mother of p0854",
-      immigrant: :no,
-      quadrant: :se,
-      relation: ["M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "P", "M"],
-      sector: {12, 3957},
 	}
 	{12, :se, 3964} => %{
       brickwall: false,

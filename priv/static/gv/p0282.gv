@@ -1,0 +1,84 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=150, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+
+{edge [style=invis]; title00 -> p0282;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="Hannah Sterry (1672 - 1738)" fontsize=40];		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0282 -> p0260;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0260 -> p0257;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0257 -> p0923;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0923 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0282 -> p0260;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0260 -> p0257;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0257 -> p0923;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0923 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0486 -> p0005;}
+		p0486 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+(1899 - 1978)" ];
+		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
+(1875 - 1941)" ];
+		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
+(1850 - 1914)" ];
+		p0074 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+(1904 - 2002)" ];
+		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
+(1874 - 1965)" ];
+		p0650 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb
+(1855 - 1939)" ];
+		p0639 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Lavinia Kimball
+(1830 - 1909)" ];
+		p0672 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Ann Lester
+(1802 - 1888)" ];
+		p0923 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Avery
+(1781 - 1872)" ];
+		p0257 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Avery
+(1737 - 1822)" ];
+		p0260 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Billings
+(1713 - 1791)" ];
+		p0282 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Sterry
+(1672 - 1738)" ];
+	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+}
+

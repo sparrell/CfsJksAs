@@ -1,4 +1,4 @@
-= Richard Cooke (? - ?)
+= Richard Cooke (1638 - 1716)
 
 Narrative TBD
 
@@ -8,20 +8,29 @@ Narrative TBD
 
 * Sex: M
 
+* Birth: 1638
+
+* Death: 1716
+
+
+
+== Ship
+* Unknown
+* Unknown
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPM.Lydia_Cook.adoc[Lydia Cook (1685 - 1738)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPMP.Richard_Cooke.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0854http://localhost:4000/person?p=p0854https://cfsjksas.gigalixirapp.com/adoc?p=p0854http://localhost:4000/adoc?p=p0854* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500057/richard-cooke[MyHeritage]
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Cooke-1617[WikiTree]
 
 == Relations
 === Lineage #1
@@ -36,7 +45,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0854http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPM.Lydia_Cook.adoc[Lydia Cook (1685 - 1738)]
-* gen11.MMMMPMMMPMP.Richard_Cooke_(? - ?)
+* gen11.MMMMPMMMPMP.Richard_Cooke_(1638 - 1716)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -50,7 +59,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0854http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Ebenezer Leonard (1709 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMPM.Lydia_Cook.adoc[Lydia Cook (1685 - 1738)]
-* gen11.MMMMPMMMPMP.Richard_Cooke_(? - ?)
+* gen11.MMMMPMMMPMP.Richard_Cooke_(1638 - 1716)
 
 
 == Other

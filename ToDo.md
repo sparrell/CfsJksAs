@@ -7,25 +7,27 @@
 ## gen in progress
 
 * Mary Powers
-  * myheritage https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001117/mary-powers-satterlee
-  * relative geni https://www.geni.com/people/Capt-William-Satterlee/6000000008944272791
-  * huband on wikitree https://www.wikitree.com/wiki/Satterlee-80
-  * Mary on wikitree https://www.wikitree.com/wiki/Powers-1437
+  * [myheritage](https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001117/mary-powers-satterlee)
+  * [relative geni](https://www.geni.com/people/Capt-William-Satterlee/6000000008944272791)
+  * [huband on wikitree](https://www.wikitree.com/wiki/Satterlee-80)
+  * [Mary on wikitree ](https://www.wikitree.com/wiki/Powers-1437)
     * uncertain father
-    * certain mother Jemina Billings
-  * https://www.wikitree.com/wiki/Billings-1513
+    * certain mother [Jemina Billings](https://www.wikitree.com/wiki/Billings-1513)
     * Daughter of Ebenezer Billings and Ann (Comstock) Billings
-  * ebenezer https://www.wikitree.com/wiki/Billings-45 solider in King Phillips war
-  * Ann Comstock (wife of Eb, mother of Jemina) https://www.wikitree.com/wiki/Comstock-40
+  * [ebenezer](https://www.wikitree.com/wiki/Billings-45) solider in King Phillips war - prob not - do research
+  * [Ann Comstock (wife of Eb, mother of Jemina)](https://www.wikitree.com/wiki/Comstock-40)
   * Ann Daughter of Daniel Comstock and Paltiah (Elderkin) Comstock
-  * Daniel Comstock immigrant https://www.wikitree.com/wiki/Comstock-147
+  * [Daniel Comstock immigrant ](https://www.wikitree.com/wiki/Comstock-147)
   * Paltiah https://www.wikitree.com/wiki/Elderkin-29 us-born, daughter of John Elderkin Jr. and Abigail Kingsland
   * John Elkerkin Jr immigrant https://www.wikitree.com/wiki/Elderkin-19
   * Abigail Kingsland immigrant https://www.wikitree.com/wiki/Kingsland-5
 
-## data
+## brickwalls conceding on
 
-p0741 william comstock has two lines commented out in people
+* Mary Powers (p0856) mother
+* Ebenezer Billings (p9997) mother
+
+
 
 ## todo
 
@@ -35,6 +37,7 @@ p0741 william comstock has two lines commented out in people
   * have adoc, have html, direct works, links don't work
 * refactor the other graphs
 * strip out cruft
+* add tony kennedy to cousins
 
 ## Genealogy to do
 

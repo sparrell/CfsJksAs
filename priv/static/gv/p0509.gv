@@ -1,0 +1,434 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=150, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+
+{edge [style=invis]; title00 -> p0509;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="William Brewster (1566 - 1644)" fontsize=40];		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0487 -> p0027;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0027 -> p0339;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0339 -> p0978;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0978 -> p0007;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0007 -> p0945;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0945 -> p0911;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0911 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=blue ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0487 -> p0027;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0027 -> p0339;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0339 -> p0978;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0978 -> p0956;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0956 -> p0934;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0934 -> p0911;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0911 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=red ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0509 -> p0595;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0595 -> p0770;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0770 -> p0750;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0750 -> p0728;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0728 -> p0706;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0706 -> p0694;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0694 -> p0661;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0661 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0639 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=green ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0487 -> prb;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		prb -> p1253;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p1253 -> p0397;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0397 -> p0391;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0391 -> p0893;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0893 -> p0833;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0833 -> p0747;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0747 -> p0628;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0628 -> p0650;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0650 -> p0072;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0072 -> p0074;}
+		{edge [arrowhead=normal, arrowtail=none, color=orange ];
+		p0074 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0487 -> p0027;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0027 -> p0339;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0339 -> p0978;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0978 -> p0007;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0007 -> p0945;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0945 -> p0911;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0911 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=black ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0487 -> p0027;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0027 -> p0339;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0339 -> p0978;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0978 -> p0956;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0956 -> p0934;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0934 -> p0911;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0911 -> p0672;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0672 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0509 -> p0595;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0595 -> p0770;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0770 -> p0750;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0750 -> p0728;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0728 -> p0706;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0706 -> p0694;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0694 -> p0661;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0661 -> p0639;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0639 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=purple ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0487 -> prb;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		prb -> p1253;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p1253 -> p0397;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0397 -> p0391;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0391 -> p0893;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0893 -> p0833;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0833 -> p0747;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0747 -> p0628;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0628 -> p0086;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0086 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0487 -> prb;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		prb -> p1253;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p1253 -> p0397;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0397 -> p0391;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0391 -> p0088;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0088 -> p0077;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0077 -> p0050;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0050 -> p0119;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0119 -> p0075;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0075 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0487 -> p0385;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0385 -> p0382;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0382 -> p0090;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0090 -> p0087;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0087 -> p0077;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0077 -> p0050;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0050 -> p0119;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0119 -> p0075;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0075 -> p0006;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0006 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=lime ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0487 -> p0475;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0475 -> p0453;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0453 -> p0420;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0420 -> p0398;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0398 -> p0376;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0376 -> p0364;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0364 -> p0328;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0328 -> p0273;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0273 -> p0922;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0922 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=pink ];
+		p0486 -> p0005;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0509 -> p0487;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0487 -> p0475;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0475 -> p0617;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0617 -> p0573;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0573 -> p0551;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0551 -> p0353;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0353 -> p0328;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0328 -> p0273;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0273 -> p0922;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0922 -> p0486;}
+		{edge [arrowhead=normal, arrowtail=none, color=teal ];
+		p0486 -> p0005;}
+		p0353 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell
+(1798 - 1859)" ];
+		p0551 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Rachel Turner
+(1776 - 1866)" ];
+		p0573 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Turner
+(1693 - 1778)" ];
+		p0617 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Turner
+(1660 - 1731)" ];
+		p0922 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Herbert Sparrell
+(1873 - 1961)" ];
+		p0273 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+(1847 - 1923)" ];
+		p0328 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell
+(1825 - 1877)" ];
+		p0364 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Desire Sparrell
+(1798 - 1872)" ];
+		p0376 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Barrell
+(1751 - 1801)" ];
+		p0398 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Barrell
+(1727 - 1827)" ];
+		p0420 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Barrell
+(1683 - 1752)" ];
+		p0453 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Turner
+(1653 - 1714)" ];
+		p0475 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Brewster
+(1627 - 1697)" ];
+		p0087 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joseph Chester
+(1731 - 1804)" ];
+		p0090 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Starr
+(1696 - 1774)" ];
+		p0382 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Starr
+(1668 - 1712)" ];
+		p0385 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Brewster
+(1641 - 1711)" ];
+		p0075 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong
+(1845 - 1920)" ];
+		p0119 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Shaw Whaley
+(1813 - 1870)" ];
+		p0050 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Patten Whaley
+(1786 - ?)" ];
+		p0077 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Chester
+(1764 - ?)" ];
+		p0088 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Morgan
+(1731 - ?)" ];
+		p0486 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+(1899 - 1978)" ];
+		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
+(1875 - 1941)" ];
+		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
+(1850 - 1914)" ];
+		p0628 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="George Washington Edgecomb
+(1826 - 1862)" ];
+		p0747 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jabez M. Edgecomb
+(1791 - 1865)" ];
+		p0833 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Esther Morgan
+(1763 - 1843)" ];
+		p0893 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joshua Morgan
+(1733 - 1774)" ];
+		p0391 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Morgan
+(1698 - 1776)" ];
+		p0397 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ruth Shapley
+(1672 - 1739)" ];
+		p1253 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Pickett
+(1652 - 1735)" ];
+		prb [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ruth Brewster
+(1631 - 1677)" ];
+		p0661 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Erastus Brewster Kimball
+(1798 - 1879)" ];
+		p0694 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lucy Hall Brewster
+(1773 - ?)" ];
+		p0706 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Judah Brewster
+(1749 - ?)" ];
+		p0728 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Simon Brewster
+(1720 - 1801)" ];
+		p0750 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Brewster
+(1688 - 1752)" ];
+		p0770 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Brewster
+(1645 - 1723)" ];
+		p0595 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Love Brewster
+(1611 - 1651)" ];
+		p0934 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Amos Lester
+(1728 - 1808)" ];
+		p0956 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester
+(1702 - 1774)" ];
+		p0074 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+(1904 - 2002)" ];
+		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
+(1874 - 1965)" ];
+		p0650 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb
+(1855 - 1939)" ];
+		p0639 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Lavinia Kimball
+(1830 - 1909)" ];
+		p0672 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Ann Lester
+(1802 - 1888)" ];
+		p0911 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Amos Lester
+(1776 - 1842)" ];
+		p0945 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Anna Lester
+(1736 - 1807)" ];
+		p0007 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Peter Lester
+(1705 - 1789)" ];
+		p0978 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester
+(1678 - 1712)" ];
+		p0339 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Bradley
+(1656 - 1725)" ];
+		p0027 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Brewster
+(1637 - 1708)" ];
+		p0487 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Brewster
+(1593 - 1659)" ];
+		p0509 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Brewster
+(1566 - 1644)" ];
+	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+}
+

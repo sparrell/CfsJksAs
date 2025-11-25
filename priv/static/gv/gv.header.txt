@@ -1,0 +1,12 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=150, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+

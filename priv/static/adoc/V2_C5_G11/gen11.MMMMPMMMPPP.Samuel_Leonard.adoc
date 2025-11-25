@@ -31,9 +31,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0470http://localhost:4000/person?p=p0470https://cfsjksas.gigalixirapp.com/adoc?p=p0470http://localhost:4000/adoc?p=p0470* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000725/samuel-leonard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Samuel_Leonard_%2815%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Leonard-117[WikiTree]
 
 == Relations
 === Lineage #1
@@ -66,15 +66,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0470http://localhost:4000/person?p=p
 
 
 == Other
-event:  485
-<p>
-2 TYPE Reference Number
-</p>
- 485
-<p>
-2 TYPE Reference Number
-</p>
-
 notes: FROM "LEONARD GENEALOGY" <p>Has been called carpenter, husbandsman and planter.He lived in Bridgewater at the time of his marraige, having built a house on his fathers land--a common thing in those days--having assurance that a title would be given at a future date. He became an early proprietor in Worcester, where his brother Jacob had been living several years and removed to that place before 1690 and was living there whenhis only son Samuel was taken captive by Indians in 1695. About this time he  seems to have removed to Norwich ,Conn.and bought land in Preston, Conn.on the opposite side of the Shetucket River. He was probably led to this place by the fact that some of Major Bradfords family had located here and several oldfriends and neighbors from Duxbury and Bridgewater. Among them Josiah and Miles Standish( son ans grandson of renowned Capt. Miles Standish ofthe Mayflower) and Deacon Caleb Fobes. He was a consistent member of theFirst Church of Preston, formed 16 Nov.1698 when Rev. Salmon Treat wasordained pastor. Mr. Treat resigned14March1744, and died 6Jan1762 aged90. <p>Second wife Deborah is thought to be the daughter of John Leonard of Springfield who were relatives.</p> <p>------------------------------------------------------------------------------------------------------------------------------BOOK---GRISWOLD-A HISTORY       Being a history of the town of Griswold CTmicrofilm 1597788 item 5    book  975.65/G3   H2p    pp11,12,54 <p>SAMUEL LEONARD</p> <p>About 1696 there came to the Pachaug country Samuel Leonard, who with his family settled on the banks of the Pachaug river, east of Appaquashosk hill. They had experienced to the full the savagery of the Indians, for their only son, a lad of 12 years, also named Samuel, had just before been kidnapped  and carried into captivity by the redskins, with whomhe remained for nearly 2 years. It chanced  that during this time he was brought into the company of Hannah Dustin and Mary Neff, the detailsof whose capture by the Indians at Haverhill, Mass., in 1697, had horrified all New England. The three,while in a wigwam occupied by 2 Indian families on an island in the Merrimac river, near Concord, planned theirescape. The boy Samuel had been so long with the savages that, whenhe asked his master how to strike to kill instantly, and how to take ascalp, it was taken as a sign that he had become one of them, and he was freely told. When the  captives had perfected their plans, silently and with speed, while thier captors slept, the attack was made. Ten Indians were killed instantly; the two remaining, a squaw who was wounded, and achild who was spared purposely, escaped to the woods. With thescalps ofthe slain and their weapons, the three, captives no longer, embarked ina canoe, and having scuttled the boats that remained, descendedthe river until the came in safety to their friends. The news of theirescape spread from settlement to settlement, and all who heard were filled withastonishment and admiration because of their heroic deed. Soon after theboy Samuel returned, doubtless fearing then and always the vengeanceofhis implacable foes, the family fled in secrecy to Pachaug,and becamepermanent settlers there. Family tradition alone tells us that at one timein the early days the Leonards became aware of an Indian lurkingabout their home. At last, after days of watching, a member of the family shoot the Indian dead, seemingly with no more compunction than he would have shown toward a dangerous beast. But such incidents were exceptional. <p></p>
 
 

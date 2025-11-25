@@ -1,0 +1,9 @@
+	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];

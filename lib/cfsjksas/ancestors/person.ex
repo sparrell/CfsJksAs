@@ -259,7 +259,7 @@ defmodule Cfsjksas.Ancestors.Person do
       IEx.pry()
     end
     person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
-if person == nil do
+    if person == nil do
       IEx.pry()
     end
     mother = person.mother
