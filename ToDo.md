@@ -41,6 +41,8 @@
 
 ## Genealogy to do
 
+findmypast.com
+
 * add in Fisher
 
 * Lester line - mine different from wikitree
@@ -55,6 +57,25 @@ Mary Pickett
 * Willard Family Association
 * check out avery book https://archive.org/details/grotonaveryclan01aver/page/162/mode/2up
 
+
+## delegatable?
+
+* wierd <p></p> in notes 
+* "TYPE Reference Number" - 299 instances
+* words run together
+* CONC
+* backslash r n
+* links particularly brickwalls
+  * myheritage - no
+  * geni - ?
+  * wikitree - ?
+  * werelate - done? find ones not and distinguish 'not input' vs 'not in werelate'
+  * wikipedia - ? 
+  * GSMD
+  * ? findmypast
+  * ? en.filae.com
+  * ? ancestry.com
+* 
 --------------------------------------------
 
 ## Cruft beyond here
