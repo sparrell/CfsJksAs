@@ -10,14 +10,14 @@
   * [myheritage](https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001117/mary-powers-satterlee)
   * [relative geni](https://www.geni.com/people/Capt-William-Satterlee/6000000008944272791)
   * [huband on wikitree](https://www.wikitree.com/wiki/Satterlee-80)
-  * [Mary on wikitree ](https://www.wikitree.com/wiki/Powers-1437)
+  * [Mary on wikitree](https://www.wikitree.com/wiki/Powers-1437)
     * uncertain father
     * certain mother [Jemina Billings](https://www.wikitree.com/wiki/Billings-1513)
     * Daughter of Ebenezer Billings and Ann (Comstock) Billings
   * [ebenezer](https://www.wikitree.com/wiki/Billings-45) solider in King Phillips war - prob not - do research
   * [Ann Comstock (wife of Eb, mother of Jemina)](https://www.wikitree.com/wiki/Comstock-40)
   * Ann Daughter of Daniel Comstock and Paltiah (Elderkin) Comstock
-  * [Daniel Comstock immigrant ](https://www.wikitree.com/wiki/Comstock-147)
+  * [Daniel Comstock immigrant](https://www.wikitree.com/wiki/Comstock-147)
   * Paltiah https://www.wikitree.com/wiki/Elderkin-29 us-born, daughter of John Elderkin Jr. and Abigail Kingsland
   * John Elkerkin Jr immigrant https://www.wikitree.com/wiki/Elderkin-19
   * Abigail Kingsland immigrant https://www.wikitree.com/wiki/Kingsland-5
@@ -78,6 +78,7 @@ Mary Pickett
 * book readme's
 * book intro's
 * book combine adocs
+* markdown nits
 --------------------------------------------
 
 ## Cruft beyond here
