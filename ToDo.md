@@ -75,7 +75,9 @@ Mary Pickett
   * ? findmypast
   * ? en.filae.com
   * ? ancestry.com
-* 
+* book readme's
+* book intro's
+* book combine adocs
 --------------------------------------------
 
 ## Cruft beyond here
