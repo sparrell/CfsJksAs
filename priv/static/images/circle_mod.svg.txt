@@ -9062,9 +9062,9 @@ Mary Barstow (1641 - 1708)
 <clipPath id="sector_10_956_clip">
 <use href="#sector_10_956"/>
 </clipPath></defs>
-<use href="#sector_10_956" stroke="blue" stroke-width="15" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_10_956_clip)"/>
+<use href="#sector_10_956" stroke="blue" stroke-width="15" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_10_956_clip)"/>
 <path id="ray_g10_s956" d="M 26450,26473 L 28556,27399" />
-<text style="font-family: sans-serif; font-size:50pt; fill:black;">
+<text style="font-family: sans-serif; font-size:50pt; fill:yellow;">
 <textPath href="#ray_g10_s956" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Thomas Miner (1608 - 1690)
 </textPath>
@@ -12584,7 +12584,7 @@ Stephen Gates (? - 1662)
 <path id="ray_g11_s1965" d="M 29393,24982 L 30846,25357" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1965" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ann Veare (1603 - 1682)
+Ann Neave (1603 - 1682)
 </textPath>
 </text>
 <defs>
@@ -14724,5 +14724,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-11-22 01:03:39.833006Z -->
+<!-- made new svg at 2025-12-04 16:27:11.770133Z -->
 </svg>

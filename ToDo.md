@@ -18,16 +18,14 @@
   * [Ann Comstock (wife of Eb, mother of Jemina)](https://www.wikitree.com/wiki/Comstock-40)
   * Ann Daughter of Daniel Comstock and Paltiah (Elderkin) Comstock
   * [Daniel Comstock immigrant](https://www.wikitree.com/wiki/Comstock-147)
-  * Paltiah https://www.wikitree.com/wiki/Elderkin-29 us-born, daughter of John Elderkin Jr. and Abigail Kingsland
-  * John Elkerkin Jr immigrant https://www.wikitree.com/wiki/Elderkin-19
-  * Abigail Kingsland immigrant https://www.wikitree.com/wiki/Kingsland-5
+  * [Paltiah](https://www.wikitree.com/wiki/Elderkin-29) us-born, daughter of John Elderkin Jr. and Abigail Kingsland
+  * [John Elkerkin Jr immigrant](https://www.wikitree.com/wiki/Elderkin-19)
+  * [Abigail Kingsland immigrant](https://www.wikitree.com/wiki/Kingsland-5)
 
 ## brickwalls conceding on
 
 * Mary Powers (p0856) mother
 * Ebenezer Billings (p9997) mother
-
-
 
 ## todo
 
@@ -53,14 +51,13 @@ Mary Pickett
 * need to add lineage to Jonathan, William, Mary Brewters
 * husband John Pickett - add him and his ancestors
 
-* Rhode Island Genealogical Society https://rigensoc.org/cpage.php?pt=13
+* [Rhode Island Genealogical Society](https://rigensoc.org/cpage.php?pt=13)
 * Willard Family Association
-* check out avery book https://archive.org/details/grotonaveryclan01aver/page/162/mode/2up
-
+* check out [avery book](https://archive.org/details/grotonaveryclan01aver/page/162/mode/2up)
 
 ## delegatable?
 
-* wierd <p></p> in notes 
+* wierd < p></p > in notes
 * "TYPE Reference Number" - 299 instances
 * words run together
 * CONC
@@ -70,7 +67,7 @@ Mary Pickett
   * geni - ?
   * wikitree - ?
   * werelate - done? find ones not and distinguish 'not input' vs 'not in werelate'
-  * wikipedia - ? 
+  * wikipedia - ?
   * GSMD
   * ? findmypast
   * ? en.filae.com
@@ -79,6 +76,7 @@ Mary Pickett
 * book intro's
 * book combine adocs
 * markdown nits
+
 --------------------------------------------
 
 ## Cruft beyond here
