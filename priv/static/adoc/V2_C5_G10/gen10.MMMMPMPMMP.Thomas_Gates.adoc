@@ -21,7 +21,7 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMPM.Ann_Veare.adoc[Ann Veare (1603 - 1682)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMPM.Ann_Neave.adoc[Ann Neave (1603 - 1682)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMPP.Stephen_Gates.adoc[Stephen Gates (? - 1662)]
 

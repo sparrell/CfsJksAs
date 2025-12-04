@@ -32,7 +32,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0635http://localhost:4000/person?p=p0635https://cfsjksas.gigalixirapp.com/adoc?p=p0635http://localhost:4000/adoc?p=p0635* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Gates-37[WikiTree]
 
 == Relations
 === Lineage #1

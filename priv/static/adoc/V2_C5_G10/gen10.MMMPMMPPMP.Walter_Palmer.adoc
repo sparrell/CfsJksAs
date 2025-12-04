@@ -173,7 +173,11 @@ event:  Constable of Charlestown
 2 AGE 55-56
 </p>
 
-notes: <p>Charged with manslaughter at Charlestown MA 0n 28 September 1630 and bound over for trial. The Coroner's Jury found "that the strokes given by Walter Palmer were occasionally the means of the death of Austen Brachter, & so to be manslaughter. On 9 November the trial jury found Palmer not guilty.</p><p>First Representative to the General Court elected from Rehoboth in 1646</p>
+notes: <p>Charged with manslaughter at Charlestown MA 0n 28 September 1630 and bound over for trial. The Coroner's Jury found "that the strokes given by Walter Palmer were occasionally the means of the death of Austen Brachter, & so to be manslaughter. On 9 November the trial jury found Palmer not guilty.
+<p>
+
+First Representative to the General Court elected from Rehoboth in 1646</p>
+</p>
 
 occupation: Farmer and Dairyman
 farmer/dairyman, immigrated June 1629

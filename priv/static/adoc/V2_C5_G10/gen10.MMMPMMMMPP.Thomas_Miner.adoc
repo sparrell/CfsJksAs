@@ -21,8 +21,8 @@ Narrative TBD
 
 
 == Ship
-* Unknown
-* Unknown
+* Arabella or Lyons Whelp
+* 1630 or 1629
 
 
 == Family
@@ -85,6 +85,8 @@ event:  Assistant Magistrate- Connecticut
 2 DATE 1676
 2 AGE 67-68
 </p>
+
+notes: debate as to which ship arrived on: Lyons Whelp in 1629 or Arabella in 1630
 
 
 == Sources

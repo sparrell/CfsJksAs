@@ -69,7 +69,11 @@ naturalized:
 2 AGE 22-23
 </p>
 
-notes: <p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.</p></p><p><p>&nbsp;</p></p><p>Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>
+notes: <p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.
+<p>
+
+Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>
+</p>
 
 occupation: Landlady in Worcester (US Census)
 <p>

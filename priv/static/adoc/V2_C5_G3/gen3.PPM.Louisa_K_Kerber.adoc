@@ -61,7 +61,11 @@ event:  had an identical  twin sister Sarah
 2 TYPE Twin
 </p>
 
-notes: <p><p>&nbsp;</p></p><p><p>&nbsp;</p></p><p>Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her bed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>
+notes: <p><p>&nbsp;
+<p>
+
+Although Louisa was born in Greenfield, Massachusetts she spoke with a noticeable German accent. In her later years, she was a neurasthenic and took to her bed on the slightest provocation. HKS II attributed this to her failure to achieve social acceptance outside the German community.She may have ridden around Worcester in a carriage driven by a liveried coachman, but to the local Yankee gentry, she had three strikes against her. She was the daughter of an immigrant, Roman Catholic, saloonkeeper.</p>
+</p>
 
 
 == Sources
