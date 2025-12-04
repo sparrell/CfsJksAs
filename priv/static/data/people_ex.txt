@@ -30469,8 +30469,6 @@
 			emigration: [
 			],
 			event: [
-				" 18\r\n2 TYPE Reference Number",
-				" 18\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f058,
 			family_of_procreation: [
