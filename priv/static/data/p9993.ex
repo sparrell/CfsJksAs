@@ -1,23 +1,23 @@
-		##############  Grace Unknown
-		p9995: %{
+		##############  Elizabeth Smith
+		p9993: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "?",
+			birth_date: "1594",
 			birth_note: nil,
-			birth_place: nil,
+			birth_place: "Penton Grafton, Hampshire, England",
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "1594",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "?",
+			death_date: "13 Feb 1636",
 			death_note: nil,
-			death_place: nil,
+			death_place: "Weyhill, Hampshire, England",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1636",
 			description: nil,
 			education: [
 			],
@@ -30,19 +30,14 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Grace",
+			given_name: "Elizabeth",
 			graduation: [
 			],
-			id: :xxx_look_up_or_makeup,
+			id: :p9993,
 			immigration: nil,
-			label: "gen11.MMMMPMMMPMM.Grace_Cooke",
+			label: "gen12.MMMMPMPMMMMM.Elizabeth_Smith",
 			links: %{
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500058/elizabeth-unknown-cooke",
-				werelate: "xxx",
-				wikitree: "https://www.wikitree.com/wiki/Unknown-452314",
-                other_links: %{
-					wikipedia: "",
-				},
+				wikitree: "https://www.wikitree.com/wiki/Smith-164392",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -50,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Grace /Unknown/",
+			mh_name: "Elizabeth /Smith/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -64,21 +59,18 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
-				["P", "M", "M", "M", "P", "M", "M", "M", "P", "M", "M"],
+				["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
 			sex: "F",
-      ship: %{
-				name: nil,
-				year: nil,
-			},
+			ship: :parent,
 			sources: [
 			],
-			surname: "Unknown",
+			surname: "Smith",
 			title: nil,
 			uid: nil,
 			upd: nil,
