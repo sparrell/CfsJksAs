@@ -30548,8 +30548,6 @@
 			emigration: [
 			],
 			event: [
-				" 610\r\n2 TYPE Reference Number",
-				" 610\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f246,
 			family_of_procreation: [
@@ -31525,8 +31523,6 @@
 			emigration: [
 			],
 			event: [
-				" 109\r\n2 TYPE Reference Number",
-				" 109\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f485,
 			family_of_procreation: [
@@ -31692,8 +31688,6 @@
 			emigration: [
 			],
 			event: [
-				" 126\r\n2 TYPE Reference Number",
-				" 126\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f487,
 			family_of_procreation: [
@@ -31853,7 +31847,6 @@
 			emigration: [
 			],
 			event: [
-				" 61\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f107,
 			family_of_procreation: [
@@ -31933,8 +31926,6 @@
 			emigration: [
 			],
 			event: [
-				" 633\r\n2 TYPE Reference Number",
-				" 633\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -32101,8 +32092,6 @@
 			emigration: [
 			],
 			event: [
-				" 617\r\n2 TYPE Reference Number",
-				" 617\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -32356,8 +32345,6 @@
 			emigration: [
 			],
 			event: [
-				" 528\r\n2 TYPE Reference Number",
-				" PE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -32879,8 +32866,6 @@
 			emigration: [
 			],
 			event: [
-				" 822\r\n2 TYPE Reference Number",
-				" 834\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f340,
 			family_of_procreation: [
@@ -33044,8 +33029,6 @@
 			emigration: [
 			],
 			event: [
-				" 901\r\n2 TYPE Reference Number",
-				" 916\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f394,
 			family_of_procreation: [
@@ -33208,8 +33191,6 @@
 			emigration: [
 			],
 			event: [
-				" 513\r\n2 TYPE Reference Number",
-				" 513\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f413,
 			family_of_procreation: [
@@ -33532,8 +33513,6 @@
 			emigration: [
 			],
 			event: [
-				" 1024\r\n2 TYPE Reference Number",
-				" 1050\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f444,
 			family_of_procreation: [
@@ -33709,8 +33688,6 @@
 			emigration: [
 			],
 			event: [
-				" 174\r\n2 TYPE Reference Number",
-				" 174\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f164,
 			family_of_procreation: [
@@ -33791,8 +33768,6 @@
 			emigration: [
 			],
 			event: [
-				" 455\r\n2 TYPE Reference Number",
-				" 455\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f165,
 			family_of_procreation: [
@@ -35045,8 +35020,6 @@
 			emigration: [
 			],
 			event: [
-				" 611\r\n2 TYPE Reference Number",
-				" 611\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f245,
 			family_of_procreation: [
@@ -35209,8 +35182,6 @@
 			emigration: [
 			],
 			event: [
-				" 204\r\n2 TYPE Reference Number",
-				" 204\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -35294,8 +35265,6 @@
 			emigration: [
 			],
 			event: [
-				" 1034\r\n2 TYPE Reference Number",
-				" 1060\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f448,
 			family_of_procreation: [
@@ -35457,8 +35426,6 @@
 			emigration: [
 			],
 			event: [
-				" 925\r\n2 TYPE Reference Number",
-				" 942\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f223,
 			family_of_procreation: [
@@ -35547,8 +35514,6 @@
 			emigration: [
 			],
 			event: [
-				" 940\r\n2 TYPE Reference Number",
-				" 957\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f411,
 			family_of_procreation: [
@@ -35971,8 +35936,6 @@
 			emigration: [
 			],
 			event: [
-				" 694\r\n2 TYPE Reference Number",
-				" 695\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f289,
 			family_of_procreation: [
@@ -36052,8 +36015,6 @@
 			emigration: [
 			],
 			event: [
-				" 701\r\n2 TYPE Reference Number",
-				" 702\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -36221,8 +36182,6 @@
 			emigration: [
 			],
 			event: [
-				" 170\r\n2 TYPE Reference Number",
-				" 170\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f620,
 			family_of_procreation: [
@@ -36620,8 +36579,6 @@
 			emigration: [
 			],
 			event: [
-				" 584\r\n2 TYPE Reference Number",
-				" 584\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f229,
 			family_of_procreation: [
@@ -37700,8 +37657,6 @@
 			emigration: [
 			],
 			event: [
-				" 81\r\n2 TYPE Reference Number",
-				" 81\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f230,
 			family_of_procreation: [
@@ -37947,8 +37902,6 @@
 			emigration: [
 			],
 			event: [
-				" 79\r\n2 TYPE Reference Number",
-				" 79\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f440,
 			family_of_procreation: [
@@ -39355,8 +39308,6 @@
 			emigration: [
 			],
 			event: [
-				" 1001\r\n2 TYPE Reference Number",
-				" 1027\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -39603,8 +39554,6 @@
 			emigration: [
 			],
 			event: [
-				" 766\r\n2 TYPE Reference Number",
-				" 767\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f436,
 			family_of_procreation: [
@@ -40492,8 +40441,6 @@
 			emigration: [
 			],
 			event: [
-				" 447\r\n2 TYPE Reference Number",
-				" 447\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f178,
 			family_of_procreation: [
@@ -40834,8 +40781,6 @@
 			emigration: [
 			],
 			event: [
-				" 89\r\n2 TYPE Reference Number",
-				" 89\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f471,
 			family_of_procreation: [
@@ -41172,8 +41117,6 @@
 			emigration: [
 			],
 			event: [
-				" 92\r\n2 TYPE Reference Number",
-				" 92\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f470,
 			family_of_procreation: [
@@ -41254,8 +41197,6 @@
 			emigration: [
 			],
 			event: [
-				" 893\r\n2 TYPE Reference Number",
-				" 908\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f147,
 			family_of_procreation: [
@@ -41494,8 +41435,6 @@
 			emigration: [
 			],
 			event: [
-				" 93\r\n2 TYPE Reference Number",
-				" 93\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f461,
 			family_of_procreation: [
@@ -43565,8 +43504,6 @@
 			emigration: [
 			],
 			event: [
-				" 788\r\n2 TYPE Reference Number",
-				" 792\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f350,
 			family_of_procreation: [
@@ -43647,8 +43584,6 @@
 			emigration: [
 			],
 			event: [
-				" 924\r\n2 TYPE Reference Number",
-				" 941\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f350,
 			family_of_procreation: [
@@ -43730,8 +43665,6 @@
 			emigration: [
 			],
 			event: [
-				" 533\r\n2 TYPE Reference Number",
-				" 533\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -43816,8 +43749,6 @@
 			emigration: [
 			],
 			event: [
-				" 498\r\n2 TYPE Reference Number",
-				" 498\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f205,
 			family_of_procreation: [
@@ -44055,8 +43986,6 @@
 			emigration: [
 			],
 			event: [
-				" 220\r\n2 TYPE Reference Number",
-				" 220\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f033,
 			family_of_procreation: [
@@ -44136,8 +44065,6 @@
 			emigration: [
 			],
 			event: [
-				" 227\r\n2 TYPE Reference Number",
-				" 227\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -44222,8 +44149,6 @@
 			emigration: [
 			],
 			event: [
-				" 226\r\n2 TYPE Reference Number",
-				" 226\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f034,
 			family_of_procreation: [
@@ -44881,8 +44806,6 @@
 			emigration: [
 			],
 			event: [
-				" 930\r\n2 TYPE Reference Number",
-				" 947\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f408,
 			family_of_procreation: [
@@ -44963,8 +44886,6 @@
 			emigration: [
 			],
 			event: [
-				" 931\r\n2 TYPE Reference Number",
-				" 948\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f156,
 			family_of_procreation: [
@@ -45213,8 +45134,6 @@
 			emigration: [
 			],
 			event: [
-				" 561\r\n2 TYPE Reference Number",
-				" 561\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -45297,8 +45216,6 @@
 			emigration: [
 			],
 			event: [
-				" 259\r\n2 TYPE Reference Number",
-				" 259\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f059,
 			family_of_procreation: [
@@ -45378,8 +45295,6 @@
 			emigration: [
 			],
 			event: [
-				" 273\r\n2 TYPE Reference Number",
-				" 273\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f213,
 			family_of_procreation: [
@@ -45463,8 +45378,6 @@
 			emigration: [
 			],
 			event: [
-				" 548\r\n2 TYPE Reference Number",
-				" 548\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -45547,8 +45460,6 @@
 			emigration: [
 			],
 			event: [
-				" 426\r\n2 TYPE Reference Number",
-				" 426\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f148,
 			family_of_procreation: [
@@ -46060,8 +45971,6 @@
 			emigration: [
 			],
 			event: [
-				" 304\r\n2 TYPE Reference Number",
-				" 304\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f080,
 			family_of_procreation: [
@@ -46222,8 +46131,6 @@
 			emigration: [
 			],
 			event: [
-				" 875\r\n2 TYPE Reference Number",
-				" 890\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f084,
 			family_of_procreation: [
@@ -46306,8 +46213,6 @@
 			emigration: [
 			],
 			event: [
-				" 428\r\n2 TYPE Reference Number",
-				" 428\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f084,
 			family_of_procreation: [
@@ -46388,8 +46293,6 @@
 			emigration: [
 			],
 			event: [
-				" 873\r\n2 TYPE Reference Number",
-				" 888\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f137,
 			family_of_procreation: [
@@ -46470,8 +46373,6 @@
 			emigration: [
 			],
 			event: [
-				" 131\r\n2 TYPE Reference Number",
-				" 131\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f137,
 			family_of_procreation: [
@@ -46551,8 +46452,6 @@
 			emigration: [
 			],
 			event: [
-				" 406\r\n2 TYPE Reference Number",
-				" 406\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f080,
 			family_of_procreation: [
@@ -46632,8 +46531,6 @@
 			emigration: [
 			],
 			event: [
-				" 413\r\n2 TYPE Reference Number",
-				" 413\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f140,
 			family_of_procreation: [
@@ -47619,8 +47516,6 @@
 			emigration: [
 			],
 			event: [
-				" 685\r\n2 TYPE Reference Number",
-				" 686\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f287,
 			family_of_procreation: [
@@ -48102,8 +47997,6 @@
 			emigration: [
 			],
 			event: [
-				" 443\r\n2 TYPE Reference Number",
-				" 443\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f097,
 			family_of_procreation: [
@@ -48453,8 +48346,6 @@
 			emigration: [
 			],
 			event: [
-				" 429\r\n2 TYPE Reference Number",
-				" 429\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f117,
 			family_of_procreation: [
@@ -48535,8 +48426,6 @@
 			emigration: [
 			],
 			event: [
-				" 158\r\n2 TYPE Reference Number",
-				" 158\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f198,
 			family_of_procreation: [
@@ -48615,8 +48504,6 @@
 			emigration: [
 			],
 			event: [
-				" 857\r\n2 TYPE Reference Number",
-				" 872\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f117,
 			family_of_procreation: [
@@ -48696,8 +48583,6 @@
 			emigration: [
 			],
 			event: [
-				" 82\r\n2 TYPE Reference Number",
-				" 82\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f454,
 			family_of_procreation: [
@@ -48957,8 +48842,6 @@
 			emigration: [
 			],
 			event: [
-				" 372\r\n2 TYPE Reference Number",
-				" 372\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f117,
 			family_of_procreation: [
@@ -49039,8 +48922,6 @@
 			emigration: [
 			],
 			event: [
-				" 380\r\n2 TYPE Reference Number",
-				" 380\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f118,
 			family_of_procreation: [
@@ -49129,8 +49010,6 @@
 			emigration: [
 			],
 			event: [
-				" 87\r\n2 TYPE Reference Number",
-				" 87\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f111,
 			family_of_procreation: [
@@ -49211,8 +49090,6 @@
 			emigration: [
 			],
 			event: [
-				" 423\r\n2 TYPE Reference Number",
-				" 423\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -49705,8 +49582,6 @@
 			emigration: [
 			],
 			event: [
-				" 596\r\n2 TYPE Reference Number",
-				" 596\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -49968,8 +49843,6 @@
 			emigration: [
 			],
 			event: [
-				" 820\r\n2 TYPE Reference Number",
-				" 832\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f438,
 			family_of_procreation: [
@@ -50396,8 +50269,6 @@
 			emigration: [
 			],
 			event: [
-				" 153\r\n2 TYPE Reference Number",
-				" 153\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f197,
 			family_of_procreation: [
@@ -50477,8 +50348,6 @@
 			emigration: [
 			],
 			event: [
-				" 516\r\n2 TYPE Reference Number",
-				" 516\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -50723,8 +50592,6 @@
 			emigration: [
 			],
 			event: [
-				" 267\r\n2 TYPE Reference Number",
-				" 267\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -50885,8 +50752,6 @@
 			emigration: [
 			],
 			event: [
-				" 699\r\n2 TYPE Reference Number",
-				" 700\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -51218,8 +51083,6 @@
 			emigration: [
 			],
 			event: [
-				" 295\r\n2 TYPE Reference Number",
-				" 295\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f303,
 			family_of_procreation: [
@@ -51637,8 +51500,6 @@
 			emigration: [
 			],
 			event: [
-				" 1012\r\n2 TYPE Reference Number",
-				" 1038\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -52524,8 +52385,6 @@
 			emigration: [
 			],
 			event: [
-				" 280\r\n2 TYPE Reference Number",
-				" 280\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f109,
 			family_of_procreation: [
@@ -52606,8 +52465,6 @@
 			emigration: [
 			],
 			event: [
-				" 369\r\n2 TYPE Reference Number",
-				" 369\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f110,
 			family_of_procreation: [
@@ -52688,8 +52545,6 @@
 			emigration: [
 			],
 			event: [
-				" 371\r\n2 TYPE Reference Number",
-				" 371\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -53515,8 +53370,6 @@
 			emigration: [
 			],
 			event: [
-				" 593\r\n2 TYPE Reference Number",
-				" 593\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -53847,8 +53700,6 @@
 			emigration: [
 			],
 			event: [
-				" 651\r\n2 TYPE Reference Number",
-				" 651\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -54263,8 +54114,6 @@
 			emigration: [
 			],
 			event: [
-				" 640\r\n2 TYPE Reference Number",
-				" 640\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f128,
 			family_of_procreation: [
@@ -54348,8 +54197,6 @@
 			emigration: [
 			],
 			event: [
-				" 620\r\n2 TYPE Reference Number",
-				" 620\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f123,
 			family_of_procreation: [
@@ -54679,8 +54526,6 @@
 			emigration: [
 			],
 			event: [
-				" 920\r\n2 TYPE Reference Number",
-				" 937\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f155,
 			family_of_procreation: [
@@ -55001,8 +54846,6 @@
 			emigration: [
 			],
 			event: [
-				" 362\r\n2 TYPE Reference Number",
-				" 362\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f106,
 			family_of_procreation: [
@@ -55561,8 +55404,6 @@
 			emigration: [
 			],
 			event: [
-				" 363\r\n2 TYPE Reference Number",
-				" 363\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f188,
 			family_of_procreation: [
@@ -55642,8 +55483,6 @@
 			emigration: [
 			],
 			event: [
-				" 883\r\n2 TYPE Reference Number",
-				" 898\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -55727,8 +55566,6 @@
 			emigration: [
 			],
 			event: [
-				" 799\r\n2 TYPE Reference Number",
-				" 807\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f365,
 			family_of_procreation: [
@@ -55809,8 +55646,6 @@
 			emigration: [
 			],
 			event: [
-				" 852\r\n2 TYPE Reference Number",
-				" 867\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f366,
 			family_of_procreation: [
@@ -55890,8 +55725,6 @@
 			emigration: [
 			],
 			event: [
-				" 854\r\n2 TYPE Reference Number",
-				" 869\r\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f371,
 			family_of_procreation: [
@@ -57021,8 +56854,6 @@
 			emigration: [
 			],
 			event: [
-				" 282\n2 TYPE Reference Number",
-				" 282\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f067,
 			family_of_procreation: [
@@ -57194,8 +57025,6 @@
 			emigration: [
 			],
 			event: [
-				" 398\n2 TYPE Reference Number",
-				" 398\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f067,
 			family_of_procreation: [
@@ -57275,8 +57104,6 @@
 			emigration: [
 			],
 			event: [
-				" 743\n2 TYPE Reference Number",
-				" 744\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -57361,8 +57188,6 @@
 			emigration: [
 			],
 			event: [
-				" 859\n2 TYPE Reference Number",
-				" 874\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f370,
 			family_of_procreation: [
@@ -57442,8 +57267,6 @@
 			emigration: [
 			],
 			event: [
-				" 862\n2 TYPE Reference Number",
-				" 877\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f380,
 			family_of_procreation: [
@@ -57610,7 +57433,6 @@
 			emigration: [
 			],
 			event: [
-				" 763\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f322,
 			family_of_procreation: [
@@ -57690,8 +57512,6 @@
 			emigration: [
 			],
 			event: [
-				" 772\n2 TYPE Reference Number",
-				" 773\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f398,
 			family_of_procreation: [
@@ -57771,8 +57591,6 @@
 			emigration: [
 			],
 			event: [
-				" 773\n2 TYPE Reference Number",
-				" 774\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f323,
 			family_of_procreation: [
@@ -57855,8 +57673,6 @@
 			emigration: [
 			],
 			event: [
-				" 911\n2 TYPE Reference Number",
-				" 928\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -58268,8 +58084,6 @@
 			emigration: [
 			],
 			event: [
-				" 405\n2 TYPE Reference Number",
-				" 405\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f134,
 			family_of_procreation: [
@@ -58518,8 +58332,6 @@
 			emigration: [
 			],
 			event: [
-				" 301\n2 TYPE Reference Number",
-				" 301\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -58684,8 +58496,6 @@
 			emigration: [
 			],
 			event: [
-				" 200\n2 TYPE Reference Number",
-				" 200\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f027,
 			family_of_procreation: [
@@ -58765,8 +58575,6 @@
 			emigration: [
 			],
 			event: [
-				" 238\n2 TYPE Reference Number",
-				" 238\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f045,
 			family_of_procreation: [
@@ -58929,8 +58737,6 @@
 			emigration: [
 			],
 			event: [
-				" 215\n2 TYPE Reference Number",
-				" 215\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f044,
 			family_of_procreation: [
@@ -59269,8 +59075,6 @@
 			emigration: [
 			],
 			event: [
-				" 874\n2 TYPE Reference Number",
-				" 889\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f378,
 			family_of_procreation: [
@@ -59597,8 +59401,6 @@
 			emigration: [
 			],
 			event: [
-				" 169\n2 TYPE Reference Number",
-				" 169\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f619,
 			family_of_procreation: [
@@ -59679,8 +59481,6 @@
 			emigration: [
 			],
 			event: [
-				" 168\n2 TYPE Reference Number",
-				" 168\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f509,
 			family_of_procreation: [
@@ -62182,8 +61982,6 @@
 			emigration: [
 			],
 			event: [
-				" 830\n2 TYPE Reference Number",
-				" 843\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -62262,8 +62060,6 @@
 			emigration: [
 			],
 			event: [
-				" 841\n2 TYPE Reference Number",
-				" 856\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f354,
 			family_of_procreation: [
@@ -62601,8 +62397,6 @@
 			emigration: [
 			],
 			event: [
-				" 62\n2 TYPE Reference Number",
-				" 62\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f233,
 			family_of_procreation: [
@@ -62859,8 +62653,6 @@
 			emigration: [
 			],
 			event: [
-				" 58\n2 TYPE Reference Number",
-				" 58\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f319,
 			family_of_procreation: [
@@ -63104,8 +62896,6 @@
 			emigration: [
 			],
 			event: [
-				" 868\n2 TYPE Reference Number",
-				" 883\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63189,8 +62979,6 @@
 			emigration: [
 			],
 			event: [
-				" 531\n2 TYPE Reference Number",
-				" 531\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63353,8 +63141,6 @@
 			emigration: [
 			],
 			event: [
-				" 502\n2 TYPE Reference Number",
-				" 502\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63434,8 +63220,6 @@
 			emigration: [
 			],
 			event: [
-				" 910\n2 TYPE Reference Number",
-				" 925\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63685,8 +63469,6 @@
 			emigration: [
 			],
 			event: [
-				" 333\n2 TYPE Reference Number",
-				" 333\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63855,8 +63637,6 @@
 			emigration: [
 			],
 			event: [
-				" 454\n2 TYPE Reference Number",
-				" 454\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -63940,8 +63720,6 @@
 			emigration: [
 			],
 			event: [
-				" 845\n2 TYPE Reference Number",
-				" 860\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -64274,8 +64052,6 @@
 			emigration: [
 			],
 			event: [
-				" 338\n2 TYPE Reference Number",
-				" 338\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -64359,8 +64135,6 @@
 			emigration: [
 			],
 			event: [
-				" 416\n2 TYPE Reference Number",
-				" 416\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -64526,8 +64300,6 @@
 			emigration: [
 			],
 			event: [
-				" 595\n2 TYPE Reference Number",
-				" 595\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -65102,8 +64874,6 @@
 			emigration: [
 			],
 			event: [
-				" 324\n2 TYPE Reference Number",
-				" 324\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -65431,8 +65201,6 @@
 			emigration: [
 			],
 			event: [
-				" 244\n2 TYPE Reference Number",
-				" 244\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -66266,8 +66034,6 @@
 			emigration: [
 			],
 			event: [
-				" 468\n2 TYPE Reference Number",
-				" 468\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -66347,8 +66113,6 @@
 			emigration: [
 			],
 			event: [
-				" 759\n2 TYPE Reference Number",
-				" 760\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -66428,8 +66192,6 @@
 			emigration: [
 			],
 			event: [
-				" 757\n2 TYPE Reference Number",
-				" 758\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -66509,8 +66271,6 @@
 			emigration: [
 			],
 			event: [
-				" 575\n2 TYPE Reference Number",
-				" 575\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -66915,8 +66675,6 @@
 			emigration: [
 			],
 			event: [
-				" 702\n2 TYPE Reference Number",
-				" 703\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -67000,8 +66758,6 @@
 			emigration: [
 			],
 			event: [
-				" 700\n2 TYPE Reference Number",
-				" 701\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -67243,8 +66999,6 @@
 			emigration: [
 			],
 			event: [
-				" 198\n2 TYPE Reference Number",
-				" 198\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -67573,8 +67327,6 @@
 			emigration: [
 			],
 			event: [
-				" 806\n2 TYPE Reference Number",
-				" 814\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -67818,8 +67570,6 @@
 			emigration: [
 			],
 			event: [
-				" 801\n2 TYPE Reference Number",
-				" 809\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -67899,8 +67649,6 @@
 			emigration: [
 			],
 			event: [
-				" 239\n2 TYPE Reference Number",
-				" 239\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -68060,8 +67808,6 @@
 			emigration: [
 			],
 			event: [
-				" 184\n2 TYPE Reference Number",
-				" 184\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -68226,8 +67972,6 @@
 			emigration: [
 			],
 			event: [
-				" 466\n2 TYPE Reference Number",
-				" 466\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f174,
 			family_of_procreation: [
@@ -68307,8 +68051,6 @@
 			emigration: [
 			],
 			event: [
-				" 473\n2 TYPE Reference Number",
-				" 473\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f176,
 			family_of_procreation: [
@@ -68388,8 +68130,6 @@
 			emigration: [
 			],
 			event: [
-				" 477\n2 TYPE Reference Number",
-				" 477\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -68473,8 +68213,6 @@
 			emigration: [
 			],
 			event: [
-				" 254\n2 TYPE Reference Number",
-				" 254\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f095,
 			family_of_procreation: [
@@ -68803,8 +68541,6 @@
 			emigration: [
 			],
 			event: [
-				" 59\n2 TYPE Reference Number",
-				" 59\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -69048,8 +68784,6 @@
 			emigration: [
 			],
 			event: [
-				" 312\n2 TYPE Reference Number",
-				" 312\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -69379,8 +69113,6 @@
 			emigration: [
 			],
 			event: [
-				" 332\n2 TYPE Reference Number",
-				" 332\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -69710,8 +69442,6 @@
 			emigration: [
 			],
 			event: [
-				" 646\n2 TYPE Reference Number",
-				" 646\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f268,
 			family_of_procreation: [
@@ -69791,8 +69521,6 @@
 			emigration: [
 			],
 			event: [
-				" 654\n2 TYPE Reference Number",
-				" 654\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f312,
 			family_of_procreation: [
@@ -70522,8 +70250,6 @@
 			emigration: [
 			],
 			event: [
-				" 938\n2 TYPE Reference Number",
-				" 955\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f439,
 			family_of_procreation: [
@@ -71273,8 +70999,6 @@
 			emigration: [
 			],
 			event: [
-				" 853\n2 TYPE Reference Number",
-				" 868\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f367,
 			family_of_procreation: [
@@ -71354,8 +71078,6 @@
 			emigration: [
 			],
 			event: [
-				" 437\n2 TYPE Reference Number",
-				" 437\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f144,
 			family_of_procreation: [
@@ -71436,8 +71158,6 @@
 			emigration: [
 			],
 			event: [
-				" 867\n2 TYPE Reference Number",
-				" 882\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -71604,8 +71324,6 @@
 			emigration: [
 			],
 			event: [
-				" 856\n2 TYPE Reference Number",
-				" 871\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f373,
 			family_of_procreation: [
@@ -72508,8 +72226,6 @@
 			emigration: [
 			],
 			event: [
-				" 222\n2 TYPE Reference Number",
-				" 222\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f361,
 			family_of_procreation: [
@@ -72593,8 +72309,6 @@
 			emigration: [
 			],
 			event: [
-				" 194\n2 TYPE Reference Number",
-				" 194\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f030,
 			family_of_procreation: [
@@ -72675,8 +72389,6 @@
 			emigration: [
 			],
 			event: [
-				" 221\n2 TYPE Reference Number",
-				" 221\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f031,
 			family_of_procreation: [
@@ -72756,8 +72468,6 @@
 			emigration: [
 			],
 			event: [
-				" 844\n2 TYPE Reference Number",
-				" 859\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -73015,8 +72725,6 @@
 			emigration: [
 			],
 			event: [
-				" 805\n2 TYPE Reference Number",
-				" 813\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f339,
 			family_of_procreation: [
@@ -73096,8 +72804,6 @@
 			emigration: [
 			],
 			event: [
-				" 803\n2 TYPE Reference Number",
-				" 811\n2 TYPE Reference Number",
 			],
 			family_of_origin: nil,
 			family_of_procreation: [
@@ -73177,8 +72883,6 @@
 			emigration: [
 			],
 			event: [
-				" 767\n2 TYPE Reference Number",
-				" 768\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f338,
 			family_of_procreation: [
@@ -73941,8 +73645,6 @@
 			emigration: [
 			],
 			event: [
-				" 855\n2 TYPE Reference Number",
-				" 870\n2 TYPE Reference Number",
 			],
 			family_of_origin: :f372,
 			family_of_procreation: [
