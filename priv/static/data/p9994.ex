@@ -1,23 +1,23 @@
-		##############  First Middle Last
-		pXxxx: %{
+		##############  Elizabeth Noyes
+		p9994: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "xxx",
+			birth_date: "19 Apr 1625",
 			birth_note: nil,
-			birth_place: nil, 
+			birth_place: "Weyhill, Hampshire, England",
 			birth_source: nil,
-			birth_year: "xxx",
+			birth_year: "1625",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "xxx",
+			death_date: "1669",
 			death_note: nil,
-			death_place: xxx or nil,
+			death_place: "Sudbury, Middlesex, Massachusetts Bay Colony",
 			death_source: nil,
-			death_year: "xxx",
+			death_year: "1669",
 			description: nil,
 			education: [
 			],
@@ -28,22 +28,16 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :xxx lookup or nil,
+			father: :p9992,
 			former_name: nil,
-			given_name: "xxx first middle",
+			given_name: "Elizabeth",
 			graduation: [
 			],
-			id: :xxx_look_up_or_makeup,
+			id: :p9994,
 			immigration: nil,
-			label: "genXxxx.Pxxx.Namexxx",
+			label: "gen11.MMMMPMPMMMM.Elizabeth_Noyes",
 			links: %{
-				geni: "xxx",
-				myheritage: "xxx",
-				werelate: "xxx",
-				wikitree: "xxx",
-                other_links: %{
-					wikipedia: "",
-				},
+				wikitree: "https://www.wikitree.com/wiki/Noyes-53",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -51,8 +45,8 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "xxx First /Surname/",
-			mother: :xxx lookup or nil,
+			mh_name: "Elizabeth  /Noyes/",
+			mother: :p9993,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -65,20 +59,21 @@
 			],
 			probate: nil,
 			relation_list: [
-				["P", xxx],
+				["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M"],
+				["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "MxxxF",
-xxx			ship: %{
-				name: nil,
-				year: nil,
+			sex: "F",
+			ship: %{
+				name: "Confidence",
+				year: "1638",
 			},
 			sources: [
 			],
-			surname: "xxx",
+			surname: "Noyes",
 			title: nil,
 			uid: nil,
 			upd: nil,

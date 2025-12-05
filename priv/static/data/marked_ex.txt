@@ -10953,10 +10953,10 @@
       sector: {11, 942},
 	}
 	{11, :nw, 943} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :redundant,
-      id: "mother of p0571",
-      immigrant: :no,
+      id: :p9994,
+      immigrant: :ship,
       quadrant: :nw,
       relation: ["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M"],
       sector: {11, 943},
@@ -12951,10 +12951,10 @@
       sector: {11, 1966},
 	}
 	{11, :se, 1967} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
-      id: "mother of p0571",
-      immigrant: :no,
+      id: :p9994,
+      immigrant: :ship,
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M"],
       sector: {11, 1967},
@@ -14597,6 +14597,24 @@
       relation: ["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "P", "M"],
       sector: {12, 1885},
 	}
+	{12, :nw, 1886} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p9992,
+      immigrant: :ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "P"],
+      sector: {12, 1886},
+	}
+	{12, :nw, 1887} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      id: :p9993,
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: ["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
+      sector: {12, 1887},
+	}
 	{12, :nw, 1888} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -15487,6 +15505,24 @@
       quadrant: :se,
       relation: ["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "P", "M"],
       sector: {12, 3933},
+	}
+	{12, :se, 3934} => %{
+      brickwall: false,
+      duplicate: :main,
+      id: :p9992,
+      immigrant: :ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "P"],
+      sector: {12, 3934},
+	}
+	{12, :se, 3935} => %{
+      brickwall: false,
+      duplicate: :main,
+      id: :p9993,
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: ["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
+      sector: {12, 3935},
 	}
 	{12, :se, 3936} => %{
       brickwall: false,

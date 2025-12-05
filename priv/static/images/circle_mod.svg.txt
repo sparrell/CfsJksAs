@@ -9366,7 +9366,7 @@ Thomas Gates (1646 - 1726)
 <path id="ray_g10_s983" d="M 27182,24345 L 29412,24911" />
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s983" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Freeman (? - ?)
+Elizabeth Freeman (1648 - 1723)
 </textPath>
 </text>
 <defs>
@@ -12604,11 +12604,11 @@ Edmund Freeman (? - ?)
 <clipPath id="sector_11_1967_clip">
 <use href="#sector_11_1967"/>
 </clipPath></defs>
-<use href="#sector_11_1967" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_1967_clip)"/>
+<use href="#sector_11_1967" stroke="#FF6EC7" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_11_1967_clip)"/>
 <path id="ray_g11_s1967" d="M 29418,24887 L 30872,25254" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g11_s1967" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Elizabeth Noyes (1625 - 1669)
 </textPath>
 </text>
 <defs>
@@ -14066,183 +14066,207 @@ Margaret Unknown111 (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3904" d="M 31584 26334 A 18375 18375 0 0 1 31567 26388 L 30707 26124 A 17475 17475 0 0 0 30723 26073 L 31584 26334 " />
+<path id="sector_12_3904" d="M 31551 26442 A 18375 18375 0 0 1 31534 26496 L 30675 26226 A 17475 17475 0 0 0 30691 26175 L 31551 26442 " />
 <clipPath id="sector_12_3904_clip">
 <use href="#sector_12_3904"/>
 </clipPath></defs>
 <use href="#sector_12_3904" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3904_clip)"/>
-<path id="ray_g12_s3904" d="M 30715,26098 L 31576,26361" />
+<path id="ray_g12_s3904" d="M 30683,26201 L 31542,26469" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3904" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 William Brewster (1566 - 1644)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3905" d="M 31600 26280 A 18375 18375 0 0 1 31584 26334 L 30723 26073 A 17475 17475 0 0 0 30738 26021 L 31600 26280 " />
+<path id="sector_12_3905" d="M 31567 26388 A 18375 18375 0 0 1 31551 26442 L 30691 26175 A 17475 17475 0 0 0 30707 26124 L 31567 26388 " />
 <clipPath id="sector_12_3905_clip">
 <use href="#sector_12_3905"/>
 </clipPath></defs>
 <use href="#sector_12_3905" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3905_clip)"/>
-<path id="ray_g12_s3905" d="M 30730,26047 L 31592,26307" />
+<path id="ray_g12_s3905" d="M 30699,26150 L 31559,26415" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3905" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary   (? - 1627)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3906" d="M 31616 26226 A 18375 18375 0 0 1 31600 26280 L 30738 26021 A 17475 17475 0 0 0 30753 25970 L 31616 26226 " />
+<path id="sector_12_3906" d="M 31584 26334 A 18375 18375 0 0 1 31567 26388 L 30707 26124 A 17475 17475 0 0 0 30723 26073 L 31584 26334 " />
 <clipPath id="sector_12_3906_clip">
 <use href="#sector_12_3906"/>
 </clipPath></defs>
 <use href="#sector_12_3906" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3906_clip)"/>
-<path id="ray_g12_s3906" d="M 30746,25996 L 31608,26253" />
+<path id="ray_g12_s3906" d="M 30715,26098 L 31576,26361" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3906" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 William Collier (? - 1650)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3914" d="M 31632 26172 A 18375 18375 0 0 1 31616 26226 L 30753 25970 A 17475 17475 0 0 0 30769 25919 L 31632 26172 " />
+<path id="sector_12_3914" d="M 31600 26280 A 18375 18375 0 0 1 31584 26334 L 30723 26073 A 17475 17475 0 0 0 30738 26021 L 31600 26280 " />
 <clipPath id="sector_12_3914_clip">
 <use href="#sector_12_3914"/>
 </clipPath></defs>
 <use href="#sector_12_3914" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3914_clip)"/>
-<path id="ray_g12_s3914" d="M 30761,25944 L 31624,26199" />
+<path id="ray_g12_s3914" d="M 30730,26047 L 31592,26307" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3914" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Thomas Wheeler (1602 - 1686)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3915" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
+<path id="sector_12_3915" d="M 31616 26226 A 18375 18375 0 0 1 31600 26280 L 30738 26021 A 17475 17475 0 0 0 30753 25970 L 31616 26226 " />
 <clipPath id="sector_12_3915_clip">
 <use href="#sector_12_3915"/>
 </clipPath></defs>
 <use href="#sector_12_3915" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3915_clip)"/>
-<path id="ray_g12_s3915" d="M 30776,25893 L 31640,26145" />
+<path id="ray_g12_s3915" d="M 30746,25996 L 31608,26253" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3915" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary Wheeler (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3916" d="M 31664 26064 A 18375 18375 0 0 1 31648 26118 L 30784 25867 A 17475 17475 0 0 0 30798 25816 L 31664 26064 " />
+<path id="sector_12_3916" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
 <clipPath id="sector_12_3916_clip">
 <use href="#sector_12_3916"/>
 </clipPath></defs>
 <use href="#sector_12_3916" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3916_clip)"/>
-<path id="ray_g12_s3916" d="M 30791,25841 L 31656,26091" />
+<path id="ray_g12_s3916" d="M 30776,25893 L 31640,26145" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3916" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 James Morgan (1607 - 1704)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3917" d="M 31679 26009 A 18375 18375 0 0 1 31664 26064 L 30798 25816 A 17475 17475 0 0 0 30813 25764 L 31679 26009 " />
+<path id="sector_12_3917" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
 <clipPath id="sector_12_3917_clip">
 <use href="#sector_12_3917"/>
 </clipPath></defs>
 <use href="#sector_12_3917" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3917_clip)"/>
-<path id="ray_g12_s3917" d="M 30806,25790 L 31671,26037" />
+<path id="ray_g12_s3917" d="M 30776,25893 L 31640,26145" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3917" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Margery Hill (1611 - 1690)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3918" d="M 31694 25955 A 18375 18375 0 0 1 31679 26009 L 30813 25764 A 17475 17475 0 0 0 30828 25712 L 31694 25955 " />
+<path id="sector_12_3918" d="M 31664 26064 A 18375 18375 0 0 1 31648 26118 L 30784 25867 A 17475 17475 0 0 0 30798 25816 L 31664 26064 " />
 <clipPath id="sector_12_3918_clip">
 <use href="#sector_12_3918"/>
 </clipPath></defs>
 <use href="#sector_12_3918" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3918_clip)"/>
-<path id="ray_g12_s3918" d="M 30820,25738 L 31687,25982" />
+<path id="ray_g12_s3918" d="M 30791,25841 L 31656,26091" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3918" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Thomas Parke (1615 - 1709)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3919" d="M 31709 25901 A 18375 18375 0 0 1 31694 25955 L 30828 25712 A 17475 17475 0 0 0 30842 25661 L 31709 25901 " />
+<path id="sector_12_3919" d="M 31679 26009 A 18375 18375 0 0 1 31664 26064 L 30798 25816 A 17475 17475 0 0 0 30813 25764 L 31679 26009 " />
 <clipPath id="sector_12_3919_clip">
 <use href="#sector_12_3919"/>
 </clipPath></defs>
 <use href="#sector_12_3919" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3919_clip)"/>
-<path id="ray_g12_s3919" d="M 30835,25687 L 31702,25928" />
+<path id="ray_g12_s3919" d="M 30806,25790 L 31671,26037" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3919" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Dorothy Thompson (1624 - 1709)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3922" d="M 31724 25846 A 18375 18375 0 0 1 31709 25901 L 30842 25661 A 17475 17475 0 0 0 30856 25609 L 31724 25846 " />
+<path id="sector_12_3922" d="M 31694 25955 A 18375 18375 0 0 1 31679 26009 L 30813 25764 A 17475 17475 0 0 0 30828 25712 L 31694 25955 " />
 <clipPath id="sector_12_3922_clip">
 <use href="#sector_12_3922"/>
 </clipPath></defs>
 <use href="#sector_12_3922" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3922_clip)"/>
-<path id="ray_g12_s3922" d="M 30849,25635 L 31717,25874" />
+<path id="ray_g12_s3922" d="M 30820,25738 L 31687,25982" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3922" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Stephen Jordan (1589 - 1670)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3923" d="M 31739 25792 A 18375 18375 0 0 1 31724 25846 L 30856 25609 A 17475 17475 0 0 0 30870 25557 L 31739 25792 " />
+<path id="sector_12_3923" d="M 31709 25901 A 18375 18375 0 0 1 31694 25955 L 30828 25712 A 17475 17475 0 0 0 30842 25661 L 31709 25901 " />
 <clipPath id="sector_12_3923_clip">
 <use href="#sector_12_3923"/>
 </clipPath></defs>
 <use href="#sector_12_3923" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3923_clip)"/>
-<path id="ray_g12_s3923" d="M 30863,25583 L 31732,25819" />
+<path id="ray_g12_s3923" d="M 30835,25687 L 31702,25928" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3923" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Susanna Peacock (? - 1673)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3926" d="M 31754 25738 A 18375 18375 0 0 1 31739 25792 L 30870 25557 A 17475 17475 0 0 0 30884 25506 L 31754 25738 " />
+<path id="sector_12_3926" d="M 31724 25846 A 18375 18375 0 0 1 31709 25901 L 30842 25661 A 17475 17475 0 0 0 30856 25609 L 31724 25846 " />
 <clipPath id="sector_12_3926_clip">
 <use href="#sector_12_3926"/>
 </clipPath></defs>
 <use href="#sector_12_3926" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3926_clip)"/>
-<path id="ray_g12_s3926" d="M 30877,25531 L 31746,25765" />
+<path id="ray_g12_s3926" d="M 30849,25635 L 31717,25874" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3926" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Edmund Lockwood (1594 - 1635)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3927" d="M 31768 25683 A 18375 18375 0 0 1 31754 25738 L 30884 25506 A 17475 17475 0 0 0 30898 25454 L 31768 25683 " />
+<path id="sector_12_3927" d="M 31739 25792 A 18375 18375 0 0 1 31724 25846 L 30856 25609 A 17475 17475 0 0 0 30870 25557 L 31739 25792 " />
 <clipPath id="sector_12_3927_clip">
 <use href="#sector_12_3927"/>
 </clipPath></defs>
 <use href="#sector_12_3927" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3927_clip)"/>
-<path id="ray_g12_s3927" d="M 30891,25480 L 31761,25710" />
+<path id="ray_g12_s3927" d="M 30863,25583 L 31732,25819" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3927" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Unknown024 (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3932" d="M 31782 25629 A 18375 18375 0 0 1 31768 25683 L 30898 25454 A 17475 17475 0 0 0 30911 25402 L 31782 25629 " />
+<path id="sector_12_3932" d="M 31754 25738 A 18375 18375 0 0 1 31739 25792 L 30870 25557 A 17475 17475 0 0 0 30884 25506 L 31754 25738 " />
 <clipPath id="sector_12_3932_clip">
 <use href="#sector_12_3932"/>
 </clipPath></defs>
 <use href="#sector_12_3932" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3932_clip)"/>
-<path id="ray_g12_s3932" d="M 30905,25428 L 31775,25656" />
+<path id="ray_g12_s3932" d="M 30877,25531 L 31746,25765" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3932" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3933" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
+<path id="sector_12_3933" d="M 31768 25683 A 18375 18375 0 0 1 31754 25738 L 30884 25506 A 17475 17475 0 0 0 30898 25454 L 31768 25683 " />
 <clipPath id="sector_12_3933_clip">
 <use href="#sector_12_3933"/>
 </clipPath></defs>
 <use href="#sector_12_3933" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3933_clip)"/>
-<path id="ray_g12_s3933" d="M 30918,25376 L 31790,25601" />
+<path id="ray_g12_s3933" d="M 30891,25480 L 31761,25710" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3933" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 brickwall  (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3934" d="M 31782 25629 A 18375 18375 0 0 1 31768 25683 L 30898 25454 A 17475 17475 0 0 0 30911 25402 L 31782 25629 " />
+<clipPath id="sector_12_3934_clip">
+<use href="#sector_12_3934"/>
+</clipPath></defs>
+<use href="#sector_12_3934" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3934_clip)"/>
+<path id="ray_g12_s3934" d="M 30905,25428 L 31775,25656" />
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
+<textPath href="#ray_g12_s3934" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Peter Noyes (1590 - 1657)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3935" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
+<clipPath id="sector_12_3935_clip">
+<use href="#sector_12_3935"/>
+</clipPath></defs>
+<use href="#sector_12_3935" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3935_clip)"/>
+<path id="ray_g12_s3935" d="M 30918,25376 L 31790,25601" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g12_s3935" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Elizabeth Smith (1594 - 1636)
 </textPath>
 </text>
 <defs>
@@ -14724,5 +14748,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-04 16:27:11.770133Z -->
+<!-- made new svg at 2025-12-05 03:02:50.547857Z -->
 </svg>
