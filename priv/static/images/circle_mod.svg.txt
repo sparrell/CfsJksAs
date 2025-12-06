@@ -14652,13 +14652,10 @@ Susanna Furner (? - 1620)
 <line id="g12_s1962_g11_s1963" x1="30877" y1="25531" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1963_g11_s1963" x1="30891" y1="25480" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1964_g11_s1966" x1="30905" y1="25428" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
-<line id="g12_s1965_g11_s1966" x1="30918" y1="25376" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
 <line id="g12_s1966_g11_s1968" x1="30932" y1="25324" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1967_g11_s1968" x1="30945" y1="25272" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1968_g11_s1969" x1="30958" y1="25220" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
 <line id="g12_s1969_g11_s1969" x1="30971" y1="25168" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
-<line id="g12_s1970_g11_s1970" x1="30983" y1="25116" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
-<line id="g12_s1971_g11_s1970" x1="30996" y1="25064" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
 <line id="g12_s1972_g11_s1972" x1="31008" y1="25012" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1973_g11_s1972" x1="31021" y1="24959" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1974_g11_s1974" x1="31033" y1="24907" x2="30959" y2="24890" stroke="gray" stroke-width="5" />
@@ -14669,8 +14666,6 @@ Susanna Furner (? - 1620)
 <line id="g12_s1979_g11_s1976" x1="31091" y1="24645" x2="30983" y2="24786" stroke="gray" stroke-width="5" />
 <line id="g12_s1980_g11_s1977" x1="31102" y1="24593" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
 <line id="g12_s1981_g11_s1977" x1="31113" y1="24541" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
-<line id="g12_s1982_g11_s1978" x1="31123" y1="24488" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
-<line id="g12_s1983_g11_s1978" x1="31134" y1="24435" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
 <line id="g12_s1987_g11_s1987" x1="31175" y1="24225" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
 <line id="g12_s1988_g11_s1987" x1="31185" y1="24172" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
 <line id="g12_s1995_g11_s1995" x1="31249" y1="23803" x2="31175" y2="23790" stroke="gray" stroke-width="5" />
@@ -14688,5 +14683,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-06 15:09:18.391759Z -->
+<!-- made new svg at 2025-12-06 16:00:48.138028Z -->
 </svg>

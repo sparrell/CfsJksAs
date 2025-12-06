@@ -6473,6 +6473,9 @@
 			immigration: nil,
 			label: "gen11.MMMMPMPMPMP.Jeremiah_Belcher",
 			links: %{
+				geni: "https://www.geni.com/people/Jeremiah-Belcher/6000000000130297043?through=6000000000462557414",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000832/jeremiah-belcher",
+				wikitree: "https://www.wikitree.com/wiki/Belcher-690",
 			},
 			married_name: nil,
 			mh_famc: nil,

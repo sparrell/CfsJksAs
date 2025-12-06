@@ -198,6 +198,11 @@ defmodule Cfsjksas.Chart.Sector do
       IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
       IEx.pry() # oops need to enter this data
     end
+
+    # for debugging connector lines
+    IO.inspect("old: #{sector.sector_num}, new: #{gen11_sector_num}, name: #{sector.given_name} #{sector.surname}")
+
+
     #return
     %{sector | gen11_sector_num: gen11_sector_num}
   end
