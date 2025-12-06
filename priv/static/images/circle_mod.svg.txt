@@ -9828,18 +9828,6 @@ Mary Wither (? - ?)
 
 <!-- Generation 11
  --><defs>
-<path id="sector_11_16" d="M 31376 20093 A 17400 17400 0 0 1 31379 20146 L 29881 20220 A 15900 15900 0 0 0 29878 20171 L 31376 20093 " />
-<clipPath id="sector_11_16_clip">
-<use href="#sector_11_16"/>
-</clipPath></defs>
-<use href="#sector_11_16" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_16_clip)"/>
-<path id="ray_g11_s16" d="M 29880,20195 L 31378,20120" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g11_s16" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Stephen Vinal (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_11_17" d="M 31373 20040 A 17400 17400 0 0 1 31376 20093 L 29878 20171 A 15900 15900 0 0 0 29876 20122 L 31373 20040 " />
 <clipPath id="sector_11_17_clip">
 <use href="#sector_11_17"/>
@@ -13370,18 +13358,6 @@ Rebecca Unknown070 (1595 - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_254" d="M 30976 13968 A 18375 18375 0 0 1 30998 14020 L 30165 14362 A 17475 17475 0 0 0 30145 14313 L 30976 13968 " />
-<clipPath id="sector_12_254_clip">
-<use href="#sector_12_254"/>
-</clipPath></defs>
-<use href="#sector_12_254" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_254_clip)"/>
-<path id="ray_g12_s254" d="M 30155,14337 L 30987,13994" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s254" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Stephen Vinal (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_255" d="M 30955 13916 A 18375 18375 0 0 1 30976 13968 L 30145 14313 A 17475 17475 0 0 0 30124 14263 L 30955 13916 " />
 <clipPath id="sector_12_255_clip">
 <use href="#sector_12_255"/>
@@ -13742,18 +13718,6 @@ Martha Chaplin (1584 - 1643)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3630" d="M 27914 33002 A 18375 18375 0 0 1 27877 33045 L 27197 32455 A 17475 17475 0 0 0 27232 32414 L 27914 33002 " />
-<clipPath id="sector_12_3630_clip">
-<use href="#sector_12_3630"/>
-</clipPath></defs>
-<use href="#sector_12_3630" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3630_clip)"/>
-<path id="ray_g12_s3630" d="M 27215,32434 L 27895,33023" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g12_s3630" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Thompson (1577 - 1627)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3631" d="M 27950 32959 A 18375 18375 0 0 1 27914 33002 L 27232 32414 A 17475 17475 0 0 0 27267 32374 L 27950 32959 " />
 <clipPath id="sector_12_3631_clip">
 <use href="#sector_12_3631"/>
@@ -13979,18 +13943,6 @@ William Denison (1571 - 1653)
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3837" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Margaret Chandler (? - 1645)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3838" d="M 30976 28032 A 18375 18375 0 0 1 30955 28084 L 30124 27737 A 17475 17475 0 0 0 30145 27687 L 30976 28032 " />
-<clipPath id="sector_12_3838_clip">
-<use href="#sector_12_3838"/>
-</clipPath></defs>
-<use href="#sector_12_3838" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3838_clip)"/>
-<path id="ray_g12_s3838" d="M 30135,27712 L 30965,28058" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s3838" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Thompson (1577 - 1627)
 </textPath>
 </text>
 <defs>
@@ -14255,18 +14207,6 @@ brickwall  (? - ?)
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3934" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Peter Noyes (1590 - 1657)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3935" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
-<clipPath id="sector_12_3935_clip">
-<use href="#sector_12_3935"/>
-</clipPath></defs>
-<use href="#sector_12_3935" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3935_clip)"/>
-<path id="ray_g12_s3935" d="M 30918,25376 L 31790,25601" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g12_s3935" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Smith (1594 - 1636)
 </textPath>
 </text>
 <defs>
@@ -14748,5 +14688,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-05 03:02:50.547857Z -->
+<!-- made new svg at 2025-12-06 15:09:18.391759Z -->
 </svg>
