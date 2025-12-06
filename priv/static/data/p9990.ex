@@ -1,23 +1,23 @@
-		##############  Elizabeth Smith
-		p9993: %{
+		##############  Elizabeth unknownCooke
+		p9990: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "1594",
+			birth_date: "about 1623",
 			birth_note: nil,
-			birth_place: "Penton Grafton, Hampshire, England",
+			birth_place: "England",
 			birth_source: nil,
-			birth_year: "1594",
+			birth_year: "1623",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "13 Feb 1636",
+			death_date: "1668",
 			death_note: nil,
-			death_place: "Weyhill, Hampshire, England",
+			death_place: "Guilford, New Haven County, Connecticut",
 			death_source: nil,
-			death_year: "1636",
+			death_year: "1668",
 			description: nil,
 			education: [
 			],
@@ -33,11 +33,13 @@
 			given_name: "Elizabeth",
 			graduation: [
 			],
-			id: :p9993,
+			id: :p9990,
 			immigration: nil,
-			label: "gen12.MMMMPMPMMMMM.Elizabeth_Smith",
+			label: "gen12.MMMMPMMPPPMM.Elizabeth_unknownCooke",
 			links: %{
-				wikitree: "https://www.wikitree.com/wiki/Smith-164392",
+				geni: "https://www.geni.com/people/Elizabeth-Cooke/6000000004099679129",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500058/elizabeth-unknown-cooke",
+				wikitree: "https://www.wikitree.com/wiki/Unknown-104107",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -45,7 +47,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Elizabeth /Smith/",
+			mh_name: "Elizabeth /unknownCooke/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -59,18 +61,21 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
-				["P", "M", "M", "M", "P", "M", "P", "M", "M", "M", "M", "M"],
+				["M", "M", "M", "M", "P", "M", "M", "P", "P", "P", "M", "M"],
+				["P", "M", "M", "M", "P", "M", "M", "P", "P", "P", "M", "M"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
 			sex: "F",
-			ship: :parent,
+			ship: %{
+				name: "St John",
+				year: "1639",
+			},
 			sources: [
 			],
-			surname: "Smith",
+			surname: "unknownCooke",
 			title: nil,
 			uid: nil,
 			upd: nil,
