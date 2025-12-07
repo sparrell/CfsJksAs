@@ -232,6 +232,16 @@ defmodule Cfsjksas.Ancestors.Person do
         parents,
         normal
         }
+      :parent ->
+        {has_ships,
+        wo_ships,
+        brickwalls_both,
+        brickwalls_mother,
+        brickwalls_father,
+        [id | parents],
+        normal
+        }
+
       :not ->
         {has_ships,
         wo_ships,
@@ -299,7 +309,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
 
   defp ship_info(:parent) do
-    :not
+    :parent
   end
   defp ship_info(:parent_wo_ship) do
     :not

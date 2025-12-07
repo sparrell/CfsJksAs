@@ -9828,18 +9828,6 @@ Mary Wither (? - ?)
 
 <!-- Generation 11
  --><defs>
-<path id="sector_11_16" d="M 31376 20093 A 17400 17400 0 0 1 31379 20146 L 29881 20220 A 15900 15900 0 0 0 29878 20171 L 31376 20093 " />
-<clipPath id="sector_11_16_clip">
-<use href="#sector_11_16"/>
-</clipPath></defs>
-<use href="#sector_11_16" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_16_clip)"/>
-<path id="ray_g11_s16" d="M 29880,20195 L 31378,20120" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g11_s16" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Stephen Vinal (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_11_17" d="M 31373 20040 A 17400 17400 0 0 1 31376 20093 L 29878 20171 A 15900 15900 0 0 0 29876 20122 L 31373 20040 " />
 <clipPath id="sector_11_17_clip">
 <use href="#sector_11_17"/>
@@ -13370,18 +13358,6 @@ Rebecca Unknown070 (1595 - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_254" d="M 30976 13968 A 18375 18375 0 0 1 30998 14020 L 30165 14362 A 17475 17475 0 0 0 30145 14313 L 30976 13968 " />
-<clipPath id="sector_12_254_clip">
-<use href="#sector_12_254"/>
-</clipPath></defs>
-<use href="#sector_12_254" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_254_clip)"/>
-<path id="ray_g12_s254" d="M 30155,14337 L 30987,13994" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s254" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Stephen Vinal (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_255" d="M 30955 13916 A 18375 18375 0 0 1 30976 13968 L 30145 14313 A 17475 17475 0 0 0 30124 14263 L 30955 13916 " />
 <clipPath id="sector_12_255_clip">
 <use href="#sector_12_255"/>
@@ -13742,18 +13718,6 @@ Martha Chaplin (1584 - 1643)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3630" d="M 27914 33002 A 18375 18375 0 0 1 27877 33045 L 27197 32455 A 17475 17475 0 0 0 27232 32414 L 27914 33002 " />
-<clipPath id="sector_12_3630_clip">
-<use href="#sector_12_3630"/>
-</clipPath></defs>
-<use href="#sector_12_3630" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3630_clip)"/>
-<path id="ray_g12_s3630" d="M 27215,32434 L 27895,33023" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g12_s3630" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Thompson (1577 - 1627)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3631" d="M 27950 32959 A 18375 18375 0 0 1 27914 33002 L 27232 32414 A 17475 17475 0 0 0 27267 32374 L 27950 32959 " />
 <clipPath id="sector_12_3631_clip">
 <use href="#sector_12_3631"/>
@@ -13979,18 +13943,6 @@ William Denison (1571 - 1653)
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3837" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Margaret Chandler (? - 1645)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3838" d="M 30976 28032 A 18375 18375 0 0 1 30955 28084 L 30124 27737 A 17475 17475 0 0 0 30145 27687 L 30976 28032 " />
-<clipPath id="sector_12_3838_clip">
-<use href="#sector_12_3838"/>
-</clipPath></defs>
-<use href="#sector_12_3838" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3838_clip)"/>
-<path id="ray_g12_s3838" d="M 30135,27712 L 30965,28058" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s3838" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Thompson (1577 - 1627)
 </textPath>
 </text>
 <defs>
@@ -14258,18 +14210,6 @@ Peter Noyes (1590 - 1657)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3935" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
-<clipPath id="sector_12_3935_clip">
-<use href="#sector_12_3935"/>
-</clipPath></defs>
-<use href="#sector_12_3935" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3935_clip)"/>
-<path id="ray_g12_s3935" d="M 30918,25376 L 31790,25601" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g12_s3935" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Smith (1594 - 1636)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3936" d="M 31811 25519 A 18375 18375 0 0 1 31797 25574 L 30925 25350 A 17475 17475 0 0 0 30938 25298 L 31811 25519 " />
 <clipPath id="sector_12_3936_clip">
 <use href="#sector_12_3936"/>
@@ -14298,11 +14238,11 @@ Ester Willocke (? - 1633)
 <clipPath id="sector_12_3938_clip">
 <use href="#sector_12_3938"/>
 </clipPath></defs>
-<use href="#sector_12_3938" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3938_clip)"/>
+<use href="#sector_12_3938" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3938_clip)"/>
 <path id="ray_g12_s3938" d="M 30958,25220 L 31831,25437" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3938" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Thomas Cooke (1615 - 1692)
 </textPath>
 </text>
 <defs>
@@ -14310,11 +14250,11 @@ brickwall  (? - ?)
 <clipPath id="sector_12_3939_clip">
 <use href="#sector_12_3939"/>
 </clipPath></defs>
-<use href="#sector_12_3939" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3939_clip)"/>
+<use href="#sector_12_3939" stroke="#FF6EC7" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3939_clip)"/>
 <path id="ray_g12_s3939" d="M 30971,25168 L 31845,25383" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3939" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Elizabeth unknownCooke (1623 - 1668)
 </textPath>
 </text>
 <defs>
@@ -14712,13 +14652,10 @@ Susanna Furner (? - 1620)
 <line id="g12_s1962_g11_s1963" x1="30877" y1="25531" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1963_g11_s1963" x1="30891" y1="25480" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1964_g11_s1966" x1="30905" y1="25428" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
-<line id="g12_s1965_g11_s1966" x1="30918" y1="25376" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
 <line id="g12_s1966_g11_s1968" x1="30932" y1="25324" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1967_g11_s1968" x1="30945" y1="25272" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1968_g11_s1969" x1="30958" y1="25220" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
 <line id="g12_s1969_g11_s1969" x1="30971" y1="25168" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
-<line id="g12_s1970_g11_s1970" x1="30983" y1="25116" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
-<line id="g12_s1971_g11_s1970" x1="30996" y1="25064" x2="30910" y2="25098" stroke="gray" stroke-width="5" />
 <line id="g12_s1972_g11_s1972" x1="31008" y1="25012" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1973_g11_s1972" x1="31021" y1="24959" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1974_g11_s1974" x1="31033" y1="24907" x2="30959" y2="24890" stroke="gray" stroke-width="5" />
@@ -14729,8 +14666,6 @@ Susanna Furner (? - 1620)
 <line id="g12_s1979_g11_s1976" x1="31091" y1="24645" x2="30983" y2="24786" stroke="gray" stroke-width="5" />
 <line id="g12_s1980_g11_s1977" x1="31102" y1="24593" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
 <line id="g12_s1981_g11_s1977" x1="31113" y1="24541" x2="30995" y2="24734" stroke="gray" stroke-width="5" />
-<line id="g12_s1982_g11_s1978" x1="31123" y1="24488" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
-<line id="g12_s1983_g11_s1978" x1="31134" y1="24435" x2="31006" y2="24682" stroke="gray" stroke-width="5" />
 <line id="g12_s1987_g11_s1987" x1="31175" y1="24225" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
 <line id="g12_s1988_g11_s1987" x1="31185" y1="24172" x2="31101" y2="24211" stroke="gray" stroke-width="5" />
 <line id="g12_s1995_g11_s1995" x1="31249" y1="23803" x2="31175" y2="23790" stroke="gray" stroke-width="5" />
@@ -14748,5 +14683,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-05 03:02:50.547857Z -->
+<!-- made new svg at 2025-12-06 17:29:58.286338Z -->
 </svg>

@@ -446,6 +446,9 @@ defmodule Cfsjksas.Tools.Relation do
       is_nil(person[:ship]) ->
         :no_ship
 
+      person[:ship] == :parent ->
+        :parent
+
       not is_map(person[:ship]) or not Map.has_key?(person[:ship], :name) ->
         :no_ship
 

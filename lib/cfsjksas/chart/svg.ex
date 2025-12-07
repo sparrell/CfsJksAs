@@ -138,6 +138,12 @@ defmodule Cfsjksas.Chart.Svg do
     # if redundant duplicate, and chart_type is circle_mod, don't add sector
     svg
   end
+  def draw_sector(svg, _id_l,
+        %{immigrant: :parent} = _person_l,
+        _person_a, _cfg, _circle_mod_chart) do
+    # if parent (of immigrant and parent didnt immigrate), don't add sector
+    svg
+  end
   def draw_sector(svg, id_l, person_l, person_a, cfg, chart_type) do
     # draw shape for this person
     Cfsjksas.Chart.Sector.make(id_l, person_l, person_a, cfg, chart_type)
