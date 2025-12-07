@@ -12656,7 +12656,7 @@ Phebe Fenner (1633 - 1691)
 <path id="ray_g11_s1972" d="M 29475,24650 L 30935,24994" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1972" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ephraim Fellows (1640 - 1671)
+Ephraim Fellows (1640 - 1713)
 </textPath>
 </text>
 <defs>
@@ -12668,7 +12668,7 @@ Ephraim Fellows (1640 - 1671)
 <path id="ray_g11_s1973" d="M 29486,24603 L 30947,24942" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s1973" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Unknown083 (? - 1671)
+Mary Unknown083bw (? - 1671)
 </textPath>
 </text>
 <defs>
@@ -13282,7 +13282,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s56" d="M 31413,19527 L 32310,19452" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s56" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+27brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13294,7 +13294,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s57" d="M 31408,19474 L 32305,19395" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s57" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+28brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13306,7 +13306,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s60" d="M 31399,19367 L 32295,19283" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s60" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Hatch (1596 - 1646)
+30Thomas Hatch (1596 - 1646)
 </textPath>
 </text>
 <defs>
@@ -13318,7 +13318,7 @@ Thomas Hatch (1596 - 1646)
 <path id="ray_g12_s61" d="M 31393,19314 L 32289,19227" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s61" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Lydia Unknown074 (? - ?)
+31Lydia Unknown074 (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13330,7 +13330,7 @@ Lydia Unknown074 (? - ?)
 <path id="ray_g12_s62" d="M 31388,19260 L 32284,19171" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s62" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Hewes (? - 1673)
+32John Hewes (? - 1673)
 </textPath>
 </text>
 <defs>
@@ -13342,7 +13342,7 @@ John Hewes (? - 1673)
 <path id="ray_g12_s252" d="M 30196,14437 L 31030,14099" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s252" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Chittenden (1584 - 1669)
+125Thomas Chittenden (1584 - 1669)
 </textPath>
 </text>
 <defs>
@@ -13354,7 +13354,7 @@ Thomas Chittenden (1584 - 1669)
 <path id="ray_g12_s253" d="M 30175,14387 L 31008,14046" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s253" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Rebecca Unknown070 (1595 - ?)
+126Rebecca Unknown070 (1595 - ?)
 </textPath>
 </text>
 <defs>
@@ -13366,7 +13366,7 @@ Rebecca Unknown070 (1595 - ?)
 <path id="ray_g12_s255" d="M 30135,14288 L 30965,13942" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s255" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Anna Unknown091 (? - 1664)
+128Anna Unknown091 (? - 1664)
 </textPath>
 </text>
 <defs>
@@ -13378,7 +13378,7 @@ Anna Unknown091 (? - 1664)
 <path id="ray_g12_s410" d="M 28115,10698 L 28842,10168" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s410" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas French (1588 - 1639)
+205Thomas French (1588 - 1639)
 </textPath>
 </text>
 <defs>
@@ -13390,7 +13390,7 @@ Thomas French (1588 - 1639)
 <path id="ray_g12_s411" d="M 28084,10655 L 28809,10122" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s411" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Susan (Susannah) (Sara)   (1584 - 1658)
+206Susan (Susannah) (Sara)   (1584 - 1658)
 </textPath>
 </text>
 <defs>
@@ -13402,7 +13402,7 @@ Susan (Susannah) (Sara)   (1584 - 1658)
 <path id="ray_g12_s472" d="M 27073,9404 L 27747,8807" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s472" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Stow Stowe (1581 - 1652)
+236John Stow Stowe (1581 - 1652)
 </textPath>
 </text>
 <defs>
@@ -13414,7 +13414,7 @@ John Stow Stowe (1581 - 1652)
 <path id="ray_g12_s473" d="M 27038,9364 L 27709,8765" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s473" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Bigge Bigg (1590 - 1638)
+237Elizabeth Bigge Bigg (1590 - 1638)
 </textPath>
 </text>
 <defs>
@@ -13426,7 +13426,7 @@ Elizabeth Bigge Bigg (1590 - 1638)
 <path id="ray_g12_s1132" d="M 10942,2881 L 11092,3769" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1132" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Gardner (1590 - 1638)
+566Thomas Gardner (1590 - 1638)
 </textPath>
 </text>
 <defs>
@@ -13438,7 +13438,7 @@ Thomas Gardner (1590 - 1638)
 <path id="ray_g12_s1134" d="M 10886,2891 L 11039,3778" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1134" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+567brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13450,7 +13450,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1135" d="M 10831,2900 L 10986,3787" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1135" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+568brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13462,7 +13462,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1172" d="M 9892,3090 L 10093,3967" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1172" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+585brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13474,7 +13474,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1173" d="M 9837,3103 L 10041,3979" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1173" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+586brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13486,7 +13486,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1174" d="M 9782,3116 L 9988,3992" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1174" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Richard Ingersoll (1587 - 1644)
+587Richard Ingersoll (1587 - 1644)
 </textPath>
 </text>
 <defs>
@@ -13498,7 +13498,7 @@ Richard Ingersoll (1587 - 1644)
 <path id="ray_g12_s1175" d="M 9727,3129 L 9936,4004" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1175" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Alice Langley (? - ?)
+588Alice Langley (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13510,7 +13510,7 @@ Alice Langley (? - ?)
 <path id="ray_g12_s1180" d="M 9617,3155 L 9832,4029" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1180" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ralph Sheldon (1605 - 1651)
+590Ralph Sheldon (1605 - 1651)
 </textPath>
 </text>
 <defs>
@@ -13522,7 +13522,7 @@ Ralph Sheldon (1605 - 1651)
 <path id="ray_g12_s1181" d="M 9563,3169 L 9780,4042" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1181" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Barbara Stone (1607 - ?)
+591Barbara Stone (1607 - ?)
 </textPath>
 </text>
 <defs>
@@ -13534,7 +13534,7 @@ Barbara Stone (1607 - ?)
 <path id="ray_g12_s1182" d="M 9508,3183 L 9728,4055" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1182" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Woodford (1600 - 1668)
+592Thomas Woodford (1600 - 1668)
 </textPath>
 </text>
 <defs>
@@ -13546,7 +13546,7 @@ Thomas Woodford (1600 - 1668)
 <path id="ray_g12_s1183" d="M 9453,3196 L 9676,4068" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1183" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Blott (1609 - ?)
+593Mary Blott (1609 - ?)
 </textPath>
 </text>
 <defs>
@@ -13558,7 +13558,7 @@ Mary Blott (1609 - ?)
 <path id="ray_g12_s1360" d="M 4918,5026 L 5363,5808" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s1360" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Comfort Starr (1589 - 1659)
+680Comfort Starr (1589 - 1659)
 </textPath>
 </text>
 <defs>
@@ -13570,7 +13570,7 @@ Comfort Starr (1589 - 1659)
 <path id="ray_g12_s1361" d="M 4870,5054 L 5317,5835" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s1361" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Unknown022 (1595 - 1658)
+681Elizabeth Unknown022 (1595 - 1658)
 </textPath>
 </text>
 <defs>
@@ -13582,7 +13582,7 @@ Elizabeth Unknown022 (1595 - 1658)
 <path id="ray_g12_s1492" d="M 1934,7142 L 2525,7820" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1492" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+745brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13594,7 +13594,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1493" d="M 1892,7179 L 2485,7856" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1493" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+746brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13606,7 +13606,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1494" d="M 1849,7216 L 2444,7891" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1494" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+747brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13618,7 +13618,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1495" d="M 1807,7253 L 2404,7927" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s1495" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+748brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13630,7 +13630,7 @@ brickwall  (? - ?)
 <path id="ray_g12_s1502" d="M 1681,7366 L 2284,8034" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s1502" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Alden (1598 - 1687)
+751John Alden (1598 - 1687)
 </textPath>
 </text>
 <defs>
@@ -13642,7 +13642,7 @@ John Alden (1598 - 1687)
 <path id="ray_g12_s1503" d="M 1639,7404 L 2245,8070" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s1503" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Priscilla Mullins (? - ?)
+752Priscilla Mullins (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13654,7 +13654,7 @@ Priscilla Mullins (? - ?)
 <path id="ray_g12_s3454" d="M 23686,35545 L 24185,36294" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3454" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Henry Howland (1604 - 1671)
+1727Henry Howland (1604 - 1671)
 </textPath>
 </text>
 <defs>
@@ -13666,7 +13666,7 @@ Henry Howland (1604 - 1671)
 <path id="ray_g12_s3455" d="M 23731,35515 L 24232,36263" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3455" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Sarah Newland (1609 - 1674)
+1728Mary Sarah Newland (1609 - 1674)
 </textPath>
 </text>
 <defs>
@@ -13678,7 +13678,7 @@ Mary Sarah Newland (1609 - 1674)
 <path id="ray_g12_s3618" d="M 27002,32676 L 27672,33277" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3618" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Bourne (1581 - 1664)
+1809Thomas Bourne (1581 - 1664)
 </textPath>
 </text>
 <defs>
@@ -13690,7 +13690,7 @@ Thomas Bourne (1581 - 1664)
 <path id="ray_g12_s3619" d="M 27038,32636 L 27709,33235" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3619" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Rouse (1581 - 1660)
+1810Elizabeth Rouse (1581 - 1660)
 </textPath>
 </text>
 <defs>
@@ -13702,7 +13702,7 @@ Elizabeth Rouse (1581 - 1660)
 <path id="ray_g12_s3628" d="M 27144,32515 L 27821,33108" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3628" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Robert Parke (1580 - 1665)
+1813Robert Parke (1580 - 1665)
 </textPath>
 </text>
 <defs>
@@ -13714,7 +13714,7 @@ Robert Parke (1580 - 1665)
 <path id="ray_g12_s3629" d="M 27180,32475 L 27858,33066" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3629" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Martha Chaplin (1584 - 1643)
+1814Martha Chaplin (1584 - 1643)
 </textPath>
 </text>
 <defs>
@@ -13726,7 +13726,7 @@ Martha Chaplin (1584 - 1643)
 <path id="ray_g12_s3631" d="M 27250,32394 L 27932,32981" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3631" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Alice Freeman (1605 - 1645)
+1816Alice Freeman (1605 - 1645)
 </textPath>
 </text>
 <defs>
@@ -13738,7 +13738,7 @@ Alice Freeman (1605 - 1645)
 <path id="ray_g12_s3632" d="M 27285,32353 L 27969,32938" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3632" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Denison (1571 - 1653)
+1817William Denison (1571 - 1653)
 </textPath>
 </text>
 <defs>
@@ -13750,7 +13750,7 @@ William Denison (1571 - 1653)
 <path id="ray_g12_s3633" d="M 27319,32312 L 28005,32895" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3633" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Margaret Chandler (? - 1645)
+1818Margaret Chandler (? - 1645)
 </textPath>
 </text>
 <defs>
@@ -13762,7 +13762,7 @@ Margaret Chandler (? - 1645)
 <path id="ray_g12_s3634" d="M 27354,32271 L 28042,32852" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3634" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Joseph Weld (1600 - 1646)
+1819Joseph Weld (1600 - 1646)
 </textPath>
 </text>
 <defs>
@@ -13774,7 +13774,7 @@ Joseph Weld (1600 - 1646)
 <path id="ray_g12_s3635" d="M 27389,32230 L 28078,32809" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3635" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Wyse (? - 1638)
+1820Elizabeth Wyse (? - 1638)
 </textPath>
 </text>
 <defs>
@@ -13786,7 +13786,7 @@ Elizabeth Wyse (? - 1638)
 <path id="ray_g12_s3642" d="M 27423,32189 L 28114,32766" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3642" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Lord (1585 - ?)
+1821Thomas Lord (1585 - ?)
 </textPath>
 </text>
 <defs>
@@ -13798,7 +13798,7 @@ Thomas Lord (1585 - ?)
 <path id="ray_g12_s3643" d="M 27457,32148 L 28150,32722" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3643" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Dorothy Bird (1589 - 1676)
+1822Dorothy Bird (1589 - 1676)
 </textPath>
 </text>
 <defs>
@@ -13810,7 +13810,7 @@ Dorothy Bird (1589 - 1676)
 <path id="ray_g12_s3644" d="M 27491,32107 L 28186,32679" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3644" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Gardner (1590 - 1638)
+1823Thomas Gardner (1590 - 1638)
 </textPath>
 </text>
 <defs>
@@ -13822,7 +13822,7 @@ Thomas Gardner (1590 - 1638)
 <path id="ray_g12_s3670" d="M 27891,31603 L 28606,32149" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3670" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Richard Treat (1584 - 1669)
+1835Richard Treat (1584 - 1669)
 </textPath>
 </text>
 <defs>
@@ -13834,7 +13834,7 @@ Richard Treat (1584 - 1669)
 <path id="ray_g12_s3671" d="M 27923,31560 L 28641,32104" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3671" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Alice Gaylord (1594 - ?)
+1836Alice Gaylord (1594 - ?)
 </textPath>
 </text>
 <defs>
@@ -13846,7 +13846,7 @@ Alice Gaylord (1594 - ?)
 <path id="ray_g12_s3678" d="M 28020,31431 L 28742,31969" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3678" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Jonathan Brewster (1593 - 1659)
+1839Jonathan Brewster (1593 - 1659)
 </textPath>
 </text>
 <defs>
@@ -13858,7 +13858,7 @@ Jonathan Brewster (1593 - 1659)
 <path id="ray_g12_s3679" d="M 28052,31388 L 28776,31923" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3679" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Lucretia Oldham (1600 - 1678)
+1840Lucretia Oldham (1600 - 1678)
 </textPath>
 </text>
 <defs>
@@ -13870,7 +13870,7 @@ Lucretia Oldham (1600 - 1678)
 <path id="ray_g12_s3702" d="M 28395,30908 L 29136,31419" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3702" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Henry Brooks (1592 - 1683)
+1851Henry Brooks (1592 - 1683)
 </textPath>
 </text>
 <defs>
@@ -13882,7 +13882,7 @@ Henry Brooks (1592 - 1683)
 <path id="ray_g12_s3703" d="M 28425,30864 L 29168,31372" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3703" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Grace Wheeler (1600 - 1664)
+1852Grace Wheeler (1600 - 1664)
 </textPath>
 </text>
 <defs>
@@ -13894,7 +13894,7 @@ Grace Wheeler (1600 - 1664)
 <path id="ray_g12_s3706" d="M 28455,30820 L 29200,31325" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3706" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Weybourne (1595 - 1616)
+1853John Weybourne (1595 - 1616)
 </textPath>
 </text>
 <defs>
@@ -13906,7 +13906,7 @@ John Weybourne (1595 - 1616)
 <path id="ray_g12_s3710" d="M 28515,30731 L 29263,31232" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3710" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hugh Caulkins (1600 - 1689)
+1855Hugh Caulkins (1600 - 1689)
 </textPath>
 </text>
 <defs>
@@ -13918,7 +13918,7 @@ Hugh Caulkins (1600 - 1689)
 <path id="ray_g12_s3711" d="M 28545,30686 L 29294,31185" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3711" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ann Eaton (1605 - 1688)
+1856Ann Eaton (1605 - 1688)
 </textPath>
 </text>
 <defs>
@@ -13930,7 +13930,7 @@ Ann Eaton (1605 - 1688)
 <path id="ray_g12_s3836" d="M 30093,27811 L 30922,28162" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3836" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Denison (1571 - 1653)
+1917William Denison (1571 - 1653)
 </textPath>
 </text>
 <defs>
@@ -13942,19 +13942,19 @@ William Denison (1571 - 1653)
 <path id="ray_g12_s3837" d="M 30114,27762 L 30944,28110" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3837" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Margaret Chandler (? - 1645)
+1918Margaret Chandler (? - 1645)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3839" d="M 30998 27980 A 18375 18375 0 0 1 30976 28032 L 30145 27687 A 17475 17475 0 0 0 30165 27638 L 30998 27980 " />
+<path id="sector_12_3839" d="M 30976 28032 A 18375 18375 0 0 1 30955 28084 L 30124 27737 A 17475 17475 0 0 0 30145 27687 L 30976 28032 " />
 <clipPath id="sector_12_3839_clip">
 <use href="#sector_12_3839"/>
 </clipPath></defs>
 <use href="#sector_12_3839" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3839_clip)"/>
-<path id="ray_g12_s3839" d="M 30155,27663 L 30987,28006" />
+<path id="ray_g12_s3839" d="M 30135,27712 L 30965,28058" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3839" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Alice Freeman (1605 - 1645)
+1919Alice Freeman (1605 - 1645)
 </textPath>
 </text>
 <defs>
@@ -13966,7 +13966,7 @@ Alice Freeman (1605 - 1645)
 <path id="ray_g12_s3866" d="M 30408,27013 L 31253,27323" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3866" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hugh Churchman (? - 1640)
+1933Hugh Churchman (? - 1640)
 </textPath>
 </text>
 <defs>
@@ -13978,7 +13978,7 @@ Hugh Churchman (? - 1640)
 <path id="ray_g12_s3876" d="M 30480,26811 L 31329,27111" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3876" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Jenner (1601 - 1686)
+1937Thomas Jenner (1601 - 1686)
 </textPath>
 </text>
 <defs>
@@ -13990,7 +13990,7 @@ Thomas Jenner (1601 - 1686)
 <path id="ray_g12_s3877" d="M 30498,26761 L 31348,27057" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3877" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Esther Unknown110 (? - ?)
+1938Esther Unknown110 (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14002,7 +14002,7 @@ Esther Unknown110 (? - ?)
 <path id="ray_g12_s3878" d="M 30516,26710 L 31366,27004" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3878" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Robert Pigg (? - 1660)
+1939Robert Pigg (? - 1660)
 </textPath>
 </text>
 <defs>
@@ -14014,247 +14014,247 @@ Robert Pigg (? - 1660)
 <path id="ray_g12_s3879" d="M 30533,26659 L 31385,26951" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3879" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Margaret Unknown111 (? - ?)
+1940Margaret Unknown111 (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3904" d="M 31551 26442 A 18375 18375 0 0 1 31534 26496 L 30675 26226 A 17475 17475 0 0 0 30691 26175 L 31551 26442 " />
+<path id="sector_12_3904" d="M 31584 26334 A 18375 18375 0 0 1 31567 26388 L 30707 26124 A 17475 17475 0 0 0 30723 26073 L 31584 26334 " />
 <clipPath id="sector_12_3904_clip">
 <use href="#sector_12_3904"/>
 </clipPath></defs>
 <use href="#sector_12_3904" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3904_clip)"/>
-<path id="ray_g12_s3904" d="M 30683,26201 L 31542,26469" />
+<path id="ray_g12_s3904" d="M 30715,26098 L 31576,26361" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3904" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Brewster (1566 - 1644)
+1951William Brewster (1566 - 1644)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3905" d="M 31567 26388 A 18375 18375 0 0 1 31551 26442 L 30691 26175 A 17475 17475 0 0 0 30707 26124 L 31567 26388 " />
+<path id="sector_12_3905" d="M 31600 26280 A 18375 18375 0 0 1 31584 26334 L 30723 26073 A 17475 17475 0 0 0 30738 26021 L 31600 26280 " />
 <clipPath id="sector_12_3905_clip">
 <use href="#sector_12_3905"/>
 </clipPath></defs>
 <use href="#sector_12_3905" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3905_clip)"/>
-<path id="ray_g12_s3905" d="M 30699,26150 L 31559,26415" />
+<path id="ray_g12_s3905" d="M 30730,26047 L 31592,26307" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3905" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary   (? - 1627)
+1952Mary   (? - 1627)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3906" d="M 31584 26334 A 18375 18375 0 0 1 31567 26388 L 30707 26124 A 17475 17475 0 0 0 30723 26073 L 31584 26334 " />
+<path id="sector_12_3906" d="M 31616 26226 A 18375 18375 0 0 1 31600 26280 L 30738 26021 A 17475 17475 0 0 0 30753 25970 L 31616 26226 " />
 <clipPath id="sector_12_3906_clip">
 <use href="#sector_12_3906"/>
 </clipPath></defs>
 <use href="#sector_12_3906" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3906_clip)"/>
-<path id="ray_g12_s3906" d="M 30715,26098 L 31576,26361" />
+<path id="ray_g12_s3906" d="M 30746,25996 L 31608,26253" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3906" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Collier (? - 1650)
+1953William Collier (? - 1650)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3914" d="M 31600 26280 A 18375 18375 0 0 1 31584 26334 L 30723 26073 A 17475 17475 0 0 0 30738 26021 L 31600 26280 " />
+<path id="sector_12_3914" d="M 31632 26172 A 18375 18375 0 0 1 31616 26226 L 30753 25970 A 17475 17475 0 0 0 30769 25919 L 31632 26172 " />
 <clipPath id="sector_12_3914_clip">
 <use href="#sector_12_3914"/>
 </clipPath></defs>
 <use href="#sector_12_3914" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3914_clip)"/>
-<path id="ray_g12_s3914" d="M 30730,26047 L 31592,26307" />
+<path id="ray_g12_s3914" d="M 30761,25944 L 31624,26199" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3914" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Wheeler (1602 - 1686)
+1954Thomas Wheeler (1602 - 1686)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3915" d="M 31616 26226 A 18375 18375 0 0 1 31600 26280 L 30738 26021 A 17475 17475 0 0 0 30753 25970 L 31616 26226 " />
+<path id="sector_12_3915" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
 <clipPath id="sector_12_3915_clip">
 <use href="#sector_12_3915"/>
 </clipPath></defs>
 <use href="#sector_12_3915" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3915_clip)"/>
-<path id="ray_g12_s3915" d="M 30746,25996 L 31608,26253" />
+<path id="ray_g12_s3915" d="M 30776,25893 L 31640,26145" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3915" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Wheeler (? - ?)
+1955Mary Wheeler (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3916" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
+<path id="sector_12_3916" d="M 31664 26064 A 18375 18375 0 0 1 31648 26118 L 30784 25867 A 17475 17475 0 0 0 30798 25816 L 31664 26064 " />
 <clipPath id="sector_12_3916_clip">
 <use href="#sector_12_3916"/>
 </clipPath></defs>
 <use href="#sector_12_3916" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3916_clip)"/>
-<path id="ray_g12_s3916" d="M 30776,25893 L 31640,26145" />
+<path id="ray_g12_s3916" d="M 30791,25841 L 31656,26091" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3916" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-James Morgan (1607 - 1704)
+1956James Morgan (1607 - 1704)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3917" d="M 31648 26118 A 18375 18375 0 0 1 31632 26172 L 30769 25919 A 17475 17475 0 0 0 30784 25867 L 31648 26118 " />
+<path id="sector_12_3917" d="M 31679 26009 A 18375 18375 0 0 1 31664 26064 L 30798 25816 A 17475 17475 0 0 0 30813 25764 L 31679 26009 " />
 <clipPath id="sector_12_3917_clip">
 <use href="#sector_12_3917"/>
 </clipPath></defs>
 <use href="#sector_12_3917" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3917_clip)"/>
-<path id="ray_g12_s3917" d="M 30776,25893 L 31640,26145" />
+<path id="ray_g12_s3917" d="M 30806,25790 L 31671,26037" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3917" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Margery Hill (1611 - 1690)
+1957Margery Hill (1611 - 1690)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3918" d="M 31664 26064 A 18375 18375 0 0 1 31648 26118 L 30784 25867 A 17475 17475 0 0 0 30798 25816 L 31664 26064 " />
+<path id="sector_12_3918" d="M 31694 25955 A 18375 18375 0 0 1 31679 26009 L 30813 25764 A 17475 17475 0 0 0 30828 25712 L 31694 25955 " />
 <clipPath id="sector_12_3918_clip">
 <use href="#sector_12_3918"/>
 </clipPath></defs>
 <use href="#sector_12_3918" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3918_clip)"/>
-<path id="ray_g12_s3918" d="M 30791,25841 L 31656,26091" />
+<path id="ray_g12_s3918" d="M 30820,25738 L 31687,25982" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3918" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Parke (1615 - 1709)
+1958Thomas Parke (1615 - 1709)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3919" d="M 31679 26009 A 18375 18375 0 0 1 31664 26064 L 30798 25816 A 17475 17475 0 0 0 30813 25764 L 31679 26009 " />
+<path id="sector_12_3919" d="M 31709 25901 A 18375 18375 0 0 1 31694 25955 L 30828 25712 A 17475 17475 0 0 0 30842 25661 L 31709 25901 " />
 <clipPath id="sector_12_3919_clip">
 <use href="#sector_12_3919"/>
 </clipPath></defs>
 <use href="#sector_12_3919" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3919_clip)"/>
-<path id="ray_g12_s3919" d="M 30806,25790 L 31671,26037" />
+<path id="ray_g12_s3919" d="M 30835,25687 L 31702,25928" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3919" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Dorothy Thompson (1624 - 1709)
+1959Dorothy Thompson (1624 - 1709)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3922" d="M 31694 25955 A 18375 18375 0 0 1 31679 26009 L 30813 25764 A 17475 17475 0 0 0 30828 25712 L 31694 25955 " />
+<path id="sector_12_3922" d="M 31724 25846 A 18375 18375 0 0 1 31709 25901 L 30842 25661 A 17475 17475 0 0 0 30856 25609 L 31724 25846 " />
 <clipPath id="sector_12_3922_clip">
 <use href="#sector_12_3922"/>
 </clipPath></defs>
 <use href="#sector_12_3922" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3922_clip)"/>
-<path id="ray_g12_s3922" d="M 30820,25738 L 31687,25982" />
+<path id="ray_g12_s3922" d="M 30849,25635 L 31717,25874" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3922" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Stephen Jordan (1589 - 1670)
+1960Stephen Jordan (1589 - 1670)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3923" d="M 31709 25901 A 18375 18375 0 0 1 31694 25955 L 30828 25712 A 17475 17475 0 0 0 30842 25661 L 31709 25901 " />
+<path id="sector_12_3923" d="M 31739 25792 A 18375 18375 0 0 1 31724 25846 L 30856 25609 A 17475 17475 0 0 0 30870 25557 L 31739 25792 " />
 <clipPath id="sector_12_3923_clip">
 <use href="#sector_12_3923"/>
 </clipPath></defs>
 <use href="#sector_12_3923" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3923_clip)"/>
-<path id="ray_g12_s3923" d="M 30835,25687 L 31702,25928" />
+<path id="ray_g12_s3923" d="M 30863,25583 L 31732,25819" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3923" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Susanna Peacock (? - 1673)
+1961Susanna Peacock (? - 1673)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3926" d="M 31724 25846 A 18375 18375 0 0 1 31709 25901 L 30842 25661 A 17475 17475 0 0 0 30856 25609 L 31724 25846 " />
+<path id="sector_12_3926" d="M 31754 25738 A 18375 18375 0 0 1 31739 25792 L 30870 25557 A 17475 17475 0 0 0 30884 25506 L 31754 25738 " />
 <clipPath id="sector_12_3926_clip">
 <use href="#sector_12_3926"/>
 </clipPath></defs>
 <use href="#sector_12_3926" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3926_clip)"/>
-<path id="ray_g12_s3926" d="M 30849,25635 L 31717,25874" />
+<path id="ray_g12_s3926" d="M 30877,25531 L 31746,25765" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3926" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Edmund Lockwood (1594 - 1635)
+1962Edmund Lockwood (1594 - 1635)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3927" d="M 31739 25792 A 18375 18375 0 0 1 31724 25846 L 30856 25609 A 17475 17475 0 0 0 30870 25557 L 31739 25792 " />
+<path id="sector_12_3927" d="M 31768 25683 A 18375 18375 0 0 1 31754 25738 L 30884 25506 A 17475 17475 0 0 0 30898 25454 L 31768 25683 " />
 <clipPath id="sector_12_3927_clip">
 <use href="#sector_12_3927"/>
 </clipPath></defs>
 <use href="#sector_12_3927" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3927_clip)"/>
-<path id="ray_g12_s3927" d="M 30863,25583 L 31732,25819" />
+<path id="ray_g12_s3927" d="M 30891,25480 L 31761,25710" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3927" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Unknown024 (? - ?)
+1963Elizabeth Unknown024 (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3932" d="M 31754 25738 A 18375 18375 0 0 1 31739 25792 L 30870 25557 A 17475 17475 0 0 0 30884 25506 L 31754 25738 " />
+<path id="sector_12_3932" d="M 31782 25629 A 18375 18375 0 0 1 31768 25683 L 30898 25454 A 17475 17475 0 0 0 30911 25402 L 31782 25629 " />
 <clipPath id="sector_12_3932_clip">
 <use href="#sector_12_3932"/>
 </clipPath></defs>
 <use href="#sector_12_3932" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3932_clip)"/>
-<path id="ray_g12_s3932" d="M 30877,25531 L 31746,25765" />
+<path id="ray_g12_s3932" d="M 30905,25428 L 31775,25656" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3932" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+1964brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3933" d="M 31768 25683 A 18375 18375 0 0 1 31754 25738 L 30884 25506 A 17475 17475 0 0 0 30898 25454 L 31768 25683 " />
+<path id="sector_12_3933" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
 <clipPath id="sector_12_3933_clip">
 <use href="#sector_12_3933"/>
 </clipPath></defs>
 <use href="#sector_12_3933" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3933_clip)"/>
-<path id="ray_g12_s3933" d="M 30891,25480 L 31761,25710" />
+<path id="ray_g12_s3933" d="M 30918,25376 L 31790,25601" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3933" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+1965brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3934" d="M 31782 25629 A 18375 18375 0 0 1 31768 25683 L 30898 25454 A 17475 17475 0 0 0 30911 25402 L 31782 25629 " />
+<path id="sector_12_3934" d="M 31811 25519 A 18375 18375 0 0 1 31797 25574 L 30925 25350 A 17475 17475 0 0 0 30938 25298 L 31811 25519 " />
 <clipPath id="sector_12_3934_clip">
 <use href="#sector_12_3934"/>
 </clipPath></defs>
 <use href="#sector_12_3934" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3934_clip)"/>
-<path id="ray_g12_s3934" d="M 30905,25428 L 31775,25656" />
+<path id="ray_g12_s3934" d="M 30932,25324 L 31804,25547" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3934" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Peter Noyes (1590 - 1657)
+1966Peter Noyes (1590 - 1657)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3936" d="M 31811 25519 A 18375 18375 0 0 1 31797 25574 L 30925 25350 A 17475 17475 0 0 0 30938 25298 L 31811 25519 " />
+<path id="sector_12_3936" d="M 31824 25465 A 18375 18375 0 0 1 31811 25519 L 30938 25298 A 17475 17475 0 0 0 30951 25246 L 31824 25465 " />
 <clipPath id="sector_12_3936_clip">
 <use href="#sector_12_3936"/>
 </clipPath></defs>
 <use href="#sector_12_3936" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3936_clip)"/>
-<path id="ray_g12_s3936" d="M 30932,25324 L 31804,25547" />
+<path id="ray_g12_s3936" d="M 30945,25272 L 31817,25492" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3936" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Hall (1584 - 1673)
+1967John Hall (1584 - 1673)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3937" d="M 31824 25465 A 18375 18375 0 0 1 31811 25519 L 30938 25298 A 17475 17475 0 0 0 30951 25246 L 31824 25465 " />
+<path id="sector_12_3937" d="M 31838 25410 A 18375 18375 0 0 1 31824 25465 L 30951 25246 A 17475 17475 0 0 0 30964 25194 L 31838 25410 " />
 <clipPath id="sector_12_3937_clip">
 <use href="#sector_12_3937"/>
 </clipPath></defs>
 <use href="#sector_12_3937" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_3937_clip)"/>
-<path id="ray_g12_s3937" d="M 30945,25272 L 31817,25492" />
+<path id="ray_g12_s3937" d="M 30958,25220 L 31831,25437" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3937" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ester Willocke (? - 1633)
+1968Ester Willocke (? - 1633)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3938" d="M 31838 25410 A 18375 18375 0 0 1 31824 25465 L 30951 25246 A 17475 17475 0 0 0 30964 25194 L 31838 25410 " />
+<path id="sector_12_3938" d="M 31851 25355 A 18375 18375 0 0 1 31838 25410 L 30964 25194 A 17475 17475 0 0 0 30977 25142 L 31851 25355 " />
 <clipPath id="sector_12_3938_clip">
 <use href="#sector_12_3938"/>
 </clipPath></defs>
 <use href="#sector_12_3938" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3938_clip)"/>
-<path id="ray_g12_s3938" d="M 30958,25220 L 31831,25437" />
+<path id="ray_g12_s3938" d="M 30971,25168 L 31845,25383" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3938" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Cooke (1615 - 1692)
+1969Thomas Cooke (1615 - 1692)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3939" d="M 31851 25355 A 18375 18375 0 0 1 31838 25410 L 30964 25194 A 17475 17475 0 0 0 30977 25142 L 31851 25355 " />
+<path id="sector_12_3939" d="M 31865 25301 A 18375 18375 0 0 1 31851 25355 L 30977 25142 A 17475 17475 0 0 0 30990 25090 L 31865 25301 " />
 <clipPath id="sector_12_3939_clip">
 <use href="#sector_12_3939"/>
 </clipPath></defs>
 <use href="#sector_12_3939" stroke="#FF6EC7" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_12_3939_clip)"/>
-<path id="ray_g12_s3939" d="M 30971,25168 L 31845,25383" />
+<path id="ray_g12_s3939" d="M 30983,25116 L 31858,25328" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3939" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth unknownCooke (1623 - 1668)
+1970Elizabeth unknownCooke (1623 - 1668)
 </textPath>
 </text>
 <defs>
@@ -14266,7 +14266,7 @@ Elizabeth unknownCooke (1623 - 1668)
 <path id="ray_g12_s3944" d="M 31008,25012 L 31884,25218" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3944" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Fellows (1609 - 1676)
+1972William Fellows (1609 - 1676)
 </textPath>
 </text>
 <defs>
@@ -14278,7 +14278,7 @@ William Fellows (1609 - 1676)
 <path id="ray_g12_s3945" d="M 31021,24959 L 31897,25163" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3945" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Ayres (1607 - 1670)
+1973Mary Ayres (1607 - 1670)
 </textPath>
 </text>
 <defs>
@@ -14290,7 +14290,7 @@ Mary Ayres (1607 - 1670)
 <path id="ray_g12_s3948" d="M 31033,24907 L 31910,25108" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3948" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Varney (1608 - 1654)
+1974William Varney (1608 - 1654)
 </textPath>
 </text>
 <defs>
@@ -14302,7 +14302,7 @@ William Varney (1608 - 1654)
 <path id="ray_g12_s3949" d="M 31045,24855 L 31922,25053" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3949" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Bridget Knight (1611 - 1672)
+1975Bridget Knight (1611 - 1672)
 </textPath>
 </text>
 <defs>
@@ -14314,7 +14314,7 @@ Bridget Knight (1611 - 1672)
 <path id="ray_g12_s3950" d="M 31056,24803 L 31935,24998" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3950" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Proctor (1595 - 1672)
+1976John Proctor (1595 - 1672)
 </textPath>
 </text>
 <defs>
@@ -14326,7 +14326,7 @@ John Proctor (1595 - 1672)
 <path id="ray_g12_s3951" d="M 31068,24750 L 31947,24943" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3951" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Martha Harper (1607 - 1659)
+1977Martha Harper (1607 - 1659)
 </textPath>
 </text>
 <defs>
@@ -14338,7 +14338,7 @@ Martha Harper (1607 - 1659)
 <path id="ray_g12_s3952" d="M 31079,24698 L 31959,24888" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3952" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Solomon Leonard (1620 - 1671)
+1978Solomon Leonard (1620 - 1671)
 </textPath>
 </text>
 <defs>
@@ -14350,7 +14350,7 @@ Solomon Leonard (1620 - 1671)
 <path id="ray_g12_s3953" d="M 31091,24645 L 31971,24833" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3953" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Sarah Chandler (1622 - 1675)
+1979Sarah Chandler (1622 - 1675)
 </textPath>
 </text>
 <defs>
@@ -14362,7 +14362,7 @@ Sarah Chandler (1622 - 1675)
 <path id="ray_g12_s3954" d="M 31102,24593 L 31982,24778" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3954" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Wood (? - 1675)
+1980John Wood (? - 1675)
 </textPath>
 </text>
 <defs>
@@ -14374,7 +14374,7 @@ John Wood (? - 1675)
 <path id="ray_g12_s3955" d="M 31113,24541 L 31994,24723" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3955" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Sarah Masterson (1622 - 1701)
+1981Sarah Masterson (1622 - 1701)
 </textPath>
 </text>
 <defs>
@@ -14386,7 +14386,7 @@ Sarah Masterson (1622 - 1701)
 <path id="ray_g12_s3974" d="M 31175,24225 L 32059,24391" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3974" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Jonathan Brewster (1593 - 1659)
+1987Jonathan Brewster (1593 - 1659)
 </textPath>
 </text>
 <defs>
@@ -14398,7 +14398,7 @@ Jonathan Brewster (1593 - 1659)
 <path id="ray_g12_s3975" d="M 31185,24172 L 32070,24336" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3975" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Lucretia Oldham (1600 - 1678)
+1988Lucretia Oldham (1600 - 1678)
 </textPath>
 </text>
 <defs>
@@ -14410,7 +14410,7 @@ Lucretia Oldham (1600 - 1678)
 <path id="ray_g12_s3990" d="M 31249,23803 L 32137,23947" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3990" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Samuel Gore (? - 1643)
+1995Samuel Gore (? - 1643)
 </textPath>
 </text>
 <defs>
@@ -14422,7 +14422,7 @@ Samuel Gore (? - 1643)
 <path id="ray_g12_s3991" d="M 31257,23750 L 32146,23891" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3991" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Hill (? - ?)
+1996Elizabeth Hill (? - ?)
 </textPath>
 </text>
 
@@ -14436,7 +14436,7 @@ Elizabeth Hill (? - ?)
 <path id="ray_g13_s2366" d="M 9237,2349 L 9435,3124" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s2366" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Robert Blott (1582 - 1665)
+593Robert Blott (1582 - 1665)
 </textPath>
 </text>
 <defs>
@@ -14448,7 +14448,7 @@ Robert Blott (1582 - 1665)
 <path id="ray_g13_s2367" d="M 9180,2363 L 9380,3138" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s2367" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Susanna Selbee (? - 1660)
+594Susanna Selbee (? - 1660)
 </textPath>
 </text>
 <defs>
@@ -14460,7 +14460,7 @@ Susanna Selbee (? - 1660)
 <path id="ray_g13_s6910" d="M 24274,36325 L 24719,36989" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s6910" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-William Henry Newland (1580 - 1673)
+1728William Henry Newland (1580 - 1673)
 </textPath>
 </text>
 <defs>
@@ -14472,7 +14472,7 @@ William Henry Newland (1580 - 1673)
 <path id="ray_g13_s6911" d="M 24321,36293 L 24768,36956" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s6911" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Agnes Newland (1580 - 1674)
+1729Agnes Newland (1580 - 1674)
 </textPath>
 </text>
 <defs>
@@ -14484,7 +14484,7 @@ Agnes Newland (1580 - 1674)
 <path id="ray_g13_s7890" d="M 31957,25235 L 32736,25419" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g13_s7890" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Ayers (? - ?)
+1972John Ayers (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14496,7 +14496,7 @@ John Ayers (? - ?)
 <path id="ray_g13_s7891" d="M 31970,25180 L 32749,25362" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s7891" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Evered (1582 - ?)
+1973Hannah Evered (1582 - ?)
 </textPath>
 </text>
 <defs>
@@ -14508,7 +14508,7 @@ Hannah Evered (1582 - ?)
 <path id="ray_g13_s7906" d="M 32044,24849 L 32826,25016" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s7906" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Roger Chandler (? - ?)
+1979Roger Chandler (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14520,7 +14520,7 @@ Roger Chandler (? - ?)
 <path id="ray_g13_s7907" d="M 32056,24794 L 32839,24958" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s7907" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Isabella Chilton (1587 - ?)
+1980Isabella Chilton (1587 - ?)
 </textPath>
 </text>
 <defs>
@@ -14532,7 +14532,7 @@ Isabella Chilton (1587 - ?)
 <path id="ray_g13_s7910" d="M 32067,24738 L 32851,24900" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s7910" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Richard Masterson (1590 - 1633)
+1981Richard Masterson (1590 - 1633)
 </textPath>
 </text>
 <defs>
@@ -14544,7 +14544,7 @@ Richard Masterson (1590 - 1633)
 <path id="ray_g13_s7911" d="M 32079,24683 L 32863,24842" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g13_s7911" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Goodall (1590 - 1701)
+1982Mary Goodall (1590 - 1701)
 </textPath>
 </text>
 
@@ -14558,7 +14558,7 @@ Mary Goodall (1590 - 1701)
 <path id="ray_g14_s15814" d="M 32912,24973 L 33548,25107" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g14_s15814" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-James Chilton (1563 - 1620)
+1980James Chilton (1563 - 1620)
 </textPath>
 </text>
 <defs>
@@ -14570,7 +14570,7 @@ James Chilton (1563 - 1620)
 <path id="ray_g14_s15815" d="M 32924,24915 L 33561,25047" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g14_s15815" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Susanna Furner (? - 1620)
+1981Susanna Furner (? - 1620)
 </textPath>
 </text>
 <line id="g12_s27_g11_s28" x1="31413" y1="19527" x2="31334" y2="19481" stroke="gray" stroke-width="5" />
@@ -14632,7 +14632,6 @@ Susanna Furner (? - 1620)
 <line id="g12_s1917_g11_s1918" x1="30093" y1="27811" x2="30045" y2="27733" stroke="gray" stroke-width="5" />
 <line id="g12_s1918_g11_s1918" x1="30114" y1="27762" x2="30045" y2="27733" stroke="gray" stroke-width="5" />
 <line id="g12_s1919_g11_s1919" x1="30135" y1="27712" x2="30065" y2="27683" stroke="gray" stroke-width="5" />
-<line id="g12_s1920_g11_s1919" x1="30155" y1="27663" x2="30065" y2="27683" stroke="gray" stroke-width="5" />
 <line id="g12_s1933_g11_s1933" x1="30408" y1="27013" x2="30337" y2="26987" stroke="gray" stroke-width="5" />
 <line id="g12_s1937_g11_s1938" x1="30480" y1="26811" x2="30427" y2="26736" stroke="gray" stroke-width="5" />
 <line id="g12_s1938_g11_s1938" x1="30498" y1="26761" x2="30427" y2="26736" stroke="gray" stroke-width="5" />
@@ -14652,10 +14651,12 @@ Susanna Furner (? - 1620)
 <line id="g12_s1962_g11_s1963" x1="30877" y1="25531" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1963_g11_s1963" x1="30891" y1="25480" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1964_g11_s1966" x1="30905" y1="25428" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
-<line id="g12_s1966_g11_s1968" x1="30932" y1="25324" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
+<line id="g12_s1965_g11_s1966" x1="30918" y1="25376" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
+<line id="g12_s1966_g11_s1967" x1="30932" y1="25324" x2="30872" y2="25254" stroke="gray" stroke-width="5" />
 <line id="g12_s1967_g11_s1968" x1="30945" y1="25272" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
-<line id="g12_s1968_g11_s1969" x1="30958" y1="25220" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
+<line id="g12_s1968_g11_s1968" x1="30958" y1="25220" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1969_g11_s1969" x1="30971" y1="25168" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
+<line id="g12_s1970_g11_s1969" x1="30983" y1="25116" x2="30898" y2="25150" stroke="gray" stroke-width="5" />
 <line id="g12_s1972_g11_s1972" x1="31008" y1="25012" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1973_g11_s1972" x1="31021" y1="24959" x2="30935" y2="24994" stroke="gray" stroke-width="5" />
 <line id="g12_s1974_g11_s1974" x1="31033" y1="24907" x2="30959" y2="24890" stroke="gray" stroke-width="5" />
@@ -14683,5 +14684,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-06 17:29:58.286338Z -->
+<!-- made new svg at 2025-12-07 21:57:50.547140Z -->
 </svg>

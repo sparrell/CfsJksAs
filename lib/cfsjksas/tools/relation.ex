@@ -443,19 +443,19 @@ defmodule Cfsjksas.Tools.Relation do
       not Map.has_key?(person, :ship) ->
         :no
 
-      is_nil(person[:ship]) ->
+      is_nil(person.ship) ->
         :no_ship
 
-      person[:ship] == :parent ->
+      person.ship == :parent ->
         :parent
 
-      not is_map(person[:ship]) or not Map.has_key?(person[:ship], :name) ->
+      not is_map(person.ship) or not Map.has_key?(person.ship, :name) ->
         :no_ship
 
-      is_nil(person[:ship][:name]) ->
+      is_nil(person.ship.name) ->
         :no_ship
 
-      String.trim(to_string(person[:ship][:name])) == "" ->
+      String.trim(to_string(person.ship.name)) == "" ->
         :no_ship
 
       true ->

@@ -24043,11 +24043,11 @@
 			christening: nil,
 			death_age: "30",
 			death_cause: nil,
-			death_date: "23 FEB 1671",
+			death_date: "1713",
 			death_note: nil,
 			death_place: "Plainfield, Windham, Connecticut, USA",
 			death_source: nil,
-			death_year: "1671",
+			death_year: "1713",
 			description: nil,
 			education: [
 			],
@@ -24069,6 +24069,8 @@
 			immigration: nil,
 			label: "gen11.MMMMPMMPMPP.Ephraim_Fellows",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000705/ephraim-fellows",
+				wikitree: "https://www.wikitree.com/wiki/Fellows-12",
 			},
 			married_name: nil,
 			mh_famc: "F198",
@@ -24232,6 +24234,11 @@
 			immigration: nil,
 			label: "gen12.MMMMPMMPMPPP.William_Fellows",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000709/william-fellows",
+				wikitree: "https://www.wikitree.com/wiki/Fellows-78",
+				other: %{
+					nehgs01: "https://www.americanancestors.org/databases/great-migration-immigrants-to-new-england-1634-1635-volume-ii-c-f/image?pageName=507",
+				}
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -61919,6 +61926,7 @@
 			immigration: nil,
 			label: "gen12.MMMMPPPMPPMP.John_Thompson",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000613/john-thompson",
 				werelate: "https://www.werelate.org/wiki/Person:John_Thompson_%2815%29",
 			},
 			married_name: nil,
@@ -66498,7 +66506,7 @@
 			sex: "F",
 			sources: [
 			],
-			surname: "Unknown083",
+			surname: "Unknown083bw",
 			title: nil,
 			uid: "DAD81AB2-61CA-40DB-81B5-2305279C45B9",
 			upd: nil,
