@@ -345,7 +345,7 @@ defmodule Cfsjksas.Tools.Relation do
         # already a brickwall, leave unchanged
         lineages
       unknown(person_a.surname) ->
-        # if don't know surname, mark person as brickwall
+        # if don't know surname, or already researched as bw, mark person as brickwall
         put_in(lineages, [id_l, :brickwall], true)
       ship ->
         # has ship so not brickwall regardless of parents
@@ -523,17 +523,7 @@ defmodule Cfsjksas.Tools.Relation do
     end
   end
 
-#  # add brickwall is surname is unknown
-#  defp find_unknowns(marked_lineages, true, {gen, quadrant, sector}) do
-#    # surname is unknown
-#    put_in(marked_lineages, [{gen, quadrant, sector}, :brickwall], true)
-#  end
-#  defp find_unknowns(marked_lineages, false, {_gen, _quadrant, _sector}) do
-#    # surname is unknown
-#    marked_lineages
-#  end
-
-  # return true if surname blank or unknow, false otherwise
+  # return true if surname blank or unknow or bw=researched brickwall, false otherwise
   def unknown(surname) do
     cond do
       is_nil(surname) ->
@@ -545,7 +535,9 @@ defmodule Cfsjksas.Tools.Relation do
         String.starts_with?(surname, "Unknow")
       ) ->
         true
-      true ->
+      is_binary(surname) and String.ends_with?(surname, "bw") ->
+        true
+      is_binary(surname) ->
         false
     end
   end

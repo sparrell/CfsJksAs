@@ -201,11 +201,12 @@ defmodule Cfsjksas.Chart.Sector do
 
     # for debugging connector lines
     #IO.inspect("old: #{sector.sector_num}, new: #{gen11_sector_num}, name: #{sector.given_name} #{sector.surname}")
-    given = to_string(gen11_sector_num) <> sector.given_name
-
+    #given = to_string(gen11_sector_num) <> sector.given_name
+    #return
+    #%{sector | gen11_sector_num: gen11_sector_num, given_name: given}
 
     #return
-    %{sector | gen11_sector_num: gen11_sector_num, given_name: given}
+    %{sector | gen11_sector_num: gen11_sector_num}
   end
   defp add_g11_sector_number(sector, _chart_type) do
     # leave unchanged

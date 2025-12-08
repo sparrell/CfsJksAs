@@ -35,7 +35,7 @@ It is a simple pipe:
           * Cfsjksas.Chart.Svg.draw_sector using
             * Cfsjksas.Ancestors.AgentStores.get_person_a
             * Cfsjksas.Chart.Sector.make
-              * Cfsjksas.Chart.GetCircle.outer_radius, inner_radius, xy, 
+              * Cfsjksas.Chart.GetCircle.outer_radius, inner_radius, xy,
               * still has Circle routine which need to be moved
 * Cfsjksas.Chart.Svg.finish(pipeinput svg text?)
   * fill in
