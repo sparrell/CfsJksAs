@@ -12580,11 +12580,11 @@ Ann Neave (1603 - 1682)
 <clipPath id="sector_11_1966_clip">
 <use href="#sector_11_1966"/>
 </clipPath></defs>
-<use href="#sector_11_1966" stroke="blue" stroke-width="10" fill="none" fill-opacity="100%" clip-path="url(#sector_11_1966_clip)"/>
+<use href="#sector_11_1966" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_1966_clip)"/>
 <path id="ray_g11_s1966" d="M 29406,24934 L 30859,25305" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1966" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Edmund Freeman (? - ?)
+John Freeman (1605 - 1648)
 </textPath>
 </text>
 <defs>
@@ -14174,30 +14174,6 @@ Elizabeth Unknown024 (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3932" d="M 31782 25629 A 18375 18375 0 0 1 31768 25683 L 30898 25454 A 17475 17475 0 0 0 30911 25402 L 31782 25629 " />
-<clipPath id="sector_12_3932_clip">
-<use href="#sector_12_3932"/>
-</clipPath></defs>
-<use href="#sector_12_3932" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3932_clip)"/>
-<path id="ray_g12_s3932" d="M 30905,25428 L 31775,25656" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s3932" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_12_3933" d="M 31797 25574 A 18375 18375 0 0 1 31782 25629 L 30911 25402 A 17475 17475 0 0 0 30925 25350 L 31797 25574 " />
-<clipPath id="sector_12_3933_clip">
-<use href="#sector_12_3933"/>
-</clipPath></defs>
-<use href="#sector_12_3933" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_12_3933_clip)"/>
-<path id="ray_g12_s3933" d="M 30918,25376 L 31790,25601" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g12_s3933" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
 <path id="sector_12_3934" d="M 31811 25519 A 18375 18375 0 0 1 31797 25574 L 30925 25350 A 17475 17475 0 0 0 30938 25298 L 31811 25519 " />
 <clipPath id="sector_12_3934_clip">
 <use href="#sector_12_3934"/>
@@ -14650,8 +14626,6 @@ Susanna Furner (? - 1620)
 <line id="g12_s1961_g11_s1961" x1="30863" y1="25583" x2="30791" y2="25564" stroke="gray" stroke-width="5" />
 <line id="g12_s1962_g11_s1963" x1="30877" y1="25531" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
 <line id="g12_s1963_g11_s1963" x1="30891" y1="25480" x2="30819" y2="25460" stroke="gray" stroke-width="5" />
-<line id="g12_s1964_g11_s1966" x1="30905" y1="25428" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
-<line id="g12_s1965_g11_s1966" x1="30918" y1="25376" x2="30859" y2="25305" stroke="gray" stroke-width="5" />
 <line id="g12_s1966_g11_s1967" x1="30932" y1="25324" x2="30872" y2="25254" stroke="gray" stroke-width="5" />
 <line id="g12_s1967_g11_s1968" x1="30945" y1="25272" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
 <line id="g12_s1968_g11_s1968" x1="30958" y1="25220" x2="30885" y2="25202" stroke="gray" stroke-width="5" />
@@ -14684,5 +14658,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-09 17:34:06.822612Z -->
+<!-- made new svg at 2025-12-09 22:31:40.863381Z -->
 </svg>

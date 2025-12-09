@@ -25446,26 +25446,26 @@
 			will: [
 			],
 		},
-		##############  Edmund Freeman
+		##############  John Freeman
 		p0636: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: nil,
+			birth_date: "24 Jan 1605",
 			birth_note: nil,
-			birth_place: nil,
+			birth_place: "Pulborough, Sussex, England",
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "1605",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "1648",
 			death_note: nil,
-			death_place: nil,
+			death_place: "Sudbury, Middlesex, Massachusetts",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1648",
 			description: nil,
 			education: [
 			],
@@ -25479,14 +25479,15 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Edmund",
+			given_name: "John",
 			graduation: [
 			],
 			id: :p0636,
 			immigration: nil,
-			label: "gen11.MMMMPMPMMMP.Edmund_Freeman",
+			label: "gen11.MMMMPMPMMMP.John_Freeman",
 			links: %{
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000894/edmund-freeman",
+				wikitree: "https://www.wikitree.com/wiki/Freeman-1504",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -25495,7 +25496,7 @@
 				"F286",
 			],
 			mh_id: "I894",
-			mh_name: "Edmund /Freeman/",
+			mh_name: "John /Freeman/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -25517,6 +25518,10 @@
 			],
 			rin: "MH:I894",
 			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Freeman",
