@@ -40116,7 +40116,7 @@
 			will: [
 			],
 		},
-		##############  John Lay
+		##############  Thomas Lee
 		p1007: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -40124,18 +40124,18 @@
 			birth_note: nil,
 			birth_place: nil,
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "1644",
 			buried: nil,
 			census: [
 			],
-			christening: nil,
+			christening: "christened September 29, 1644, in Rusper, Sussex, England",
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "January 5, 1704",
 			death_note: nil,
-			death_place: nil,
+			death_place: "Lyme, Connecticut",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1704",
 			description: nil,
 			education: [
 			],
@@ -40149,13 +40149,15 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "John",
+			given_name: "Thomas",
 			graduation: [
 			],
 			id: :p1007,
 			immigration: nil,
-			label: "gen10.MMMMMMMMPP.John_Lay",
+			label: "gen10.MMMMMMMMPP.Thomas_Lee",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001268/john-lay",
+				wikitree: "https://www.wikitree.com/wiki/Lee-5623",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -40164,7 +40166,7 @@
 				"F455",
 			],
 			mh_id: "I1268",
-			mh_name: "John /Lay/",
+			mh_name: "Thomas /Lee/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -40186,9 +40188,13 @@
 			],
 			rin: "MH:I1268",
 			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
-			surname: "Lay",
+			surname: "Lee",
 			title: nil,
 			uid: "E3A7D40C-96EB-4518-86FD-3CAD14EC6E17",
 			upd: nil,
