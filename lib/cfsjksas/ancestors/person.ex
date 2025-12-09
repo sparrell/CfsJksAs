@@ -139,9 +139,10 @@ defmodule Cfsjksas.Ancestors.Person do
   defp brick_walls([id | rest], terminations) do
     person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
     termination = case categorize_person(id) do
-      :not -> []
-      :ship -> []
-      :no_ship -> []
+      :not -> []      # intermediate person ie not a brickwall
+      :ship -> []     # immigrant  ie not a brickwall
+      :no_ship -> []  # immigrant  ie not a brickwall
+      :parent -> []   # parent of immigrant  ie not a brickwall
       :brickwall_both ->
         # add data to list
         [{Enum.map(person.relation_list, &length/1),

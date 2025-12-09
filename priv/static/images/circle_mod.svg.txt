@@ -9734,11 +9734,11 @@ Hester Nichols (1635 - 1679)
 <clipPath id="sector_10_1020_clip">
 <use href="#sector_10_1020"/>
 </clipPath></defs>
-<use href="#sector_10_1020" stroke="blue" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_1020_clip)"/>
+<use href="#sector_10_1020" stroke="blue" stroke-width="15" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_10_1020_clip)"/>
 <path id="ray_g10_s1020" d="M 27597,21292 L 29896,21341" />
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s1020" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Lay (? - ?)
+Thomas Lee (1644 - 1704)
 </textPath>
 </text>
 <defs>
@@ -13160,7 +13160,7 @@ Alice Bredda (1609 - 1643)
 <path id="ray_g11_s2038" d="M 29893,21463 L 31393,21507" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s2038" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Nichols (? - ?)
+John Nichols (1601 - 1651)
 </textPath>
 </text>
 <defs>
@@ -13180,11 +13180,11 @@ Esther Unknown112 (? - ?)
 <clipPath id="sector_11_2040_clip">
 <use href="#sector_11_2040"/>
 </clipPath></defs>
-<use href="#sector_11_2040" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_2040_clip)"/>
+<use href="#sector_11_2040" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_2040_clip)"/>
 <path id="ray_g11_s2040" d="M 29896,21366 L 31395,21400" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s2040" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Thomas Lee (1615 - 1645)
 </textPath>
 </text>
 <defs>
@@ -13192,11 +13192,11 @@ brickwall  (? - ?)
 <clipPath id="sector_11_2041_clip">
 <use href="#sector_11_2041"/>
 </clipPath></defs>
-<use href="#sector_11_2041" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_2041_clip)"/>
+<use href="#sector_11_2041" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_2041_clip)"/>
 <path id="ray_g11_s2041" d="M 29897,21317 L 31397,21347" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s2041" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Phoebe Browne (1620 - 1664)
 </textPath>
 </text>
 <defs>
@@ -14684,5 +14684,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-08 04:55:18.617703Z -->
+<!-- made new svg at 2025-12-09 17:13:02.578280Z -->
 </svg>

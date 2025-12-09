@@ -1,10 +1,10 @@
-		##############  Thomas Cooke
-		p9991: %{
+		##############  Thomas Lee
+		p9989: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "August 1615",
+			birth_date: "abt 1615",
 			birth_note: nil,
-			birth_place: "Shrewsbury, Shropshire, England",
+			birth_place: "England",
 			birth_source: nil,
 			birth_year: "1615",
 			buried: nil,
@@ -12,12 +12,12 @@
 			],
 			christening: nil,
 			death_age: nil,
-			death_cause: nil,
-			death_date: "1 December 1692",
+			death_cause: "smallpox",
+			death_date: "1645",
 			death_note: nil,
-			death_place: "Guilford, New Haven County, Connecticut",
+			death_place: "on ship",
 			death_source: nil,
-			death_year: "1692",
+			death_year: "1645",
 			description: nil,
 			education: [
 			],
@@ -33,13 +33,11 @@
 			given_name: "Thomas",
 			graduation: [
 			],
-			id: :p9991,
+			id: :p9989,
 			immigration: nil,
-			label: "gen12.MMMMPMMPPPMP.ThomasCooke",
+			label: "gen11.MMMMMMMMPPP.Thomas_Lee",
 			links: %{
-        geni: "https://www.geni.com/people/Thomas-Cooke-of-Hartford/6000000002106421511",
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500057/richard-cooke",
-				wikitree: "https://www.wikitree.com/wiki/Cook-3314",
+				wikitree: "https://www.wikitree.com/wiki/Lee-2114",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -47,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Thomas /Cooke/",
+			mh_name: "Thomas /Lee/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -61,8 +59,8 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "M", "M", "M", "P", "M", "M", "P", "P", "P", "M", "P"],
-				["P", "M", "M", "M", "P", "M", "M", "P", "P", "P", "M", "P"],
+				["M", "M", "M", "M", "M", "M", "M", "M", "P", "P", "P"],
+				["P", "M", "M", "M", "M", "M", "M", "M", "P", "P", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -70,12 +68,12 @@
 			rin: nil,
 			sex: "M",
 			ship: %{
-				name: "St John",
-				year: "1639",
+				name: nil,
+				year: nil,
 			},
 			sources: [
 			],
-			surname: "Cooke",
+			surname: "Lee",
 			title: nil,
 			uid: nil,
 			upd: nil,
