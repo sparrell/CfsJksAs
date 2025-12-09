@@ -47344,23 +47344,23 @@
 		##############  John Nichols
 		p0276: %{
 			also_known_as: nil,
-			baptism: nil,
-			birth_date: nil,
+			baptism: "baptized in Sedgeberrow, Worcestershire, England on 16 May 1601",
+			birth_date: "1601",
 			birth_note: nil,
 			birth_place: "Chelmsford, Essex, England, UK",
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "1601",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "1651",
 			death_note: nil,
 			death_place: "Fairfield, Fairfield, Connecticut, USA",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1651",
 			description: nil,
 			education: [
 			],
@@ -47381,6 +47381,8 @@
 			immigration: nil,
 			label: "gen11.MMMMMMMPMMP.John_Nichols",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000511/john-nichols",
+				wikitree: "https://www.wikitree.com/wiki/Nichols-198",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -67244,7 +67246,7 @@
 			will: [
 			],
 		},
-		##############  Esther Unknown112
+		##############  Esther Unknown112-bw
 		p0275: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -67282,7 +67284,7 @@
 			],
 			id: :p0275,
 			immigration: nil,
-			label: "gen11.MMMMMMMPMMM.Esther_Unknown112",
+			label: "gen11.MMMMMMMPMMM.Esther_Unknown112-bw",
 			links: %{
 			},
 			married_name: nil,
