@@ -18672,7 +18672,7 @@
 			will: [
 			],
 		},
-		##############  Elizabeth unknownCooke
+		##############  Elizabeth Unknown-bw
 		p9990: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -18721,7 +18721,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Elizabeth /unknownCooke/",
+			mh_name: "Elizabeth /Unknown-bw/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -18749,7 +18749,7 @@
 			},
 			sources: [
 			],
-			surname: "unknownCooke",
+			surname: "Unknown-bw",
 			title: nil,
 			uid: nil,
 			upd: nil,
@@ -75931,7 +75931,7 @@
 			will: [
 			],
 		},
-		##############  Anne unknown
+		##############  Anne Unknown
 		p1212: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -75969,7 +75969,7 @@
 			],
 			id: :p1212,
 			immigration: nil,
-			label: "gen10.MMPMMPPMPM.Anne_unknown",
+			label: "gen10.MMPMMPPMPM.Anne_Unknown",
 			links: %{
 			},
 			married_name: "Redwood",
@@ -76003,7 +76003,7 @@
 			sources: [
 				"@S36@\n2 QUAY 3\n2 DATA\n3 DATE 22 JUL 2015\n3 TEXT Added via an Instant Discovery™",
 			],
-			surname: "unknown",
+			surname: "Unknown",
 			title: nil,
 			uid: "55C36BE4B40FC28E8FFFF924C5B40220",
 			upd: nil,

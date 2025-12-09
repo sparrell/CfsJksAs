@@ -335,10 +335,17 @@ defmodule Cfsjksas.Ancestors.Person do
   end
   defp surnames([], surname_map) do
     # list empty so done
+
+    # determine how many people with unknown surname
+    unknowns = length(surname_map["Unknown"])
+
     # turn surname_map into sorted list of lists
-    surname_map
+    surname_list = surname_map
     |> Map.to_list()
     |> Enum.sort()
+
+    # return sorted list of surnames and number of people with unknown surname
+    {surname_list, unknowns}
   end
   defp surnames([id | rest], surname_map) do
     # get surname of this person

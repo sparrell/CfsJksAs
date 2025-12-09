@@ -22,7 +22,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     quanity_normal = length(normal)
 
     # get the list of ids surnames
-    surnames = Cfsjksas.Ancestors.Person.surnames()
+    {surnames, quanity_unknown_surnames} = Cfsjksas.Ancestors.Person.surnames()
     quanity_surnames = length(surnames)
 
     # get list of ancestors per generation
@@ -43,6 +43,7 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
      |> assign(:quanity_brickwalls, quanity_brickwalls)
      |> assign(:quanity_normal, quanity_normal)
      |> assign(:quanity_surnames, quanity_surnames)
+     |> assign(:quanity_unknown_surnames, quanity_unknown_surnames)
      |> assign(:gen_num, gen_num)
      |> assign(:ship_percent, ship_percent)
      |> assign(:no_ship_percent, no_ship_percent)
