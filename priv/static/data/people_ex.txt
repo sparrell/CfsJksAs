@@ -18672,7 +18672,7 @@
 			will: [
 			],
 		},
-		##############  Elizabeth Unknown-bw
+		##############  Elizabeth Unknown-*
 		p9990: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -18721,7 +18721,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Elizabeth /Unknown-bw/",
+			mh_name: "Elizabeth /Unknown-*/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -18749,7 +18749,7 @@
 			},
 			sources: [
 			],
-			surname: "Unknown-bw",
+			surname: "Unknown-*",
 			title: nil,
 			uid: nil,
 			upd: nil,
@@ -66614,7 +66614,7 @@
 			will: [
 			],
 		},
-		##############  Mary Unknown083-bw
+		##############  Mary Unknown083-*
 		p0451: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -66686,7 +66686,7 @@
 			sex: "F",
 			sources: [
 			],
-			surname: "Unknown083-bw",
+			surname: "Unknown083-*",
 			title: nil,
 			uid: "DAD81AB2-61CA-40DB-81B5-2305279C45B9",
 			upd: nil,
@@ -67421,7 +67421,7 @@
 			will: [
 			],
 		},
-		##############  Esther Unknown112-bw
+		##############  Esther Unknown112-*
 		p0275: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -67493,7 +67493,7 @@
 			sex: "F",
 			sources: [
 			],
-			surname: "Unknown112-bw",
+			surname: "Unknown112-*",
 			title: nil,
 			uid: "B0BCC5ED-0F27-41B7-BCF3-D36F4CC8E518",
 			upd: nil,

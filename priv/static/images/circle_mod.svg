@@ -12668,7 +12668,7 @@ Ephraim Fellows (1640 - 1713)
 <path id="ray_g11_s1973" d="M 29486,24603 L 30947,24942" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s1973" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Unknown083-bw (? - 1671)
+Mary Unknown083-* (? - 1671)
 </textPath>
 </text>
 <defs>
@@ -13172,7 +13172,7 @@ John Nichols (1601 - 1651)
 <path id="ray_g11_s2039" d="M 29895,21415 L 31394,21454" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s2039" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Esther Unknown112-bw (? - ?)
+Esther Unknown112-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14230,7 +14230,7 @@ Thomas Cooke (1615 - 1692)
 <path id="ray_g12_s3939" d="M 30983,25116 L 31858,25328" />
 <text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
 <textPath href="#ray_g12_s3939" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Elizabeth Unknown-bw (1623 - 1668)
+Elizabeth Unknown-* (1623 - 1668)
 </textPath>
 </text>
 <defs>
@@ -14658,5 +14658,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-09 22:31:40.863381Z -->
+<!-- made new svg at 2025-12-10 05:17:00.000046Z -->
 </svg>

@@ -535,7 +535,7 @@ defmodule Cfsjksas.Tools.Relation do
         String.starts_with?(surname, "Unknow")
       ) ->
         true
-      is_binary(surname) and String.ends_with?(surname, "bw") ->
+      is_binary(surname) and String.ends_with?(surname, "-*") ->
         true
       is_binary(surname) ->
         false
