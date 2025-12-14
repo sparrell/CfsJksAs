@@ -35,7 +35,7 @@
 			],
 			id: :p9987,
 			immigration: nil,
-			label: "genXxxx.Pxxx.Frances_A_Fisher",
+			label: "gen3.MPM.Frances_A_Fisher",
 			links: %{
 				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500060/frances-a-fisher",
 			},
@@ -59,7 +59,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["P", xxx],
+				["M", "P", "M"],
 			],
 			religion: nil,
 			residence: [
