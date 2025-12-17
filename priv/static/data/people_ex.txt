@@ -11991,7 +11991,7 @@
 			],
 			id: :p0493,
 			immigration: nil,
-			label: "gen5.MPMMM.Naomi_Briggs",
+			label: "gen6.MPMMMM.Naomi_Briggs",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Naomi_Briggs_%281%29",
 			},
@@ -12016,7 +12016,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M"],
+				["M", "P", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
