@@ -67616,7 +67616,7 @@
 			],
 			id: :p0680,
 			immigration: nil,
-			label: "gen6.MPMMPM.Faith_Unknown113",
+			label: "gen7.MPMMMPM.Faith_Unknown113",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Faith_Unknown_%289%29",
 			},
@@ -67641,7 +67641,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "M"],
+				["M", "P", "M", "M", "M", "P", "M"],
 			],
 			religion: nil,
 			residence: [
