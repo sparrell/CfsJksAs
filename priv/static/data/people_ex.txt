@@ -11749,7 +11749,7 @@
 			],
 			id: :p0499,
 			immigration: nil,
-			label: "gen6.MPMMMP.Israel_Briggs",
+			label: "gen7.MPMMMMP.Israel_Briggs",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Israel_Briggs_%281%29",
 			},
@@ -11775,7 +11775,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P"],
+				["M", "P", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
