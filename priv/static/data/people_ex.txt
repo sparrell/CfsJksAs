@@ -36780,7 +36780,7 @@
 			],
 			id: :p0500,
 			immigration: nil,
-			label: "gen6.MPMMMM.Naomi_Jones",
+			label: "gen7.MPMMMMM.Naomi_Jones",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Naomi_Jones_%285%29",
 			},
@@ -36805,7 +36805,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "M"],
+				["M", "P", "M", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
