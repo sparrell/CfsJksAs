@@ -70707,7 +70707,7 @@
 			],
 			id: :p0448,
 			immigration: nil,
-			label: "gen5.MPMPM.Margaret_Watt",
+			label: "gen6.MPMMPM.Margaret_Watt",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Margaret_Watt_%2830%29",
 			},
@@ -70732,7 +70732,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "P", "M"],
+				["M", "P", "M", "M", "P", "M"],
 			],
 			religion: nil,
 			residence: [
