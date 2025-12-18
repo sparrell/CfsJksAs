@@ -69652,7 +69652,7 @@
 			],
 			id: :p0685,
 			immigration: nil,
-			label: "gen8.MPMMPPPM.Mary_Wadsworth",
+			label: "gen9.MPMMMPPPM.Mary_Wadsworth",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Mary_Wadsworth_%285%29",
 			},
@@ -69677,7 +69677,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P", "P", "M"],
+				["M", "P", "M", "M", "M", "P", "P", "P", "M"],
 			],
 			religion: nil,
 			residence: [
