@@ -36860,7 +36860,7 @@
 			],
 			id: :p0688,
 			immigration: nil,
-			label: "gen7.MPMMMMP.Thomas_Jones",
+			label: "gen8.MPMMMMMP.Thomas_Jones",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Thomas_Jones_%28235%29",
 			},
@@ -36886,7 +36886,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "M", "P"],
+				["M", "P", "M", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
