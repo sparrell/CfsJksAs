@@ -62,15 +62,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0263http://localhost:4000/person?p=p
 
 
 == Other
-event:  280
-<p>
-2 TYPE Reference Number
-</p>
- 280
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

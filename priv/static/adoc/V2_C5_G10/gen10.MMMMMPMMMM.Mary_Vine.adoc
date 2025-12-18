@@ -119,15 +119,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0299http://localhost:4000/person?p=p
 
 
 == Other
-event:  312
-<p>
-2 TYPE Reference Number
-</p>
- 312
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

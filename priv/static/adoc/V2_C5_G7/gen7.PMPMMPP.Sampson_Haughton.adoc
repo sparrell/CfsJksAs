@@ -48,15 +48,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0082http://localhost:4000/person?p=p
 
 
 == Other
-event:  126
-<p>
-2 TYPE Reference Number
-</p>
- 126
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

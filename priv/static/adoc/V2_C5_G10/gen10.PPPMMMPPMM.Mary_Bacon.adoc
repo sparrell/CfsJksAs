@@ -60,9 +60,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1290http://localhost:4000/person?p=p
 2 QUAY 4
 2 DATA
 3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
-4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
-4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John Lakin Lydia Boyden (bo
-4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
+
+ &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
+
+ in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John Lakin Lydia Boyden (born Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
 </p>
 
 * @S112@
@@ -70,9 +71,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1290http://localhost:4000/person?p=p
 2 QUAY 4
 2 DATA
 3 TEXT Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 18 1640 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts
-4 CONC &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
-4 CONC in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John Lakin Lydia Boyden (bo
-4 CONC rn Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
+
+ &amp;lt;br&amp;gt;Death: Oct 22 1701 - Groton, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Husband: John Lak
+
+ in&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John Lakin Lydia Boyden (born Lakin)&amp;lt;br&amp;gt;Siblings: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon
 </p>
 
 

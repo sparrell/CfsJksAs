@@ -1,0 +1,41 @@
+= Ann Pierce (? - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+
+* Birthplace: Boston, Suffolk, Massachusetts, USA
+
+
+
+== Family
+* Mother: brickwall
+* Father: brickwall
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.Albert_Fisher.adoc[Albert Fisher (1812 - 1887)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMPM.Ann_Pierce.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0248http://localhost:4000/person?p=p0248https://cfsjksas.gigalixirapp.com/adoc?p=p0248http://localhost:4000/adoc?p=p0248* https://www.geni.com/people/Ann-Pierce/6000000219179990075[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000483/ann-pierce-fisher[MyHeritage]
+* https://www.werelate.org/wiki/Person:Ann_Pierce_%2813%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMP.Albert_Fisher.adoc[Albert Fisher (1812 - 1887)]
+* gen6.MPMMPM.Margaret_Watt_(1739 - 1796)
+
+
+== Other
+
+== Sources
+

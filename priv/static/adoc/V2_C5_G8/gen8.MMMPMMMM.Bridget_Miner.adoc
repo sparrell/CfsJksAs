@@ -60,15 +60,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0957http://localhost:4000/person?p=p
 
 
 == Other
-event:  930
-<p>
-2 TYPE Reference Number
-</p>
- 947
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

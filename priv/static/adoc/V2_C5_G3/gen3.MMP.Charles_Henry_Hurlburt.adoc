@@ -69,7 +69,7 @@ census:  RR Agent
 2 AGE 0-1
 </p>
 
-notes: <p>The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in1886.</p> <p>&nbsp;</p> <p>It appears that he started out working for the Worcester and Norwich RRbefore 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired.</p> <p>&nbsp;</p> <p>In 1894, The family belonged to the Plymouth Congregational Church, 917Main St. Worcester. They lived at 724 Main St.</p>
+notes: The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in 1886. It appears that he started out working for the Worcester and Norwich RR before 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired. In 1894, The family belonged to the Plymouth Congregational Church, 917 Main St. Worcester. They lived at 724 Main St.
 
 occupation: Clerk R.R. Office -
 <p>

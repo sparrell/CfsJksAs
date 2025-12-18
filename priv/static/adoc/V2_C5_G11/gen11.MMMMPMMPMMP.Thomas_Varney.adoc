@@ -66,15 +66,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0457http://localhost:4000/person?p=p
 
 
 == Other
-event:  473
-<p>
-2 TYPE Reference Number
-</p>
- 473
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

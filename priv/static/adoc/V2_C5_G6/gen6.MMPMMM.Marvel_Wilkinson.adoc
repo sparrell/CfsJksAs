@@ -47,15 +47,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0778http://localhost:4000/person?p=p
 
 
 == Other
-event:  767
-<p>
-2 TYPE Reference Number
-</p>
- 768
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

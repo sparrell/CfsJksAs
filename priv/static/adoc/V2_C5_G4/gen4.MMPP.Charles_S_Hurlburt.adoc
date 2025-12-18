@@ -52,7 +52,7 @@ census:
 2 AGE 26-27
 </p>
 
-notes: <p>1850 Federal Census - Resided Oxford MA, Laborer</p> <p>1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair</p> <p>1870 Federal Census - Montville CT, Railroad Foreman</p><p>1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell</p> <p>&nbsp;</p> <p>It is assumed that he was working for the Norwich amd Worcester Railroad when he met his wife, Esther in Griswold which is on the line, as is Oxford.</p> <p>&nbsp;</p> <p>The N&amp;W was acquired by the New Haven RR in 1889 after his death.</p> <p>&nbsp;</p> <p>Montville, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?</p>
+notes: 1850 Federal Census - Resided Oxford MA, Laborer 1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair 1870 Federal Census - Montville CT, Railroad Foreman 1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell. It is assumed that he was working for the Norwich amd Worcester Railroad when he met his wife, Esther in Griswold which is on the line, as is Oxford. The N&amp;W was acquired by the New Haven RR in 1889 after his death. Montville, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?
 
 
 == Sources

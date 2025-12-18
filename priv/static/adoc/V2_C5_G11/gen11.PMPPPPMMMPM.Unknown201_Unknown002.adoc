@@ -40,15 +40,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0522http://localhost:4000/person?p=p
 
 
 == Other
-event:  531
-<p>
-2 TYPE Reference Number
-</p>
- 531
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

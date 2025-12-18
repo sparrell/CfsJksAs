@@ -55,15 +55,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0205http://localhost:4000/person?p=p
 
 
 == Other
-event:  227
-<p>
-2 TYPE Reference Number
-</p>
- 227
-<p>
-2 TYPE Reference Number
-</p>
-
 notes: Ancestor of President George W. Bush.
 
 

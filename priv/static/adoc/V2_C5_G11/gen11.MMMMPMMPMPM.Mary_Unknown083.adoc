@@ -1,4 +1,4 @@
-= Mary Unknown083 (? - 1671)
+= Mary Unknown083-* (? - 1671)
 
 Narrative TBD
 
@@ -58,15 +58,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0451http://localhost:4000/person?p=p
 
 
 == Other
-event:  468
-<p>
-2 TYPE Reference Number
-</p>
- 468
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

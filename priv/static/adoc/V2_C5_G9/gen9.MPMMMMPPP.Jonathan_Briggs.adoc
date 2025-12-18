@@ -1,0 +1,76 @@
+= Jonathan Briggs (1635 - 1699)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+* Birth: 14 JUN 1635
+
+* Birthplace: Weymouth, Norfolk, Massachusetts, USA
+
+* Death: BEF 31 JAN 1699
+
+* Deathplace: Taunton, Bristol, Massachusetts, USA
+
+* Age at Death: About 63
+
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMMPPPM.Joan_Allen.adoc[Joan Allen (? - 1640)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMMPPPP.Clement_Briggs.adoc[Clement Briggs (1594 - 1648)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMMPPP.Jonathan_Briggs.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0690http://localhost:4000/person?p=p0690https://cfsjksas.gigalixirapp.com/adoc?p=p0690http://localhost:4000/adoc?p=p0690* Geni TBD
+* MyHeritage TBD
+* WeRelate TBD
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMMP.Israel_Briggs.adoc[Israel Briggs (1703 - 1774)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMMPP.John_Briggs.adoc[John Briggs (1673 - 1764)]
+* gen9.MPMMMMPPP.Jonathan_Briggs_(1635 - 1699)
+
+
+== Other
+event: 
+<p>
+2 TYPE Freeman
+2 DATE 29 MAY 1670
+2 PLAC Taunton, Bristol, Massachusetts, USA
+2 AGE 34
+</p>
+ Moved toTaunton
+<p>
+2 TYPE Move
+2 DATE 1668
+2 PLAC Taunton, Bristol, Massachusetts, USA
+2 AGE 32-33
+</p>
+
+probate: Property division filed by wife and son
+<p>
+2 DATE 31 JAN 1689
+2 AGE 53
+</p>
+
+
+== Sources
+

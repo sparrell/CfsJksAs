@@ -33,10 +33,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMPMP.Jeremiah_Belcher.adoc[Book Link]
-https://cfsjksas.gigalixirapp.com/person?p=p0575http://localhost:4000/person?p=p0575https://cfsjksas.gigalixirapp.com/adoc?p=p0575http://localhost:4000/adoc?p=p0575* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0575http://localhost:4000/person?p=p0575https://cfsjksas.gigalixirapp.com/adoc?p=p0575http://localhost:4000/adoc?p=p0575* https://www.geni.com/people/Jeremiah-Belcher/6000000000130297043?through=6000000000462557414[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000832/jeremiah-belcher[MyHeritage]
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Belcher-690[WikiTree]
 
 == Relations
 === Lineage #1

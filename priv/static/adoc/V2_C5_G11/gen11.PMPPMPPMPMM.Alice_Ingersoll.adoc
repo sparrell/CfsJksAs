@@ -53,15 +53,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0043http://localhost:4000/person?p=p
 
 
 == Other
-event:  1034
-<p>
-2 TYPE Reference Number
-</p>
- 1060
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

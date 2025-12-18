@@ -1,0 +1,58 @@
+= Robert Gray (1734 - ?)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+* Birth: 23 DEC 1734
+
+* Birthplace: Worcester, Worcester, Massachusetts, USA
+
+* Deathplace: Paris, Oxford, Maine, USA
+
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMPPM.Sarah_Wiley.adoc[Sarah Wiley (? - ?)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMPPP.Robert_Gray.adoc[Robert Gray (1697 - 1766)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.John_Gray.adoc[John Gray (1763 - 1841)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPP.Robert_Gray.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0447http://localhost:4000/person?p=p0447https://cfsjksas.gigalixirapp.com/adoc?p=p0447http://localhost:4000/adoc?p=p0447* Geni TBD
+* MyHeritage TBD
+* http://werelate.org/wiki/Person:Robert_Gray_%2844%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.John_Gray.adoc[John Gray (1763 - 1841)]
+* gen7.MPMMMPP.Ebenezer_Andrews_(1700 - 1785)
+
+
+== Other
+event:  Plantation No.4 incorporated as Paris
+<p>
+2 TYPE Fact 2
+2 DATE 1792
+2 PLAC Paris, Oxford, Maine, USA
+2 AGE 57-58
+</p>
+
+notes: Paris, Maine was settled in 1779 as Plantation #4, Cumberland County inthe District of Maine, when Maine was part of Massachusetts. In 1793, Plantation #4 was incorporated as the Town of Paris in Cumberland County. In 1805, Oxford County was set off from Cumberland County and Paris became the county seat. In 1820 Maine was set off from Massachusetts as aseperate state.
+
+
+== Sources
+

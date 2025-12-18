@@ -1,0 +1,67 @@
+= Henry Andrews (1630 - 1676)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+* Birth: 1630
+
+* Birthplace: Taunton, Bristol, Massachusetts, USA
+
+* Death: 1676
+
+* Deathplace: Taunton, Bristol, Massachusetts, USA
+
+* Age at Death: 45-46
+
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPPPM.Mary_Unknown065.adoc[Mary Unknown065 (1610 - 1653)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPPPP.Henry_Andrews.adoc[Henry Andrews (1600 - 1652)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPP.Henry_Andrews.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0684http://localhost:4000/person?p=p0684https://cfsjksas.gigalixirapp.com/adoc?p=p0684http://localhost:4000/adoc?p=p0684* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Henry_Andrews_%283%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
+* gen10.MPMMMMPPPP.Clement_Briggs_(1594 - 1648)
+
+
+== Other
+event:  Killed in Indian Raid at East Taunton 
+<p>
+
+TYPE Military Service
+
+DATE 1676
+
+AGE 45-46
+</p>
+
+notes: In 1670, Henry Andrews was elected Clerk of the Taunton Iron Works (See notes under Jonas Austin.) In 1676, he was plowing a field when he was killed be an Indian raiding party during King Phillip's war.  Buried where he fell, 5/8 mile east of bridge at East Taunton. Pile of rocks over grave.
+
+
+== Sources
+

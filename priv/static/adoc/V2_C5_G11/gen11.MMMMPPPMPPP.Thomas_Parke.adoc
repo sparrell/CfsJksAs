@@ -129,15 +129,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0354http://localhost:4000/person?p=p
 
 
 == Other
-event:  380
-<p>
-2 TYPE Reference Number
-</p>
- 380
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

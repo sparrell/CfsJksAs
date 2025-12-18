@@ -63,15 +63,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0707http://localhost:4000/person?p=p
 
 
 == Other
-event:  700
-<p>
-2 TYPE Reference Number
-</p>
- 701
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

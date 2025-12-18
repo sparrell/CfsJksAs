@@ -54,7 +54,7 @@ census:
 2 AGE 81
 </p>
 
-notes: <p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>
+notes: In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands. James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.
 
 occupation: Tavern Keeper, Montville CT
 

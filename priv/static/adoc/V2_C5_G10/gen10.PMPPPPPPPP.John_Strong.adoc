@@ -69,7 +69,7 @@ event:  _ELEC of Strong, John - Constable -Taunton MA
 2 AGE 24-25
 </p>
 
-notes: Family Motto:  "Together we are Strong" <p></p>
+notes: Family Motto:  "Together we are Strong" 
 
 occupation: Farmer, Leather tanner
 

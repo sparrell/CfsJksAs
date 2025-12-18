@@ -86,9 +86,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0511http://localhost:4000/person?p=p
 2 QUAY 4
 2 DATA
 3 DATE 23 DEC 1931
-3 TEXT &amp;lt;p&amp;gt;The Boston Transcript&amp;lt;br /&amp;gt;Publication: Boston, Suffolk County, Massachusetts, United States&amp;lt;br /&amp;gt;Date: Dec 23 1931&amp;lt;br /&amp;gt;Text: "...samo cemet
-4 CONC ery. Her inscription reads: &ldquo;Here lies the Body of Mrs. Hannah Lester, widow of Mr. Jonathan Lester decd, who died March 16, 1735 in her year.&rdquo; The correspondent misreads the age of Peter 
-4 CONC Lester..."&amp;lt;/p&amp;gt;
+3 TEXT &amp;lt;p&amp;gt;The Boston Transcript&amp;lt;br /&amp;gt;Publication: Boston, Suffolk County, Massachusetts, United States&amp;lt;br /&amp;gt;Date: Dec 23 1931&amp;lt;br /&amp;gt;Text: "...samo cemetery. Her inscription reads: &ldquo;Here lies the Body of Mrs. Hannah Lester, widow of Mr. Jonathan Lester decd, who died March 16, 1735 in her year.&rdquo; The correspondent misreads the age of Peter Lester..."&amp;lt;/p&amp;gt;
 </p>
 
 

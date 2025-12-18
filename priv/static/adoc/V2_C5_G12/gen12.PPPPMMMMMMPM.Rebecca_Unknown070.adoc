@@ -68,15 +68,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0223http://localhost:4000/person?p=p
 
 
 == Other
-event:  244
-<p>
-2 TYPE Reference Number
-</p>
- 244
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

@@ -56,14 +56,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1289http://localhost:4000/person?p=p
 == Other
 
 == Sources
-* @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT John Lakin&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Nov 1 1628 - Ruddington, England&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Mar 21 1697
-4 CONC  - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: William Lakin&amp;lt;br&amp;gt;Mother: Mary Martin (born Bacon Lakin)&amp;lt;br&amp;gt;Wife: Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Child
-4 CONC ren: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (born Lakin)&amp;lt;br&amp;g
-4 CONC t;Sibling: Lieut. William Lakin
-</p>
+* @S112@ QUAY  DATA TEXT John Lakin&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Nov 1 1628 - Ruddington, England&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Mar 21 1697 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: William Lakin&amp;lt;br&amp;gt;Mother: Mary Martin (born Bacon Lakin)&amp;lt;br&amp;gt;Wife: Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (born Lakin)&amp;lt;br&amp;gt;Sibling: Lieut. William Lakin
 
 

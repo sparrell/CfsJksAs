@@ -62,10 +62,10 @@ event:  arteriosclerosis leading to cerebral thrombosis
 2 TYPE _DCAUSE
 </p>
 
-notes: <p><p>The following written by Charles F Sparrell:
+notes: The following written by Charles F Sparrell:
 <p>
 
-Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from "Hinmans Business College" in Worcester. That is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Brothers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purchases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces without ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norcross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the depression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell ("Vinnie") had a prolonged bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my father was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.</p>
+Charles H. Sparrell, the oldest child of Herbert and Louisa, graduated from "Hinmans Business College" in Worcester. That is where he learned the beautiful copperplate script that you see in his letters. After school he went to work for the Wheelock Engine Company, and after four years he left to work for Norcross Brothers, a Worcester contractor who built monumental structures including the Boston Public Library, Custom House Tower and South Station. They built the Rhode Island Statehouse andnumerous Newport and New York mansions. Norcross worked often with New York Architects McKim, Mead and White. Grampa Sparrell became a friend of Stanford White. Grampa Sparrell became General Paymaster and Auditor of Purchases and Accounts for Norcross.He would carry the pay in cash by train from Worcester to the various building sites. He practiced witha pistol until he could shoot rabbits on the run at 30 paces without ever missing. He was extremely proud of this skill and let it be known around the job sites. He always wore his 38-caliber revolver in plain sight when he traveled with the payrolls. In 1916, Norcross merged with a New York Company. Grampa was offered a job as paymaster in New York City but he refused to move. In 1917, he went to work for the Spencer Wire Company of Worcester. In 1932 Spencer failed in the depression and he took a job selling Life Insurance for the Massachusetts Mutual Life Insurance Company. My father said selling life insurance was not an easy way to make money in the depression and many of his customers were old friends and acquaintances. They had to sell the Coolidge Road house because they couldn't afford to keep it up. Grandma Sparrell ("Vinnie") had a prolonged bout with cancer and those bills left him destitute at her death. My father and Uncle Lester supported Grandpa Sparrell and Lester got him the job at the Bethlehem yard during the war. I know my father was annoyed that Grampa kept his apartment in Worcester throughout the war even though he was living in Boston. He felt that Grampa should have saved more of his money to live on when the war ended.
 </p>
 
 occupation: Paymaster - Const. Company
@@ -79,38 +79,45 @@ occupation: Paymaster - Const. Company
 * @S34@
 <p>
 2 PAGE http://www.myheritage.com/research/collection-10132/1910-united-states-federal-census?s=20674952&itemId=37591443-&groupId=b32f026fbe807fd5c9df94159e9557e9&action=showRecord&indId=individual-20674952-15001347
-2 QUAY 4
-2 DATA
-3 TEXT <p>Charles Sparrell<br />Gender: Male<br />Birth: Circa 1874 - Massachusetts, United States<br />Residence: 1910 - Worcester Ward 7, Worcester, Massachusetts, USA<br />Age: 36<br />Marital status: Mar
-4 CONC ried<br />Race: White<br />Ethnicity: American<br />Wife: Lavinia Sparrell<br />Children: Herbert K Sparrell, Lester S Sparrell<br />Census: Township:Worcester Ward 7Series:T624Image:284 County:Worces
-4 CONC terSheet:29-A State:MassachusettsFamily:682 Date:1910-00-00Line:28 See household members<br /><a id="household"></a>Household<br />Relation to head; Name; Age<br />Head; <a href="research/collection-1
-4 CONC 0132/1910-united-states-federal-census?s=20674952&amp;itemId=37591443-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Charles Sparrell</a>; 36<br />Wife; <a href="research/collect
-4 CONC ion-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34<br />Son; <a href="research/col
-4 CONC lection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11<br />Son; <a href="resear
-4 CONC ch/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6</p>
+2 QUAY 4 DATA TEXT Charles Sparrell
+
+Gender: Male
+
+Birth: Circa 1874 - Massachusetts, United States
+
+Residence: 1910 - Worcester Ward 7, Worcester, Massachusetts, USA
+
+Age: 36
+
+Marital status: Married
+
+Race: White
+
+Ethnicity: American
+
+Wife: Lavinia Sparrell
+
+Children: Herbert K Sparrell, Lester S Sparrell
+
+Census: Township:Worcester Ward 7Series:T624Image:284 County:Worcester Sheet:29-A State:MassachusettsFamily:682 Date:1910-00-00Line:28 See household members
+
+<a id="household"></a>Household
+
+Relation to head; Name; Age
+
+Head; <a href="research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591443-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Charles Sparrell</a>; 36
+
+Wife; <a href="research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591444-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lavinia Sparrell</a>; 34
+
+Son; <a href="research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591445-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Herbert K Sparrell</a>; 11
+
+Son; <a href="research/collection-10132/1910-united-states-federal-census?s=20674952&amp;itemId=37591446-&amp;groupId=b32f026fbe807fd5c9df94159e9557e9&amp;action=showRecord">Lester S Sparrell</a>; 6
 </p>
 
 * @S43@
 <p>
 2 PAGE https://www.myheritage.com/research/record-30033-379317/charles-h-sparrell-and-lavinia-e-strong-in-massachusetts-marriages
-2 QUAY 4
-2 DATA
-3 TEXT Charles H. Sparrell & Lavinia E. Strong
-4 CONC Marriage: Jan 4 1898 - Worcester, Massachusetts
-4 CONC Husband: Charles H. Sparrell
-4 CONC &nbsp;&nbsp;Birth: Circa 1874
-4 CONC &nbsp;&nbsp;Age: 24
-4 CONC &nbsp;&nbsp;Father: Herbert K. Sparrell
-4 CONC &nbsp;&nbsp;Mother: Louisa K. Kerber
-4 CONC Wife: Lavinia E. Strong
-4 CONC &nbsp;&nbsp;Birth: Circa 1876
-4 CONC &nbsp;&nbsp;Age: 22
-4 CONC &nbsp;&nbsp;Father: Albert R. Stong
-4 CONC &nbsp;&nbsp;Mother: Alice V. Edgecomb
-4 CONC Certificate Number: 12
-4 CONC GS Film number: 1843709
-4 CONC Digital Folder Number: 4332401
-4 CONC Image Number: 00557
+2 QUAY  DATA TEXT Charles H. Sparrell & Lavinia E. Strong Marriage: Jan 4 1898 - Worcester, Massachusetts Husband: Charles H. Sparrell &nbsp;&nbsp;Birth: Circa 1874 &nbsp;&nbsp;Age: 24&nbsp;&nbsp;Father: Herbert K. Sparrell &nbsp;&nbsp;Mother: Louisa K. Kerber Wife: Lavinia E. Strong &nbsp;&nbsp;Birth: Circa 1876 &nbsp;&nbsp;Age: 22 &nbsp;&nbsp;Father: Albert R. Stong &nbsp;&nbsp;Mother: Alice V. Edgecomb Certificate Number: 12 GS Film number: 1843709 Digital Folder Number: 4332401 Image Number: 00557
 </p>
 
 

@@ -1,0 +1,58 @@
+= John Gray (1763 - 1841)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+* Birth: 16 AUG 1763
+
+* Birthplace: Worcester, Worcester, Massachusetts, USA
+
+* Death: 30 OCT 1841
+
+* Deathplace: Paris, Oxford, Maine, USA
+
+* Age at Death: 78
+
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPM.Margaret_Watt.adoc[Margaret Watt (1739 - 1796)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPP.Robert_Gray.adoc[Robert Gray (1734 - ?)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.John_Gray.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0249http://localhost:4000/person?p=p0249https://cfsjksas.gigalixirapp.com/adoc?p=p0249http://localhost:4000/adoc?p=p0249* https://www.geni.com/people/John-Gray/6000000219179990084[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000484/john-gray[MyHeritage]
+* https://www.werelate.org/wiki/Person:John_Gray_%28135%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* gen6.MPMMMP.David_Andrews_(1736 - 1815)
+
+
+== Other
+emigration: 
+<p>
+2 DATE 1792
+2 PLAC Paris, Oxford, Maine, USA
+2 AGE 28-29
+</p>
+
+
+== Sources
+

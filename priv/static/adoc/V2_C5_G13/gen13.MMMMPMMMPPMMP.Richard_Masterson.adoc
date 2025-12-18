@@ -73,15 +73,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0524http://localhost:4000/person?p=p
 
 
 == Other
-event:  533
-<p>
-2 TYPE Reference Number
-</p>
- 533
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

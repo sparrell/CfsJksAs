@@ -41,15 +41,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0817http://localhost:4000/person?p=p
 
 
 == Other
-event:  803
-<p>
-2 TYPE Reference Number
-</p>
- 811
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

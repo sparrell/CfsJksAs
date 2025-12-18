@@ -56,15 +56,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0394http://localhost:4000/person?p=p
 
 
 == Other
-event:  416
-<p>
-2 TYPE Reference Number
-</p>
- 416
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

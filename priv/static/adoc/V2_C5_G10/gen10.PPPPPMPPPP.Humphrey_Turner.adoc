@@ -95,10 +95,7 @@ event:  Grant on North River (see notes)
 2 AGE 46-47
 </p>
 
-notes: - Settled on a farm along present Driftway in Scituate. <p></p> <p>- Recieved an 80 acre grant on North River by what is now Union Bridge in Norwell. Establisher a tannery there which was operated by 
-<p>
-2 CONC sons John and Joseph.</p>
-</p>
+notes: - Settled on a farm along present Driftway in Scituate. - Recieved an 80 acre grant on North River by what is now Union Bridge in Norwell. Establisher a tannery there which was operated by sons John and Joseph.
 
 occupation: Leather Tanner
 

@@ -64,7 +64,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0346http://localhost:4000/person?p=p
 
 
 == Other
-notes: See notes for Samuel Gorton, William Witter and John Crandall. <p></p> <p>Stonington CT adjoins Westerly RI.</p>
+notes: See notes for Samuel Gorton, William Witter and John Crandall. Stonington, CT adjoins Westerly RI.
 
 
 == Sources

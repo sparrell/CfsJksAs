@@ -51,15 +51,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0437http://localhost:4000/person?p=p
 
 
 == Other
-event:  455
-<p>
-2 TYPE Reference Number
-</p>
- 455
-<p>
-2 TYPE Reference Number
-</p>
-
 residence: 
 <p>
 2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%282%29:

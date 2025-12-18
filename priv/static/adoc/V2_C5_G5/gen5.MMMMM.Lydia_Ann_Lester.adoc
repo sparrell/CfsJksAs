@@ -74,17 +74,7 @@ census:
 2 PAGE https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census
 2 QUAY 4
 2 DATA
-3 TEXT Lydia Kimball
-4 CONC Gender: Female
-4 CONC Birth: Circa 1802 - Connecticut, United States
-4 CONC Residence: 1860 - The Town Of Montville, New London, Connecticut, USA
-4 CONC Age: 58
-4 CONC Husband (implied): Erastus B Kimball
-4 CONC Census:   Township:The Town Of MontvilleSeries:M653Image:136  County:New LondonSheet:37  State:ConnecticutFamily:936  Date:1860Line:34 See household members
-4 CONC <a id='household'></a>Household
-4 CONC Relation to head; Name; Age
-4 CONC Head (implied); <a href="https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census?s=20674952">Erastus B Kimball</a>; 63
-4 CONC Wife (implied); <a href="https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census?s=20674952">Lydia Kimball</a>; 58
+3 TEXT Lydia Kimball Gender: Female Birth: Circa 1802 - Connecticut, United States Residence: 1860 - The Town Of Montville, New London, Connecticut, USA Age: 58 Husband (implied): Erastus B Kimball Census:   Township:The Town Of MontvilleSeries:M653Image:136  County:New LondonSheet:37  State:ConnecticutFamily:936  Date:1860 Line:34 See household members <a id='household'></a>Household Relation to head; Name; Age Head (implied); <a href="https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census?s=20674952">Erastus B Kimball</a>; 63 Wife (implied); <a href="https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census?s=20674952">Lydia Kimball</a>; 58
 </p>
 
 

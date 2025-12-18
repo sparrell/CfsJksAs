@@ -23,7 +23,7 @@ Narrative TBD
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPM.Sarah_Kirtland.adoc[Sarah Kirtland (1646 - 1676)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPP.John_Lay.adoc[John Lay (? - ?)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMMPP.Thomas_Lee.adoc[Thomas Lee (1644 - 1704)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMM.Mary_Lee.adoc[Mary Lee (1707 - ?)]
 

@@ -48,15 +48,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0754http://localhost:4000/person?p=p
 
 
 == Other
-event:  743
-<p>
-2 TYPE Reference Number
-</p>
- 744
-<p>
-2 TYPE Reference Number
-</p>
-
 notes: She was 16 when she married Samuel May.
 
 

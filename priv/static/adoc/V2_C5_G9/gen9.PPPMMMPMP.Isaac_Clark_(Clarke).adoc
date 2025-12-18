@@ -56,10 +56,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p1277http://localhost:4000/person?p=p
 <p>
 2 QUAY 4
 2 DATA
-3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&
-4 CONC amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&a
-4 CONC mp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan Clark,Martha Willard (born Clarke)Matthias Clar
-4 CONC k
+3 TEXT Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1666 - Falmouth, Cumberland, Maine, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Death: May 26 1768 - Framingham, Middlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Lieut Thaddeus Clark&amp;lt;br&amp;gt;Mother: Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Spouses: Sarah Clarke (born Stow)Elizabeth Clark (born Howe)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan Clark,Martha Willard (born Clarke)Matthias Clark
 </p>
 
 

@@ -61,7 +61,7 @@ census:
 2 AGE 14-15
 </p>
 
-notes: <p>In the 1870 US census, he was was living at home with his widowed mother in Montville and working in a cotton mill.</p>
+notes: In the 1870 US census, he was was living at home with his widowed mother in Montville and working in a cotton mill.
 
 occupation: Cotton Mill
 <p>

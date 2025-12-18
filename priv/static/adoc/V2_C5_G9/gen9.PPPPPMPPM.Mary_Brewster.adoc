@@ -63,7 +63,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0475http://localhost:4000/person?p=p
 
 
 == Other
-notes: Mary was named for her Grandmother who died the week she was born. <p>She married John Turner shortly before her parents moved to Connecticut.</p>
+notes: Mary was named for her Grandmother who died the week she was born. She married John Turner shortly before her parents moved to Connecticut.
 
 
 == Sources

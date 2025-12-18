@@ -63,10 +63,7 @@ census:
 2 AGE 46-47
 </p>
 
-notes: <p>The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker.</p> <p>&nbsp;</p> <p>The 187
-<p>
-2 CONC 0 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.</p>
-</p>
+notes: The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker. <The 1870 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.
 
 occupation: Factory Worker
 <p>

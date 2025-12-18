@@ -50,15 +50,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0239http://localhost:4000/person?p=p
 
 
 == Other
-event:  259
-<p>
-2 TYPE Reference Number
-</p>
- 259
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

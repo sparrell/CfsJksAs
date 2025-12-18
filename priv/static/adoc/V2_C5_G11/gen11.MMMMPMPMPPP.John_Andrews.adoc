@@ -71,22 +71,29 @@ https://cfsjksas.gigalixirapp.com/person?p=p0577http://localhost:4000/person?p=p
 == Other
 event:  Chairman, Ipswich  Selectmen
 <p>
-2 TYPE Election
-2 DATE 1687
-2 AGE About 65-66
+
+TYPE Election
+
+DATE 1687
+
+AGE About 65-66
 </p>
  Lieutenant, Militia in Pequot War
 <p>
-2 TYPE Military Service
+
+TYPE Military Service
 </p>
  See Notes
 <p>
-2 TYPE Fact 4
-2 DATE 1692
-2 AGE About 70-71
+
+TYPE Fact 4
+
+DATE 1692
+
+AGE About 70-71
 </p>
 
-notes: As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. <p></p> <p>Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond
+notes: As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond
 
 occupation: Carpenter and farmer
 

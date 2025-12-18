@@ -49,19 +49,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0617http://localhost:4000/person?p=p
 
 
 == Other
-event:  62
-<p>
-2 TYPE Reference Number
-</p>
- 62
-<p>
-2 TYPE Reference Number
-</p>
-
-notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house d
-<p>
-2 CONC uring her lifetime.
-</p>
+notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house during her lifetime.
 
 
 == Sources

@@ -42,15 +42,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0819http://localhost:4000/person?p=p
 
 
 == Other
-event:  805
-<p>
-2 TYPE Reference Number
-</p>
- 813
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

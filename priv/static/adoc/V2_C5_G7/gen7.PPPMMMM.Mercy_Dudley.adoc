@@ -62,16 +62,24 @@ residence:
 <p>
 2 QUAY 4
 2 DATA
-3 TEXT Mercy Willard (born Dudley)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1746&amp;lt;br&amp;gt;Marriage: Spouse: Isaac Willard - Sep 3 1768 - USA&amp;lt;br&amp;gt;Death: July 26 1813 - Worc
-4 CONC ester, Massachusetts, USA&amp;lt;br&amp;gt;Burial: Hope Cemetery , Worcester, Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Husband: &lt;a&gt;Isaac Willard&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&
-4 CONC gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;
+3 TEXT Mercy Willard (born Dudley)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1746&amp;lt;br&amp;gt;Marriage: Spouse: Isaac Willard - Sep 3 1768 - USA&amp;lt;br&amp;gt;Death: July 26 1813 - Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Burial: Hope Cemetery , Worcester, Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Husband: &lt;a&gt;Isaac Willard&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;
 </p>
 
 * @S60@
 <p>
 2 QUAY 0
 2 DATA
-3 TEXT <p>Tombstone In Memory of </p><p> Mrs. Mercy Willard </p><p> Relict of </p><p> Lieut, Isaac Willard, </p><p> who died </p><p> July 26, 1813, </p> Æt. 67
+3 TEXT Tombstone In Memory of 
+
+ Mrs. Mercy Willard 
+
+ Relict of 
+
+ Lieut, Isaac Willard, 
+
+ who died 
+
+ July 26, 1813, Æt. 67
 </p>
 
 

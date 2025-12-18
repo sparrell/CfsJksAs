@@ -62,23 +62,9 @@ event:  "Paralysis"; Stroke?
 
 
 == Sources
-* @S43@
+* @S43@ PAGE https://www.myheritage.com/research/record-30033-1259108-M/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
 <p>
-2 PAGE https://www.myheritage.com/research/record-30033-1259108-M/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
-2 QUAY 4
-2 DATA
-3 TEXT James N. Sparrell & Emeline Gleason
-4 CONC Marriage: Aug 5 1846 - Worcester, Massachusetts
-4 CONC Husband: James N. Sparrell
-4 CONC &nbsp;&nbsp;Father: James N. Sparrell
-4 CONC &nbsp;&nbsp;Mother: Desire Sparrell
-4 CONC Wife: Emeline Gleason
-4 CONC &nbsp;&nbsp;Father: Line... Gleason
-4 CONC &nbsp;&nbsp;Mother: Sophia Gleason
-4 CONC Certificate Number: 254
-4 CONC GS Film number: 1428256
-4 CONC Digital Folder Number: 4279728
-4 CONC Image Number: 00797
+2 QUAY 4 DATA TEXT James N. Sparrell & Emeline Gleason Marriage: Aug 5 1846 - Worcester, Massachusetts Husband: James N. Sparrell &nbsp;&nbsp;Father: James N. Sparrell &nbsp;&nbsp;Mother: Desire Sparrell Wife: Emeline Gleason &nbsp;&nbsp;Father: Line... Gleason &nbsp;&nbsp;Mother: Sophia Gleason Certificate Number: 254 GS Film number: 1428256 Digital Folder Number: 4279728 Image Number: 00797
 </p>
 
 

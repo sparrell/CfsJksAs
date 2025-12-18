@@ -47,15 +47,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0936http://localhost:4000/person?p=p
 
 
 == Other
-event:  911
-<p>
-2 TYPE Reference Number
-</p>
- 928
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

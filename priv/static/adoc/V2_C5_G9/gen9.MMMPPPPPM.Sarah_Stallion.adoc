@@ -60,15 +60,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0373http://localhost:4000/person?p=p
 
 
 == Other
-event:  398
-<p>
-2 TYPE Reference Number
-</p>
- 398
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

@@ -21,8 +21,10 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPPPMM.Elizabeth_unknownCooke.adoc[Elizabeth Unknown-* (1623 - 1668)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMPPPMP.ThomasCooke.adoc[Thomas Cooke (1615 - 1692)]
+
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPPP.Samuel_Hall.adoc[Samuel Hall (1664 - ?)]
 
 
@@ -31,7 +33,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0210http://localhost:4000/person?p=p0210https://cfsjksas.gigalixirapp.com/adoc?p=p0210http://localhost:4000/adoc?p=p0210* Geni TBD
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000444/elizabeth-cooke-hall[MyHeritage]
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Cooke-1321[WikiTree]
 
 == Relations
 === Lineage #1

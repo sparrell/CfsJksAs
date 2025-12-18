@@ -77,7 +77,7 @@ emigration:  Came with wife and older children (Notes)
 2 AGE About 39-40
 </p>
 
-notes: <p>John,aged 40, sailed 1635 from London in ship "Susan and Ellen" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1.</p> <p>They settled first in Ipswich, where he was a proprietor. He was a</p> <p>draper, and also a husbandman. He later removed to Salem. He was listed</p> <p>as a commoner in 1641. He was one of the 27 richest inhabitants and had 2</p> <p>shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov</p> <p>1672 at Salem. First two children born in England and the remainder in</p> <p>Salem, MA.</p> <p>&nbsp;</p>
+notes: John,aged 40, sailed 1635 from London in ship "Susan and Ellen" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1. They settled first in Ipswich, where he was a proprietor. He was a draper, and also a husbandman. He later removed to Salem. He was listed as a commoner in 1641. He was one of the 27 richest inhabitants and had 2 shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov, 1672 at Salem. First two children born in England and the remainder in Salem, MA.
 
 will: Will named daughter Abigail Varney
 <p>
@@ -92,8 +92,21 @@ will: Will named daughter Abigail Varney
 2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=42741179-F&action=showRecord&indId=individual-20674952-15000877
 2 QUAY 4
 2 DATA
-3 TEXT <p>John<br />Gender: Female<br />Christening: Oct 17 1633 - Assington, Suffolk, England<br />Father: John<br />Child: Marie Proctor<br />Indexing Project (Batch) Number: P01201-1<br />System Origin: E
-4 CONC ngland-ODM<br />GS Film number: 364109</p>
+3 TEXT John
+
+Gender: Female
+
+Christening: Oct 17 1633 - Assington, Suffolk, England
+
+Father: John
+
+Child: Marie Proctor
+
+Indexing Project (Batch) Number: P01201-1
+
+System Origin: England-ODM
+
+GS Film number: 364109
 </p>
 
 

@@ -66,10 +66,10 @@ census:
 2 AGE 61-62
 </p>
 
-notes: <p>Uncasville is a village in the town of Montville CT.
+notes: Uncasville is a village in the town of Montville CT.
 <p>
 
-An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to apply to Erastus B. Kimball in Preston.</p>
+An Advertisment in The Norwich CT Newspaper of Nov 4, 1822 invited anyone interested in becoming a blacksmith apprentice to apply to Erastus B. Kimball in Preston.
 </p>
 
 occupation: Blacksmith in Montville (US Census)
@@ -90,19 +90,7 @@ Blacksmith in Preston
 * @S32@
 <p>
 2 PAGE https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census
-2 QUAY 4
-2 DATA
-3 TEXT Erastus B Kimball
-4 CONC Gender: Male
-4 CONC Birth: Circa 1797 - Connecticut, United States
-4 CONC Residence: 1860 - The Town Of Montville, New London, Connecticut, USA
-4 CONC Age: 63
-4 CONC Wife (implied): Lydia Kimball
-4 CONC Census:   Township:The Town Of MontvilleSeries:M653Image:136  County:New LondonSheet:37  State:ConnecticutFamily:936  Date:1860-00-00Line:33 See household members
-4 CONC <a id='household'></a>Household
-4 CONC Relation to head; Name; Age
-4 CONC Head (implied); <a href="https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census?s=20674952">Erastus B Kimball</a>; 63
-4 CONC Wife (implied); <a href="https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census?s=20674952">Lydia Kimball</a>; 58
+2 QUAY DATA TEXT Erastus B Kimball Gender: Male Birth: Circa 1797 - Connecticut, United States Residence: 1860 - The Town Of Montville, New London, Connecticut, USA Age: 63 Wife (implied): Lydia Kimball Census:   Township:The Town Of MontvilleSeries:M653Image:136  County:New LondonSheet:37  State:ConnecticutFamily:936  Date:1860-00-00Line:33 See household members <a id='household'></a>Household Relation to head; Name; Age Head (implied); <a href="https://www.myheritage.com/research/record-10127-1620295/erastus-b-kimball-in-1860-united-states-federal-census?s=20674952">Erastus B Kimball</a>; 63 Wife (implied); <a href="https://www.myheritage.com/research/record-10127-1620296/lydia-kimball-in-1860-united-states-federal-census?s=20674952">Lydia Kimball</a>; 58
 </p>
 
 

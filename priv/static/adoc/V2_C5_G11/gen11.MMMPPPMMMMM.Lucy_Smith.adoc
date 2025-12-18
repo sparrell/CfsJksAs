@@ -65,15 +65,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0904http://localhost:4000/person?p=p
 
 
 == Other
-event:  883
-<p>
-2 TYPE Reference Number
-</p>
- 898
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

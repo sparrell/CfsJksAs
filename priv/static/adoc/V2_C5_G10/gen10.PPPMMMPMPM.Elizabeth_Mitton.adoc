@@ -53,13 +53,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1280http://localhost:4000/person?p=p
 == Other
 
 == Sources
-* @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1644 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: 1736 
-4 CONC - Boston, Massachusetts&amp;lt;br&amp;gt;Father: Michael Mitton&amp;lt;br&amp;gt;Mother: Elizabeth Harvey (born Cleeves Mitton, Cleeve, Cleave)&amp;lt;br&amp;gt;Husband: Lieut Thaddeus Clark&amp;lt;br
-4 CONC &amp;gt;Child: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Siblings: Dorcas Sarah Andrews (born Mitton)Nathaniel MittonMary Brackett (born Mitton)Martha Graves (born Mitton)Ann Brackett (born Mitton)
-</p>
+* @S112@2 QUAY  DATA TEXT Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1644 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: 1736 - Boston, Massachusetts&amp;lt;br&amp;gt;Father: Michael Mitton&amp;lt;br&amp;gt;Mother: Elizabeth Harvey (born Cleeves Mitton, Cleeve, Cleave)&amp;lt;br&amp;gt;Husband: Lieut Thaddeus Clark&amp;lt;br &amp;gt;Child: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Siblings: Dorcas Sarah Andrews (born Mitton)Nathaniel MittonMary Brackett (born Mitton)Martha Graves (born Mitton)Ann Brackett (born Mitton)
 
 

@@ -125,15 +125,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0836http://localhost:4000/person?p=p
 
 
 == Other
-event:  820
-<p>
-2 TYPE Reference Number
-</p>
- 832
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

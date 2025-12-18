@@ -21,9 +21,9 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPM.Mary_Unknown083.adoc[Mary Unknown083 (? - 1671)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPM.Mary_Unknown083.adoc[Mary Unknown083-* (? - 1671)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1713)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 
@@ -82,7 +82,13 @@ event:  Sergeant of Militia
 2 PAGE http://www.myheritage.com/research/collection-10013/find-a-grave?s=20674952&itemId=338713505-&action=showRecord&indId=individual-20674952-15000864
 2 QUAY 4
 2 DATA
-3 TEXT <p>John Fellows<br />Birth: Oct 20 1668<br />Death: Oct 20 1748<br />Cemetery: Old Plainfield Cemetery, Connecticut, USA</p>
+3 TEXT John Fellows
+
+Birth: Oct 20 1668
+
+Death: Oct 20 1748
+
+Cemetery: Old Plainfield Cemetery, Connecticut, USA
 </p>
 
 

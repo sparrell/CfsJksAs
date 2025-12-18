@@ -1,0 +1,46 @@
+= Naomi Jones (? - 1778)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+
+* Death: 1778
+
+* Deathplace: Berkley, Bristol, Massachusetts, USA
+
+
+
+== Family
+* Mother: brickwall
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMMMP.Thomas_Jones.adoc[Thomas Jones (? - ?)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMMM.Naomi_Jones.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0500http://localhost:4000/person?p=p0500https://cfsjksas.gigalixirapp.com/adoc?p=p0500http://localhost:4000/adoc?p=p0500* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Naomi_Jones_%285%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMM.Naomi_Briggs.adoc[Naomi Briggs (1742 - ?)]
+* gen7.MPMMMMM.Naomi_Jones_(? - 1778)
+
+
+== Other
+
+== Sources
+

@@ -80,7 +80,7 @@ event:  Elder of First Church
 2 AGE 35-36
 </p>
 
-notes: - One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. <p></p> <p>- Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark).</p> <p></p> <p>- Wealthy and prominent leader of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquittal. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.
+notes: - One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. - Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark). - Wealthy and prominent leader of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquittal. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.
 
 occupation: Tailor
 

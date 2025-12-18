@@ -1,4 +1,4 @@
-= John Nichols (? - ?)
+= John Nichols (1601 - 1651)
 
 Narrative TBD
 
@@ -8,7 +8,13 @@ Narrative TBD
 
 * Sex: M
 
+* Birth: 1601
+
 * Birthplace: Chelmsford, Essex, England, UK
+
+* Baptism: baptized in Sedgeberrow, Worcestershire, England on 16 May 1601
+
+* Death: 1651
 
 * Deathplace: Fairfield, Fairfield, Connecticut, USA
 
@@ -28,9 +34,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMMP.John_Nichols.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0276http://localhost:4000/person?p=p0276https://cfsjksas.gigalixirapp.com/adoc?p=p0276http://localhost:4000/adoc?p=p0276* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000511/john-nichols[MyHeritage]
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Nichols-198[WikiTree]
 
 == Relations
 === Lineage #1
@@ -45,7 +51,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0276http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPMM.Hester_Nichols.adoc[Hester Nichols (1635 - 1679)]
-* gen11.MMMMMMMPMMP.John_Nichols_(? - ?)
+* gen11.MMMMMMMPMMP.John_Nichols_(1601 - 1651)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,7 +65,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0276http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPMM.Hester_Nichols.adoc[Hester Nichols (1635 - 1679)]
-* gen11.MMMMMMMPMMP.John_Nichols_(? - ?)
+* gen11.MMMMMMMPMMP.John_Nichols_(1601 - 1651)
 
 
 == Other

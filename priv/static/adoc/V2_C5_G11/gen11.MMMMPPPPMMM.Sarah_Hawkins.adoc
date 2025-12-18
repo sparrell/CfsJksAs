@@ -69,15 +69,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0632http://localhost:4000/person?p=p
 
 
 == Other
-event:  633
-<p>
-2 TYPE Reference Number
-</p>
- 633
-<p>
-2 TYPE Reference Number
-</p>
-
 
 == Sources
 

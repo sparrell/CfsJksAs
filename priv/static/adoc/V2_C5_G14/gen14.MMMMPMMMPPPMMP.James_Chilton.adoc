@@ -84,8 +84,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0848http://localhost:4000/person?p=p
 2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
 2 QUAY 4
 2 DATA
-3 TEXT <p>James Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Child: Isabell Chilton<br />Indexing Project (Batch) Number: 
-4 CONC P01654-1<br />System Origin: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>
+3 TEXT James Chilton
+
+Gender: Female
+
+Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England
+
+Father: James Chilton
+
+Child: Isabell Chilton
+
+Indexing Project (Batch) Number: P01654-1
+
+System Origin: England-ODM
+
+GS Film number: 942.23 C1 V26CT
 </p>
 
 

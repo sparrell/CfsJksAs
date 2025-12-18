@@ -63,9 +63,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p1292http://localhost:4000/person?p=p
 <p>
 2 QUAY 4
 2 DATA
-3 TEXT Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1610 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Death: Aug 26 1655 - Woburn, 
-4 CONC Middlesex, Massachusetts&amp;lt;br&amp;gt;Husband: Michael Bacon&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bac
-4 CONC on)Michael Bacon, JrMichael Bacon
+3 TEXT Mary Bacon (born Jobo)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1610 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Death: Aug 26 1655 - Woburn, Middlesex, Massachusetts&amp;lt;br&amp;gt;Husband: Michael Bacon&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bacon) Michael Bacon, JrMichael Bacon
 </p>
 
 

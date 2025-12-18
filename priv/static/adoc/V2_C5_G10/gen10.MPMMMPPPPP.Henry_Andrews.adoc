@@ -1,0 +1,88 @@
+= Henry Andrews (1600 - 1652)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+
+* Birth: 1600
+
+* Birthplace: England, UK
+
+* Death: 1652
+
+* Deathplace: Taunton, Bristol, Massachusetts, USA
+
+* Age at Death: 51-52
+
+
+
+== Ship
+* Unknown
+* Unknown
+
+
+== Family
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPP.Henry_Andrews.adoc[Henry Andrews (1630 - 1676)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPPPP.Henry_Andrews.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0686http://localhost:4000/person?p=p0686https://cfsjksas.gigalixirapp.com/adoc?p=p0686http://localhost:4000/adoc?p=p0686* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Henry_Andrews_%285%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPP.Henry_Andrews.adoc[Henry Andrews (1630 - 1676)]
+* gen10.MPMMMPPPPP.Henry_Andrews_(1600 - 1652)
+
+
+== Other
+event:  Built first Meeting House in Taunton
+<p>
+
+TYPE Fact
+
+DATE 1647
+
+AGE 46-47
+</p>
+ First representative to Plymouth Court from Taunton
+<p>
+
+TYPE Fact 2
+</p>
+ Original purchaser of Taunton from Indians
+<p>
+
+TYPE Fact
+
+ DATE 1637
+
+AGE 36-37
+</p>
+ arr. MA prior to 1630
+<p>
+
+ TYPE Fact 4
+</p>
+
+
+== Sources
+

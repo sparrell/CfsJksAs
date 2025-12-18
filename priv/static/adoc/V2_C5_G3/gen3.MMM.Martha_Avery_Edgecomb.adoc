@@ -64,15 +64,35 @@ census:
 2 PAGE http://www.myheritage.com/research/collection-10127/1860-united-states-federal-census?s=20674952&itemId=1580052-&groupId=19dc1a4abc2b569c25cc10b8434b06b3&action=showRecord&indId=individual-20674952-15001071
 2 QUAY 4
 2 DATA
-3 TEXT <p>Martha Edgecombe<br />Gender: Female<br />Birth: Circa 1854 - Connecticut, United States<br />Residence: 1860 - The City Of N. London, New London, Connecticut, USA<br />Age: 6<br />Father (implied)
-4 CONC : George Edgecombe<br />Mother (implied): Lavinia Edgecombe<br />Siblings (implied): Alice Edgecombe, George T Edgecombe<br />Census: Township:The City Of N. LondonSeries:M653Image:321 County:New Lond
-4 CONC onSheet:68 State:ConnecticutFamily:587 Date:1860-00-00Line:39 See household members<br /><a id="household"></a>Household<br />Relation to head; Name; Age<br />Head (implied); <a href="research/collect
-4 CONC ion-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580049-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George Edgecombe</a>; 36<br />Wife (implied); <a href="re
-4 CONC search/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580050-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Lavinia Edgecombe</a>; 30<br />Daughter (im
-4 CONC plied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580051-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Alice Edgecombe</a>; 10<
-4 CONC br />Daughter (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580052-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Martha 
-4 CONC Edgecombe</a>; 6<br />Son (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRec
-4 CONC ord">George T Edgecombe</a>; 3</p>
+3 TEXT Martha Edgecombe
+
+Gender: Female
+
+Birth: Circa 1854 - Connecticut, United States
+
+Residence: 1860 - The City Of N. London, New London, Connecticut, USA
+
+Age: 6
+
+Father (implied) : George Edgecombe
+
+Mother (implied): Lavinia Edgecombe
+
+Siblings (implied): Alice Edgecombe, George T Edgecombe
+
+Census: Township:The City Of N. LondonSeries:M653Image:321 County:New London Sheet:68 State:ConnecticutFamily:587 Date:1860-00-00Line:39 See household members
+
+<a id="household"></a>Household
+
+Relation to head; Name; Age
+
+Head (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580049-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George Edgecombe</a>; 36
+
+Wife (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580050-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Lavinia Edgecombe</a>; 30
+
+Daughter (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580051-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Alice Edgecombe</a>; 10 Daughter (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580052-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Martha Edgecombe</a>; 6
+
+Son (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George T Edgecombe</a>; 3
 </p>
 
 

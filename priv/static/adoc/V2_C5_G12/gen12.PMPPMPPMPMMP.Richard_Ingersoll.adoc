@@ -69,8 +69,21 @@ immigration: England to Salem
 2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=52766949-F&action=showRecord&indId=individual-20674952-15000234
 2 QUAY 4
 2 DATA
-3 TEXT <p>Richard Inkersall<br />Gender: Female<br />Christening: Dec 21 1612 - Sandy, Bedford, England<br />Father: Richard Inkersall<br />Child: Alice Inkersall<br />Indexing Project (Batch) Number: P00339
-4 CONC -1<br />System Origin: England-ODM<br />GS Film number: 599349</p>
+3 TEXT Richard Inkersall
+
+Gender: Female
+
+Christening: Dec 21 1612 - Sandy, Bedford, England
+
+Father: Richard Inkersall
+
+Child: Alice Inkersall
+
+Indexing Project (Batch) Number: -1
+
+System Origin: England-ODM
+
+GS Film number: 599349
 </p>
 
 
