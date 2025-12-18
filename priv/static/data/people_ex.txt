@@ -56837,7 +56837,7 @@
 			],
 			event: [
 				" 18th MVM- Orderly to Colonel Hayes\r\n2 TYPE Military Service\r\n2 DATE MAY 1861\r\n2 AGE 13-14",
-				" Cardio-renal failure\r\n2 TYPE _DCAUSE",
+				" Cause of death: Cardio-renal failure",
 				" Retired (Volstead Act - Breweries closed)\r\n2 TYPE Retired\r\n2 DATE 1920\r\n2 AGE 72-73",
 				" _MEDICAL of Sparrell, Herbert Kirkwood\r\n2 TYPE _MEDICAL",
 			],
@@ -75937,7 +75937,7 @@
 			will: [
 			],
 		},
-		##############  Frances Father Unknown-*
+		##############  AAFF Father Unknown-*
 		p9986: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -75969,12 +75969,12 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Frances Father",
+			given_name: "AAFF Father",
 			graduation: [
 			],
 			id: :p9986,
 			immigration: nil,
-			label: "gen3.MPP.Frances_Father_Unknown",
+			label: "gen3.MPP.AAFF_Father_Unknown",
 			links: %{
 			},
 			married_name: nil,
@@ -75983,7 +75983,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Frances Father /Unknown/",
+			mh_name: "AAFF Father /Unknown/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,

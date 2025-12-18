@@ -64,10 +64,7 @@ event:  18th MVM- Orderly to Colonel Hayes
 2 DATE MAY 1861
 2 AGE 13-14
 </p>
- Cardio-renal failure
-<p>
-2 TYPE _DCAUSE
-</p>
+ Cause of death: Cardio-renal failure
  Retired (Volstead Act - Breweries closed)
 <p>
 2 TYPE Retired
