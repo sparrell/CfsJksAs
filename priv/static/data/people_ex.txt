@@ -1926,7 +1926,7 @@
 			],
 			id: :p0686,
 			immigration: nil,
-			label: "gen9.MPMMPPPPP.Henry_Andrews",
+			label: "gen10.MPMMMPPPPP.Henry_Andrews",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Henry_Andrews_%285%29",
 			},
@@ -1951,7 +1951,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P", "P", "P", "P"],
+				["M", "P", "M", "M", "M", "P", "P", "P", "P", "P"],
 			],
 			religion: nil,
 			residence: [
