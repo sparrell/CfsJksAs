@@ -545,7 +545,7 @@
 			],
 			id: :p0558,
 			immigration: nil,
-			label: "gen10.MPMMMPPPMP.George_Allen",
+			label: "gen11.MPMMMMPPPMP.George_Allen",
 			links: %{
 			},
 			married_name: nil,
@@ -569,7 +569,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P", "P", "M", "P"],
+				["M", "P", "M", "M", "M", "M", "P", "P", "P", "M", "P"],
 			],
 			religion: nil,
 			residence: [
