@@ -94,7 +94,8 @@ defmodule Cfsjksas.Tools.Markdown do
 	"""
 	def make_narrative(relation) do
 		# check if narritive file exists
-		filepath = Cfsjksas.Tools.Link.make_filename(relation, :md)
+		filepath = Cfsjksas.Tools.Link.make_filename(relation, :narrative)
+		IEx.pry()
 		{:ok, md} = case File.exists?(filepath) do
 			true ->
 				File.read(filepath)
