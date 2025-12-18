@@ -11831,7 +11831,7 @@
 			],
 			id: :p0388,
 			immigration: nil,
-			label: "gen7.MPMMMPP.John_Briggs",
+			label: "gen8.MPMMMMPP.John_Briggs",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:John_Briggs_%2865%29",
 			},
@@ -11857,7 +11857,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P"],
+				["M", "P", "M", "M", "M", "M", "P", "P"],
 			],
 			religion: nil,
 			residence: [
