@@ -69570,7 +69570,7 @@
 			],
 			id: :p0560,
 			immigration: nil,
-			label: "gen9.MPMMPPPMP.Christopher_Wadsworth",
+			label: "gen10.MPMMMPPPMP.Christopher_Wadsworth",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Christopher_Wadsworth_%281%29",
 			},
@@ -69595,7 +69595,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P", "P", "M", "P"],
+				["M", "P", "M", "M", "M", "P", "P", "P", "M", "P"],
 			],
 			religion: nil,
 			residence: [
