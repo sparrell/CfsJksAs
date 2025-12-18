@@ -73338,7 +73338,7 @@
 			],
 			id: :p0494,
 			immigration: nil,
-			label: "gen6.MPMPPM.Sarah_Wiley",
+			label: "gen7.MPMMPPM.Sarah_Wiley",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Sarah_Wiley_%2814%29",
 			},
@@ -73363,7 +73363,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "P", "P", "M"],
+				["M", "P", "M", "M", "P", "P", "M"],
 			],
 			religion: nil,
 			residence: [
