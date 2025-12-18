@@ -65488,7 +65488,7 @@
 			],
 			id: :p0687,
 			immigration: nil,
-			label: "gen9.MPMMPPPPM.Mary_Unknown065",
+			label: "gen10.MPMMMPPPPM.Mary_Unknown065",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Mary_Unknown_%285970%29",
 			},
@@ -65513,7 +65513,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P", "P", "P", "M"],
+				["M", "P", "M", "M", "M", "P", "P", "P", "P", "M"],
 			],
 			religion: nil,
 			residence: [
