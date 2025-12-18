@@ -11913,7 +11913,7 @@
 			],
 			id: :p0690,
 			immigration: nil,
-			label: "gen8.MPMMMPPP.Jonathan_Briggs",
+			label: "gen9.MPMMMMPPP.Jonathan_Briggs",
 			links: %{
 			},
 			married_name: nil,
@@ -11937,7 +11937,7 @@
 			],
 			probate: "Property division filed by wife and son\r\n2 DATE 31 JAN 1689\r\n2 AGE 53",
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P", "P"],
+				["M", "P", "M", "M", "M", "M", "P", "P", "P"],
 			],
 			religion: nil,
 			residence: [
