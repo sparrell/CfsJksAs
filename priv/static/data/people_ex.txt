@@ -48015,85 +48015,6 @@
 			will: [
 			],
 		},
-		##############  George Packard
-		p0749: %{
-			also_known_as: nil,
-			baptism: nil,
-			birth_date: nil,
-			birth_note: nil,
-			birth_place: nil,
-			birth_source: nil,
-			birth_year: "?",
-			buried: nil,
-			census: [
-			],
-			christening: nil,
-			death_age: nil,
-			death_cause: nil,
-			death_date: nil,
-			death_note: nil,
-			death_place: nil,
-			death_source: nil,
-			death_year: "?",
-			description: nil,
-			education: [
-			],
-			emigration: [
-			],
-			event: [
-			],
-			family_of_origin: nil,
-			family_of_procreation: [
-				:f306,
-			],
-			father: nil,
-			former_name: nil,
-			given_name: "George",
-			graduation: [
-			],
-			id: :p0749,
-			immigration: nil,
-			label: "gen10.MPMMMPMPPP.George_Packard",
-			links: %{
-			},
-			married_name: nil,
-			mh_famc: nil,
-			mh_famc2: nil,
-			mh_fams: [
-				"F334",
-			],
-			mh_id: "I1007",
-			mh_name: "George /Packard/",
-			mother: nil,
-			name_prefix: nil,
-			name_suffix: nil,
-			naturalized: nil,
-			nickname: nil,
-			notes: [
-			],
-			occupation: [
-			],
-			ordained: [
-			],
-			probate: nil,
-			relation_list: [
-				["M", "P", "M", "M", "M", "P", "M", "P", "P", "P"],
-			],
-			religion: nil,
-			residence: [
-			],
-			rin: "MH:I1007",
-			sex: "M",
-			ship: :parent,
-			sources: [
-			],
-			surname: "Packard",
-			title: nil,
-			uid: "99C8F263-29B2-4DAC-97C4-45B4E066C86D",
-			upd: nil,
-			will: [
-			],
-		},
 		##############  Israel Packard
 		p0689: %{
 			also_known_as: nil,
@@ -48205,7 +48126,7 @@
 			family_of_procreation: [
 				:f287,
 			],
-			father: :p0749,
+			father: nil,
 			former_name: nil,
 			given_name: "Samuel",
 			graduation: [
@@ -48223,7 +48144,7 @@
 			],
 			mh_id: "I955",
 			mh_name: "Samuel /Packard/",
-			mother: :p0752,
+			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -74379,85 +74300,6 @@
 			surname: "Winchester",
 			title: nil,
 			uid: "17D688F0-3F65-4651-91FD-EF6A94D092B3",
-			upd: nil,
-			will: [
-			],
-		},
-		##############  Mary Wither
-		p0752: %{
-			also_known_as: nil,
-			baptism: nil,
-			birth_date: nil,
-			birth_note: nil,
-			birth_place: nil,
-			birth_source: nil,
-			birth_year: "?",
-			buried: nil,
-			census: [
-			],
-			christening: nil,
-			death_age: nil,
-			death_cause: nil,
-			death_date: nil,
-			death_note: nil,
-			death_place: nil,
-			death_source: nil,
-			death_year: "?",
-			description: nil,
-			education: [
-			],
-			emigration: [
-			],
-			event: [
-			],
-			family_of_origin: nil,
-			family_of_procreation: [
-				:f306,
-			],
-			father: nil,
-			former_name: nil,
-			given_name: "Mary",
-			graduation: [
-			],
-			id: :p0752,
-			immigration: nil,
-			label: "gen10.MPMMMPMPPM.Mary_Wither",
-			links: %{
-			},
-			married_name: nil,
-			mh_famc: nil,
-			mh_famc2: nil,
-			mh_fams: [
-				"F334",
-			],
-			mh_id: "I1010",
-			mh_name: "Mary /Wither/",
-			mother: nil,
-			name_prefix: nil,
-			name_suffix: nil,
-			naturalized: nil,
-			nickname: nil,
-			notes: [
-			],
-			occupation: [
-			],
-			ordained: [
-			],
-			probate: nil,
-			relation_list: [
-				["M", "P", "M", "M", "M", "P", "M", "P", "P", "M"],
-			],
-			religion: nil,
-			residence: [
-			],
-			rin: "MH:I1010",
-			sex: "F",
-			ship: :parent,
-			sources: [
-			],
-			surname: "Wither",
-			title: nil,
-			uid: "0A208E33-1538-4E1F-AA9A-A9BA97CFDA2C",
 			upd: nil,
 			will: [
 			],
