@@ -47974,7 +47974,7 @@
 			],
 			id: :p0386,
 			immigration: nil,
-			label: "gen7.MPMMMPM.Abigail_Packard",
+			label: "gen8.MPMMMMPM.Abigail_Packard",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Abigail_Packard_%286%29",
 			},
@@ -47999,7 +47999,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "M"],
+				["M", "P", "M", "M", "M", "M", "P", "M"],
 			],
 			religion: nil,
 			residence: [
