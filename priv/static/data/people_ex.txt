@@ -17283,7 +17283,7 @@
 			],
 			id: :p0557,
 			immigration: nil,
-			label: "gen9.MPMMPPPMM.Grace_Cole",
+			label: "gen10.MPMMMPPPMM.Grace_Cole",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Grace_Unknown_%28271%29",
 			},
@@ -17308,7 +17308,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P", "P", "M", "M"],
+				["M", "P", "M", "M", "M", "P", "P", "P", "M", "M"],
 			],
 			religion: nil,
 			residence: [
