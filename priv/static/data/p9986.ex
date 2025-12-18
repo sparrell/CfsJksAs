@@ -1,19 +1,19 @@
-		##############  Frances A Fisher
-		p9987: %{
+		##############  Frances Father Unknown-*
+		p9986: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "1835",
+			birth_date: nil,
 			birth_note: nil,
-			birth_place: "Maine",
+			birth_place: nil,
 			birth_source: nil,
-			birth_year: "1835",
+			birth_year: "?",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "?",
+			death_date: nil,
 			death_note: nil,
 			death_place: nil,
 			death_source: nil,
@@ -28,16 +28,15 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :p0188,
+			father: nil,
 			former_name: nil,
-			given_name: "Frances A",
+			given_name: "Frances Father",
 			graduation: [
 			],
-			id: :p9987,
+			id: :p9986,
 			immigration: nil,
-			label: "gen3.MPM.Frances_A_Fisher",
+			label: "gen3.MPP.Frances_Father_Unknown".
 			links: %{
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500060/frances-a-fisher",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -45,8 +44,8 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Frances A /Fisher/",
-			mother: :p0189,
+			mh_name: "Frances Father /Unknown/",
+			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -59,16 +58,16 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M"],
+				["M", "P", "P"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "F",
+			sex: "M",
 			sources: [
 			],
-			surname: "Fisher",
+			surname: "Unknown-*",
 			title: nil,
 			uid: nil,
 			upd: nil,
