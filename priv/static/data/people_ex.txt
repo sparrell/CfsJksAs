@@ -1683,7 +1683,7 @@
 			],
 			id: :p0679,
 			immigration: nil,
-			label: "gen6.MPMMPP.Ebenezer_Andrews",
+			label: "gen7.MPMMMPP.Ebenezer_Andrews",
 			links: %{
 				werelate: "https://www.werelate.org/wiki/Person:Ebenezer_Andrews_%285%29",
 			},
@@ -1708,7 +1708,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "P", "P"],
+				["M", "P", "M", "M", "M", "P", "P"],
 			],
 			religion: nil,
 			residence: [
