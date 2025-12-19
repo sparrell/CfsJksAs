@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1594
-
 * Birthplace: Southwark, Surrey, England, UK
-
 * Death: 23 DEC 1648
-
 * Deathplace: Weymouth, Norfolk, Massachusetts, USA
-
 * Age at Death: About 53-54
-
 
 
 == Ship
@@ -55,14 +49,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0695http://localhost:4000/person?p=p
 
 == Other
 emigration:  arr. Plymouth on the "Fortune" from London
-<p>
-2 DATE NOV 1621
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE About 26-27
-</p>
 
+* DATE NOV 1621
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE About 26-27
 occupation: "Fellmonger" ( Leather tanner)
-
 
 == Sources
 

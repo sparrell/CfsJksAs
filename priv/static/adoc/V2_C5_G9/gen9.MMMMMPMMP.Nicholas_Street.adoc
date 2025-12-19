@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 14 JUL 1677
-
 * Birthplace: Wallingford, New Haven, Connecticut, USA
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 
 
 == Family
@@ -59,17 +55,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0289http://localhost:4000/person?p=p
 
 == Other
 event:  _ELEC of Street, Nicholas - Representative in Assembly for Groton
-<p>
-2 TYPE _ELEC
-2 DATE 1715
-2 AGE 37-38
-</p>
 
+* TYPE _ELEC
+
+* DATE 1715
+
+* AGE 37-38
 occupation: Tailor
-<p>
-2 PLAC Groton, New London, Connecticut, USA
-</p>
 
+* PLAC Groton, New London, Connecticut, USA
 
 == Sources
 

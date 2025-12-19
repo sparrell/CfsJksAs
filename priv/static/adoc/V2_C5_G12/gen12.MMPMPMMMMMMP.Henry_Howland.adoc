@@ -7,30 +7,23 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 25 NOV 1604
-
 * Birthplace: Fenstanton, Huntingdonshire, England, UK
-
 * Christening: 
-<p>
-2 DATE 25 NOV 1604
-2 PLAC Fen Stanton, Huntingdonshire, England
-2 AGE 0
-</p>
 
+* DATE 25 NOV 1604
+
+* PLAC Fen Stanton, Huntingdonshire, England
+
+* AGE 0
 * Death: 17 JAN 1671
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Buried: 
-<p>
-2 DATE ABT 20 JAN 1671
-2 PLAC Duxbury, Plymouth, Massachusetts Bay, British Colonial America
-</p>
 
+* DATE ABT 20 JAN 1671
+
+* PLAC Duxbury, Plymouth, Massachusetts Bay, British Colonial America
 * Age at Death: 66
-
 
 
 == Ship
@@ -70,80 +63,79 @@ https://cfsjksas.gigalixirapp.com/person?p=p0033http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Arrival
-2 DATE 1624
-2 PLAC Massachusetts
-2 AGE 19-20
-</p>
 
-<p>
-2 TYPE Civil
-2 PLAC Bristol County
-</p>
- Age: 29
-<p>
-2 TYPE Departure
-2 DATE 1632
-2 AGE 27-28
-</p>
- Quaker
-<p>
-2 TYPE Church
-</p>
+* TYPE Arrival
 
+* DATE 1624
+
+* PLAC Massachusetts
+
+* AGE 19-20
+
+* TYPE Civil
+
+* PLAC Bristol County Age: 29
+
+* TYPE Departure
+
+* DATE 1632
+
+* AGE 27-28 Quaker
+
+* TYPE Church
 immigration: to be with his brother John
-<p>
-2 DATE FEB 1633
-2 PLAC Plymouth, Plymouth, Massachusetts, United States
-2 AGE 28
-</p>
 
+* DATE FEB 1633
+
+* PLAC Plymouth, Plymouth, Massachusetts, United States
+
+* AGE 28
 notes: Henry was the brother of John Howland who came on the Mayflower
-
 occupation: Became Constable of Duxbury
-<p>
-2 DATE 5 JAN 1636
-2 AGE 31
-</p>
-Occupation: yeoman.
-constable and surveyor of highways
-draper, constable, grand juror, road surveyor, farmer
 
+* DATE 5 JAN 1636
+
+* AGE 31Occupation: yeoman.constable and surveyor of highwaysdraper, constable, grand juror, road surveyor, farmer
 religion: Quaker
-
 residence: 
-<p>
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 Dartmouth, Massachusetts, United States
-3 ADR2 Dartmouth, Massachusetts, United States
-</p>
 
-<p>
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 Duxbury, Massachusetts, United States
-3 ADR2 Duxbury, Massachusetts, United States
-</p>
+* DATE 1635
 
-<p>
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 New England
-3 ADR2 Dartmouth, Bristol, Massachusetts Bay, British Colonial America
-</p>
+* AGE 30-31
 
-<p>
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR2 Duxbury, Plymouth, Massachusetts Bay, British Colonial America
-</p>
+* ADDR
 
+* ADR1 Dartmouth, Massachusetts, United States
+
+* ADR2 Dartmouth, Massachusetts, United States
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR1 Duxbury, Massachusetts, United States
+
+* ADR2 Duxbury, Massachusetts, United States
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR1 New England
+
+* ADR2 Dartmouth, Bristol, Massachusetts Bay, British Colonial America
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR2 Duxbury, Plymouth, Massachusetts Bay, British Colonial America
 
 == Sources
 

@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 31 MAY 1697
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 26 AUG 1744
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: 47
-
 * Death Cause: Sunstroke
-
 
 
 == Family
@@ -63,10 +56,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0896http://localhost:4000/person?p=p
 
 == Other
 event:  Sunstroke
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 
 == Sources
 

@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 18 APR 1776
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 25 MAY 1866
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-</p>
 
+* PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
 * Age at Death: 90
-
 
 
 == Family
@@ -53,12 +45,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0551http://localhost:4000/person?p=p
 
 == Other
 event:  Buried Norwell Center Cemetery
-<p>
-2 TYPE Fact 7
-</p>
 
+* TYPE Fact 7
 notes: Preferred to be called "Betsy"
-
 
 == Sources
 

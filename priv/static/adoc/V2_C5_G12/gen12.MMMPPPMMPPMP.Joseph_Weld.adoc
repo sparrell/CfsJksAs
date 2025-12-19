@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1600
-
 * Birthplace: Sudbury, Suffolk, England, UK
-
 * Death: AFT APR 1646
-
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: About 45-46
-
 
 
 == Ship
@@ -72,11 +66,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0012http://localhost:4000/person?p=p
 
 == Other
 emigration:  Suffolk to Boston
-<p>
-2 DATE 1635
-2 AGE About 34-35
-</p>
 
+* DATE 1635
+
+* AGE About 34-35
 
 == Sources
 

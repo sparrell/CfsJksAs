@@ -7,15 +7,10 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Brewster
-
 * Birthplace: England, UK
-
 * Death: 17 APR 1627
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -226,7 +221,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0520http://localhost:4000/person?p=p
 
 == Other
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-
 
 == Sources
 

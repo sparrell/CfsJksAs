@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 14 JUN 1635
-
 * Birthplace: Weymouth, Norfolk, Massachusetts, USA
-
 * Death: BEF 31 JAN 1699
-
 * Deathplace: Taunton, Bristol, Massachusetts, USA
-
 * Age at Death: About 63
-
 
 
 == Family
@@ -51,26 +45,27 @@ https://cfsjksas.gigalixirapp.com/person?p=p0690http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 29 MAY 1670
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE 34
-</p>
- Moved toTaunton
-<p>
-2 TYPE Move
-2 DATE 1668
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE 32-33
-</p>
 
+* TYPE Freeman
+
+* DATE 29 MAY 1670
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE 34 Moved toTaunton
+
+* TYPE Move
+
+* DATE 1668
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE 32-33
 probate: Property division filed by wife and son
-<p>
-2 DATE 31 JAN 1689
-2 AGE 53
-</p>
 
+* DATE 31 JAN 1689
+
+* AGE 53
 
 == Sources
 

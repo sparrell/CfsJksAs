@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 25 MAY 1759
-
 * Birthplace: Belchertown, Hampshire, Massachusetts, USA
-
 * Death: 16 MAY 1832
-
 * Deathplace: Belchertown, Hampshire, Massachusetts, USA
-
 * Age at Death: 72
-
 
 
 == Family
@@ -48,14 +42,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0253http://localhost:4000/person?p=p
 
 == Other
 event:  Enlisted as Private, Revolutionary War
-<p>
-2 TYPE Military Service
-2 DATE 8 MAY 1777
-2 AGE 17
-</p>
 
+* TYPE Military Service
+
+* DATE 8 MAY 1777
+
+* AGE 17
 notes: 1798 Tax Assessment - Belchertown  - 18 acre farm and dwelling
-
 
 == Sources
 

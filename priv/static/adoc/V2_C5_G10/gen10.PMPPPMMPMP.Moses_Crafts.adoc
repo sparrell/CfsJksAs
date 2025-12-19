@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 APR 1641
-
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Death: 30 DEC 1718
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: 77
-
 
 
 == Family
@@ -52,7 +46,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0809http://localhost:4000/person?p=p
 
 == Other
 notes: 1672 -  Moses name is on a subscription list to build anew meeting house in Roxbury MA. 1673 - Moses was granted a licence to keep an "Ordinary"in Deerfild. 1675 -"King Phillips War" - Indians attack Deerfield. Residents including Craft family abandon Deerfield and move to Hatfield. 1678 - Craft family leaves Hatfield and moves to Branford CT. 1683 - Moses Craft is living in Weathersfield when he sells his land inBranford.
-
 
 == Sources
 

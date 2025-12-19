@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 23 NOV 1733
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 * Death: BEF 13 AUG 1812
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 * Age at Death: About 78
-
 
 
 == Family
@@ -49,7 +43,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0124http://localhost:4000/person?p=p
 
 == Other
 notes: Also spelled Jeneverith and Zervirith
-
 
 == Sources
 

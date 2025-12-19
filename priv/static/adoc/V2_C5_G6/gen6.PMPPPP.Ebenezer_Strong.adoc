@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1 MAY 1750
-
 * Birthplace: Bolton, Tolland, Connecticut, USA
-
 * Death: 3 NOV 1824
-
 * Deathplace: Bolton, Tolland, Connecticut, USA
-
 * Age at Death: 74
-
 
 
 == Family
@@ -48,7 +42,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0163http://localhost:4000/person?p=p
 
 == Other
 occupation: Farmer
-
 
 == Sources
 

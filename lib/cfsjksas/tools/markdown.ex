@@ -406,14 +406,11 @@ end
 	end
 
 	def linify(text) do
-		[h | t] = String.split(text, "\n", parts: 2)
-		h
-		<> case t do
-			[] ->
-				"\n"
-			_ ->
-				"\n<p>\n" <> List.first(t) <> "\n</p>\n"
-		end
+		text
+		|> String.replace("\r\n2 ", "\n\n* ")
+		|> String.replace("\n2 ", "\n\n* ")
+		|> String.replace("\r\n3 ", "\n\n* ")
+		|> String.replace("\n3 ", "\n\n* ")
 	end
 
 	@doc """

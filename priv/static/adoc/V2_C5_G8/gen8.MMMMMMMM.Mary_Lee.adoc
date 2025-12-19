@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 30 JAN 1707
-
 * Birthplace: Town of Lyme, Connecticut, USA
-
 
 
 == Family
@@ -55,7 +52,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0274http://localhost:4000/person?p=p
 
 == Other
 notes: Sister of Benjamin Lee of Lyme.
-
 
 == Sources
 

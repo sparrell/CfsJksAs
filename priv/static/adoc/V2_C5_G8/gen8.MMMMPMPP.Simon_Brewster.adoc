@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 10 JUN 1720
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 * Death: 29 JUN 1801
-
 * Deathplace: Town of Griswold, Connecticut, USA
-
 * Age at Death: 81
-
 
 
 == Family
@@ -61,14 +55,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0728http://localhost:4000/person?p=p
 
 == Other
 event:  _ELEC of Brewster, Simon - Representative in Assembly for Preston thru 1769
-<p>
-2 TYPE _ELEC
-2 DATE 1764
-2 AGE 43-44
-</p>
 
+* TYPE _ELEC
+
+* DATE 1764
+
+* AGE 43-44
 notes: Representative for Preston in Connecticut State assembly 1764-1769.
-
 
 == Sources
 

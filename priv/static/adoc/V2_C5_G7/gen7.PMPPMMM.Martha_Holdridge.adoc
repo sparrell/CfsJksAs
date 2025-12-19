@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Paine
-
 * Birth: 1741
-
 * Birthplace: Canterbury Conn
-
 * Death: 9 DEC 1775
-
 * Age at Death: 33-34
-
 
 
 == Family
@@ -49,12 +43,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1257http://localhost:4000/person?p=p
 
 == Sources
 * @S51@
-<p>
-2 PAGE Martha Paine (born Holdridge)
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE Martha Paine (born Holdridge)
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Person Discovery
 

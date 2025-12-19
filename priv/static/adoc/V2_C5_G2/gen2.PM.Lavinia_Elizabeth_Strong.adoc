@@ -7,21 +7,13 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 23 NOV 1875
-
 * Birthplace: Worcester, Worcester, Massachusetts, USA
-
 * Death: 27 AUG 1941
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Buried: Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 65
-
 * Death Cause: Cancer
-
 
 
 == Family
@@ -48,34 +40,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0006http://localhost:4000/person?p=p
 
 == Other
 census: DATE 1910
-<p>
 
 	PLAC Worcester Ward 7, Worcester, Massachusetts, USA
 
 	AGE 34-35
 
-
-</p>
 	Living in Worcester with parents
-<p>
 
 DATE 1880
 
 	AGE 4-5
-</p>
-
 event:  Cause of death: Cancer
-<p>
 
-
-</p>
  Regent Worcester Chapter D.A.R.
-<p>
-
-</p>
 
 notes: Grandma Sparrell (Lavinia Elizabeth Strong) was the daughter of Albert Randolph Strong, foreman of the Worcester roundhouse of the Worcester &amp; Nashua Railroad.
-<p>
 
 She was Regent of the Colonel Bigelow Chapter of the Daughters of the American Revolution in Worcester.
 
@@ -84,8 +63,6 @@ She was active in the Women's Association of the Universalist Church and was muc
 She was also active in the Worcester Chapter of The Red Cross and the First Universalist Church.
 
 Birth record in Mass Vital Records Vol 270 Page 427 at bottom of page. Page is partially torn but record is clear.
-</p>
-
 
 == Sources
 

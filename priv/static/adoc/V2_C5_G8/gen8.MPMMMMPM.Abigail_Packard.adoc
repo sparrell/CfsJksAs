@@ -9,7 +9,6 @@ Narrative TBD
 * Sex: F
 
 
-
 == Family
 * Mother: brickwall
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMMPMP.Israel_Packard.adoc[Israel Packard (1645 - 1680)]

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 12 SEP 1705
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Death: AFT 1743
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Age at Death: About 37-38
-
 
 
 == Family
@@ -61,19 +55,17 @@ https://cfsjksas.gigalixirapp.com/person?p=p0272http://localhost:4000/person?p=p
 
 == Other
 event:  Captain, 3rd Company, New London
-<p>
-2 TYPE Military Service
-2 DATE MAY 1741
-2 AGE 35
-</p>
 
+* TYPE Military Service
+
+* DATE MAY 1741
+
+* AGE 35
 occupation: Appointed ferry keeper
-<p>
-2 DATE 10 OCT 1740
-2 AGE 35
-</p>
-Farmer
 
+* DATE 10 OCT 1740
+
+* AGE 35Farmer
 
 == Sources
 

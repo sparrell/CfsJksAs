@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 10 FEB 1654
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Death: AFT APR 1724
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: About 70
-
 
 
 == Family
@@ -65,12 +59,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0419http://localhost:4000/person?p=p
 
 == Other
 event:  Private-King Phillips War
-<p>
-2 TYPE Military Service
-2 DATE 1676
-2 AGE 21-22
-</p>
 
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE 21-22
 
 == Sources
 

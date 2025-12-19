@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1614
-
 * Birthplace: Wiltshire, England, UK
-
 * Death: ABT 1690
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: About 75-76
-
 
 
 == Ship
@@ -70,42 +64,35 @@ https://cfsjksas.gigalixirapp.com/person?p=p0575http://localhost:4000/person?p=p
 
 == Other
 emigration:  Came in ship "Susan and Ellen"
-<p>
-2 DATE 1635
-2 AGE About 20-21
-</p>
 
+* DATE 1635
+
+* AGE About 20-21
 event:  Freeman of Ipswich MA
-<p>
-2 TYPE Fact 1
-2 DATE 13 MAR 1639
-2 AGE About 24-25
-</p>
- See Notes
-<p>
-2 TYPE Fact 2
-</p>
- See Notes
-<p>
-2 TYPE Fact 5
-</p>
- Sergeant of Militia
-<p>
-2 TYPE Military Service
-2 DATE JAN 1660
-2 AGE About 45-46
-</p>
- _ELEC of Belcher, Jeremiah to Selectman
-<p>
-2 TYPE _ELEC
-2 DATE 1665
-2 AGE About 50-51
-</p>
 
+* TYPE Fact 1
+
+* DATE 13 MAR 1639
+
+* AGE About 24-25 See Notes
+
+* TYPE Fact 2 See Notes
+
+* TYPE Fact 5 Sergeant of Militia
+
+* TYPE Military Service
+
+* DATE JAN 1660
+
+* AGE About 45-46 _ELEC of Belcher, Jeremiah to Selectman
+
+* TYPE _ELEC
+
+* DATE 1665
+
+* AGE About 50-51
 notes: Jonathan Belcher, appointed Royal governor of Massachusetts in 1731, was the grandson of Jeremiah Belcher and his first wife, Mary Clifford.
-
 occupation: Merchant
-
 
 == Sources
 

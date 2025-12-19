@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 1746
-
 * Birthplace: Sutton, Worcester, Massachusetts, USA
-
 * Death: 26 JUL 1813
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-</p>
 
+* PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
 * Age at Death: 66-67
-
 
 
 == Family
@@ -52,24 +44,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p1272http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMercy_Dudley_%284%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMercy_Dudley_%284%29:
 
 == Sources
 * @S102@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Mercy Willard (born Dudley)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1746&amp;lt;br&amp;gt;Marriage: Spouse: Isaac Willard - Sep 3 1768 - USA&amp;lt;br&amp;gt;Death: July 26 1813 - Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Burial: Hope Cemetery , Worcester, Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Husband: &lt;a&gt;Isaac Willard&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Mercy Willard (born Dudley)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1746&amp;lt;br&amp;gt;Marriage: Spouse: Isaac Willard - Sep 3 1768 - USA&amp;lt;br&amp;gt;Death: July 26 1813 - Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Burial: Hope Cemetery , Worcester, Worcester, Massachusetts, USA&amp;lt;br&amp;gt;Husband: &lt;a&gt;Isaac Willard&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Betty Bixbee (born Willard)&lt;/a&gt;, &lt;a&gt;Clark Willard&lt;/a&gt;, &lt;a&gt;Lucretia Willard&lt;/a&gt;, &lt;a&gt;Eunice Bellows (born Willard)&lt;/a&gt;
 * @S60@
-<p>
-2 QUAY 0
-2 DATA
-3 TEXT Tombstone In Memory of 
+
+* QUAY 0
+
+* DATA
+
+* TEXT Tombstone In Memory of 
 
  Mrs. Mercy Willard 
 
@@ -80,6 +72,4 @@ residence:
  who died 
 
  July 26, 1813, Æt. 67
-</p>
-
 

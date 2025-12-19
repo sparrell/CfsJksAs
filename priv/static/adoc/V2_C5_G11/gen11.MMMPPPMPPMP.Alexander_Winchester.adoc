@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: England, UK
-
 * Death: 16 JUL 1647
-
 * Deathplace: Rehoboth, Bristol, Massachusetts, USA
-
 
 
 == Ship
@@ -66,29 +62,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p0885http://localhost:4000/person?p=p
 
 == Other
 emigration:  arr Boston in the ship Defense, 3 Oct., 1635
-<p>
-2 DATE 1635
-</p>
 
+* DATE 1635
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 7 DEC 1636
-2 PLAC Boston, Suffolk, Massachusetts, USA
-</p>
- _ELEC of Winchester, Alexander - Representative from Braintree
-<p>
-2 TYPE _ELEC
-2 DATE 1641
-</p>
- _ELEC of Winchester, Alexander - Selectman of Rehoboth
-<p>
-2 TYPE _ELEC
-2 DATE 1647
-</p>
 
+* TYPE Freeman
+
+* DATE 7 DEC 1636
+
+* PLAC Boston, Suffolk, Massachusetts, USA _ELEC of Winchester, Alexander - Representative from Braintree
+
+* TYPE _ELEC
+
+* DATE 1641 _ELEC of Winchester, Alexander - Selectman of Rehoboth
+
+* TYPE _ELEC
+
+* DATE 1647
 notes: Came over in the train of Sir Henry Vane, Governor of Massachusetts BayColony.
-
 
 == Sources
 

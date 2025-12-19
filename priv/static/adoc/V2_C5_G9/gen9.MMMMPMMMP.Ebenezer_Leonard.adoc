@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 17 MAY 1709
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 
 
 == Family
@@ -57,18 +54,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0466http://localhost:4000/person?p=p
 
 == Other
 event:  Captain of Militia - Pequot War
-<p>
-2 TYPE Military Service
-2 DATE 1741
-2 AGE 31-32
-</p>
- _ELEC of Leonard, Ebenezer - Connecticut Legislature
-<p>
-2 TYPE _ELEC
-2 DATE 1744
-2 AGE 34-35
-</p>
 
+* TYPE Military Service
+
+* DATE 1741
+
+* AGE 31-32 _ELEC of Leonard, Ebenezer - Connecticut Legislature
+
+* TYPE _ELEC
+
+* DATE 1744
+
+* AGE 34-35
 
 == Sources
 

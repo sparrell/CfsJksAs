@@ -7,27 +7,17 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1595
-
 * Birthplace: England, UK
-
 * Birth source: @S18@
-<p>
-3 QUAY 2
-</p>
 
+* QUAY 2
 * Death: 1616
-
 * Deathplace: Farmington, Hartford, Connecticut, USA
-
 * Age at Death: 20-21
-
 * Death Source: @S18@
-<p>
-3 QUAY 2
-</p>
 
+* QUAY 2
 
 
 == Ship
@@ -84,8 +74,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0928http://localhost:4000/person?p=p
 
 == Sources
 * @S18@
-<p>
-2 QUAY 2
-</p>
 
+* QUAY 2
 

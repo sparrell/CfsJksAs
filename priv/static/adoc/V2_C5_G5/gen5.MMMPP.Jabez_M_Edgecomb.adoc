@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1791
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 1865
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 73-74
-
 
 
 == Family
@@ -55,12 +49,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0747http://localhost:4000/person?p=p
 
 == Other
 occupation: Farmer in Groton (US Census)
-<p>
-2 DATE 1860
-2 PLAC Groton, New London, Connecticut, USA
-2 AGE 68-69
-</p>
 
+* DATE 1860
+
+* PLAC Groton, New London, Connecticut, USA
+
+* AGE 68-69
 
 == Sources
 

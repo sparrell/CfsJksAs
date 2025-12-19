@@ -9,7 +9,6 @@ Narrative TBD
 * Sex: M
 
 
-
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -38,12 +37,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0688http://localhost:4000/person?p=p
 
 == Other
 event:  See Notes
-<p>
-2 TYPE Misc
-</p>
 
+* TYPE Misc
 notes: Thomas Jones left a negro girl in his will to his daughter Naomi.
-
 
 == Sources
 

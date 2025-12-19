@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1584
-
 * Birthplace: Hawkhurst, Kent, England, UK
-
 * Death: 1669
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 84-85
-
 
 
 == Ship
@@ -73,13 +67,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0222http://localhost:4000/person?p=p
 
 == Other
 emigration:  Sailed from Wapping in ship Increase
-<p>
-2 DATE APR 1635
-2 AGE About 50-51
-</p>
 
+* DATE APR 1635
+
+* AGE About 50-51
 occupation: Linen Weaver (in England)
-
 
 == Sources
 

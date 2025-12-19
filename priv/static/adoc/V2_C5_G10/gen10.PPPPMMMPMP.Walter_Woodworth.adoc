@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Ashford, Kent, England, UK
-
 * Death: BEF 2 MAR 1686
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -51,11 +47,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0224http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE BEF 2 JAN 1634
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-</p>
 
+* DATE BEF 2 JAN 1634
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
 
 == Sources
 

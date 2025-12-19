@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1668
-
 * Birthplace: Ipswich, Essex, Massachusetts, USA
-
 * Death: 20 OCT 1748
-
 * Deathplace: Plainfield, Windham, Connecticut, USA
-
 * Age at Death: About 79-80
-
 
 
 == Family
@@ -65,30 +59,29 @@ https://cfsjksas.gigalixirapp.com/person?p=p0446http://localhost:4000/person?p=p
 
 == Other
 event:  Sergeant of Militia
-<p>
-2 TYPE Military Service
-</p>
- _ELEC of Fellows, John - Delegate to General Court for Plainfield
-<p>
-2 TYPE _ELEC
-2 DATE 1708
-2 AGE About 39-40
-</p>
 
+* TYPE Military Service _ELEC of Fellows, John - Delegate to General Court for Plainfield
+
+* TYPE _ELEC
+
+* DATE 1708
+
+* AGE About 39-40
 
 == Sources
 * @S30@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-10013/find-a-grave?s=20674952&itemId=338713505-&action=showRecord&indId=individual-20674952-15000864
-2 QUAY 4
-2 DATA
-3 TEXT John Fellows
+
+* PAGE http://www.myheritage.com/research/collection-10013/find-a-grave?s=20674952&itemId=338713505-&action=showRecord&indId=individual-20674952-15000864
+
+* QUAY 4
+
+* DATA
+
+* TEXT John Fellows
 
 Birth: Oct 20 1668
 
 Death: Oct 20 1748
 
 Cemetery: Old Plainfield Cemetery, Connecticut, USA
-</p>
-
 

@@ -7,29 +7,21 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 NOV 1737
-
 * Birthplace: Canterbury, Windham, Connecticutt.
-
 * Christening: 
-<p>
-2 DATE 13 JUL 1751
-2 PLAC Amenia, Dutchess, Ny
-2 AGE 13
-</p>
 
+* DATE 13 JUL 1751
+
+* PLAC Amenia, Dutchess, Ny
+
+* AGE 13
 * Death: 6 JUN 1822
-
 * Deathplace: Amenia, Dutchess, New York
-
 * Buried: 
-<p>
-2 PLAC Amenia, Dutchess, New York
-</p>
 
+* PLAC Amenia, Dutchess, New York
 * Age at Death: 84
-
 
 
 == Family
@@ -63,12 +55,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1256http://localhost:4000/person?p=p
 
 == Sources
 * @S51@
-<p>
-2 PAGE Barnabas Paine
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE Barnabas Paine
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Person Discovery
 

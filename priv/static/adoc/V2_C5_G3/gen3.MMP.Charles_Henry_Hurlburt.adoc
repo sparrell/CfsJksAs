@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 AUG 1849
-
 * Birthplace: Oxford, Worcester, Massachusetts, USA
-
 * Death: 1930
-
 * Deathplace: Uncasville, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 DATE 1930
-2 PLAC Cedar Grove Cemetery, New London, New London, Connecticut, USA
-</p>
 
+* DATE 1930
+
+* PLAC Cedar Grove Cemetery, New London, New London, Connecticut, USA
 * Age at Death: 80-81
-
 
 
 == Family
@@ -51,51 +44,50 @@ https://cfsjksas.gigalixirapp.com/person?p=p0071http://localhost:4000/person?p=p
 
 == Other
 census:  RR Agent
-<p>
-2 DATE 1900
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 50-51
-</p>
- RR Agent Boston - Residence Dorchester
-<p>
-2 DATE 1910
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE 60-61
-</p>
- US Census listed under parents in Oxford MA
-<p>
-2 DATE 1850
-2 PLAC Oxford, Worcester, Massachusetts, USA
-2 AGE 0-1
-</p>
 
+* DATE 1900
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 50-51 RR Agent Boston - Residence Dorchester
+
+* DATE 1910
+
+* PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+
+* AGE 60-61 US Census listed under parents in Oxford MA
+
+* DATE 1850
+
+* PLAC Oxford, Worcester, Massachusetts, USA
+
+* AGE 0-1
 notes: The Worcester and Nashua Railroad became the Worcester Nashua and Rochester in 1871. acquired by the Boston &amp; Maine in 1886. It appears that he started out working for the Worcester and Norwich RR before 1870, but in 1876 he was in Rochester working for the Worcester Nashua and Rochester and he remainded with them and the B&amp;M until he retired. In 1894, The family belonged to the Plymouth Congregational Church, 917 Main St. Worcester. They lived at 724 Main St.
-
 occupation: Clerk R.R. Office -
-<p>
-2 DATE 1870
-2 PLAC Uncasville, New London, Connecticut, USA
-2 AGE 20-21
-</p>
-Clerk, Freight House, W&N RR
-<p>
-2 DATE 1873
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 23-24
-</p>
-Clerk, W&N RR
-<p>
-2 DATE 1874
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 24-25
-</p>
-RR Agent
-<p>
-2 DATE 1876
-2 PLAC Rochester, Strafford, New Hampshire, USA
-2 AGE 26-27
-</p>
 
+* DATE 1870
+
+* PLAC Uncasville, New London, Connecticut, USA
+
+* AGE 20-21Clerk, Freight House, W&N RR
+
+* DATE 1873
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 23-24Clerk, W&N RR
+
+* DATE 1874
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 24-25RR Agent
+
+* DATE 1876
+
+* PLAC Rochester, Strafford, New Hampshire, USA
+
+* AGE 26-27
 
 == Sources
 

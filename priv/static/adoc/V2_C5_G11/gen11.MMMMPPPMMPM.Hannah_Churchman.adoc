@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birthplace: England, UK
-
 * Death: AFT 1670
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 
 
 == Ship
@@ -97,7 +93,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0349http://localhost:4000/person?p=p
 
 == Other
 notes: "Widow Hannah came with her son Josiah to Stoningtonand lived to a great age & was drowned in a small brook having only her face in it."
-
 
 == Sources
 

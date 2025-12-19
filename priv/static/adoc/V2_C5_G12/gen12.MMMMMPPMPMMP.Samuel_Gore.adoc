@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: London, England, UK
-
 * Death: 19 MAY 1643
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 
 
 == Ship
@@ -68,7 +64,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0517http://localhost:4000/person?p=p
 
 == Other
 notes: From the records of the Grocer's Company of London: Samuel Goore became free of the Grocer's Co. London 16 May 1622; late apprentice of Henry Dodd.
-
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1605
-
 * Birthplace: Felsted, Essex, England, UK
-
 * Death: 1633
-
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 27-28
-
 
 
 == Ship
@@ -70,19 +64,19 @@ https://cfsjksas.gigalixirapp.com/person?p=p0368http://localhost:4000/person?p=p
 
 == Other
 emigration:  Arr. Boston on ship "Lyon"
-<p>
-2 DATE 2 NOV 1631
-2 AGE 25-26
-</p>
 
+* DATE 2 NOV 1631
+
+* AGE 25-26
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 7 AUG 1632
-2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
-2 AGE 26-27
-</p>
 
+* TYPE Freeman
+
+* DATE 7 AUG 1632
+
+* PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
+
+* AGE 26-27
 
 == Sources
 

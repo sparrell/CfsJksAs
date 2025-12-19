@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 14 JAN 1600
-
 * Birthplace: Derby, Derbyshire, England, UK
-
 * Death: 4 MAR 1678
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 * Age at Death: About 78
-
 
 
 == Ship
@@ -188,13 +182,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0498http://localhost:4000/person?p=p
 
 == Other
 emigration:  Arrived Plymouth (see notes)
-<p>
-2 DATE 1623
-2 AGE About 22-23
-</p>
 
+* DATE 1623
+
+* AGE About 22-23
 notes: Lucretia accompanied her older brother John and his family in the ship "Anne" from England to Plymouth Colony in1623.
-
 
 == Sources
 

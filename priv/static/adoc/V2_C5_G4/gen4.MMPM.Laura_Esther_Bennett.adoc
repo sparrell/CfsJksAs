@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 14 AUG 1827
-
 * Birthplace: Griswold, Connecticut, USA
-
 
 
 == Family
@@ -40,7 +37,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0100http://localhost:4000/person?p=p
 
 == Other
 notes: 1850 US Census - Listed with Husband, Charles( 28) and son Charles H. (1) as residing in Oxford MA (her age 21).
-
 
 == Sources
 

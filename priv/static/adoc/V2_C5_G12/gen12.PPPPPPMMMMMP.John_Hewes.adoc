@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Wales, UK
-
 * Death: AFT 1673
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -53,18 +49,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0362http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 3 DEC 1639
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-</p>
- Constable
-<p>
-2 TYPE Appointed
-2 DATE 1659
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-</p>
 
+* TYPE Freeman
+
+* DATE 3 DEC 1639
+
+* PLAC Scituate, Plymouth, Massachusetts, USA Constable
+
+* TYPE Appointed
+
+* DATE 1659
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
 
 == Sources
 

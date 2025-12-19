@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 24 OCT 1736
-
 * Birthplace: Woodbury, Litchfield, Connecticut, USA
-
 * Death: ABT 1828
-
 * Deathplace: Underhill, Chittenden, Vermont, USA
-
 * Age at Death: About 91-92
-
 
 
 == Family
@@ -48,18 +42,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0108http://localhost:4000/person?p=p
 
 == Other
 event:  From Woodbury CT to Underhill VT
-<p>
-2 TYPE Move
-2 DATE ABT 1786
-2 AGE About 49-50
-</p>
- Revolutionary War Veteran (Notes)
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Move
+
+* DATE ABT 1786
+
+* AGE About 49-50 Revolutionary War Veteran (Notes)
+
+* TYPE Military Service
 notes: Adam Hurlburt was captain of an alarm company that turned out to repel the British attack on New Haven. During the latter part of the war he was stationed in Vermont near Lake Champlain and after the war was over (about 1786) he brought his family to Underhill VT. Adam was one of the eight men who founded the first church (now the United Church) in Underhill.
-
 
 == Sources
 

@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Stowe
-
 * Birth: 1 NOV 1590
-
 * Birthplace: Cranbrook, Kent, England
-
 * Death: 21 AUG 1638
-
 * Deathplace: Roxbury, Suffolk, Massachusetts Bay
-
 * Age at Death: 47
-
 
 
 == Ship
@@ -61,10 +54,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1286http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Nov 1 1590 - Cranbrook, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt ;br&amp;gt;Death: Aug 21 1638 - Roxbury, Suffolk, Massachusetts Bay&amp;lt;br&amp;gt;Father: John Bigge Briggs, Sr.&amp;lt;br&amp;gt;Mother: Rachel Bigge (born Martin Bigg)&amp;lt;br&amp;gt;Husband: John Stow Stowe&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br&amp ;gt;Siblings: Anna Bigg BiggeSmallhope Smalehope BiggJames Bigg BiggeJohn BiggThankful BiggPatience Foster (born Bigge Biggs)Samuel BriggsWilliam BriggsRachel Masters (born Bigge Starr)
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Nov 1 1590 - Cranbrook, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt ;br&amp;gt;Death: Aug 21 1638 - Roxbury, Suffolk, Massachusetts Bay&amp;lt;br&amp;gt;Father: John Bigge Briggs, Sr.&amp;lt;br&amp;gt;Mother: Rachel Bigge (born Martin Bigg)&amp;lt;br&amp;gt;Husband: John Stow Stowe&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br&amp ;gt;Siblings: Anna Bigg BiggeSmallhope Smalehope BiggJames Bigg BiggeJohn BiggThankful BiggPatience Foster (born Bigge Biggs)Samuel BriggsWilliam BriggsRachel Masters (born Bigge Starr)
 

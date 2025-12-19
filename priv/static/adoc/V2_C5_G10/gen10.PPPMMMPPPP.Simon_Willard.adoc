@@ -7,30 +7,23 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 7 APR 1605
-
 * Birthplace: Horsmonden, Kent, England
-
 * Baptism: 
-<p>
-2 DATE 7 APR 1605
-2 PLAC Horsemonden, Kent, England
-2 AGE 0
-</p>
 
+* DATE 7 APR 1605
+
+* PLAC Horsemonden, Kent, England
+
+* AGE 0
 * Death: 24 APR 1676
-
 * Deathplace: Charlestown, Suffolk, Massachusetts, Colonial America
-
 * Buried: 
-<p>
-2 DATE 27 APR 1676
-2 PLAC Boston, Suffolk County, Massachusetts, United States
-</p>
 
+* DATE 27 APR 1676
+
+* PLAC Boston, Suffolk County, Massachusetts, United States
 * Age at Death: 71
-
 
 
 == Ship
@@ -69,20 +62,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p1287http://localhost:4000/person?p=p
 
 == Other
 occupation: Major in the British Army, Commander-in-chief of Colony Forces, Governor's assistant
-
 residence: 
-<p>
-2 ADDR
-3 ADR1 Groton, Middlesex County, Massachusetts, United States
-</p>
 
+* ADDR
+
+* ADR1 Groton, Middlesex County, Massachusetts, United States
 
 == Sources
 * @S102@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Simon Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Alias name: Simeon Willard, The Pioneer of New England Shipping and Trading, Major Simon Williard, Major Simon Willard, Maj Simon Willard&amp;lt;br&amp;gt;Residence: Groton, Middlesex County, Massachusetts, United States&amp;lt;br&amp;gt;Birth: Apr 7 1605 - Horsmonden, Kent, England&amp;lt;br&amp;gt;Baptism: Apr 7 1605 - Horsemonden, Kent, England&amp;lt;br&amp;gt;Occupation: Major in the British Army, Commander-in-chief of Colony Forces, Governor&#039;s assistant&amp;lt;br&amp;gt;Marriage: Spouse: Mary Noyes (born Dunster) - 1652 - Lancaster, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Apr 24 1676 - Charlestown, Suffolk, Massachusetts, Colonial America&amp;lt;br&amp;gt;Burial: Apr 27 1676 - Boston, Suffolk County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Richard Willard&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Margery Willard (born Humphrey)&lt;/a&gt;&amp;lt;br&amp;gt;Wives: &lt;a&gt;Mary Willard (born Sharpe)&lt;/a&gt;, &lt;a&gt;Mary Noyes (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Willard (born Dunster)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Mary Edmunds (born Willard)&lt;/a&gt;, &lt;a&gt;Sarah Willard&lt;/a&gt;, &lt;a&gt;Elizabeth infant Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Elizabeth Blood (born Willard)&lt;/a& gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Samuel Symon Willard, Sr. VP Harvard Col.&lt;/a&gt;, &lt;a&gt;Abovehope Willard&lt;/a&gt;, &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Catherine Willard&lt;/a&gt;, &lt;a&gt;Margery Davis (born Willard)&lt;/aC &gt;, &lt;a&gt;Elizabeth Willard&lt;/a&gt;, &lt;a&gt;Mary (born Willard)&lt;/a&gt;
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Simon Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Alias name: Simeon Willard, The Pioneer of New England Shipping and Trading, Major Simon Williard, Major Simon Willard, Maj Simon Willard&amp;lt;br&amp;gt;Residence: Groton, Middlesex County, Massachusetts, United States&amp;lt;br&amp;gt;Birth: Apr 7 1605 - Horsmonden, Kent, England&amp;lt;br&amp;gt;Baptism: Apr 7 1605 - Horsemonden, Kent, England&amp;lt;br&amp;gt;Occupation: Major in the British Army, Commander-in-chief of Colony Forces, Governor&#039;s assistant&amp;lt;br&amp;gt;Marriage: Spouse: Mary Noyes (born Dunster) - 1652 - Lancaster, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Apr 24 1676 - Charlestown, Suffolk, Massachusetts, Colonial America&amp;lt;br&amp;gt;Burial: Apr 27 1676 - Boston, Suffolk County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Richard Willard&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Margery Willard (born Humphrey)&lt;/a&gt;&amp;lt;br&amp;gt;Wives: &lt;a&gt;Mary Willard (born Sharpe)&lt;/a&gt;, &lt;a&gt;Mary Noyes (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Willard (born Dunster)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Mary Edmunds (born Willard)&lt;/a&gt;, &lt;a&gt;Sarah Willard&lt;/a&gt;, &lt;a&gt;Elizabeth infant Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Elizabeth Blood (born Willard)&lt;/a& gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Samuel Symon Willard, Sr. VP Harvard Col.&lt;/a&gt;, &lt;a&gt;Abovehope Willard&lt;/a&gt;, &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Catherine Willard&lt;/a&gt;, &lt;a&gt;Margery Davis (born Willard)&lt;/aC &gt;, &lt;a&gt;Elizabeth Willard&lt;/a&gt;, &lt;a&gt;Mary (born Willard)&lt;/a&gt;
 

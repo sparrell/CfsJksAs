@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1665
-
 * Birthplace: Bristol, Gloucestershire, ENG
-
 * Christening: 
-<p>
-2 DATE 2 JUL 1665
-2 PLAC St. Thomas, Bristol
-2 AGE 0
-</p>
 
+* DATE 2 JUL 1665
+
+* PLAC St. Thomas, Bristol
+
+* AGE 0
 * Death: 17 JAN 1729
-
 * Deathplace: Salem, Essex, Massachusetts, USA
-
 * Age at Death: 63-64
-
 
 
 == Family
@@ -58,18 +52,17 @@ https://cfsjksas.gigalixirapp.com/person?p=p1209http://localhost:4000/person?p=p
 
 == Other
 event:  NP9H-PQ   D
-<p>
-2 TYPE Ancestral File Number
-</p>
 
+* TYPE Ancestral File Number
 
 == Sources
 * @S36@
-<p>
-2 QUAY 3
-2 DATA
-3 DATE 22 JUL 2015
-3 TEXT Added via an Instant Discovery™
-</p>
 
+* QUAY 3
+
+* DATA
+
+* DATE 22 JUL 2015
+
+* TEXT Added via an Instant Discovery™
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 17 JUN 1624
-
 * Birthplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Death: 20 FEB 1702
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Age at Death: 77
-
 
 
 == Family
@@ -52,7 +46,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1003http://localhost:4000/person?p=p
 
 == Other
 name_suffix: Jr.
-
 
 == Sources
 

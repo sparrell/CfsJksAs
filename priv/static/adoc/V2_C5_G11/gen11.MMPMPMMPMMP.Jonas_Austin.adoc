@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 3 DEC 1598
-
 * Birthplace: Staplehurst, Kent, England, UK
-
 * Death: 10 MAY 1676
-
 * Deathplace: Taunton, Bristol, Massachusetts, USA
-
 * Age at Death: 77
-
 
 
 == Ship
@@ -56,13 +50,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0554http://localhost:4000/person?p=p
 
 == Other
 emigration:  Sailed from Sandwich England in "Hercules"
-<p>
-2 DATE MAR 1634
-2 AGE 35
-</p>
 
+* DATE MAR 1634
+
+* AGE 35
 notes: EMIGRANTS IN THE HERCULES OF SANDWICH- of 200 tons, John Witherly, master, bound for "the plantations called New England in America, with certificates from the ministers where they last dwelt, of their conversation, and conformity to the orders and discipline of the church, and that they had taken the oath of allegiance and supremacy." Jonas Austen, of Tenterden, Constance, his wife, and four children.  Certificates from Mr. Jno. Gee, Vicar of Tenterden, Jno. Austin, Mayor of Tenterden, Fregift Stace, Jurat. 4 mar.1634 In 1653 the Taunton Iron Works were established beside the Two Mile River in Taunton. Among the original proprietors were Jonah Austin Sr., Thomas Lincoln Sr. and Henry Andrews.
-
 
 == Sources
 

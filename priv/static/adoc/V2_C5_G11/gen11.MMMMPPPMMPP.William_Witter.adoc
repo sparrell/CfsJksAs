@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1584
-
 * Birthplace: Broomhall, Sussex, England, UK
-
 * Death: 1659
-
 * Deathplace: Lynn, Essex, Massachusetts, USA
-
 * Age at Death: 74-75
-
 
 
 == Ship
@@ -100,12 +94,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0348http://localhost:4000/person?p=p
 
 == Other
 notes: Radical Baptist. See John Crandell for similar beliefs and relationships through marriage.
-
 religion: 2 DATE 22 MAY 1646
-<p>
-2 AGE 61-62
-</p>
 
+* AGE 61-62
 
 == Sources
 

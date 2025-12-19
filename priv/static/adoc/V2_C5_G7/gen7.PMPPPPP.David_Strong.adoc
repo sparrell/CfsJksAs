@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 15 DEC 1704
-
 * Birthplace: Windsor, Hartford, Connecticut, USA
-
 * Death: 25 JAN 1801
-
 * Deathplace: Bolton, Tolland, Connecticut, USA
-
 * Age at Death: 96
-
 * Death Cause: "Old age"
-
 
 
 == Family
@@ -51,16 +44,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0186http://localhost:4000/person?p=p
 
 == Other
 event:  "Old age"
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 notes: David and Thankful Strong were admitted to the church in Bolton CT fro the church in East Windsor  on 1July 1732
-
 occupation: Farmer
-
 ordained: Deacon
-
 
 == Sources
 

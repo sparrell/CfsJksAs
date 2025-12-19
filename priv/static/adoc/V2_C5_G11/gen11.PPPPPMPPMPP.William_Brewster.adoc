@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1566
-
 * Birthplace: Doncaster, Yorkshire, England, UK
-
 * Death: 10 APR 1644
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Age at Death: About 77-78
-
 
 
 == Ship
@@ -229,49 +223,38 @@ https://cfsjksas.gigalixirapp.com/person?p=p0509http://localhost:4000/person?p=p
 
 == Other
 education:  Enrolled Peterhouse, Cambridge University
-<p>
-2 DATE 3 DEC 1580
-2 AGE About 13-14
-</p>
 
+* DATE 3 DEC 1580
+
+* AGE About 13-14
 emigration:  aboard Mayflower to Plymouth
-<p>
-2 DATE 1620
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE About 53-54
-</p>
- to Leyden, Hollamd
-<p>
-2 DATE 1608
-2 AGE About 41-42
-</p>
 
+* DATE 1620
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE About 53-54 to Leyden, Hollamd
+
+* DATE 1608
+
+* AGE About 41-42
 event:  Freeman of Plymouth
-<p>
-2 TYPE Freeman
-</p>
- Gentleman
-<p>
-2 TYPE Title (Facts Pg)
-</p>
 
+* TYPE Freeman Gentleman
+
+* TYPE Title (Facts Pg)
 notes: Ancestor of President Zachary Taylor.
-
 occupation: Postmaster
-<p>
-2 DATE BEF 1608
-2 PLAC Scrooby, Nottinghamshire, UK
-2 AGE About 41-42
-</p>
-Printer in Leyden
-<p>
-2 PLAC Leiden, South Holland, Netherlands
-</p>
 
+* DATE BEF 1608
+
+* PLAC Scrooby, Nottinghamshire, UK
+
+* AGE About 41-42Printer in Leyden
+
+* PLAC Leiden, South Holland, Netherlands
 ordained: Church Elder preached at Plymouth
-
 title: Elder
-
 
 == Sources
 

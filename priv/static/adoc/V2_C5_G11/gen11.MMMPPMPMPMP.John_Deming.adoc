@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1615
-
 * Birthplace: Shalford, Essex, England, UK
-
 * Death: BEF 21 NOV 1705
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: About 89-90
-
 
 
 == Ship
@@ -114,7 +108,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0480http://localhost:4000/person?p=p
 
 == Other
 notes: Will proved Nov 1705
-
 
 == Sources
 

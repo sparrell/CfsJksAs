@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1621
-
 * Birthplace: England, UK
-
 * Death: 20 APR 1708
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: About 86-87
-
 
 
 == Ship
@@ -70,33 +64,22 @@ https://cfsjksas.gigalixirapp.com/person?p=p0577http://localhost:4000/person?p=p
 
 == Other
 event:  Chairman, Ipswich  Selectmen
-<p>
 
 TYPE Election
 
 DATE 1687
 
-AGE About 65-66
-</p>
- Lieutenant, Militia in Pequot War
-<p>
+AGE About 65-66 Lieutenant, Militia in Pequot War
 
-TYPE Military Service
-</p>
- See Notes
-<p>
+TYPE Military Service See Notes
 
 TYPE Fact 4
 
 DATE 1692
 
 AGE About 70-71
-</p>
-
 notes: As a former neighbor of John Proctor, he along with other Ipswich residents signed a petition asking for clemency for John and his wife. John was convicted of witchcraft and executed at Salem in 1692. Presided as Moderator over Town Meeting which refused to levy taxes demanded by Sir Edmund Andros, Royal Governor of New England. Tried and convicted of sedition - sentenced not to hold office, 50 pounds fine and costs, 500 pound bond
-
 occupation: Carpenter and farmer
-
 
 == Sources
 

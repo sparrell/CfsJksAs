@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 3 JUN 1580
-
 * Birthplace: Poslingford, Suffolk, England, UK
-
 * Death: 4 FEB 1665
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 84
-
 
 
 == Ship
@@ -148,46 +142,43 @@ https://cfsjksas.gigalixirapp.com/person?p=p0356http://localhost:4000/person?p=p
 
 == Other
 emigration:  Sailed on the Arabella
-<p>
-2 DATE 1630
-2 AGE 49-50
-</p>
 
+* DATE 1630
+
+* AGE 49-50
 event: 
-<p>
-2 TYPE Fact 2
-2 DATE 1634
-2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
-2 AGE 53-54
-</p>
 
-<p>
-2 TYPE Fact 3
-2 DATE 1639
-2 PLAC Wethersfield, Hartford, Connecticut, USA
-2 AGE 58-59
-</p>
+* TYPE Fact 2
 
-<p>
-2 TYPE Fact 4
-2 DATE 1649
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 68-69
-</p>
+* DATE 1634
 
-<p>
-2 TYPE Fact 5
-2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
-</p>
- Gentleman
-<p>
-2 TYPE Fact 6
-</p>
- Secretary to John Winthrop
-<p>
-2 TYPE Fact 1
-</p>
+* PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
 
+* AGE 53-54
+
+* TYPE Fact 3
+
+* DATE 1639
+
+* PLAC Wethersfield, Hartford, Connecticut, USA
+
+* AGE 58-59
+
+* TYPE Fact 4
+
+* DATE 1649
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 68-69
+
+* TYPE Fact 5
+
+* PLAC Roxbury, Boston, Suffolk, Massachusetts, USA Gentleman
+
+* TYPE Fact 6 Secretary to John Winthrop
+
+* TYPE Fact 1
 
 == Sources
 

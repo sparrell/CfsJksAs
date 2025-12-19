@@ -7,21 +7,15 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 18 APR 1845
-
 * Birthplace: Montville, New London, Connecticut, USA
-
 * Death: 1920
-
 * Buried: 
-<p>
-2 DATE 1920
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-</p>
 
+* DATE 1920
+
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: 74-75
-
 
 
 == Family
@@ -49,55 +43,52 @@ https://cfsjksas.gigalixirapp.com/person?p=p0075http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1850
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 4-5
-</p>
 
-<p>
-2 DATE 1860
-2 PLAC The Town Of Montville, New London, Connecticut, USA
-2 AGE 14-15
-</p>
+* DATE 1850
 
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 4-5
+
+* DATE 1860
+
+* PLAC The Town Of Montville, New London, Connecticut, USA
+
+* AGE 14-15
 notes: In the 1870 US census, he was was living at home with his widowed mother in Montville and working in a cotton mill.
-
 occupation: Cotton Mill
-<p>
-2 DATE 1870
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 24-25
-</p>
-Foreman, B&M
-<p>
-2 DATE 1901
-2 AGE 55-56
-</p>
-Foreman, RR Freight Office (US Census)
-<p>
-2 DATE 1880
-2 AGE 34-35
-</p>
-Foreman, RR- Worcester MA - US Census
-<p>
-2 DATE 1910
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 64-65
-</p>
-Foreman, Round House; W&N RR,
-<p>
-2 DATE 1873
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 27-28
-</p>
-Foreman. Freight House, B&M RR
-<p>
-2 DATE 1891
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 45-46
-</p>
 
+* DATE 1870
+
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 24-25Foreman, B&M
+
+* DATE 1901
+
+* AGE 55-56Foreman, RR Freight Office (US Census)
+
+* DATE 1880
+
+* AGE 34-35Foreman, RR- Worcester MA - US Census
+
+* DATE 1910
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 64-65Foreman, Round House; W&N RR,
+
+* DATE 1873
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 27-28Foreman. Freight House, B&M RR
+
+* DATE 1891
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 45-46
 
 == Sources
 

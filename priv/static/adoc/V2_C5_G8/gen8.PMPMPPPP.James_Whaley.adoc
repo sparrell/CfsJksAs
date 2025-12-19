@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1680
-
 * Birthplace: Ulster, Northern Ireland, UK
-
 * Death: 30 MAR 1741
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Age at Death: 60-61
-
 
 
 == Ship
@@ -53,14 +47,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0905http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ulster to Plymouth MA
-<p>
-2 DATE 1722
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE 41-42
-</p>
 
+* DATE 1722
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE 41-42
 notes: He died in what was then Plymouth but his grave is now in the Town of Carver.
-
 
 == Sources
 

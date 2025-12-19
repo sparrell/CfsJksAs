@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 16 APR 1627
-
 * Birthplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Death: AFT 23 MAR 1697
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 69
-
 
 
 == Family
@@ -64,7 +58,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0475http://localhost:4000/person?p=p
 
 == Other
 notes: Mary was named for her Grandmother who died the week she was born. She married John Turner shortly before her parents moved to Connecticut.
-
 
 == Sources
 

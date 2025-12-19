@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1613
-
 * Birthplace: England, UK
-
 * Death: 17 OCT 1700
-
 * Deathplace: Windsor, Hartford, Connecticut, USA
-
 * Age at Death: About 86-87
-
 
 
 == Ship
@@ -57,24 +51,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p0245http://localhost:4000/person?p=p
 
 == Other
 emigration:  Weymouth England to Dorchester MA
-<p>
-2 DATE APR 1635
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE About 21-22
-</p>
 
+* DATE APR 1635
+
+* PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+
+* AGE About 21-22
 event:  Grant of land at Dorchester
-<p>
-2 TYPE PROP
-2 DATE 17 DEC 1635
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE About 21-22
-</p>
 
+* TYPE PROP
+
+* DATE 17 DEC 1635
+
+* PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+
+* AGE About 21-22
 notes: Ancestor of President Rutherford B. Hayes.
-
 occupation: husbandman
-
 
 == Sources
 

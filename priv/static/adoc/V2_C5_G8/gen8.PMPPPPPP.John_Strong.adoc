@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 25 DEC 1665
-
 * Birthplace: Windsor, Hartford, Connecticut, USA
-
 * Death: 29 MAY 1749
-
 * Deathplace: Windsor, Hartford, Connecticut, USA
-
 * Age at Death: 83
-
 
 
 == Family
@@ -50,14 +44,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0208http://localhost:4000/person?p=p
 
 == Other
 event:  Sergeant - Militia
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 notes: Estate Inventory taken 10 Oct 1749 - 449 pounds, 16 shillings
-
 occupation: Farmer
-
 
 == Sources
 

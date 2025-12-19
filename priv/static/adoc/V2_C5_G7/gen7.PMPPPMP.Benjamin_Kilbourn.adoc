@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1730
-
 * Birthplace: Morristown, Morris, New Jersey, USA
-
 * Death: 1817
-
 * Deathplace: Belchertown, Hampshire, Massachusetts, USA
-
 * Age at Death: 86-87
-
 
 
 == Family
@@ -49,15 +43,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0069http://localhost:4000/person?p=p
 
 == Other
 emigration:  See Notes
-
 notes: Benjamin Kilbourne took his family from Bolton to Nova Scotia where they attempted to farm. However they found the climate too cold and they returned to Connecticut. He then became involved in the Susquehanna Land Company and setttled in the Wyoming Valley in what is now Luzerne County PA. There was continuous contention between PA and CT over the ownership of the area due to conflicts in the original Royal Charters. After the start of the Revolution there was a quarrel among the settlers which led to the expulsion of the Tories. The Tories returned with BritishTroops and 700 Mohawk Indians. This led to the so-called Wyoming Massacre in which Daniel Lawrence (Benjamin's son-in-law and Lucy's first husband)was killed. The family then returned to Bolton. Lucy then married Ebenezer Strong.
-
 religion: 2 DATE 2 MAR 1755
-<p>
-2 PLAC Bolton, Tolland, Connecticut, USA
-2 AGE 24-25
-</p>
 
+* PLAC Bolton, Tolland, Connecticut, USA
+
+* AGE 24-25
 
 == Sources
 

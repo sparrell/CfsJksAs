@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1601
-
 * Birthplace: Purse Caundle, Dorset, England, UK
-
 * Death: 1 JUN 1677
-
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
-
 * Age at Death: About 75-76
-
 
 
 == Ship
@@ -55,13 +49,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0615http://localhost:4000/person?p=p
 
 == Other
 emigration:  Settled in Dorchester
-<p>
-2 DATE ABT 1630
-2 AGE About 28-29
-</p>
 
+* DATE ABT 1630
+
+* AGE About 28-29
 notes: Possibly a member of the Dorchester Party that sailed on the "Mary and John" in 1630 from Plymouth England to Nantasket but source is doubtful.
-
 
 == Sources
 

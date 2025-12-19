@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: circa 1660/1
-
 * Birthplace: Stonington, CT
-
 * Death: 16 Sep 1726/7
-
 
 
 == Family
@@ -59,9 +55,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p9997http://localhost:4000/person?p=p
 
 
 == Other
-notes: Ensign in military
-soldier in King Phillips War
-
+notes: Ensign in militarysoldier in King Phillips War
 
 == Sources
 

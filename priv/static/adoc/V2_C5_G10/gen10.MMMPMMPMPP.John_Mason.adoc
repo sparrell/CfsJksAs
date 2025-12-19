@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1600
-
 * Birthplace: England, UK
-
 * Death: 30 JAN 1672
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 * Age at Death: About 71-72
-
 
 
 == Ship
@@ -124,46 +118,46 @@ https://cfsjksas.gigalixirapp.com/person?p=p0837http://localhost:4000/person?p=p
 
 == Other
 emigration:  England to Dorchester MA
-<p>
-2 DATE ABT 1630
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE About 29-30
-</p>
 
+* DATE ABT 1630
+
+* PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+
+* AGE About 29-30
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC Norwich, New London, Connecticut, USA
-2 AGE About 68-69
-</p>
- Captain in Pequot War (see notes)
-<p>
-2 TYPE Military Service
-2 DATE 1637
-2 AGE About 36-37
-</p>
- Deputy Gov. And Major Gen. of Connecticut forces
-<p>
-2 TYPE Appointed
-2 DATE 1660
-2 AGE About 59-60
-</p>
- Lt serving in the Netherlands
-<p>
-2 TYPE Military Service
-2 DATE ABT 1625
-2 AGE About 24-25
-</p>
- Magistrate from Windsor
-<p>
-2 TYPE _ELEC
-2 DATE 1642
-2 AGE About 41-42
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC Norwich, New London, Connecticut, USA
+
+* AGE About 68-69 Captain in Pequot War (see notes)
+
+* TYPE Military Service
+
+* DATE 1637
+
+* AGE About 36-37 Deputy Gov. And Major Gen. of Connecticut forces
+
+* TYPE Appointed
+
+* DATE 1660
+
+* AGE About 59-60 Lt serving in the Netherlands
+
+* TYPE Military Service
+
+* DATE ABT 1625
+
+* AGE About 24-25 Magistrate from Windsor
+
+* TYPE _ELEC
+
+* DATE 1642
+
+* AGE About 41-42
 notes: PEQUOT WAR - In May 1637, the Connecticut General court declared an " offensive war" against the Pequot Indians. Command of the Connecticut forces was entrusted to Captain John Mason, a tall, portly, vigorous soldier, thirty seven years of age. Mason was a veteran of the continental wars, having served during the past decade with the English expeditionary forces as a lieutenant under Sir Thomas Fairfax in the Netherlands. Before migrating to Connecticut from the Bay colony, Mason had represented Dorchester in the General Court for two years and had assisted in the planning of the fortifications at Boston, Charlestown and Castle Island. On May 25th the English forces under Mason and guided by Uncas and his Mohicans surrounded the Pequot Village at Mystic. They attacked the palisaded village, setting the lodges on fire and massacring the inhabitants as they tried to escape. Two colonial soldiers were killed and seventy-seven wounded, some severely. Late in 1638, a band of Pequots reestablished a village at Pawcatuck near the Rhode Island border. Captain Mason and forty Connecticut sodiers, aided by Uncas and 100 Mohicans sailed to Pawcatuck Bay.Mason and his men proceeded to loot and burn the Pequot village to the beat of a drum. Captured Pequots were turned over to the Mohicans.
-
 
 == Sources
 

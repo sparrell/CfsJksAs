@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 3 MAR 1727
-
 * Birthplace: Northampton, Hampshire, Massachusetts, USA
-
 * Death: 25 JUN 1786
-
 * Deathplace: Belchertown, Hampshire, Massachusetts, USA
-
 * Age at Death: 59
-
 
 
 == Family
@@ -49,23 +43,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0602http://localhost:4000/person?p=p
 
 == Other
 event:  Revolutionary War (See notes)
-<p>
-2 TYPE Military Service
-</p>
- Sergeant in Capt Cowl's company in Col Woodbridge's regiment
-<p>
-2 TYPE Military Service
-2 SOUR @S11@
-3 QUAY 0
-</p>
 
+* TYPE Military Service Sergeant in Capt Cowl's company in Col Woodbridge's regiment
+
+* TYPE Military Service
+
+* SOUR @S11@
+
+* QUAY 0
 notes: Sergeant; Capt. John Cowles Company 1775 Private; Capt. Jonathan Bardwell's Company 1777 Lieut (or Captain) in the Northern Army in 1778
-
 
 == Sources
 * @S11@
-<p>
-2 QUAY 0
-</p>
 
+* QUAY 0
 

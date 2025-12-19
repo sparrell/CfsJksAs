@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 7 DEC 1802
-
 * Birthplace: Worcester, Worcester, Massachusetts, USA
-
 * Death: 6 OCT 1859
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 56
-
 * Death Cause: Consumption
-
 
 
 == Family
@@ -49,15 +42,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0135http://localhost:4000/person?p=p
 
 == Other
 event:  Consumption
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASophia_Bixby_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASophia_Bixby_%281%29:
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 18 MAY 1602
-
 * Birthplace: Terling, England, UK
-
 * Death: 1671
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 68-69
-
 
 
 == Ship
@@ -70,7 +64,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0226http://localhost:4000/person?p=p
 
 == Other
 event: 
-
 
 == Sources
 

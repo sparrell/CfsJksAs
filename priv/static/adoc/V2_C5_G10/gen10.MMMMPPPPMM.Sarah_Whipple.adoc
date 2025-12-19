@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 28 FEB 1641
-
 * Birthplace: Ipswich, Essex, Massachusetts, USA
-
 * Death: 23 JUL 1681
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: 40
-
 
 
 == Family
@@ -65,12 +59,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0583http://localhost:4000/person?p=p
 
 == Other
 event:  See Notes
-<p>
-2 TYPE Misc
-</p>
 
+* TYPE Misc
 notes: She died suddenly July 23, 1681, (as she presaged she would) three days after she delivered twins, leaving 10 surviving children.
-
 
 == Sources
 

@@ -9,7 +9,6 @@ Narrative TBD
 * Sex: F
 
 
-
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMMPPMM.Mehetable_Langford.adoc[Mehetable Langford (1678/1685 - 1715)]
 

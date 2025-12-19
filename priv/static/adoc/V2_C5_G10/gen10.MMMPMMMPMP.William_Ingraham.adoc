@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Rehoboth, Bristol, Massachusetts, USA
-
 * Death: 4 MAY 1721
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 
 
 == Family
@@ -61,7 +57,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0969http://localhost:4000/person?p=p
 
 == Other
 occupation: Cooper
-
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1594
-
 * Birthplace: Capel, Suffolk, England, UK
-
 * Death: BEF 25 SEP 1655
-
 * Deathplace: Rowley, Essex, Massachusetts, USA
-
 * Age at Death: About 60-61
-
 
 
 == Ship
@@ -70,21 +64,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0633http://localhost:4000/person?p=p
 
 == Other
 emigration:  Sailed on Elizabeth from Ipswich England
-<p>
-2 DATE 30 APR 1634
-2 AGE About 39-40
-</p>
- See Notes
 
+* DATE 30 APR 1634
+
+* AGE About 39-40 See Notes
 event:  Deputy to  Mass. General Court
-<p>
-2 TYPE _ELEC
-2 DATE 2 SEP 1635
-2 AGE About 40-41
-</p>
 
+* TYPE _ELEC
+
+* DATE 2 SEP 1635
+
+* AGE About 40-41
 notes: Sailed from Ipswich Essex England 30 April 1636 on "Elizabeth" after taking oath of allegiance at Custom House. Accompanied by His wife Bridget(age30) and children John(age 3), Martha(2) and Mary(1)
-
 
 == Sources
 

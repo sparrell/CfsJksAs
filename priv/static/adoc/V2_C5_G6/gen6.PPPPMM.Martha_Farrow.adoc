@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 19 MAY 1754
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Family
@@ -42,10 +39,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0387http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMartha_Farrow_%284%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMartha_Farrow_%284%29:
 
 == Sources
 

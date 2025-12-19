@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 10 NOV 1667
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Family
@@ -60,10 +56,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0193http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Collamore_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Collamore_%281%29:
 
 == Sources
 

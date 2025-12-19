@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1600
-
 * Birthplace: Exeter, Devonshire, England, UK
-
 * Death: 21 MAY 1641
-
 * Deathplace: Windsor, Hartford, Connecticut, USA
-
 * Age at Death: About 40-41
-
 
 
 == Ship
@@ -55,35 +49,30 @@ https://cfsjksas.gigalixirapp.com/person?p=p0243http://localhost:4000/person?p=p
 
 == Other
 emigration:  Freeman, Dorchester MA
-<p>
-2 DATE 4 MAR 1633
-2 AGE About 32-33
-</p>
- Ship "Mary and John", Plymouth, Devon to Nantasket MA
-<p>
-2 DATE 1630
-2 AGE About 29-30
-</p>
 
+* DATE 4 MAR 1633
+
+* AGE About 32-33 Ship "Mary and John", Plymouth, Devon to Nantasket MA
+
+* DATE 1630
+
+* AGE About 29-30
 event:  Moves to Windsor CT
-<p>
-2 TYPE Fact 4
-2 DATE 1636
-2 AGE About 35-36
-</p>
- Selectman Dorchester
-<p>
-2 TYPE Fact 2
-2 DATE 28 OCT 1634
-2 AGE About 33-34
-</p>
- Selectman Dorchester
-<p>
-2 TYPE Fact 5
-</p>
 
+* TYPE Fact 4
+
+* DATE 1636
+
+* AGE About 35-36 Selectman Dorchester
+
+* TYPE Fact 2
+
+* DATE 28 OCT 1634
+
+* AGE About 33-34 Selectman Dorchester
+
+* TYPE Fact 5
 notes: In the years after Giles Gibbs died, his children were often in court for unacceptable behavior. See more about Samuel Gibbs.
-
 
 == Sources
 

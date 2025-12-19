@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 24 MAR 1622
-
 * Birthplace: Terling, England, UK
-
 * Death: BEF 20 MAY 1697
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 75
-
 
 
 == Ship
@@ -69,9 +63,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0464http://localhost:4000/person?p=p
 
 == Other
 notes: Ran the tannery with his brother Joseph that their father established on his 80 Acre grant on the North River at what is now Union Bridge in Norwell.
-
 occupation: Husbandman, Leather Tanner
-
 
 == Sources
 

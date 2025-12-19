@@ -7,20 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 10 OCT 1744
-
 * Birthplace: Roxbury, Litchfield, Connecticut, USA
-
 * Baptism:  Roxbury Parish Church,
-<p>
-2 DATE 14 OCT 1744
-2 PLAC Woodbury, Litchfield, Connecticut, USA
-2 AGE 0
-</p>
 
+* DATE 14 OCT 1744
+
+* PLAC Woodbury, Litchfield, Connecticut, USA
+
+* AGE 0
 * Deathplace: Underhill, Chittenden, Vermont, USA
-
 
 
 == Family

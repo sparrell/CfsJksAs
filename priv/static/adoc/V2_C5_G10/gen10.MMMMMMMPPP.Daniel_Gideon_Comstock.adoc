@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Also known as: Gideon Comstock
-
 * Birth: 1628
-
 * Birthplace: England, UK
-
 * Death: 1683
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 54-55
-
 
 
 == Ship
@@ -99,9 +92,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0277http://localhost:4000/person?p=p
 
 
 == Other
-notes: Present Comstock Cemetery in Uncasville is on land that was part of Daniel Comstock's farm. History of Montville shows line: William-Gideon-Daniel-John-Mary
-conflict on whether Gideon is seperate person from Daniel. Going with Comstock Genealogy that same person
-
+notes: Present Comstock Cemetery in Uncasville is on land that was part of Daniel Comstock's farm. History of Montville shows line: William-Gideon-Daniel-John-Maryconflict on whether Gideon is seperate person from Daniel. Going with Comstock Genealogy that same person
 
 == Sources
 

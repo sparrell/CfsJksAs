@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1586
-
 * Birthplace: Devonshire, England, UK
-
 * Death: 12 MAR 1679
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: About 92-93
-
 
 
 == Ship
@@ -145,18 +139,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0268http://localhost:4000/person?p=p
 
 == Other
 emigration:  Arrived Gloucester MA
-<p>
-2 DATE BEF 1641
-2 PLAC Gloucester, Essex, Massachusetts, USA
-2 AGE About 54-55
-</p>
 
+* DATE BEF 1641
+
+* PLAC Gloucester, Essex, Massachusetts, USA
+
+* AGE About 54-55
 notes: In October 1650 ,land grants were given at Peqout (later New London CT)to Rev. Mr. Blinman, John Coite, James Avery and Andrew Lester. Christopher joined his son later.
-
 occupation: Weaver
-
 title: Captain
-
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1630
-
 * Birthplace: Weymouth, Dorset, England, UK
-
 * Death: 22 OCT 1691
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: About 60-61
-
 
 
 == Ship
@@ -57,30 +51,30 @@ https://cfsjksas.gigalixirapp.com/person?p=p0129http://localhost:4000/person?p=p
 
 == Other
 event:  Soldier - King Phillip's War
-<p>
-2 TYPE Military Service
-2 DATE 1676
-2 AGE About 45-46
-</p>
- Surveyor and Collector of Taxes
-<p>
-2 TYPE Appointed
-2 DATE 1670
-2 AGE About 39-40
-</p>
- _ELEC of Bennett, John - Constable until 1667
-<p>
-2 TYPE _ELEC
-2 DATE 1664
-2 AGE About 33-34
-</p>
- _ELEC of Bennett, John - Overseer of Highways to 1669
-<p>
-2 TYPE _ELEC
-2 DATE 1668
-2 AGE About 37-38
-</p>
 
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE About 45-46 Surveyor and Collector of Taxes
+
+* TYPE Appointed
+
+* DATE 1670
+
+* AGE About 39-40 _ELEC of Bennett, John - Constable until 1667
+
+* TYPE _ELEC
+
+* DATE 1664
+
+* AGE About 33-34 _ELEC of Bennett, John - Overseer of Highways to 1669
+
+* TYPE _ELEC
+
+* DATE 1668
+
+* AGE About 37-38
 
 == Sources
 

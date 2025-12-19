@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1621
-
 * Birthplace: Rattlesden, Suffolk, England, UK
-
 * Death: 6 MAY 1698
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: 76-77
-
 
 
 == Ship
@@ -70,7 +64,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0585http://localhost:4000/person?p=p
 
 == Other
 notes: John Kimball aged 3 sailed with his parents from Ipswich Essex England on April 30 1634. Aboard the same ship with her parents was Mary Bradstreet aged 1. Twenty-one years later, John and Mary were married at Ipswich, Essex County, Massachusetts.
-
 
 == Sources
 

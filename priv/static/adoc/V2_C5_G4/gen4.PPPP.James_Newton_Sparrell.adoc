@@ -7,24 +7,15 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 19 FEB 1825
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 1877
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-</p>
 
+* PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
 * Age at Death: 51-52
-
 * Death Cause: Recurring fever contracted in VA
-
 
 
 == Family
@@ -53,74 +44,72 @@ https://cfsjksas.gigalixirapp.com/person?p=p0328http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1860
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-2 AGE 35
-</p>
 
+* DATE 1860
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
+
+* AGE 35
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-
 event:  Mustered Ist Lt, Co G, 18 MVM-
-<p>
-2 TYPE Military Service
-2 DATE 7 MAY 1861
-2 PLAC Hanover, Plymouth, Massachusetts, USA
-2 AGE 36
-</p>
- Recurring fever contracted in VA
-<p>
-2 TYPE _DCAUSE
-</p>
- Resigned; Illness-Hall's Hill VA
-<p>
-2 TYPE Military Service
-2 DATE 16 JAN 1862
-2 PLAC Arlington, Arlington, Virginia, USA
-2 AGE 36
-</p>
 
+* TYPE Military Service
+
+* DATE 7 MAY 1861
+
+* PLAC Hanover, Plymouth, Massachusetts, USA
+
+* AGE 36 Recurring fever contracted in VA
+
+* TYPE _DCAUSE Resigned; Illness-Hall's Hill VA
+
+* TYPE Military Service
+
+* DATE 16 JAN 1862
+
+* PLAC Arlington, Arlington, Virginia, USA
+
+* AGE 36
 notes: 1860 Federal Census - Carpenter; family shared house in South Scituate with family of brother, George Sparrell.
-
 occupation: "Machinist"; census-
-<p>
-2 DATE 1855
-2 PLAC Marshfield, Plymouth, Massachusetts, USA
-2 AGE 29-30
-</p>
-Carpenter
-<p>
-2 DATE 1860
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-2 AGE 34-35
-</p>
-Housewright -
-<p>
-2 DATE 1845
-2 PLAC New Bedford, Bristol, Massachusetts, USA
-2 AGE 19-20
-</p>
-Pattern Maker -
-<p>
-2 DATE 1851
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 25-26
-</p>
-Shoe finisher
-<p>
-2 DATE 1869
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 43-44
-</p>
 
+* DATE 1855
+
+* PLAC Marshfield, Plymouth, Massachusetts, USA
+
+* AGE 29-30Carpenter
+
+* DATE 1860
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
+
+* AGE 34-35Housewright -
+
+* DATE 1845
+
+* PLAC New Bedford, Bristol, Massachusetts, USA
+
+* AGE 19-20Pattern Maker -
+
+* DATE 1851
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 25-26Shoe finisher
+
+* DATE 1869
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 43-44
 
 == Sources
 * @S43@ PAGE https://www.myheritage.com/research/record-30033-1259108/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT James N. Sparrell & Emeline Gleason Marriage: Aug 5 1846 - Worcester, Massachusetts Husband: James N. Sparrell &nbsp;&nbsp;Father: James N. Sparrell &nbsp;&nbsp;Mother: Desire Sparrell Wife: Emeline Gleason &nbsp;&nbsp;Father: Line... Gleason
-				 &nbsp;&nbsp;Mother: Sophia Gleason Certificate Number: 254 GS Film number: 1428256 Digital Folder Number: 4279728 Image Number: 00797
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT James N. Sparrell & Emeline Gleason Marriage: Aug 5 1846 - Worcester, Massachusetts Husband: James N. Sparrell &nbsp;&nbsp;Father: James N. Sparrell &nbsp;&nbsp;Mother: Desire Sparrell Wife: Emeline Gleason &nbsp;&nbsp;Father: Line... Gleason
+				 &nbsp;&nbsp;Mother: Sophia Gleason Certificate Number: 254 GS Film number: 1428256 Digital Folder Number: 4279728 Image Number: 00797
 

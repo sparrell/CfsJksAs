@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 27 DEC 1608
-
 * Birthplace: Upminster, England, UK
-
 * Death: JUL 1683
-
 * Deathplace: Hartford, Hartford, Connecticut, USA
-
 * Age at Death: 74
-
 
 
 == Ship
@@ -55,14 +49,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0559http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship 'Lyon" to Boston
-<p>
-2 DATE 1632
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 23-24
-</p>
 
+* DATE 1632
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 23-24
 notes: Hills immigrated on the "Lyon" in 1632 as an indentured servant of the Reverend John Eliot . He apparently satisfied his obligation to Eliot by1634 as he was then made a freeman of Roxbury MA. In 1637he moved to Hartford CT. Reverend Eliot commented in a letter that William's first few years in Hartford were "without giving such good satisfaction to the consciences of the saints". This probably relates to his being fined four pounds forbuying stolen property in 1640. Around 1646, his first wife Phyllis died and around 1648, william married Mary, the widow of of Richard Risley.
-
 
 == Sources
 

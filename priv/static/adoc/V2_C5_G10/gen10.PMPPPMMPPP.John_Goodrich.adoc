@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 1635
-
 * Birthplace: Bury St. Edmunds, Suffolk, England, UK
-
 * Death: APR 1680
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: About 44-45
-
 
 
 == Ship
@@ -55,13 +49,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0795http://localhost:4000/person?p=p
 
 == Other
 emigration:  Bury St. Edmunds, England to Hartford CT
-<p>
-2 DATE ABT 1643
-2 AGE About 7-8
-</p>
 
+* DATE ABT 1643
+
+* AGE About 7-8
 occupation: husbandman
-
 
 == Sources
 

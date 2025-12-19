@@ -7,15 +7,10 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Vinal
-
 * Birthplace: Kent, England, UK
-
 * Death: 6 OCT 1664
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -85,23 +80,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0233http://localhost:4000/person?p=p
 
 == Other
 emigration:  Widowed in England
-<p>
-2 DATE ABT 1644
-</p>
 
+* DATE ABT 1644
 event:  Conihasset Partner (1/30 share)
-<p>
-2 TYPE Fact 4
-</p>
- Emigrated to Scituate
-<p>
-2 TYPE Fact 2
-2 DATE 1636
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-</p>
 
+* TYPE Fact 4 Emigrated to Scituate
+
+* TYPE Fact 2
+
+* DATE 1636
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
 occupation: Wool weaver
-
 
 == Sources
 

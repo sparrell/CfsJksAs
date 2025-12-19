@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 13 OCT 1604
-
 * Birthplace: Hingham, Norfolk, England, UK
-
 * Death: 20 JAN 1679
-
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
-
 * Age at Death: 74
-
 
 
 == Ship
@@ -126,24 +120,22 @@ https://cfsjksas.gigalixirapp.com/person?p=p0818http://localhost:4000/person?p=p
 
 == Other
 education:  Magdelan College, Cambridge University
-<p>
-2 DATE 1625
-2 AGE 20-21
-</p>
 
+* DATE 1625
+
+* AGE 20-21
 emigration:  Arr. Boston from Haverhill, England
-<p>
-2 DATE 8 JUN 1635
-2 AGE 30
-</p>
 
+* DATE 8 JUN 1635
+
+* AGE 30
 ordained: Pastor, First Church of Hingham MA
-<p>
-2 DATE 1635
-2 PLAC Hingham, Plymouth, Massachusetts, USA
-2 AGE 30-31
-</p>
 
+* DATE 1635
+
+* PLAC Hingham, Plymouth, Massachusetts, USA
+
+* AGE 30-31
 
 == Sources
 

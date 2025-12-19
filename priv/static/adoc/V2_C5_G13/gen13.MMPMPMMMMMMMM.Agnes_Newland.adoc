@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Newland
-
 * Birth: ABT 1580
-
 * Birthplace: England
-
 * Death: 17 JUN 1674
-
 * Deathplace: Duxbury, Plymouth, MA
-
 * Age at Death: About 93-94
-
 
 
 == Ship
@@ -62,11 +55,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p1251http://localhost:4000/person?p=p
 
 == Sources
 * @S49@
-<p>
-2 PAGE https://www.myheritage.com/person-1501280_306010031_306010031/agnes-newland
-2 QUAY 3
-2 DATA
-3 TEXT Individual added by confirming a Smart Match
-</p>
 
+* PAGE https://www.myheritage.com/person-1501280_306010031_306010031/agnes-newland
+
+* QUAY 3
+
+* DATA
+
+* TEXT Individual added by confirming a Smart Match
 

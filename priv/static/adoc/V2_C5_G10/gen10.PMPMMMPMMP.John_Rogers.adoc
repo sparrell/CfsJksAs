@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1640
-
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Death: 28 JUN 1732
-
 * Deathplace: Barrington, Bristol, Rhode Island, USA
-
 * Age at Death: 91-92
-
 
 
 == Family
@@ -52,7 +46,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1001http://localhost:4000/person?p=p
 
 == Other
 name_suffix: Jr.
-
 
 == Sources
 

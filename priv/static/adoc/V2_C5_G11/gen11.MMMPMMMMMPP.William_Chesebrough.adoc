@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: JUN 1594
-
 * Birthplace: Boston, Lincolnshire, England, UK
-
 * Death: 9 JUN 1667
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 72-73
-
 
 
 == Ship
@@ -184,56 +178,57 @@ https://cfsjksas.gigalixirapp.com/person?p=p0962http://localhost:4000/person?p=p
 
 == Other
 emigration:  Boston, England to Boston MA
-<p>
-2 DATE 1630
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 35-36
-</p>
 
+* DATE 1630
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 35-36
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 18 MAY 1631
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 36
-</p>
- Close friend of Walter Palmer
-<p>
-2 TYPE Fact 11
-</p>
- _ELEC of Chesebrough, William - Braintree rep to General Court (MA)
-<p>
-2 TYPE _ELEC
-2 DATE 1640
-2 PLAC Braintree, Norfolk, Massachusetts, USA
-2 AGE 45-46
-</p>
- _ELEC of Chesebrough, William - Constable -Boston
-<p>
-2 TYPE _ELEC
-2 DATE 1634
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 39-40
-</p>
- _ELEC of Chesebrough, William - New London deputy to General Court (CT)
-<p>
-2 TYPE _ELEC
-2 DATE 1653
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 58-59
-</p>
- _ELEC of Chesebrough, William - Stonington Deputy to General Court (CT)
-<p>
-2 TYPE _ELEC
-2 DATE 1664
-2 PLAC Stonington, New London, Connecticut, USA
-2 AGE 69-70
-</p>
 
+* TYPE Freeman
+
+* DATE 18 MAY 1631
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 36 Close friend of Walter Palmer
+
+* TYPE Fact 11 _ELEC of Chesebrough, William - Braintree rep to General Court (MA)
+
+* TYPE _ELEC
+
+* DATE 1640
+
+* PLAC Braintree, Norfolk, Massachusetts, USA
+
+* AGE 45-46 _ELEC of Chesebrough, William - Constable -Boston
+
+* TYPE _ELEC
+
+* DATE 1634
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 39-40 _ELEC of Chesebrough, William - New London deputy to General Court (CT)
+
+* TYPE _ELEC
+
+* DATE 1653
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 58-59 _ELEC of Chesebrough, William - Stonington Deputy to General Court (CT)
+
+* TYPE _ELEC
+
+* DATE 1664
+
+* PLAC Stonington, New London, Connecticut, USA
+
+* AGE 69-70
 notes: William Cheeseborough was one of those men of substance who came to NewEngland to live life as they wished, and not to become a part of the Puritan hegemony. After a relatively peaceful few years in Boston and Braintree, he removed to Rehobeth where he was soon in trouble with the Plymouth authorities. In May 1646 Plymouth Court ordered that the constable "arrest Will[ia}m cheesborrow" for his part in "an affray made upon Ussamequine and some of his people"; "Wm. Cheeseborrow of Rehoboth, blacksmith" had to post 20 pounds bond. On 7 Nov. 1649 Connecticut General Court "ordered that a warrent shall issue forth to the Constable of Pequot (new London) to repair forthwith to Chessbrooke of Long Island, and to let him understand that the government of Connecticutt doth dislike and distaste the way he is and trade he doth among the Indians." A letter to John Winthrop, jr. stated specifically that "Chesbrok is accused of mending guns".
-
 occupation: Blacksmith
-
 
 == Sources
 

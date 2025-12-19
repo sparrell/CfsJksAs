@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 15 NOV 1720
-
 * Birthplace: Hopkinton, Middlesex, MA
-
 
 
 == Family
@@ -44,10 +41,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0142http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnn_Jones_%2859%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnn_Jones_%2859%29:
 
 == Sources
 

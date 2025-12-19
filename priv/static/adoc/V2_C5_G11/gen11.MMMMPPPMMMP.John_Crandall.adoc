@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1609
-
 * Birthplace: Monmouthshire, England, UK
-
 * Death: 29 NOV 1676
-
 * Deathplace: Newport, Newport, Rhode Island, USA
-
 * Age at Death: 66-67
-
 
 
 == Ship
@@ -70,38 +64,36 @@ https://cfsjksas.gigalixirapp.com/person?p=p0350http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1651
-2 PLAC Newport, Newport, Rhode Island, USA
-2 AGE 41-42
-</p>
 
+* DATE 1651
+
+* PLAC Newport, Newport, Rhode Island, USA
+
+* AGE 41-42
 event: 
-<p>
-2 TYPE Military Service
-2 DATE 1637
-2 PLAC Providence, Providence, Rhode Island, USA
-2 AGE 27-28
-</p>
- Elder Seventh Day Baptist Chuch
-<p>
-2 TYPE Church
-</p>
- first settler -  Westerly RI
-<p>
-2 TYPE Fact 2
-2 DATE 1661
-2 AGE 51-52
-</p>
- first settler -  Westerly RI
-<p>
-2 TYPE Fact 5
-2 DATE 1675
-2 AGE 65-66
-</p>
 
+* TYPE Military Service
+
+* DATE 1637
+
+* PLAC Providence, Providence, Rhode Island, USA
+
+* AGE 27-28 Elder Seventh Day Baptist Chuch
+
+* TYPE Church first settler -  Westerly RI
+
+* TYPE Fact 2
+
+* DATE 1661
+
+* AGE 51-52 first settler -  Westerly RI
+
+* TYPE Fact 5
+
+* DATE 1675
+
+* AGE 65-66
 notes: August 1651, he was imprisoned at Boston for a Baptist.....removed to Westerly [Rhode Island], preached as 7th day Baptist". In 1676 he returned to Newort because of the perils of King Phiilip's war and he died there.
-
 
 == Sources
 

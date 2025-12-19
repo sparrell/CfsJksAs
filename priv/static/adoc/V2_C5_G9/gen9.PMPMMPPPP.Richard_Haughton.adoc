@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: England, UK
-
 * Death: 23 MAY 1682
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 
 
 == Ship
@@ -50,11 +46,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0159http://localhost:4000/person?p=p
 
 == Other
 emigration:  England to Boston
-
 notes: One of the first settlers of New London. In 1658, when it was still called Pequot, Haughton recieved permission from the general court to lease land from Uncas in what is now Montville for farming andgrazing cattle. He was building a ship at Wetherfield at the time of his death.
-
 occupation: Shipwright
-
 
 == Sources
 

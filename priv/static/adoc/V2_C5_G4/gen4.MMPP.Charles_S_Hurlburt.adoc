@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 31 DEC 1823
-
 * Birthplace: Underhill, Chittenden, Vermont, USA
-
 * Death: 2 AUG 1886
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 62
-
 
 
 == Family
@@ -46,14 +40,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0094http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1850
-2 PLAC Oxford, Worcester, Massachusetts, USA
-2 AGE 26-27
-</p>
 
+* DATE 1850
+
+* PLAC Oxford, Worcester, Massachusetts, USA
+
+* AGE 26-27
 notes: 1850 Federal Census - Resided Oxford MA, Laborer 1860 Federal census - resided Ward 6, Worcester MA, Foreman, railroad repair 1870 Federal Census - Montville CT, Railroad Foreman 1864 Birth record for George B. lists parents Charles (railroad foreman) and Esther B. living in Pepperell. It is assumed that he was working for the Norwich amd Worcester Railroad when he met his wife, Esther in Griswold which is on the line, as is Oxford. The N&amp;W was acquired by the New Haven RR in 1889 after his death. Montville, Oxford and Worcester were on the Norwich and Worcester. Pepperell is on the Worcester and Nashua RR?
-
 
 == Sources
 

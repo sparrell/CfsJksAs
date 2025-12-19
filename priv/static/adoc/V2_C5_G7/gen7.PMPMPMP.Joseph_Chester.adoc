@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 MAR 1731
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 4 AUG 1804
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Age at Death: 73
-
 
 
 == Family
@@ -49,16 +43,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0087http://localhost:4000/person?p=p
 
 == Other
 event:  _ELEC of Chester, Joseph - Lower House - Representative for Montville
-<p>
-2 TYPE _ELEC
-2 DATE 1791
-2 AGE 59-60
-</p>
 
+* TYPE _ELEC
+
+* DATE 1791
+
+* AGE 59-60
 occupation: Farmer
-
 ordained: Deacon
-
 
 == Sources
 

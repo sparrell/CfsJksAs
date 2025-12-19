@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1595
-
 * Birthplace: County of Suffolk, England, UK
-
 * Death: 22 JUN 1675
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: About 79-80
-
 
 
 == Ship
@@ -70,32 +64,28 @@ https://cfsjksas.gigalixirapp.com/person?p=p0587http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Fact 2
-2 DATE FEB 1637
-2 PLAC Ipswich, Essex, Massachusetts, USA
-2 AGE About 41-42
-</p>
 
-<p>
-2 TYPE Freeman
-2 DATE 1635
-2 PLAC Watertown, Massachusetts, USA
-2 AGE About 39-40
-</p>
- See Notes
-<p>
-2 TYPE Fact 1
-</p>
+* TYPE Fact 2
 
+* DATE FEB 1637
+
+* PLAC Ipswich, Essex, Massachusetts, USA
+
+* AGE About 41-42
+
+* TYPE Freeman
+
+* DATE 1635
+
+* PLAC Watertown, Massachusetts, USA
+
+* AGE About 39-40 See Notes
+
+* TYPE Fact 1
 notes: Richard Kimball sailed from Ipswich, Essex, England on April 30, 1634 aboard the "Elizabeth" bound for New England after taking the Oath of allegiance and supremacy at His Majesty's Custom House. He was acompaniedby his wife, Ursala and children Mary(9), Martha(5), John (3) and Thomas (1). 
-<p>
 
 Also on the ship were his brother-in-law, Thomas Scott, and his family.Richard settled in that part of Watertown, MA which later became Cambridge while his brother-in-law settled in Ipswich MA. Richard was made a freeman in 1635 and a proprietor in 1637. Shortly after this, the town of Ipswich made him an attractive offrer to move to Ipswich as the community needed a wheelwright. The offer consisted of a house lot, forty acres of farmland and the freedom to cut all the white oak needed for his trade. His brother-in-law, Thomas, who lived in Ipswich probably was responsible for the offer being made.
-</p>
-
 occupation: Wheelwright
-
 
 == Sources
 

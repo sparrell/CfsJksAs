@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 1623
-
 * Birthplace: Boston, Middlesex, Massachusetts, United States
-
 * Death: 9 AUG 1670
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 46-47
-
 
 
 == Family
@@ -51,10 +45,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0232http://localhost:4000/person?p=p
 
 == Other
 event:  Widow of Nicholas Charlet
-<p>
-2 TYPE First Marriage
-</p>
 
+* TYPE First Marriage
 
 == Sources
 

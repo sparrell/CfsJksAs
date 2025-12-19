@@ -254,7 +254,6 @@
 				year: nil,
 			},
 			sources: [
-				"@S37@\r\n2 QUAY 3\r\n2 DATA\r\n3 DATE 27 AUG 2015\r\n3 TEXT Added via an Instant Discovery™",
 			],
 			surname: nil,
 			title: nil,
@@ -2452,7 +2451,6 @@
 			],
 			religion: nil,
 			residence: [
-				"\r\n2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ARobert_Andrews_%2820%29:",
 			],
 			rin: "MH:I688",
 			sex: "M",

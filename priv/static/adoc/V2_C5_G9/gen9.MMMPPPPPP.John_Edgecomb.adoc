@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 12 MAR 1648
-
 * Birthplace: Plymouth, Devon, England, UK
-
 * Christening: 
-<p>
-2 DATE 12 MAR 1648
-2 PLAC Plymouth, Devon, England, UK
-2 AGE About 0
-</p>
 
+* DATE 12 MAR 1648
+
+* PLAC Plymouth, Devon, England, UK
+
+* AGE About 0
 * Death: 11 APR 1721
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: About 73
-
 
 
 == Ship
@@ -73,20 +67,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0374http://localhost:4000/person?p=p
 
 == Other
 emigration:  Plymouth England to New London CT
-<p>
-2 DATE ABT 1673
-2 AGE About 24-25
-</p>
 
+* DATE ABT 1673
+
+* AGE About 24-25
 event:  Sheriff of New London County
-<p>
-2 TYPE Appointed
-2 DATE 2 NOV 1687
-2 AGE About 39
-</p>
 
+* TYPE Appointed
+
+* DATE 2 NOV 1687
+
+* AGE About 39
 occupation: Tanner, farmer
-
 
 == Sources
 

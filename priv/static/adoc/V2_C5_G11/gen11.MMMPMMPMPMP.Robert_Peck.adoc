@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1580
-
 * Birthplace: Beccles, Suffolk, England, UK
-
 * Death: 1656
-
 * Deathplace: Hingham, Norfolk, England, UK
-
 * Age at Death: About 75-76
-
 
 
 == Ship
@@ -130,51 +124,49 @@ https://cfsjksas.gigalixirapp.com/person?p=p0954http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship Diligent, Ipswich to Boston
-<p>
-2 DATE 1638
-2 AGE About 57-58
-</p>
 
+* DATE 1638
+
+* AGE About 57-58
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 13 MAR 1639
-2 PLAC Hingham, Plymouth, Massachusetts, USA
-2 AGE About 58-59
-</p>
- AB, St.Catherine's College, Cambridge, England
-<p>
-2 TYPE Degree
-2 DATE 1599
-2 AGE About 18-19
-</p>
- AM, Magdelan College, Cambridge, England
-<p>
-2 TYPE Degree
-2 DATE 1603
-2 AGE About 22-23
-</p>
- Left Hingham MA for Hingham, England
-<p>
-2 TYPE Move
-2 DATE 27 OCT 1641
-2 AGE About 60-61
-</p>
- Pastor, St. Andrew's Church, Hingham, Eng.
-<p>
-2 TYPE Appointed
-2 DATE 8 JAN 1605
-2 AGE About 24-25
-</p>
 
+* TYPE Freeman
+
+* DATE 13 MAR 1639
+
+* PLAC Hingham, Plymouth, Massachusetts, USA
+
+* AGE About 58-59 AB, St.Catherine's College, Cambridge, England
+
+* TYPE Degree
+
+* DATE 1599
+
+* AGE About 18-19 AM, Magdelan College, Cambridge, England
+
+* TYPE Degree
+
+* DATE 1603
+
+* AGE About 22-23 Left Hingham MA for Hingham, England
+
+* TYPE Move
+
+* DATE 27 OCT 1641
+
+* AGE About 60-61 Pastor, St. Andrew's Church, Hingham, Eng.
+
+* TYPE Appointed
+
+* DATE 8 JAN 1605
+
+* AGE About 24-25
 notes: Robert Peck was driven from his parish in Hingham England because of his zealous Puritan views. He fled to Massachusetts in 1638 with 132 of his parisioners including his brother, Joseph (see Joseph Peck). He led his followers to found Hingham MA where he was ordained the first pastor of the church. In 1641, with the Puritans winning the English Civil War, Peck returnedto England and in 1646 resumed his pulpit in Hingham, Norfolk, England. His wife and son returned with him but his daughter, Anne,had married Capt. John Mason and she remained in America.
-
 ordained: Pastor - First Church Hingham MA
-<p>
-2 DATE 28 NOV 1638
-2 AGE About 57-58
-</p>
 
+* DATE 28 NOV 1638
+
+* AGE About 57-58
 
 == Sources
 

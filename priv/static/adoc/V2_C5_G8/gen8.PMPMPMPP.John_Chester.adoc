@@ -7,29 +7,21 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 29 MAY 1692
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Baptism: 
-<p>
-2 DATE 29 MAY 1692
-2 PLAC Groton, New London, Connecticut, USA
-2 AGE About 0
-</p>
 
+* DATE 29 MAY 1692
+
+* PLAC Groton, New London, Connecticut, USA
+
+* AGE About 0
 * Death: 1 JUN 1771
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Starr Cemetery, Groton, New London, Connecticut, USA
-</p>
 
+* PLAC Starr Cemetery, Groton, New London, Connecticut, USA
 * Age at Death: About 79
-
 
 
 == Family
@@ -62,7 +54,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0089http://localhost:4000/person?p=p
 
 == Other
 occupation: Sea Captain
-
 
 == Sources
 

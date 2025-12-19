@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 3 MAR 1644
-
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Death: 8 DEC 1711
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: 67
-
 
 
 == Family
@@ -117,14 +111,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0298http://localhost:4000/person?p=p
 
 == Other
 event:  Soldier-King Phillip's War
-<p>
-2 TYPE Military Service
-2 DATE 1676
-2 AGE 31-32
-</p>
 
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE 31-32
 notes: Ancestor of President Millard Fillmore.
-
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1608
-
 * Birthplace: Winston, Suffolk, England
-
 * Death: 4 JUL 1688
-
 * Deathplace: Woburn, Middlesex, Massachusetts
-
 * Age at Death: 79-80
-
 
 
 == Ship
@@ -58,10 +52,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1291http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Michael Bacon&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1608 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Marriage: Oct 26 1655 - Woburn, Middlesex, Massachusetts Bay&amp;lt;br&amp;gt;Death: July 4 1688 - Woburn, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Alice Bacon (born UNKNOWN)&amp;lt;br&amp;gt; Spouses: Mary Bacon (born Unknown Richardson, Baldwin)Mary Bacon (born Jobo)Mary Bacon (born Baldwin Richardson)&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon&amp;lt;br&amp;gt;Siblings: Alice Bancroft (born Bacon)Daniel BaconJohn BaconSarah Hubbard (born Bacon)John Bacon
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Michael Bacon&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1608 - Winston, Suffolk, England&amp;lt;br&amp;gt;Marriage: 1636 - England&amp;lt;br&amp;gt;Marriage: Oct 26 1655 - Woburn, Middlesex, Massachusetts Bay&amp;lt;br&amp;gt;Death: July 4 1688 - Woburn, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Michael Bacon&amp;lt;br&amp;gt;Mother: Alice Bacon (born UNKNOWN)&amp;lt;br&amp;gt; Spouses: Mary Bacon (born Unknown Richardson, Baldwin)Mary Bacon (born Jobo)Mary Bacon (born Baldwin Richardson)&amp;lt;br&amp;gt;Children: Lydia Wood (born Bacon)Sarah Simonds (born Bacon)Mary Lakin (born Bacon)Elizabeth Eliza Richardson (born Bacon)Michael Bacon, JrMichael Bacon&amp;lt;br&amp;gt;Siblings: Alice Bancroft (born Bacon)Daniel BaconJohn BaconSarah Hubbard (born Bacon)John Bacon
 

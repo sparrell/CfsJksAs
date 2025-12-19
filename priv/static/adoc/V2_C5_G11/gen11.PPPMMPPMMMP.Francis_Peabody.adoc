@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1614
-
 * Birthplace: St. Albans, Herts., England, UK
-
 * Death: 19 FEB 1698
-
 * Deathplace: Topsfield, Essex, Massachusetts, USA
-
 * Age at Death: 83-84
-
 
 
 == Ship
@@ -56,24 +50,22 @@ https://cfsjksas.gigalixirapp.com/person?p=p0441http://localhost:4000/person?p=p
 
 == Other
 emigration:  arr. Boston from England on ship "Planter"
-<p>
-2 DATE 1635
-2 AGE 20-21
-</p>
 
+* DATE 1635
+
+* AGE 20-21
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 18 MAY 1642
-2 PLAC Ipswich, Essex, Massachusetts, USA
-2 AGE 27-28
-</p>
 
+* TYPE Freeman
+
+* DATE 18 MAY 1642
+
+* PLAC Ipswich, Essex, Massachusetts, USA
+
+* AGE 27-28
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFrancis_Pabodie_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFrancis_Pabodie_%281%29:
 
 == Sources
 

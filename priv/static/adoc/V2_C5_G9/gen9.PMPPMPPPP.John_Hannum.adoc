@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1637
-
 * Birthplace: Dorchester, Boston, Massachusetts, USA
-
 * Death: 19 FEB 1712
-
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
-
 * Age at Death: About 74-75
-
 
 
 == Family
@@ -51,12 +45,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0611http://localhost:4000/person?p=p
 
 == Other
 event:  Private in French and Indian War
-<p>
-2 TYPE Military Service
-2 DATE 1655
-2 AGE About 17-18
-</p>
 
+* TYPE Military Service
+
+* DATE 1655
+
+* AGE About 17-18
 
 == Sources
 

@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 MAR 1730
-
 * Birthplace: Norwich, New London, Connecticut, USA
-
 * Death: 14 AUG 1795
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
-</p>
 
+* PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
 * Age at Death: 65
-
 
 
 == Family
@@ -64,9 +56,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0830http://localhost:4000/person?p=p
 
 == Other
 occupation: Cabinetmaker, farmer
-
 ordained: Deacon
-
 
 == Sources
 

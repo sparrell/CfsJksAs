@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1650
-
 * Birthplace: England, UK
-
 * Deathplace: Setuaket, Long Island, New York, USA
-
 
 
 == Ship
@@ -64,13 +60,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0317http://localhost:4000/person?p=p
 
 == Other
 event:  Bought land Setauket, Long Island
-<p>
-2 TYPE Fact 2
-2 DATE 25 FEB 1665
-2 PLAC Setuaket, Long Island, New York, USA
-2 AGE 14-15
-</p>
 
+* TYPE Fact 2
+
+* DATE 25 FEB 1665
+
+* PLAC Setuaket, Long Island, New York, USA
+
+* AGE 14-15
 
 == Sources
 

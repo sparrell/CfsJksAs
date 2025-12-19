@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1645
-
 * Birthplace: Concord, Middlesex, Massachusetts Bay Colony, New England
-
 * Death: 9 FEB 1720
-
 * Deathplace: Marlborough, MIddlesex, Massachusetts, New England
-
 * Age at Death: 74-75
-
 
 
 == Family
@@ -54,24 +48,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p1281http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Photos:
 

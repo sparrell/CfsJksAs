@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1697
-
 * Birthplace: Aghadowey, Londonderry, Ulster, Northern Ireland, UK
-
 * Death: 16 JAN 1766
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 68-69
-
 
 
 == Ship
@@ -53,12 +47,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0491http://localhost:4000/person?p=p
 
 == Other
 emigration:  Londonderry, Ulster to Holden MA
-<p>
-2 DATE 1718
-2 PLAC Holden, Worcester, Massachusetts, USA
-2 AGE 20-21
-</p>
 
+* DATE 1718
+
+* PLAC Holden, Worcester, Massachusetts, USA
+
+* AGE 20-21
 
 == Sources
 

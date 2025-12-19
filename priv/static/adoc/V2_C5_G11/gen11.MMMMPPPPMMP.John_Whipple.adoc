@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 29 AUG 1596
-
 * Birthplace: Bocking, Essex, England, UK
-
 * Death: 30 JUN 1669
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: 72
-
 
 
 == Ship
@@ -70,19 +64,16 @@ https://cfsjksas.gigalixirapp.com/person?p=p0629http://localhost:4000/person?p=p
 
 == Other
 emigration:  Emigrated with wife and older children
-<p>
-2 DATE 1638
-2 AGE 41-42
-</p>
 
+* DATE 1638
+
+* AGE 41-42
 event:  Church Elder at Ipswich MA
-<p>
-2 TYPE Church
-2 PLAC Ipswich, Essex, Massachusetts, USA
-</p>
 
+* TYPE Church
+
+* PLAC Ipswich, Essex, Massachusetts, USA
 occupation: Clothier
-
 
 == Sources
 

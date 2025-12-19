@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1 NOV 1628
-
 * Birthplace: Ruddington, England
-
 * Death: 21 MAR 1697
-
 * Deathplace: Groton, Middlesex, Massachusetts
-
 * Age at Death: 68
-
 
 
 == Ship
@@ -57,5 +51,4 @@ https://cfsjksas.gigalixirapp.com/person?p=p1289http://localhost:4000/person?p=p
 
 == Sources
 * @S112@ QUAY  DATA TEXT John Lakin&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Nov 1 1628 - Ruddington, England&amp;lt;br&amp;gt;Marriage: 1658 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Mar 21 1697 - Groton, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: William Lakin&amp;lt;br&amp;gt;Mother: Mary Martin (born Bacon Lakin)&amp;lt;br&amp;gt;Wife: Mary Lakin (born Bacon)&amp;lt;br&amp;gt;Children: Mary Willard (born Lakin)William LakinBenjamin LakinJoseph LakinSarah Willard (born Lakin)Josiah LakinAbigail Parker (born Lakin Laken, Dickson)John LakinLydia Boyden (born Lakin)&amp;lt;br&amp;gt;Sibling: Lieut. William Lakin
-
 

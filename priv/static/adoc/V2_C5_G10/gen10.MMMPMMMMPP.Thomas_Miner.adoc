@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 23 APR 1608
-
 * Birthplace: Chew Magna, Somerset, England, UK
-
 * Death: 23 OCT 1690
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 82
-
 
 
 == Ship
@@ -68,26 +62,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p0964http://localhost:4000/person?p=p
 
 == Other
 emigration:  To Charlestown MA in Winthrop Flleet
-<p>
-2 DATE 1630
-2 AGE 21-22
-</p>
 
+* DATE 1630
+
+* AGE 21-22
 event:  Assistant Magistrate- Connecticut
-<p>
-2 TYPE Appointed
-2 DATE 17 MAY 1649
-2 AGE 41
-</p>
- Lieutenant, King Phillips War
-<p>
-2 TYPE Military Service
-2 DATE 1676
-2 AGE 67-68
-</p>
 
+* TYPE Appointed
+
+* DATE 17 MAY 1649
+
+* AGE 41 Lieutenant, King Phillips War
+
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE 67-68
 notes: debate as to which ship arrived on: Lyons Whelp in 1629 or Arabella in 1630
-
 
 == Sources
 

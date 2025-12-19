@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 14 JAN 1581
-
 * Birthplace: Biddenden, Kent, England
-
 * Death: 6 MAY 1652
-
 * Deathplace: Roxbury, Suffolk, Massachusetts
-
 * Age at Death: 71
-
 
 
 == Ship
@@ -59,10 +53,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1285http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT John Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Jan 14 1581 - Biddenden, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt;br&amp;gt;Death: May 6 1652 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;Father: John Stow (born Stowe), II&amp;lt;br&amp;gt;Mother: Joan Stowe (born Baker Baker, Goldsmith)&amp;lt;br&amp;gt;Wife: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt; &amp;gt;Siblings: Joanna Joane Joan Boyse (born Stowe Stawe)Christopher StoweWilliam StoweChristopher Stow StoweThomas Stow StoweElizabeth StoweZachary Stowe
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT John Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Jan 14 1581 - Biddenden, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt;br&amp;gt;Death: May 6 1652 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;Father: John Stow (born Stowe), II&amp;lt;br&amp;gt;Mother: Joan Stowe (born Baker Baker, Goldsmith)&amp;lt;br&amp;gt;Wife: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow Stowe)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt; &amp;gt;Siblings: Joanna Joane Joan Boyse (born Stowe Stawe)Christopher StoweWilliam StoweChristopher Stow StoweThomas Stow StoweElizabeth StoweZachary Stowe
 

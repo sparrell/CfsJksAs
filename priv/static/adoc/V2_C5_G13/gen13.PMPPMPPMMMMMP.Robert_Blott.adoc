@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1582
-
 * Birthplace: Puddington, Bedfordshire, England, UK
-
 * Death: JUL 1665
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 82-83
-
 
 
 == Ship
@@ -58,14 +52,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0651http://localhost:4000/person?p=p
 
 == Other
 emigration:  Family emigrated and settled in Roxbury
-<p>
-2 DATE 1632
-2 PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
-2 AGE 49-50
-</p>
 
+* DATE 1632
+
+* PLAC Roxbury, Boston, Suffolk, Massachusetts, USA
+
+* AGE 49-50
 occupation: Cooper
-
 
 == Sources
 

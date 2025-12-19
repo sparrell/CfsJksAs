@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1628
-
 * Birthplace: Norfolk, England, UK
-
 * Death: ABT 1720
-
 * Deathplace: Taunton, Bristol, Massachusetts, USA
-
 * Age at Death: About 91-92
-
 
 
 == Ship
@@ -57,19 +51,19 @@ https://cfsjksas.gigalixirapp.com/person?p=p0546http://localhost:4000/person?p=p
 
 == Other
 emigration:  England to Hingham MA
-<p>
-2 DATE 1636
-2 AGE About 7-8
-</p>
 
+* DATE 1636
+
+* AGE About 7-8
 event: 
-<p>
-2 TYPE Move
-2 DATE 1643
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE About 14-15
-</p>
 
+* TYPE Move
+
+* DATE 1643
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE About 14-15
 
 == Sources
 

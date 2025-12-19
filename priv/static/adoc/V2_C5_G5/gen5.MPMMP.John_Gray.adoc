@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 16 AUG 1763
-
 * Birthplace: Worcester, Worcester, Massachusetts, USA
-
 * Death: 30 OCT 1841
-
 * Deathplace: Paris, Oxford, Maine, USA
-
 * Age at Death: 78
-
 
 
 == Family
@@ -47,12 +41,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0249http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1792
-2 PLAC Paris, Oxford, Maine, USA
-2 AGE 28-29
-</p>
 
+* DATE 1792
+
+* PLAC Paris, Oxford, Maine, USA
+
+* AGE 28-29
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 JUL 1589
-
 * Birthplace: Cranbrook, Kent, England, UK
-
 * Death: 2 JAN 1659
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 69
-
 
 
 == Ship
@@ -57,32 +51,27 @@ https://cfsjksas.gigalixirapp.com/person?p=p0393http://localhost:4000/person?p=p
 
 == Other
 emigration:  arr. Boston ship Hercules
-<p>
-2 DATE 1634
-2 AGE 44-45
-</p>
 
+* DATE 1634
+
+* AGE 44-45
 event:  Bought Jonathan Brewster's House
-<p>
-2 TYPE Fact 2
-2 DATE 19 JUN 1638
-2 AGE 48
-</p>
- Bought Jonathan Brewster's House
-<p>
-2 TYPE Fact 5
-</p>
- Freeman of Duxbury
-<p>
-2 TYPE Fact 1
-2 DATE 1639
-2 AGE 49-50
-</p>
 
+* TYPE Fact 2
+
+* DATE 19 JUN 1638
+
+* AGE 48 Bought Jonathan Brewster's House
+
+* TYPE Fact 5 Freeman of Duxbury
+
+* TYPE Fact 1
+
+* DATE 1639
+
+* AGE 49-50
 notes: Emigrants in the Hercules of Sandwich ( see notes for Jonas Austen) - Comfort Starre, of Ashford, chirurgion, Three children and three servants. Certificates from Edm. Hayes, vicar of Ashford, 21 Mar. 1634. Jno. Honeywood, Tho. Godfrey, justices. In 1638 he bought Jonathan Brewster's house at Duxbury and received a grant of 120 acres between the North and South Rivers. Comfort was the first physician in Duxbury. He eventually decided that he could not develop a satifactory practice in Plymouth Colony and movedto Boston. Ancestor of President Calvin Coolidge.
-
 occupation: Physician and Surgeon
-
 
 == Sources
 

@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birthplace: England, UK
-
 * Death: 11 JAN 1620
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -72,7 +68,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0850http://localhost:4000/person?p=p
 
 == Other
 notes: Susanna Chilton was one of four Separatists excommunicated from St. Peter's Parish in Sandwich, Kent, England between May 1609 and February 1610.
-
 
 == Sources
 

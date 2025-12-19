@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 17 SEP 1612
-
 * Birthplace: Windham, Norfolk, England, UK
-
 * Death: 7 APR 1684
-
 * Deathplace: Bridgewater, Plymouth, Massachusetts, USA
-
 * Age at Death: 71
-
 
 
 == Ship
@@ -55,20 +49,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0697http://localhost:4000/person?p=p
 
 == Other
 emigration:  arr. Boston in the ship "Diligence"
-<p>
-2 DATE 10 AUG 1638
-2 AGE 25
-</p>
 
+* DATE 10 AUG 1638
+
+* AGE 25
 event:  _ELEC of Packard, Samuel Selectman - Weymouth
-<p>
-2 TYPE _ELEC
-</p>
 
+* TYPE _ELEC
 notes: Sailed from Ipswich, 26 April 1638 on ship Diligence with wife and one child. Landed Boston 10 August 1638.
-
 occupation: Constable and tavern keeper
-
 
 == Sources
 

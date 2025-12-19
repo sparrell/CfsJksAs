@@ -7,18 +7,15 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1738
-
 * Birthplace: Stonington, New London, Connecticut, USA
-
 * Christening: 
-<p>
-2 DATE 3 APR 1738
-2 PLAC Stonington, New London, Connecticut, USA
-2 AGE 0
-</p>
 
+* DATE 3 APR 1738
+
+* PLAC Stonington, New London, Connecticut, USA
+
+* AGE 0
 
 
 == Family

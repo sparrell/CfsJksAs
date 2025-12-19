@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 18 MAR 1647
-
 * Birthplace: Hartford, Hartford, Connecticut, USA
-
 * Baptism:  First Church Hartford
-<p>
-2 DATE 18 MAR 1647
-2 AGE About 0
-</p>
 
+* DATE 18 MAR 1647
+
+* AGE About 0
 * Death: 11 DEC 1711
-
 * Deathplace: Hatfield, Hampshire, Massachusetts, USA
-
 * Age at Death: About 64
-
 
 
 == Family

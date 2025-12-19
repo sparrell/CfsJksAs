@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 3 MAR 1781
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 16 AUG 1872
-
 * Deathplace: Ledyard, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
-</p>
 
+* PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
 * Age at Death: 91
-
 
 
 == Family
@@ -62,7 +54,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0923http://localhost:4000/person?p=p
 
 == Other
 notes: !870 US Census reports "Sally" Lester living in Ledyard and owning her property. She is living with Isaac Lester, a farmer, and his family.
-
 
 == Sources
 

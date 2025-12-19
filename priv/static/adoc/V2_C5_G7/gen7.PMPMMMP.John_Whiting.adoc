@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 3 AUG 1719
-
 * Birthplace: Norwich, New London, Connecticut, USA
-
 * Death: 17 DEC 1770
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 51
-
 
 
 == Family
@@ -49,10 +43,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0206http://localhost:4000/person?p=p
 
 == Other
 event:  Colonel
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 
 == Sources
 

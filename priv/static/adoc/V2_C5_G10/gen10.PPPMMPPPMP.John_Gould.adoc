@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 26 JUN 1635
-
 * Birthplace: Great Missenden, Bucks., England, UK
-
 * Death: 26 JAN 1710
-
 * Deathplace: Topsfield, Essex, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Pine Grove Cemetery, Massachusetts, USA
-</p>
 
+* PLAC Pine Grove Cemetery, Massachusetts, USA
 * Age at Death: 74
-
 
 
 == Ship
@@ -62,7 +54,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0324http://localhost:4000/person?p=p
 
 == Other
 title: Capt.
-
 
 == Sources
 

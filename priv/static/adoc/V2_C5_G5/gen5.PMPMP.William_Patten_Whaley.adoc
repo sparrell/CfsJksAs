@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 27 NOV 1786
-
 * Birthplace: Montville, New London, Connecticut, USA
-
 
 
 == Family
@@ -41,11 +38,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0050http://localhost:4000/person?p=p
 
 == Other
 occupation: A farmer at Uncasville CT (census)
-<p>
-2 DATE 1840
-2 AGE 53-54
-</p>
 
+* DATE 1840
+
+* AGE 53-54
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 10 JUN 1667
-
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Death: 4 MAY 1748
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: 80
-
 
 
 == Family
@@ -75,13 +69,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0400http://localhost:4000/person?p=p
 
 == Other
 event:  _ELEC of Morgan, John - Representative in Assembly for Groton
-<p>
-2 TYPE _ELEC
-2 DATE 1731
-2 PLAC Groton, New London, Connecticut, USA
-2 AGE 63-64
-</p>
 
+* TYPE _ELEC
+
+* DATE 1731
+
+* PLAC Groton, New London, Connecticut, USA
+
+* AGE 63-64
 
 == Sources
 

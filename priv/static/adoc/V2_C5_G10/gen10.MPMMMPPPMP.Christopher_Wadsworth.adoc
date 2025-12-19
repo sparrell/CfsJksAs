@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1 DEC 1609
-
 * Birthplace: Nottingham, England, UK
-
 * Death: 31 JUL 1677
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Age at Death: 67
-
 
 
 == Ship
@@ -55,11 +49,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0560http://localhost:4000/person?p=p
 
 == Other
 emigration:  Arr. on ship "Lion"
-<p>
-2 DATE SEP 1637
-2 AGE 27
-</p>
 
+* DATE SEP 1637
+
+* AGE 27
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1595
-
 * Birthplace: England, UK
-
 * Death: 1672
-
 * Deathplace: Salem, Essex, Massachusetts, USA
-
 * Age at Death: About 76-77
-
 
 
 == Ship
@@ -72,27 +66,27 @@ https://cfsjksas.gigalixirapp.com/person?p=p0459http://localhost:4000/person?p=p
 
 == Other
 emigration:  Came with wife and older children (Notes)
-<p>
-2 DATE 1635
-2 AGE About 39-40
-</p>
 
+* DATE 1635
+
+* AGE About 39-40
 notes: John,aged 40, sailed 1635 from London in ship "Susan and Ellen" with wife and older children. He was listed as age 40 and his wife Martha 28, children John age 3 and Marie age 1. They settled first in Ipswich, where he was a proprietor. He was a draper, and also a husbandman. He later removed to Salem. He was listed as a commoner in 1641. He was one of the 27 richest inhabitants and had 2 shares in Plum Island in 1664. His will was made 28 Aug and proved 28 Nov, 1672 at Salem. First two children born in England and the remainder in Salem, MA.
-
 will: Will named daughter Abigail Varney
-<p>
-2 DATE 28 AUG 1672
-2 AGE About 76-77
-</p>
 
+* DATE 28 AUG 1672
+
+* AGE About 76-77
 
 == Sources
 * @S28@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=42741179-F&action=showRecord&indId=individual-20674952-15000877
-2 QUAY 4
-2 DATA
-3 TEXT John
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=42741179-F&action=showRecord&indId=individual-20674952-15000877
+
+* QUAY 4
+
+* DATA
+
+* TEXT John
 
 Gender: Female
 
@@ -107,6 +101,4 @@ Indexing Project (Batch) Number: P01201-1
 System Origin: England-ODM
 
 GS Film number: 364109
-</p>
-
 

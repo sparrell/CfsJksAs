@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 AUG 1695
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 17 JUL 1763
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 67
-
 
 
 == Family
@@ -50,10 +44,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0227http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJames_Bowker_%2814%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJames_Bowker_%2814%29:
 
 == Sources
 

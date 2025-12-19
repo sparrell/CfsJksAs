@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1636
-
 * Birthplace: Biddenden, Kent, England, UK
-
 * Death: 21 AUG 1698
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 61-62
-
 
 
 == Ship
@@ -57,7 +51,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0411http://localhost:4000/person?p=p
 
 == Other
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-
 
 == Sources
 

@@ -7,26 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Sparrell
-
 * Birth: 6 OCT 1798
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 6 JAN 1872
-
 * Deathplace: South Scituate, Plymouth, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-</p>
 
+* PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
 * Age at Death: 73
-
 * Death Cause: "Paralysis"; Stroke?
-
 
 
 == Family
@@ -56,15 +46,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0364http://localhost:4000/person?p=p
 
 == Other
 event:  "Paralysis"; Stroke?
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 
 == Sources
 * @S43@ PAGE https://www.myheritage.com/research/record-30033-1259108-M/james-n-sparrell-and-emeline-gleason-in-massachusetts-marriages
-<p>
-2 QUAY 4 DATA TEXT James N. Sparrell & Emeline Gleason Marriage: Aug 5 1846 - Worcester, Massachusetts Husband: James N. Sparrell &nbsp;&nbsp;Father: James N. Sparrell &nbsp;&nbsp;Mother: Desire Sparrell Wife: Emeline Gleason &nbsp;&nbsp;Father: Line... Gleason &nbsp;&nbsp;Mother: Sophia Gleason Certificate Number: 254 GS Film number: 1428256 Digital Folder Number: 4279728 Image Number: 00797
-</p>
 
+* QUAY 4 DATA TEXT James N. Sparrell & Emeline Gleason Marriage: Aug 5 1846 - Worcester, Massachusetts Husband: James N. Sparrell &nbsp;&nbsp;Father: James N. Sparrell &nbsp;&nbsp;Mother: Desire Sparrell Wife: Emeline Gleason &nbsp;&nbsp;Father: Line... Gleason &nbsp;&nbsp;Mother: Sophia Gleason Certificate Number: 254 GS Film number: 1428256 Digital Folder Number: 4279728 Image Number: 00797
 

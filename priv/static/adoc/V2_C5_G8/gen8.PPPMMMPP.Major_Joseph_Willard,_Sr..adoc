@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 27 MAY 1692
-
 * Birthplace: Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial America
-
 * Death: 18 OCT 1774
-
 * Deathplace: Grafton, Worcester, Massachusetts Bay Colony, British Colonial America
-
 * Buried: 
-<p>
-2 DATE 1774
-2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusets, United States
-</p>
 
+* DATE 1774
+
+* PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusets, United States
 * Age at Death: 82
-
 
 
 == Family
@@ -59,24 +52,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p1273http://localhost:4000/person?p=p
 
 == Sources
 * @S102@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Joseph Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massaschussets, United States&amp;lt;br&amp;gt;Marriage: Spouse: Martha Willard (born Clarke) - July 5 1715 - Framingham, Middlesex, MA&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massaschussets, United States&amp;lt;br&amp;gt;Burial: After Oct 18 1774 - Old Oak Street Burial Ground , Grafton, Worcester County, Massachusets, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clarke)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Howe (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Hannah Brigham (born Willard)&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Joseph Willard, Sr.&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massaschussets, United States&amp;lt;br&amp;gt;Marriage: Spouse: Martha Willard (born Clarke) - July 5 1715 - Framingham, Middlesex, MA&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massaschussets, United States&amp;lt;br&amp;gt;Burial: After Oct 18 1774 - Old Oak Street Burial Ground , Grafton, Worcester County, Massachusets, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clarke)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Howe (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Hannah Brigham (born Willard)&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Jr.&lt;/a&gt;, &lt;a&gt;Esther Boyle (born Willard)&lt;/a&gt;
 * @S111@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Joseph Willard&amp;lt;br&amp;gt;Also known as: Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1693 - Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Marriage: Spouse: Martha Clark - Jan 5 1715 - Framingham, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Burial: 1774 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Parents: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clark)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Hannah Roberts (born Willard)&lt;/a&gt;, &lt ;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Soloman Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Willard&lt;/a&gt;, &lt;a&gt;Esther Bogle (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Hannah Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Joseph Willard&amp;lt;br&amp;gt;Also known as: Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1693 - Sudbury, Middlesex, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Marriage: Spouse: Martha Clark - Jan 5 1715 - Framingham, Middlesex, Massachusetts, United States&amp;lt;br&amp;gt;Death: Oct 18 1774 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Burial: 1774 - Grafton, Worcester, Massachusetts Bay Colony, British Colonial America&amp;lt;br&amp;gt;Parents: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Sarah Willard (born Lakin)&lt;/a&gt;&amp;lt;br&amp;gt;Wife: &lt;a&gt;Martha Willard (born Clark)&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Hannah Roberts (born Willard)&lt;/a&gt;, &lt ;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Soloman Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Pratt (born Willard)&lt;/a&gt;, &lt;a&gt;Margaret Willard&lt;/a&gt;, &lt;a&gt;Esther Bogle (born Willard)&lt;/a&gt;, &lt;a&gt;Simeon Willard&lt;/a&gt;, &lt;a&gt;Dorothy Willard&lt;/a&gt;, &lt;a&gt;Hannah Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Oct 18 1744 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Captain Benjamin Willard&amp;lt;br&amp;gt;Mother: Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Wife: Martha Willard (born Clarke)&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac WillardJosiah WillardSarah Brooks (born Willard)Mary WillardJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard&amp;lt;br&amp;gt;Siblings: Margaret Howe (born Willard)Simeon Simon WillardSarah Pratt (born Willard)Esther WillardHannah Brigham (born Willard)
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Major Joseph Willard&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: May 27 1692 - Sudbury, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Oct 18 1744 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Captain Benjamin Willard&amp;lt;br&amp;gt;Mother: Sarah Willard (born Lakin)&amp;lt;br&amp;gt;Wife: Martha Willard (born Clarke)&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac WillardJosiah WillardSarah Brooks (born Willard)Mary WillardJoseph WillardSimon WillardSolomon WillardPhebe WillardBenjamin Willard&amp;lt;br&amp;gt;Siblings: Margaret Howe (born Willard)Simeon Simon WillardSarah Pratt (born Willard)Esther WillardHannah Brigham (born Willard)
 

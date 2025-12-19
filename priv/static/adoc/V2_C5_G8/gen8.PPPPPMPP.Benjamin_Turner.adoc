@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 5 MAR 1660
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: AFT MAY 1731
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 71
-
 
 
 == Family
@@ -50,7 +44,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0617http://localhost:4000/person?p=p
 
 == Other
 notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house during her lifetime.
-
 
 == Sources
 

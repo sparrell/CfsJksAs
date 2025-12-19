@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 26 DEC 1644
-
 * Birthplace: Gloucester, Essex, Massachusetts, USA
-
 * Death: JUL 1708
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: 63
-
 
 
 == Family
@@ -91,20 +85,22 @@ https://cfsjksas.gigalixirapp.com/person?p=p0340http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 24-25
-</p>
- _ELEC of Lester, Andrew - Representative in Assembly for Groton
-<p>
-2 TYPE _ELEC
-2 DATE 1693
-2 PLAC Groton, New London, Connecticut, USA
-2 AGE 48-49
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 24-25 _ELEC of Lester, Andrew - Representative in Assembly for Groton
+
+* TYPE _ELEC
+
+* DATE 1693
+
+* PLAC Groton, New London, Connecticut, USA
+
+* AGE 48-49
 
 == Sources
 

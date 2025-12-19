@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 9 NOV 1647
-
 * Birthplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Baptism: 
-<p>
-2 DATE 9 NOV 1647
-2 PLAC Roxbury, Litchfield, Connecticut, USA
-2 AGE About 0
-</p>
 
+* DATE 9 NOV 1647
+
+* PLAC Roxbury, Litchfield, Connecticut, USA
+
+* AGE About 0
 * Death: AFT 1700
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: About 52-53
-
 
 
 == Family

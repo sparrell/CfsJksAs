@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 6 OCT 1771
-
 * Birthplace: Worcester, Worcester, Massachusetts, USA
-
 
 
 == Family
@@ -43,10 +40,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0137http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ABetsy_Willard_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ABetsy_Willard_%281%29:
 
 == Sources
 

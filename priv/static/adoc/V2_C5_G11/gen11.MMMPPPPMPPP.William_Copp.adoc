@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 9 NOV 1589
-
 * Birthplace: Honely, Warick, England, UK
-
 * Death: 27 FEB 1670
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 80
-
 
 
 == Ship
@@ -70,21 +64,20 @@ https://cfsjksas.gigalixirapp.com/person?p=p0865http://localhost:4000/person?p=p
 
 == Other
 emigration:  London to Boston in the "Blessing"
-<p>
-2 DATE 1635
-2 AGE 45-46
-</p>
 
+* DATE 1635
+
+* AGE 45-46
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 2 JUN 1641
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 51
-</p>
 
+* TYPE Freeman
+
+* DATE 2 JUN 1641
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 51
 occupation: Shoemaker
-
 
 == Sources
 

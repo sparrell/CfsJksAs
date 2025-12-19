@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1660
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Baptism:  Baptized at New London CT
-<p>
-2 DATE 1 SEP 1672
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 11-12
-</p>
 
+* DATE 1 SEP 1672
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 11-12
 * Death: 8 JUN 1738
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 * Age at Death: 77-78
-
 
 
 == Family
@@ -70,24 +64,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p0281http://localhost:4000/person?p=p
 
 == Other
 event:  Captain, Militia Company
-<p>
-2 TYPE Military Service
-2 DATE 1716
-2 AGE 55-56
-</p>
- Ensign- Preston Militia Company
-<p>
-2 TYPE Military Service
-2 DATE 1704
-2 AGE 43-44
-</p>
- _ELEC of Billings, William - Deputy to Legislature
-<p>
-2 TYPE _ELEC
-2 DATE 1703
-2 AGE 42-43
-</p>
 
+* TYPE Military Service
+
+* DATE 1716
+
+* AGE 55-56 Ensign- Preston Militia Company
+
+* TYPE Military Service
+
+* DATE 1704
+
+* AGE 43-44 _ELEC of Billings, William - Deputy to Legislature
+
+* TYPE _ELEC
+
+* DATE 1703
+
+* AGE 42-43
 
 == Sources
 

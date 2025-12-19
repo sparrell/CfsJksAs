@@ -7,20 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1539
-
 * Birthplace: Awiscombe Devonshire England
-
 * Christening: 
-<p>
-2 DATE 25 OCT 1539
-2 PLAC Kenn Devonshire England
-2 AGE ABOUT 0
-</p>
 
+* DATE 25 OCT 1539
+
+* PLAC Kenn Devonshire England
+
+* AGE ABOUT 0
 * Deathplace: Massachusetts
-
 
 
 == Ship
@@ -61,12 +57,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1246http://localhost:4000/person?p=p
 
 == Sources
 * @S48@
-<p>
-2 PAGE John James Searle
-2 QUAY 3
-2 DATA
-3 DATE 13 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE John James Searle
+
+* QUAY 3
+
+* DATA
+
+* DATE 13 JAN 2019
+
+* TEXT Added via a Person Discovery
 

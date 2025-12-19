@@ -7,26 +7,19 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: French
-
 * Birth: 1584
-
 * Birthplace: of, Assington, Suffolk, England
-
 * Christening: 
-<p>
-2 DATE 20 APR 1584
-2 PLAC Boxford, Suffolk, England
-2 AGE 0
-</p>
 
+* DATE 20 APR 1584
+
+* PLAC Boxford, Suffolk, England
+
+* AGE 0
 * Death: AUG 1658
-
 * Deathplace: Ipswich, Essex, MA
-
 * Age at Death: 73-74
-
 
 
 == Ship
@@ -67,12 +60,4 @@ https://cfsjksas.gigalixirapp.com/person?p=p1214http://localhost:4000/person?p=p
 == Other
 
 == Sources
-* @S37@
-<p>
-2 QUAY 3
-2 DATA
-3 DATE 27 AUG 2015
-3 TEXT Added via an Instant Discovery™
-</p>
-
 

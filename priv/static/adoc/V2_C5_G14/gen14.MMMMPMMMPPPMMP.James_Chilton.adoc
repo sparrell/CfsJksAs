@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 1563
-
 * Birthplace: Canterbury, Kent, England, UK
-
 * Death: 18 DEC 1620
-
 * Deathplace: Provincetown, Barnstable, Massachusetts, USA
-
 * Age at Death: About 56-57
-
 * Death Cause: Aboard Mayflower at Provincetown
-
 
 
 == Ship
@@ -80,11 +73,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0848http://localhost:4000/person?p=p
 
 == Sources
 * @S28@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
-2 QUAY 4
-2 DATA
-3 TEXT James Chilton
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
+
+* QUAY 4
+
+* DATA
+
+* TEXT James Chilton
 
 Gender: Female
 
@@ -99,6 +95,4 @@ Indexing Project (Batch) Number: P01654-1
 System Origin: England-ODM
 
 GS Film number: 942.23 C1 V26CT
-</p>
-
 

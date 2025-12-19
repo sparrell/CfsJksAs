@@ -7,25 +7,17 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Willard
-
 * Birth: 26 MAY 1693
-
 * Birthplace: Milford, New Haven Co, Connecticut
-
 * Death: 3 JUN 1794
-
 * Deathplace: Grafton, Worcester County, Massachusetts, United States
-
 * Buried: 
-<p>
-2 DATE AFT 3 JUN 1794
-2 PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States
-</p>
 
+* DATE AFT 3 JUN 1794
+
+* PLAC Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States
 * Age at Death: 101
-
 
 
 == Family
@@ -60,17 +52,17 @@ https://cfsjksas.gigalixirapp.com/person?p=p1274http://localhost:4000/person?p=p
 
 == Sources
 * @S102@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: May 26 1693 - Milford, New Haven Co, Connecticut,&amp;lt;br&amp;gt;Marriage: Spouse: Joseph Willard, Sr. - July 5 1715 - Framingham, Middlesex, MA&amp;lt;br&amp;gt;Death: June 3 1774 - Grafton, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Burial: After June 3 1794 - Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Isaac Clarke&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Sarah D Clarke (born Stowe)&lt;/a&gt;&amp;lt;br&amp;gt;Husband: &lt;a&gt;Joseph Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Drury (born Clark)&lt;/a&gt;, &lt;a&gt;Jonathan Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Mary Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark&lt;/a&gt;, &lt;a&gt;Rebecca Stow Stone (born Clark)&lt;/a&gt;, &lt;a&gt;Mercy Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Isaac Clarke&lt;/a&gt;, &lt;a&gt;Jonathan Clark&lt;/a&gt;
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: May 26 1693 - Milford, New Haven Co, Connecticut,&amp;lt;br&amp;gt;Marriage: Spouse: Joseph Willard, Sr. - July 5 1715 - Framingham, Middlesex, MA&amp;lt;br&amp;gt;Death: June 3 1774 - Grafton, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Burial: After June 3 1794 - Old Oak Street Burial Ground, Grafton, Worcester County, Massachusetts, United States&amp;lt;br&amp;gt;Father: &lt;a&gt;Isaac Clarke&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Sarah D Clarke (born Stowe)&lt;/a&gt;&amp;lt;br&amp;gt;Husband: &lt;a&gt;Joseph Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Daniel Willard, Sr.&lt;/a&gt;, &lt;a&gt;Benjamin Willard&lt;/a&gt;, &lt;a&gt;Isaac Willard&lt;/a&gt;, &lt;a&gt;Sarah Brooks (born Willard)&lt;/a&gt;, &lt;a&gt;Joseph Willard, Jr.&lt;/a&gt;, &lt;a&gt;Martha Harrington (born Willard)&lt;/a&gt;, &lt;a&gt;Solomon Willard&lt;/a&gt;, &lt;a&gt;Hannah Newton (born Willard)&lt;/a&gt;, &lt;a&gt;Phebe Willard&lt;/a&gt;, &lt;a&gt;Josiah Willard, Sr.&lt;/a&gt;, &lt;a&gt;Mary Goddard (born Willard)&lt;/a&gt;, &lt;a&gt;Simon Willard&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Sarah Drury (born Clark)&lt;/a&gt;, &lt;a&gt;Jonathan Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Mary Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark&lt;/a&gt;, &lt;a&gt;Rebecca Stow Stone (born Clark)&lt;/a&gt;, &lt;a&gt;Mercy Clark&lt;/a&gt;, &lt;a&gt;Matthias Clark (born Clarke)&lt;/a&gt;, &lt;a&gt;Isaac Clarke&lt;/a&gt;, &lt;a&gt;Jonathan Clark&lt;/a&gt;
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1693 - Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts &amp;lt;br&amp;gt;Death: June 3 1794 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Mother: Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Husband: Major Joseph Willard&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac Willard Josiah Willard Sarah Brooks (born Willard) Mary Willard Joseph Willard Simon Willard Solomon Willard Phebe Willard Benjamin Willard&amp;lt;br&amp;gt;Siblings: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMatthias Clark
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Martha Willard (born Clarke)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1693 - Middlesex County, Massachusetts&amp;lt;br&amp;gt;Marriage: Jan 5 1715 - Framingham, Middlesex, Massachusetts &amp;lt;br&amp;gt;Death: June 3 1794 - Grafton, Worcester, Massachusetts&amp;lt;br&amp;gt;Father: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Mother: Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Husband: Major Joseph Willard&amp;lt;br&amp;gt;Children: Hannah Newton (born Willard Roberts, Robbards)Lieut. Issac Willard Josiah Willard Sarah Brooks (born Willard) Mary Willard Joseph Willard Simon Willard Solomon Willard Phebe Willard Benjamin Willard&amp;lt;br&amp;gt;Siblings: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMatthias Clark
 

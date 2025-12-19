@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1615
-
 * Birthplace: England, UK
-
 * Death: 2 DEC 1676
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 60-61
-
 
 
 == Ship
@@ -70,24 +64,20 @@ https://cfsjksas.gigalixirapp.com/person?p=p0901http://localhost:4000/person?p=p
 
 == Other
 emigration:  London to Virginia
-<p>
-2 DATE 1635
-2 AGE 19-20
-</p>
 
+* DATE 1635
+
+* AGE 19-20
 event:  Pequot War
-<p>
-2 TYPE Military Service
-2 DATE 1637
-2 AGE 21-22
-</p>
- Skilled interpreter of Indian language
-<p>
-2 TYPE Fact
-</p>
 
+* TYPE Military Service
+
+* DATE 1637
+
+* AGE 21-22 Skilled interpreter of Indian language
+
+* TYPE Fact
 occupation: Trader
-
 
 == Sources
 

@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 16 SEP 1645
-
 * Birthplace: Boston, Middlesex, Massachusetts, United States
-
 * Death: 3 AUG 1706
-
 * Deathplace: New London Town, CT
-
 * Buried: 
-<p>
-2 DATE AUG 1706
-2 PLAC New London, New London, CT
-</p>
 
+* DATE AUG 1706
+
+* PLAC New London, New London, CT
 * Age at Death: 60
-
 
 
 == Family
@@ -84,24 +77,26 @@ https://cfsjksas.gigalixirapp.com/person?p=p1252http://localhost:4000/person?p=p
 
 == Other
 occupation: Mariner
-
 residence: 
-<p>
-2 DATE 1645
-2 AGE 0
-2 ADDR
-3 ADR2 Boston, Suffolk, Massachusetts, United States
-</p>
 
+* DATE 1645
+
+* AGE 0
+
+* ADDR
+
+* ADR2 Boston, Suffolk, Massachusetts, United States
 
 == Sources
 * @S50@
-<p>
-2 PAGE Benjamin Shapley
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Smart Match
-</p>
 
+* PAGE Benjamin Shapley
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Smart Match
 

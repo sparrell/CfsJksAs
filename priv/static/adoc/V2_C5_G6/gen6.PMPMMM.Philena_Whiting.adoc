@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 22 MAY 1743
-
 * Birthplace: Newport, Newport, Rhode Island, USA
-
 * Baptism: 
-<p>
-2 DATE 22 MAY 1743
-2 PLAC Newport, Newport, Rhode Island, USA
-2 AGE About 0
-</p>
 
+* DATE 22 MAY 1743
+
+* PLAC Newport, Newport, Rhode Island, USA
+
+* AGE About 0
 * Death: 12 APR 1781
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: About 37
-
 
 
 == Family

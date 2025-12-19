@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 26 NOV 1626
-
 * Birthplace: Taunton, Somerset, England, UK
-
 * Death: 20 FEB 1698
-
 * Deathplace: Windsor, Hartford, Connecticut, USA
-
 * Age at Death: 71
-
 
 
 == Ship
@@ -56,13 +50,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0229http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship "Hopewell" with parents
-<p>
-2 DATE 1635
-2 AGE 8-9
-</p>
 
+* DATE 1635
+
+* AGE 8-9
 occupation: A tanner at Windsor
-
 
 == Sources
 

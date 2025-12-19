@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 AUG 1697
-
 * Birthplace: Eastham, Barnstable Co., Massachusetts Colony
-
 * Death: 10 MAR 1775
-
 * Deathplace: Amenia, Dutchess, New York
-
 * Age at Death: 77
-
 
 
 == Family
@@ -48,18 +42,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p1258http://localhost:4000/person?p=p
 
 == Other
 name_suffix: Sr.
-
 occupation: Blacksmith
-
 
 == Sources
 * @S51@
-<p>
-2 PAGE Joshua Paine, Sr.
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE Joshua Paine, Sr.
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Person Discovery
 

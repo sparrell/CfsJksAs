@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1606
-
 * Birthplace: County of Suffolk, England, UK
-
 * Death: 1678
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: About 71-72
-
 
 
 == Ship
@@ -56,60 +50,54 @@ https://cfsjksas.gigalixirapp.com/person?p=p0439http://localhost:4000/person?p=p
 
 == Other
 emigration:  arrives Boston
-<p>
-2 DATE 1630
-2 AGE About 23-24
-</p>
 
+* DATE 1630
+
+* AGE About 23-24
 event:  Deacon of the Ipswich Church
-<p>
-2 TYPE Fact 2
-</p>
- Deacon of the Ipswich Church
-<p>
-2 TYPE Fact 5
-2 DATE MAR 1639
-2 AGE About 32-33
-</p>
- Elected Deputy to Mass. General Court
-<p>
-2 TYPE Fact 4
-2 DATE 1635
-2 AGE About 28-29
-</p>
- Ensign
-<p>
-2 TYPE Military Service
-2 DATE 1662
-2 AGE About 55-56
-</p>
- Freeman Ipswich
-<p>
-2 TYPE Fact 4
-2 DATE 4 MAR 1644
-2 AGE About 37-38
-</p>
- moves to Ipswich, MA
-<p>
-2 TYPE Move
-2 DATE 1633
-2 PLAC Ipswich, Essex, Massachusetts, USA
-2 AGE About 26-27
-</p>
 
+* TYPE Fact 2 Deacon of the Ipswich Church
+
+* TYPE Fact 5
+
+* DATE MAR 1639
+
+* AGE About 32-33 Elected Deputy to Mass. General Court
+
+* TYPE Fact 4
+
+* DATE 1635
+
+* AGE About 28-29 Ensign
+
+* TYPE Military Service
+
+* DATE 1662
+
+* AGE About 55-56 Freeman Ipswich
+
+* TYPE Fact 4
+
+* DATE 4 MAR 1644
+
+* AGE About 37-38 moves to Ipswich, MA
+
+* TYPE Move
+
+* DATE 1633
+
+* PLAC Ipswich, Essex, Massachusetts, USA
+
+* AGE About 26-27
 notes: Apparently trained as a surveyor, for he was in great demand in laying out lands and determining boundaries between towns
-
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AThomas_Howlett_%281%29:
 will: Signed will with mark
-<p>
-2 DATE NOV 1667
-2 AGE About 60-61
-</p>
 
+* DATE NOV 1667
+
+* AGE About 60-61
 
 == Sources
 

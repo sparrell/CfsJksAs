@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1620
-
 * Birthplace: Ipplepen, Devon, England, UK
-
 * Death: 18 APR 1700
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: About 79-80
-
 
 
 == Ship
@@ -139,41 +133,36 @@ https://cfsjksas.gigalixirapp.com/person?p=p0266http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE BEF 1641
-2 PLAC Gloucester, Essex, Massachusetts, USA
-2 AGE About 20-21
-</p>
 
+* DATE BEF 1641
+
+* PLAC Gloucester, Essex, Massachusetts, USA
+
+* AGE About 20-21
 event:  Captain, Militia
-<p>
-2 TYPE Military Service
-2 DATE 1673
-2 AGE About 52-53
-</p>
- Deputy
-<p>
-2 TYPE _ELEC
-2 DATE 1656
-2 AGE About 35-36
-</p>
- Ensign, Militia
-<p>
-2 TYPE Military Service
-</p>
- King Phillip's War (see notes)
-<p>
-2 TYPE Military Service
-</p>
- Lieutenant, Militia
-<p>
-2 TYPE Military Service
-2 DATE 1665
-2 AGE About 44-45
-</p>
 
+* TYPE Military Service
+
+* DATE 1673
+
+* AGE About 52-53 Deputy
+
+* TYPE _ELEC
+
+* DATE 1656
+
+* AGE About 35-36 Ensign, Militia
+
+* TYPE Military Service King Phillip's War (see notes)
+
+* TYPE Military Service Lieutenant, Militia
+
+* TYPE Military Service
+
+* DATE 1665
+
+* AGE About 44-45
 notes: Captain James Avery served throughout King Phillip's war and was in the Great Swamp Fight. He commanded the New London Militia Company that participated in the capture of Chief Canonchet (see John Branch and GeorgeDenison).
-
 
 == Sources
 

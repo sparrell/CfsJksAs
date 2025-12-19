@@ -7,30 +7,23 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 1629
-
 * Birthplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Christening: 
-<p>
-2 DATE 28 NOV 1670
-2 PLAC Eastham, Barnstable, Massachusetts Bay Colony, British Colonial America
-2 AGE 40-41
-</p>
 
+* DATE 28 NOV 1670
+
+* PLAC Eastham, Barnstable, Massachusetts Bay Colony, British Colonial America
+
+* AGE 40-41
 * Death: 7 APR 1692
-
 * Deathplace: Eastham, Barnstable, Massachusetts, USA
-
 * Buried: 
-<p>
-2 DATE APR 1692
-2 PLAC Eastham, Barnstable, Massachusetts Bay Colony, British Colonial America
-</p>
 
+* DATE APR 1692
+
+* PLAC Eastham, Barnstable, Massachusetts Bay Colony, British Colonial America
 * Age at Death: 62-63
-
 
 
 == Family

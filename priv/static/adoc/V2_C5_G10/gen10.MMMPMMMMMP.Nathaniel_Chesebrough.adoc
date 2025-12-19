@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 JAN 1630
-
 * Birthplace: Boston, Lincolnshire, England, UK
-
 * Death: 22 DEC 1678
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 48
-
 
 
 == Ship
@@ -70,13 +64,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0960http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC Stonington, New London, Connecticut, USA
-2 AGE 38-39
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC Stonington, New London, Connecticut, USA
+
+* AGE 38-39
 
 == Sources
 

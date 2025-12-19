@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 SEP 1708
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 * Death: 30 SEP 1799
-
 * Deathplace: Ledyard, New London, Connecticut, USA
-
 * Age at Death: 91
-
 
 
 == Family
@@ -61,20 +55,19 @@ https://cfsjksas.gigalixirapp.com/person?p=p0259http://localhost:4000/person?p=p
 
 == Other
 event:  Ensign, 2nd Groton Company
-<p>
-2 TYPE Military Service
-2 DATE 1746
-2 AGE 37-38
-</p>
- Lieutenant, 2nd Groton Company
-<p>
-2 TYPE Military Service
-2 DATE 1749
-2 AGE 40-41
-</p>
 
+* TYPE Military Service
+
+* DATE 1746
+
+* AGE 37-38 Lieutenant, 2nd Groton Company
+
+* TYPE Military Service
+
+* DATE 1749
+
+* AGE 40-41
 occupation: Farmer
-
 
 == Sources
 

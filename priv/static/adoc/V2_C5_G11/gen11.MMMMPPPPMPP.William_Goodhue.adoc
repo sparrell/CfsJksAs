@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 10 FEB 1613
-
 * Birthplace: Deptford, Surrey, England, UK
-
 * Death: 1699
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: 85-86
-
 
 
 == Ship
@@ -70,18 +64,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0630http://localhost:4000/person?p=p
 
 == Other
 event:  Deacon of the Ipswich Church
-<p>
-2 TYPE Appointed
-2 DATE 1658
-2 AGE 44-45
-</p>
- _ELEC of Goodhue, William = Representative (and subsequent years)
-<p>
-2 TYPE _ELEC
-2 DATE 1666
-2 AGE 52-53
-</p>
 
+* TYPE Appointed
+
+* DATE 1658
+
+* AGE 44-45 _ELEC of Goodhue, William = Representative (and subsequent years)
+
+* TYPE _ELEC
+
+* DATE 1666
+
+* AGE 52-53
 
 == Sources
 

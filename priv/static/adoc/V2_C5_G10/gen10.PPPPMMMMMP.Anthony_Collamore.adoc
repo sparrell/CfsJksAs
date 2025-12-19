@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1640
-
 * Birthplace: Northam, Devonshire, England, UK
-
 * Death: 16 DEC 1693
-
 * Death note: sea off North Scituate
-
 * Age at Death: About 52-53
-
 * Death Cause: Drowning
-
 
 
 == Ship
@@ -71,42 +64,32 @@ https://cfsjksas.gigalixirapp.com/person?p=p0214http://localhost:4000/person?p=p
 
 == Other
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-
 emigration:  Northam Devon to Scitiate
-<p>
-2 DATE 1665
-2 AGE About 24-25
-</p>
 
+* DATE 1665
+
+* AGE About 24-25
 event:  Captain - Scituate Militia Company
-<p>
-2 TYPE Military Service
-2 DATE 1692
-2 AGE About 51-52
-</p>
- Drowning
-<p>
-2 TYPE _DCAUSE
-</p>
- Lieutenant, Scituate Militia
-<p>
-2 TYPE Military Service
-2 DATE 1686
-2 AGE About 45-46
-</p>
 
+* TYPE Military Service
+
+* DATE 1692
+
+* AGE About 51-52 Drowning
+
+* TYPE _DCAUSE Lieutenant, Scituate Militia
+
+* TYPE Military Service
+
+* DATE 1686
+
+* AGE About 45-46
 notes: Peter Collamore settled at Wills Island in the marshes on the Scituate side of the North River before 1643. In 1650 he purchased a farm from Edward Foster on the adjacent mainland (The Collamore farm site consistedof 20 acres of upland roughly bounded by  the present Route 3A on the west, the Driftway to the north and the North River marshes to the east and south together with 12 acres of adjoining marsh. Being childless, Peter wrote to his brother in Northam, Devon with a request that one of his nephews come to New England to be his heir. In 1665, Anthony Collamore accepted the invitation andcame to live with his uncle. Peter died in 1684 and left his estate including the sloop Mayflower  and the farm to Anthony, as promised. In 1666 Anthony Collamore married Sarah Chittenden and over the following 13 years, they had one son and four daughters. Anthony was active inthe Scituate militia company, rising through the ranks to Lieutenant in1686 and Captain in 1692. On December 15, 1693, Anthony Collamore loaded his sloop at Hobart?s Landing  with a cargo of firewood for the Boston market. He sailed down the North river as soon as the tide started to ebb in orderto take advantage of the current and to cross the bar at the old mouth without grounding. He then entered Scituate harbor  and anchored for the night. Thefollowing morning five passengers for Boston boarded the sloop - two men, a woman and two "lads". The day was overcast with a raw wind from thenorth-northeast. However, the weather did not seem unduly threateningand several vessels including Collamore?s sloop put to sea as the tidestarted to ebb. 
-<p>
 				Collamore's vessel was noted by several observers as it sailed north along the Scituate coast over the next hour. During that time, a storm was rapidly developing and Collamore's sloop finally disappeared from view in a blizzard of wind-driven snow. Before dark of that same day, billets of cordwood and wreckage from a vessel began coming ashore on NorthScituate beach. On the following day, the body of Ephraim Turner, aged26, came ashore on the beach. Fourteen days later, the body of AnthonyCollamore came ashore so badly battered that identification could onlybe made from his clothing. Collamore?s body was escorted to the old church on Meetinghouse Lane by the militia company under arms and he was buriedbeside the church. No other bodies were ever recovered. From the pattern of the wreckage and cargo on North Scituate beach and the rapidity with which it came ashore, it was apparent that the sloop had been driven on a ledge just offshore. That ledge has been identifiedon marine charts ever since as "Collamore's Ledge". A monument which includes the original slate headstone was later erected in the Old Meeting House Cemetary by Anthony's descendants. Ancestor of Presidents William Henry Harrison and Benjamin Harrison.
-</p>
-
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnthony_Collamore_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAnthony_Collamore_%281%29:
 title: Captain
-
 
 == Sources
 

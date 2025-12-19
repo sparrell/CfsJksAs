@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1605
-
 * Birthplace: Newcastle-Under-Lyme, Staffordshire, England, UK
-
 * Death: 1686
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 * Age at Death: 80-81
-
 
 
 == Ship
@@ -70,15 +64,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0883http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1637
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE 31-32
-</p>
 
+* TYPE Freeman
+
+* DATE 1637
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE 31-32
 occupation: Congregational Minister
-
 
 == Sources
 

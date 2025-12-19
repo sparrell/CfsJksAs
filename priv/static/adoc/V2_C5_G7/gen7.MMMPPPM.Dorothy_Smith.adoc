@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 18 APR 1729
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 14 JAN 1813
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
-</p>
 
+* PLAC Smith Lake Cemetery, Groton, New London, Connecticut, USA
 * Age at Death: 83
-
 
 
 == Family

@@ -7,15 +7,10 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1639
-
 * Birthplace: Ipswich, Essex, Massachusetts, USA
-
 * Death: 2 SEP 1697
-
 * Age at Death: 57-58
-
 
 
 == Family
@@ -63,20 +58,16 @@ https://cfsjksas.gigalixirapp.com/person?p=p0582http://localhost:4000/person?p=p
 
 == Other
 event:  Deacon
-<p>
-2 TYPE Church
-</p>
- Representative
-<p>
-2 TYPE Fact 2
-2 DATE 1672
-2 AGE 32-33
-</p>
- Selectman-Ipswich
-<p>
-2 TYPE Fact
-</p>
 
+* TYPE Church Representative
+
+* TYPE Fact 2
+
+* DATE 1672
+
+* AGE 32-33 Selectman-Ipswich
+
+* TYPE Fact
 
 == Sources
 

@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 9 MAY 1602
-
 * Birthplace: Hingham, Norfolk, England, UK
-
 * Baptism: 
-<p>
-2 DATE 9 MAY 1602
-2 PLAC Hingham, Norfolk, England, UK
-2 AGE About 0
-</p>
 
+* DATE 9 MAY 1602
+
+* PLAC Hingham, Norfolk, England, UK
+
+* AGE About 0
 * Death: 7 JUL 1687
-
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
-
 * Age at Death: About 85
-
 
 
 == Ship
@@ -62,20 +56,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0171http://localhost:4000/person?p=p
 
 == Other
 emigration:  Hingham England to Hingham MA
-<p>
-2 DATE 1635
-2 AGE About 32-33
-</p>
 
+* DATE 1635
+
+* AGE About 32-33
 notes: Illegitimate son of Katherine Farrow, father unknown
-
 occupation: Carpenter
-
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Farrow_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Farrow_%281%29:
 
 == Sources
 

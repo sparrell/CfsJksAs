@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1645
-
 * Birthplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Death: 3 NOV 1723
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 * Age at Death: About 77-78
-
 
 
 == Family
@@ -65,19 +59,17 @@ https://cfsjksas.gigalixirapp.com/person?p=p0770http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1689
-2 PLAC Duxbury, Plymouth, Massachusetts, USA
-2 AGE About 43-44
-</p>
- Deacon - First Church
-<p>
-2 TYPE Church
-</p>
 
+* TYPE Freeman
+
+* DATE 1689
+
+* PLAC Duxbury, Plymouth, Massachusetts, USA
+
+* AGE About 43-44 Deacon - First Church
+
+* TYPE Church
 occupation: Carpenter
-
 
 == Sources
 

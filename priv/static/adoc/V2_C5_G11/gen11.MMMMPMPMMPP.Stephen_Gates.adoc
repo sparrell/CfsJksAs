@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Hingham, Norfolk, England, UK
-
 * Death: 3 OCT 1662
-
 * Deathplace: Cambridge, Middlesex, Massachusetts, USA
-
 
 
 == Ship
@@ -66,43 +62,37 @@ https://cfsjksas.gigalixirapp.com/person?p=p0635http://localhost:4000/person?p=p
 
 == Other
 emigration:  settled in Hingham MA
-<p>
-2 DATE 1638
-</p>
 
+* DATE 1638
 event: 
-<p>
-2 TYPE Fact 2
-2 DATE 1652
-2 PLAC Cambridge, Middlesex, Massachusetts, USA
-</p>
 
-<p>
-2 TYPE Fact 4
-2 DATE 1653
-2 PLAC Lancaster, Worcester, Massachusetts, USA
-</p>
+* TYPE Fact 2
 
-<p>
-2 TYPE Fact 5
-2 DATE 1656
-2 PLAC Cambridge, Middlesex, Massachusetts, USA
-</p>
- Constable
-<p>
-2 TYPE Fact 4
-2 DATE 1657
-</p>
- Emigrated in ship "Diligent"
-<p>
-2 TYPE Military Service
-2 DATE 1638
-</p>
- Returned to Cambridge
-<p>
-2 TYPE Fact 7
-</p>
+* DATE 1652
 
+* PLAC Cambridge, Middlesex, Massachusetts, USA
+
+* TYPE Fact 4
+
+* DATE 1653
+
+* PLAC Lancaster, Worcester, Massachusetts, USA
+
+* TYPE Fact 5
+
+* DATE 1656
+
+* PLAC Cambridge, Middlesex, Massachusetts, USA Constable
+
+* TYPE Fact 4
+
+* DATE 1657 Emigrated in ship "Diligent"
+
+* TYPE Military Service
+
+* DATE 1638 Returned to Cambridge
+
+* TYPE Fact 7
 
 == Sources
 

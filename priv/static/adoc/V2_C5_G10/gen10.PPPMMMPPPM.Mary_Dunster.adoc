@@ -7,26 +7,19 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Noyes
-
 * Birth: BEF 29 OCT 1629
-
 * Birthplace: Bury, Lancashire, England
-
 * Baptism: 
-<p>
-2 DATE 15 DEC 1630
-2 PLAC Bury, Lancashire, England
-2 AGE About 1
-</p>
 
+* DATE 15 DEC 1630
+
+* PLAC Bury, Lancashire, England
+
+* AGE About 1
 * Death: 28 DEC 1715
-
 * Deathplace: Sudbury, Middlesex, Massachusetts, Colonial America
-
 * Age at Death: About 86
-
 
 
 == Ship
@@ -65,8 +58,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1288http://localhost:4000/person?p=p
 == Other
 residence: ADDR ADR1 United States
 
-
 == Sources
 * @S102@ QUAY DATA TEXT Mary Noyes (born Dunster)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Alias name: Mary (Dunster) [Willard] Noyes, widow Willard married Noyes&amp;lt;br&amp;gt;Residence: United States&amp;lt;br&amp;gt;Birth: Before Oct 29 1629 - Bury, Lancashire, England&amp;lt;br&amp;gt;Baptism: Dec 15 1630 - Bury, Lancashire, England&amp;lt;br&amp;gt;Marriage: Spouse: Joseph Noyes - July 9 1680 - Sudbury, Middlesex County, Massachusetts&amp;lt;br&amp;gt;Death: Dec 28 1715 - Sudbury, Middlesex, Massachusetts, Colonial America&amp;lt;br&amp;gt;Burial: 1715&amp;lt;br&amp;gt;Father: &lt;a&gt;Henry Dunster&lt;/a&gt;&amp;lt;br&amp;gt;Mother: &lt;a&gt;Isabel Dunster (born Kaye)&lt;/a&gt;&amp;lt;br&amp;gt;Husbands: &lt;a&gt;Simon Willard&lt;/a&gt;, &lt;a&gt;Joseph Noyes&lt;/a&gt;&amp;lt;br&amp;gt;Children: &lt;a&gt;Mary Stevens (born Willard)&lt;/a&gt;, &lt;a&gt;Henry Willard&lt;/a&gt;, &lt;a&gt;John Willard&lt;/a&gt;, &lt;a&gt;Hannah Brintnall (born Willard)&lt;/a&gt;, &lt;a&gt;Daniel Willard&lt;/a&gt;, &lt;a&gt;Jonathan Willard, I&lt;/a&gt;, &lt;a&gt;Joseph Willard&lt;/a&gt;, &lt;a&gt;Hope Willard&lt;/a&gt;, &lt;a&gt;Benjamin Willard, Sr.&lt;/a&gt;&amp;lt;br&amp;gt;Siblings: &lt;a&gt;Hannah Hills  (born Smith)&lt;/a&gt;, &lt;a&gt;Richard Dunster&lt;/a&gt;, &lt;a&gt;Mary (born Dunster), Died Young&lt;/a&gt;, &lt;a&gt;Henry Dunster, First President of Harvard&lt;/a&gt;, &lt;a&gt;John Dunster, of Elton&lt;/a&gt;, &lt;a&gt;Daniel Dunster&lt;/a&gt;, &lt;a&gt;Alice (born Dunster)&lt;/a&gt;, &lt;a&gt;Elizabeth Bowers (born Dunster)&lt;/a&gt;, &lt;a&gt;James Dunster&lt;/a&gt;, &lt;a&gt;Dorothy (born Dunster)&lt;/a&gt;
-
 

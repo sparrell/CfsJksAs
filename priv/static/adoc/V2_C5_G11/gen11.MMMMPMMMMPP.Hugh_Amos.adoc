@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1631
-
 * Birthplace: England, UK
-
 * Death: 4 DEC 1707
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 * Age at Death: 75-76
-
 
 
 == Ship
@@ -70,13 +64,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0300http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 25 MAY 1666
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 34-35
-</p>
 
+* TYPE Freeman
+
+* DATE 25 MAY 1666
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 34-35
 
 == Sources
 

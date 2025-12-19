@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 2 JUL 1655
-
 * Birthplace: Boston, Suffolk, Massachusetts, USA
-
 * Death: 14 OCT 1702
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 47
-
 
 
 == Family
@@ -50,7 +44,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p1014http://localhost:4000/person?p=p
 
 == Other
 occupation: Housewright and Yeoman
-
 
 == Sources
 

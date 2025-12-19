@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1612
-
 * Birthplace: England, UK
-
 * Death: 1676
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 63-64
-
 
 
 == Ship
@@ -68,11 +62,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0899http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship Diligent, England to Boston
-<p>
-2 DATE 1638
-2 AGE 25-26
-</p>
 
+* DATE 1638
+
+* AGE 25-26
 
 == Sources
 

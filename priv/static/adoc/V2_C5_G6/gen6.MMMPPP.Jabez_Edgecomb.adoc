@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 6 OCT 1763
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 18 MAY 1843
-
 * Deathplace: Stonington, New London, Connecticut, USA
-
 * Age at Death: 79
-
 
 
 == Family
@@ -57,12 +51,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0834http://localhost:4000/person?p=p
 
 == Other
 event:  Revolution
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 notes: 1840 Connecticut Census listed Jabez Edgecomb, age 77, as a pensioner of the Revolutionary War
-
 
 == Sources
 

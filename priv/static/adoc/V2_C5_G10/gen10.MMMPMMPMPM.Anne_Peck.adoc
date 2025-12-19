@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 16 NOV 1619
-
 * Birthplace: Beccles, Suffolk, England, UK
-
 * Death: 30 JUN 1672
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 * Age at Death: 52
-
 
 
 == Ship
@@ -126,9 +120,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0953http://localhost:4000/person?p=p
 
 == Other
 event: 
-
 notes: In 1638, the Rev. Robert Peck left Hingham, Norfolk, England with his wife and daughter, Anne. They sailed to Boston from Ipswich on the ship,Diligent, and immediately went to Hingham MA. where a number of his former parishoners had settled. In 1641 Peck and his wife returned to England. In the meanwhile, Anne had married John Mason and she remained inNew England.
-
 
 == Sources
 

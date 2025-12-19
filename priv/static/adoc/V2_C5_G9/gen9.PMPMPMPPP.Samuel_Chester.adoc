@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1660
-
 * Birthplace: Boston, Suffolk, Massachusetts, USA
-
 * Baptism:  Christened in New London
-<p>
-2 DATE 5 OCT 1670
-2 PLAC New London, New London, Connecticut, USA
-2 AGE About 9-10
-</p>
 
+* DATE 5 OCT 1670
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE About 9-10
 * Death: 12 MAY 1689
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: About 28-29
-
 
 
 == Family
@@ -58,7 +52,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0091http://localhost:4000/person?p=p
 
 == Other
 occupation: Master Mariner
-
 
 == Sources
 

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 26 MAR 1610
-
 * Birthplace: Chippenham, Wiltshire, England, UK
-
 * Death: 12 OCT 1671
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: 61
-
 
 
 == Ship
@@ -55,31 +49,29 @@ https://cfsjksas.gigalixirapp.com/person?p=p0118http://localhost:4000/person?p=p
 
 == Other
 event:  Clerk of the train band
-<p>
-2 TYPE Fact 4
-2 DATE 1640
-2 AGE 29-30
-</p>
- Constable
-<p>
-2 TYPE Fact 4
-</p>
- England to Saybrook CT (Notes)
-<p>
-2 TYPE Military Service
-2 DATE 1635
-2 AGE 24-25
-</p>
- Settled in Wethersfield
-<p>
-2 TYPE Fact 2
-2 DATE ABT 1638
-2 PLAC Wethersfield, Hartford, Connecticut, USA
-2 AGE About 27-28
-</p>
 
+* TYPE Fact 4
+
+* DATE 1640
+
+* AGE 29-30 Constable
+
+* TYPE Fact 4 England to Saybrook CT (Notes)
+
+* TYPE Military Service
+
+* DATE 1635
+
+* AGE 24-25 Settled in Wethersfield
+
+* TYPE Fact 2
+
+* DATE ABT 1638
+
+* PLAC Wethersfield, Hartford, Connecticut, USA
+
+* AGE About 27-28
 notes: Thomas Hurlburt came to America with Lieutenant Lyon Gardiner in 1636 in the ship Bachilor. Gardiner recruited him because of his skills as a professional soldier and as a blacksmith. The Hurlburt party included his wife, her female servant and ten other males.
-<p>
 
 Gardiner was under contract to build a fort at the mouth of the Connecticut to keep the Dutch out of the river. Meanwhile, the Pequot war was developing.
 
@@ -88,10 +80,7 @@ On February 22,1637, Gardiner took ten men a half-mile from the fort to clear we
 During the siege of Saybrook fort, Hurlburt forged sharp iron points  which pierced the moccasins of the Pequots when they tried to sneak up on the fort at night.
 
 Hurlburt received a land grant in Wethersfield for service in the Pequot War and settled there. He was active in the militia and served in the legislature.
-</p>
-
 occupation: Blacksmith
-
 
 == Sources
 

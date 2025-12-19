@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 29 SEP 1624
-
 * Birthplace: Woodditton, Cambridgeshire, England, UK
-
 * Death: 9 APR 1703
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: 78
-
 
 
 == Ship
@@ -57,23 +51,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0311http://localhost:4000/person?p=p
 
 == Other
 emigration:  Came with parents on the "Increase"
-<p>
-2 DATE 1635
-2 AGE 10-11
-</p>
 
+* DATE 1635
+
+* AGE 10-11
 event:  Sgt. - Militia
-<p>
-2 TYPE Military Service
-</p>
- _ELEC of Kilbourn, John - Selectman of Wethersfield
-<p>
-2 TYPE _ELEC
-2 DATE 1683
-2 PLAC Wethersfield, Hartford, Connecticut, USA
-2 AGE 58-59
-</p>
 
+* TYPE Military Service _ELEC of Kilbourn, John - Selectman of Wethersfield
+
+* TYPE _ELEC
+
+* DATE 1683
+
+* PLAC Wethersfield, Hartford, Connecticut, USA
+
+* AGE 58-59
 
 == Sources
 

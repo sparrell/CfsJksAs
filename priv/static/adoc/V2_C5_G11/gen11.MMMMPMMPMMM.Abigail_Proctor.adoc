@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: ABT 1640
-
 * Birthplace: Ipswich, Essex, Massachusetts, USA
-
 * Death: 1 MAR 1732
-
 * Deathplace: Ipswich, Essex, Massachusetts, USA
-
 * Age at Death: About 91-92
-
 
 
 == Family
@@ -67,14 +61,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0458http://localhost:4000/person?p=p
 
 == Other
 event:  Brother John Proctor condemned for witchcraft
-<p>
-2 TYPE Fact 1
-2 DATE 1692
-2 AGE About 51-52
-</p>
 
+* TYPE Fact 1
+
+* DATE 1692
+
+* AGE About 51-52
 notes: Abigail Proctor was the leader of a party of women who raised the frameof the meeting house at Chebacco, after an order had been issued by theGeneral Court forbidding the men from raising it. The women were arrested, acknowledged their offense, but they accomplished their purpose.
-
 
 == Sources
 

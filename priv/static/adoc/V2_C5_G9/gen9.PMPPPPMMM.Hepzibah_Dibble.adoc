@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 5 FEB 1641
-
 * Birthplace: Windsor, Hartford, Connecticut, USA
-
 * Baptism:  Baptized - Windsor CT
-<p>
-2 DATE 25 DEC 1642
-2 PLAC Windsor, Hartford, Connecticut, USA
-2 AGE 1
-</p>
 
+* DATE 25 DEC 1642
+
+* PLAC Windsor, Hartford, Connecticut, USA
+
+* AGE 1
 * Death: 22 FEB 1698
-
 * Deathplace: Windsor, Hartford, Connecticut, USA
-
 * Age at Death: 57
-
 
 
 == Family

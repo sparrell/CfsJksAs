@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 12 SEP 1693
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 1747
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 53-54
-
 
 
 == Family
@@ -51,7 +45,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0333http://localhost:4000/person?p=p
 
 == Other
 occupation: Cordwainer
-
 
 == Sources
 

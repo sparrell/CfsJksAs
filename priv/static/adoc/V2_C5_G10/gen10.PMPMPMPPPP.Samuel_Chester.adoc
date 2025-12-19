@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 20 DEC 1638
-
 * Birthplace: Biddeford, Devon, England, UK
-
 * Death: 1710
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 71-72
-
 
 
 == Ship
@@ -55,26 +49,20 @@ https://cfsjksas.gigalixirapp.com/person?p=p0485http://localhost:4000/person?p=p
 
 == Other
 event:  Arrived New London CT from Boston
-<p>
-2 TYPE Fact 1
-2 DATE 1663
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 24-25
-</p>
- See Notes
-<p>
-2 TYPE Fact 2
-</p>
- See Notes
-<p>
-2 TYPE Fact 5
-</p>
 
+* TYPE Fact 1
+
+* DATE 1663
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 24-25 See Notes
+
+* TYPE Fact 2 See Notes
+
+* TYPE Fact 5
 notes: Samuel Chester was in the West Indies trade and in partnership with his nephew,William Condy, received a land grant for a warehouse in New London in 1664. He was much employed in land surveys, and in 1693 was one of the agents appointed by the general court of Connecticut to meet witha committee from Massachusetts to renew and settle the boundaries between the two colonies.
-
-occupation: Land surveyor
-Master Mariner
-
+occupation: Land surveyorMaster Mariner
 
 == Sources
 

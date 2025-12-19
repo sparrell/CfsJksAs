@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 21 DEC 1672
-
 * Birthplace: New London, New London Co., CT
-
 * Death: 19 OCT 1739
-
 * Deathplace: Groton, New London Co., CT
-
 * Buried: 
-<p>
-2 DATE 21 OCT 1739
-2 PLAC Groton, CT
-</p>
 
+* DATE 21 OCT 1739
+
+* PLAC Groton, CT
 * Age at Death: 66
-
 
 
 == Family
@@ -81,22 +74,25 @@ https://cfsjksas.gigalixirapp.com/person?p=p0397http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 DATE 1727
-2 AGE 54-55
-2 ADDR
-3 ADR1 New London County, CT
-</p>
 
+* DATE 1727
+
+* AGE 54-55
+
+* ADDR
+
+* ADR1 New London County, CT
 
 == Sources
 * @S50@
-<p>
-2 PAGE Ruth Morgan (born Shapley (Shapleigh))
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added by confirming a Smart Match
-</p>
 
+* PAGE Ruth Morgan (born Shapley (Shapleigh))
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added by confirming a Smart Match
 

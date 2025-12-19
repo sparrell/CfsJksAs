@@ -7,18 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birthplace: Bolton, Tolland, Connecticut, USA
-
 * Baptism: 
-<p>
-2 DATE 12 JUN 1792
-</p>
 
+* DATE 12 JUN 1792
 * Death: 29 OCT 1825
-
 * Deathplace: Bolton, Tolland, Connecticut, USA
-
 
 
 == Family
@@ -49,10 +43,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0175http://localhost:4000/person?p=p
 
 == Other
 event:  Widow of David Lawrence when she married John Strong. See Benjamin Kilbourne
-<p>
-2 TYPE First Marriage
-</p>
 
+* TYPE First Marriage
 
 == Sources
 

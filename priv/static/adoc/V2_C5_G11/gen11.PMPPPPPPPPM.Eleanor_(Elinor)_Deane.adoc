@@ -7,25 +7,17 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Cogan / Strong
-
 * Birth: ABT 1586
-
 * Birthplace: Chard, Somerset, England, United Kingdom
-
 * Death: 24 APR 1654
-
 * Deathplace: Taunton, Bristol Co., MA., USA
-
 * Buried: 
-<p>
-2 DATE 1653
-2 PLAC Taunton, Bristol Co., Massachusetts
-</p>
 
+* DATE 1653
+
+* PLAC Taunton, Bristol Co., Massachusetts
 * Age at Death: 67-68
-
 
 
 == Ship
@@ -64,29 +56,29 @@ https://cfsjksas.gigalixirapp.com/person?p=p1242http://localhost:4000/person?p=p
 
 == Other
 event:  Spouse: William Cogan
-<p>
-2 TYPE Marriage
-2 DATE 1613
-2 AGE 26-27
-</p>
 
+* TYPE Marriage
+
+* DATE 1613
+
+* AGE 26-27
 occupation: M45W-KTH
-
 residence: 
-<p>
-2 ADDR
-3 ADR1 USA
-</p>
 
+* ADDR
+
+* ADR1 USA
 
 == Sources
 * @S48@
-<p>
-2 PAGE Eleanor (Elinor) Cogan / Strong (born Deane)
-2 QUAY 3
-2 DATA
-3 DATE 13 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE Eleanor (Elinor) Cogan / Strong (born Deane)
+
+* QUAY 3
+
+* DATA
+
+* DATE 13 JAN 2019
+
+* TEXT Added via a Person Discovery
 

@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: England, UK
-
 * Death: 1650
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -68,27 +64,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p0401http://localhost:4000/person?p=p
 
 == Other
 emigration:  England to Plymouth
-<p>
-2 DATE 1633
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-</p>
 
+* DATE 1633
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
 event:  "Merchant Adventurer"  of London
-<p>
-2 TYPE Military Service
-</p>
- Admitted Freeman -
-<p>
-2 TYPE Fact 4
-2 DATE 2 MAR 1636
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-</p>
- Assistant to Governor (until 1666)
-<p>
-2 TYPE Fact 2
-2 DATE 1644
-</p>
 
+* TYPE Military Service Admitted Freeman -
+
+* TYPE Fact 4
+
+* DATE 2 MAR 1636
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA Assistant to Governor (until 1666)
+
+* TYPE Fact 2
+
+* DATE 1644
 
 == Sources
 

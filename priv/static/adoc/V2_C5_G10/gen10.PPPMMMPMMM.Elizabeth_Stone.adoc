@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Stow
-
 * Birth: 1651
-
 * Birthplace: Framingham, Middlesex, Massachusetts
-
 * Death: 17 JAN 1736
-
 * Deathplace: Marlborough, Middlesex, Massachusetts
-
 * Age at Death: 84-85
-
 
 
 == Family
@@ -54,13 +47,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p1282http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4  DATA TEXT Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1651 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Jan 17 1736 - Marlborough, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Deacon John the Elder Stone&amp;lt;br&amp;gt;Mother: Anne Stone (born Rogers Treadway, Howe)&amp;lt;br&amp;gt;Husband: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John Stow Samuel Stow Thankful Stevens (born Stowe Stow)Rachel Rice (born Stow) Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Deacon Daniel Stone, ITabitha Rice (born Stone)David StoneHannah Bent (born Stone)John Stone, II Mary Hunt (born Stone Fox)Margaret Foster (born Stone Brown)Sarah Jones (born Stone Hill)Nathaniel StoneUnknown Stone&amp;lt;br&amp;gt;Photos:
-</p>
 
+* QUAY 4  DATA TEXT Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1651 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Jan 17 1736 - Marlborough, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Deacon John the Elder Stone&amp;lt;br&amp;gt;Mother: Anne Stone (born Rogers Treadway, Howe)&amp;lt;br&amp;gt;Husband: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John Stow Samuel Stow Thankful Stevens (born Stowe Stow)Rachel Rice (born Stow) Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Deacon Daniel Stone, ITabitha Rice (born Stone)David StoneHannah Bent (born Stone)John Stone, II Mary Hunt (born Stone Fox)Margaret Foster (born Stone Brown)Sarah Jones (born Stone Hill)Nathaniel StoneUnknown Stone&amp;lt;br&amp;gt;Photos:
 * @S112@
-<p>
-2 QUAY 4 DATA TEXT Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1651 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Jan 17 1736 - Marlborough, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Deacon John the Elder Stone&amp;lt;br&amp;gt;Mother: Anne Stone (born Rogers Treadway, Howe)&amp;lt;br&amp;gt;Husband: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John Stow Samuel Stow Thankful Stevens (born Stowe Stow)Rachel Rice (born Stow) Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Deacon Daniel Stone, ITabitha Rice (born Stone)David StoneHannah Bent (born Stone)John Stone, II Mary Hunt (born Stone Fox) Margaret Foster (born Stone Brown)Sarah Jones (born Stone Hill)Nathaniel StoneUnknown Stone&amp;lt;br&amp;gt;Photos:
-</p>
 
+* QUAY 4 DATA TEXT Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: 1651 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlesex, Massachusetts&amp;lt;br&amp;gt;Death: Jan 17 1736 - Marlborough, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Deacon John the Elder Stone&amp;lt;br&amp;gt;Mother: Anne Stone (born Rogers Treadway, Howe)&amp;lt;br&amp;gt;Husband: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John Stow Samuel Stow Thankful Stevens (born Stowe Stow)Rachel Rice (born Stow) Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Deacon Daniel Stone, ITabitha Rice (born Stone)David StoneHannah Bent (born Stone)John Stone, II Mary Hunt (born Stone Fox) Margaret Foster (born Stone Brown)Sarah Jones (born Stone Hill)Nathaniel StoneUnknown Stone&amp;lt;br&amp;gt;Photos:
 

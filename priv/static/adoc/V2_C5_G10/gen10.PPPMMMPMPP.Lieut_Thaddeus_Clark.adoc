@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1635
-
 * Birthplace: Ireland
-
 * Death: 16 MAY 1690
-
 * Deathplace: Falmouth, Cumberland, Maine
-
 * Age at Death: 54-55
-
 
 
 == Ship
@@ -57,10 +51,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p1279http://localhost:4000/person?p=p
 
 == Sources
 * @S112@
-<p>
-2 QUAY 4
-2 DATA
-3 TEXT Lieut Thaddeus Clark&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1635 - Ireland&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: May 16 1690 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Wife: Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Child: Isaac Clark (born Clarke)
-</p>
 
+* QUAY 4
+
+* DATA
+
+* TEXT Lieut Thaddeus Clark&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1635 - Ireland&amp;lt;br&amp;gt;Marriage: 1662 - Falmouth, Maine&amp;lt;br&amp;gt;Death: May 16 1690 - Falmouth, Cumberland, Maine&amp;lt;br&amp;gt;Wife: Elizabeth Clark (born Mitton)&amp;lt;br&amp;gt;Child: Isaac Clark (born Clarke)
 

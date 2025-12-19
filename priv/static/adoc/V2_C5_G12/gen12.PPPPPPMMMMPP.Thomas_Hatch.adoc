@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1596
-
 * Birthplace: Wye, Kent, England, UK
-
 * Death: 14 JUN 1646
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 49-50
-
 
 
 == Ship
@@ -57,7 +51,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0366http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship "Hercules"
-
 
 == Sources
 

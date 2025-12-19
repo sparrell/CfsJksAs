@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1601
-
 * Birthplace: Mistley, Essex, England, UK
-
 * Death: 22 MAY 1677
-
 * Deathplace: Topsfield, Essex, Massachusetts, USA
-
 * Age at Death: 75-76
-
 
 
 == Ship
@@ -56,43 +50,43 @@ https://cfsjksas.gigalixirapp.com/person?p=p0435http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Fact 1
-2 DATE 1635
-2 PLAC Watertown, Middlesex, Massachusetts, USA
-2 AGE 33-34
-</p>
 
-<p>
-2 TYPE Fact 2
-2 DATE 1638
-2 PLAC Ipswich, Essex, Massachusetts, USA
-2 AGE 36-37
-</p>
+* TYPE Fact 1
 
-<p>
-2 TYPE Fact 5
-2 DATE 1652
-2 PLAC Ipswich, Essex, Massachusetts, USA
-2 AGE 50-51
-</p>
- Deacon
-<p>
-2 TYPE Fact 4
-2 PLAC Ipswich, Essex, Massachusetts, USA
-</p>
- Freeman of Ipswich MA
-<p>
-2 TYPE Freeman
-2 DATE 18 MAY 1642
-2 AGE 40-41
-</p>
+* DATE 1635
 
+* PLAC Watertown, Middlesex, Massachusetts, USA
+
+* AGE 33-34
+
+* TYPE Fact 2
+
+* DATE 1638
+
+* PLAC Ipswich, Essex, Massachusetts, USA
+
+* AGE 36-37
+
+* TYPE Fact 5
+
+* DATE 1652
+
+* PLAC Ipswich, Essex, Massachusetts, USA
+
+* AGE 50-51 Deacon
+
+* TYPE Fact 4
+
+* PLAC Ipswich, Essex, Massachusetts, USA Freeman of Ipswich MA
+
+* TYPE Freeman
+
+* DATE 18 MAY 1642
+
+* AGE 40-41
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AIsaac_Cummings_%289%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AIsaac_Cummings_%289%29:
 
 == Sources
 

@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 15 JAN 1749
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 
 
 == Family
@@ -55,12 +51,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0706http://localhost:4000/person?p=p
 
 == Other
 event:  Collector of Taxes
-<p>
-2 TYPE Appointed
-2 DATE 1786
-2 AGE 36-37
-</p>
 
+* TYPE Appointed
+
+* DATE 1786
+
+* AGE 36-37
 
 == Sources
 

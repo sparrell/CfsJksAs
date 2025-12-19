@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 4 JUN 1618
-
 * Birthplace: St. Michaels South Elmham, Suffolk, England, UK
-
 * Death: 29 AUG 1658
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 40
-
 
 
 == Ship
@@ -57,26 +51,25 @@ https://cfsjksas.gigalixirapp.com/person?p=p0177http://localhost:4000/person?p=p
 
 == Other
 event:  Ensign of the Artillery Company
-<p>
-2 TYPE Military Service
-2 DATE 1656
-2 AGE 37-38
-</p>
- Member of First Church
-<p>
-2 TYPE Fact 1
-2 DATE 1645
-2 AGE 26-27
-</p>
- Sergeant of the Artillery Company
-<p>
-2 TYPE Military Service
-2 DATE 1651
-2 AGE 32-33
-</p>
 
+* TYPE Military Service
+
+* DATE 1656
+
+* AGE 37-38 Member of First Church
+
+* TYPE Fact 1
+
+* DATE 1645
+
+* AGE 26-27 Sergeant of the Artillery Company
+
+* TYPE Military Service
+
+* DATE 1651
+
+* AGE 32-33
 occupation: Cooper
-
 
 == Sources
 

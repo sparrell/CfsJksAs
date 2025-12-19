@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: AFT 1590
-
 * Birthplace: Aston Clinton, Buckinghamshire, England, UK
-
 * Death: 21 JUL 1638
-
 * Deathplace: Atlantic Ocean
-
 * Buried:  buried at sea
-<p>
-2 PLAC buried at sea, buried at sea
-</p>
 
+* PLAC buried at sea, buried at sea
 * Age at Death: About 47-48
-
 
 
 == Ship

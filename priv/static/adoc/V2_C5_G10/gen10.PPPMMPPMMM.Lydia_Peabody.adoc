@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 1640
-
 * Birthplace: Ipswich, Essex, Massachusetts, USA
-
 * Death: 1715
-
 * Deathplace: Topsfield, Essex, Massachusetts, USA
-
 * Age at Death: 74-75
-
 
 
 == Family
@@ -52,10 +46,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0438http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALydia_Peabody_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALydia_Peabody_%281%29:
 
 == Sources
 

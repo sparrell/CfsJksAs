@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1610
-
 * Birthplace: Hingham, Norfolk, England, UK
-
 * Death: 22 AUG 1678
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 67-68
-
 
 
 == Ship
@@ -56,37 +50,36 @@ https://cfsjksas.gigalixirapp.com/person?p=p0746http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1635
-2 PLAC Hingham, Plymouth, Massachusetts, USA
-2 AGE About 24-25
-</p>
 
+* DATE 1635
+
+* PLAC Hingham, Plymouth, Massachusetts, USA
+
+* AGE About 24-25
 event:  A.B., St.Johns College, Cambridge
-<p>
-2 TYPE Degree
-2 DATE 1631
-2 AGE About 20-21
-</p>
- A.M., S. Johns College, Cambridge
-<p>
-2 TYPE Degree
-2 DATE 1635
-2 AGE About 24-25
-</p>
- General Court
-<p>
-2 TYPE Deputy
-2 DATE 1636
-2 AGE About 25-26
-</p>
 
+* TYPE Degree
+
+* DATE 1631
+
+* AGE About 20-21 A.M., S. Johns College, Cambridge
+
+* TYPE Degree
+
+* DATE 1635
+
+* AGE About 24-25 General Court
+
+* TYPE Deputy
+
+* DATE 1636
+
+* AGE About 25-26
 ordained: Pastor, First Parish, Scituate
-<p>
-2 DATE 1660
-2 AGE About 49-50
-</p>
 
+* DATE 1660
+
+* AGE About 49-50
 
 == Sources
 

@@ -7,18 +7,15 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 21 DEC 1612
-
 * Birthplace: Sandy, Bedfordshire, England, UK
-
 * Christening: 
-<p>
-2 DATE 21 DEC 1612
-2 PLAC Sandy, Bedford, England
-2 AGE 0
-</p>
 
+* DATE 21 DEC 1612
+
+* PLAC Sandy, Bedford, England
+
+* AGE 0
 
 
 == Family

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1570
-
 * Birthplace: Hingham, Norfolk, England, UK
-
 * Death: 8 MAR 1646
-
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
-
 * Age at Death: 75-76
-
 
 
 == Ship
@@ -130,20 +124,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0600http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1635
-2 PLAC Hingham, Plymouth, Massachusetts, USA
-2 AGE 64-65
-</p>
 
+* DATE 1635
+
+* PLAC Hingham, Plymouth, Massachusetts, USA
+
+* AGE 64-65
 event: 
-<p>
-2 TYPE Military Service
-2 DATE JUN 1633
-2 PLAC Charlestown, Boston, Suffolk, Massachusetts, USA
-2 AGE 62-63
-</p>
 
+* TYPE Military Service
+
+* DATE JUN 1633
+
+* PLAC Charlestown, Boston, Suffolk, Massachusetts, USA
+
+* AGE 62-63
 
 == Sources
 

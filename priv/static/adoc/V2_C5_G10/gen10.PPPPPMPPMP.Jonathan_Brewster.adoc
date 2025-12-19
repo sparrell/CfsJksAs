@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 12 AUG 1593
-
 * Birthplace: Scrooby, Nottinghamshire, England, UK
-
 * Death: 7 AUG 1659
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 65
-
 
 
 == Ship
@@ -190,39 +184,37 @@ https://cfsjksas.gigalixirapp.com/person?p=p0487http://localhost:4000/person?p=p
 
 == Other
 emigration:  arrived Plymouth on the FORTUNE from London
-<p>
-2 DATE 9 NOV 1621
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE 28
-</p>
 
+* DATE 9 NOV 1621
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE 28
 event:  Military Commisioner for the Pequot War
-<p>
-2 TYPE Appointed
-2 DATE 1637
-2 AGE 43-44
-</p>
- Sold house at Duxbury, Plymouth Colony to Dr. Comfort Starr
-<p>
-2 TYPE Fact 7
-2 DATE 19 JUN 1638
-2 PLAC Duxbury, Plymouth, Massachusetts, USA
-2 AGE 44
-</p>
 
+* TYPE Appointed
+
+* DATE 1637
+
+* AGE 43-44 Sold house at Duxbury, Plymouth Colony to Dr. Comfort Starr
+
+* TYPE Fact 7
+
+* DATE 19 JUN 1638
+
+* PLAC Duxbury, Plymouth, Massachusetts, USA
+
+* AGE 44
 notes: Jonathan Brewster obtained a licence to operate a ferry across the North River between present day Scituate and Marshfield. Because af the small population at the time , this venture was a failure. Hethen became the agent for the Plymouth Colony in what later became the Connecticut Colony. Jonathan Brewster next became a trader along the coast of New England from Maine to Connecticut in a sloop as did his brother-in-law John Oldham. The murder of Oldham by Indians off Block Island was one of the precipitating events of the Pequot War. Jonathan finally established a trading post on land along the Thames River which he had purchased from Uncas, Chief of the Mohicans in 1650. His New London farm was located on what became the border between Norwich and New London lying partly in each. That is why he is recorded as dying in New London and Lucretia in Norwich although both died in the same house. He was a close friend of John Winthrop, Jr., founder of New London and first Governor of the Connecticut Colony.
-
 occupation: Coastal Trader (Notes)
-<p>
-2 DATE AFT 1630
-2 AGE About 36-37
-</p>
-Ribbonmaker in Leyden, Netherlands
-<p>
-2 DATE BEF 1620
-2 AGE About 26-27
-</p>
 
+* DATE AFT 1630
+
+* AGE About 36-37Ribbonmaker in Leyden, Netherlands
+
+* DATE BEF 1620
+
+* AGE About 26-27
 
 == Sources
 

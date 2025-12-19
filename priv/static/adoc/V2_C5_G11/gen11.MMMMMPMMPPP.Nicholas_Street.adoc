@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 26 JAN 1603
-
 * Birthplace: Bridgewater, Somerset, England, UK
-
 * Baptism: 
-<p>
-2 DATE 29 JAN 1603
-2 PLAC England, UK
-2 AGE About 0
-</p>
 
+* DATE 29 JAN 1603
+
+* PLAC England, UK
+
+* AGE About 0
 * Death: 22 APR 1676
-
 * Deathplace: New Haven, New Haven, Connecticut, USA
-
 * Age at Death: About 73
-
 
 
 == Ship
@@ -77,41 +71,34 @@ https://cfsjksas.gigalixirapp.com/person?p=p0293http://localhost:4000/person?p=p
 
 == Other
 education:  Enrolled Oxford University
-<p>
-2 DATE 2 NOV 1621
-2 AGE About 18
-</p>
 
+* DATE 2 NOV 1621
+
+* AGE About 18
 emigration:  Emigrated in ship "Susan and Ellen"
-<p>
-2 DATE 1636
-2 AGE About 32-33
-</p>
 
+* DATE 1636
+
+* AGE About 32-33
 graduation: A.B. Pembroke College Oxford
-<p>
-2 DATE MAY 1624
-2 AGE About 21
-</p>
-A.M. Emmanuel College, Oxford
-<p>
-2 DATE 1626
-2 AGE About 22-23
-</p>
 
+* DATE MAY 1624
+
+* AGE About 21A.M. Emmanuel College, Oxford
+
+* DATE 1626
+
+* AGE About 22-23
 occupation: Gentleman
-
 ordained: Installed Asst. Pastor at Taunton
-<p>
-2 DATE 17 JAN 1641
-2 AGE About 37
-</p>
-Pastor, First Church, New Haven CT
-<p>
-2 DATE 27 SEP 1667
-2 AGE About 64
-</p>
 
+* DATE 17 JAN 1641
+
+* AGE About 37Pastor, First Church, New Haven CT
+
+* DATE 27 SEP 1667
+
+* AGE About 64
 
 == Sources
 

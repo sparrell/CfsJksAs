@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 25 DEC 1713
-
 * Birthplace: Ulster, Northern Ireland, UK
-
 * Death: 25 DEC 1799
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Age at Death: 86
-
 
 
 == Ship
@@ -54,13 +48,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0078http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ulster to Plymouth MA.
-<p>
-2 DATE 1722
-2 AGE 8-9
-</p>
 
+* DATE 1722
+
+* AGE 8-9
 notes: The Whaley family were Scotch-Irish Presbyterians that emigrated from Ulster to Plymouth in 1722
-
 
 == Sources
 

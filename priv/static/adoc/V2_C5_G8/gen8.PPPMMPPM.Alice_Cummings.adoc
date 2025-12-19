@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 10 DEC 1695
-
 * Birthplace: Topsfield, Essex, Massachusetts, USA
-
 * Death: 30 APR 1734
-
 * Deathplace: Hopkinton, Middlesex, Massachusetts, USA
-
 * Age at Death: 38
-
 
 
 == Family
@@ -50,10 +44,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0144http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_Cummings_%284%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_Cummings_%284%29:
 
 == Sources
 

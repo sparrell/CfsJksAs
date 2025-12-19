@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 24 APR 1792
-
 * Birthplace: New York, USA
-
 * Death: 13 NOV 1851
-
 * Deathplace: Underhill, Chittenden, Vermont, USA
-
 * Buried: North Underhill Cemetery, Westford, Chittenden, Vermont, USA
-
 * Age at Death: 59
-
 
 
 == Family
@@ -49,7 +42,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0107http://localhost:4000/person?p=p
 
 == Other
 notes: Charity Schufeldt is presumably a descendant of Johann George Zufelt and his wife, Anna Catherine Zaam who emigrated with their children to New york about 1710. They came in a group of Evangelical Protestants fleeing religious persecution in the German pricipality of Pfalz (now the State of Rhineland- Palatinate or Rhine-Pfalz).They founded the town of Rhinebeck on the Hudson River.
-
 
 == Sources
 

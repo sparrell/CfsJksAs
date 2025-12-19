@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1562
-
 * Birthplace: Dorchester, Dorset, England, UK
-
 * Death: 8 NOV 1638
-
 * Deathplace: Dorchester, Boston, Massachusetts, USA
-
 * Age at Death: About 75-76
-
 
 
 == Ship
@@ -56,20 +50,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0018http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 25 MAY 1636
-2 AGE About 73-74
-</p>
 
+* TYPE Freeman
+
+* DATE 25 MAY 1636
+
+* AGE About 73-74
 immigration: Dorchester England to Dorchester MA
-<p>
-2 DATE JUL 1633
-2 AGE About 70-71
-</p>
 
+* DATE JUL 1633
+
+* AGE About 70-71
 occupation: Shoemaker
-
 
 == Sources
 

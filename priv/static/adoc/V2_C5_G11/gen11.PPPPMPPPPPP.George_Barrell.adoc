@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1585
-
 * Birthplace: South Elmham, Suffolk, England, UK
-
 * Death: 11 SEP 1643
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: About 57-58
-
 
 
 == Ship
@@ -56,20 +50,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0181http://localhost:4000/person?p=p
 
 == Other
 emigration:  emigrated to Boston
-<p>
-2 DATE 1637
-2 AGE About 51-52
-</p>
 
+* DATE 1637
+
+* AGE About 51-52
 event:  _ELEC of Barrell, George - Freeman
-<p>
-2 TYPE Freeman
-2 DATE 10 MAY 1643
-2 AGE About 57-58
-</p>
 
+* TYPE Freeman
+
+* DATE 10 MAY 1643
+
+* AGE About 57-58
 occupation: Cooper
-
 
 == Sources
 

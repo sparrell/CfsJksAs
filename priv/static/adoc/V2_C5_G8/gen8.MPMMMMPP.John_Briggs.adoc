@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 13 FEB 1673
-
 * Birthplace: Taunton, Bristol, Massachusetts, USA
-
 * Death: 18 MAR 1764
-
 * Deathplace: Berkley, Bristol, Massachusetts, USA
-
 * Age at Death: 91
-
 
 
 == Family
@@ -50,15 +44,15 @@ https://cfsjksas.gigalixirapp.com/person?p=p0388http://localhost:4000/person?p=p
 
 == Other
 event:  Taunton Militia Company
-<p>
-2 TYPE Military Service
-2 DATE 1700
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE 26-27
-</p>
 
+* TYPE Military Service
+
+* DATE 1700
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE 26-27
 notes: Taunton was set off from Plymouth and incorporated in 1639. Dighton was set off from Taunton  and incorporated in 1712. Berkley was incorporated in 1735 from parts of Dighton and Taunton.
-
 
 == Sources
 

@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 31 JAN 1818
-
 * Birthplace: Bolton, Tolland, Connecticut, USA
-
 * Death: BEF 20 JUL 1870
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-</p>
 
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: About 52
-
 
 
 == Family
@@ -51,25 +43,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p0106http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1850
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 31-32
-</p>
 
-<p>
-2 DATE 1860
-2 PLAC The Town Of Montville, New London, Connecticut, USA
-2 AGE 41-42
-</p>
+* DATE 1850
 
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 31-32
+
+* DATE 1860
+
+* PLAC The Town Of Montville, New London, Connecticut, USA
+
+* AGE 41-42
 occupation: Factory Worker (Census)
-<p>
-2 DATE 1860
-2 AGE 41-42
-</p>
-Farmer and Joiner
 
+* DATE 1860
+
+* AGE 41-42Farmer and Joiner
 
 == Sources
 

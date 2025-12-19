@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 9 DEC 1670
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 1760
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 89-90
-
 
 
 == Family
@@ -64,10 +58,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0192http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ARobert_Stetson_%288%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ARobert_Stetson_%288%29:
 
 == Sources
 

@@ -7,15 +7,10 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: Est. 1628
-
 * Birthplace: probably England
-
 * Death: 3 Apr 1662
-
 * Deathplace: New London, New London, Connecticut
-
 
 
 == Ship
@@ -96,7 +91,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0038http://localhost:4000/person?p=p
 
 == Other
 emigration: probably from England
-
 
 == Sources
 

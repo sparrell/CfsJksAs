@@ -21,24 +21,15 @@ add story about maid and butler stealing silver and locking her in closet
 
 
 * Sex: F
-
 * Birth: 27 NOV 1904
-
 * Birthplace: New York, New York, New York, USA
-
 * Death: 17 DEC 2002
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Buried: 
-<p>
-2 PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
-</p>
 
+* PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
 * Age at Death: 98
-
 * Death Cause: Chronic Pulmonary Disease/ Dementia
-
 
 
 == Family
@@ -63,40 +54,35 @@ https://cfsjksas.gigalixirapp.com/person?p=p0074http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1940
-2 PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
-2 AGE 35-36
-</p>
 
+* DATE 1940
+
+* PLAC Pierce St, N Kingstown, Wash, Rhode Island, USA
+
+* AGE 35-36
 education:  B.A., Rhode Island College of Education
-<p>
-2 DATE ABT 1960
-2 AGE About 55-56
-</p>
- Willimantic Normal School (now E.C.U.)
-<p>
-2 DATE 1926
-2 AGE 21-22
-</p>
 
+* DATE ABT 1960
+
+* AGE About 55-56 Willimantic Normal School (now E.C.U.)
+
+* DATE 1926
+
+* AGE 21-22
 event:  Chronic Pulmonary Disease/ Dementia
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 notes: Birth recorded in New York City as "Helene", name changed by father to "Marion".
-
 occupation: Primary School Teacher
-
 residence: 
-<p>
-2 DATE 1935
-2 AGE 30-31
-2 ADDR
-3 ADR2 W Kingston, Wash, Rhode Island
-</p>
 
+* DATE 1935
+
+* AGE 30-31
+
+* ADDR
+
+* ADR2 W Kingston, Wash, Rhode Island
 
 == Sources
 

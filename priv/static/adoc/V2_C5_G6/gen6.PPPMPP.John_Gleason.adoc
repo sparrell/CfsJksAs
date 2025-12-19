@@ -9,7 +9,6 @@ Narrative TBD
 * Sex: M
 
 
-
 == Family
 * Mother: brickwall
 * Father: brickwall
@@ -36,11 +35,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0330http://localhost:4000/person?p=p
 
 == Other
 event:  Continental Army (1832-33 pension)
-<p>
-2 TYPE Military Service
-2 DATE 1776
-</p>
 
+* TYPE Military Service
+
+* DATE 1776
 
 == Sources
 

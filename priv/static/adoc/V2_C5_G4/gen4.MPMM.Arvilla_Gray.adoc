@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 4 JAN 1808
-
 * Birthplace: Paris, Oxford, Maine, USA
-
 * Death: 14 JUL 1888
-
 * Deathplace: Dedham, Norfolk, Massachusetts, USA
-
 * Buried: 
-<p>
-2 DATE 17 JUL 1888
-2 PLAC Groveland Cemetery, Dedham, Norfolk, Massachusetts, USA
-</p>
 
+* DATE 17 JUL 1888
+
+* PLAC Groveland Cemetery, Dedham, Norfolk, Massachusetts, USA
 * Age at Death: 80
-
 
 
 == Family
@@ -52,14 +45,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0189http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1880
-2 PLAC Dedham, Norfolk, Massachusetts, USA
-2 AGE 71-72
-</p>
 
+* DATE 1880
+
+* PLAC Dedham, Norfolk, Massachusetts, USA
+
+* AGE 71-72
 occupation: Keeps House
-
 
 == Sources
 

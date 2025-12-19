@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1588
-
 * Birthplace: England, UK
-
 * Death: 1 APR 1688
-
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
-
 * Age at Death: About 99-100
-
 
 
 == Ship
@@ -56,16 +50,13 @@ https://cfsjksas.gigalixirapp.com/person?p=p0202http://localhost:4000/person?p=p
 
 == Other
 emigration:  Arr. Boston on ship Diligent from Ipswich
-<p>
-2 DATE 10 AUG 1638
-2 AGE About 49-50
-</p>
 
+* DATE 10 AUG 1638
+
+* AGE About 49-50
 event:  Shoemaker
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 
 == Sources
 

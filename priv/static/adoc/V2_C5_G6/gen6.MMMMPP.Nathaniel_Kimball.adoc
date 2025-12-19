@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 21 OCT 1768
-
 * Birthplace: Preston, New London, Connecticut, USA
-
 * Death: 3 OCT 1822
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 * Age at Death: 53
-
 
 
 == Family
@@ -57,24 +51,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0683http://localhost:4000/person?p=p
 
 == Other
 event:  Colonel of Militia, War of 1812
-<p>
-2 TYPE Military Service
-</p>
- _ELEC of Kimball, Nathaniel High Sheriff of county
-<p>
-2 TYPE _ELEC
-2 PLAC New London, Connecticut, USA
-</p>
- _ELEC of Kimball, Nathaniel Representative in Assembly for Preston
-<p>
-2 TYPE _ELEC
-2 DATE 1811
-2 PLAC Preston, New London, Connecticut, USA
-2 AGE 42-43
-</p>
 
+* TYPE Military Service _ELEC of Kimball, Nathaniel High Sheriff of county
+
+* TYPE _ELEC
+
+* PLAC New London, Connecticut, USA _ELEC of Kimball, Nathaniel Representative in Assembly for Preston
+
+* TYPE _ELEC
+
+* DATE 1811
+
+* PLAC Preston, New London, Connecticut, USA
+
+* AGE 42-43
 notes: According to family tradition, Nathaniel Kimball rode around in a fancycoach with the Kimball coat of arms painted on the side.
-
 
 == Sources
 

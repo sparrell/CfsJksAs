@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1590
-
 * Birthplace: England, UK
-
 * Death: NOV 1638
-
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: About 47-48
-
 
 
 == Ship
@@ -87,11 +81,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0802http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship "Safety"
-<p>
-2 DATE BEF 1638
-2 AGE About 47-48
-</p>
 
+* DATE BEF 1638
+
+* AGE About 47-48
 
 == Sources
 

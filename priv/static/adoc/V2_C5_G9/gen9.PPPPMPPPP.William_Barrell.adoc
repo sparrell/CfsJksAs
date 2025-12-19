@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 28 JUL 1654
-
 * Birthplace: Boston, Suffolk, Massachusetts, USA
-
 * Death: 7 NOV 1689
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Buried:  Old South Parish churchyard, Norwell
-<p>
-2 PLAC Old South Parish churchyard, Norwell, Old South Parish churchyard, Norwell
-</p>
 
+* PLAC Old South Parish churchyard, Norwell, Old South Parish churchyard, Norwell
 * Age at Death: 35
-
 
 
 == Family
@@ -56,30 +48,27 @@ https://cfsjksas.gigalixirapp.com/person?p=p0442http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE JUN 1689
-2 AGE 34
-</p>
- Re-elected 1688, 1689
-<p>
-2 TYPE Selectman
-2 DATE 1687
-2 AGE 32-33
-</p>
- Sergeant - militia company
-<p>
-2 TYPE Military Service
-</p>
- _ELEC of Barrell, William - Constable
-<p>
-2 TYPE _ELEC
-2 DATE 1682
-2 AGE 27-28
-</p>
 
+* TYPE Freeman
+
+* DATE JUN 1689
+
+* AGE 34 Re-elected 1688, 1689
+
+* TYPE Selectman
+
+* DATE 1687
+
+* AGE 32-33 Sergeant - militia company
+
+* TYPE Military Service _ELEC of Barrell, William - Constable
+
+* TYPE _ELEC
+
+* DATE 1682
+
+* AGE 27-28
 occupation: Blacksmith
-
 
 == Sources
 

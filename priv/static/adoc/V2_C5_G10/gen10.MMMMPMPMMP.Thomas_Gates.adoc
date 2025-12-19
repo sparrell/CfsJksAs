@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 3 MAY 1646
-
 * Birthplace: Hingham, Plymouth, Massachusetts, USA
-
 * Death: 10 AUG 1726
-
 * Deathplace: Preston, New London, Connecticut, USA
-
 * Age at Death: About 80
-
 
 
 == Family
@@ -65,38 +59,39 @@ https://cfsjksas.gigalixirapp.com/person?p=p0570http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1678
-2 PLAC Sudbury, Middlesex, Massachusetts, USA
-2 AGE About 31-32
-</p>
 
+* DATE 1678
+
+* PLAC Sudbury, Middlesex, Massachusetts, USA
+
+* AGE About 31-32
 event: 
-<p>
-2 TYPE Fact 2
-2 DATE 1682
-2 PLAC Stow, Middlesex, Massachusetts, USA
-2 AGE About 35-36
-</p>
 
-<p>
-2 TYPE Fact 5
-2 PLAC Stow, Middlesex, Massachusetts, USA
-</p>
+* TYPE Fact 2
 
-<p>
-2 TYPE Military Service
-2 DATE 1671
-2 PLAC Marlborough, Middlesex, Massachusetts, USA
-2 AGE About 24-25
-</p>
- Moved to Norwich (Preston) CT
-<p>
-2 TYPE Fact 4
-2 DATE 1703
-2 AGE About 56-57
-</p>
+* DATE 1682
 
+* PLAC Stow, Middlesex, Massachusetts, USA
+
+* AGE About 35-36
+
+* TYPE Fact 5
+
+* PLAC Stow, Middlesex, Massachusetts, USA
+
+* TYPE Military Service
+
+* DATE 1671
+
+* PLAC Marlborough, Middlesex, Massachusetts, USA
+
+* AGE About 24-25 Moved to Norwich (Preston) CT
+
+* TYPE Fact 4
+
+* DATE 1703
+
+* AGE About 56-57
 
 == Sources
 

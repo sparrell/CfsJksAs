@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 11 NOV 1621
-
 * Birthplace: Kent, England, UK
-
 * Death: BEF OCT 1676
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 54
-
 
 
 == Ship
@@ -55,10 +49,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0194http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Damon_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Damon_%281%29:
 
 == Sources
 

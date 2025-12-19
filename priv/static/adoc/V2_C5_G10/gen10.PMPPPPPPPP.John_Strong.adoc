@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1613
-
 * Birthplace: Chard, Somerset, England, UK
-
 * Death: 14 APR 1699
-
 * Deathplace: Northampton, Hampshire, Massachusetts, USA
-
 * Age at Death: 85-86
-
 
 
 == Ship
@@ -56,30 +50,28 @@ https://cfsjksas.gigalixirapp.com/person?p=p0251http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship "Hopewell"
-<p>
-2 DATE 1635
-2 AGE 21-22
-</p>
 
+* DATE 1635
+
+* AGE 21-22
 event:  _ELEC of Strong, John - Constable -Taunton MA
-<p>
-2 TYPE _ELEC
-2 DATE 1638
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE 24-25
-</p>
 
+* TYPE _ELEC
+
+* DATE 1638
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE 24-25
 notes: Family Motto:  "Together we are Strong" 
-
 occupation: Farmer, Leather tanner
-
 ordained: Ruling Elder -
-<p>
-2 DATE 1663
-2 PLAC Northampton, Hampshire, Massachusetts, USA
-2 AGE 49-50
-</p>
 
+* DATE 1663
+
+* PLAC Northampton, Hampshire, Massachusetts, USA
+
+* AGE 49-50
 
 == Sources
 

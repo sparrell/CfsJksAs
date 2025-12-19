@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: FEB 1850
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Death: 1914
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Buried: 
-<p>
-2 DATE 1914
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-</p>
 
+* DATE 1914
+
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: 63-64
-
 
 
 == Family
@@ -51,20 +44,18 @@ https://cfsjksas.gigalixirapp.com/person?p=p0086http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1860
-2 PLAC The City Of N. London, New London, Connecticut, USA
-2 AGE 9-10
-</p>
 
+* DATE 1860
+
+* PLAC The City Of N. London, New London, Connecticut, USA
+
+* AGE 9-10
 notes: Alice and her future husband Albert Strong both worked in a cotton millin Montville CT in 1870 (US Census).
-
 occupation: Cotton Mill - Montville -US Census
-<p>
-2 DATE 1870
-2 AGE 19-20
-</p>
 
+* DATE 1870
+
+* AGE 19-20
 
 == Sources
 

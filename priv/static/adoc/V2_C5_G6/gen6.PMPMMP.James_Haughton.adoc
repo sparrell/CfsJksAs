@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 29 APR 1719
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Death: AFT JUN 1804
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Age at Death: About 85
-
 
 
 == Family
@@ -48,16 +42,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0080http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 4 AUG 1800
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 81
-</p>
 
+* DATE 4 AUG 1800
+
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 81
 notes: In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands. James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.
-
 occupation: Tavern Keeper, Montville CT
-
 
 == Sources
 

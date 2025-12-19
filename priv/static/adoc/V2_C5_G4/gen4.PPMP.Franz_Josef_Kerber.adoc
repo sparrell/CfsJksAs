@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: JAN 1825
-
 * Birthplace: Baden
-
 * Death: 31 AUG 1873
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 48
-
 * Death Cause: Pleurisy
-
 
 
 == Family
@@ -48,40 +41,32 @@ https://cfsjksas.gigalixirapp.com/person?p=p0151http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1860
-2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
-2 AGE 34-35
-</p>
 
+* DATE 1860
+
+* PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
+
+* AGE 34-35
 event:  Pleurisy
-<p>
-2 TYPE _DCAUSE
-</p>
 
+* TYPE _DCAUSE
 notes: Americanized his name from Franz Josef to Francis J. to Frank Joseph. His wife did the same, from Katerina to Catherine.
-
 occupation: Saloon Keeper - US Census
-<p>
-2 DATE 1860
-2 AGE 34-35
-</p>
-Saloon Keeper-82 Front St. Worcester
-<p>
-2 DATE 1862
-2 AGE 36-37
-</p>
-Smoked Meat Shop-Bartlett Place
-<p>
-2 DATE 1868
-2 AGE 42-43
-</p>
 
+* DATE 1860
+
+* AGE 34-35Saloon Keeper-82 Front St. Worcester
+
+* DATE 1862
+
+* AGE 36-37Smoked Meat Shop-Bartlett Place
+
+* DATE 1868
+
+* AGE 42-43
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFranz_Kerber_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFranz_Kerber_%281%29:
 
 == Sources
 

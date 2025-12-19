@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1593
-
 * Birthplace: Marcq, Nord, Nord-Pas-de-Calais, France
-
 * Death: 1648
-
 * Deathplace: Boston, Middlesex, Massachusetts, United States
-
 * Age at Death: 54-55
-
 
 
 == Ship
@@ -57,12 +51,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1260http://localhost:4000/person?p=p
 
 == Sources
 * @S52@
-<p>
-2 PAGE Pierre Charlet
-2 QUAY 3
-2 DATA
-3 DATE 9 FEB 2019
-3 TEXT Added via a Smart Match
-</p>
 
+* PAGE Pierre Charlet
+
+* QUAY 3
+
+* DATA
+
+* DATE 9 FEB 2019
+
+* TEXT Added via a Smart Match
 

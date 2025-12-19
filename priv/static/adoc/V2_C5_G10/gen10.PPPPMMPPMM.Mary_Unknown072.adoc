@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: F
-
 * Death: 9 OCT 1710
-
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -49,7 +46,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0678http://localhost:4000/person?p=p
 
 == Other
 notes: different accounts on her surname
-
 
 == Sources
 

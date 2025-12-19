@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 9 MAY 1830
-
 * Birthplace: Uncasville, New London, Connecticut, USA
-
 * Death: MAY 1909
-
 * Deathplace: Uncasville, New London, Connecticut, USA
-
 * Buried:  Buried beside John Babcock
-<p>
-2 PLAC Buried beside John Babcock, Buried beside John Babcock, Comstock Cemetery, Uncasville, New London, Connecticut, USA
-</p>
 
+* PLAC Buried beside John Babcock, Buried beside John Babcock, Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: 78-79
-
 
 
 == Family
@@ -58,20 +50,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p0639http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1860
-2 PLAC The City Of N. London, New London, Connecticut, USA
-2 AGE 29-30
-</p>
 
+* DATE 1860
+
+* PLAC The City Of N. London, New London, Connecticut, USA
+
+* AGE 29-30
 
 == Sources
 * @S32@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-10127/1860-united-states-federal-census?s=20674952&itemId=1580050-&groupId=19dc1a4abc2b569c25cc10b8434b06b3&action=showRecord&indId=individual-20674952-15001060
-2 QUAY 4
-2 DATA
-3 TEXT Lavinia Edgecombe
+
+* PAGE http://www.myheritage.com/research/collection-10127/1860-united-states-federal-census?s=20674952&itemId=1580050-&groupId=19dc1a4abc2b569c25cc10b8434b06b3&action=showRecord&indId=individual-20674952-15001060
+
+* QUAY 4
+
+* DATA
+
+* TEXT Lavinia Edgecombe
 
 Gender: Female
 
@@ -94,6 +89,4 @@ Head (implied); <a href="research/collection-10127/1860-united-states-federal-ce
 Wife (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580050-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Lavinia Edgecombe</a>; 30
 
 Daughter (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580051-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Alice Edgecombe</a>; 10 Daughter (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580052-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">Martha Edgecombe</a>; 6 Son (implied); <a href="research/collection-10127/1860-united-states-federal-census?s=20674952&amp;itemId=1580053-&amp;groupId=19dc1a4abc2b569c25cc10b8434b06b3&amp;action=showRecord">George T Edgecombe</a>; 3
-</p>
-
 

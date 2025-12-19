@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 25 FEB 1647
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 25 OCT 1703
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 56
-
 
 
 == Family
@@ -66,10 +60,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0215http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASarah_Chittenden_%282%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ASarah_Chittenden_%282%29:
 
 == Sources
 

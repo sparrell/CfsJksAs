@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1594
-
 * Birthplace: County of Essex, England, UK
-
 * Death: 1673
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 78-79
-
 
 
 == Ship
@@ -69,36 +63,32 @@ https://cfsjksas.gigalixirapp.com/person?p=p0225http://localhost:4000/person?p=p
 
 == Other
 description:  <DSCR><DESCRIPTION>&lt;DESC&gt;&lt;/DESC&gt;</DESCRIPTION></DSCR>
-
 emigration:  Arrived Plymouth
-<p>
-2 DATE 1628
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE 33-34
-</p>
 
+* DATE 1628
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE 33-34
 event:  Grant on North River (see notes)
-<p>
-2 TYPE Fact 4
-</p>
- Settled Scituate
-<p>
-2 TYPE Fact 2
-2 DATE 1633
-2 AGE 38-39
-</p>
- Settled Scituate
-<p>
-2 TYPE Fact 5
-2 DATE 1641
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-2 AGE 46-47
-</p>
 
+* TYPE Fact 4 Settled Scituate
+
+* TYPE Fact 2
+
+* DATE 1633
+
+* AGE 38-39 Settled Scituate
+
+* TYPE Fact 5
+
+* DATE 1641
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
+
+* AGE 46-47
 notes: - Settled on a farm along present Driftway in Scituate. - Recieved an 80 acre grant on North River by what is now Union Bridge in Norwell. Establisher a tannery there which was operated by sons John and Joseph.
-
 occupation: Leather Tanner
-
 
 == Sources
 

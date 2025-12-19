@@ -7,9 +7,7 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 17 APR 1663
-
 
 
 == Family
@@ -57,7 +55,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0456http://localhost:4000/person?p=p
 
 == Other
 event: 
-
 
 == Sources
 

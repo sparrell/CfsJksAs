@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1585
-
 * Birthplace: England, UK
-
 * Deathplace: Hartford, Hartford, Connecticut, USA
-
 
 
 == Ship
@@ -68,13 +64,11 @@ https://cfsjksas.gigalixirapp.com/person?p=p0906http://localhost:4000/person?p=p
 
 == Other
 emigration:  Ship Elizabeth & Ann, London to Boston
-<p>
-2 DATE 1635
-2 AGE About 49-50
-</p>
 
+* DATE 1635
+
+* AGE About 49-50
 occupation: Smith and farmer
-
 
 == Sources
 

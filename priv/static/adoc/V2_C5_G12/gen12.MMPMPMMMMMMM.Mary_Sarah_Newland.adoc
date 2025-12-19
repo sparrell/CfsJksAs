@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 16 APR 1609
-
 * Birthplace: Fenstanton, Cambridgeshire, England
-
 * Death: 17 JUN 1674
-
 * Deathplace: Duxbury, Plymouth, Massachusetts, United States
-
 * Buried: 
-<p>
-2 DATE JUN 1674
-2 PLAC Duxbury, Plymouth, Plymouth Colony, British Colonial America
-</p>
 
+* DATE JUN 1674
+
+* PLAC Duxbury, Plymouth, Plymouth Colony, British Colonial America
 * Age at Death: 65
-
 
 
 == Family

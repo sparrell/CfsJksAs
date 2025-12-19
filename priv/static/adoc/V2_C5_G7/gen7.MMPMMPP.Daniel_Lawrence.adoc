@@ -7,15 +7,10 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1720
-
 * Death: 28 MAY 1775
-
 * Deathplace: Providence, Providence, RI
-
 * Age at Death: About 54-55
-
 
 
 == Family
@@ -49,12 +44,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1030http://localhost:4000/person?p=p
 
 == Sources
 * @S39@
-<p>
-2 PAGE Daniel Lawrence
-2 QUAY 3
-2 DATA
-3 DATE 7 APR 2016
-3 TEXT Added by confirming a Smart Match
-</p>
 
+* PAGE Daniel Lawrence
+
+* QUAY 3
+
+* DATA
+
+* DATE 7 APR 2016
+
+* TEXT Added by confirming a Smart Match
 

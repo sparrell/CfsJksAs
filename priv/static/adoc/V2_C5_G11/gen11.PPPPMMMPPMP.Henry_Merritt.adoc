@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Tenterden, England, UK
-
 * Death: NOV 1652
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -52,10 +48,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0196http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AHenry_Merritt_%282%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AHenry_Merritt_%282%29:
 
 == Sources
 

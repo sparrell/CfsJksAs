@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1677
-
 * Birthplace: Woodbury, Litchfield, Connecticut, USA
-
 * Death: 21 JUN 1729
-
 * Deathplace: Woodbury, Litchfield, Connecticut, USA
-
 * Age at Death: About 51-52
-
 
 
 == Family
@@ -50,7 +44,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0115http://localhost:4000/person?p=p
 
 == Other
 occupation: Farmer
-
 
 == Sources
 

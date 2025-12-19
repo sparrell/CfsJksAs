@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 13 NOV 1828
-
 * Birthplace: Wertheim, Stadt, Baden-Wurttemberg, Germany
-
 * Death: 1902
-
 * Deathplace: Worcester, Worcester, Massachusetts, USA
-
 * Age at Death: 73-74
-
 
 
 == Ship
@@ -51,42 +45,35 @@ https://cfsjksas.gigalixirapp.com/person?p=p0153http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1860
-2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
-2 AGE 31-32
-</p>
 
+* DATE 1860
+
+* PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
+
+* AGE 31-32
 emigration: 
-<p>
-2 DATE 1848
-2 AGE 19-20
-</p>
 
+* DATE 1848
+
+* AGE 19-20
 naturalized: 
-<p>
-2 DATE 1851
-2 AGE 22-23
-</p>
 
+* DATE 1851
+
+* AGE 22-23
 notes: Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.
-<p>
 
 Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.
-</p>
-
 occupation: Landlady in Worcester (US Census)
-<p>
-2 DATE 1900
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 71-72
-</p>
 
+* DATE 1900
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 71-72
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEva_Schaal_%281%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEva_Schaal_%281%29:
 
 == Sources
 

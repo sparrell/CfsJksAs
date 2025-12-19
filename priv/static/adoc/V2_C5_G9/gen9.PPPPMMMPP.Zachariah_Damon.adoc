@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1654
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Christening:  Scituate 2nd Parish
-<p>
-2 DATE 2 FEB 1654
-2 AGE About 0
-</p>
 
+* DATE 2 FEB 1654
+
+* AGE About 0
 * Death: 3 SEP 1730
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 75-76
-
 
 
 == Family
@@ -57,10 +50,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0190http://localhost:4000/person?p=p
 
 == Other
 event:  Sergeant, Lt. - King Phillips War
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 
 == Sources
 

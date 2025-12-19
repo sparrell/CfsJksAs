@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1600
-
 * Birthplace: England, UK
-
 * Death: 1652
-
 * Deathplace: Taunton, Bristol, Massachusetts, USA
-
 * Age at Death: 51-52
-
 
 
 == Ship
@@ -55,34 +49,22 @@ https://cfsjksas.gigalixirapp.com/person?p=p0686http://localhost:4000/person?p=p
 
 == Other
 event:  Built first Meeting House in Taunton
-<p>
 
 TYPE Fact
 
 DATE 1647
 
-AGE 46-47
-</p>
- First representative to Plymouth Court from Taunton
-<p>
+AGE 46-47 First representative to Plymouth Court from Taunton
 
-TYPE Fact 2
-</p>
- Original purchaser of Taunton from Indians
-<p>
+TYPE Fact 2 Original purchaser of Taunton from Indians
 
 TYPE Fact
 
  DATE 1637
 
-AGE 36-37
-</p>
- arr. MA prior to 1630
-<p>
+AGE 36-37 arr. MA prior to 1630
 
  TYPE Fact 4
-</p>
-
 
 == Sources
 

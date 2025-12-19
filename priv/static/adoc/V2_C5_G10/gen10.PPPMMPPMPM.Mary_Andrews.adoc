@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 1638
-
 * Birthplace: Boxford, Berkshire, England, UK
-
 * Death: ABT 1712
-
 * Deathplace: Topsfield, Essex, Massachusetts, USA
-
 * Age at Death: About 73-74
-
 
 
 == Ship
@@ -57,10 +51,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0432http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Andrews_%2842%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Andrews_%2842%29:
 
 == Sources
 

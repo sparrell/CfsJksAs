@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 30 APR 1587
-
 * Birthplace: Beccles, Suffolk, England, UK
-
 * Death: 23 DEC 1663
-
 * Deathplace: Rehoboth, Bristol, Massachusetts, USA
-
 * Age at Death: 76
-
 
 
 == Ship
@@ -130,12 +124,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0010http://localhost:4000/person?p=p
 
 == Other
 immigration: Ship Diligent, Ipswich to Boston
-<p>
-2 DATE 1638
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 50-51
-</p>
 
+* DATE 1638
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 50-51
 
 == Sources
 

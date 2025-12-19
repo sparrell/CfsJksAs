@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: BEF 19 MAR 1617
-
 * Birthplace: Pitminster, Somerset, England, UK
-
 * Death: 21 NOV 1705
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: About 88
-
 
 
 == Ship
@@ -116,12 +110,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0481http://localhost:4000/person?p=p
 
 == Other
 event:  See Notes
-<p>
-2 TYPE Fact 1
-</p>
 
+* TYPE Fact 1
 notes: Honor Treat was the sister of Robert Treat (1624-1710) Colonial Governor of Connecticut.
-
 
 == Sources
 

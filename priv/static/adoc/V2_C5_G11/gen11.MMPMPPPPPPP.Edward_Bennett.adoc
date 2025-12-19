@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1600
-
 * Birthplace: Weymouth, Dorset, England, UK
-
 * Death: 1645
-
 * Deathplace: Rehoboth, Bristol, Massachusetts, USA
-
 * Age at Death: 44-45
-
 
 
 == Ship
@@ -56,16 +50,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0133http://localhost:4000/person?p=p
 
 == Other
 emigration:  England to Weymouth MA w wife & 4 children
-<p>
-2 DATE BEF 1636
-2 AGE About 35-36
-</p>
- Moved with Rev. Newman to Rehobeth MA
-<p>
-2 DATE 1643
-2 AGE 42-43
-</p>
 
+* DATE BEF 1636
+
+* AGE About 35-36 Moved with Rev. Newman to Rehobeth MA
+
+* DATE 1643
+
+* AGE 42-43
 
 == Sources
 

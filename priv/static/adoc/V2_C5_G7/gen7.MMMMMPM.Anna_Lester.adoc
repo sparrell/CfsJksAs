@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 17 DEC 1736
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 7 SEP 1807
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
-</p>
 
+* PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
 * Age at Death: 70
-
 
 
 == Family

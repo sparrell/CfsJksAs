@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1593
-
 * Birthplace: Little Warley, Essex, England, UK
-
 * Death: 1 AUG 1662
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: 68-69
-
 
 
 == Ship
@@ -56,34 +50,25 @@ https://cfsjksas.gigalixirapp.com/person?p=p0179http://localhost:4000/person?p=p
 
 == Other
 emigration:  Emigrated from Brentwood in Winthrop Fleet
-<p>
-2 DATE 1630
-2 AGE 36-37
-</p>
 
+* DATE 1630
+
+* AGE 36-37
 event:  Elder of First Church
-<p>
-2 TYPE Fact 3
-</p>
- Member General Court (see notes)
-<p>
-2 TYPE _ELEC
-</p>
- Selectman of Boston
-<p>
-2 TYPE _ELEC
-</p>
- Signer of Cambridge agreement
-<p>
-2 TYPE Fact 1
-2 DATE 29 AUG 1629
-2 AGE 35-36
-</p>
 
+* TYPE Fact 3 Member General Court (see notes)
+
+* TYPE _ELEC Selectman of Boston
+
+* TYPE _ELEC Signer of Cambridge agreement
+
+* TYPE Fact 1
+
+* DATE 29 AUG 1629
+
+* AGE 35-36
 notes: - One of twelve Puritan leaders that met at Cambridge England (including John Winthrop and Sir Richard Saltonstall) to draw up the agreement for the establishment of the Massachusetts Bay Colony. - Residence near corner of present Boyleston and Washington Streets in Boston. Granted additional farm lands at Muddy River (now site of FenwayPark). - Wealthy and prominent leader of the Colony. Friend of Anne Hutchinson and Rev. John Wheelwright. Member of the General Court that met in Cambridge MA and tried Hutchinson. Colborn was the only member that voted for her acquittal. She was banished from the colony. Colborn held numerous public offices before the trial but none afterwards.
-
 occupation: Tailor
-
 
 == Sources
 

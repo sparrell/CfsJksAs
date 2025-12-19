@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birthplace: Weymouth, Norfolk, Massachusetts, USA
-
 * Death: 15 JUL 1677
-
 * Deathplace: Stratford, Fairfield, Connecticut, USA
-
 
 
 == Family
@@ -63,31 +59,25 @@ https://cfsjksas.gigalixirapp.com/person?p=p0702http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 PLAC Dorchester, Boston, Massachusetts, USA
-</p>
 
+* PLAC Dorchester, Boston, Massachusetts, USA
 event: 
-<p>
-2 TYPE Fact 2
-2 PLAC Stratford, Fairfield, Connecticut, USA
-</p>
 
-<p>
-2 TYPE Fact 4
-2 PLAC Setauket- East Setauket, Suffolk, New York, USA
-</p>
+* TYPE Fact 2
 
-<p>
-2 TYPE Fact 5
-2 PLAC Stratford, Fairfield, Connecticut, USA
-</p>
+* PLAC Stratford, Fairfield, Connecticut, USA
 
-<p>
-2 TYPE Military Service
-2 PLAC England, UK
-</p>
+* TYPE Fact 4
 
+* PLAC Setauket- East Setauket, Suffolk, New York, USA
+
+* TYPE Fact 5
+
+* PLAC Stratford, Fairfield, Connecticut, USA
+
+* TYPE Military Service
+
+* PLAC England, UK
 
 == Sources
 

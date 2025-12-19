@@ -7,27 +7,20 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BET 1570 AND 1588
-
 * Birthplace: Assington, Suffolk, England
-
 * Christening: 
-<p>
-2 DATE 11 OCT 1584
-2 PLAC Bures St. Mary, Suffolk, England
-</p>
 
+* DATE 11 OCT 1584
+
+* PLAC Bures St. Mary, Suffolk, England
 * Death: 5 NOV 1639
-
 * Deathplace: Ipswich, Essex, Massachusetts
-
 * Buried: 
-<p>
-2 DATE ABT NOV 1639
-2 PLAC Ipswich, Essex, Massachusetts
-</p>
 
+* DATE ABT NOV 1639
+
+* PLAC Ipswich, Essex, Massachusetts
 
 
 == Ship
@@ -69,11 +62,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p1213http://localhost:4000/person?p=p
 
 == Sources
 * @S37@
-<p>
-2 QUAY 3
-2 DATA
-3 DATE 27 AUG 2015
-3 TEXT Added via an Instant Discovery™
-</p>
 
+* QUAY 3
+
+* DATA
+
+* DATE 27 AUG 2015
+
+* TEXT Added via an Instant Discovery™
 

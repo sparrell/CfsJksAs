@@ -7,22 +7,14 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 6 FEB 1813
-
 * Birthplace: Montville, New London, Connecticut, USA
-
 * Death: AFT 20 JUL 1870
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Buried: 
-<p>
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-</p>
 
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: About 57
-
 
 
 == Family
@@ -51,26 +43,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p0119http://localhost:4000/person?p=p
 
 == Other
 census: 
-<p>
-2 DATE 1850
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 36-37
-</p>
 
-<p>
-2 DATE 1860
-2 PLAC The Town Of Montville, New London, Connecticut, USA
-2 AGE 46-47
-</p>
+* DATE 1850
 
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 36-37
+
+* DATE 1860
+
+* PLAC The Town Of Montville, New London, Connecticut, USA
+
+* AGE 46-47
 notes: The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker. <The 1870 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.
-
 occupation: Factory Worker
-<p>
-2 DATE 1860
-2 AGE 46-47
-</p>
 
+* DATE 1860
+
+* AGE 46-47
 
 == Sources
 

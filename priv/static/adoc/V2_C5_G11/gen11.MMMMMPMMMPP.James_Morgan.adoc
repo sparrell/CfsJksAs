@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1607
-
 * Birthplace: LLandaff, Glamorgan, Wales, UK
-
 * Death: 5 APR 1704
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: About 96-97
-
 
 
 == Ship
@@ -228,19 +222,19 @@ https://cfsjksas.gigalixirapp.com/person?p=p0478http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC New London, New London, Connecticut, USA
-2 AGE About 61-62
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE About 61-62
 notes: !SOURCE: "James Morgan and His Descendants" 1607-1869, by Nathaniel Morgan !Birthplace: Actual birthplace unknown, probably Llandaff !Death: At age 78 !History Note: From the first page of the cited Genealogy: "James Morgan, the common ancestor of a numerous family now scattered widely over nearly or quite, every state and territory of the United States, was born in Wales in 1607, but in what precise locality our honest progenitor first saw light is uncertain, though probably in Llandaff, Glamorgan Co. The family appears to have moved from Llandaff to Bristol, England on the opposite side of the Bristol Channel, a short time at least, perhaps a few years, prior to 1636. The name of his father is unknown, but there is some traditionary evidence that it was William. (In another part of this Genealogy it gives the following information on William: There is a tradition that this William used to say that his father, John, had a very old, little book, in which was written the name of "William Morgan, of Llandaff", (Wales) and dated before A.D. 1600, who he said was the father of our first James, the emigrant. There are other circumstances which strengthen the probabilities of this tradition. This William had a pair of gold sleeve buttons of antique make, and having "WM." rudely but plainly stamped on each, which are said to have come down as an "Heirloom" from William A. (#375), and were long held by me as a precious relic, until stolen a few years ago. By great effort I discovered a trace of them soon after, but all too late to save them from the crucible of an innocent purchaser, by whom they had been melted with a common mass of old jewelery.) That year, 1636, in the month of March, he and two younger brothers, John and Miles, sailed from Bristol and arrived in Boston, Mass. in April following. John Morgan, his next younger brother, who from tradition appears to have been a high churchman and to have exceedingly disliked the austerity of the Puritans, left Boston in disgust for more congenial society in Virginia, soon after their arrival. How far the Morgans of Virginia are descended from him I am unable to say. Miles Morgan, the youngest brother, born in 1615, on his arrival at Boston, or soon after, joined a party of emigrants, mostly from Roxbury, of whom Col. Wm. Pyncheon was at the head, and founded the settlement of Springfield, Mass.
-<p>
-2 SOUR @S17@
-3 QUAY 0
-</p>
 
+* SOUR @S17@
+
+* QUAY 0
 
 == Sources
 

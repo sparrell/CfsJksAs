@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: BEF 28 AUG 1584
-
 * Birthplace: Pitminster, Somerset, England, UK
-
 * Death: AFT 13 FEB 1669
-
 * Deathplace: Wethersfield, Hartford, Connecticut, USA
-
 * Age at Death: About 84
-
 
 
 == Ship
@@ -119,12 +113,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p0482http://localhost:4000/person?p=p
 
 == Other
 event:  Assistant- Conn. Colony
-<p>
-2 TYPE _ELEC
-2 DATE 1658
-2 AGE About 73-74
-</p>
 
+* TYPE _ELEC
+
+* DATE 1658
+
+* AGE About 73-74
 
 == Sources
 

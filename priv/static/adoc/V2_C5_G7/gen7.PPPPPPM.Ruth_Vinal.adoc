@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 23 APR 1746
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: AFT 1810
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: About 63-64
-
 
 
 == Family
@@ -49,7 +43,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0207http://localhost:4000/person?p=p
 
 == Other
 education:  She was illiterate
-
 
 == Sources
 

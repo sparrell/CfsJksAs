@@ -7,9 +7,7 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Redwood
-
 
 
 == Family
@@ -44,11 +42,12 @@ https://cfsjksas.gigalixirapp.com/person?p=p1212http://localhost:4000/person?p=p
 
 == Sources
 * @S36@
-<p>
-2 QUAY 3
-2 DATA
-3 DATE 22 JUL 2015
-3 TEXT Added via an Instant Discovery™
-</p>
 
+* QUAY 3
+
+* DATA
+
+* DATE 22 JUL 2015
+
+* TEXT Added via an Instant Discovery™
 

@@ -7,24 +7,18 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1671
-
 * Birthplace: New London, New London, Connecticut, USA
-
 * Baptism: 
-<p>
-2 DATE 9 APR 1671
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 0
-</p>
 
+* DATE 9 APR 1671
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 0
 * Death: 24 APR 1746
-
 * Deathplace: New London, New London, Connecticut, USA
-
 * Age at Death: 74-75
-
 
 
 == Family

@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1693
-
 * Birthplace: Groton, New London, Connecticut, USA
-
 * Death: 25 AUG 1770
-
 * Deathplace: Groton, New London, Connecticut, USA
-
 * Age at Death: 76-77
-
 
 
 == Family
@@ -72,19 +66,20 @@ https://cfsjksas.gigalixirapp.com/person?p=p0390http://localhost:4000/person?p=p
 
 == Other
 event:  Justice of the Peace for New London County
-<p>
-2 TYPE Appointd
-2 DATE 1735
-2 AGE 41-42
-</p>
- _ELEC of Morgan, James - Representative in Assembly for Groton
-<p>
-2 TYPE _ELEC
-2 DATE 1726
-2 PLAC Groton, Middlesex, Massachusetts, USA
-2 AGE 32-33
-</p>
 
+* TYPE Appointd
+
+* DATE 1735
+
+* AGE 41-42 _ELEC of Morgan, James - Representative in Assembly for Groton
+
+* TYPE _ELEC
+
+* DATE 1726
+
+* PLAC Groton, Middlesex, Massachusetts, USA
+
+* AGE 32-33
 
 == Sources
 

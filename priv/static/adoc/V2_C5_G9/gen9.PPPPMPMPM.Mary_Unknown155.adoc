@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Bowker
-
 * Birth: 1665
-
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
-
 * Death: 1733
-
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
-
 * Age at Death: 67-68
-
 
 
 == Family
@@ -63,10 +56,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0164http://localhost:4000/person?p=p
 
 == Other
 residence: 
-<p>
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Unknown_%285151%29:
-</p>
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMary_Unknown_%285151%29:
 
 == Sources
 

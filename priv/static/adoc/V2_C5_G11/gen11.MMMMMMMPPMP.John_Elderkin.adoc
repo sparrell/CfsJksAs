@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1614
-
 * Birthplace: Wrangle, Lincolnshire, England, UK
-
 * Death: 22 JUN 1687
-
 * Deathplace: Norwich, New London, Connecticut, USA
-
 * Age at Death: 72-73
-
 
 
 == Ship
@@ -100,17 +94,16 @@ https://cfsjksas.gigalixirapp.com/person?p=p0370http://localhost:4000/person?p=p
 
 == Other
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC Norwich, New London, Connecticut, USA
-2 AGE 54-55
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC Norwich, New London, Connecticut, USA
+
+* AGE 54-55
 notes: It is said that he built a water mill in each of the towns in which he lived
-
 occupation: Carpenter & miller
-
 
 == Sources
 

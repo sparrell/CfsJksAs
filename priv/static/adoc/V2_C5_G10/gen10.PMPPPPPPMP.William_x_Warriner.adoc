@@ -7,23 +7,16 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 12 MAY 1602
-
 * Birthplace: Lincolnshire, Canterbury, Kent, England
-
 * Death: 2 JUN 1676
-
 * Deathplace: Springfield, Hampden, Colony of Massachusetts, British Colonial America
-
 * Buried: 
-<p>
-2 DATE JUN 1676
-2 PLAC Springfield, Hampshire, Massachusetts Bay, British Colonial America
-</p>
 
+* DATE JUN 1676
+
+* PLAC Springfield, Hampshire, Massachusetts Bay, British Colonial America
 * Age at Death: 74
-
 
 
 == Ship
@@ -61,21 +54,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p1238http://localhost:4000/person?p=p
 
 == Other
 event:  Spouse: Elizabeth Baldwin (born Gibbons)
-<p>
-2 TYPE Marriage
-2 DATE 2 OCT 1661
-2 AGE 59
-</p>
 
+* TYPE Marriage
+
+* DATE 2 OCT 1661
+
+* AGE 59
 
 == Sources
 * @S48@
-<p>
-2 PAGE William x Warriner
-2 QUAY 3
-2 DATA
-3 DATE 13 JAN 2019
-3 TEXT Added via a Person Discovery
-</p>
 
+* PAGE William x Warriner
+
+* QUAY 3
+
+* DATA
+
+* DATE 13 JAN 2019
+
+* TEXT Added via a Person Discovery
 

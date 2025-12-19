@@ -7,20 +7,16 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birth: 15 JAN 1587
-
 * Birthplace: Canterbury, Kent, England, UK
-
 * Christening: 
-<p>
-2 DATE 15 JAN 1587
-2 PLAC Saint Paul, Canterbury, Kent, England
-2 AGE 0
-</p>
 
+* DATE 15 JAN 1587
+
+* PLAC Saint Paul, Canterbury, Kent, England
+
+* AGE 0
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
-
 
 
 == Ship
@@ -81,11 +77,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p0853http://localhost:4000/person?p=p
 
 == Sources
 * @S28@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-&action=showRecord&indId=individual-20674952-15001278
-2 QUAY 4
-2 DATA
-3 TEXT Isabell Chilton
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-&action=showRecord&indId=individual-20674952-15001278
+
+* QUAY 4
+
+* DATA
+
+* TEXT Isabell Chilton
 
 Gender: Female
 
@@ -98,6 +97,4 @@ Indexing Project (Batch) Number: P01654-1
 System Origin: England-ODM
 
 GS Film number: 942.23 C1 V26CT
-</p>
-
 

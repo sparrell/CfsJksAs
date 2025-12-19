@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 10 MAR 1587
-
 * Birthplace: Sandy, Bedfordshire, England, UK
-
 * Death: SEP 1644
-
 * Deathplace: Salem, Essex, Massachusetts, USA
-
 * Age at Death: 57
-
 
 
 == Ship
@@ -57,19 +51,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0044http://localhost:4000/person?p=p
 
 == Other
 immigration: England to Salem
-<p>
-2 DATE 1629
-2 AGE 41-42
-</p>
 
+* DATE 1629
+
+* AGE 41-42
 
 == Sources
 * @S28@
-<p>
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=52766949-F&action=showRecord&indId=individual-20674952-15000234
-2 QUAY 4
-2 DATA
-3 TEXT Richard Inkersall
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=52766949-F&action=showRecord&indId=individual-20674952-15000234
+
+* QUAY 4
+
+* DATA
+
+* TEXT Richard Inkersall
 
 Gender: Female
 
@@ -84,6 +80,4 @@ Indexing Project (Batch) Number: -1
 System Origin: England-ODM
 
 GS Film number: 599349
-</p>
-
 

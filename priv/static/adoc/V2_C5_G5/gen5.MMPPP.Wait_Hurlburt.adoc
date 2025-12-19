@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1777
-
 * Birthplace: Woodbury, Litchfield, Connecticut, USA
-
 * Death: 10 NOV 1852
-
 * Deathplace: Underhill, Chittenden, Vermont, USA
-
 * Age at Death: About 74-75
-
 
 
 == Family
@@ -47,12 +41,9 @@ https://cfsjksas.gigalixirapp.com/person?p=p0105http://localhost:4000/person?p=p
 
 == Other
 event:  War of 1812 - See notes
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 notes: Waite was a sergeant in Captain Birney's Company of Dixon's Vermont Regiment in the War of 1812. He was wounded at the battle of Plattsburg.
-
 
 == Sources
 

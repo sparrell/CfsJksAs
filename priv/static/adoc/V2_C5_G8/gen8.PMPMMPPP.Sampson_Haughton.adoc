@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: M
-
 * Death: 12 NOV 1718
-
 * Deathplace: New London, New London, Connecticut, USA
-
 
 
 == Family
@@ -44,7 +41,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0084http://localhost:4000/person?p=p
 
 == Other
 notes: He lived in an area of New London where his father had obtained land from Uncas, Chief of the Mohegans. This area is now the Uncasville section of the Town of Montville.
-
 
 == Sources
 

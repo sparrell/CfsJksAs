@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 1635
-
 * Birthplace: Bridgewater, Somerset, England, UK
-
 * Death: 16 JAN 1717
-
 * Deathplace: Wallingford, New Haven, Connecticut, USA
-
 * Age at Death: 81-82
-
 
 
 == Ship
@@ -70,25 +64,24 @@ https://cfsjksas.gigalixirapp.com/person?p=p0291http://localhost:4000/person?p=p
 
 == Other
 education:  A.B., Harvard College
-<p>
-2 DATE 1664
-2 AGE 28-29
-</p>
 
+* DATE 1664
+
+* AGE 28-29
 event: 
-<p>
-2 TYPE Freeman
-2 DATE 1669
-2 PLAC New Haven, New Haven, Connecticut, USA
-2 AGE 33-34
-</p>
 
+* TYPE Freeman
+
+* DATE 1669
+
+* PLAC New Haven, New Haven, Connecticut, USA
+
+* AGE 33-34
 ordained: Ordained at Wallingford 1st pastor of 1st Church
-<p>
-2 DATE 1674
-2 AGE 38-39
-</p>
 
+* DATE 1674
+
+* AGE 38-39
 
 == Sources
 

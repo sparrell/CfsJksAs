@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 2 SEP 1582
-
 * Birthplace: Wiltshire, England, UK
-
 * Death: 31 MAR 1657
-
 * Deathplace: Haverhill, Essex, Massachusetts, USA
-
 * Age at Death: 74
-
 
 
 == Ship
@@ -58,8 +52,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0938http://localhost:4000/person?p=p
 
 == Sources
 * @S55@ PAGE https://www.myheritage.com/research/record-90100-473758223/bradley-of-essex-county-early-records-from-1643-to
-<p>
-2 QUAY  DATA DATE 1915 TEXT &amp;lt;p&amp;gt;&lt;p&gt;Bradley of Essex County, Early Records: From 1643 to 1746: With a Few Lines to the Present Day, 1915&lt;br /&gt;Date: Between 1643 and 1915&lt;br /&gt;Publication date: 1915&lt;br /&gt;Publication place: &nbsp;New York, USA &lt;br /&gt;Text: "...Palmer, dau. Henry Palmer of Hav., b. d. Hav., Ap. 24, 1705; Robert was the son of I. John Eyre, b. d. Hav., March 31, 1657; md. Hannah ; she d. Hav., Oct. 8, 1688; widow of John. John was of Salisbury in..."&lt;br /&gt;About this source: &lt;br /&gt;Title: Bradley of Essex County, Early Records: From 1643 to 1746: With a Few Lines to the Present Day, 1915&lt;br /&gt;Subject: Bradley family&lt;br /&gt;Description: 16&lt;br /&gt;Publication date: 1915&lt;br /&gt;Publisher: New York, The Knickerbocker Press&lt;br /&gt;Author: Peters, Eleanor Bradley Peters, 1855-&lt;br /&gt;Sponsor: Internet Archive&lt;br /&gt;Tags: allen_county, americana&lt;br /&gt;Contributor: Allen County Public Library Genealogy Center&lt;/p&gt;&amp ;lt;/p&amp;gt;
-</p>
 
+* QUAY  DATA DATE 1915 TEXT &amp;lt;p&amp;gt;&lt;p&gt;Bradley of Essex County, Early Records: From 1643 to 1746: With a Few Lines to the Present Day, 1915&lt;br /&gt;Date: Between 1643 and 1915&lt;br /&gt;Publication date: 1915&lt;br /&gt;Publication place: &nbsp;New York, USA &lt;br /&gt;Text: "...Palmer, dau. Henry Palmer of Hav., b. d. Hav., Ap. 24, 1705; Robert was the son of I. John Eyre, b. d. Hav., March 31, 1657; md. Hannah ; she d. Hav., Oct. 8, 1688; widow of John. John was of Salisbury in..."&lt;br /&gt;About this source: &lt;br /&gt;Title: Bradley of Essex County, Early Records: From 1643 to 1746: With a Few Lines to the Present Day, 1915&lt;br /&gt;Subject: Bradley family&lt;br /&gt;Description: 16&lt;br /&gt;Publication date: 1915&lt;br /&gt;Publisher: New York, The Knickerbocker Press&lt;br /&gt;Author: Peters, Eleanor Bradley Peters, 1855-&lt;br /&gt;Sponsor: Internet Archive&lt;br /&gt;Tags: allen_county, americana&lt;br /&gt;Contributor: Allen County Public Library Genealogy Center&lt;/p&gt;&amp ;lt;/p&amp;gt;
 

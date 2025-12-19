@@ -4,7 +4,7 @@ defmodule Cfsjksas.MixProject do
   def project do
     [
       app: :cfsjksas,
-      version: "0.4.5",
+      version: "0.5.0",
       elixir: "~> 1.15",
       elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,

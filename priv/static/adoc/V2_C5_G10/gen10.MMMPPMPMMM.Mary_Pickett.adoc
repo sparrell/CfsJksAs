@@ -7,19 +7,12 @@ Narrative TBD
 
 
 * Sex: F
-
 * Married Name: Shapley
-
 * Birth: ABT 1652
-
 * Birthplace: New London, New London, Connecticut, United States
-
 * Death: 13 JAN 1735
-
 * Deathplace: New London, New London, Connecticut, United States
-
 * Age at Death: ABOUT 82-83
-
 
 
 == Family
@@ -81,12 +74,14 @@ https://cfsjksas.gigalixirapp.com/person?p=p1253http://localhost:4000/person?p=p
 
 == Sources
 * @S50@
-<p>
-2 PAGE Mary Shapley (born Pickett)
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Smart Match
-</p>
 
+* PAGE Mary Shapley (born Pickett)
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Smart Match
 

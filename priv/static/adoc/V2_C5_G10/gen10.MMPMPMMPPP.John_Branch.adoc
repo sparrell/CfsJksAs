@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1628
-
 * Birthplace: High Halden, Kent, England, UK
-
 * Death: 7 MAY 1711
-
 * Deathplace: Marshfield, Plymouth, Massachusetts, USA
-
 * Age at Death: About 82-83
-
 
 
 == Ship
@@ -56,27 +50,26 @@ https://cfsjksas.gigalixirapp.com/person?p=p0542http://localhost:4000/person?p=p
 
 == Other
 emigration: 
-<p>
-2 DATE 1643
-2 PLAC Duxbury, Plymouth, Massachusetts, USA
-2 AGE About 14-15
-</p>
 
+* DATE 1643
+
+* PLAC Duxbury, Plymouth, Massachusetts, USA
+
+* AGE About 14-15
 event: 
-<p>
-2 TYPE Fact 1
-2 DATE 1638
-2 PLAC Scituate, Plymouth, Massachusetts, USA
-2 AGE About 9-10
-</p>
 
-<p>
-2 TYPE Fact 2
-2 PLAC Marshfield, Plymouth, Massachusetts, USA
-</p>
+* TYPE Fact 1
 
+* DATE 1638
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
+
+* AGE About 9-10
+
+* TYPE Fact 2
+
+* PLAC Marshfield, Plymouth, Massachusetts, USA
 notes: John Branch completed his apprenticeship to Thomas Wyborne, formerly ofTenterden, Kent but later of Scituate. He then became a tenant farmer of Resolved White in Marshfield. He eventually purchased the farm which was located in the Brant Rock section of Marshfield MA. Part of the farm is still known as Branches Island.
-
 
 == Sources
 

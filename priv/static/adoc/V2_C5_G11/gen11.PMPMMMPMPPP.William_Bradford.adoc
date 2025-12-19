@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 19 MAR 1589
-
 * Birthplace: Austerfield, Yorkshire, England, UK
-
 * Death: 9 MAY 1657
-
 * Deathplace: Plymouth, Plymouth, Massachusetts, USA
-
 * Age at Death: 68
-
 
 
 == Ship
@@ -56,26 +50,23 @@ https://cfsjksas.gigalixirapp.com/person?p=p0992http://localhost:4000/person?p=p
 
 == Other
 emigration:  "Mayflower" passenger
-<p>
-2 DATE 1620
-2 AGE 30-31
-</p>
 
+* DATE 1620
+
+* AGE 30-31
 event:  _ELEC of Bradford, William to Governor - Plymouth Colony
-<p>
-2 TYPE _ELEC
-2 DATE 1621
-2 AGE 31-32
-</p>
 
+* TYPE _ELEC
+
+* DATE 1621
+
+* AGE 31-32
 notes: Mayflower Passenger
-
 occupation: Magistrate
-<p>
-2 DATE 1620
-2 AGE 30-31
-</p>
 
+* DATE 1620
+
+* AGE 30-31
 
 == Sources
 

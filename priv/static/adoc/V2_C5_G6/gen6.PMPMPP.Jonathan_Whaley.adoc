@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 26 MAR 1759
-
 * Birthplace: Montville, New London, Connecticut, USA
-
 * Death: 3 SEP 1805
-
 * Deathplace: Montville, New London, Connecticut, USA
-
 * Age at Death: 46
-
 
 
 == Family
@@ -48,10 +42,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0076http://localhost:4000/person?p=p
 
 == Other
 event:  Private, Revolutionary War
-<p>
-2 TYPE Military Service
-</p>
 
+* TYPE Military Service
 
 == Sources
 

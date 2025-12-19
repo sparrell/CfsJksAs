@@ -7,11 +7,8 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: 23 OCT 1657
-
 * Birthplace: Wethersfield, Hartford, Connecticut, USA
-
 
 
 == Family
@@ -45,7 +42,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0793http://localhost:4000/person?p=p
 
 == Other
 occupation: Tailor
-
 
 == Sources
 

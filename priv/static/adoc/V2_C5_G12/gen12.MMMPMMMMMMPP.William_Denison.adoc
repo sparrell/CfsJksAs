@@ -7,17 +7,11 @@ Narrative TBD
 
 
 * Sex: M
-
 * Birth: ABT 1571
-
 * Birthplace: Bishop's Stortford, England, UK
-
 * Death: 25 JAN 1653
-
 * Deathplace: Roxbury, Boston, Suffolk, Massachusetts, USA
-
 * Age at Death: About 81-82
-
 
 
 == Ship
@@ -102,11 +96,10 @@ https://cfsjksas.gigalixirapp.com/person?p=p0359http://localhost:4000/person?p=p
 
 == Other
 emigration:  Bishops Stortford, England to Roxbury MA
-<p>
-2 DATE 1631
-2 AGE About 59-60
-</p>
 
+* DATE 1631
+
+* AGE About 59-60
 
 == Sources
 

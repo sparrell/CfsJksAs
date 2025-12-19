@@ -7,13 +7,9 @@ Narrative TBD
 
 
 * Sex: F
-
 * Birthplace: England, UK
-
 * Death: BEF 1650
-
 * Deathplace: Boston, Suffolk, Massachusetts, USA
-
 
 
 == Ship
@@ -51,10 +47,8 @@ https://cfsjksas.gigalixirapp.com/person?p=p0693http://localhost:4000/person?p=p
 
 == Other
 event:  also recorded as Hinker and Hickser
-<p>
-2 TYPE Fact
-</p>
 
+* TYPE Fact
 
 == Sources
 
