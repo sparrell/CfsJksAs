@@ -1,0 +1,86 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=300, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="19.99,19.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+
+{edge [style=invis]; title00 -> p0234;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="John Vinal (1699 - 1750)" fontsize=40];	p0411 -> p0233;
+	p0411 -> p0162;
+	p0744 -> p0751;
+	p0744 -> p0746;
+	p0319 -> p0744;
+	p0319 -> p0411;
+	p0234 -> p0748;
+	p0234 -> p0319;
+	p0162 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Stephen Vinal
+(? - ?)
+id: :p0162
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPPP.Stephen_Vinal
+" ];
+	p0233 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Anna Unknown091
+(? - 1664)
+id: :p0233
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPPM.Anna_Unknown091
+" ];
+	p0411 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1636 - 1698)
+id: :p0411
+mother: :p0233
+father: :p0162
+label: gen10.PPPPPPMPPP.John_Vinal
+" ];
+	p0746 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Nicholas Baker
+(1610 - 1678)
+id: :p0746
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPMP.Nicholas_Baker
+" ];
+	p0751 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Unknown202 Unknown003
+(? - ?)
+id: :p0751
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPMM.Unknown202_Unknown003
+" ];
+	p0744 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Elizabeth Baker
+(1644 - 1672)
+id: :p0744
+mother: :p0751
+father: :p0746
+label: gen10.PPPPPPMPPM.Elizabeth_Baker
+" ];
+	p0319 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1667 - 1728)
+id: :p0319
+mother: :p0744
+father: :p0411
+label: gen9.PPPPPPMPP.John_Vinal
+" ];
+	p0748 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Unknown125
+(? - ?)
+id: :p0748
+mother: nil
+father: nil
+label: gen9.PPPPPPMPM.Mary_Unknown125
+" ];
+	p0234 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1699 - 1750)
+id: :p0234
+mother: :p0748
+father: :p0319
+label: gen8.PPPPPPMP.John_Vinal
+" ];
+
+}
+

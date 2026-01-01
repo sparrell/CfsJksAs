@@ -1,23 +1,23 @@
-		##############  First Middle Last
-		pXxxx: %{
+		##############  Edward Rossiter
+		p9980: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "xxx",
+			birth_date: "abt 1575",
 			birth_note: nil,
-			birth_place: nil, 
+			birth_place: "Combe St Nicolas, Somerset, England",
 			birth_source: nil,
-			birth_year: "xxx",
+			birth_year: "1575",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "xxx",
+			death_date: "23 Oct 1630",
 			death_note: nil,
-			death_place: xxx or nil,
+			death_place: "Dorchester, Massachusetts Bay Colony",
 			death_source: nil,
-			death_year: "xxx",
+			death_year: "1630",
 			description: nil,
 			education: [
 			],
@@ -28,22 +28,18 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :xxx_lookup_or nil,
+			father: nil,
 			former_name: nil,
-			given_name: "xxx_first_middle",
+			given_name: "Edward",
 			graduation: [
 			],
-			id: :xxx_look_up_or_makeup,
+			id: :p9980,
 			immigration: nil,
-			label: "genXxxx.Pxxx.Namexxx",
+			label: "gen11.MPMMMPPMMMP.Edward_Rossiter",
 			links: %{
-				geni: "xxx",
-				myheritage: "xxx",
-				werelate: "xxx",
-				wikitree: "xxx",
-                other_links: %{
-					wikipedia: "",
-				},
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500066/edward-rossiter",
+				werelate: "https://www.werelate.org/wiki/Person:Edward_Rossiter_%281%29",
+				wikitree: "https://www.wikitree.com/wiki/Rossiter-14",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -51,8 +47,8 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "xxx_First /Surname/",
-			mother: :xxx_lookup_or nil,
+			mh_name: "Edward /Rossiter/",
+			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -65,20 +61,20 @@
 			],
 			probate: nil,
 			relation_list: [
-				["P", xxx],
+				["M", "P", "M", "M", "M", "P", "P", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "MxxxF",
-xxx			ship: %{
-				name: nil,
-				year: nil,
+			sex: "M",
+			ship: %{
+				name: "Mary & John",
+				year: "1630",
 			},
 			sources: [
 			],
-			surname: "xxx",
+			surname: "Rossiter",
 			title: nil,
 			uid: nil,
 			upd: nil,

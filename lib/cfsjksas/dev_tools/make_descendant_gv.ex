@@ -1,4 +1,4 @@
-defmodule Cfsjksas.DevTools.MakeGv do
+defmodule Cfsjksas.DevTools.MakeDescendantGv do
   @moduledoc """
 
   descendant_png/1

@@ -1,0 +1,291 @@
+digraph GRAMPS_graph {
+	# to turn text.gv into test.png, run "dot -Tpng test.gv -o test.png"
+
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=300, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="19.99,19.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	}
+
+{edge [style=invis]; title00 -> p0584;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="Mary Ann Vinal (1739 - 1804)" fontsize=40];	p0411 -> p0233;
+	p0411 -> p0162;
+	p0744 -> p0751;
+	p0744 -> p0746;
+	p0319 -> p0744;
+	p0319 -> p0411;
+	p0234 -> p0748;
+	p0234 -> p0319;
+	p0217 -> p0220;
+	p0217 -> p0219;
+	p0192 -> p0218;
+	p0192 -> p0217;
+	p0221 -> p0223;
+	p0221 -> p0222;
+	p0238 -> p0233;
+	p0238 -> p0162;
+	p0215 -> p0238;
+	p0215 -> p0221;
+	p0193 -> p0215;
+	p0193 -> p0214;
+	p0333 -> p0193;
+	p0333 -> p0192;
+	p0335 -> p0490;
+	p0335 -> p0489;
+	p0360 -> p0365;
+	p0360 -> p0366;
+	p0361 -> p0362;
+	p0336 -> p0361;
+	p0336 -> p0360;
+	p0334 -> p0336;
+	p0334 -> p0335;
+	p0209 -> p0334;
+	p0209 -> p0333;
+	p0584 -> p0209;
+	p0584 -> p0234;
+
+	{ rank = same; p0234; p0209; }
+
+	p0411 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1636 - 1698)
+id: :p0411
+mother: :p0233
+father: :p0162
+label: gen10.PPPPPPMPPP.John_Vinal
+" ];
+	p0746 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Nicholas Baker
+(1610 - 1678)
+id: :p0746
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPMP.Nicholas_Baker
+" ];
+	p0751 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Unknown202 Unknown003
+(? - ?)
+id: :p0751
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPMM.Unknown202_Unknown003
+" ];
+	p0744 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Elizabeth Baker
+(1644 - 1672)
+id: :p0744
+mother: :p0751
+father: :p0746
+label: gen10.PPPPPPMPPM.Elizabeth_Baker
+" ];
+	p0319 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1667 - 1728)
+id: :p0319
+mother: :p0744
+father: :p0411
+label: gen9.PPPPPPMPP.John_Vinal
+" ];
+	p0748 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Unknown125
+(? - ?)
+id: :p0748
+mother: nil
+father: nil
+label: gen9.PPPPPPMPM.Mary_Unknown125
+" ];
+	p0234 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Vinal
+(1699 - 1750)
+id: :p0234
+mother: :p0748
+father: :p0319
+label: gen8.PPPPPPMP.John_Vinal
+" ];
+	p0219 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Robert Stetson
+(1613 - 1703)
+id: :p0219
+mother: nil
+father: nil
+label: gen11.PPPPMMMMPPP.Robert_Stetson
+" ];
+	p0220 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Honor Tucker
+(1613 - 1683)
+id: :p0220
+mother: nil
+father: nil
+label: gen11.PPPPMMMMPPM.Honor_Tucker
+" ];
+	p0217 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joseph Stetson
+(1639 - 1734)
+id: :p0217
+mother: :p0220
+father: :p0219
+label: gen10.PPPPMMMMPP.Joseph_Stetson
+" ];
+	p0218 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Prudence Unknown124
+(? - ?)
+id: :p0218
+mother: nil
+father: nil
+label: gen10.PPPPMMMMPM.Prudence_Unknown124
+" ];
+	p0192 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Robert Stetson
+(1670 - 1760)
+id: :p0192
+mother: :p0218
+father: :p0217
+label: gen9.PPPPMMMMP.Robert_Stetson
+" ];
+	p0214 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Anthony Collamore
+(1640 - 1693)
+id: :p0214
+mother: nil
+father: nil
+label: gen10.PPPPMMMMMP.Anthony_Collamore
+" ];
+	p0222 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Chittenden
+(1584 - 1669)
+id: :p0222
+mother: nil
+father: nil
+label: gen12.PPPPMMMMMMPP.Thomas_Chittenden
+" ];
+	p0223 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Rebecca Unknown070
+(1595 - ?)
+id: :p0223
+mother: nil
+father: nil
+label: gen12.PPPPMMMMMMPM.Rebecca_Unknown070
+" ];
+	p0221 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Isaac Chittenden
+(1625 - 1676)
+id: :p0221
+mother: :p0223
+father: :p0222
+label: gen11.PPPPMMMMMMP.Isaac_Chittenden
+" ];
+	p0162 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Stephen Vinal
+(? - ?)
+id: :p0162
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPPP.Stephen_Vinal
+" ];
+	p0233 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Anna Unknown091
+(? - 1664)
+id: :p0233
+mother: nil
+father: nil
+label: gen11.PPPPPPMPPPM.Anna_Unknown091
+" ];
+	p0238 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Martha Vinal
+(1625 - ?)
+id: :p0238
+mother: :p0233
+father: :p0162
+label: gen11.PPPPMMMMMMM.Martha_Vinal
+" ];
+	p0215 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Sarah Chittenden
+(1647 - 1703)
+id: :p0215
+mother: :p0238
+father: :p0221
+label: gen10.PPPPMMMMMM.Sarah_Chittenden
+" ];
+	p0193 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Collamore
+(1667 - ?)
+id: :p0193
+mother: :p0215
+father: :p0214
+label: gen9.PPPPMMMMM.Mary_Collamore
+" ];
+	p0333 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Anthony Stetson
+(1693 - 1747)
+id: :p0333
+mother: :p0193
+father: :p0192
+label: gen9.PPPPPPMMP.Anthony_Stetson
+" ];
+	p0489 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jeremiah Smith
+(1650 - 1718)
+id: :p0489
+mother: nil
+father: nil
+label: gen11.PPPPPPMMMPP.Jeremiah_Smith
+" ];
+	p0490 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Abigail Unknown006
+(? - 1720)
+id: :p0490
+mother: nil
+father: nil
+label: gen11.PPPPPPMMMPM.Abigail_Unknown006
+" ];
+	p0335 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joseph Smith
+(1670 - 1702)
+id: :p0335
+mother: :p0490
+father: :p0489
+label: gen10.PPPPPPMMMP.Joseph_Smith
+" ];
+	p0366 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Hatch
+(1596 - 1646)
+id: :p0366
+mother: nil
+father: nil
+label: gen12.PPPPPPMMMMPP.Thomas_Hatch
+" ];
+	p0365 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Lydia Unknown074
+(? - ?)
+id: :p0365
+mother: nil
+father: nil
+label: gen12.PPPPPPMMMMPM.Lydia_Unknown074
+" ];
+	p0360 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jeremiah Hatch
+(1646 - 1712)
+id: :p0360
+mother: :p0365
+father: :p0366
+label: gen11.PPPPPPMMMMP.Jeremiah_Hatch
+" ];
+	p0362 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Hewes
+(? - 1673)
+id: :p0362
+mother: nil
+father: nil
+label: gen12.PPPPPPMMMMMP.John_Hewes
+" ];
+	p0361 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Hewes
+(? - ?)
+id: :p0361
+mother: nil
+father: :p0362
+label: gen11.PPPPPPMMMMM.Mary_Hewes
+" ];
+	p0336 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Anna Hatch
+(1677 - ?)
+id: :p0336
+mother: :p0361
+father: :p0360
+label: gen10.PPPPPPMMMM.Anna_Hatch
+" ];
+	p0334 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Anna Smith
+(1696 - ?)
+id: :p0334
+mother: :p0336
+father: :p0335
+label: gen9.PPPPPPMMM.Anna_Smith
+" ];
+	p0209 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Stetson
+(1717 - 1800)
+id: :p0209
+mother: :p0334
+father: :p0333
+label: gen8.PPPPPPMM.Mary_Stetson
+" ];
+	p0584 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label="Mary Ann Vinal
+(1739 - 1804)
+id: :p0584
+mother: :p0209
+father: :p0234
+label: gen7.PPPPPMM.Mary_Ann_Vinal
+" ];
+
+}
+

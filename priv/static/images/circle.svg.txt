@@ -5158,7 +5158,7 @@ brickwall  (? - ?)
 <clipPath id="sector_8_184_clip">
 <use href="#sector_8_184"/>
 </clipPath></defs>
-<use href="#sector_8_184" stroke="blue" stroke-width="50" fill="none" fill-opacity="100%" clip-path="url(#sector_8_184_clip)"/>
+<use href="#sector_8_184" stroke="blue" stroke-width="50" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_8_184_clip)"/>
 <path id="ray_g8_s184" d="M 18950,32011 L 19316,30045" />
 <text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g8_s184" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -5174,7 +5174,7 @@ Henry Andrews (1664 - 1735)
 <path id="ray_g8_s185" d="M 19221,32058 L 19539,30083" />
 <text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g8_s185" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Williams (? - ?)
+Mary Williams (1663/4 - 1726)
 </textPath>
 </text>
 <defs>
@@ -8136,11 +8136,11 @@ Mary Wadsworth (1635 - ?)
 <clipPath id="sector_9_370_clip">
 <use href="#sector_9_370"/>
 </clipPath></defs>
-<use href="#sector_9_370" stroke="blue" stroke-width="20" fill="red" fill-opacity="100%" clip-path="url(#sector_9_370_clip)"/>
+<use href="#sector_9_370" stroke="blue" stroke-width="20" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_9_370_clip)"/>
 <path id="ray_g9_s370" d="M 18757,34414 L 19153,32047" />
-<text style="font-family: sans-serif; font-size:75pt; fill:white;">
+<text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s370" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Samuel Williams (1636/7 - 1697)
 </textPath>
 </text>
 <defs>
@@ -8148,11 +8148,11 @@ brickwall  (? - ?)
 <clipPath id="sector_9_371_clip">
 <use href="#sector_9_371"/>
 </clipPath></defs>
-<use href="#sector_9_371" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="100%" clip-path="url(#sector_9_371_clip)"/>
+<use href="#sector_9_371" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="100%" clip-path="url(#sector_9_371_clip)"/>
 <path id="ray_g9_s371" d="M 18922,34440 L 19289,32068" />
-<text style="font-family: sans-serif; font-size:75pt; fill:white;">
+<text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s371" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Mary Gilbert (1638 - 1686)
 </textPath>
 </text>
 <defs>
@@ -11090,9 +11090,9 @@ Thomas Dickerson (? - 1658)
 <clipPath id="sector_10_775_clip">
 <use href="#sector_10_775"/>
 </clipPath></defs>
-<use href="#sector_10_775" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="100%" clip-path="url(#sector_10_775_clip)"/>
+<use href="#sector_10_775" stroke="#FF6EC7" stroke-width="15" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_10_775_clip)"/>
 <path id="ray_g10_s775" d="M 21626,34586 L 21731,36883" />
-<text style="font-family: sans-serif; font-size:50pt; fill:white;">
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s775" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary Unknown089 (? - ?)
 </textPath>
@@ -12895,6 +12895,30 @@ Christopher Wadsworth (1609 - 1677)
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s739" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Grace Cole (? - 1687)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_742" d="M 18571 36713 A 15900 15900 0 0 1 18474 36698 L 18840 34427 A 13600 13600 0 0 0 18922 34440 L 18571 36713 " />
+<clipPath id="sector_10_742_clip">
+<use href="#sector_10_742"/>
+</clipPath></defs>
+<use href="#sector_10_742" stroke="blue" stroke-width="15" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_10_742_clip)"/>
+<path id="ray_g10_s742" d="M 18522,36706 L 18881,34434" />
+<text style="font-family: sans-serif; font-size:50pt; fill:yellow;">
+<textPath href="#ray_g10_s742" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Thomas Gilbert (abt 1612 - 1677)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_743" d="M 18667 36728 A 15900 15900 0 0 1 18571 36713 L 18922 34440 A 13600 13600 0 0 0 19004 34453 L 18667 36728 " />
+<clipPath id="sector_10_743_clip">
+<use href="#sector_10_743"/>
+</clipPath></defs>
+<use href="#sector_10_743" stroke="#FF6EC7" stroke-width="15" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_10_743_clip)"/>
+<path id="ray_g10_s743" d="M 18619,36721 L 18963,34447" />
+<text style="font-family: sans-serif; font-size:50pt; fill:yellow;">
+<textPath href="#ray_g10_s743" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Jane Rossiter (1614 - 1691)
 </textPath>
 </text>
 <defs>
@@ -19164,6 +19188,42 @@ Alice Unknown009 (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_1484" d="M 18289 38187 A 17400 17400 0 0 1 18236 38179 L 18474 36698 A 15900 15900 0 0 0 18522 36706 L 18289 38187 " />
+<clipPath id="sector_11_1484_clip">
+<use href="#sector_11_1484"/>
+</clipPath></defs>
+<use href="#sector_11_1484" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_11_1484_clip)"/>
+<path id="ray_g11_s1484" d="M 18262,38183 L 18498,36702" />
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
+<textPath href="#ray_g11_s1484" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+John Gilbert (1580 - 1657)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1486" d="M 18394 38204 A 17400 17400 0 0 1 18341 38196 L 18571 36713 A 15900 15900 0 0 0 18619 36721 L 18394 38204 " />
+<clipPath id="sector_11_1486_clip">
+<use href="#sector_11_1486"/>
+</clipPath></defs>
+<use href="#sector_11_1486" stroke="blue" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_11_1486_clip)"/>
+<path id="ray_g11_s1486" d="M 18368,38200 L 18595,36717" />
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
+<textPath href="#ray_g11_s1486" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Edward Rossiter (1575 - 1630)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1487" d="M 18447 38212 A 17400 17400 0 0 1 18394 38204 L 18619 36721 A 15900 15900 0 0 0 18667 36728 L 18447 38212 " />
+<clipPath id="sector_11_1487_clip">
+<use href="#sector_11_1487"/>
+</clipPath></defs>
+<use href="#sector_11_1487" stroke="#FF6EC7" stroke-width="10" fill="dodgerblue" fill-opacity="100%" clip-path="url(#sector_11_1487_clip)"/>
+<path id="ray_g11_s1487" d="M 18420,38208 L 18643,36724" />
+<text style="font-family: sans-serif; font-size:32pt; fill:yellow;">
+<textPath href="#ray_g11_s1487" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Jane Combe (1614 - 1691)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_1506" d="M 19454 38331 A 17400 17400 0 0 1 19401 38326 L 19539 36833 A 15900 15900 0 0 0 19587 36837 L 19454 38331 " />
 <clipPath id="sector_11_1506_clip">
 <use href="#sector_11_1506"/>
@@ -22674,5 +22734,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-18 19:42:20.348824Z -->
+<!-- made new svg at 2025-12-27 20:00:26.461663Z -->
 </svg>
