@@ -165,13 +165,19 @@ defmodule Cfsjksas.DevTools.MakeAncestorGv do
     id = inspect(id_a)
     mother_id = inspect(person_a.mother)
     father_id = inspect(person_a.father)
-    book_label = person_a.label
+    book_label = make_label(person_a.label)
 
     label = "#{name}\n#{dates}\nid: #{id}\nmother: #{mother_id}\nfather: #{father_id}\nlabel: #{book_label}\n"
 
     gv_text
     <>   "\t#{to_string(id_a)} [ shape=\"box\" fillcolor=\"#{fillcolor}\" style=\"solid,filled\" label=\"#{label}\" ];\n"
     |> make_nodes(rest_nodes)
+  end
+
+  defp make_label(label) do
+    #split into parts, drop name, add new line
+    [gen | [rel | [_t]] ] = String.split(label, ".")
+    gen <> "\n" <> rel
   end
 
 end

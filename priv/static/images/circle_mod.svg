@@ -3034,11 +3034,11 @@ Elizabeth Hawkins (1670 - ?)
 <clipPath id="sector_8_6_clip">
 <use href="#sector_8_6"/>
 </clipPath></defs>
-<use href="#sector_8_6" stroke="blue" stroke-width="50" fill="red" fill-opacity="100%" clip-path="url(#sector_8_6_clip)"/>
+<use href="#sector_8_6" stroke="blue" stroke-width="50" fill="green" fill-opacity="100%" clip-path="url(#sector_8_6_clip)"/>
 <path id="ray_g8_s6" d="M 23083,19539 L 25058,19221" />
 <text style="font-family: sans-serif; font-size:75pt; fill:white;">
 <textPath href="#ray_g8_s6" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+John Vinal (1699 - 1750)
 </textPath>
 </text>
 <defs>
@@ -3046,11 +3046,11 @@ brickwall  (? - ?)
 <clipPath id="sector_8_7_clip">
 <use href="#sector_8_7"/>
 </clipPath></defs>
-<use href="#sector_8_7" stroke="#FF6EC7" stroke-width="50" fill="red" fill-opacity="100%" clip-path="url(#sector_8_7_clip)"/>
+<use href="#sector_8_7" stroke="#FF6EC7" stroke-width="50" fill="green" fill-opacity="100%" clip-path="url(#sector_8_7_clip)"/>
 <path id="ray_g8_s7" d="M 23045,19316 L 25011,18950" />
 <text style="font-family: sans-serif; font-size:75pt; fill:white;">
 <textPath href="#ray_g8_s7" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Mary Stetson (1717 - 1800)
 </textPath>
 </text>
 <defs>
@@ -14598,5 +14598,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2025-12-27 20:00:56.289935Z -->
+<!-- made new svg at 2026-01-03 03:10:03.597229Z -->
 </svg>
