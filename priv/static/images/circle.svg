@@ -6832,7 +6832,7 @@ Jonathan Lester (1678 - 1712)
 <path id="ray_g9_s241" d="M 7615,18593 L 9977,19018" />
 <text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s241" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Unknown117 (? - 1735)
+Hannah Unknown117-* (? - 1735)
 </textPath>
 </text>
 <defs>
@@ -6880,7 +6880,7 @@ Jonathan Lester (1678 - 1712)
 <path id="ray_g9_s245" d="M 7513,19252 L 9893,19561" />
 <text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s245" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Unknown117 (? - 1735)
+Hannah Unknown117-* (? - 1735)
 </textPath>
 </text>
 <defs>
@@ -7984,7 +7984,7 @@ Jonathan Lester (1678 - 1712)
 <path id="ray_g9_s497" d="M 32023,22982 L 34385,23407" />
 <text style="font-family: sans-serif; font-size:75pt; fill:white;">
 <textPath href="#ray_g9_s497" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Unknown117 (? - 1735)
+Hannah Unknown117-* (? - 1735)
 </textPath>
 </text>
 <defs>
@@ -8032,7 +8032,7 @@ Jonathan Lester (1678 - 1712)
 <path id="ray_g9_s501" d="M 32107,22439 L 34487,22748" />
 <text style="font-family: sans-serif; font-size:75pt; fill:white;">
 <textPath href="#ray_g9_s501" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Hannah Unknown117 (? - 1735)
+Hannah Unknown117-* (? - 1735)
 </textPath>
 </text>
 <defs>
@@ -8682,7 +8682,7 @@ Walter Woodworth (? - 1686)
 <path id="ray_g10_s59" d="M 33704,16144 L 35852,15323" />
 <text style="font-family: sans-serif; font-size:50pt; fill:white;">
 <textPath href="#ray_g10_s59" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Unknown WW Unknown-wife-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -8706,7 +8706,7 @@ Joseph Stetson (1639 - 1734)
 <path id="ray_g10_s61" d="M 33643,15989 L 35781,15141" />
 <text style="font-family: sans-serif; font-size:50pt; fill:white;">
 <textPath href="#ray_g10_s61" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Prudence Unknown124 (? - ?)
+Prudence Unknown124-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -9006,7 +9006,7 @@ Elizabeth Mitton (1644 - 1736)
 <path id="ray_g10_s118" d="M 31161,11960 L 32879,10431" />
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s118" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Rev. Samuel Stow Stowe (1645 - 1720)
+Rev. Samuel Stow (1645 - 1720)
 </textPath>
 </text>
 <defs>
@@ -13172,7 +13172,7 @@ Joseph Stetson (1639 - 1734)
 <path id="ray_g11_s25" d="M 36851,19757 L 38347,19640" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s25" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Prudence Unknown124 (? - ?)
+Prudence Unknown124-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13340,7 +13340,7 @@ Joseph Stetson (1639 - 1734)
 <path id="ray_g11_s57" d="M 36653,18210 L 38130,17946" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s57" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Prudence Unknown124 (? - ?)
+Prudence Unknown124-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -13864,11 +13864,11 @@ brickwall  (? - ?)
 <clipPath id="sector_11_236_clip">
 <use href="#sector_11_236"/>
 </clipPath></defs>
-<use href="#sector_11_236" stroke="blue" stroke-width="10" fill="none" fill-opacity="100%" clip-path="url(#sector_11_236_clip)"/>
+<use href="#sector_11_236" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_236_clip)"/>
 <path id="ray_g11_s236" d="M 32895,10449 L 34017,9454" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s236" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Thomas Stow, I (Stowe) (1615 - 1684)
+Thomas Stow (1615 - 1684)
 </textPath>
 </text>
 <defs>
@@ -13880,7 +13880,7 @@ Thomas Stow, I (Stowe) (1615 - 1684)
 <path id="ray_g11_s237" d="M 32863,10413 L 33982,9414" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s237" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Griggs Gregg (1618 - 1680)
+Mary Griggs (1618 - 1680)
 </textPath>
 </text>
 <defs>
@@ -13888,11 +13888,11 @@ Mary Griggs Gregg (1618 - 1680)
 <clipPath id="sector_11_238_clip">
 <use href="#sector_11_238"/>
 </clipPath></defs>
-<use href="#sector_11_238" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_238_clip)"/>
+<use href="#sector_11_238" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_238_clip)"/>
 <path id="ray_g11_s238" d="M 32830,10377 L 33946,9374" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s238" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+John Stone (1618 - 1683)
 </textPath>
 </text>
 <defs>
@@ -13900,11 +13900,11 @@ brickwall  (? - ?)
 <clipPath id="sector_11_239_clip">
 <use href="#sector_11_239"/>
 </clipPath></defs>
-<use href="#sector_11_239" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_239_clip)"/>
+<use href="#sector_11_239" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_239_clip)"/>
 <path id="ray_g11_s239" d="M 32797,10340 L 33910,9335" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s239" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Ann Rogers (1615 - 1719)
 </textPath>
 </text>
 <defs>
@@ -19822,7 +19822,7 @@ Susan (Susannah) (Sara)   (1584 - 1658)
 <path id="ray_g12_s472" d="M 34026,9464 L 34550,9000" />
 <text style="font-family: sans-serif; font-size:8pt; fill:black;">
 <textPath href="#ray_g12_s472" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-John Stow Stowe (1581 - 1652)
+John Stow (1581 - 1652)
 </textPath>
 </text>
 <defs>
@@ -19835,6 +19835,18 @@ John Stow Stowe (1581 - 1652)
 <text style="font-family: sans-serif; font-size:8pt; fill:black;">
 <textPath href="#ray_g12_s473" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Bigge Bigg (1590 - 1638)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_476" d="M 34467 8907 A 18100 18100 0 0 1 34486 8927 L 33964 9394 A 17400 17400 0 0 0 33946 9374 L 34467 8907 " />
+<clipPath id="sector_12_476_clip">
+<use href="#sector_12_476"/>
+</clipPath></defs>
+<use href="#sector_12_476" stroke="blue" stroke-width="1" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_12_476_clip)"/>
+<path id="ray_g12_s476" d="M 33955,9384 L 34476,8917" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s476" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Gregory Stone (1592 - 1672)
 </textPath>
 </text>
 <defs>
@@ -23178,5 +23190,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-01-03 03:09:52.065134Z -->
+<!-- made new svg at 2026-01-05 05:05:15.690117Z -->
 </svg>

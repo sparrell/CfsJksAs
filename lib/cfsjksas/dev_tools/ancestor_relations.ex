@@ -30,16 +30,12 @@ defmodule Cfsjksas.DevTools.AncestorRelations do
   end
   defp check_father(to_do,  child_id, child_relations, father_id) do
     # add father to each relation in child
-    IO.inspect("###F###")
-    IO.inspect(child_id, label: "child_id")
-    IO.inspect(child_relations, label: "child_relations")
+    IO.inspect(child_id, label: "## child_id")
     child_list = Enum.map(child_relations, fn relation -> relation ++ ["P"] end)
-    IO.inspect(child_list, label: "child_list")
 
     IO.inspect(father_id, label: "father_id")
 
     father = Cfsjksas.Ancestors.AgentStores.get_person_a(father_id)
-    IO.inspect(father.relation_list, label: "father.relation_list")
 
     # see which child relations are not in father relations
     missing = child_list -- father.relation_list
@@ -61,16 +57,12 @@ defmodule Cfsjksas.DevTools.AncestorRelations do
     to_do
   end
   defp check_mother(to_do,  child_id, child_relations, mother_id) do
-    IO.inspect("###M###")
-    IO.inspect(child_id, label: "child_id")
-    IO.inspect(child_relations, label: "child_relations")
+    IO.inspect(child_id, label: "## child_id")
     # add mother to each relation in child
     child_list = Enum.map(child_relations, fn relation -> relation ++ ["M"] end)
-    IO.inspect(child_list, label: "child_list")
 
     IO.inspect(mother_id, label: "mother_id")
     mother = Cfsjksas.Ancestors.AgentStores.get_person_a(mother_id)
-    IO.inspect(mother.relation_list, label: "mother.relation_list")
 
     # see which child relations are not in mother relations
     missing = child_list -- mother.relation_list

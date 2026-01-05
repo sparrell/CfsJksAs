@@ -1,23 +1,23 @@
-		##############  Jane Combe
-		p9979: %{
+		##############  Gregory Stone
+		p9975: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "August 19, 1614",
+			birth_date: "19 Apr 1592",
 			birth_note: nil,
-			birth_place: "Combe St. Nicholas, Somerset, England",
+			birth_place: "Great Bromley, Essex, England",
 			birth_source: nil,
-			birth_year: "1614",
+			birth_year: "1592",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "January 01, 1691",
+			death_date: "30 Nov 1672",
 			death_note: nil,
-			death_place: "Taunton, Bristol County, Province of Massachusetts",
+			death_place: "Cambridge, Middlesex, Massachusetts",
 			death_source: nil,
-			death_year: "1691",
+			death_year: "1672",
 			description: nil,
 			education: [
 			],
@@ -30,17 +30,14 @@
 			],
 			father: nil,
 			former_name: nil,
-			given_name: "Jane",
+			given_name: "Gregory",
 			graduation: [
 			],
-			id: :p9979,
+			id: :p9975,
 			immigration: nil,
-			label: "gen11.MPMMMPPMMMM.Jane_Combe",
+			label: "gen12.PPPMMMPMMMPP.Gregory_Stone",
 			links: %{
-				geni: "https://www.geni.com/people/Joan-Gilbert/6000000008935219603",
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500067/jane-combe-rossiter",
-				werelate: "https://www.werelate.org/wiki/Person:Unknown_Combe_%281%29",
-				wikitree: "https://www.wikitree.com/wiki/Combe-95",
+				wikitree: "https://www.wikitree.com/wiki/Stone-178",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -48,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Jane /Combe/",
+			mh_name: "Gregory /Stone/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -62,20 +59,20 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P", "M", "M", "M", "M"],
+				["P", "P", "P", "M", "M", "M", "P", "M", "M", "M", "P", "P"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "MxxxF",
+			sex: "M",
 			ship: %{
-				name: "Mary and John",
-				year: "1630",
+				name: nil,
+				year: "1635",
 			},
 			sources: [
 			],
-			surname: "Combe",
+			surname: "Stone",
 			title: nil,
 			uid: nil,
 			upd: nil,

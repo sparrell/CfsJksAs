@@ -56,3 +56,14 @@ Application.start(:cfsjksas)
 
 gen=3
 Cfsjksas.Ancestors.Lineage.list_no_link_key(gen)
+
+## scratch area
+
+Mary is p0584
+
+Ruth is p0207
+
+Cfsjksas.DevTools.AncestorRelations.check([:p0584])
+
+Cfsjksas.DevTools.AncestorRelations.check([:p0005])
+

@@ -1,23 +1,23 @@
-		##############  John Gilbert
-		p9981: %{
+		##############  John Stone
+		p9976: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "abt 1580",
+			birth_date: "before 31 Jul 1618",
 			birth_note: nil,
-			birth_place: "Bridgwater, Somerset, England",
+			birth_place: "Nayland, Suffolk, England",
 			birth_source: nil,
-			birth_year: "1580",
+			birth_year: "1618",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "abt Mar 1657",
+			death_date: " 5 May 1683",
 			death_note: nil,
-			death_place: "Taunton, Massachusetts",
+			death_place: "Cambridge, Middlesex, Massachusetts Bay Colony",
 			death_source: nil,
-			death_year: "1657",
+			death_year: "1683",
 			description: nil,
 			education: [
 			],
@@ -28,19 +28,16 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: nil,
+			father: :p9975,
 			former_name: nil,
 			given_name: "John",
 			graduation: [
 			],
-			id: :p9981,
+			id: :p9976,
 			immigration: nil,
-			label: "gen11.MPMMMPPMMPP.John_Gilbert",
+			label: "gen11.PPPMMMPMMMP.John_Stone",
 			links: %{
-				geni: "https://www.geni.com/people/John-Gilbert/6000000002766881394",
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500065/john-gilbert",
-				werelate: "https://www.werelate.org/wiki/Person:John_Gilbert_%2822%29",
-				wikitree: "https://www.wikitree.com/wiki/Gilbert-615",
+				wikitree: "https://www.wikitree.com/wiki/Stone-168",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -48,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "John /Gilbert/",
+			mh_name: "John /Stone/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -62,7 +59,7 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P", "M", "M", "P", "P"],
+				["P", "P", "P", "M", "M", "M", "P", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
@@ -70,12 +67,12 @@
 			rin: nil,
 			sex: "M",
 			ship: %{
-				name: "Hopewell",
+				name: nil,
 				year: "1635",
 			},
 			sources: [
 			],
-			surname: "Gilbert",
+			surname: "Stone",
 			title: nil,
 			uid: nil,
 			upd: nil,

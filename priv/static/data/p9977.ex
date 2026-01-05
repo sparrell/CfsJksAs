@@ -1,24 +1,24 @@
-		##############  Thomas Gilbert
-		p9983: %{
+		##############  Ann Rogers
+		p9977: %{
 			also_known_as: nil,
-			baptism: nil,
-			birth_date: "abt 1612",
+			baptism: "14 May 1615",
+			birth_date: "bef 14 May 1615",
 			birth_note: nil,
-			birth_place: "Trull, Somerset, England",
+			birth_place: "Boxted, Essex, England",
 			birth_source: nil,
-			birth_year: "abt 1612",
+			birth_year: "1615",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: "bef 5 Jul 1677",
+			death_date: "1719",
 			death_note: nil,
-			death_place: nil,
+			death_place: "Sudbury, Middlesex, Massachusetts",
 			death_source: nil,
-			death_year: "1677",
-			description: "went back to England after many years in US",
+			death_year: "1719",
+			description: nil,
 			education: [
 			],
 			emigration: [
@@ -28,19 +28,16 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :p9981,
+			father: nil,
 			former_name: nil,
-			given_name: "Thomas",
+			given_name: "Ann",
 			graduation: [
 			],
-			id: :p9983,
+			id: :p9977,
 			immigration: nil,
-			label: "gen10.MPMMMPPMMP.Thomas_Gilbert",
+			label: "gen11.PPPMMMPMMMM.Ann_Rogers",
 			links: %{
-				geni: "https://www.geni.com/people/Thomas-Gilbert/4182657515040064415",
-				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500063/thomas-gilbert",
-				werelate: "https://www.werelate.org/wiki/Person:Thomas_Gilbert_%287%29",
-				wikitree: "https://www.wikitree.com/wiki/Gilbert-144",
+				wikitree: "https://www.wikitree.com/wiki/Rogers-249",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -48,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "Thomas /Gilbert/",
+			mh_name: "Ann /Rogers/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -62,20 +59,20 @@
 			],
 			probate: nil,
 			relation_list: [
-				["M", "P", "M", "M", "M", "P", "P", "M", "M", "P"],
+				["P", "P", "P", "M", "M", "M", "P", "M", "M", "M", "M"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
-			sex: "M",
+			sex: "F",
 			ship: %{
-				name: "Hopewell",
+				name: nil,
 				year: "1635",
 			},
 			sources: [
 			],
-			surname: "Gilbert",
+			surname: "Rogers",
 			title: nil,
 			uid: nil,
 			upd: nil,
