@@ -11858,7 +11858,7 @@ John Stoddard (1612 - 1676)
 <clipPath id="sector_10_921_clip">
 <use href="#sector_10_921"/>
 </clipPath></defs>
-<use href="#sector_10_921" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_921_clip)"/>
+<use href="#sector_10_921" stroke="#FF6EC7" stroke-width="15" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_10_921_clip)"/>
 <path id="ray_g10_s921" d="M 31998,29001 L 33858,30354" />
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s921" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -14420,7 +14420,7 @@ Anne   (1607 - 1687)
 <path id="ray_g11_s702" d="M 11400,6488 L 12227,7739" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s702" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+John Pickett-* (1629 - 1667)
 </textPath>
 </text>
 <defs>
@@ -14900,7 +14900,7 @@ Anne   (1607 - 1687)
 <path id="ray_g11_s814" d="M 7072,10571 L 8273,11470" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s814" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+John Pickett-* (1629 - 1667)
 </textPath>
 </text>
 <defs>
@@ -14913,30 +14913,6 @@ brickwall  (? - ?)
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s815" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Ruth Brewster (1631 - 1677)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_818" d="M 6929 10764 A 17400 17400 0 0 1 6961 10721 L 8171 11607 A 15900 15900 0 0 0 8142 11646 L 6929 10764 " />
-<clipPath id="sector_11_818_clip">
-<use href="#sector_11_818"/>
-</clipPath></defs>
-<use href="#sector_11_818" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_818_clip)"/>
-<path id="ray_g11_s818" d="M 6945,10742 L 8157,11627" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g11_s818" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_819" d="M 6898 10807 A 17400 17400 0 0 1 6929 10764 L 8142 11646 A 15900 15900 0 0 0 8114 11686 L 6898 10807 " />
-<clipPath id="sector_11_819_clip">
-<use href="#sector_11_819"/>
-</clipPath></defs>
-<use href="#sector_11_819" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_819_clip)"/>
-<path id="ray_g11_s819" d="M 6914,10785 L 8128,11666" />
-<text style="font-family: sans-serif; font-size:32pt; fill:black;">
-<textPath href="#ray_g11_s819" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -17564,7 +17540,7 @@ Anne   (1607 - 1687)
 <path id="ray_g11_s1838" d="M 33727,30530 L 34928,31429" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s1838" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+John Pickett-* (1629 - 1667)
 </textPath>
 </text>
 <defs>
@@ -17577,30 +17553,6 @@ brickwall  (? - ?)
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1839" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Ruth Brewster (1631 - 1677)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1842" d="M 35071 31236 A 17400 17400 0 0 1 35039 31279 L 33829 30393 A 15900 15900 0 0 0 33858 30354 L 35071 31236 " />
-<clipPath id="sector_11_1842_clip">
-<use href="#sector_11_1842"/>
-</clipPath></defs>
-<use href="#sector_11_1842" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_1842_clip)"/>
-<path id="ray_g11_s1842" d="M 33843,30373 L 35055,31258" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g11_s1842" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
-</textPath>
-</text>
-<defs>
-<path id="sector_11_1843" d="M 35102 31193 A 17400 17400 0 0 1 35071 31236 L 33858 30354 A 15900 15900 0 0 0 33886 30314 L 35102 31193 " />
-<clipPath id="sector_11_1843_clip">
-<use href="#sector_11_1843"/>
-</clipPath></defs>
-<use href="#sector_11_1843" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_1843_clip)"/>
-<path id="ray_g11_s1843" d="M 33872,30334 L 35086,31215" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
-<textPath href="#ray_g11_s1843" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
 </textPath>
 </text>
 <defs>
@@ -23190,5 +23142,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-01-05 21:56:27.635931Z -->
+<!-- made new svg at 2026-01-06 05:12:55.157023Z -->
 </svg>

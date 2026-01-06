@@ -54810,9 +54810,9 @@
 		p0832: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: nil,
+			birth_date: "about 1625",
 			birth_note: nil,
-			birth_place: nil,
+			birth_place: "England",
 			birth_source: nil,
 			birth_year: "?",
 			buried: nil,
@@ -54876,6 +54876,10 @@
 			],
 			rin: "MH:I1092",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Seabrook",
