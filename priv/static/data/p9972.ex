@@ -1,23 +1,23 @@
-		##############  John Stone
-		p9976: %{
+		##############  John Pickett-*
+		p9972: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "before 31 Jul 1618",
+			birth_date: "1629",
 			birth_note: nil,
-			birth_place: "Nayland, Suffolk, England",
+			birth_place: "New London, New London, Connecticut",
 			birth_source: nil,
-			birth_year: "1618",
+			birth_year: "1629",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: " 5 May 1683",
+			death_date: "16 Aug 1667",
 			death_note: nil,
-			death_place: "Cambridge, Middlesex, Massachusetts Bay Colony",
+			death_place: "at sea",
 			death_source: nil,
-			death_year: "1683",
+			death_year: "1667",
 			description: nil,
 			education: [
 			],
@@ -28,16 +28,16 @@
 			family_of_origin: nil,
 			family_of_procreation: [
 			],
-			father: :p9975,
+			father: nil,
 			former_name: nil,
 			given_name: "John",
 			graduation: [
 			],
-			id: :p9976,
+			id: :p9972,
 			immigration: nil,
-			label: "gen11.PPPMMMPMMMP.John_Stone",
+			label: "gen11.MMMPPMPMMMP.John_Pickett",
 			links: %{
-				wikitree: "https://www.wikitree.com/wiki/Stone-168",
+				wikitree: "https://www.wikitree.com/wiki/Pickett-8",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -45,7 +45,7 @@
 			mh_fams: [
 			],
 			mh_id: nil,
-			mh_name: "John /Stone/",
+			mh_name: "John /Pickett/",
 			mother: nil,
 			name_prefix: nil,
 			name_suffix: nil,
@@ -59,20 +59,18 @@
 			],
 			probate: nil,
 			relation_list: [
-				["P", "P", "P", "M", "M", "M", "P", "M", "M", "M", "P"],
+				["M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "P"],
+				["P", "M", "M", "P", "P", "M", "P", "M", "M", "M", "P"],
+				["P", "M", "P", "M", "P", "M", "M", "M", "M", "M", "P"],
 			],
 			religion: nil,
 			residence: [
 			],
 			rin: nil,
 			sex: "M",
-			ship: %{
-				name: nil,
-				year: "1635",
-			},
 			sources: [
 			],
-			surname: "Stone",
+			surname: "Pickett-*",
 			title: nil,
 			uid: nil,
 			upd: nil,

@@ -13840,11 +13840,11 @@ Mary Jobo (1610 - 1655)
 <clipPath id="sector_11_234_clip">
 <use href="#sector_11_234"/>
 </clipPath></defs>
-<use href="#sector_11_234" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_234_clip)"/>
+<use href="#sector_11_234" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_234_clip)"/>
 <path id="ray_g11_s234" d="M 32960,10523 L 34088,9534" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s234" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Michael Mitton (1615 - 1661)
 </textPath>
 </text>
 <defs>
@@ -13852,11 +13852,11 @@ brickwall  (? - ?)
 <clipPath id="sector_11_235_clip">
 <use href="#sector_11_235"/>
 </clipPath></defs>
-<use href="#sector_11_235" stroke="#FF6EC7" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_235_clip)"/>
+<use href="#sector_11_235" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_235_clip)"/>
 <path id="ray_g11_s235" d="M 32927,10486 L 34053,9494" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s235" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-brickwall  (? - ?)
+Elizabeth Cleeves (1619 - 1682)
 </textPath>
 </text>
 <defs>
@@ -23190,5 +23190,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-01-05 05:05:15.690117Z -->
+<!-- made new svg at 2026-01-05 21:56:27.635931Z -->
 </svg>

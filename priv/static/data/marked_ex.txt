@@ -9513,19 +9513,19 @@
       sector: {11, 231},
 	}
 	{11, :ne, 234} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
-      id: "father of p1280",
-      immigrant: :no,
+      id: :p9973,
+      immigrant: :no_ship,
       quadrant: :ne,
       relation: ["P", "P", "P", "M", "M", "M", "P", "M", "P", "M", "P"],
       sector: {11, 234},
 	}
 	{11, :ne, 235} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
-      id: "mother of p1280",
-      immigrant: :no,
+      id: :p9974,
+      immigrant: :no_ship,
       quadrant: :ne,
       relation: ["P", "P", "P", "M", "M", "M", "P", "M", "P", "M", "M"],
       sector: {11, 235},

@@ -17006,6 +17006,87 @@
 			will: [
 			],
 		},
+		##############  Elizabeth Cleeves
+		p9974: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "1619",
+			birth_note: nil,
+			birth_place: "England",
+			birth_source: nil,
+			birth_year: "1619",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "after 28 Jun 1682",
+			death_note: nil,
+			death_place: "Boston, Massachusetts",
+			death_source: nil,
+			death_year: "1682",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: nil,
+			former_name: nil,
+			given_name: "Elizabeth",
+			graduation: [
+			],
+			id: :p9974,
+			immigration: nil,
+			label: "gen11.PPPMMMPMPMM.Elizabeth_Cleeves",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Cleeves-1",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Elizabeth /Cleeves/",
+			mother: nil,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["P", "P", "P", "M", "M", "M", "P", "M", "P", "M", "M"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
+			sources: [
+			],
+			surname: "Cleeves",
+			title: nil,
+			uid: nil,
+			upd: nil,
+			will: [
+			],
+		},		
 		##############  Philena Cogswell
 		p0983: %{
 			also_known_as: nil,
@@ -45860,7 +45941,7 @@
 			family_of_procreation: [
 				:f612,
 			],
-			father: nil,
+			father: :p9973,
 			former_name: nil,
 			given_name: "Elizabeth",
 			graduation: [
@@ -45879,7 +45960,7 @@
 			],
 			mh_id: "I1652",
 			mh_name: "Elizabeth /Mitton/",
-			mother: nil,
+			mother: :p9974,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -45905,6 +45986,87 @@
 			surname: "Mitton",
 			title: nil,
 			uid: "6169dc9cf86661ec2389000000000000",
+			upd: nil,
+			will: [
+			],
+		},
+		##############  Michael Mitton
+		p9973: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "about 1615",
+			birth_note: nil,
+			birth_place: "Shropshire, England",
+			birth_source: nil,
+			birth_year: "1615",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "before 7 Oct 1661",
+			death_note: nil,
+			death_place: "Falmouth, Maine",
+			death_source: nil,
+			death_year: "1661",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: nil,
+			former_name: nil,
+			given_name: "Michael",
+			graduation: [
+			],
+			id: :p9973,
+			immigration: nil,
+			label: "gen11.PPPMMMPMPMP.Michael_Mitton",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Mitton-2",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "Michael /Mitton/",
+			mother: nil,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["P", "P", "P", "M", "M", "M", "P", "M", "P", "M", "P"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
+			sources: [
+			],
+			surname: "Mitton",
+			title: nil,
+			uid: nil,
 			upd: nil,
 			will: [
 			],
@@ -51402,7 +51564,7 @@
 			family_of_procreation: [
 				:f599,
 			],
-			father: nil,
+			father: :p9972,
 			former_name: nil,
 			given_name: "Mary",
 			graduation: [
@@ -51451,6 +51613,85 @@
 			surname: "Pickett",
 			title: nil,
 			uid: "5D3CAAC76A3755330FFFFD616DF99240",
+			upd: nil,
+			will: [
+			],
+		},
+		##############  John Pickett-*
+		p9972: %{
+			also_known_as: nil,
+			baptism: nil,
+			birth_date: "1629",
+			birth_note: nil,
+			birth_place: "New London, New London, Connecticut",
+			birth_source: nil,
+			birth_year: "1629",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "16 Aug 1667",
+			death_note: nil,
+			death_place: "at sea",
+			death_source: nil,
+			death_year: "1667",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+			],
+			father: nil,
+			former_name: nil,
+			given_name: "John",
+			graduation: [
+			],
+			id: :p9972,
+			immigration: nil,
+			label: "gen11.MMMPPMPMMMP.John_Pickett",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Pickett-8",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+			],
+			mh_id: nil,
+			mh_name: "John /Pickett/",
+			mother: nil,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			relation_list: [
+				["M", "M", "M", "P", "P", "M", "P", "M", "M", "M", "P"],
+				["P", "M", "M", "P", "P", "M", "P", "M", "M", "M", "P"],
+				["P", "M", "P", "M", "P", "M", "M", "M", "M", "M", "P"],
+			],
+			religion: nil,
+			residence: [
+			],
+			rin: nil,
+			sex: "M",
+			sources: [
+			],
+			surname: "Pickett-*",
+			title: nil,
+			uid: nil,
 			upd: nil,
 			will: [
 			],
