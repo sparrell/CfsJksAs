@@ -1,7 +1,9 @@
 = Frances Fisher
 
+Born in 1835 (likely in Paris, Maine). Daughter of link:https://github.com/sparrell/CfsJksAs/blob/main/priv/static/adoc/V2_C5_G4/gen4.MPMP.Albert_Fisher.adoc[Albert Fisher] and link:https://github.com/sparrell/CfsJksAs/blob/main/priv/static/adoc/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray].
+
 Traditionally, Frances Fisher was integrated into the family tree as the daughter of Albert Fisher (1812-1887) and Arvilla Gray (1808-1888) and older sister to Albert AF Fisher (1854-1915). Subsequent research questions the accuracy of this arrangement. 
 Thanks to the work of Certified Genealogist Polly FitzGerald Kimmitt, there is sufficient evidence to acknowledge the possibility that Frances Fisher was, in fact, Albert AF Fisher’s mother. 
-There is no single smoking gun that points to the true nature of Albert AF Fisher’s parentage. Instead, a constellation of coincidences suggests a more nuanced family dynamic. 
-Albert’s birth record lists no name for the mother and no birthplaces for either parent. His arrival in 1854 marks the end of a nineteen-year gap between the birth of supposed siblings. More importantly, Albert AF Fisher’s nominal mother, Arvilla Gray Fisher, would have been forty-six at the time of his birth – remarkable for the mid-19th century. There is, also, a records gap for the family between 1835 and 1850 and another gap in historical documents pertaining to Frances Fisher near the time of Albert AF Fisher’s birth. Frances emerges in Ohio two years later when she marries. The doctrine of time and propinquity raises significant questions.
-For the purposes of this family’s tree, we have elected to position Frances Fisher not as Albert AF Fisher’s sister, but as his mother. 
+
+For more information, see link:https://github.com/sparrell/CfsJksAs/blob/main/priv/static/adoc/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher].
+
