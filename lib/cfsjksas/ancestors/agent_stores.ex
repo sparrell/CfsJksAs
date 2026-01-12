@@ -107,4 +107,32 @@ defmodule Cfsjksas.Ancestors.AgentStores do
     end)
   end
 
+  @doc """
+  return the id_a for a line
+  """
+  def line_to_id_a(line) do
+    Agent.get(:lines_to_id_a, fn map -> Map.get(map, line) end)
+  end
+
+  @doc """
+  return the entire line_to_id_a map
+  """
+  def line_to_id_a() do
+    Agent.get(:lines_to_id_a, fn map -> map end)
+  end
+
+  @doc """
+  return the entire id_a to line map
+  """
+  def id_a_to_line() do
+    Agent.get(:id_a_to_lines, fn map -> map end)
+  end
+
+  @doc """
+  return the lines for an id_a
+  """
+  def id_a_to_line(id_a) do
+    Agent.get(:id_a_to_lines, fn map -> Map.get(map, id_a) end)
+  end
+
 end

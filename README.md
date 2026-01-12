@@ -66,3 +66,5 @@ Ruth is p0207
 Cfsjksas.DevTools.AncestorRelations.check([:p0584])
 
 Cfsjksas.DevTools.AncestorRelations.check([:p0005])
+
+Cfsjksas.Ancestors.AgentStores.line_to_id_a() |> Cfsjksas.Ancestors.LinesToPeople.create_people_map()

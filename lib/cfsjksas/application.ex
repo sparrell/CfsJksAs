@@ -7,6 +7,13 @@ defmodule Cfsjksas.Application do
 
   @impl true
   def start(_type, _args) do
+
+    # some helper doc
+    IO.inspect("Cfsjksas.Chart.Circle.main(\"circle.svg\")")
+    IO.inspect("Cfsjksas.Chart.CircleMod.main(\"circle_mod.svg\")")
+    IO.inspect("Cfsjksas.Tools.Markdown.person_pages(:all)")
+
+
     children = [
       CfsjksasWeb.Telemetry,
       Cfsjksas.Repo,
@@ -14,8 +21,10 @@ defmodule Cfsjksas.Application do
       {Phoenix.PubSub, name: Cfsjksas.PubSub},
       # Start the Finch HTTP client for sending emails
       {Finch, name: Cfsjksas.Finch},
-      # start the 3 Agents for storing data
+      # start the Agents for storing data
       Cfsjksas.Ancestors.StoreAncestor,
+      Cfsjksas.Ancestors.StoreLinesToIdA,
+      Cfsjksas.Ancestors.StoreIdAToLines,
       Cfsjksas.Ancestors.StoreMarked,
       Cfsjksas.Ancestors.StoreRelationMap,
       # start some dev counters

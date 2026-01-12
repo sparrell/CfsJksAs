@@ -10,50 +10,6 @@ defmodule Cfsjksas.Tools.Print do
     :ok = File.write(filename, outtext)
   end
 
-  defp print_person(person) do
-    # print raw person struct, but do keys alphabetically
-
-    # convert from struct to map so can access dynamically
-    #person_map = Map.from_struct(person)
-    person_map = person
-    keys = Enum.sort(Map.keys(person_map))
-    print_person("", keys, person_map)
-  end
-  defp print_person(text, [], _person) do
-    # list done so return final text
-    text
-  end
-  defp print_person(text, [this | rest], person) do
-    # print this key added to previous text
-    ## recurse the print if list or map
-    text_to_add = cond do
-      is_list(person[this]) ->
-        sorted = Enum.sort(person[this])
-        text1 = text <> "\t\t\t" <> to_string(this) <> ": [\n"
-
-        text2 = Enum.reduce(sorted, text1, fn item, acc ->
-          new_piece = "\t\t\t\t" <> inspect(item) <> ",\n"
-          acc <> new_piece
-        end)
-        text2 <> "\t\t\t],\n"
-      is_map(person[this]) ->
-        keys = Enum.sort(Map.keys(person[this]))
-        text1 = text <> "\t\t\t" <> to_string(this) <> ": %{\n"
-        text2 = Enum.reduce(keys, text1, fn key, acc ->
-          new_piece = "\t\t\t\t"
-            <> to_string(key) <> ": "
-            <> inspect(person[this][key])
-            <> ",\n"
-          acc <> new_piece
-        end)
-        text2 <> "\t\t\t},\n"
-      true ->
-        text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
-    end
-
-    print_person(text_to_add, rest, person)
-  end
-
   def format_ancestor_map(ancestors_in) do
     # pretty print temp file with ancestor map
     ## people are in sorted surname/given_name order
@@ -96,6 +52,69 @@ defmodule Cfsjksas.Tools.Print do
 
     # write the file
     write_file(outtext, filepath)
+  end
+
+  def lines_to_file(lines) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/lines_to_id_a_ex.txt")
+
+    lines
+    |> Cfsjksas.Tools.LineSort.make_sorted_text()
+    |> write_file(filepath)
+  end
+
+  def id_a_to_lines_to_file(id_a_to_lines) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/id_a_to_lines_ex.txt")
+
+    id_a_to_lines
+    |> Map.to_list()
+    |> Enum.sort()
+    |> inspect(pretty: true, limit: :infinity, printable_limit: :infinity)
+    |> write_file(filepath)
+
+  end
+
+  defp print_person(person) do
+    # print raw person struct, but do keys alphabetically
+
+    # convert from struct to map so can access dynamically
+    #person_map = Map.from_struct(person)
+    person_map = person
+    keys = Enum.sort(Map.keys(person_map))
+    print_person("", keys, person_map)
+  end
+  defp print_person(text, [], _person) do
+    # list done so return final text
+    text
+  end
+  defp print_person(text, [this | rest], person) do
+    # print this key added to previous text
+    ## recurse the print if list or map
+    text_to_add = cond do
+      is_list(person[this]) ->
+        sorted = Enum.sort(person[this])
+        text1 = text <> "\t\t\t" <> to_string(this) <> ": [\n"
+
+        text2 = Enum.reduce(sorted, text1, fn item, acc ->
+          new_piece = "\t\t\t\t" <> inspect(item) <> ",\n"
+          acc <> new_piece
+        end)
+        text2 <> "\t\t\t],\n"
+      is_map(person[this]) ->
+        keys = Enum.sort(Map.keys(person[this]))
+        text1 = text <> "\t\t\t" <> to_string(this) <> ": %{\n"
+        text2 = Enum.reduce(keys, text1, fn key, acc ->
+          new_piece = "\t\t\t\t"
+            <> to_string(key) <> ": "
+            <> inspect(person[this][key])
+            <> ",\n"
+          acc <> new_piece
+        end)
+        text2 <> "\t\t\t},\n"
+      true ->
+        text <> "\t\t\t" <> to_string(this) <> ": " <> inspect(person[this], pretty: true, limit: :infinity) <> ",\n"
+    end
+
+    print_person(text_to_add, rest, person)
   end
 
   defp marked_print(input, _marked, []) do
