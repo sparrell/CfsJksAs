@@ -54,6 +54,22 @@ defmodule Cfsjksas.Tools.Print do
     write_file(outtext, filepath)
   end
 
+  def marked_sectors_print(marked_sectors) do
+    filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/marked_sectors_ex.txt")
+
+    # sort the keys
+    id_m_s = Map.keys(marked_sectors)
+    |> Enum.sort()
+
+    # format the text
+    outtext = marked_print("%{\n", marked_sectors, id_m_s)
+    <> "}\n"
+
+    # write the file
+    write_file(outtext, filepath)
+
+  end
+
   def lines_to_file(lines) do
     filepath = Path.join(:code.priv_dir(:cfsjksas), "static/data/lines_to_id_a_ex.txt")
 

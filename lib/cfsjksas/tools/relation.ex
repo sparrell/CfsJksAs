@@ -23,6 +23,83 @@ defmodule Cfsjksas.Tools.Relation do
   """
   require IEx
 
+
+  #################### new section below #####################
+  # easier to hard code this than programatically
+
+  def make_marked_sectors() do
+
+    # initialize marked for first several generations
+    marked = Cfsjksas.Tools.MarkedHelpers.init_marked()
+
+    # inialize the ancestors already marked main from initialization
+    mains = [
+      marked[{0, :ne, 0}].id_a,
+      marked[{1, :ne, 0}].id_a,
+      marked[{1, :se, 1}].id_a,
+    ]
+
+    # get all lines and sort in an order helping duplicate finding
+    sorted_lines = Cfsjksas.Ancestors.AgentStores.line_to_id_a()
+    |> Map.keys()
+    |> Enum.sort_by(fn line -> Cfsjksas.Tools.LineSort.sort_key(line) end)
+    # remove those initialized from sorted_lines
+    |> Cfsjksas.Tools.MarkedHelpers.init_sorted()
+
+    # walk thru lines, adding mains or dedupping
+    make_marked_sectors(marked, sorted_lines, mains)
+  end
+
+  # make_marked_sectors(marked, sorted_lines, mains)
+  defp make_marked_sectors(marked, [], _mains) do
+    # no lines left so done
+    marked
+  end
+  defp make_marked_sectors(marked, [line | rest_sorted_lines], mains) do
+    # derive id_s components
+    gen = length(line)
+    quadrant = Cfsjksas.Tools.MarkedHelpers.get_quadrant(line)
+    sector = Cfsjksas.Tools.MarkedHelpers.sector_from_line(line)
+    id_s = {gen, quadrant, sector}
+
+    # find the id_a for line
+    id_a = Cfsjksas.Ancestors.AgentStores.line_to_id_a(line)
+    # if id_a in mains, and line still in sorted_line (ie had not been removed as duplicate) then this is a branch
+    duplicate = case id_a in mains do
+      false ->
+        :main
+      true ->
+        :branch
+    end
+    new_mains = case duplicate do
+      :main ->
+        mains ++ [id_a]
+      :branch ->
+        mains
+    end
+    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
+    immigrant = Map.has_key?(person_a, :ship)
+    brickwall = Cfsjksas.Tools.MarkedHelpers.is_brickwall(person_a)
+
+    # temp variable to pass on father, mother
+    father = line ++ [:p]
+    mother = line ++ [:m]
+
+    # add person's new fields and remove ancestors from sorted_lines
+    {new_marked, new_sorted_lines} = marked
+    |> put_in([id_s, :duplicate], duplicate)
+    |> put_in([id_s, :immigrant], immigrant)
+    |> put_in([id_s, :brickwall], brickwall)
+    # if a branch, need to process all ancestors as duplicates
+    |> Cfsjksas.Tools.MarkedHelpers.process_ancestors(rest_sorted_lines, [father, mother])
+
+    # recurse on
+    make_marked_sectors(new_marked, new_sorted_lines, new_mains)
+  end
+
+
+  #################### new section above #####################
+
   def make_lineages() do
     IO.inspect("remember to remove dedup once complete")
     ids = Cfsjksas.Ancestors.GetAncestors.all_ids()

@@ -26,6 +26,7 @@ defmodule Cfsjksas.Application do
       Cfsjksas.Ancestors.StoreLinesToIdA,
       Cfsjksas.Ancestors.StoreIdAToLines,
       Cfsjksas.Ancestors.StoreMarked,
+      Cfsjksas.Ancestors.StoreMarkedSectors,
       Cfsjksas.Ancestors.StoreRelationMap,
       # start some dev counters
       Cfsjksas.DevTools.StoreCountPeople,
