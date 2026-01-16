@@ -1,4 +1,5 @@
 defmodule CfsjksasWeb.CircleLive.StatsView do
+      require IEx
   use CfsjksasWeb, :live_view
 
   @impl true
@@ -26,7 +27,11 @@ defmodule CfsjksasWeb.CircleLive.StatsView do
     quanity_surnames = length(surnames)
 
     # get list of ancestors per generation
-    gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Ancestors.GetLineages.person_list(gen))}
+    #gen_num = for gen <- 1..15, do: {gen, length(Cfsjksas.Ancestors.GetLineages.person_list(gen))}
+    gen_num = Cfsjksas.Ancestors.AgentStores.get_all_sector_ids()
+    |> Enum.frequencies_by(fn {gen, _x, _y} -> gen end)
+    |> Map.to_list()
+    |> Enum.sort()
 
     %{ship: ship, no_ship: no_ship, brickwall: brickwall} =
       Cfsjksas.Ancestors.Person.ring_percents()

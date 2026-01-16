@@ -7,7 +7,11 @@ defmodule Cfsjksas.Ancestors.AgentStores do
         get one person from ancestor
   - all_a_ids()
         get list of all ancestor id's
-  - get_marked_lineages()
+  - get_marked_sector_map()
+        get marked map
+  - get_all_sector_ids()
+        get keys for sector mape
+  - get_marked_lineages() ????rm eventually
         get entire marked lineage map
   - get_person_m(id_m)
         get person from marked lineage map using {gen, quad, sector} id
@@ -41,12 +45,23 @@ defmodule Cfsjksas.Ancestors.AgentStores do
     |> Enum.sort()
   end
 
+  def get_marked_sector_map() do
+    Agent.get(:marked_sectors, fn map -> map end)
+  end
+
+  def get_all_sector_ids() do
+    Agent.get(:marked_sectors, fn map -> map end)
+    |> Map.keys()
+    |> Enum.sort()
+  end
+
   def get_marked_lineages() do
     Agent.get(:marked_lineages, fn map -> map end)
 
   end
   def get_person_m(id_m) do
-    Agent.get(:marked_lineages, fn map -> Map.get(map, id_m) end)
+#    Agent.get(:marked_lineages, fn map -> Map.get(map, id_m) end)
+    Agent.get(:marked_lines, fn map -> Map.get(map, id_m) end)
   end
 
   def all_m_ids() do
