@@ -194,9 +194,15 @@ defmodule Cfsjksas.Chart.Sector do
     ## using 11 size sectors
     ## lookup using get
     gen11_sector_num = Cfsjksas.Chart.GetCircleMod.g11(sector.gen, sector.sector_num)
-    if gen11_sector_num == nil do
-      IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
-      IEx.pry() # oops need to enter this data
+#    if gen11_sector_num == nil do
+#      IO.inspect({sector.gen, sector.sector_num}, label: "gen, sec_num")
+#      IEx.pry() # oops need to enter this data
+    gen11_sector_num = if gen11_sector_num == nil do
+      IO.inspect({sector.gen, sector.sector_num}, label: "fix: gen, sec_num")
+#      IEx.pry()
+      1
+    else
+      gen11_sector_num
     end
 
     # for debugging connector lines
@@ -254,9 +260,11 @@ defmodule Cfsjksas.Chart.Sector do
 
   def line_color(relation) do
     case Enum.take(relation, -1) do
-      ["M"] ->
+#      ["M"] ->
+      [:m] ->
         "#FF6EC7"
-      ["P"] ->
+#      ["P"] ->
+      [:p] ->
         "blue"
       _ ->
         IEx.pry()

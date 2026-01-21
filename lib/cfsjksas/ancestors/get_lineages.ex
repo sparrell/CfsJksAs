@@ -15,8 +15,8 @@ defmodule Cfsjksas.Ancestors.GetLineages do
 
   @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "lineages_ex.txt"])
   @external_resource @data_path
-  @ancestor_relations @data_path |> Code.eval_file() |> elem(0)
-
+  #@ancestor_relations @data_path |> Code.eval_file() |> elem(0)
+  @ancestor_relations %{remove: "rewrite"}
 
   def all_relations() do
     # return all the data

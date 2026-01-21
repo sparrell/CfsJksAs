@@ -3,6 +3,8 @@ defmodule Cfsjksas.Tools.MarkedHelpers do
   helpers for making marked map
   """
 
+  require IEx
+
   ### public api's ###
 
   @doc """
@@ -65,8 +67,18 @@ defmodule Cfsjksas.Tools.MarkedHelpers do
     ##  add this person
     ##  add their father and mother
     ##  remove person's line from sorted_lines (so will skip when get to it since doing it now)
-    exists = Map.has_key?(marked, id_l)
-    process_ancestors(marked, sorted_lines, id_l, rest_to_to, exists)
+
+    # get id_s for idl
+    id_s = id_l_to_id_s(id_l)
+    exists = Map.has_key?(marked, id_s)
+    process_ancestors(marked, sorted_lines, id_l, id_s, rest_to_to, exists)
+  end
+
+  def id_l_to_id_s(id_l) do
+    gen = length(id_l)
+    quadrant = get_quadrant(id_l)
+    sector = sector_from_line(id_l)
+    {gen, quadrant, sector}
   end
 
   @doc """
@@ -172,34 +184,25 @@ defmodule Cfsjksas.Tools.MarkedHelpers do
     end
   end
 
-  # process_ancestors(marked, sorted_lines, id_l, rest_to_to, exists)
+  # process_ancestors(marked, sorted_lines, id_l, id_s, rest_to_do, exists)
 
-  defp process_ancestors(marked, sorted_lines, _id_l, rest_to_to, false) do
+  defp process_ancestors(marked, sorted_lines, _id_l, _id_s, rest_to_do, false) do
     # line isn't in marked so done up this line, move to next ancestor to do
-    process_ancestors(marked, sorted_lines, rest_to_to)
+    process_ancestors(marked, sorted_lines, rest_to_do)
   end
-  defp process_ancestors(marked, sorted_lines, id_l, rest_to_to, true) do
+  defp process_ancestors(marked, sorted_lines, id_l, id_s, rest_to_do, true) do
     # line is in marked so:
     ## add person to marked,  duplicate = redundant
     ## remove id_l from sorted_lines (so won't process when get to it later since processing it now as duplicate)
     ## add person's parents to to_do
 
     ## add person to marked,  duplicate = redundant
-    gen = length(id_l)
-    quadrant = get_quadrant(id_l)
-    sector = sector_from_line(id_l)
-    id_s = {gen, quadrant, sector}
     # find the id_a for line
-    id_a = Cfsjksas.Ancestors.AgentStores.line_to_id_a([])
+    id_a = marked[id_s].id_a
     # note we know this is duplicate
     duplicate = :redundant
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
-    immigrant = case person_a.ship do
-      nil ->
-        true
-      _ ->
-        false
-    end
+    immigrant = Map.has_key?(person_a, :ship)
     brickwall = is_brickwall(person_a)
 
     new_marked = marked
@@ -214,10 +217,10 @@ defmodule Cfsjksas.Tools.MarkedHelpers do
     father = id_l ++ [:p]
     mother = id_l ++ [:m]
 
-    new_to_to = rest_to_to ++ [father] ++ [mother]
+    new_to_do = rest_to_do ++ [father] ++ [mother]
 
     ## recurse on
-    process_ancestors(new_marked, new_sorted_lines, new_to_to)
+    process_ancestors(new_marked, new_sorted_lines, new_to_do)
 
   end
 

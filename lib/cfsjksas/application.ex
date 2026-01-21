@@ -12,6 +12,7 @@ defmodule Cfsjksas.Application do
     IO.inspect("Cfsjksas.Chart.Circle.main(\"circle.svg\")")
     IO.inspect("Cfsjksas.Chart.CircleMod.main(\"circle_mod.svg\")")
     IO.inspect("Cfsjksas.Tools.Markdown.person_pages(:all)")
+    IO.inspect("clean up removing extras below in children")
 
 
     children = [
@@ -25,9 +26,9 @@ defmodule Cfsjksas.Application do
       Cfsjksas.Ancestors.StoreAncestor,
       Cfsjksas.Ancestors.StoreLinesToIdA,
       Cfsjksas.Ancestors.StoreIdAToLines,
-      Cfsjksas.Ancestors.StoreMarked,
+#      Cfsjksas.Ancestors.StoreMarked,
       Cfsjksas.Ancestors.StoreMarkedSectors,
-      Cfsjksas.Ancestors.StoreRelationMap,
+#      Cfsjksas.Ancestors.StoreRelationMap,
       # start some dev counters
       Cfsjksas.DevTools.StoreCountPeople,
       Cfsjksas.DevTools.StoreNoChildMap,
