@@ -52,7 +52,7 @@ defmodule Cfsjksas.Chart.Draw do
   def draw_person(svg, gen, cfg, lineage, [id_l | rest_keys], chart_type) do
     # determine if this is duplicate to be skipped
     person_l = lineage[id_l]
-    id_a = person_l.id
+    id_a = person_l.id_a
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
 
     svg

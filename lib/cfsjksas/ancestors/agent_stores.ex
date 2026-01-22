@@ -29,6 +29,8 @@ defmodule Cfsjksas.Ancestors.AgentStores do
         list of ancestor id's for a generation
   """
 
+  require IEx
+
   @doc """
   Get Ancestor map
   """
@@ -36,26 +38,47 @@ defmodule Cfsjksas.Ancestors.AgentStores do
     Agent.get(:ancestors, fn map -> map end)
   end
 
+  @doc """
+  Get person map in ancestor format
+  """
   def get_person_a(id_a) do
     Agent.get(:ancestors, fn map -> Map.get(map, id_a) end)
   end
 
+  @doc """
+  get all the id_a (ie ancestor id's ie the atom eg :p0005)
+  """
   def all_a_ids() do
     Agent.get(:ancestors, fn map -> Map.keys(map) end)
     |> Enum.sort()
   end
 
+  @doc """
+  get the "sector" map with everyone "marked"
+  sector key is {gen, quadrant, sector} eg {3, :ne, 2}
+  marked means including the brickwall, duplicate, immigrant fields
+  """
   def get_marked_sector_map() do
     Agent.get(:marked_sectors, fn map -> map end)
   end
 
+  @doc """
+  get all the sector id's eg a list of the items of the form {3, :ne, 2}
+  """
   def get_all_sector_ids() do
     Agent.get(:marked_sectors, fn map -> map end)
     |> Map.keys()
     |> Enum.sort()
   end
 
+  @doc """
+  should get_marked_lineages go away?
+  """
   def get_marked_lineages() do
+    IO.inspect("get_marked_lineages - replace?")
+    IEx.pry() # traceback why called
+    # {:current_stacktrace, stack} = Process.info(self(), :current_stacktrace)
+    # IO.inspect(stack, label: "STACKTRACE")
     Agent.get(:marked_lineages, fn map -> map end)
 
   end
