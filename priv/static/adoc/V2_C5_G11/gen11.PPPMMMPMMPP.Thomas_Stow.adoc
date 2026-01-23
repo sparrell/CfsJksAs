@@ -1,0 +1,63 @@
+= Thomas Stow (1615 - 1684)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 2 APR 1615
+* Birthplace: Biddenden, Kent Co., England
+* Death: 23 FEB 1684
+* Deathplace: Middletown, Middlesex County, Connecticut
+* Age at Death: 68
+
+
+== Ship
+* Unknown
+* Unknown
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPM.Elizabeth_Bigge.adoc[Elizabeth Bigge Bigg (1590 - 1638)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPP.John_Stow.adoc[John Stow (1581 - 1652)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow.adoc[Rev. Samuel Stow (1645 - 1720)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p1283http://localhost:4000/person?p=p1283https://cfsjksas.gigalixirapp.com/adoc?p=p1283http://localhost:4000/adoc?p=p1283* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001655/thomas-stow-i-stowe[MyHeritage]
+* https://www.werelate.org/wiki/Person:Thomas_Stow_%2815%29[WeRelate]
+* https://www.wikitree.com/wiki/Stowe-430[WikiTree]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow.adoc[Rev. Samuel Stow (1645 - 1720)]
+* gen11.PPPMMMPMMPP.Thomas_Stow_(1615 - 1684)
+
+
+== Other
+
+== Sources
+* @S112@
+
+* QUAY 4
+
+* DATA
+
+* TEXT Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Apr 2 1615 - Biddenden, Kent Co., England&amp;lt;br&amp;gt;Marriage: Dec 4 1639 - Roxbury, Suffolk, Massachusetts&amp; lt;br&amp;gt;Death: Feb 23 1684 - Middletown, Middlesex County, Connecticut&amp;lt;br&amp;gt;Father: John Stow &amp;lt;br&amp;gt;Mother: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Wife: Mary Stow (born Griggs Gregg)&amp;lt;br&amp;gt;Children: Rev. Samuel Stow Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow) amp;lt;br&amp;gt;Siblings: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow)Elizabeth Archer (born Stow)
+

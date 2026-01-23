@@ -14,6 +14,11 @@ Narrative TBD
 * Age at Death: 70-71
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPM.Mary_Wadsworth.adoc[Mary Wadsworth (1635 - ?)]
 
@@ -25,9 +30,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0681http://localhost:4000/person?p=p0681https://cfsjksas.gigalixirapp.com/adoc?p=p0681http://localhost:4000/adoc?p=p0681* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000942/henry-andrews[MyHeritage]
 * https://www.werelate.org/wiki/Person:Henry_Andrews_%2817%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Andrews-83[WikiTree]
 
 == Relations
 === Lineage #1
@@ -39,7 +44,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0681http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
-* gen9.MPMMMMPPP.Jonathan_Briggs_(1635 - 1699)
+* gen8.MPMMMPPP.Henry_Andrews_(1664 - 1735)
 
 
 == Other

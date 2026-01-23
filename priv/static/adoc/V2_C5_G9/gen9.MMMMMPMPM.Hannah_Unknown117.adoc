@@ -1,4 +1,4 @@
-= Hannah Unknown117 (? - 1735)
+= Hannah Unknown117-* (? - 1735)
 
 Narrative TBD
 
@@ -14,7 +14,7 @@ Narrative TBD
 == Family
 * Mother: brickwall
 * Father: brickwall
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 
 
 == Reference Links

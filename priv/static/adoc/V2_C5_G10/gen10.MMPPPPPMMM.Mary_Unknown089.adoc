@@ -9,9 +9,14 @@ Narrative TBD
 * Sex: F
 
 
+== Ship
+* Unknown
+* Unknown
+
+
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPMM.Abigail_Dickerson.adoc[Abigail Dickerson (1645 - 1725)]
 
 
@@ -20,7 +25,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0776http://localhost:4000/person?p=p0776https://cfsjksas.gigalixirapp.com/adoc?p=p0776http://localhost:4000/adoc?p=p0776* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Unknown_%285468%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Unknown-146978[WikiTree]
 
 == Relations
 === Lineage #1

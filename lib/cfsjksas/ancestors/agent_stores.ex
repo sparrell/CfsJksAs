@@ -31,6 +31,9 @@ defmodule Cfsjksas.Ancestors.AgentStores do
 
   require IEx
 
+  @quad_order %{ne: 0, se: 1, nw: 2, sw: 3}
+
+
   @doc """
   Get Ancestor map
   """
@@ -88,12 +91,11 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   end
 
   def all_m_ids() do
-    # helper
-    quad_order = %{ne: 0, se: 1, nw: 2, sw: 3}
 
-    Agent.get(:marked_lineages, fn map -> Map.keys(map) end)
+#    Agent.get(:marked_lineages, fn map -> Map.keys(map) end)
+    Agent.get(:marked_sectors, fn map -> Map.keys(map) end)
     |> Enum.sort_by(fn {gen, quad, sect} ->
-      {gen, Map.fetch!(quad_order, quad), sect}
+      {gen, Map.fetch!(@quad_order, quad), sect}
     end)
   end
 
@@ -101,8 +103,6 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   list all the m_id's in a generation
   """
   def m_ids_by_gen(gen) do
-    # helper
-    quad_order = %{ne: 0, se: 1, nw: 2, sw: 3}
 
     all_m_ids()
     |> Enum.filter(fn
@@ -110,7 +110,7 @@ defmodule Cfsjksas.Ancestors.AgentStores do
       _ -> false
     end)
     |> Enum.sort_by(fn {gen, quad, sect} ->
-      {gen, Map.fetch!(quad_order, quad), sect}
+      {gen, Map.fetch!(@quad_order, quad), sect}
     end)
   end
 
@@ -119,6 +119,8 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   end
 
   def get_person_r(id_r) do
+    x = Cfsjksas.Ancestors.AgentStores.line_to_id_a(id_r)
+IEx.pry() # rm - this routing has been replaced by line_to_id_a
     Agent.get(:relation_map, fn map -> Map.get(map, id_r) end)
   end
 
@@ -150,6 +152,20 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   """
   def line_to_id_a(line) do
     Agent.get(:lines_to_id_a, fn map -> Map.get(map, line) end)
+  end
+
+  def line_to_person_a(line) do
+    # first get the id_a
+    line_to_id_a(line)
+    # from that get the person_a
+    |> get_person_a()
+  end
+
+  @doc """
+  given a line/relation, return the label of the person
+  """
+  def line_to_label(line) do
+    line_to_person_a(line).label
   end
 
   @doc """

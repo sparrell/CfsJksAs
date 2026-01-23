@@ -22,8 +22,7 @@ Narrative TBD
 == Family
 * Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPPMPPMM.Alice_Freeman.adoc[Alice Freeman (1605 - 1645)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPPMPPMP.John_Thompson.adoc[John Thompson (1577 - 1627)]
-
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 
 

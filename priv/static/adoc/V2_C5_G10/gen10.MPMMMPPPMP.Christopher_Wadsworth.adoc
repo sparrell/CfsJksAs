@@ -44,7 +44,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0560http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPPM.Mary_Wadsworth.adoc[Mary Wadsworth (1635 - ?)]
-* gen11.MPMMMMPPPMP.George_Allen_(? - 1648)
+* gen10.MPMMMPPPMP.Christopher_Wadsworth_(1609 - 1677)
 
 
 == Other

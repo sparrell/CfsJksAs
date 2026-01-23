@@ -29,6 +29,7 @@ defmodule Cfsjksas.Ancestors.GetLineages do
   end
 
   def person(gen, relation) do
+IEx.pry() # rm once figure out where coming from
     # return a person
     person_r = @ancestor_relations[gen][relation]
     # note duplicates confuse this so check

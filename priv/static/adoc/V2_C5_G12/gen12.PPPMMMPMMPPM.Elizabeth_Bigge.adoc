@@ -1,0 +1,63 @@
+= Elizabeth Bigge Bigg (1590 - 1638)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Stowe
+* Birth: 1 NOV 1590
+* Birthplace: Cranbrook, Kent, England
+* Death: 21 AUG 1638
+* Deathplace: Roxbury, Suffolk, Massachusetts Bay
+* Age at Death: 47
+
+
+== Ship
+* Unknown
+* Unknown
+
+
+== Family
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow.adoc[Thomas Stow (1615 - 1684)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPM.Elizabeth_Bigge.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p1286http://localhost:4000/person?p=p1286https://cfsjksas.gigalixirapp.com/adoc?p=p1286http://localhost:4000/adoc?p=p1286* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001658/elizabeth-bigge-bigg-stowe[MyHeritage]
+* https://www.werelate.org/wiki/Person:Elizabeth_Bigge_%281%29[WeRelate]
+* https://www.wikitree.com/wiki/Bigge-115[WikiTree]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow.adoc[Rev. Samuel Stow (1645 - 1720)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow.adoc[Thomas Stow (1615 - 1684)]
+* gen12.PPPMMMPMMPPM.Elizabeth_Bigge_(1590 - 1638)
+
+
+== Other
+
+== Sources
+* @S112@
+
+* QUAY 4
+
+* DATA
+
+* TEXT Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Nov 1 1590 - Cranbrook, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt ;br&amp;gt;Death: Aug 21 1638 - Roxbury, Suffolk, Massachusetts Bay&amp;lt;br&amp;gt;Father: John Bigge Briggs, Sr.&amp;lt;br&amp;gt;Mother: Rachel Bigge (born Martin Bigg)&amp;lt;br&amp;gt;Husband: John Stow &amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow)Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt;br&amp ;gt;Siblings: Anna Bigg BiggeSmallhope Smalehope BiggJames Bigg BiggeJohn BiggThankful BiggPatience Foster (born Bigge Biggs)Samuel BriggsWilliam BriggsRachel Masters (born Bigge Starr)
+

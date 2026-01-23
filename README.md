@@ -52,6 +52,14 @@ Application.start(:cfsjksas)
 * git push gigalixir
 * Gigalixir[https://cfsjksas.gigalixirapp.com]
 
+## stack trace
+
+{:current_stacktrace, stack} = Process.info(self(), :current_stacktrace); :ok
+stack |> Enum.drop(2) |> Enum.each(fn entry -> IO.puts(Exception.format_stacktrace_entry(entry)) end)
+
+Process.info(self(), :current_stacktrace) |> elem(1) |> Enum.drop(2) |> Enum.each(fn entry -> IO.puts(Exception.format_stacktrace_entry(entry)) end)
+
+
 ## check if missing links
 
 gen=3

@@ -19,7 +19,7 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1627 - 1673)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 
 
 == Reference Links

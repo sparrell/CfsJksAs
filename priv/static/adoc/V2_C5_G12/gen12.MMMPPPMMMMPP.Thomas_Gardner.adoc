@@ -52,21 +52,6 @@ https://cfsjksas.gigalixirapp.com/person?p=p0802http://localhost:4000/person?p=p
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Alice Virginia Edgecomb (1850 - 1914)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPM.Dorothy_Smith.adoc[Dorothy Smith (1729 - 1813)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMM.Joanna_Gardner.adoc[Joanna Gardner (1657 - ?)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMMP.Thomas_Gardner.adoc[Thomas Gardner (1619 - 1689)]
-* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
-
-=== Lineage #3
-* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
@@ -76,6 +61,21 @@ https://cfsjksas.gigalixirapp.com/person?p=p0802http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPM.Abigail_Crafts.adoc[Abigail Crafts (1676 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPMM.Rebecca_Gardner.adoc[Rebecca Gardner (1647 - 1700)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMMPMMP.Peter_Gardner.adoc[Peter Gardner (1617 - 1698)]
+* gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
+
+=== Lineage #3
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMM.Alice_Virginia_Edgecomb.adoc[Alice Virginia Edgecomb (1850 - 1914)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPM.Dorothy_Smith.adoc[Dorothy Smith (1729 - 1813)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMM.Joanna_Gardner.adoc[Joanna Gardner (1657 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMMP.Thomas_Gardner.adoc[Thomas Gardner (1619 - 1689)]
 * gen12.MMMPPPMMMMPP.Thomas_Gardner_(1590 - 1638)
 
 

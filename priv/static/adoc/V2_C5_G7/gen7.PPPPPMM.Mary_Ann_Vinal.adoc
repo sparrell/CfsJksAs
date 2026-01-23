@@ -15,8 +15,10 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMM.Mary_Stetson.adoc[Mary Stetson (1717 - 1800)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPPMP.John_Vinal.adoc[John Vinal (1699 - 1750)]
+
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Rachel Turner (1776 - 1866)]
 
 
@@ -25,7 +27,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0584http://localhost:4000/person?p=p0584https://cfsjksas.gigalixirapp.com/adoc?p=p0584http://localhost:4000/adoc?p=p0584* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Vinal_%282%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Vinal-25[WikiTree]
 
 == Relations
 === Lineage #1

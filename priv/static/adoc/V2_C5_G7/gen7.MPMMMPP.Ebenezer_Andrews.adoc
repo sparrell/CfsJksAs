@@ -15,7 +15,7 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Mary_Williams.adoc[Mary Williams (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Mary_Williams.adoc[Mary Williams (1663/4 - 1726)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPP.Henry_Andrews.adoc[Henry Andrews (1664 - 1735)]
 
@@ -38,7 +38,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0679http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
-* gen8.MPMMMMPP.John_Briggs_(1673 - 1764)
+* gen7.MPMMMPP.Ebenezer_Andrews_(1700 - 1785)
 
 
 == Other

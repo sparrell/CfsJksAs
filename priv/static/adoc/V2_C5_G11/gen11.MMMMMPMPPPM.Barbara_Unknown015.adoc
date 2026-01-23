@@ -20,7 +20,7 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPP.Daniel_Lester.adoc[Daniel Lester (1642 - 1716)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
 
 
 == Reference Links

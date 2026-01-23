@@ -19,7 +19,7 @@ Narrative TBD
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
 
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPP.Jonathan_Lester.adoc[Jonathan Lester (1702 - 1774)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMP.Peter_Lester.adoc[Peter Lester (1705 - 1789)]
 
 
 == Reference Links
@@ -27,7 +27,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0978http://localhost:4000/person?p=p0978https://cfsjksas.gigalixirapp.com/adoc?p=p0978http://localhost:4000/adoc?p=p0978* Geni TBD
 * https://www.myheritage.com/family-trees/sparrell-family/OYYV6NML2DHJUFEXHD45V4W32Y6KPTI[MyHeritage]
 * https://www.werelate.org/wiki/Person:Jonathan_Lester_%282%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Lester-2519[WikiTree]
 
 == Relations
 === Lineage #1
