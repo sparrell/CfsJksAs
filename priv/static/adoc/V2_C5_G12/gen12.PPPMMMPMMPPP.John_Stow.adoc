@@ -1,0 +1,62 @@
+= John Stow (1581 - 1652)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 14 JAN 1581
+* Birthplace: Biddenden, Kent, England
+* Death: 6 MAY 1652
+* Deathplace: Roxbury, Suffolk, Massachusetts
+* Age at Death: 71
+
+
+== Ship
+* Unknown
+* Unknown
+
+
+== Family
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow.adoc[Thomas Stow (1615 - 1684)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPMMMPMMPPP.John_Stow.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p1285http://localhost:4000/person?p=p1285https://cfsjksas.gigalixirapp.com/adoc?p=p1285http://localhost:4000/adoc?p=p1285* Geni TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001657/john-stow-stowe[MyHeritage]
+* https://www.werelate.org/wiki/Person:John_Stowe_%285%29[WeRelate]
+* https://www.wikitree.com/wiki/Stow-154[WikiTree]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow.adoc[Rev. Samuel Stow (1645 - 1720)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow.adoc[Thomas Stow (1615 - 1684)]
+* gen12.PPPMMMPMMPPP.John_Stow_(1581 - 1652)
+
+
+== Other
+
+== Sources
+* @S112@
+
+* QUAY 4
+
+* DATA
+
+* TEXT John Stow &amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: Jan 14 1581 - Biddenden, Kent, England&amp;lt;br&amp;gt;Marriage: Sep 13 1608 - Biddenden, Kent, England&amp;lt;br&amp;gt;Death: May 6 1652 - Roxbury, Suffolk, Massachusetts&amp;lt;br&amp;gt;Father: John Stow (born Stowe), II&amp;lt;br&amp;gt;Mother: Joan Stowe (born Baker Baker, Goldsmith)&amp;lt;br&amp;gt;Wife: Elizabeth Stowe (born Bigge Bigg)&amp;lt;br&amp;gt;Children: Rev. Samuel StowNathaniel Stowe (born Stow)John StowThankful Pierrepont (born Stow )Thomas Stow (born Stowe), IElizabeth Archer (born Stow)&amp;lt; &amp;gt;Siblings: Joanna Joane Joan Boyse (born Stowe Stawe)Christopher StoweWilliam StoweChristopher Stow Thomas Stow Elizabeth StoweZachary Stowe
+

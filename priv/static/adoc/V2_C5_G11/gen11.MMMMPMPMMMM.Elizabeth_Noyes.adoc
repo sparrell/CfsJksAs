@@ -19,8 +19,7 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPMMMMM.Elizabeth_Smith.adoc[Elizabeth Smith (1594 - 1636)]
-
+* Mother: immigrant so Mom is NA
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPMMMMP.Peter_Noyes.adoc[Peter Noyes (1590 - 1657)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMM.Elizabeth_Freeman.adoc[Elizabeth Freeman (1648 - 1723)]

@@ -186,8 +186,8 @@ defmodule Cfsjksas.Tools.Link do
     # filepath for adoc people pages
 
     # get person_a from relation
-    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
-    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
+    person_a = Cfsjksas.Ancestors.AgentStores.line_to_id_a(relation)
+    |> Cfsjksas.Ancestors.AgentStores.get_person_a()
 
     gen = @adocpath <> "V2_C5_G" <> to_string(length(relation)) <> "/"
     filepath = gen <> person_a.label <> ".adoc"
@@ -195,10 +195,8 @@ defmodule Cfsjksas.Tools.Link do
   end
   def make_filename(relation, :adoc_html) do
     # filepath for adoc people pages
-    # get person_a from relation
-    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
-    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
-    html_path = @htmlpath <> person_a.label <> ".html"
+    label = Cfsjksas.Ancestors.AgentStores.line_to_label(relation)
+    html_path = @htmlpath <> label <> ".html"
     Path.join(:code.priv_dir(:cfsjksas), html_path)
   end
   def make_filename(relation, :md) do
@@ -213,12 +211,10 @@ defmodule Cfsjksas.Tools.Link do
   end
   def make_filename(relation, :narrative) do
     # filepath for people pages
-    # get person_a from relation
-    id_map = Cfsjksas.Ancestors.AgentStores.get_person_r(relation)
-    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_map.id_a)
+    label = Cfsjksas.Ancestors.AgentStores.line_to_label(relation)
 
     gen = @narrative_path <> "Gen" <> to_string(length(relation)) <> "/"
-    filepath = gen <> person_a.label <> ".adoc"
+    filepath = gen <> label <> ".adoc"
     Path.join(:code.priv_dir(:cfsjksas), filepath )
   end
 

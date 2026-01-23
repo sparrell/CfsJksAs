@@ -1,0 +1,49 @@
+= Mary Gilbert (1638 - 1686)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Williams
+* Birth: 1638
+* Birthplace: Taunton, Bristol, Massachusetts
+* Death: 25 Jul 1686
+* Deathplace: Taunton, Bristol, Plymouth
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPMMM.Jane_Rossiter.adoc[Jane Rossiter (1614 - 1691)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MPMMMPPMMP.Thomas_Gilbert.adoc[Thomas Gilbert (abt 1612 - 1677)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Mary_Williams.adoc[Mary Williams (1663/4 - 1726)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPMM.Mary_Gilbert.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p9984http://localhost:4000/person?p=p9984https://cfsjksas.gigalixirapp.com/adoc?p=p9984http://localhost:4000/adoc?p=p9984* https://www.geni.com/people/Mary-Williams/6000000004180342334[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23500062/mary-gilbert-williams[MyHeritage]
+* https://www.werelate.org/w/index.php?title=Person:Mary_Gilbert_%286%29[WeRelate]
+* https://www.wikitree.com/wiki/Gilbert-1249[WikiTree]
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.Marion_F_Fisher.adoc[Marion F Fisher (1904 - 2002)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MP.Albert_Amory_Fisk_Fisher.adoc[Albert Amory Fisk Fisher (1854 - 1915)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Mary_Williams.adoc[Mary Williams (1663/4 - 1726)]
+* gen9.MPMMMPPMM.Mary_Gilbert_(1638 - 1686)
+
+
+== Other
+
+== Sources
+

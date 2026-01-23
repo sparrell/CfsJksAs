@@ -1,4 +1,4 @@
-= Mary Williams (? - ?)
+= Mary Williams (1663/4 - 1726)
 
 Narrative TBD
 
@@ -7,20 +7,25 @@ Narrative TBD
 
 
 * Sex: F
+* Birth: 1663/4
+* Birthplace: Taunton, Bristol, MA
+* Deathplace: Taunton, Bristol, MA
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPMM.Mary_Gilbert.adoc[Mary Gilbert (1638 - 1686)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MPMMMPPMP.Samuel_Williams.adoc[Samuel Williams (1636/7 - 1697)]
+
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MPMMMPPM.Mary_Williams.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0682http://localhost:4000/person?p=p0682https://cfsjksas.gigalixirapp.com/adoc?p=p0682http://localhost:4000/adoc?p=p0682* Geni TBD
-* MyHeritage TBD
-* https://www.werelate.org/wiki/Person:Mary_Williams_%28610%29[WeRelate]
-* WikiTree TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000940/mary-williams-andrews[MyHeritage]
+* https://www.werelate.org/wiki/Person:Mary_Williams_%2842%29[WeRelate]
+* https://www.wikitree.com/wiki/Williams-7424[WikiTree]
 
 == Relations
 === Lineage #1
@@ -32,7 +37,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0682http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMM.Rhoda_Andrews.adoc[Rhoda Andrews (1775 - 1841)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMMP.David_Andrews.adoc[David Andrews (1736 - 1815)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MPMMMPP.Ebenezer_Andrews.adoc[Ebenezer Andrews (1700 - 1785)]
-* gen9.MPMMMMPPM.Experience_Harvey_(1644 - ?)
+* gen8.MPMMMPPM.Mary_Williams_(1663/4 - 1726)
 
 
 == Other

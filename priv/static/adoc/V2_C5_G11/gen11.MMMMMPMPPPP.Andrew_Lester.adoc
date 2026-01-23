@@ -20,7 +20,7 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMMMPP.Daniel_Lester.adoc[Daniel Lester (1642 - 1716)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPP.Andrew_Lester.adoc[Andrew Lester (1644 - 1708)]
 
 
 == Reference Links
@@ -28,7 +28,7 @@ Narrative TBD
 https://cfsjksas.gigalixirapp.com/person?p=p0406http://localhost:4000/person?p=p0406https://cfsjksas.gigalixirapp.com/adoc?p=p0406http://localhost:4000/adoc?p=p0406* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Andrew_Lester_%2813%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Lester-16[WikiTree]
 
 == Relations
 === Lineage #1

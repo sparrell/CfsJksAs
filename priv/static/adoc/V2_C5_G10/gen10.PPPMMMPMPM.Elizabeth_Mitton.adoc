@@ -16,8 +16,10 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMPMM.Elizabeth_Cleeves.adoc[Elizabeth Cleeves (1619 - 1682)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMPMP.Michael_Mitton.adoc[Michael Mitton (1615 - 1661)]
+
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMP.Isaac_Clark_(Clarke).adoc[Isaac Clark (Clarke) (1666 - 1768)]
 
 

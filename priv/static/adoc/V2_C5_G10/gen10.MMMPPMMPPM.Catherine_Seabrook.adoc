@@ -7,11 +7,18 @@ Narrative TBD
 
 
 * Sex: F
+* Birth: about 1625
+* Birthplace: England
+
+
+== Ship
+* Unknown
+* Unknown
 
 
 == Family
-* Mother: brickwall
-* Father: brickwall
+* Mother: immigrant so Mom is NA
+* Father: immigrant so Dad is NA
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPP.Ralph_Stoddard.adoc[Ralph Stoddard (1666 - 1749)]
 
 

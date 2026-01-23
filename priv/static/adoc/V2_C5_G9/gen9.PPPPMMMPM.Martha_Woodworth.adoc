@@ -15,7 +15,8 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMPMM.Unknown_WW_Unknown-wife.adoc[Unknown WW Unknown-wife-* (? - ?)]
+
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMPMP.Walter_Woodworth.adoc[Walter Woodworth (? - 1686)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMP.Daniel_Damon.adoc[Daniel Damon (1688 - 1735)]

@@ -25,9 +25,9 @@ Narrative TBD
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MPMMPM.Margaret_Watt.adoc[Book Link]
 https://cfsjksas.gigalixirapp.com/person?p=p0448http://localhost:4000/person?p=p0448https://cfsjksas.gigalixirapp.com/adoc?p=p0448http://localhost:4000/adoc?p=p0448* Geni TBD
-* MyHeritage TBD
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000703/margaret-watt-gray[MyHeritage]
 * https://www.werelate.org/wiki/Person:Margaret_Watt_%2830%29[WeRelate]
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Watt-1946[WikiTree]
 
 == Relations
 === Lineage #1
@@ -37,7 +37,7 @@ https://cfsjksas.gigalixirapp.com/person?p=p0448http://localhost:4000/person?p=p
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MPM.Frances_A_Fisher.adoc[Frances A Fisher (1835 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MPMM.Arvilla_Gray.adoc[Arvilla Gray (1808 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MPMMP.John_Gray.adoc[John Gray (1763 - 1841)]
-* gen7.MPMMMPM.Faith_Unknown113_(? - 1788)
+* gen6.MPMMPM.Margaret_Watt_(1739 - 1796)
 
 
 == Other
