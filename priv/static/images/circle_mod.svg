@@ -12458,36 +12458,36 @@ Alice Freeman (1605 - 1645)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3856" d="M 32375 20887 A 18375 18375 0 0 1 32375 20944 L 31475 20946 A 17475 17475 0 0 0 31475 20893 L 32375 20887 " />
+<path id="sector_12_3856" d="M 31164 27560 A 18375 18375 0 0 1 31144 27613 L 30304 27289 A 17475 17475 0 0 0 30323 27239 L 31164 27560 " />
 <clipPath id="sector_12_3856_clip">
 <use href="#sector_12_3856"/>
 </clipPath></defs>
 <use href="#sector_12_3856" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3856_clip)"/>
-<path id="ray_g12_s3856" d="M 31475,20920 L 32375,20915" />
+<path id="ray_g12_s3856" d="M 30314,27264 L 31154,27587" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3856" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Robert Parke (1580 - 1665)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3857" d="M 32375 20887 A 18375 18375 0 0 1 32375 20944 L 31475 20946 A 17475 17475 0 0 0 31475 20893 L 32375 20887 " />
+<path id="sector_12_3857" d="M 31184 27508 A 18375 18375 0 0 1 31164 27560 L 30323 27239 A 17475 17475 0 0 0 30342 27189 L 31184 27508 " />
 <clipPath id="sector_12_3857_clip">
 <use href="#sector_12_3857"/>
 </clipPath></defs>
 <use href="#sector_12_3857" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_3857_clip)"/>
-<path id="ray_g12_s3857" d="M 31475,20920 L 32375,20915" />
+<path id="ray_g12_s3857" d="M 30333,27214 L 31174,27534" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s3857" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Martha Chaplin (1584 - 1643)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_3859" d="M 32375 20887 A 18375 18375 0 0 1 32375 20944 L 31475 20946 A 17475 17475 0 0 0 31475 20893 L 32375 20887 " />
+<path id="sector_12_3859" d="M 31204 27455 A 18375 18375 0 0 1 31184 27508 L 30342 27189 A 17475 17475 0 0 0 30361 27139 L 31204 27455 " />
 <clipPath id="sector_12_3859_clip">
 <use href="#sector_12_3859"/>
 </clipPath></defs>
 <use href="#sector_12_3859" stroke="#FF6EC7" stroke-width="10" fill="none" fill-opacity="100%" clip-path="url(#sector_12_3859_clip)"/>
-<path id="ray_g12_s3859" d="M 31475,20920 L 32375,20915" />
+<path id="ray_g12_s3859" d="M 30352,27164 L 31194,27481" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g12_s3859" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Alice Freeman (1605 - 1645)
@@ -12914,24 +12914,24 @@ Elizabeth Hill (? - ?)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_4006" d="M 32375 20887 A 18375 18375 0 0 1 32375 20944 L 31475 20946 A 17475 17475 0 0 0 31475 20893 L 32375 20887 " />
+<path id="sector_12_4006" d="M 32208 23473 A 18375 18375 0 0 1 32200 23529 L 31309 23405 A 17475 17475 0 0 0 31316 23352 L 32208 23473 " />
 <clipPath id="sector_12_4006_clip">
 <use href="#sector_12_4006"/>
 </clipPath></defs>
 <use href="#sector_12_4006" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_4006_clip)"/>
-<path id="ray_g12_s4006" d="M 31475,20920 L 32375,20915" />
+<path id="ray_g12_s4006" d="M 31312,23378 L 32204,23501" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s4006" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Jonathan Brewster (1593 - 1659)
 </textPath>
 </text>
 <defs>
-<path id="sector_12_4007" d="M 32375 20887 A 18375 18375 0 0 1 32375 20944 L 31475 20946 A 17475 17475 0 0 0 31475 20893 L 32375 20887 " />
+<path id="sector_12_4007" d="M 32215 23417 A 18375 18375 0 0 1 32208 23473 L 31316 23352 A 17475 17475 0 0 0 31323 23299 L 32215 23417 " />
 <clipPath id="sector_12_4007_clip">
 <use href="#sector_12_4007"/>
 </clipPath></defs>
 <use href="#sector_12_4007" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_12_4007_clip)"/>
-<path id="ray_g12_s4007" d="M 31475,20920 L 32375,20915" />
+<path id="ray_g12_s4007" d="M 31320,23325 L 32212,23445" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g12_s4007" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Lucretia Oldham (1600 - 1678)
@@ -13195,5 +13195,5 @@ Susanna Furner (? - 1620)
 <line id="g14_s1980_g13_s1980" x1="32912" y1="24973" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 <line id="g14_s1981_g13_s1980" x1="32924" y1="24915" x2="32839" y2="24958" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-01-23 15:03:56.186044Z -->
+<!-- made new svg at 2026-01-23 15:51:59.240720Z -->
 </svg>

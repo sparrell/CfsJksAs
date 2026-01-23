@@ -9,8 +9,7 @@ defmodule Cfsjksas.Application do
   def start(_type, _args) do
 
     # some helper doc
-    IO.inspect("Cfsjksas.Chart.Circle.main(\"circle.svg\")")
-    IO.inspect("Cfsjksas.Chart.CircleMod.main(\"circle_mod.svg\")")
+    IO.inspect("Cfsjksas.DevTools.Run.graphs()")
     IO.inspect("Cfsjksas.Tools.Markdown.person_pages(:all)")
     IO.inspect("clean up removing extras below in children")
 
