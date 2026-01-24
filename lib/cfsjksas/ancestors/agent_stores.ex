@@ -79,9 +79,7 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   """
   def get_marked_lineages() do
     IO.inspect("get_marked_lineages - replace?")
-    IEx.pry() # traceback why called
-    # {:current_stacktrace, stack} = Process.info(self(), :current_stacktrace)
-    # IO.inspect(stack, label: "STACKTRACE")
+IEx.pry() # rm - traceback why called
     Agent.get(:marked_lineages, fn map -> map end)
 
   end
@@ -125,6 +123,7 @@ IEx.pry() # rm - this routing has been replaced by line_to_id_a
   end
 
   def all_r_ids() do
+IEx.pry() # rm - this routing has been replaced by all_lines
     Agent.get(:relation_map, fn map -> Map.keys(map) end)
     |> Enum.sort_by(fn relation ->
       {length(relation), relation}
@@ -148,12 +147,33 @@ IEx.pry() # rm - this routing has been replaced by line_to_id_a
   end
 
   @doc """
+  input: id_r, output id_s
+  """
+  def id_r_to_id_s(id_r) do
+    # id_s form {gen, quad, sector}
+    quad = Cfsjksas.Tools.Relation.get_guadrant(id_r)
+    {gen, sector} = Cfsjksas.Tools.Relation.sector_from_relation(id_r)
+    {gen, quad, sector}
+  end
+
+  @doc """
+  return all lines/relations
+  """
+  def all_lines() do
+    Agent.get(:lines_to_id_a, fn map -> Map.keys(map) end)
+    |> Enum.sort_by(fn relation -> {length(relation), relation} end)
+  end
+
+  @doc """
   return the id_a for a line
   """
   def line_to_id_a(line) do
     Agent.get(:lines_to_id_a, fn map -> Map.get(map, line) end)
   end
 
+  @doc """
+  return the person_a for a line
+  """
   def line_to_person_a(line) do
     # first get the id_a
     line_to_id_a(line)

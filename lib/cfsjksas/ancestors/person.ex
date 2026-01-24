@@ -461,8 +461,7 @@ IEx.pry()
     sectors
   end
   def mark_sectors(sectors, [id_a | rest_id_a], termination) do
-    person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
-    relations = person_a.relation_list
+    relations = Cfsjksas.Ancestors.AgentStores.id_a_to_line(id_a)
 
     sectors
     |> mark_sectors(id_a, rest_id_a, termination, relations)
@@ -473,8 +472,8 @@ IEx.pry()
     |> mark_sectors(rest_id_a, termination)
   end
   def mark_sectors(sectors, id_a, rest_id_a, termination, [id_r | rest_relations]) do
-    person_r = Cfsjksas.Ancestors.AgentStores.get_person_r(id_r)
-    {orig_gen, _quadrant, orig_sector} = person_r.id_m
+    id_s = Cfsjksas.Ancestors.AgentStores.id_r_to_id_s(id_r)
+    {orig_gen, _quadrant, orig_sector} = id_s
     {gen, sector, value} = case termination do
       :brickwall_both ->
         {orig_gen, orig_sector, :brickwall}

@@ -185,7 +185,6 @@ defmodule Cfsjksas.Tools.Relation do
     accumulator
   end
   defp sector_from_relation(accumulator, [this | rest_relation]) do
-IEx.pry()
     case this do
       :p ->
         # P = zero so recurse on
