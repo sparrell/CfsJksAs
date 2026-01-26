@@ -220,6 +220,7 @@ defmodule Cfsjksas.Chart.Sector do
     ## for sectors 11 and under in circle_mod
     sector
   end
+
   defp format(%{duplicate: :branch} = _person_l) do
     # if duplicate-branch, color green
     {"green", "100%", "white"}

@@ -63,8 +63,11 @@ defmodule Cfsjksas.Chart.Draw do
   end
 
   defp touchup(svg) do
+    IO.inspect("add_g11_lines, remove touchup")
+# rm    touchup_list = Cfsjksas.Chart.GetCircleMod.touchup_list()
+
     # add lines for the adjusted gen 12, 13, 14
-    touchup_list = Cfsjksas.Chart.GetCircleMod.touchup_list()
+    touchup_list = Cfsjksas.Chart.GetCircleMod.g11_plus_rays()
     svg
     |> touchup(touchup_list)
   end
