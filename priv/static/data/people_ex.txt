@@ -62,11 +62,6 @@
 			ordained: [
 			],
 			probate: nil,
-			relation_list: [
-				["M", "M", "M", "P", "P", "M", "P", "M", "M", "P", "M"],
-				["P", "M", "M", "P", "P", "M", "P", "M", "M", "P", "M"],
-				["P", "M", "P", "M", "P", "M", "M", "M", "M", "P", "M"],
-			],
 			religion: nil,
 			residence: [
 			],

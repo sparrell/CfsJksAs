@@ -79,9 +79,7 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   """
   def get_marked_lineages() do
     IO.inspect("get_marked_lineages - replace?")
-    IEx.pry() # traceback why called
-    # {:current_stacktrace, stack} = Process.info(self(), :current_stacktrace)
-    # IO.inspect(stack, label: "STACKTRACE")
+IEx.pry() # rm - traceback why called
     Agent.get(:marked_lineages, fn map -> map end)
 
   end
@@ -125,6 +123,7 @@ IEx.pry() # rm - this routing has been replaced by line_to_id_a
   end
 
   def all_r_ids() do
+IEx.pry() # rm - this routing has been replaced by all_lines
     Agent.get(:relation_map, fn map -> Map.keys(map) end)
     |> Enum.sort_by(fn relation ->
       {length(relation), relation}
@@ -148,12 +147,102 @@ IEx.pry() # rm - this routing has been replaced by line_to_id_a
   end
 
   @doc """
+  input: id_r, output id_s
+  """
+  def id_r_to_id_s(id_r) do
+    # id_s form {gen, quad, sector}
+    quad = Cfsjksas.Tools.Relation.get_guadrant(id_r)
+    {gen, sector} = Cfsjksas.Tools.Relation.sector_from_relation(id_r)
+    {gen, quad, sector}
+  end
+
+  @doc """
+  input: gen, sector
+  output: quadrant
+  """
+  def gen_sec_to_quadrant(0, 0) do
+    :ne
+  end
+  def gen_sec_to_quadrant(1, 0) do
+    :ne
+  end
+  def gen_sec_to_quadrant(1, 1) do
+    :se
+  end
+  def gen_sec_to_quadrant(2, 0) do
+    :ne
+  end
+  def gen_sec_to_quadrant(2, 1) do
+    :nw
+  end
+  def gen_sec_to_quadrant(2, 2) do
+    :sw
+  end
+  def gen_sec_to_quadrant(2, 3) do
+    :se
+  end
+  def gen_sec_to_quadrant(gen, sector) do
+    total_sectors = 2**gen
+    quarter = total_sectors / 4
+    cond do
+      sector <= quarter ->
+        :ne
+      sector <= 2 * quarter ->
+        :nw
+      sector <= 3 * quarter ->
+        :sw
+      sector <= total_sectors ->
+        :se
+    end
+  end
+
+  @doc """
+  input: gen, sector
+  output: id_s
+  """
+  def gen_sec_to_id_s(gen, sector) do
+    quad = gen_sec_to_quadrant(gen, sector)
+    {gen, quad, sector}
+  end
+
+  @doc """
+  input: gen, sector
+  output: person_s
+  """
+  def gen_sec_to_person_s(gen, sector) do
+    id_s = gen_sec_to_id_s(gen, sector)
+    get_marked_sector_map()[id_s]
+  end
+
+    @doc """
+  input: gen, sector
+  output: person_a
+  """
+  def gen_sec_to_person_a(gen, sector) do
+    id_s = gen_sec_to_id_s(gen, sector)
+    person_s =get_marked_sector_map()[id_s]
+    id_a = person_s.id_a
+    get_person_a(id_a)
+  end
+
+  @doc """
+  return all lines/relations
+  """
+  def all_lines() do
+    Agent.get(:lines_to_id_a, fn map -> Map.keys(map) end)
+    |> Enum.sort_by(fn relation -> {length(relation), relation} end)
+  end
+
+  @doc """
   return the id_a for a line
   """
   def line_to_id_a(line) do
     Agent.get(:lines_to_id_a, fn map -> Map.get(map, line) end)
   end
 
+  @doc """
+  return the person_a for a line
+  """
   def line_to_person_a(line) do
     # first get the id_a
     line_to_id_a(line)

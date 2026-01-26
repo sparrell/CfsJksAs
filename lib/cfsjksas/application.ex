@@ -9,8 +9,7 @@ defmodule Cfsjksas.Application do
   def start(_type, _args) do
 
     # some helper doc
-    IO.inspect("Cfsjksas.Chart.Circle.main(\"circle.svg\")")
-    IO.inspect("Cfsjksas.Chart.CircleMod.main(\"circle_mod.svg\")")
+    IO.inspect("Cfsjksas.DevTools.Run.graphs()")
     IO.inspect("Cfsjksas.Tools.Markdown.person_pages(:all)")
     IO.inspect("clean up removing extras below in children")
 
@@ -26,20 +25,7 @@ defmodule Cfsjksas.Application do
       Cfsjksas.Ancestors.StoreAncestor,
       Cfsjksas.Ancestors.StoreLinesToIdA,
       Cfsjksas.Ancestors.StoreIdAToLines,
-#      Cfsjksas.Ancestors.StoreMarked,
       Cfsjksas.Ancestors.StoreMarkedSectors,
-#      Cfsjksas.Ancestors.StoreRelationMap,
-      # start some dev counters
-      Cfsjksas.DevTools.StoreCountPeople,
-      Cfsjksas.DevTools.StoreNoChildMap,
-      Cfsjksas.DevTools.StoreChildNoWerelate,
-      Cfsjksas.DevTools.StoreChildNoWerelateList,
-      Cfsjksas.DevTools.StoreLinkAlready,
-      Cfsjksas.DevTools.StoreNoFather,
-      Cfsjksas.DevTools.StoreNoMother,
-      Cfsjksas.DevTools.StoreUpdatingLink,
-      Cfsjksas.DevTools.StoreNoLinkYet,
-      Cfsjksas.DevTools.StoreNilPerson,
       # Start a worker by calling: Cfsjksas.Worker.start_link(arg)
       # {Cfsjksas.Worker, arg},
       # Start to serve requests, typically the last entry
