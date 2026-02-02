@@ -1,0 +1,61 @@
+<div>
+  <%= if @show_form? do %>
+    <p>Person: <%= @person %></p>
+
+    <h2>Config entries</h2>
+
+    <ul>
+      <%= for {key, entry} <- @config_map do %>
+        <li>
+          <strong><%= key %></strong>:
+          <%= entry["name"] %> (<%= entry["mode"] %>) - <%= entry["notes"] %>
+        </li>
+      <% end %>
+    </ul>
+
+    <h3>Add entry</h3>
+
+    <.simple_form
+      for={@form_entry}
+      phx-submit="save"
+      phx-change="validate"
+    >
+      <.input
+        type="text"
+        name="entry[key]"
+        label="Key"
+        value={@form_entry["key"] || ""}
+        required
+      />
+
+      <.input
+        type="text"
+        name="entry[name]"
+        label="Name"
+        value={@form_entry["name"]}
+        required
+      />
+
+      <.input
+        type="select"
+        name="entry[mode]"
+        label="Mode"
+        options={@available_modes}
+        value={@form_entry["mode"]}
+      />
+
+      <.input
+        type="textarea"
+        name="entry[notes]"
+        label="Notes"
+        value={@form_entry["notes"]}
+      />
+
+      <:actions>
+        <.button>Save</.button>
+      </:actions>
+    </.simple_form>
+  <% else %>
+    <p><%= @error_message %></p>
+  <% end %>
+</div>

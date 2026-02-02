@@ -27,6 +27,7 @@ defmodule CfsjksasWeb.Router do
     live "/stats", CircleLive.StatsView, :home
     live "/intermediates", CircleLive.IntermediateView, :home
     live "/adoc", CircleLive.AdocView, :home
+    live "/addp", CircleLive.AddPerson, :home
   end
 
   # Other scopes may use custom stacks.
