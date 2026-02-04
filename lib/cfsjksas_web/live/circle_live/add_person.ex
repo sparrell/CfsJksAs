@@ -9,9 +9,20 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
                  :p9970, :p9971,
                 ]
   @person_form %{
-      "name" => "",
-      "mode" => "default",    # dropdown default
-      "notes" => ""           # free text
+      "given_name" => "given_name",
+      "surname" => "surname",
+      "gender" => "male",
+      "birth_date" => "birth_date",
+      "birth_year" => "birth_year",
+      "birth_place" => "birth_place",
+      "death_date" => "death_date",
+      "death_year" => "death_year",
+      "death_place" => "death_place",
+      "description" => "",           # free text
+      "id_a" => :to_be_computed,
+      "father" => :tbd,
+      "mother" => :tbd,
+      "child" => :to_be_computed,
   }
 
 
@@ -19,31 +30,6 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
   def mount(params, _session, socket) do
     person_id_txt = Map.get(params, "p")
 
-#    socket =
-#      case person_id_txt do
-#        nil ->
-#          socket
-#          |> assign(:person, nil)
-#          |> assign(:error_message, "You need to enter a person parameter on URL, e.g. ?p=:p1234")
-#          |> assign(:show_form?, false)
-#
-#        p when is_binary(p) ->
-#          existing_map = %{
-#            "alpha" => %{"name" => "Alpha", "mode" => "fast", "notes" => "pre-populated"},
-#            "beta"  => %{"name" => "Beta",  "mode" => "safe", "notes" => ""}
-#          }
-#
-#          socket
-#          |> assign(:person, p)
-#          |> assign(:error_message, nil)
-#          |> assign(:show_form?, true)
-#          |> assign(:config_map, existing_map)
-#          |> assign(:form_entry, @person_form)
-#          |> assign(:available_modes, ~w(default fast safe))
-#      end
-
-
-    #{:ok, socket}
     {:ok, get_assigns(socket, person_id_txt)}
   end
 
@@ -54,13 +40,13 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
 
   @impl true
   def handle_event("save", %{"entry" => params}, socket) do
-    key = params["key"]
-    entry = Map.delete(params, "key")
+    person_id = params["person_id"]
+    entry = Map.delete(params, "person_id")
 
-    new_map = Map.put(socket.assigns.config_map, key, entry)
+    new_map = Map.put(socket.assigns.person_map, person_id, entry)
     socket =
       socket
-      |> assign(:config_map, new_map)
+      |> assign(:person_map, new_map)
       |> assign(:form_entry, @person_form)
 
     {:noreply, socket}
@@ -88,38 +74,38 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
       true ->
         :malformed
     end
-    check_id(socket, id_status, id_answer, id_ok, people)
+    check_id(socket, id_status, id_answer, id_ok)
   end
 
-  defp check_id(socket, :error, error_msg, _id_ok, _people) do
+  defp check_id(socket, :error, error_msg, _id_ok) do
     socket
     |> assign(:person, nil)
     |> assign(:error_message, error_msg)
     |> assign(:show_form?, false)
   end
-  defp check_id(socket, :ok, person_id, :used, _people) do
+  defp check_id(socket, :ok, person_id, :used) do
     socket
     |> assign(:person, person_id)
     |> assign(:error_message, "#{inspect(person_id)} is existing person - use edit not add")
     |> assign(:show_form?, false)
   end
-  defp check_id(socket, :ok, person_id, :malformed, _people) do
+  defp check_id(socket, :ok, person_id, :malformed) do
     socket
     |> assign(:person, person_id)
     |> assign(:error_message, "#{inspect(person_id)} is malformed")
     |> assign(:show_form?, false)
   end
-  defp check_id(socket,   :ok, person_id, :unused, people) do
+  defp check_id(socket,   :ok, person_id, :unused) do
     # set up the default values for an input form
+    person_map = %{person_id => @person_form}
+
     socket
-    |> assign(:person, person_id)
+    |> assign(:person_id, person_id)
     |> assign(:error_message, nil)
     |> assign(:show_form?, true)
-    |> assign(:people, people)
+    |> assign(:person_map, person_map)
     |> assign(:form_entry, @person_form)
-    |> assign(:available_modes, ~w(default fast safe))
-
-
+    |> assign(:available_genders, ~w(male female))
   end
 
   defp to_existing(s) do

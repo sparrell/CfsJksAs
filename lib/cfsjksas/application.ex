@@ -11,7 +11,6 @@ defmodule Cfsjksas.Application do
     # some helper doc
     IO.inspect("Cfsjksas.DevTools.Run.graphs()")
     IO.inspect("Cfsjksas.Tools.Markdown.person_pages(:all)")
-    IO.inspect("clean up removing extras below in children")
 
 
     children = [

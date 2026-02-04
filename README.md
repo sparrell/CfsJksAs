@@ -11,6 +11,10 @@ and Ann Sparrell (AS).
 
 iex -S mix phx.server
 
+## make both circle graphs
+
+Cfsjksas.DevTools.Run.graphs()
+
 ## make circle chart
 
 Cfsjksas.Chart.Circle.main("circle.svg")

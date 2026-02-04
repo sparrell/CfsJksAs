@@ -1,60 +1,161 @@
 <div>
   <%= if @show_form? do %>
-    <p>Person: <%= @person %></p>
 
-    <h2>Config entries</h2>
+    <h2>Add entry</h2>
 
-    <ul>
-      <%= for {key, entry} <- @config_map do %>
-        <li>
-          <strong><%= key %></strong>:
-          <%= entry["name"] %> (<%= entry["mode"] %>) - <%= entry["notes"] %>
-        </li>
-      <% end %>
-    </ul>
-
-    <h3>Add entry</h3>
+    <p>Person: <strong><%= @person_id %></strong></p>
 
     <.simple_form
       for={@form_entry}
       phx-submit="save"
       phx-change="validate"
     >
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Given Name:</label>
       <.input
         type="text"
-        name="entry[key]"
-        label="Key"
-        value={@form_entry["key"] || ""}
-        required
+        name="entry[given_name]"
+        value={@form_entry["given_name"]}
+        class="flex-1"
       />
+    </div>
 
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Surname:</label>
       <.input
         type="text"
-        name="entry[name]"
-        label="Name"
-        value={@form_entry["name"]}
+        name="entry[surname]"
+        value={@form_entry["surname"]}
         required
       />
+    </div>
 
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Gender:</label>
       <.input
         type="select"
-        name="entry[mode]"
-        label="Mode"
-        options={@available_modes}
-        value={@form_entry["mode"]}
+        name="entry[gender]"
+        options={@available_genders}
+        value={@form_entry["gender"]}
       />
+    </div>
 
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Birth Date:</label>
+      <.input
+        type="text"
+        name="entry[birth_date]"
+        value={@form_entry["birth_date"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Birth Year:</label>
+      <.input
+        type="text"
+        name="entry[birth_year]"
+        value={@form_entry["birth_year"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Birth Place:</label>
+      <.input
+        type="text"
+        name="entry[birth_place]"
+        value={@form_entry["birth_place"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Death Date:</label>
+      <.input
+        type="text"
+        name="entry[death_date]"
+        value={@form_entry["death_date"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Death Year:</label>
+      <.input
+        type="text"
+        name="entry[death_year]"
+        value={@form_entry["death_year"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Death Place:</label>
+      <.input
+        type="text"
+        name="entry[death_place]"
+        value={@form_entry["death_place"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Father:</label>
+      <.input
+        type="text"
+        name="entry[father]"
+        value={@form_entry["father"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Mother:</label>
+      <.input
+        type="text"
+        name="entry[mother]"
+        value={@form_entry["mother"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Child:</label>
+      <.input
+        type="text"
+        name="entry[child]"
+        value={@form_entry["child"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Description:</label>
       <.input
         type="textarea"
-        name="entry[notes]"
-        label="Notes"
-        value={@form_entry["notes"]}
+        name="entry[description]"
+        value={@form_entry["description"]}
       />
+    </div>
 
       <:actions>
         <.button>Save</.button>
       </:actions>
+
+    <h2>Debugging Entries</h2>
+
+    <ul>
+      <%= for {key, value} <- @person_map[@person_id] do %>
+        <li>
+          <strong><%= key %></strong>: <%= value %>
+        </li>
+      <% end %>
+    </ul>
+
     </.simple_form>
+
   <% else %>
     <p><%= @error_message %></p>
   <% end %>
