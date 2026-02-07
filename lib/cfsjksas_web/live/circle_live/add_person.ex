@@ -9,21 +9,78 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
                  :p9970, :p9971,
                 ]
   @person_form %{
-      "given_name" => "given_name",
-      "surname" => "surname",
-      "gender" => "male",
-      "birth_date" => "birth_date",
-      "birth_year" => "birth_year",
-      "birth_place" => "birth_place",
-      "death_date" => "death_date",
-      "death_year" => "death_year",
-      "death_place" => "death_place",
-      "description" => "",           # free text
-      "id_a" => :to_be_computed,
-      "father" => :tbd,
-      "mother" => :tbd,
-      "child" => :to_be_computed,
+      "given_name" => "",
+      "surname" => "",
+      "gender" => "",
+      "birth_date" => "",
+      "birth_year" => "",
+      "birth_place" => "",
+      "death_date" => "",
+      "death_year" => "",
+      "death_place" => "",
+      "description" => "",
+      "father" => "",
+      "mother" => "",
   }
+  @p1_keys [
+    :id,
+    :label,
+    :given_name,
+    :surname,
+    :also_known_as,
+    :birth_date,
+    :birth_year,
+    :birth_place,
+    :baptism,
+    :death_date,
+    :death_year,
+    :death_place,
+    :sex,
+    :father,
+    :mother,
+    :event,
+    :description,
+    :notes,
+  ]
+  @p2_keys [
+    :name_prefix,
+    :upd,
+    :will,
+    :rin,
+    :birth_note,
+    :naturalized,
+    :sources,
+    :death_age,
+    :religion,
+    :title,
+    :mh_fams,
+    :married_name,
+    :graduation,
+    :death_source,
+    :name_suffix,
+    :birth_source,
+    :nickname,
+    :family_of_origin,
+    :mh_famc,
+    :residence,
+    :occupation,
+    :mh_name,
+    :christening,
+    :death_cause,
+    :uid,
+    :immigration,
+    :buried,
+    :former_name,
+    :mh_famc2,
+    :census,
+    :mh_id,
+    :death_note,
+    :ordained,
+    :education,
+    :family_of_procreation,
+    :emigration,
+    :probate,
+  ]
 
 
   @impl true
@@ -41,6 +98,7 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
   @impl true
   def handle_event("save", %{"entry" => params}, socket) do
     person_id = params["person_id"]
+IO.inspect(params, label: "params") # rm.
     entry = Map.delete(params, "person_id")
 
     new_map = Map.put(socket.assigns.person_map, person_id, entry)
@@ -56,7 +114,7 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
     # no person present so return mostly empty
     # with flag set for error message to display
     socket
-    |> assign(:person, nil)
+    |> assign(:person_id, nil)
     |> assign(:error_message, "You need to enter a person parameter on URL, e.g. ?p=:p1234")
     |> assign(:show_form?, false)
   end
@@ -79,15 +137,27 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
 
   defp check_id(socket, :error, error_msg, _id_ok) do
     socket
-    |> assign(:person, nil)
+    |> assign(:person_id, nil)
     |> assign(:error_message, error_msg)
     |> assign(:show_form?, false)
   end
   defp check_id(socket, :ok, person_id, :used) do
+    # grap person_a from people2 and add map to assigns
+    # so then can loop thru all in the 'error' message (make non-eror and it's own clause)
+    people = @data_path |> Code.eval_file() |> elem(0)
+    person_a = people[person_id]
+    # get intersection of keys that exist and list of desired
+    p1keys = Enum.filter(@p1_keys, &Enum.member?(Map.keys(person_a), &1))
+    p2keys = Enum.filter(@p2_keys, &Enum.member?(Map.keys(person_a), &1))
+
     socket
-    |> assign(:person, person_id)
+    |> assign(:person_id, person_id)
     |> assign(:error_message, "#{inspect(person_id)} is existing person - use edit not add")
     |> assign(:show_form?, false)
+    |> assign(:show_used?, true)
+    |> assign(:person_a, person_a)
+    |> assign(:p1keys, p1keys)
+    |> assign(:p2keys, p2keys)
   end
   defp check_id(socket, :ok, person_id, :malformed) do
     socket
@@ -97,6 +167,7 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
   end
   defp check_id(socket,   :ok, person_id, :unused) do
     # set up the default values for an input form
+IO.inspect(socket.assigns, label: "socket.assigns") # rm.
     person_map = %{person_id => @person_form}
 
     socket
@@ -105,7 +176,7 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
     |> assign(:show_form?, true)
     |> assign(:person_map, person_map)
     |> assign(:form_entry, @person_form)
-    |> assign(:available_genders, ~w(male female))
+    |> assign(:available_genders, ~w(pick male female))
   end
 
   defp to_existing(s) do

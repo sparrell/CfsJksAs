@@ -21494,5 +21494,5 @@ Susanna Furner (? - 1620)
 <line id="g12_s63_g11_s62" x1="31144" y1="17617" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 <line id="g12_s62_g11_s62" x1="31155" y1="17670" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-02-03 13:28:07.731049Z -->
+<!-- made new svg at 2026-02-06 19:05:20.193886Z -->
 </svg>

@@ -1,5 +1,7 @@
 <div>
-  <%= if @show_form? do %>
+
+  <%= cond do %> 
+    <% @show_form? -> %>
 
     <h2>Add entry</h2>
 
@@ -18,6 +20,7 @@
         name="entry[given_name]"
         value={@form_entry["given_name"]}
         class="flex-1"
+        required
       />
     </div>
 
@@ -122,16 +125,6 @@
     </div>
 
     <div class="flex items-center gap-2">
-      <label class="text-sm font-medium w-24">Child:</label>
-      <.input
-        type="text"
-        name="entry[child]"
-        value={@form_entry["child"]}
-        required
-      />
-    </div>
-
-    <div class="flex items-center gap-2">
       <label class="text-sm font-medium w-24">Description:</label>
       <.input
         type="textarea"
@@ -144,19 +137,30 @@
         <.button>Save</.button>
       </:actions>
 
-    <h2>Debugging Entries</h2>
-
-    <ul>
-      <%= for {key, value} <- @person_map[@person_id] do %>
-        <li>
-          <strong><%= key %></strong>: <%= value %>
-        </li>
-      <% end %>
-    </ul>
-
     </.simple_form>
 
-  <% else %>
+  <% @show_used? -> %>
+    <ul>
+      <%= for key <- @p1keys do %>
+        <li>
+          <strong><%= key %></strong>: <%= @person_a[key] %>
+        </li>
+      <% end %>
+      <li>
+          <strong>LINKS:</strong>
+      </li>
+      <%= for key2 <- Map.keys(@person_a[:links]) do %>
+      <li>
+          <strong><%= key2 %></strong>: <%= @person_a[:links][key2] %>
+      </li>
+      <% end %>
+      <li>
+          <strong>Misc:</strong> fill in later
+      </li>
+
+    </ul>
+
+  <% true -> %>
     <p><%= @error_message %></p>
   <% end %>
 </div>

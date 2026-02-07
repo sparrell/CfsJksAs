@@ -54519,7 +54519,6 @@
 			],
 			father: :p0486,
 			former_name: nil,
-			generation: 0,
 			given_name: "Charles Fisher",
 			graduation: [
 			],
@@ -54557,12 +54556,10 @@
 				"\r\n2 DATE 1935\r\n2 AGE 6-7\r\n2 ADDR\r\n3 ADR2 W Kingston, Wash, Rhode Island",
 			],
 			rin: "MH:I181",
-			sector: 0,
 			sex: "M",
 			sources: [
 			],
 			surname: "Sparrell",
-			termination: :not,
 			title: nil,
 			uid: "FDD11E73-4EF0-4931-8B7D-163BBFD45C32",
 			upd: nil,
