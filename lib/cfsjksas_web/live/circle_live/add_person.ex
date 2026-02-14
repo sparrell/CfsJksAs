@@ -12,15 +12,17 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
       "given_name" => "",
       "surname" => "",
       "gender" => "",
-      "birth_date" => "",
-      "birth_year" => "",
-      "birth_place" => "",
-      "death_date" => "",
-      "death_year" => "",
-      "death_place" => "",
-      "description" => "",
-      "father" => "",
-      "mother" => "",
+      "birth_date" => "nil",
+      "birth_year" => "nil",
+      "birth_place" => "nil",
+      "death_date" => "nil",
+      "death_year" => "nil",
+      "death_place" => "nil",
+      "father" => "nil",
+      "mother" => "nil",
+      "ship" => "",
+      "ship_name" => "nil",
+      "ship_date" => "nil",
   }
   @p1_keys [
     :id,
@@ -97,14 +99,34 @@ defmodule CfsjksasWeb.CircleLive.AddPerson do
 
   @impl true
   def handle_event("save", %{"entry" => params}, socket) do
-    person_id = params["person_id"]
+    person_id = socket.assigns.person_id
+IO.inspect(person_id, label: "person_id") # rm.
+IO.inspect(socket.assigns, label: "socket.assigns") # rm.
 IO.inspect(params, label: "params") # rm.
-    entry = Map.delete(params, "person_id")
 
-    new_map = Map.put(socket.assigns.person_map, person_id, entry)
+    person = form_to_person(person_id, params)
+
+IO.inspect(person, label: "person") # rm.
+
+    people = @data_path |> Code.eval_file() |> elem(0)
+
+    children = case person.gender do
+      # if parent is male, find entries with father = person_id
+      :male ->
+        Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :father, person_id)
+      # if parent is female, find entries with mother = person_id
+      :female ->
+        Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :mother, person_id)
+    end
+
+
+    new_people = Map.put(people, person_id, person)
+
+#IEx.pry() #rm.
+
     socket =
       socket
-      |> assign(:person_map, new_map)
+      |> assign(:person, person)
       |> assign(:form_entry, @person_form)
 
     {:noreply, socket}
@@ -167,8 +189,22 @@ IO.inspect(params, label: "params") # rm.
   end
   defp check_id(socket,   :ok, person_id, :unused) do
     # set up the default values for an input form
-IO.inspect(socket.assigns, label: "socket.assigns") # rm.
     person_map = %{person_id => @person_form}
+    # get a list of children to help with creating label
+    people = @data_path |> Code.eval_file() |> elem(0)
+#IEx.pry() #rm.
+
+    children = case person_map["gender"] do
+      # if parent is male, find entries with father = person_id
+      :male ->
+        Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :father, person_id)
+      # if parent is female, find entries with mother = person_id
+      :female ->
+        Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :mother, person_id)
+      nil ->
+        "pick a gender"
+    end
+#IEx.pry() #rm.
 
     socket
     |> assign(:person_id, person_id)
@@ -177,6 +213,8 @@ IO.inspect(socket.assigns, label: "socket.assigns") # rm.
     |> assign(:person_map, person_map)
     |> assign(:form_entry, @person_form)
     |> assign(:available_genders, ~w(pick male female))
+    |> assign(:available_ship, ~w(pick yes no))
+    |> assign(:children, children)
   end
 
   defp to_existing(s) do
@@ -187,6 +225,79 @@ IO.inspect(socket.assigns, label: "socket.assigns") # rm.
         {:error, "invalid id: #{inspect(s)}"}
     end
   end
+
+  defp form_to_person(person_id, params) do
+    %{
+      :id => person_id,
+      :given_name => params["given_name"],
+      :surname => params["surname"],
+      :gender => get_gender(params["gender"]),
+      :birth_date => check_nil(params["birth_date"]),
+      :birth_year => check_nil(params["birth_year"]),
+      :birth_place => check_nil(params["birth_place"]),
+      :death_date => check_nil(params["death_date"]),
+      :death_year => check_nil(params["death_year"]),
+      :death_place => check_nil(params["death_place"]),
+      :father => check_atom(params["father"]),
+      :mother => check_atom(params["mother"]),
+    }
+    |> handle_ship(params["ship"],params["ship_name"],params["ship_year"])
+  end
+
+  defp get_gender("male") do
+    :male
+  end
+  defp get_gender("female") do
+    :female
+  end
+  defp get_gender(_pick) do
+    :error
+  end
+
+
+  defp check_nil("nil") do
+    nil
+  end
+  defp check_nil(text) do
+    text
+  end
+
+  defp check_atom("nil") do
+    nil
+  end
+  defp check_atom(text) do
+    String.to_existing_atom(text)
+  end
+
+  defp handle_ship(init_person, "pick", _ship_name, _ship_date) do
+    # no entry yet
+    init_person
+  end
+  defp handle_ship(init_person, "no", _ship_name, _ship_date) do
+    # no ship, leave map alone
+    init_person
+  end
+  defp handle_ship(init_person, "yes", "nil", "nil") do
+    Map.put(init_person, :ship, %{name: nil, year: nil,})
+  end
+  defp handle_ship(init_person, "yes", ship_name, "nil") do
+    Map.put(init_person, :ship, %{name: ship_name, year: nil,})
+  end
+  defp handle_ship(init_person, "yes", "nil", ship_date) do
+    Map.put(init_person, :ship, %{name: nil, year: ship_date,})
+  end
+  defp handle_ship(init_person, "yes", ship_name, ship_date) do
+    Map.put(init_person, :ship, %{name: ship_name, year: ship_date,})
+  end
+
+  def fathers_keys(people, f) do
+    people
+    |> Enum.filter(fn {_key, person} ->
+      is_map(person) and Map.get(person, :father) == f
+    end)
+    |> Enum.map(fn {key, _person} -> key end)
+  end
+
 
 
 end

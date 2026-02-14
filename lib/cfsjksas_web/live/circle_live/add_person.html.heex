@@ -125,19 +125,47 @@
     </div>
 
     <div class="flex items-center gap-2">
-      <label class="text-sm font-medium w-24">Description:</label>
+      <label class="text-sm font-medium w-24">Ship:</label>
       <.input
-        type="textarea"
-        name="entry[description]"
-        value={@form_entry["description"]}
+        type="select"
+        name="entry[ship]"
+        options={@available_ship}
+        value={@form_entry["ship"]}
       />
     </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Ship Name:</label>
+      <.input
+        type="text"
+        name="entry[ship_name]"
+        value={@form_entry["ship_name"]}
+        required
+      />
+    </div>
+
+    <div class="flex items-center gap-2">
+      <label class="text-sm font-medium w-24">Ship Date:</label>
+      <.input
+        type="text"
+        name="entry[ship_date]"
+        value={@form_entry["ship_date"]}
+        required
+      />
+    </div>
+
 
       <:actions>
         <.button>Save</.button>
       </:actions>
 
     </.simple_form>
+
+    <div class="flex items-center gap-2">
+    children: <%= @children %>
+    </div>
+
+    <% @error_message %>
 
   <% @show_used? -> %>
     <ul>

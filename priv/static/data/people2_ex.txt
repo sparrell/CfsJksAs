@@ -16992,7 +16992,7 @@
 			residence: [
 			],
 			rin: nil,
-			sex: "MxxxF",
+			sex: "F",
 			ship: %{
 				name: "Mary and John",
 				year: "1630",
