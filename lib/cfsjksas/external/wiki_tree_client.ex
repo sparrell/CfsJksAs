@@ -44,18 +44,13 @@ defmodule CfsJksAs.External.WikiTreeClient do
       {:error, :missing_credentials}
     else
       with {:ok, authcode} <- get_authcode(email, password),
-           {:ok, cookies} <- finalize_auth(authcode),
-           {:ok, username} <- fetch_cookie(cookies, "wikidb_wtb_UserName") do
+           {:ok, response} <- finalize_auth(authcode) do
+        username = response.user_name
         username_decoded = URI.decode(username)
 
         Logger.info("WikiTree: authenticated as #{username_decoded}")
 
-        {:ok,
-         %{
-           cookies: cookies,
-           cookie_header: build_cookie_header(cookies),
-           username: username_decoded
-         }}
+        {:ok, response}
       else
         {:error, reason} -> {:error, reason}
       end
@@ -86,7 +81,7 @@ defmodule CfsJksAs.External.WikiTreeClient do
         _ -> []
       end
 
-    case Req.post(@api_url, form: form, headers: headers, decode_json: true) do
+    case Req.post(@api_url, form: form, headers: headers) do
       {:ok, %{status: 200, body: body}} when is_list(body) ->
         # TODO: Check this as Python example returns a list; first element is the result map
         {:ok, List.first(body)}
@@ -134,17 +129,16 @@ defmodule CfsJksAs.External.WikiTreeClient do
   end
 
   defp finalize_auth(authcode) do
-    form = %{"action" => "clientLogin", "authcode" => authcode}
-    dbg(authcode)
+    form = %{"action" => "clientLogin", "authcode" => authcode, "decode_body" => false}
 
     case Req.post(@api_url, form: form, redirect: false) do
       {:ok, resp} when resp.status in 200..302 ->
-        cookies = cookies_from_response(resp)
+        if is_successful?(resp) do
+          resp = build_response(resp)
 
-        if map_size(cookies) == 0 do
-          {:error, :no_cookies_set}
+          {:ok, resp}
         else
-          {:ok, cookies}
+          {:error, "Cannot authenticate with Wikitree API: failed the authcode verification"}
         end
 
       {:ok, %{status: status, body: body}} ->
@@ -152,13 +146,6 @@ defmodule CfsJksAs.External.WikiTreeClient do
 
       {:error, err} ->
         {:error, err}
-    end
-  end
-
-  defp fetch_cookie(cookies, name) do
-    case Map.fetch(cookies, name) do
-      {:ok, value} -> {:ok, value}
-      :error -> {:error, {:missing_cookie, name}}
     end
   end
 
@@ -185,5 +172,20 @@ defmodule CfsJksAs.External.WikiTreeClient do
     cookies
     |> Enum.map(fn {k, v} -> "#{k}=#{v}" end)
     |> Enum.join("; ")
+  end
+
+  defp is_successful?(%Req.Response{body: %{"clientLogin" => %{"result" => "Success"}}}), do: true
+
+  defp is_successful?(_response), do: false
+
+  defp build_response(%Req.Response{body: body} = response) do
+    cookies = cookies_from_response(response)
+
+    %{
+      cookies: cookies,
+      user_name: body["clientLogin"]["username"],
+      user_id: body["clientLogin"]["userid"],
+      cookie_header: build_cookie_header(cookies)
+    }
   end
 end
