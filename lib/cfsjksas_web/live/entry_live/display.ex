@@ -2,8 +2,6 @@ defmodule CfsjksasWeb.EntryLive.Display do
   use CfsjksasWeb, :live_view
 
   def already(assigns) do
-IO.inspect(assigns, label: "CfsjksasWeb.EntryLive display_person assigns")
-
     ~H"""
     <h1 style="font-size: 48px; color: darkblue;">
       <%= @id %> already in
@@ -17,6 +15,35 @@ IO.inspect(assigns, label: "CfsjksasWeb.EntryLive display_person assigns")
       <% end %>
     </ul>
     </div>
+    """
+  end
+
+  def entered(assigns) do
+    ~H"""
+    <div class="entered">
+      <h1 style="font-size: 48px; color: darkblue;">Enter Person Data</h1>
+      <ul>
+
+      <%= if @current_step > 1 do %>
+              <li>
+                ID: <strong><%= @new_person.id %></strong>
+              </li>
+      <% end %>
+
+      <%= if @current_step > 2 do %>
+              <li>
+                Given Name: <strong><%= @new_person.given_name %></strong>
+              </li>
+              <li>
+                Surame: <strong><%= @new_person.surname %></strong>
+              </li>
+      <% end %>
+
+    fill rest of entered in later
+    </ul>
+
+    </div>
+
     """
   end
 

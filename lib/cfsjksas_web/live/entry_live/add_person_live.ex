@@ -30,9 +30,9 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
 IO.inspect(params, label: "params")
     changeset =
       case socket.assigns.current_step do
-        1 -> AddPerson.step1_changeset(socket.assigns.new_person, params)
-        2 -> AddPerson.step2_changeset(socket.assigns.new_person, params)
-        3 -> AddPerson.step3_changeset(socket.assigns.new_person, params)
+        1 -> AddPerson.step1_id_changeset(socket.assigns.new_person, params)
+        2 -> AddPerson.step2_name_changeset(socket.assigns.new_person, params)
+        3 -> AddPerson.step3_gender_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
       |> Map.put(:action, :validate)
@@ -60,7 +60,7 @@ IO.inspect(params, label: "params")
 
   defp do_id(params, socket) do
 IO.inspect(params, label: "do_id params") # rm.
-    changeset = AddPerson.step1_changeset(socket.assigns.new_person, params)
+    changeset = AddPerson.step1_id_changeset(socket.assigns.new_person, params)
 IO.inspect(changeset, label: "do_id changeset") # rm.
     # check id is used, unused, or invalid
     id = params["id"]
@@ -127,9 +127,9 @@ IO.inspect("id UNused - need to do more here?")
 
     changeset =
       case current_step do
-        1 -> AddPerson.step1_changeset(socket.assigns.new_person, params)
-        2 -> AddPerson.step2_changeset(socket.assigns.new_person, params)
-        3 -> AddPerson.step3_changeset(socket.assigns.new_person, params)
+        1 -> AddPerson.step1_id_changeset(socket.assigns.new_person, params)
+        2 -> AddPerson.step2_name_changeset(socket.assigns.new_person, params)
+        3 -> AddPerson.step3_gender_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
 
@@ -199,34 +199,6 @@ IO.inspect(new_person, label: "save changeset")
   end
 
 
-  def entered(assigns) do
-IO.inspect(assigns, label: "entered assigns")
-    ~H"""
-    <div class="entered">
-      <h2>Entered Data</h2>
-      <ul>
-
-      <%= if @current_step > 1 do %>
-              <li>
-                ID: <strong><%= @new_person.id %></strong>
-              </li>
-      <% end %>
-
-      <%= if @current_step > 2 do %>
-              <li>
-                Given Name: <strong><%= @new_person.given_name %></strong>
-              </li>
-              <li>
-                Surame: <strong><%= @new_person.surname %></strong>
-              </li>
-      <% end %>
-
-    fill rest of entered in later
-    </ul>
-
-    </div>
-    """
-  end
 
   def person_form(assigns) do
     ~H"""
@@ -247,7 +219,9 @@ IO.inspect(assigns, label: "entered assigns")
         <p></p>
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 3 -> %>
-        need to do
+        <p></p>
+        <.input field={@form[:gender]} type="select"
+          options={[{"Male", :male}, {"Female", :female}]} />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 4 -> %>
         need to do
