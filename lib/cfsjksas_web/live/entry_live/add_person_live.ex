@@ -27,12 +27,16 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
 
   @impl true
   def handle_event("validate", %{"add_person" => params}, socket) do
-IO.inspect(params, label: "params")
     changeset =
       case socket.assigns.current_step do
         1 -> AddPerson.step1_id_changeset(socket.assigns.new_person, params)
         2 -> AddPerson.step2_name_changeset(socket.assigns.new_person, params)
         3 -> AddPerson.step3_gender_changeset(socket.assigns.new_person, params)
+        4 -> AddPerson.step4_birth_changeset(socket.assigns.new_person, params)
+        5 -> AddPerson.step5_death_changeset(socket.assigns.new_person, params)
+        6 -> AddPerson.step6_mom_dad_changeset(socket.assigns.new_person, params)
+        7 -> AddPerson.step7_ship_changeset(socket.assigns.new_person, params)
+        8 -> AddPerson.step8_label_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
       |> Map.put(:action, :validate)
@@ -59,18 +63,13 @@ IO.inspect(params, label: "params")
   end
 
   defp do_id(params, socket) do
-IO.inspect(params, label: "do_id params") # rm.
     changeset = AddPerson.step1_id_changeset(socket.assigns.new_person, params)
-IO.inspect(changeset, label: "do_id changeset") # rm.
     # check id is used, unused, or invalid
     id = params["id"]
-IO.inspect(id, label: "do_id id") # rm.
     {id_status, id_answer, id_ok} = check_id(id)
-IO.inspect({id_status, id_answer, id_ok} , label: "{id_status, id_answer, id_ok} ") # rm.
     # check for errors, used id, unused id and return accordingly
     cond do
       not changeset.valid? ->
-IO.inspect("id changeset INVALID")
         {:noreply,
         socket
           |> assign(:problem?, true)
@@ -79,7 +78,6 @@ IO.inspect("id changeset INVALID")
           |> assign(:form, to_form(changeset))}
 
       id_status == :error ->
-IO.inspect("id to atom error")
         {:noreply,
           socket
           |> assign(:problem?, true)
@@ -88,7 +86,6 @@ IO.inspect("id to atom error")
           |> assign(:form, to_form(changeset))}
 
       id_ok == :bad_id ->
-IO.inspect("bad id")
         {:noreply,
           socket
           |> assign(:problem?, true)
@@ -110,16 +107,16 @@ IO.inspect("bad id")
           |> assign(:form, to_form(changeset))}
 
       id_ok == :unused ->
-IO.inspect("id UNused - need to do more here?")
+        children = get_children(id_answer)
+IO.inspect(children, label: "children")
         {:noreply,
           socket
+          |> assign(:children, children)
           |> assign(:new_person, Ecto.Changeset.apply_changes(changeset))
           |> assign(:current_step, socket.assigns.current_step + 1)
           |> assign(:changeset, changeset)
           |> assign(:form, to_form(changeset))}
-
     end
-
   end
 
   defp do_next_step(params, socket) do
@@ -130,13 +127,15 @@ IO.inspect("id UNused - need to do more here?")
         1 -> AddPerson.step1_id_changeset(socket.assigns.new_person, params)
         2 -> AddPerson.step2_name_changeset(socket.assigns.new_person, params)
         3 -> AddPerson.step3_gender_changeset(socket.assigns.new_person, params)
+        4 -> AddPerson.step4_birth_changeset(socket.assigns.new_person, params)
+        5 -> AddPerson.step5_death_changeset(socket.assigns.new_person, params)
+        6 -> AddPerson.step6_mom_dad_changeset(socket.assigns.new_person, params)
+        7 -> AddPerson.step7_ship_changeset(socket.assigns.new_person, params)
+        8 -> AddPerson.step8_label_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
 
-IO.inspect(changeset, label: "changeset") # rm.
-
     if changeset.valid? do
-IO.inspect("changeset valid")
       {:noreply,
        socket
        |> assign(:new_person, Ecto.Changeset.apply_changes(changeset))
@@ -144,7 +143,6 @@ IO.inspect("changeset valid")
        |> assign(:changeset, changeset)
        |> assign(:form, to_form(changeset))}
     else
-IO.inspect("changeset INvalid")
       {:noreply,
        socket
        |> assign(:changeset, changeset)
@@ -198,40 +196,13 @@ IO.inspect(new_person, label: "save changeset")
     end
   end
 
-
-
-  def person_form(assigns) do
-    ~H"""
-      <%= if @current_step > 1 do %>
-        <.button type="button" phx-click="prev_step">Back</.button>
-      <% end %>
-
-      <%= cond do %>
-      <% @current_step == 1 -> %>
-        <p></p>
-        <.input field={@form[:id]} label="Ancestor ID" />
-        <p></p>
-        <.button type="submit" name="add_person[action]" value="id">Continue</.button>
-      <% @current_step == 2 -> %>
-        <p></p>
-        <.input field={@form[:given_name]} label="Given name" />
-        <.input field={@form[:surname]} label="Surname" />
-        <p></p>
-        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
-      <% @current_step == 3 -> %>
-        <p></p>
-        <.input field={@form[:gender]} type="select"
-          options={[{"Male", :male}, {"Female", :female}]} />
-        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
-      <% @current_step == 4 -> %>
-        need to do
-        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
-      <% true -> %>
-        need to do
-        <.button type="submit" name="add_person[action]" value="finish">Finish</.button>
-
-      <% end %>
-
-    """
+  defp get_children(parent_id) do
+    # don't bother figuring out gender, just do both
+    people = @data_path |> Code.eval_file() |> elem(0)
+    father_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :father, parent_id)
+    mother_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :mother, parent_id)
+    # return sum of lists (one, maybe both, will be empty)
+    father_of ++ mother_of
   end
+
 end

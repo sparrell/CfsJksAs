@@ -25,10 +25,29 @@ defmodule CfsjksasWeb.EntryLive.Form do
           options={[{"Male", :male}, {"Female", :female}]} />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 4 -> %>
-        need to do
+        <p></p>
+        <.input field={@form[:birth_date]} label="Birth Date" />
+        <.input field={@form[:birth_year]} label="Birth Year" />
+        <.input field={@form[:birth_place]} label="Birth Place" />
+        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
+      <% @current_step == 5 -> %>
+        <p></p>
+        <.input field={@form[:death_date]} label="Death Date" />
+        <.input field={@form[:death_year]} label="Death Year" />
+        <.input field={@form[:death_place]} label="Death Place" />
+        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
+      <% @current_step == 6 -> %>
+        <p></p>
+        <.input field={@form[:ship]} type="select"
+          options={[{"True", true}, {"False", false}]} label="Ship?" />
+        <.input field={@form[:ship_name]} label="Ship Name" />
+        <.input field={@form[:ship_date]} label="Ship Date" />
+        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
+      <% @current_step == 7 -> %>
+        <.input field={@form[:label]} label="Label" />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% true -> %>
-        need to do
+        Validate looks good, hit Finish to store
         <.button type="submit" name="add_person[action]" value="finish">Finish</.button>
 
       <% end %>
