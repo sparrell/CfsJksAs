@@ -1,4 +1,4 @@
-defmodule Cfsjksas.Ancestors.Signup do
+defmodule Cfsjksas.Ancestors.NewPerson do
   use Ecto.Schema
   import Ecto.Changeset
 
@@ -8,23 +8,23 @@ defmodule Cfsjksas.Ancestors.Signup do
     field :gender, Ecto.Enum, values: [:male, :female]
     field :email, :string
     field :password, :string
-    field :first_name, :string
-    field :last_name, :string
+    field :given_name, :string
+    field :surname, :string
   end
 
   # base cast
-  def base_changeset(signup, attrs \\ %{}) do
+  def base_changeset(new_person, attrs \\ %{}) do
 IO.inspect("base changeset")
-    signup
-    |> cast(attrs, [:gender, :email, :password, :id, :first_name, :last_name])
+    new_person
+    |> cast(attrs, [:gender, :email, :password, :id, :given_name, :surname])
   end
 
   # validations for step 1 only
-  def step1_changeset(signup, attrs) do
+  def step1_changeset(new_person, attrs) do
 IO.inspect("step1 changeset")
-IO.inspect(signup, label: "step1 signup")
+IO.inspect(new_person, label: "step1 new_person")
 IO.inspect(attrs, label: "step1 attrs")
-    signup
+    new_person
     |> base_changeset(attrs)
     |> validate_required([:email, :password, :id])
     |> validate_format(:email, ~r/@/)
@@ -32,33 +32,33 @@ IO.inspect(attrs, label: "step1 attrs")
   end
 
   # validations for step 2 only
-  def step2_changeset(signup, attrs) do
+  def step2_changeset(new_person, attrs) do
 IO.inspect("step2 changeset")
-IO.inspect(signup, label: "step2 signup")
+IO.inspect(new_person, label: "step2 new_person")
 IO.inspect(attrs, label: "step2 attrs")
-    signup
+    new_person
     |> base_changeset(attrs)
-    |> validate_required([:first_name, :last_name])
+    |> validate_required([:given_name, :surname])
   end
 
   # validations for step 3 only
-  def step3_changeset(signup, attrs) do
+  def step3_changeset(new_person, attrs) do
 IO.inspect("step3 changeset")
-IO.inspect(signup, label: "step3 signup")
+IO.inspect(new_person, label: "step3 new_person")
 IO.inspect(attrs, label: "step3 attrs")
-    signup
+    new_person
     |> base_changeset(attrs)
     |> validate_required([:gender])
   end
 
   # full validation used on final submit
-  def full_changeset(signup, attrs) do
+  def full_changeset(new_person, attrs) do
 IO.inspect("final changeset")
-IO.inspect(signup, label: "final signup")
+IO.inspect(new_person, label: "final new_person")
 IO.inspect(attrs, label: "final attrs")
-    signup
+    new_person
     |> base_changeset(attrs)
-    |> validate_required([:email, :password, :id, :first_name, :last_name])
+    |> validate_required([:email, :password, :id, :given_name, :surname])
     |> validate_format(:email, ~r/@/)
     |> validate_length(:password, min: 8)
     |> validate_required([:gender])

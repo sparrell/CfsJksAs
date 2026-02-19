@@ -1,0 +1,24 @@
+<.simple_form
+  for={@form}
+  id="add_person-form"
+  phx-change="validate"
+  phx-submit="next_step"
+>
+
+  <%= cond do %> 
+    <% @problem? -> %>
+        <h1 style="font-size: 48px; color: red;">
+            Problem!
+        </h1>
+        <p><%= @error_message %></p>
+
+    <% @already? -> %>
+        {CfsjksasWeb.EntryLive.Display.already(assigns)}
+
+    <% true -> %>
+        {entered(assigns)}
+        {person_form(assigns)}
+
+    <% end %>
+
+</.simple_form>

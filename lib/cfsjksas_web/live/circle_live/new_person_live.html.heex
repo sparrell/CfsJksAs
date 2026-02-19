@@ -1,6 +1,6 @@
 <.simple_form
   for={@form}
-  id="signup-form"
+  id="new_person-form"
   phx-change="validate"
   phx-submit="next_step"
 >
@@ -12,8 +12,8 @@
   <% end %>
 
   <%= if @current_step == 2 do %>
-    <.input field={@form[:first_name]} label="First name" />
-    <.input field={@form[:last_name]} label="Last name" />
+    <.input field={@form[:given_name]} label="Given name" />
+    <.input field={@form[:surname]} label="Surname" />
   <% end %>
 
   <%= if @current_step == 3
@@ -26,7 +26,12 @@
   <%= if @current_step == 4
    do %>
     <p>Review and confirm your information.</p>
-    <!-- show a summary pulled from @signup or @form -->
+    <!-- show a summary pulled from @new_person -->
+    <ul>
+      <li>ID: <%= @new_person.id %></li>
+      <li>Given name: <%= @new_person.given_name %> Surname: <%= @new_person.surname %></li>
+      <li>Gender: <%= @new_person.gender %></li>
+    </ul>
   <% end %>
 
   <div class="mt-4 flex gap-2">
@@ -35,9 +40,9 @@
     <% end %>
 
     <%= if @current_step < 4 do %>
-      <.button type="submit" name="signup[action]" value="next">Continue</.button>
+      <.button type="submit" name="new_person[action]" value="next">Continue</.button>
     <% else %>
-      <.button type="submit" name="signup[action]" value="finish">Finish</.button>
+      <.button type="submit" name="new_person[action]" value="finish">Finish</.button>
     <% end %>
   </div>
 </.simple_form>

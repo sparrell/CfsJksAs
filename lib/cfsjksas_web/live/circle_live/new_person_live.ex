@@ -1,29 +1,29 @@
-defmodule CfsjksasWeb.CircleLive.SignupLive do
+defmodule CfsjksasWeb.CircleLive.NewPersonLive do
   use CfsjksasWeb, :live_view
-  alias Cfsjksas.Ancestors.Signup
+  alias Cfsjksas.Ancestors.NewPerson
 
   @impl true
   def mount(_params, _session, socket) do
-    signup = %Signup{}
-    changeset = Signup.base_changeset(signup, %{})
+    new_person = %NewPerson{}
+    changeset = NewPerson.base_changeset(new_person, %{})
 
     {:ok,
      socket
-     |> assign(:signup, signup)
+     |> assign(:new_person, new_person)
      |> assign(:current_step, 1)
      |> assign(:changeset, changeset)
      |> assign(:form, to_form(changeset))}
   end
 
   @impl true
-  def handle_event("validate", %{"signup" => params}, socket) do
+  def handle_event("validate", %{"new_person" => params}, socket) do
 IO.inspect(params, label: "params")
     changeset =
       case socket.assigns.current_step do
-        1 -> Signup.step1_changeset(socket.assigns.signup, params)
-        2 -> Signup.step2_changeset(socket.assigns.signup, params)
-        3 -> Signup.step3_changeset(socket.assigns.signup, params)
-        _ -> Signup.base_changeset(socket.assigns.signup, params)
+        1 -> NewPerson.step1_changeset(socket.assigns.new_person, params)
+        2 -> NewPerson.step2_changeset(socket.assigns.new_person, params)
+        3 -> NewPerson.step3_changeset(socket.assigns.new_person, params)
+        _ -> NewPerson.base_changeset(socket.assigns.new_person, params)
       end
       |> Map.put(:action, :validate)
 
@@ -39,7 +39,7 @@ IO.inspect(params, label: "params")
   end
 
   @impl true
-  def handle_event("next_step", %{"signup" => params}, socket) do
+  def handle_event("next_step", %{"new_person" => params}, socket) do
     case params["action"] do
       "next"   -> do_next_step(params, socket)
       "finish" -> do_finish(params, socket)
@@ -51,10 +51,10 @@ IO.inspect(params, label: "params")
 
     changeset =
       case current_step do
-        1 -> Signup.step1_changeset(socket.assigns.signup, params)
-        2 -> Signup.step2_changeset(socket.assigns.signup, params)
-        3 -> Signup.step3_changeset(socket.assigns.signup, params)
-        _ -> Signup.base_changeset(socket.assigns.signup, params)
+        1 -> NewPerson.step1_changeset(socket.assigns.new_person, params)
+        2 -> NewPerson.step2_changeset(socket.assigns.new_person, params)
+        3 -> NewPerson.step3_changeset(socket.assigns.new_person, params)
+        _ -> NewPerson.base_changeset(socket.assigns.new_person, params)
       end
 
       IO.inspect(changeset, label: "changeset")
@@ -63,7 +63,7 @@ IO.inspect(params, label: "params")
 IO.inspect("changeset valid")
       {:noreply,
        socket
-       |> assign(:signup, Ecto.Changeset.apply_changes(changeset))
+       |> assign(:new_person, Ecto.Changeset.apply_changes(changeset))
        |> assign(:current_step, current_step + 1)
        |> assign(:changeset, changeset)
        |> assign(:form, to_form(changeset))}
@@ -77,15 +77,15 @@ IO.inspect("changeset INvalid")
   end
 
   defp do_finish(params, socket) do
-    changeset = Signup.full_changeset(socket.assigns.signup, params)
+    changeset = NewPerson.full_changeset(socket.assigns.new_person, params)
 
     if changeset.valid? do
-      signup = Ecto.Changeset.apply_changes(changeset)
-IO.inspect(signup, label: "save changeset")
+      new_person = Ecto.Changeset.apply_changes(changeset)
+IO.inspect(new_person, label: "save changeset")
       # Here you would create the real User + Profile records, etc.
       {:noreply,
        socket
-       |> put_flash(:info, "Signup complete")
+       |> put_flash(:info, "new_person complete")
        |> push_navigate(to: ~p"/")}
     else
       {:noreply,
