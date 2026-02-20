@@ -156,6 +156,7 @@ IO.inspect(children, label: "children")
     if changeset.valid? do
       new_person = Ecto.Changeset.apply_changes(changeset)
 IO.inspect(new_person, label: "save changeset")
+      AddPerson.save(new_person)
       # Here you would create the real User + Profile records, etc.
       {:noreply,
        socket
@@ -202,7 +203,27 @@ IO.inspect(new_person, label: "save changeset")
     father_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :father, parent_id)
     mother_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :mother, parent_id)
     # return sum of lists (one, maybe both, will be empty)
-    father_of ++ mother_of
+    children = father_of ++ mother_of
+    # turn list of children id's into text string of id and label for each
+    get_children("", children)
+  end
+
+  defp get_children(text, []) do
+    # no child left so done
+    text
+  end
+  defp get_children(text, [this | rest]) do
+    people = @data_path |> Code.eval_file() |> elem(0)
+    person = people[this]
+
+    text
+    <> "| "
+    <> inspect(this) # convert from atom to string
+    <> " "
+    <> person.label
+    <> " |"
+    # pipe result to next iteration
+    |> get_children(rest)
   end
 
 end

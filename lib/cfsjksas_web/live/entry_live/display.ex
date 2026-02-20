@@ -25,6 +25,9 @@ defmodule CfsjksasWeb.EntryLive.Display do
     ~H"""
     <div class="entered">
       <h1 style="font-size: 48px; color: darkblue;">Enter Person Data</h1>
+      <p>
+        Current Step: <%= @current_step %>
+      </p>
 
       <ul>
 
@@ -87,7 +90,7 @@ defmodule CfsjksasWeb.EntryLive.Display do
 
       <%= if @current_step > 7 do %>
               <li>
-                Ship: <strong><%= @new_person.ship %></strong>
+                Ship: <strong><%= @new_person.ship? %></strong>
               </li>
               <li>
                 Ship Name: <strong><%= @new_person.ship_name %></strong>

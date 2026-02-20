@@ -2,7 +2,12 @@ defmodule Cfsjksas.Ancestors.AddPerson do
   use Ecto.Schema
   import Ecto.Changeset
 
+  require IEx
+
   @id_regex ~r/^[a-z][0-9]{4}$/
+
+  @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "people2_ex.txt"])
+
 
   @primary_key false
   embedded_schema do
@@ -133,6 +138,54 @@ IO.inspect(attrs, label: "final attrs")
     |> validate_length(:ship_name, min: 1, message: "ship_name must be at least one character - use nil in unknown or na")
     |> validate_length(:ship_date, min: 1, message: "ship_date must be at least one character - use nil in unknown or na")
     |> validate_label(:label)
+  end
+
+  def save(new_person) do
+IO.inspect(new_person, label: "save: new_person")
+    people = @data_path |> Code.eval_file() |> elem(0)
+    # cleanup eg text to atoms
+    clean_person = clean_up(new_person)
+IO.inspect(clean_person, label: "save: clean_person")
+IEx.pry()
+  end
+
+  def clean_up(new_person) do
+    %{
+      id: String.to_existing_atom(new_person.id),
+      gender: new_person.gender,
+      birth_date: if_nil(new_person.birth_date),
+      birth_year: if_nil(new_person.birth_year),
+      birth_place: if_nil(new_person.birth_place),
+      death_date: if_nil(new_person.death_date),
+      death_year: if_nil(new_person.death_year),
+      death_place: if_nil(new_person.death_place),
+      father: update_parent(new_person.father),
+      mother: update_parent(new_person.mother),
+      label: new_person.label,
+    }
+    |> update_ship(new_person.ship?, new_person.ship_name, new_person.ship_date)
+
+  end
+
+  defp update_ship(person_map, false, _ship_name, _ship_date) do
+    person_map
+  end
+  defp update_ship(person_map, true, ship_name, ship_date) do
+    Map.put(person_map, :ship, %{ship_name: if_nil(ship_name), ship_date: if_nil(ship_date)})
+  end
+
+  defp update_parent("nil") do
+    nil
+  end
+  defp update_parent(text) do
+    String.to_existing_atom(text)
+  end
+
+  defp if_nil("nil") do
+    nil
+  end
+  defp if_nil(text) do
+    text
   end
 
   defp validate_label(changeset, field) do

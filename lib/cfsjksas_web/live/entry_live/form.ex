@@ -2,7 +2,7 @@ defmodule CfsjksasWeb.EntryLive.Form do
   use CfsjksasWeb, :live_view
 
   def entry(assigns) do
-        ~H"""
+    ~H"""
       <%= if @current_step > 1 do %>
         <.button type="button" phx-click="prev_step">Back</.button>
       <% end %>
@@ -38,16 +38,23 @@ defmodule CfsjksasWeb.EntryLive.Form do
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 6 -> %>
         <p></p>
+        <.input field={@form[:mother]} label="Mother" />
+        <.input field={@form[:father]} label="Father" />
+        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
+      <% @current_step == 7 -> %>
+        <p></p>
         <.input field={@form[:ship]} type="select"
           options={[{"True", true}, {"False", false}]} label="Ship?" />
         <.input field={@form[:ship_name]} label="Ship Name" />
         <.input field={@form[:ship_date]} label="Ship Date" />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
-      <% @current_step == 7 -> %>
+      <% @current_step == 8 -> %>
         <.input field={@form[:label]} label="Label" />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
-      <% true -> %>
+      <% @current_step == 9 -> %>
+        <p>
         Validate looks good, hit Finish to store
+        </p>
         <.button type="submit" name="add_person[action]" value="finish">Finish</.button>
 
       <% end %>

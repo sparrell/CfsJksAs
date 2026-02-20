@@ -66061,7 +66061,7 @@
 			family_of_procreation: [
 				:f338,
 			],
-			father: nil,
+			father: :p9970,
 			former_name: nil,
 			given_name: "Honour",
 			graduation: [
@@ -66080,7 +66080,7 @@
 			],
 			mh_id: "I1075",
 			mh_name: "Honour /Unknown123/",
-			mother: nil,
+			mother: :p9971,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
