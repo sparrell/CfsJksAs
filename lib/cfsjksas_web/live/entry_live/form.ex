@@ -52,6 +52,12 @@ defmodule CfsjksasWeb.EntryLive.Form do
         <.input field={@form[:label]} label="Label" />
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 9 -> %>
+        <.input field={@form[:geni]} label="Geni" />
+        <.input field={@form[:myheritage]} label="MyHeritage" />
+        <.input field={@form[:werelate]} label="WeRelate" />
+        <.input field={@form[:wikitree]} label="WikiTree" />
+        <.button type="submit" name="add_person[action]" value="next">Continue</.button>
+      <% @current_step == 10 -> %>
         <p>
         Validate looks good, hit Finish to store
         </p>

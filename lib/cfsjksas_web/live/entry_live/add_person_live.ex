@@ -37,6 +37,7 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
         6 -> AddPerson.step6_mom_dad_changeset(socket.assigns.new_person, params)
         7 -> AddPerson.step7_ship_changeset(socket.assigns.new_person, params)
         8 -> AddPerson.step8_label_changeset(socket.assigns.new_person, params)
+        9 -> AddPerson.step9_links_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
       |> Map.put(:action, :validate)
@@ -108,7 +109,6 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
 
       id_ok == :unused ->
         children = get_children(id_answer)
-IO.inspect(children, label: "children")
         {:noreply,
           socket
           |> assign(:children, children)
@@ -132,6 +132,7 @@ IO.inspect(children, label: "children")
         6 -> AddPerson.step6_mom_dad_changeset(socket.assigns.new_person, params)
         7 -> AddPerson.step7_ship_changeset(socket.assigns.new_person, params)
         8 -> AddPerson.step8_label_changeset(socket.assigns.new_person, params)
+        9 -> AddPerson.step9_links_changeset(socket.assigns.new_person, params)
         _ -> AddPerson.base_changeset(socket.assigns.new_person, params)
       end
 
@@ -198,32 +199,51 @@ IO.inspect(new_person, label: "save changeset")
   end
 
   defp get_children(parent_id) do
+    # make list of children from finding people with father or mother
     # don't bother figuring out gender, just do both
+    # add list of links of children
     people = @data_path |> Code.eval_file() |> elem(0)
     father_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :father, parent_id)
     mother_of = Cfsjksas.Ancestors.FilterMaps.people_with_key(people, :mother, parent_id)
     # return sum of lists (one, maybe both, will be empty)
     children = father_of ++ mother_of
-    # turn list of children id's into text string of id and label for each
-    get_children("", children)
+    # turn list of children id's into list of
+    ##  - text string of id and label for each
+    ##  - ditto for children's links
+    get_children([], children)
   end
 
-  defp get_children(text, []) do
+  # recurse thru each child
+  defp get_children(children_list, []) do
     # no child left so done
-    text
+    children_list
   end
-  defp get_children(text, [this | rest]) do
+  defp get_children(children_list_in, [this_child | rest_children]) do
     people = @data_path |> Code.eval_file() |> elem(0)
-    person = people[this]
+    person = people[this_child]
 
-    text
-    <> "| "
-    <> inspect(this) # convert from atom to string
-    <> " "
-    <> person.label
-    <> " |"
+    child_line = inspect(this_child) <> " " <> person.label
+
+    link_keys = Map.keys(person.links)
+
+    link_list = add_links([], link_keys, person.links)
+
+    # add childline and links and recurse
+    (children_list_in ++ [child_line] ++ link_list)
     # pipe result to next iteration
-    |> get_children(rest)
+    |> get_children(rest_children)
   end
+
+  defp add_links(link_list, [], _person) do
+    # done
+    link_list
+  end
+  defp add_links(link_list_in, [this_key | rest_keys], person) do
+    link = person[this_key]
+    link_list_out = link_list_in ++ [link]
+    # recurse to next key
+    add_links(link_list_out, rest_keys, person)
+  end
+
 
 end

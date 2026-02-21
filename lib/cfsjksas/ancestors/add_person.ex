@@ -27,6 +27,10 @@ defmodule Cfsjksas.Ancestors.AddPerson do
     field :ship_name, :string, default: "nil"
     field :ship_date, :string, default: "nil"
     field :label, :string
+    field :geni, :string, default: "nil"
+    field :myheritage, :string, default: "nil"
+    field :werelate, :string, default: "nil"
+    field :wikitree, :string, default: "nil"
   end
 
   # base cast
@@ -40,6 +44,7 @@ defmodule Cfsjksas.Ancestors.AddPerson do
                     :father, :mother,
                     :ship?, :ship_name, :ship_date,
                     :label,
+                    :geni, :myheritage, :werelate, :wikitree,
                     ])
   end
 
@@ -107,6 +112,16 @@ defmodule Cfsjksas.Ancestors.AddPerson do
     |> validate_label(:label)
   end
 
+  def step9_links_changeset(new_person, attrs) do
+    new_person
+    |> base_changeset(attrs)
+    |> validate_required([:geni, :myheritage, :werelate, :wikitree,])
+    |> validate_length(:geni, min: 3, message: "geni must be at least three characters")
+    |> validate_length(:myheritage, min: 3, message: "myheritage must be at least three characters")
+    |> validate_length(:werelate, min: 3, message: "werelate must be at least three characters")
+    |> validate_length(:wikitree, min: 3, message: "wikitree must be at least three characters")
+  end
+
   def full_changeset(new_person, attrs) do
 IO.inspect("final changeset")
 IO.inspect(new_person, label: "final new_person")
@@ -121,6 +136,7 @@ IO.inspect(attrs, label: "final attrs")
                     :father, :mother,
                     :ship?, :ship_name, :ship_date,
                     :label,
+                    :geni, :myheritage, :werelate, :wikitree,
                     ])
     |> validate_length(:id, is: 5)
     |> validate_format(:id, @id_regex, message: "must be one lowercase letter followed by 4 digits")
@@ -138,6 +154,10 @@ IO.inspect(attrs, label: "final attrs")
     |> validate_length(:ship_name, min: 1, message: "ship_name must be at least one character - use nil in unknown or na")
     |> validate_length(:ship_date, min: 1, message: "ship_date must be at least one character - use nil in unknown or na")
     |> validate_label(:label)
+    |> validate_length(:geni, min: 3, message: "geni must be at least three characters")
+    |> validate_length(:myheritage, min: 3, message: "myheritage must be at least three characters")
+    |> validate_length(:werelate, min: 3, message: "werelate must be at least three characters")
+    |> validate_length(:wikitree, min: 3, message: "wikitree must be at least three characters")
   end
 
   def save(new_person) do
@@ -191,7 +211,7 @@ IEx.pry()
   defp validate_label(changeset, field) do
     validate_change(changeset, field, fn ^field, value ->
       case String.split(value, ".", parts: 3) do
-        [<<"gen", rest::binary>>, mp_part, third] ->
+        [<<"gen", rest::binary>>, mp_part, _third] ->
           with {n, ""} when n >= 0 <- Integer.parse(rest),
                true <- String.length(mp_part) == n,
                true <- n <= 15,

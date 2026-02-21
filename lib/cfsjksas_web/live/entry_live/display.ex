@@ -84,8 +84,13 @@ defmodule CfsjksasWeb.EntryLive.Display do
                 Father: <strong><%= @new_person.father %></strong>
               </li>
               <li>
-                Children: <strong><%= @children %></strong>
+                Children:
               </li>
+              <%= for line <- @children do %>
+                <li>
+                  <%= line %>
+                </li>
+              <% end %>
       <% end %>
 
       <%= if @current_step > 7 do %>
@@ -103,6 +108,21 @@ defmodule CfsjksasWeb.EntryLive.Display do
       <%= if @current_step > 8 do %>
               <li>
                 Label: <strong><%= @new_person.label %></strong>
+              </li>
+      <% end %>
+
+      <%= if @current_step > 9 do %>
+              <li>
+                Label: <strong><%= @new_person.geni %></strong>
+              </li>
+              <li>
+                Label: <strong><%= @new_person.myheritage %></strong>
+              </li>
+              <li>
+                Label: <strong><%= @new_person.werelate %></strong>
+              </li>
+              <li>
+                Label: <strong><%= @new_person.wikitree %></strong>
               </li>
       <% end %>
 
