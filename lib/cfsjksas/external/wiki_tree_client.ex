@@ -12,7 +12,6 @@ defmodule CfsJksAs.External.WikiTreeClient do
     * LOGIN_EMAIL
     * LOGIN_PASSWORD
   """
-
   require Logger
 
   @api_url "https://api.wikitree.com/api.php"
@@ -102,7 +101,7 @@ defmodule CfsJksAs.External.WikiTreeClient do
       "wpPassword" => password
     }
 
-    case Req.post(@api_url, form: form, redirect: false) do
+    case post_request(form: form, redirect: false) do
       {:ok, resp} when resp.status == 302 ->
         location =
           resp.headers
@@ -131,7 +130,7 @@ defmodule CfsJksAs.External.WikiTreeClient do
   defp finalize_auth(authcode) do
     form = %{"action" => "clientLogin", "authcode" => authcode, "decode_body" => false}
 
-    case Req.post(@api_url, form: form, redirect: false) do
+    case post_request(form: form, redirect: false) do
       {:ok, resp} when resp.status in 200..302 ->
         if is_successful?(resp) do
           resp = build_response(resp)
@@ -187,5 +186,14 @@ defmodule CfsJksAs.External.WikiTreeClient do
       user_id: body["clientLogin"]["userid"],
       cookie_header: build_cookie_header(cookies)
     }
+  end
+
+  defp post_request(options) do
+    base_options = [url: @api_url]
+
+    base_options
+    |> Keyword.merge(options)
+    |> Keyword.merge(Application.get_env(:cfsjksas, :wiki_tree_req_options, []))
+    |> Req.post()
   end
 end
