@@ -113,16 +113,16 @@ defmodule CfsjksasWeb.EntryLive.Display do
 
       <%= if @current_step > 9 do %>
               <li>
-                Label: <strong><%= @new_person.geni %></strong>
+                Geni: <strong><%= @new_person.geni %></strong>
               </li>
               <li>
-                Label: <strong><%= @new_person.myheritage %></strong>
+                MyHeritage: <strong><%= @new_person.myheritage %></strong>
               </li>
               <li>
-                Label: <strong><%= @new_person.werelate %></strong>
+                WeRelate: <strong><%= @new_person.werelate %></strong>
               </li>
               <li>
-                Label: <strong><%= @new_person.wikitree %></strong>
+                Wikitree: <strong><%= @new_person.wikitree %></strong>
               </li>
       <% end %>
 

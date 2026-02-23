@@ -23,7 +23,7 @@ defmodule Cfsjksas.Ancestors.AddPerson do
     field :death_place, :string, default: "nil"
     field :father, :string, default: "nil"
     field :mother, :string, default: "nil"
-    field :ship?, Ecto.Enum, values: [true, false], default: false
+    field :ship?, Ecto.Enum, values: [true, false]
     field :ship_name, :string, default: "nil"
     field :ship_date, :string, default: "nil"
     field :label, :string
@@ -166,7 +166,11 @@ IO.inspect(new_person, label: "save: new_person")
     # cleanup eg text to atoms
     clean_person = clean_up(new_person)
 IO.inspect(clean_person, label: "save: clean_person")
-IEx.pry()
+    people
+    |> Map.put(new_person.id, new_person)
+    |> Cfsjksas.Tools.Print.format_ancestor_map()
+    |> Cfsjksas.Tools.Print.write_file(Path.join(:code.priv_dir(:cfsjksas), "static/data/people2_ex.txt"))
+
   end
 
   def clean_up(new_person) do
@@ -184,14 +188,62 @@ IEx.pry()
       label: new_person.label,
     }
     |> update_ship(new_person.ship?, new_person.ship_name, new_person.ship_date)
+    |> update_links(new_person)
 
   end
 
   defp update_ship(person_map, false, _ship_name, _ship_date) do
+    # no ship so don't add
     person_map
   end
   defp update_ship(person_map, true, ship_name, ship_date) do
+    # ship so add with data
     Map.put(person_map, :ship, %{ship_name: if_nil(ship_name), ship_date: if_nil(ship_date)})
+  end
+
+  defp update_links(person, new_person) do
+    links = %{}
+    |> update_geni(new_person.geni)
+    |> update_myheritage(new_person.myheritage)
+    |> update_werelate(new_person.werelate)
+    |> update_wikitree(new_person.wikitree)
+    Map.put(person, :links, links)
+  end
+
+  defp update_geni(link_map, "nil") do
+    # no link, leave unchanged
+    link_map
+  end
+  defp update_geni(link_map, link) do
+    # add link
+    Map.put(link_map, :geni, link)
+  end
+
+  defp update_myheritage(link_map, "nil") do
+    # no link, leave unchanged
+    link_map
+  end
+  defp update_myheritage(link_map, link) do
+    # add link
+    Map.put(link_map, :myheritage, link)
+  end
+
+  defp update_werelate(link_map, "nil") do
+    # no link, leave unchanged
+    link_map
+  end
+  defp update_werelate(link_map, link) do
+    # add link
+    Map.put(link_map, :werelate, link)
+  end
+
+  defp update_wikitree(link_map, "nil") do
+    # no link, leave unchanged
+    link_map
+  end
+  defp update_wikitree(link_map, link) do
+    # add link
+    Map.put(link_map, :wikitree, link)
   end
 
   defp update_parent("nil") do

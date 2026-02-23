@@ -43,7 +43,7 @@ defmodule CfsjksasWeb.EntryLive.Form do
         <.button type="submit" name="add_person[action]" value="next">Continue</.button>
       <% @current_step == 7 -> %>
         <p></p>
-        <.input field={@form[:ship]} type="select"
+        <.input field={@form[:ship?]} type="select"
           options={[{"True", true}, {"False", false}]} label="Ship?" />
         <.input field={@form[:ship_name]} label="Ship Name" />
         <.input field={@form[:ship_date]} label="Ship Date" />
