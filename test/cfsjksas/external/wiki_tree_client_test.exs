@@ -58,6 +58,14 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
                WikiTreeClient.authenticate(@user.email, @user.password)
     end
 
+    test "returns error for an email of a none existing user" do
+      # Step 1 - Get the auth code
+      auth_request()
+
+      assert {:error, _reason} =
+               WikiTreeClient.authenticate("some_email@email.com", "some_password")
+    end
+
     test "returns error when both args are nil" do
       assert {:error, :missing_credentials} = WikiTreeClient.authenticate(nil, nil)
     end
@@ -71,6 +79,37 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
     end
   end
 
+  describe "get_profile/2" do
+    test "returns an empty profile for a non existence user" do
+      key = "example_key"
+      #mock profile data
+      profile_data(key)
+      assert {:error, _reason} = WikiTreeClient.get_profile(key)
+    end
+
+    test "returns a user profile details for unauthenticated user" do
+       #mock profile data
+      profile_data(@user.name)
+
+     {ok, result} = WikiTreeClient.get_profile(@user.name)
+
+     assert result.["page_name"] == @user.name
+
+     result_profile = result["profile"]
+
+     assert result_profile["Name"] == @user.name
+     assert result_profile["FirstName"] == "Simba"
+      assert result_profile["BirthDate"] == "1990-00-00"
+      assert result_profile["Id"] == 49_486_485
+      assert result_profile["LastNameAtBirth"] == "simba last name"
+
+    end
+
+
+    test "returns a user profile  details for an authenticated user" do
+    end
+  end
+
   defp auth_request do
     Req.Test.expect(WikiTreeClient, fn conn ->
       assert conn.method == "POST"
@@ -78,9 +117,13 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
       assert conn.params["action"] == "clientLogin"
       assert conn.params["doLogin"] == "1"
 
-      conn
-      |> Plug.Conn.put_resp_header("location", "https://example.com?authcode=#{@auth_code}")
-      |> Plug.Conn.send_resp(302, "get auth code")
+      if expected_user?(conn.params) do
+        conn
+        |> Plug.Conn.put_resp_header("location", "https://example.com?authcode=#{@auth_code}")
+        |> Plug.Conn.send_resp(302, "get auth code")
+      else
+        Plug.Conn.send_resp(conn, 200, "auth code")
+      end
     end)
   end
 
@@ -99,6 +142,35 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
       conn
       |> Plug.Conn.put_resp_header("set-cookie", @cookie_header)
       |> Req.Test.json(body)
+    end)
+  end
+
+  defp expected_user?(params) do
+    params["wpEmail"] == @user.email && params["wpPassword"] == @user.password
+  end
+
+  defp profile_data(key) do
+    profile_details =
+      if key == @user.name do
+        %{
+          "page_name" => key,
+          "profile" => %{
+            "BirthDate" => "1990-00-00",
+            "FirstName" => "Simba",
+            "Id" => 49_486_485,
+            "LastNameAtBirth" => "simba last name",
+            "LastNameCurrent" => "simab last name",
+            "Name" => @user.name
+          },
+          "status" => 0
+        }
+      else
+        %{"page_name" => "key", "status" => "Invalid WikiTree ID"}
+      end
+
+    Req.Test.expect(WikiTreeClient, fn conn ->
+      assert conn.body_params["action"] == "getProfile"
+      Req.Test.json(conn, [profile_details])
     end)
   end
 end

@@ -80,9 +80,12 @@ defmodule CfsJksAs.External.WikiTreeClient do
         _ -> []
       end
 
-    case Req.post(@api_url, form: form, headers: headers) do
+      case post_request(form: form, headers: headers) do
       {:ok, %{status: 200, body: body}} when is_list(body) ->
         # TODO: Check this as Python example returns a list; first element is the result map
+        # The status of the user profile is returned in body params as either
+        # "status" => "Invalid WikiTree ID" or "status" => 0.
+
         {:ok, List.first(body)}
 
       {:ok, %{status: status, body: body}} ->
@@ -195,5 +198,6 @@ defmodule CfsJksAs.External.WikiTreeClient do
     |> Keyword.merge(options)
     |> Keyword.merge(Application.get_env(:cfsjksas, :wiki_tree_req_options, []))
     |> Req.post()
+    |> IO.inspect()
   end
 end
