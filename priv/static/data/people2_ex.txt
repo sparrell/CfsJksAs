@@ -38445,6 +38445,25 @@
 			will: [
 			],
 		},
+		##############  Esther Lawrence
+		p9971: %{
+			birth_date: "abt 1709",
+			birth_place: nil,
+			birth_year: "1709",
+			death_date: "aft 1767",
+			death_place: "Voluntown, New London, Connecticut",
+			death_year: "1767",
+			father: :p9967,
+			gender: :female,
+			given_name: "Esther",
+			id: :p9971,
+			label: "gen8.MMPMMMMM.Esther_Lawrence",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Lawrence-6157",
+			},
+			mother: :p9966,
+			surname: "Lawrence",
+		},
 		##############  Catherine Lay
 		p0377: %{
 			also_known_as: nil,

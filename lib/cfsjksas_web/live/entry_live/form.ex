@@ -3,6 +3,7 @@ defmodule CfsjksasWeb.EntryLive.Form do
 
   def entry(assigns) do
     ~H"""
+    <div class="dark-page">
       <%= if @current_step > 1 do %>
         <.button type="button" phx-click="prev_step">Back</.button>
       <% end %>
@@ -64,6 +65,7 @@ defmodule CfsjksasWeb.EntryLive.Form do
         <.button type="submit" name="add_person[action]" value="finish">Finish</.button>
 
       <% end %>
+    </div>
 
     """
   end

@@ -167,7 +167,7 @@ IO.inspect(new_person, label: "save: new_person")
     clean_person = clean_up(new_person)
 IO.inspect(clean_person, label: "save: clean_person")
     people
-    |> Map.put(new_person.id, new_person)
+    |> Map.put(clean_person.id, clean_person)
     |> Cfsjksas.Tools.Print.format_ancestor_map()
     |> Cfsjksas.Tools.Print.write_file(Path.join(:code.priv_dir(:cfsjksas), "static/data/people2_ex.txt"))
 
@@ -176,6 +176,8 @@ IO.inspect(clean_person, label: "save: clean_person")
   def clean_up(new_person) do
     %{
       id: String.to_existing_atom(new_person.id),
+      given_name: new_person.given_name,
+      surname: new_person.surname,
       gender: new_person.gender,
       birth_date: if_nil(new_person.birth_date),
       birth_year: if_nil(new_person.birth_year),
