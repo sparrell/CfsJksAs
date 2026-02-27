@@ -5030,6 +5030,122 @@
 			will: [
 			],
 		},
+		##############  Enoch Ballard
+		p9970: %{
+			birth_date: "3 Jun 1685",
+			birth_place: "Andover, Essex, Massachusetts",
+			birth_year: "1685",
+			death_date: "1767",
+			death_place: "Voluntown, New London, Connecticut",
+			death_year: "1767",
+			father: :p9969,
+			gender: :male,
+			given_name: "Enoch",
+			id: :p9970,
+			label: "gen8.MMPMMMMP.Enoch_Ballard",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Ballard-8609",
+			},
+			mother: :p9968,
+			surname: "Ballard",
+		},
+		##############  Honour Ballard
+		p0815: %{
+			also_known_as: "Hester",
+			baptism: nil,
+			birth_date: "3 Jul 1735",
+			birth_note: nil,
+			birth_place: "Plainfield, Windham, Connecticut",
+			birth_source: nil,
+			birth_year: "1735",
+			buried: nil,
+			census: [
+			],
+			christening: nil,
+			death_age: nil,
+			death_cause: nil,
+			death_date: "bef 1790",
+			death_note: nil,
+			death_place: "Voluntown, Windham, Connecticut",
+			death_source: nil,
+			death_year: "1790",
+			description: nil,
+			education: [
+			],
+			emigration: [
+			],
+			event: [
+			],
+			family_of_origin: nil,
+			family_of_procreation: [
+				:f338,
+			],
+			father: :p9970,
+			former_name: nil,
+			given_name: "Honour",
+			graduation: [
+			],
+			id: :p0815,
+			immigration: nil,
+			label: "gen7.MMPMMMM.Honour_Ballard",
+			links: %{
+				werelate: "https://www.werelate.org/wiki/Person:Honour_Unknown_%2810%29",
+				wikitree: "https://www.wikitree.com/wiki/Ballard-10563",
+			},
+			married_name: nil,
+			mh_famc: nil,
+			mh_famc2: nil,
+			mh_fams: [
+				"F368",
+			],
+			mh_id: "I1075",
+			mh_name: "Honour /Unknown123/",
+			mother: :p9971,
+			name_prefix: nil,
+			name_suffix: nil,
+			naturalized: nil,
+			nickname: nil,
+			notes: [
+			],
+			occupation: [
+			],
+			ordained: [
+			],
+			probate: nil,
+			religion: nil,
+			residence: [
+			],
+			rin: "MH:I1075",
+			sex: "F",
+			sources: [
+			],
+			surname: "Ballard",
+			title: nil,
+			uid: "2DD48163-E44B-45EE-AA56-D316969D496E",
+			upd: nil,
+			will: [
+			],
+		},
+		##############  William Ballard Jr
+		p9969: %{
+			birth_date: "abt 1643",
+			birth_place: "Andover, Essex County, Massachusetts",
+			birth_year: "1643",
+			death_date: "1723",
+			death_place: "Plainfield, Windham, Connecticut",
+			death_year: "1723",
+			father: :p9957,
+			gender: :male,
+			given_name: "William",
+			id: :p9969,
+			label: "gen9.MMPMMMMPP.William_Ballard_Jr",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Ballard-55",
+			},
+			mother: :p9956,
+			name_suffix: "Jr",
+			surname: "Ballard",
+		},
 		##############  George Barrell
 		p0181: %{
 			also_known_as: nil,
@@ -9085,7 +9201,7 @@
 			mh_name: "William /Bradford/",
 			mother: :p0993,
 			name_prefix: nil,
-			name_suffix: "Jr.",
+			name_suffix: "Jr",
 			naturalized: nil,
 			nickname: nil,
 			notes: [
@@ -38293,6 +38409,25 @@
 			will: [
 			],
 		},
+		##############  Daniel Lawrence
+		p9967: %{
+			birth_date: "abt 1684",
+			birth_place: "Groton, Middlesex, Massachusetts",
+			birth_year: "1684",
+			death_date: "8 Apr 1747",
+			death_place: "Killingly, Windham, Connecticut",
+			death_year: "1747",
+			father: :p9965,
+			gender: :male,
+			given_name: "Daniel",
+			id: :p9967,
+			label: "gen9.MMPMMMMMP.Daniel_Lawrence",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Lawrence-6155",
+			},
+			mother: :p9964,
+			surname: "Lawrence",
+		},
 		##############  David Lawrence
 		p0777: %{
 			also_known_as: nil,
@@ -50886,7 +51021,7 @@
 			mh_name: "John /Rogers/",
 			mother: :p0996,
 			name_prefix: nil,
-			name_suffix: "Jr.",
+			name_suffix: "Jr",
 			naturalized: nil,
 			nickname: nil,
 			notes: [
@@ -66049,82 +66184,6 @@
 			will: [
 			],
 		},
-		##############  Honour Unknown123
-		p0815: %{
-			also_known_as: nil,
-			baptism: nil,
-			birth_date: nil,
-			birth_note: nil,
-			birth_place: nil,
-			birth_source: nil,
-			birth_year: "?",
-			buried: nil,
-			census: [
-			],
-			christening: nil,
-			death_age: nil,
-			death_cause: nil,
-			death_date: nil,
-			death_note: nil,
-			death_place: nil,
-			death_source: nil,
-			death_year: "?",
-			description: nil,
-			education: [
-			],
-			emigration: [
-			],
-			event: [
-			],
-			family_of_origin: nil,
-			family_of_procreation: [
-				:f338,
-			],
-			father: :p9970,
-			former_name: nil,
-			given_name: "Honour",
-			graduation: [
-			],
-			id: :p0815,
-			immigration: nil,
-			label: "gen7.MMPMMMM.Honour_Unknown123",
-			links: %{
-				werelate: "https://www.werelate.org/wiki/Person:Honour_Unknown_%2810%29",
-			},
-			married_name: nil,
-			mh_famc: nil,
-			mh_famc2: nil,
-			mh_fams: [
-				"F368",
-			],
-			mh_id: "I1075",
-			mh_name: "Honour /Unknown123/",
-			mother: :p9971,
-			name_prefix: nil,
-			name_suffix: nil,
-			naturalized: nil,
-			nickname: nil,
-			notes: [
-			],
-			occupation: [
-			],
-			ordained: [
-			],
-			probate: nil,
-			religion: nil,
-			residence: [
-			],
-			rin: "MH:I1075",
-			sex: "F",
-			sources: [
-			],
-			surname: "Unknown123",
-			title: nil,
-			uid: "2DD48163-E44B-45EE-AA56-D316969D496E",
-			upd: nil,
-			will: [
-			],
-		},
 		##############  Prudence Unknown124-*
 		p0218: %{
 			also_known_as: nil,
@@ -69803,6 +69862,25 @@
 			upd: nil,
 			will: [
 			],
+		},
+		##############  Mary Wheelock
+		p9966: %{
+			birth_date: "16 Aug 1686",
+			birth_place: "Medfield, Suffolk, Massachusetts",
+			birth_year: "1686",
+			death_date: "bef 1710",
+			death_place: nil,
+			death_year: "1710",
+			father: :p9962,
+			gender: :female,
+			given_name: "Mary",
+			id: :p9966,
+			label: "gen9.MMPMMMMMM.Mary_Wheelock",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Wheelock-606",
+			},
+			mother: :p9963,
+			surname: "Wheelock",
 		},
 		##############  John Whipple
 		p0629: %{

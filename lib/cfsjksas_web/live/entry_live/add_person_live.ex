@@ -158,11 +158,10 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
       new_person = Ecto.Changeset.apply_changes(changeset)
 IO.inspect(new_person, label: "save changeset")
       AddPerson.save(new_person)
-      # Here you would create the real User + Profile records, etc.
       {:noreply,
        socket
        |> put_flash(:info, "new_person complete")
-       |> push_navigate(to: ~p"/")}
+       |> push_navigate(to: ~p"/entry")}
     else
       {:noreply,
        socket
