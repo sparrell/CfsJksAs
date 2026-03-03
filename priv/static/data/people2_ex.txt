@@ -8626,6 +8626,29 @@
 			will: [
 			],
 		},
+		##############  Sarah Bowen
+		p9958: %{
+			birth_date: "abt 1624",
+			birth_place: "Britain",
+			birth_year: "1624",
+			death_date: "14 Oct 1676",
+			death_place: "Rehoboth, Plymouth, Massachusetts",
+			death_year: "1676",
+			father: :ship,
+			gender: :female,
+			given_name: "Sarah",
+			id: :p9958,
+			label: "gen11.MMPMMMMMMMM.Sarah_Bowen",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Bowen-709",
+			},
+			mother: :ship,
+			ship: %{
+				ship_date: nil,
+				ship_name: nil,
+			},
+			surname: "Bowen",
+		},
 		##############  Abigail Bowker
 		p0431: %{
 			also_known_as: nil,
@@ -24909,7 +24932,7 @@
 			links: %{
 				wikitree: "https://www.wikitree.com/wiki/Fuller-1133",
 			},
-			mother: nil,
+			mother: :p9958,
 			surname: "Fuller",
 		},
 		##############  Robert Fuller
@@ -35073,6 +35096,29 @@
 			upd: nil,
 			will: [
 			],
+		},
+		##############  Elizabeth Jasper
+		p9948: %{
+			birth_date: "bef 30 Jan 1580",
+			birth_place: "Redgrave, Suffolk, England",
+			birth_year: "1580",
+			death_date: "26 Jun 1654",
+			death_place: "Medfield, Suffolk, Massachusetts",
+			death_year: "1654",
+			father: :ship,
+			gender: :female,
+			given_name: "Elizabeth",
+			id: :p9948,
+			label: "gen12.MMPMMMMMPMPM.Elizabeth_Jasper",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Jasper-52",
+			},
+			mother: :ship,
+			ship: %{
+				ship_date: "1635",
+				ship_name: "Increase",
+			},
+			surname: "Jasper",
 		},
 		##############  John Jenner
 		p0702: %{
@@ -45606,6 +45652,52 @@
 				wikitree: "https://www.wikitree.com/wiki/Morse-1504",
 			},
 			mother: :p9950,
+			surname: "Morse",
+		},
+		##############  Joseph Morse
+		p9951: %{
+			birth_date: "1613",
+			birth_place: "England",
+			birth_year: "1613",
+			death_date: "1654",
+			death_place: nil,
+			death_year: "1654",
+			father: :p9949,
+			gender: :male,
+			given_name: "Joseph",
+			id: :p9951,
+			label: "gen11.MMPMMMMMPMP.Joseph_Morse",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Morse-1010",
+			},
+			mother: :p9948,
+			ship: %{
+				ship_date: nil,
+				ship_name: nil,
+			},
+			surname: "Morse",
+		},
+		##############  Samuel Morse
+		p9949: %{
+			birth_date: "12 Jun 1576",
+			birth_place: "Boxted, Essex, England",
+			birth_year: "1576",
+			death_date: "5 Dec 1654",
+			death_place: "Medfield, Suffolk, Massachusetts",
+			death_year: "1654",
+			father: :ship,
+			gender: :male,
+			given_name: "Samuel",
+			id: :p9949,
+			label: "gen12.MMPMMMMMPMPP.Samuel_Morse",
+			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Morse-1198",
+			},
+			mother: :ship,
+			ship: %{
+				ship_date: "1635",
+				ship_name: "Increase",
+			},
 			surname: "Morse",
 		},
 		##############  Priscilla Mullins
