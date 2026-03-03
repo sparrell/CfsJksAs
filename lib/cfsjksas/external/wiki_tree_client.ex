@@ -66,12 +66,13 @@ defmodule CfsJksAs.External.WikiTreeClient do
   """
   @spec get_profile(String.t(), session() | nil) :: {:ok, map()} | {:error, term()}
   def get_profile(key, session \\ nil) do
-    fields = "Id,Name,FirstName,LastNameAtBirth,LastNameCurrent,BirthDate"
+    fields = "Id,Name,FirstName,LastNameAtBirth,LastNameCurrent,BirthDate,Privacy"
 
     form = %{
       "action" => "getProfile",
       "key" => key,
-      "fields" => fields
+      "fields" => fields,
+      "appId" => "getProfileData"
     }
 
     headers =
@@ -80,13 +81,11 @@ defmodule CfsJksAs.External.WikiTreeClient do
         _ -> []
       end
 
-      case post_request(form: form, headers: headers) do
-      {:ok, %{status: 200, body: body}} when is_list(body) ->
-        # TODO: Check this as Python example returns a list; first element is the result map
+    case post_request(form: form, headers: headers) do
+      {:ok, %{status: 200, body: body}} = response when is_list(body) ->
         # The status of the user profile is returned in body params as either
         # "status" => "Invalid WikiTree ID" or "status" => 0.
-
-        {:ok, List.first(body)}
+        process_profile(response)
 
       {:ok, %{status: status, body: body}} ->
         {:error, {:http_status, status, body}}
@@ -101,7 +100,8 @@ defmodule CfsJksAs.External.WikiTreeClient do
       "action" => "clientLogin",
       "doLogin" => "1",
       "wpEmail" => email,
-      "wpPassword" => password
+      "wpPassword" => password,
+      "appId" => "getAuth"
     }
 
     case post_request(form: form, redirect: false) do
@@ -131,7 +131,12 @@ defmodule CfsJksAs.External.WikiTreeClient do
   end
 
   defp finalize_auth(authcode) do
-    form = %{"action" => "clientLogin", "authcode" => authcode, "decode_body" => false}
+    form = %{
+      "action" => "clientLogin",
+      "authcode" => authcode,
+      "decode_body" => false,
+      "appId" => "finalizeAuth"
+    }
 
     case post_request(form: form, redirect: false) do
       {:ok, resp} when resp.status in 200..302 ->
@@ -198,6 +203,51 @@ defmodule CfsJksAs.External.WikiTreeClient do
     |> Keyword.merge(options)
     |> Keyword.merge(Application.get_env(:cfsjksas, :wiki_tree_req_options, []))
     |> Req.post()
-    |> IO.inspect()
+  end
+
+  defp process_profile({:ok, %Req.Response{body: body} = resp}) do
+    profile = List.first(body)
+    key = profile["page_name"]
+
+    case profile["status"] do
+      "Invalid WikiTree ID" ->
+        Logger.warning("WikiTree: The user with the key: #{key} does not exists")
+        {:error, "Wiki tree user with the key: #{key} does not exist"}
+
+      _ ->
+        add_logger_info(resp, profile)
+        {:ok, build_profile(profile)}
+    end
+  end
+
+  defp build_profile(profile) do
+    update_in(profile, ["profile"], fn profile_data ->
+      Map.reject(profile_data, fn {key, _value} -> String.starts_with?(key, "Privacy") end)
+    end)
+  end
+
+  defp add_logger_info(resp, profile) do
+    key = profile["page_name"]
+    privacy = Map.get(profile["profile"], "Privacy")
+
+    cond do
+      # when the privacy is 50, this is a public profiles. Not option for living people.
+      privacy == 50 ->
+        Logger.info("You are accessing a public wikitree profile for  the user #{key}")
+
+      # when the privacy is 60, this is an open profiles. Not option for living people.
+      privacy == 60 ->
+        Logger.info("You are accessing an open wikitree profile for the user #{key}")
+
+      # private profiles that are not authenticated
+      map_size(cookies_from_response(resp)) == 0 ->
+        Logger.warning(
+          "WikiTree: The user with the key: #{key} has a private profile.Authenticate to
+       see the full user profile"
+        )
+
+      true ->
+        Logger.info("WikiTree: #{key} is authenticated.Fetching the user profile")
+    end
   end
 end

@@ -80,33 +80,74 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
   end
 
   describe "get_profile/2" do
-    test "returns an empty profile for a non existence user" do
+    test "returns error message for user with key that does not exists" do
       key = "example_key"
-      #mock profile data
-      profile_data(key)
-      assert {:error, _reason} = WikiTreeClient.get_profile(key)
+      # mock profile data
+      profile_data(key, :non_existing)
+
+      assert {:error, reason} = WikiTreeClient.get_profile(key)
+      assert reason == "Wiki tree user with the key: #{key} does not exist"
     end
 
-    test "returns a user profile details for unauthenticated user" do
-       #mock profile data
-      profile_data(@user.name)
+    test "returns full user profile details for public profiles" do
+      key = "windsor"
+      # mock profile data
+      profile_data(key, :public)
 
-     {ok, result} = WikiTreeClient.get_profile(@user.name)
+      assert {:ok, result} = WikiTreeClient.get_profile(key)
+      assert result["page_name"] == key
 
-     assert result.["page_name"] == @user.name
+      profile = result["profile"]
 
-     result_profile = result["profile"]
-
-     assert result_profile["Name"] == @user.name
-     assert result_profile["FirstName"] == "Simba"
-      assert result_profile["BirthDate"] == "1990-00-00"
-      assert result_profile["Id"] == 49_486_485
-      assert result_profile["LastNameAtBirth"] == "simba last name"
-
+      assert profile["Name"] == @user.name
+      assert profile["FirstName"] == "Simba"
+      assert profile["BirthDate"] == "1990-00-00"
+      assert profile["Id"] == 49_486_485
+      assert profile["LastNameAtBirth"] == "simba last name"
+      assert profile["LastNameCurrent"] == "simab last name"
     end
 
+    test "returns limited user profile details for unauthenticated user" do
+      #   #mock profile data
+      key = @user.name
 
-    test "returns a user profile  details for an authenticated user" do
+      profile_data(key, :private, false)
+
+      assert {:ok, result} = WikiTreeClient.get_profile(key)
+      assert result["page_name"] == key
+
+      profile = result["profile"]
+
+      assert profile["Name"] == @user.name
+      assert profile["Id"] == 49_486_485
+
+      refute profile["FirstName"]
+      refute profile["BirthDate"]
+      refute profile["LastNameAtBirth"]
+      refute profile["LastNameCurrent"]
+    end
+
+    test "returns a full user profile  details for a authenticated user" do
+      #   #mock profile data
+      key = @user.name
+
+      profile_data(key, :private, true)
+
+      session = %{
+        cookies: %{"wikitree_wtb__session" => "2aievg24"},
+        cookie_header: @cookie_header
+      }
+
+      assert {:ok, result} = WikiTreeClient.get_profile(key, session)
+      assert result["page_name"] == key
+
+      profile = result["profile"]
+      assert profile["Name"] == @user.name
+      assert profile["FirstName"] == "Simba"
+      assert profile["BirthDate"] == "1990-00-00"
+      assert profile["Id"] == 49_486_485
+      assert profile["LastNameAtBirth"] == "simba last name"
+      assert profile["LastNameCurrent"] == "simab last name"
     end
   end
 
@@ -149,28 +190,55 @@ defmodule CfsJksAs.External.WikiTreeClientTest do
     params["wpEmail"] == @user.email && params["wpPassword"] == @user.password
   end
 
-  defp profile_data(key) do
-    profile_details =
-      if key == @user.name do
-        %{
-          "page_name" => key,
-          "profile" => %{
-            "BirthDate" => "1990-00-00",
-            "FirstName" => "Simba",
-            "Id" => 49_486_485,
-            "LastNameAtBirth" => "simba last name",
-            "LastNameCurrent" => "simab last name",
-            "Name" => @user.name
-          },
-          "status" => 0
-        }
-      else
-        %{"page_name" => "key", "status" => "Invalid WikiTree ID"}
-      end
+  defp profile_data(key, type, auth \\ false) do
+    profile_details = build_profile_details(key, type, auth)
 
     Req.Test.expect(WikiTreeClient, fn conn ->
       assert conn.body_params["action"] == "getProfile"
       Req.Test.json(conn, [profile_details])
     end)
+  end
+
+  defp build_profile_details(key, :non_existing, _),
+    do: %{"page_name" => key, "status" => "Invalid WikiTree ID"}
+
+  defp build_profile_details(key, :private, true) do
+    %{
+      "page_name" => key,
+      "profile" => full_profile(),
+      "status" => 0
+    }
+  end
+
+  defp build_profile_details(key, :private, false) do
+    %{
+      "page_name" => key,
+      "profile" => %{
+        "Id" => 49_486_485,
+        "Name" => @user.name
+      },
+      "status" => 0
+    }
+  end
+
+  defp build_profile_details(key, :public, _) do
+    profile = Map.merge(full_profile(), %{"Privacy" => 50})
+
+    %{
+      "page_name" => key,
+      "profile" => profile,
+      "status" => 0
+    }
+  end
+
+  defp full_profile do
+    %{
+      "BirthDate" => "1990-00-00",
+      "FirstName" => "Simba",
+      "Id" => 49_486_485,
+      "LastNameAtBirth" => "simba last name",
+      "LastNameCurrent" => "simab last name",
+      "Name" => @user.name
+    }
   end
 end
