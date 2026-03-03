@@ -51,7 +51,10 @@ defmodule CfsJksAs.External.WikiTreeClient do
 
         {:ok, response}
       else
-        {:error, reason} -> {:error, reason}
+        {:error, reason} ->
+          Logger.error("WikiTree: authentication failed", reason: reason)
+
+          {:error, reason}
       end
     end
   end
@@ -88,10 +91,13 @@ defmodule CfsJksAs.External.WikiTreeClient do
         process_profile(response)
 
       {:ok, %{status: status, body: body}} ->
+        Logger.error("WikiTree: Getting Profile failed", reason: {:http_status, status, body})
         {:error, {:http_status, status, body}}
 
-      {:error, err} ->
-        {:error, err}
+      {:error, reason} ->
+        Logger.error("WikiTree: Getting Profile failed", reason: reason)
+
+        {:error, reason}
     end
   end
 
@@ -211,7 +217,7 @@ defmodule CfsJksAs.External.WikiTreeClient do
 
     case profile["status"] do
       "Invalid WikiTree ID" ->
-        Logger.warning("WikiTree: The user with the key: #{key} does not exists")
+        Logger.error("WikiTree: The user with the key: #{key} does not exists")
         {:error, "Wiki tree user with the key: #{key} does not exist"}
 
       _ ->
@@ -241,7 +247,7 @@ defmodule CfsJksAs.External.WikiTreeClient do
 
       # private profiles that are not authenticated
       map_size(cookies_from_response(resp)) == 0 ->
-        Logger.warning(
+        Logger.notice(
           "WikiTree: The user with the key: #{key} has a private profile.Authenticate to
        see the full user profile"
         )
