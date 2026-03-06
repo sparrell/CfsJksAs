@@ -12,6 +12,7 @@ defmodule Cfsjksas.Ancestors.PeopleToLines do
   write_line_file(filename)
     put create_line output in a file
   """
+require IEx
 
   def create_lines() do
     # start with one person
@@ -51,6 +52,7 @@ defmodule Cfsjksas.Ancestors.PeopleToLines do
   end
   defp add_child(lines, [child | rest_children]) do
     # add mom then pop for this child
+
     lines
     |> add_mom(child)
     |> add_pop(child)
@@ -61,9 +63,13 @@ defmodule Cfsjksas.Ancestors.PeopleToLines do
     # add mom (if she exists) to lines
     child_id = lines[child_l]
     child_a = Cfsjksas.Ancestors.AgentStores.get_person_a(child_id)
-    # if no mom, return lines unchanged
+
     case child_a.mother do
       nil ->
+        # if no mom, return lines unchanged
+        lines
+      :ship ->
+        # ship for mom, ie beyond scope, return lines unchanged
         lines
       _ ->
         # need to add in mom at child_key_plus_m
@@ -80,6 +86,8 @@ defmodule Cfsjksas.Ancestors.PeopleToLines do
     # if no dad, return lines unchanged
     case child_a.father do
       nil ->
+        lines
+      :ship ->
         lines
       _ ->
         # need to add in mom at child_key_plus_p

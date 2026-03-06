@@ -138,6 +138,7 @@ defmodule Cfsjksas.Ancestors.Person do
   end
   defp brick_walls([id | rest], terminations) do
     person = Cfsjksas.Ancestors.AgentStores.get_person_a(id)
+    lines = Cfsjksas.Ancestors.AgentStores.id_a_to_line(id)
     termination = case categorize_person(id) do
       :not -> []      # intermediate person ie not a brickwall
       :ship -> []     # immigrant  ie not a brickwall
@@ -145,7 +146,8 @@ defmodule Cfsjksas.Ancestors.Person do
       :parent -> []   # parent of immigrant  ie not a brickwall
       :brickwall_both ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1),
+#        [{Enum.map(person.relation_list, &length/1),
+        [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),
@@ -153,7 +155,8 @@ defmodule Cfsjksas.Ancestors.Person do
 			  }]
       :brickwall_mother ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1),
+#        [{Enum.map(person.relation_list, &length/1),
+        [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),
@@ -161,7 +164,8 @@ defmodule Cfsjksas.Ancestors.Person do
 			  }]
       :brickwall_father ->
         # add data to list
-        [{Enum.map(person.relation_list, &length/1),
+#        [{Enum.map(person.relation_list, &length/1),
+        [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),

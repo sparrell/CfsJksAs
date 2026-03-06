@@ -1,5 +1,10 @@
 # junk file for notes for work in progress
 
+* remove C..Tools.Relation.ship_status since never called???
+* and remove what calls C..Tools.Relation.ship_status 
+
+remove all IEx.pry() # rm.
+
 ## brickwalls
 
 * father of Mary Powers

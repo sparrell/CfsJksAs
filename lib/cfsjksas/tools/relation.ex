@@ -82,7 +82,20 @@ defmodule Cfsjksas.Tools.Relation do
         mains
     end
     person_a = Cfsjksas.Ancestors.AgentStores.get_person_a(id_a)
-    immigrant = Map.has_key?(person_a, :ship)
+
+    # immigrant =
+    ## :no if no ship key
+    ## :ship if has ship key and ship_name != nil
+    ## :no_ship if has ship key and ship_name == nil
+    immigrant = cond do
+      not Map.has_key?(person_a, :ship) ->
+        :no
+      person_a.ship.name == nil ->
+        :no_ship
+      person_a.ship.name != nil ->
+        :ship
+    end
+
     brickwall = Cfsjksas.Tools.MarkedHelpers.is_brickwall(person_a)
 
     # add person's new fields
@@ -526,6 +539,7 @@ defmodule Cfsjksas.Tools.Relation do
   check ship status of a person
   """
   def ship_status(person) do
+IEx.pry() # rm.  remove whole function if never called and remove what calls it
     cond do
       not Map.has_key?(person, :ship) ->
         :no
