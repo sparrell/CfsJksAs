@@ -77,11 +77,9 @@ Cfsjksas.DevTools.AncestorRelations.check([:p0005])
 
 Cfsjksas.Ancestors.AgentStores.line_to_id_a() |> Cfsjksas.Ancestors.LinesToPeople.create_people_map()
 
-
 if person_a.id == :p0322, do: IEx.pry()
 
 if person_a.id == :p9951, do: IEx.pry()
-
 
 id_l
 {11, :nw, 891}
