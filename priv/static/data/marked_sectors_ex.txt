@@ -11055,12 +11055,12 @@
       sector: 579,
 	}
 	{11, :nw, 586} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
       gen: 11,
       id_a: :p0042,
       id_s: {11, :nw, 586},
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :nw,
       relation: [:p, :m, :p, :p, :m, :p, :p, :m, :p, :m, :p],
       sector: 586,
@@ -11071,7 +11071,7 @@
       gen: 11,
       id_a: :p0043,
       id_s: {11, :nw, 587},
-      immigrant: :no,
+      immigrant: :no_ship,
       quadrant: :nw,
       relation: [:p, :m, :p, :p, :m, :p, :p, :m, :p, :m, :m],
       sector: 587,

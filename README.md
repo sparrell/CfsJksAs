@@ -53,8 +53,21 @@ Application.start(:cfsjksas)
 
 ## update gigalixir
 
+* validate gigalixir set as remote
+  * git remote -v (see if already set as remote. If yes, done. If not continue to next bullet)
+  * gigalixir (ie validate gigalixir installed, and command works at shell prompt)
+  * gigalixir account (ie validate initialized with account info)
+  * gigalixir apps (list apps)
+  * gigalixir git:remote cfsjksas (adds remote)
+
 * git push gigalixir
 * Gigalixir[https://cfsjksas.gigalixirapp.com]
+
+* Check deploy status with:      gigalixir ps -a cfsjksas
+* Check your app logs with:      gigalixir logs -a cfsjksas
+* check page itself (incl that version updated)    cfsjksas.gigalixirapp.com/
+
+* once up and running, don't forget to update dev version to next number
 
 ## stack trace
 

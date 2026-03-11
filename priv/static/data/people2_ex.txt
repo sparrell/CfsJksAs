@@ -5144,8 +5144,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1634",
-				ship_name: "Mary and John",
+				date: "1634",
+				name: "Mary and John",
 			},
 			surname: "Ballard",
 		},
@@ -8644,8 +8644,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Bowen",
 		},
@@ -16377,8 +16377,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1637",
-				ship_name: nil,
+				date: "1637",
+				name: nil,
 			},
 			surname: "Clarke",
 		},
@@ -24953,8 +24953,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1638",
-				ship_name: "Bevis",
+				date: "1638",
+				name: "Bevis",
 			},
 			surname: "Fuller",
 		},
@@ -32392,8 +32392,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1635",
-				ship_name: "James",
+				date: "1635",
+				name: "James",
 			},
 			surname: "Hooper",
 		},
@@ -34590,6 +34590,8 @@
 			immigration: nil,
 			label: "gen11.PMPPMPPMPMM.Alice_Ingersoll",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000221/alice-ingersoll-walcott",
+				wikitree: "https://www.wikitree.com/wiki/Ingersoll-3",
 			},
 			married_name: nil,
 			mh_famc: "F480",
@@ -34616,6 +34618,10 @@
 			],
 			rin: "MH:I221",
 			sex: "F",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Ingersoll",
@@ -35115,8 +35121,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1635",
-				ship_name: "Increase",
+				date: "1635",
+				name: "Increase",
 			},
 			surname: "Jasper",
 		},
@@ -38793,8 +38799,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Lawrence",
 		},
@@ -42287,8 +42293,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Marshall",
 		},
@@ -45672,8 +45678,8 @@
 			},
 			mother: :p9948,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Morse",
 		},
@@ -45695,8 +45701,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1635",
-				ship_name: "Increase",
+				date: "1635",
+				name: "Increase",
 			},
 			surname: "Morse",
 		},
@@ -49191,8 +49197,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Phillips",
 		},
@@ -54346,7 +54352,7 @@
 			will: [
 			],
 		},
-		##############  Jeremiah Smith
+		##############  Jeremiah Smith-*
 		p0489: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -54386,7 +54392,9 @@
 			immigration: nil,
 			label: "gen11.PPPPPPMMMPP.Jeremiah_Smith",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000744/jeremiah-smith",
 				werelate: "https://www.werelate.org/wiki/Person:Jeremiah_Smith_%283%29",
+				wikitree: "https://www.wikitree.com/wiki/Smith-158654",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -54415,7 +54423,7 @@
 			sex: "M",
 			sources: [
 			],
-			surname: "Smith",
+			surname: "Smith-*",
 			title: nil,
 			uid: "986E63F0-CEF7-47A9-A9DC-87DEBE7907AF",
 			upd: nil,
@@ -62219,8 +62227,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Unknown001",
 		},
@@ -62398,12 +62406,12 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: nil,
-				ship_name: nil,
+				date: nil,
+				name: nil,
 			},
 			surname: "Unknown004",
 		},
-		##############  Abigail Unknown006
+		##############  Abigail Unknown006-*
 		p0490: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -62443,7 +62451,9 @@
 			immigration: nil,
 			label: "gen11.PPPPPPMMMPM.Abigail_Unknown006",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000745/abigail-unknown006-smith",
 				werelate: "https://www.werelate.org/wiki/Person:Abigail_Unknown_%2862%29",
+				wikitree: "https://www.wikitree.com/wiki/Unknown-424616",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -62472,7 +62482,7 @@
 			sex: "F",
 			sources: [
 			],
-			surname: "Unknown006",
+			surname: "Unknown006-*",
 			title: nil,
 			uid: "B0EA2EC3-93E1-4F3D-9897-29A78B5E8A4F",
 			upd: nil,
@@ -66636,7 +66646,7 @@
 			will: [
 			],
 		},
-		##############  Mary Unknown125
+		##############  Mary Unknown125-*
 		p0748: %{
 			also_known_as: nil,
 			baptism: nil,
@@ -66676,6 +66686,8 @@
 			immigration: nil,
 			label: "gen9.PPPPPPMPM.Mary_Unknown125",
 			links: %{
+				geni: "https://www.geni.com/people/Mary-Vinal/6000000022437553454",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001006/mary-unknown125-vinal",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -66704,7 +66716,7 @@
 			sex: "F",
 			sources: [
 			],
-			surname: "Unknown125",
+			surname: "Unknown125-*",
 			title: nil,
 			uid: "741C39A3-B9A7-480E-913F-FEBC26DE2295",
 			upd: nil,
@@ -67847,6 +67859,8 @@
 			immigration: nil,
 			label: "gen11.PMPPMPPMPMP.William_Walcott",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000220/william-walcott",
+				wikitree: "https://www.wikitree.com/wiki/Wolcott-214",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -67873,6 +67887,10 @@
 			],
 			rin: "MH:I220",
 			sex: "M",
+			ship: %{
+				name: nil,
+				year: nil,
+			},
 			sources: [
 			],
 			surname: "Walcott",
@@ -70294,8 +70312,8 @@
 			},
 			mother: :ship,
 			ship: %{
-				ship_date: "1637",
-				ship_name: nil,
+				date: "1637",
+				name: nil,
 			},
 			surname: "Wheelock",
 		},

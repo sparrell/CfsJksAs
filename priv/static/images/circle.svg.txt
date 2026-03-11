@@ -13180,9 +13180,9 @@ Joan Purchase (1578 - 1653)
 <clipPath id="sector_11_586_clip">
 <use href="#sector_11_586"/>
 </clipPath></defs>
-<use href="#sector_11_586" stroke="blue" stroke-width="10" fill="red" fill-opacity="100%" clip-path="url(#sector_11_586_clip)"/>
+<use href="#sector_11_586" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_586_clip)"/>
 <path id="ray_g11_s586" d="M 17058,4053 L 17397,5514" />
-<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s586" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 William Walcott (? - ?)
 </textPath>
@@ -13192,7 +13192,7 @@ William Walcott (? - ?)
 <clipPath id="sector_11_587_clip">
 <use href="#sector_11_587"/>
 </clipPath></defs>
-<use href="#sector_11_587" stroke="#FF6EC7" stroke-width="10" fill="none" fill-opacity="100%" clip-path="url(#sector_11_587_clip)"/>
+<use href="#sector_11_587" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_587_clip)"/>
 <path id="ray_g11_s587" d="M 17006,4065 L 17350,5525" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s587" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
@@ -21784,5 +21784,5 @@ Susanna Furner (? - 1620)
 <line id="g12_s63_g11_s62" x1="31144" y1="17617" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 <line id="g12_s62_g11_s62" x1="31155" y1="17670" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-03-06 00:48:37.445938Z -->
+<!-- made new svg at 2026-03-11 17:31:18.067670Z -->
 </svg>
