@@ -85,8 +85,8 @@ defmodule Cfsjksas.Tools.Relation do
 
     # immigrant =
     ## :no if no ship key
-    ## :ship if has ship key and ship_name != nil
-    ## :no_ship if has ship key and ship_name == nil
+    ## :ship if has ship key and name != nil
+    ## :no_ship if has ship key and name == nil
     immigrant = cond do
       not Map.has_key?(person_a, :ship) ->
         :no

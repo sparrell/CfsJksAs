@@ -5680,7 +5680,7 @@
 			family_of_procreation: [
 				:f411,
 			],
-			father: nil,
+			father: :p9945,
 			former_name: nil,
 			given_name: "Mary",
 			graduation: [
@@ -5699,7 +5699,7 @@
 			],
 			mh_id: "I1231",
 			mh_name: "Mary /Barstow/",
-			mother: nil,
+			mother: :p9944,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
@@ -5724,6 +5724,28 @@
 			upd: nil,
 			will: [
 			],
+		},
+		##############  Unknown Barstow-*
+		p9945: %{
+			birth_date: nil,
+			birth_place: nil,
+			birth_year: nil,
+			death_date: nil,
+			death_place: nil,
+			death_year: nil,
+			father: :ship,
+			gender: :male,
+			given_name: "Unknown",
+			id: :p9945,
+			label: "gen11.MMMPMMMPMMP.Unknown_Barstow",
+			links: %{
+			},
+			mother: :ship,
+			ship: %{
+				date: nil,
+				name: nil,
+			},
+			surname: "Barstow-*",
 		},
 		##############  Deborah Bartlett
 		p0621: %{
@@ -63221,6 +63243,28 @@
 			upd: nil,
 			will: [
 			],
+		},
+		##############  Unknown013 Unknown017-*
+		p9944: %{
+			birth_date: nil,
+			birth_place: nil,
+			birth_year: nil,
+			death_date: nil,
+			death_place: nil,
+			death_year: nil,
+			father: :ship,
+			gender: :female,
+			given_name: "Unknown013",
+			id: :p9944,
+			label: "gen11.MMMPMMMPMMM.Unknown013_Unknown017",
+			links: %{
+			},
+			mother: :ship,
+			ship: %{
+				date: nil,
+				name: nil,
+			},
+			surname: "Unknown017-*",
 		},
 		##############  Dorothy Unknown020
 		p0338: %{

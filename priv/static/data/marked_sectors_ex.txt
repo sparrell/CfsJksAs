@@ -7722,7 +7722,7 @@
       sector: 442,
 	}
 	{10, :nw, 443} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :redundant,
       gen: 10,
       id_a: :p0970,
@@ -9394,7 +9394,7 @@
       sector: 954,
 	}
 	{10, :se, 955} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
       gen: 10,
       id_a: :p0970,
@@ -12286,6 +12286,28 @@
       relation: [:p, :m, :m, :p, :m, :m, :m, :p, :m, :p, :m],
       sector: 885,
 	}
+	{11, :nw, 886} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      gen: 11,
+      id_a: :p9945,
+      id_s: {11, :nw, 886},
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: [:p, :m, :m, :p, :m, :m, :m, :p, :m, :m, :p],
+      sector: 886,
+	}
+	{11, :nw, 887} => %{
+      brickwall: false,
+      duplicate: :redundant,
+      gen: 11,
+      id_a: :p9944,
+      id_s: {11, :nw, 887},
+      immigrant: :no_ship,
+      quadrant: :nw,
+      relation: [:p, :m, :m, :p, :m, :m, :m, :p, :m, :m, :m],
+      sector: 887,
+	}
 	{11, :nw, 890} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -14584,6 +14606,28 @@
       quadrant: :se,
       relation: [:m, :m, :m, :p, :m, :m, :m, :p, :m, :p, :m],
       sector: 1909,
+	}
+	{11, :se, 1910} => %{
+      brickwall: false,
+      duplicate: :main,
+      gen: 11,
+      id_a: :p9945,
+      id_s: {11, :se, 1910},
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: [:m, :m, :m, :p, :m, :m, :m, :p, :m, :m, :p],
+      sector: 1910,
+	}
+	{11, :se, 1911} => %{
+      brickwall: false,
+      duplicate: :main,
+      gen: 11,
+      id_a: :p9944,
+      id_s: {11, :se, 1911},
+      immigrant: :no_ship,
+      quadrant: :se,
+      relation: [:m, :m, :m, :p, :m, :m, :m, :p, :m, :m, :m],
+      sector: 1911,
 	}
 	{11, :se, 1914} => %{
       brickwall: false,

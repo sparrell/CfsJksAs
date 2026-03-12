@@ -11366,9 +11366,9 @@ William Ingraham (? - 1721)
 <clipPath id="sector_10_955_clip">
 <use href="#sector_10_955"/>
 </clipPath></defs>
-<use href="#sector_10_955" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="100%" clip-path="url(#sector_10_955_clip)"/>
+<use href="#sector_10_955" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_955_clip)"/>
 <path id="ray_g10_s955" d="M 33416,26549 L 35516,27488" />
-<text style="font-family: sans-serif; font-size:50pt; fill:white;">
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s955" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary Barstow (1641 - 1708)
 </textPath>
@@ -14520,6 +14520,30 @@ Elizabeth Wignall (1604 - 1668)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_886" d="M 5114 13900 A 17400 17400 0 0 1 5136 13851 L 6504 14468 A 15900 15900 0 0 0 6484 14512 L 5114 13900 " />
+<clipPath id="sector_11_886_clip">
+<use href="#sector_11_886"/>
+</clipPath></defs>
+<use href="#sector_11_886" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_886_clip)"/>
+<path id="ray_g11_s886" d="M 5125,13876 L 6494,14490" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s886" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown Barstow-* (  -  )
+</textPath>
+</text>
+<defs>
+<path id="sector_11_887" d="M 5093 13949 A 17400 17400 0 0 1 5114 13900 L 6484 14512 A 15900 15900 0 0 0 6464 14557 L 5093 13949 " />
+<clipPath id="sector_11_887_clip">
+<use href="#sector_11_887"/>
+</clipPath></defs>
+<use href="#sector_11_887" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_887_clip)"/>
+<path id="ray_g11_s887" d="M 5104,13924 L 6474,14534" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s887" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown013 Unknown017-* (  -  )
+</textPath>
+</text>
+<defs>
 <path id="sector_11_890" d="M 5029 14096 A 17400 17400 0 0 1 5050 14047 L 6425 14646 A 15900 15900 0 0 0 6405 14691 L 5029 14096 " />
 <clipPath id="sector_11_890_clip">
 <use href="#sector_11_890"/>
@@ -17025,6 +17049,30 @@ Richard Ingraham (1604 - 1683)
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1909" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Wignall (1604 - 1668)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1910" d="M 36886 28100 A 17400 17400 0 0 1 36864 28149 L 35496 27532 A 15900 15900 0 0 0 35516 27488 L 36886 28100 " />
+<clipPath id="sector_11_1910_clip">
+<use href="#sector_11_1910"/>
+</clipPath></defs>
+<use href="#sector_11_1910" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_1910_clip)"/>
+<path id="ray_g11_s1910" d="M 35506,27510 L 36875,28124" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s1910" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown Barstow-* (  -  )
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1911" d="M 36907 28051 A 17400 17400 0 0 1 36886 28100 L 35516 27488 A 15900 15900 0 0 0 35536 27443 L 36907 28051 " />
+<clipPath id="sector_11_1911_clip">
+<use href="#sector_11_1911"/>
+</clipPath></defs>
+<use href="#sector_11_1911" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_1911_clip)"/>
+<path id="ray_g11_s1911" d="M 35526,27466 L 36896,28076" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s1911" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown013 Unknown017-* (  -  )
 </textPath>
 </text>
 <defs>
@@ -22024,5 +22072,5 @@ Susanna Furner (? - 1620)
 <line id="g12_s63_g11_s62" x1="31144" y1="17617" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 <line id="g12_s62_g11_s62" x1="31155" y1="17670" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-03-12 01:10:11.036081Z -->
+<!-- made new svg at 2026-03-12 01:15:46.890561Z -->
 </svg>

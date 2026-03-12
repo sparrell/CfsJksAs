@@ -8114,9 +8114,9 @@ William Ingraham (? - 1721)
 <clipPath id="sector_10_955_clip">
 <use href="#sector_10_955"/>
 </clipPath></defs>
-<use href="#sector_10_955" stroke="#FF6EC7" stroke-width="15" fill="red" fill-opacity="100%" clip-path="url(#sector_10_955_clip)"/>
+<use href="#sector_10_955" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_955_clip)"/>
 <path id="ray_g10_s955" d="M 26416,26549 L 28516,27488" />
-<text style="font-family: sans-serif; font-size:50pt; fill:white;">
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s955" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Mary Barstow (1641 - 1708)
 </textPath>
@@ -10980,6 +10980,30 @@ Elizabeth Wignall (1604 - 1668)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_1910" d="M 29886 28100 A 17400 17400 0 0 1 29864 28149 L 28496 27532 A 15900 15900 0 0 0 28516 27488 L 29886 28100 " />
+<clipPath id="sector_11_1910_clip">
+<use href="#sector_11_1910"/>
+</clipPath></defs>
+<use href="#sector_11_1910" stroke="blue" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_1910_clip)"/>
+<path id="ray_g11_s1910" d="M 28506,27510 L 29875,28124" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s1910" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown Barstow-* (  -  )
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1911" d="M 29907 28051 A 17400 17400 0 0 1 29886 28100 L 28516 27488 A 15900 15900 0 0 0 28536 27443 L 29907 28051 " />
+<clipPath id="sector_11_1911_clip">
+<use href="#sector_11_1911"/>
+</clipPath></defs>
+<use href="#sector_11_1911" stroke="#FF6EC7" stroke-width="10" fill="lightskyblue" fill-opacity="100%" clip-path="url(#sector_11_1911_clip)"/>
+<path id="ray_g11_s1911" d="M 28526,27466 L 29896,28076" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s1911" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown013 Unknown017-* (  -  )
+</textPath>
+</text>
+<defs>
 <path id="sector_11_1914" d="M 29971 27904 A 17400 17400 0 0 1 29950 27953 L 28575 27354 A 15900 15900 0 0 0 28595 27309 L 29971 27904 " />
 <clipPath id="sector_11_1914_clip">
 <use href="#sector_11_1914"/>
@@ -13540,5 +13564,5 @@ Susanna Furner (? - 1620)
 <line id="g12_s63_g11_s62" x1="31144" y1="17617" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 <line id="g12_s62_g11_s62" x1="31155" y1="17670" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-03-12 01:10:11.074881Z -->
+<!-- made new svg at 2026-03-12 01:15:46.930302Z -->
 </svg>
