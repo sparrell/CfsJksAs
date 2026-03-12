@@ -4912,7 +4912,7 @@ John Vinal (1667 - 1728)
 <path id="ray_g9_s5" d="M 32174,20245 L 34569,20083" />
 <text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s5" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Unknown125 (? - ?)
+Mary Woodworth (? - ?)
 </textPath>
 </text>
 <defs>
@@ -5004,11 +5004,11 @@ John Vinal (1667 - 1728)
 <clipPath id="sector_9_13_clip">
 <use href="#sector_9_13"/>
 </clipPath></defs>
-<use href="#sector_9_13" stroke="#FF6EC7" stroke-width="20" fill="red" fill-opacity="100%" clip-path="url(#sector_9_13_clip)"/>
+<use href="#sector_9_13" stroke="#FF6EC7" stroke-width="20" fill="none" fill-opacity="100%" clip-path="url(#sector_9_13_clip)"/>
 <path id="ray_g9_s13" d="M 32047,19153 L 34414,18757" />
-<text style="font-family: sans-serif; font-size:75pt; fill:white;">
+<text style="font-family: sans-serif; font-size:75pt; fill:black;">
 <textPath href="#ray_g9_s13" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Mary Unknown125 (? - ?)
+Mary Woodworth (? - ?)
 </textPath>
 </text>
 <defs>
@@ -7642,6 +7642,30 @@ Elizabeth Baker (1644 - 1672)
 </textPath>
 </text>
 <defs>
+<path id="sector_10_10" d="M 36864 19928 A 15900 15900 0 0 1 36870 20025 L 34574 20166 A 13600 13600 0 0 0 34569 20083 L 36864 19928 " />
+<clipPath id="sector_10_10_clip">
+<use href="#sector_10_10"/>
+</clipPath></defs>
+<use href="#sector_10_10" stroke="blue" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_10_clip)"/>
+<path id="ray_g10_s10" d="M 34572,20124 L 36867,19976" />
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
+<textPath href="#ray_g10_s10" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Thomas Woodworth (1636 - 1717)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_11" d="M 36857 19830 A 15900 15900 0 0 1 36864 19928 L 34569 20083 A 13600 13600 0 0 0 34563 20000 L 36857 19830 " />
+<clipPath id="sector_10_11_clip">
+<use href="#sector_10_11"/>
+</clipPath></defs>
+<use href="#sector_10_11" stroke="#FF6EC7" stroke-width="15" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_10_11_clip)"/>
+<path id="ray_g10_s11" d="M 34566,20041 L 36860,19879" />
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
+<textPath href="#ray_g10_s11" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Deborah Damon (1645 - 1717)
+</textPath>
+</text>
+<defs>
 <path id="sector_10_12" d="M 36849 19733 A 15900 15900 0 0 1 36857 19830 L 34563 20000 A 13600 13600 0 0 0 34557 19916 L 36849 19733 " />
 <clipPath id="sector_10_12_clip">
 <use href="#sector_10_12"/>
@@ -7759,6 +7783,30 @@ John Vinal (1636 - 1698)
 <text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s25" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Baker (1644 - 1672)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_26" d="M 36682 18378 A 15900 15900 0 0 1 36698 18474 L 34427 18840 A 13600 13600 0 0 0 34414 18757 L 36682 18378 " />
+<clipPath id="sector_10_26_clip">
+<use href="#sector_10_26"/>
+</clipPath></defs>
+<use href="#sector_10_26" stroke="blue" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_26_clip)"/>
+<path id="ray_g10_s26" d="M 34421,18798 L 36690,18426" />
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
+<textPath href="#ray_g10_s26" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Thomas Woodworth (1636 - 1717)
+</textPath>
+</text>
+<defs>
+<path id="sector_10_27" d="M 36666 18282 A 15900 15900 0 0 1 36682 18378 L 34414 18757 A 13600 13600 0 0 0 34400 18675 L 36666 18282 " />
+<clipPath id="sector_10_27_clip">
+<use href="#sector_10_27"/>
+</clipPath></defs>
+<use href="#sector_10_27" stroke="#FF6EC7" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_27_clip)"/>
+<path id="ray_g10_s27" d="M 34407,18716 L 36674,18330" />
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
+<textPath href="#ray_g10_s27" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Deborah Damon (1645 - 1717)
 </textPath>
 </text>
 <defs>
@@ -11522,9 +11570,9 @@ Abigail Chesebrough (1656 - ?)
 <clipPath id="sector_10_974_clip">
 <use href="#sector_10_974"/>
 </clipPath></defs>
-<use href="#sector_10_974" stroke="blue" stroke-width="15" fill="red" fill-opacity="100%" clip-path="url(#sector_10_974_clip)"/>
+<use href="#sector_10_974" stroke="blue" stroke-width="15" fill="none" fill-opacity="100%" clip-path="url(#sector_10_974_clip)"/>
 <path id="ray_g10_s974" d="M 33978,25067 L 36172,25755" />
-<text style="font-family: sans-serif; font-size:50pt; fill:white;">
+<text style="font-family: sans-serif; font-size:50pt; fill:black;">
 <textPath href="#ray_g10_s974" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Ebenezer Billings (1660/1 - 1726/7)
 </textPath>
@@ -12252,6 +12300,54 @@ Unknown202 Unknown003 (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_20" d="M 38364 19880 A 17400 17400 0 0 1 38367 19933 L 36870 20025 A 15900 15900 0 0 0 36867 19976 L 38364 19880 " />
+<clipPath id="sector_11_20_clip">
+<use href="#sector_11_20"/>
+</clipPath></defs>
+<use href="#sector_11_20" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_20_clip)"/>
+<path id="ray_g11_s20" d="M 36869,20001 L 38366,19906" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s20" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Walter Woodworth (? - 1686)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_21" d="M 38360 19826 A 17400 17400 0 0 1 38364 19880 L 36867 19976 A 15900 15900 0 0 0 36864 19928 L 38360 19826 " />
+<clipPath id="sector_11_21_clip">
+<use href="#sector_11_21"/>
+</clipPath></defs>
+<use href="#sector_11_21" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_21_clip)"/>
+<path id="ray_g11_s21" d="M 36865,19952 L 38362,19853" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s21" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown WW Unknown-wife-* (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_22" d="M 38357 19773 A 17400 17400 0 0 1 38360 19826 L 36864 19928 A 15900 15900 0 0 0 36860 19879 L 38357 19773 " />
+<clipPath id="sector_11_22_clip">
+<use href="#sector_11_22"/>
+</clipPath></defs>
+<use href="#sector_11_22" stroke="blue" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_22_clip)"/>
+<path id="ray_g11_s22" d="M 36862,19903 L 38359,19800" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s22" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+John Damon (1621 - 1676)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_23" d="M 38353 19720 A 17400 17400 0 0 1 38357 19773 L 36860 19879 A 15900 15900 0 0 0 36857 19830 L 38353 19720 " />
+<clipPath id="sector_11_23_clip">
+<use href="#sector_11_23"/>
+</clipPath></defs>
+<use href="#sector_11_23" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_23_clip)"/>
+<path id="ray_g11_s23" d="M 36859,19855 L 38355,19747" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s23" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Katherine Merritt (? - 1655)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_24" d="M 38349 19667 A 17400 17400 0 0 1 38353 19720 L 36857 19830 A 15900 15900 0 0 0 36853 19782 L 38349 19667 " />
 <clipPath id="sector_11_24_clip">
 <use href="#sector_11_24"/>
@@ -12308,7 +12404,7 @@ Sarah Chittenden (1647 - 1703)
 <path id="ray_g11_s28" d="M 36839,19612 L 38334,19481" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s28" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Jeremiah Smith (1650 - 1718)
+Jeremiah Smith-* (1650 - 1718)
 </textPath>
 </text>
 <defs>
@@ -12320,7 +12416,7 @@ Jeremiah Smith (1650 - 1718)
 <path id="ray_g11_s29" d="M 36835,19563 L 38329,19427" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s29" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Abigail Unknown006 (? - 1720)
+Abigail Unknown006-* (? - 1720)
 </textPath>
 </text>
 <defs>
@@ -12420,6 +12516,54 @@ Unknown202 Unknown003 (? - ?)
 </textPath>
 </text>
 <defs>
+<path id="sector_11_52" d="M 38170 18183 A 17400 17400 0 0 1 38179 18236 L 36698 18474 A 15900 15900 0 0 0 36690 18426 L 38170 18183 " />
+<clipPath id="sector_11_52_clip">
+<use href="#sector_11_52"/>
+</clipPath></defs>
+<use href="#sector_11_52" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_11_52_clip)"/>
+<path id="ray_g11_s52" d="M 36694,18450 L 38175,18210" />
+<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<textPath href="#ray_g11_s52" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Walter Woodworth (? - 1686)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_53" d="M 38162 18131 A 17400 17400 0 0 1 38170 18183 L 36690 18426 A 15900 15900 0 0 0 36682 18378 L 38162 18131 " />
+<clipPath id="sector_11_53_clip">
+<use href="#sector_11_53"/>
+</clipPath></defs>
+<use href="#sector_11_53" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_11_53_clip)"/>
+<path id="ray_g11_s53" d="M 36686,18402 L 38166,18157" />
+<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<textPath href="#ray_g11_s53" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Unknown WW Unknown-wife-* (? - ?)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_54" d="M 38153 18078 A 17400 17400 0 0 1 38162 18131 L 36682 18378 A 15900 15900 0 0 0 36674 18330 L 38153 18078 " />
+<clipPath id="sector_11_54_clip">
+<use href="#sector_11_54"/>
+</clipPath></defs>
+<use href="#sector_11_54" stroke="blue" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_11_54_clip)"/>
+<path id="ray_g11_s54" d="M 36678,18354 L 38157,18104" />
+<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<textPath href="#ray_g11_s54" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+John Damon (1621 - 1676)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_55" d="M 38144 18025 A 17400 17400 0 0 1 38153 18078 L 36674 18330 A 15900 15900 0 0 0 36666 18282 L 38144 18025 " />
+<clipPath id="sector_11_55_clip">
+<use href="#sector_11_55"/>
+</clipPath></defs>
+<use href="#sector_11_55" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_11_55_clip)"/>
+<path id="ray_g11_s55" d="M 36670,18306 L 38148,18052" />
+<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<textPath href="#ray_g11_s55" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Katherine Merritt (? - 1655)
+</textPath>
+</text>
+<defs>
 <path id="sector_11_56" d="M 38135 17973 A 17400 17400 0 0 1 38144 18025 L 36666 18282 A 15900 15900 0 0 0 36658 18234 L 38135 17973 " />
 <clipPath id="sector_11_56_clip">
 <use href="#sector_11_56"/>
@@ -12476,7 +12620,7 @@ Sarah Chittenden (1647 - 1703)
 <path id="ray_g11_s60" d="M 36627,18066 L 38101,17789" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s60" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Jeremiah Smith (1650 - 1718)
+Jeremiah Smith-* (1650 - 1718)
 </textPath>
 </text>
 <defs>
@@ -12488,7 +12632,7 @@ Jeremiah Smith (1650 - 1718)
 <path id="ray_g11_s61" d="M 36618,18018 L 38091,17736" />
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s61" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Abigail Unknown006 (? - 1720)
+Abigail Unknown006-* (? - 1720)
 </textPath>
 </text>
 <defs>
@@ -14396,7 +14540,7 @@ Walter Palmer (1590 - 1661)
 <path id="ray_g11_s891" d="M 5018,14120 L 6396,14713" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s891" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ann Elizabeth Unknown010 (? - ?)
+Ann Elizabeth Unknown010-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -14721,6 +14865,18 @@ Abigail Ingraham (1636 - 1698)
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s924" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 William Billings (1629 - 1712)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_925" d="M 4381 15847 A 17400 17400 0 0 1 4396 15796 L 5828 16245 A 15900 15900 0 0 0 5813 16291 L 4381 15847 " />
+<clipPath id="sector_11_925_clip">
+<use href="#sector_11_925"/>
+</clipPath></defs>
+<use href="#sector_11_925" stroke="#FF6EC7" stroke-width="10" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_11_925_clip)"/>
+<path id="ray_g11_s925" d="M 4388,15821 L 5820,16268" />
+<text style="font-family: sans-serif; font-size:32pt; fill:black;">
+<textPath href="#ray_g11_s925" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Mary Atherton (1636 - 1718)
 </textPath>
 </text>
 <defs>
@@ -16892,7 +17048,7 @@ Walter Palmer (1590 - 1661)
 <path id="ray_g11_s1915" d="M 35604,27287 L 36982,27880" />
 <text style="font-family: sans-serif; font-size:32pt; fill:black;">
 <textPath href="#ray_g11_s1915" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
-Ann Elizabeth Unknown010 (? - ?)
+Ann Elizabeth Unknown010-* (? - ?)
 </textPath>
 </text>
 <defs>
@@ -17217,6 +17373,18 @@ Abigail Ingraham (1636 - 1698)
 <text style="font-family: sans-serif; font-size:32pt; fill:white;">
 <textPath href="#ray_g11_s1948" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 William Billings (1629 - 1712)
+</textPath>
+</text>
+<defs>
+<path id="sector_11_1949" d="M 37619 26153 A 17400 17400 0 0 1 37604 26204 L 36172 25755 A 15900 15900 0 0 0 36187 25709 L 37619 26153 " />
+<clipPath id="sector_11_1949_clip">
+<use href="#sector_11_1949"/>
+</clipPath></defs>
+<use href="#sector_11_1949" stroke="#FF6EC7" stroke-width="10" fill="green" fill-opacity="100%" clip-path="url(#sector_11_1949_clip)"/>
+<path id="ray_g11_s1949" d="M 36180,25732 L 37612,26179" />
+<text style="font-family: sans-serif; font-size:32pt; fill:white;">
+<textPath href="#ray_g11_s1949" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Mary Atherton (1636 - 1718)
 </textPath>
 </text>
 <defs>
@@ -18242,6 +18410,18 @@ Katherine Starkes (1605 - 1656)
 
 <!-- Generation 12
  --><defs>
+<path id="sector_12_46" d="M 39053 19696 A 18100 18100 0 0 1 39055 19724 L 38357 19773 A 17400 17400 0 0 0 38355 19747 L 39053 19696 " />
+<clipPath id="sector_12_46_clip">
+<use href="#sector_12_46"/>
+</clipPath></defs>
+<use href="#sector_12_46" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_46_clip)"/>
+<path id="ray_g12_s46" d="M 38356,19760 L 39054,19710" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s46" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Henry Merritt (? - 1652)
+</textPath>
+</text>
+<defs>
 <path id="sector_12_48" d="M 39049 19641 A 18100 18100 0 0 1 39051 19668 L 38353 19720 A 17400 17400 0 0 0 38351 19693 L 39049 19641 " />
 <clipPath id="sector_12_48_clip">
 <use href="#sector_12_48"/>
@@ -18323,6 +18503,18 @@ Lydia Unknown074 (? - ?)
 <text style="font-family: sans-serif; font-size:8pt; fill:black;">
 <textPath href="#ray_g12_s62" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 John Hewes (? - 1673)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_110" d="M 38838 17933 A 18100 18100 0 0 1 38843 17960 L 38153 18078 A 17400 17400 0 0 0 38148 18052 L 38838 17933 " />
+<clipPath id="sector_12_110_clip">
+<use href="#sector_12_110"/>
+</clipPath></defs>
+<use href="#sector_12_110" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_110_clip)"/>
+<path id="ray_g12_s110" d="M 38151,18065 L 38841,17947" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s110" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Henry Merritt (? - 1652)
 </textPath>
 </text>
 <defs>
@@ -19331,6 +19523,30 @@ Richard Ingraham (1604 - 1683)
 <text style="font-family: sans-serif; font-size:8pt; fill:black;">
 <textPath href="#ray_g12_s1839" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Wignall (1604 - 1668)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_1850" d="M 3720 15613 A 18100 18100 0 0 1 3728 15587 L 4396 15796 A 17400 17400 0 0 0 4388 15821 L 3720 15613 " />
+<clipPath id="sector_12_1850_clip">
+<use href="#sector_12_1850"/>
+</clipPath></defs>
+<use href="#sector_12_1850" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1850_clip)"/>
+<path id="ray_g12_s1850" d="M 3724,15600 L 4392,15809" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s1850" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Humphrey Atherton (1607 - 1661)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_1851" d="M 3712 15640 A 18100 18100 0 0 1 3720 15613 L 4388 15821 A 17400 17400 0 0 0 4381 15847 L 3712 15640 " />
+<clipPath id="sector_12_1851_clip">
+<use href="#sector_12_1851"/>
+</clipPath></defs>
+<use href="#sector_12_1851" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_1851_clip)"/>
+<path id="ray_g12_s1851" d="M 3716,15626 L 4385,15834" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s1851" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Mary Wales (1613 - 1672)
 </textPath>
 </text>
 <defs>
@@ -20519,6 +20735,30 @@ Richard Ingraham (1604 - 1683)
 <text style="font-family: sans-serif; font-size:8pt; fill:black;">
 <textPath href="#ray_g12_s3887" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
 Elizabeth Wignall (1604 - 1668)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3898" d="M 38280 26387 A 18100 18100 0 0 1 38272 26413 L 37604 26204 A 17400 17400 0 0 0 37612 26179 L 38280 26387 " />
+<clipPath id="sector_12_3898_clip">
+<use href="#sector_12_3898"/>
+</clipPath></defs>
+<use href="#sector_12_3898" stroke="blue" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_3898_clip)"/>
+<path id="ray_g12_s3898" d="M 37608,26191 L 38276,26400" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s3898" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Humphrey Atherton (1607 - 1661)
+</textPath>
+</text>
+<defs>
+<path id="sector_12_3899" d="M 38288 26360 A 18100 18100 0 0 1 38280 26387 L 37612 26179 A 17400 17400 0 0 0 37619 26153 L 38288 26360 " />
+<clipPath id="sector_12_3899_clip">
+<use href="#sector_12_3899"/>
+</clipPath></defs>
+<use href="#sector_12_3899" stroke="#FF6EC7" stroke-width="1" fill="lightgreen" fill-opacity="50%" clip-path="url(#sector_12_3899_clip)"/>
+<path id="ray_g12_s3899" d="M 37615,26166 L 38284,26374" />
+<text style="font-family: sans-serif; font-size:8pt; fill:black;">
+<textPath href="#ray_g12_s3899" startOffset="50%" dominant-baseline="middle" text-anchor="middle">
+Mary Wales (1613 - 1672)
 </textPath>
 </text>
 <defs>
@@ -21784,5 +22024,5 @@ Susanna Furner (? - 1620)
 <line id="g12_s63_g11_s62" x1="31144" y1="17617" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 <line id="g12_s62_g11_s62" x1="31155" y1="17670" x2="31081" y2="17684" stroke="gray" stroke-width="5" />
 
-<!-- made new svg at 2026-03-11 17:31:18.067670Z -->
+<!-- made new svg at 2026-03-12 01:10:11.036081Z -->
 </svg>
