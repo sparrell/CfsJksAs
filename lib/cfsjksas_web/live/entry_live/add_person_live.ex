@@ -2,10 +2,9 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
   use CfsjksasWeb, :live_view
   alias Cfsjksas.Ancestors.AddPerson
 
-  @unused_atoms [:p9948, :p9949,
-                  :p9950, :p9951, :p9952, :p9953, :p9954, :p9955, :p9956, :p9957, :p9958, :p9959,
-                 :p9960, :p9961, :p9962, :p9963, :p9964, :p9965, :p9966, :p9967, :p9968, :p9969,
-                 :p9970, :p9971,
+  @unused_atoms [
+                 :p9940, :p9941, :p9942, :p9943, :p9944, :p9945, :p9946, :p9947,
+                 :p9930, :p9931, :p9932, :p9933, :p9934, :p9935, :p9936, :p9937, :p9938, :p9939,
                 ]
   @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "people2_ex.txt"])
 
