@@ -4147,7 +4147,7 @@
       sector: 172,
 	}
 	{9, :nw, 173} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :redundant,
       gen: 9,
       id_a: :p0396,
@@ -4367,7 +4367,7 @@
       sector: 200,
 	}
 	{9, :nw, 201} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :redundant,
       gen: 9,
       id_a: :p0396,
@@ -5313,7 +5313,7 @@
       sector: 456,
 	}
 	{9, :se, 457} => %{
-      brickwall: true,
+      brickwall: false,
       duplicate: :main,
       gen: 9,
       id_a: :p0396,
@@ -7061,6 +7061,28 @@
       relation: [:p, :m, :p, :m, :p, :m, :m, :p, :p, :m],
       sector: 345,
 	}
+	{10, :nw, 346} => %{
+      brickwall: true,
+      duplicate: :redundant,
+      gen: 10,
+      id_a: :p9943,
+      id_s: {10, :nw, 346},
+      immigrant: :no,
+      quadrant: :nw,
+      relation: [:p, :m, :p, :m, :p, :m, :m, :p, :m, :p],
+      sector: 346,
+	}
+	{10, :nw, 347} => %{
+      brickwall: true,
+      duplicate: :redundant,
+      gen: 10,
+      id_a: :p9942,
+      id_s: {10, :nw, 347},
+      immigrant: :no,
+      quadrant: :nw,
+      relation: [:p, :m, :p, :m, :p, :m, :m, :p, :m, :m],
+      sector: 347,
+	}
 	{10, :nw, 348} => %{
       brickwall: false,
       duplicate: :redundant,
@@ -7357,6 +7379,28 @@
       quadrant: :nw,
       relation: [:p, :m, :m, :p, :p, :m, :p, :p, :p, :m],
       sector: 401,
+	}
+	{10, :nw, 402} => %{
+      brickwall: true,
+      duplicate: :redundant,
+      gen: 10,
+      id_a: :p9943,
+      id_s: {10, :nw, 402},
+      immigrant: :no,
+      quadrant: :nw,
+      relation: [:p, :m, :m, :p, :p, :m, :p, :p, :m, :p],
+      sector: 402,
+	}
+	{10, :nw, 403} => %{
+      brickwall: true,
+      duplicate: :redundant,
+      gen: 10,
+      id_a: :p9942,
+      id_s: {10, :nw, 403},
+      immigrant: :no,
+      quadrant: :nw,
+      relation: [:p, :m, :m, :p, :p, :m, :p, :p, :m, :m],
+      sector: 403,
 	}
 	{10, :nw, 404} => %{
       brickwall: false,
@@ -9029,6 +9073,28 @@
       quadrant: :se,
       relation: [:m, :m, :m, :p, :p, :m, :p, :p, :p, :m],
       sector: 913,
+	}
+	{10, :se, 914} => %{
+      brickwall: true,
+      duplicate: :main,
+      gen: 10,
+      id_a: :p9943,
+      id_s: {10, :se, 914},
+      immigrant: :no,
+      quadrant: :se,
+      relation: [:m, :m, :m, :p, :p, :m, :p, :p, :m, :p],
+      sector: 914,
+	}
+	{10, :se, 915} => %{
+      brickwall: true,
+      duplicate: :main,
+      gen: 10,
+      id_a: :p9942,
+      id_s: {10, :se, 915},
+      immigrant: :no,
+      quadrant: :se,
+      relation: [:m, :m, :m, :p, :p, :m, :p, :p, :m, :m],
+      sector: 915,
 	}
 	{10, :se, 916} => %{
       brickwall: false,
