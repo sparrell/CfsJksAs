@@ -237,6 +237,10 @@ defmodule Cfsjksas.Chart.Sector do
     # if ship, fill is light blue
     {"lightskyblue", "100%", "black"}
   end
+  defp format(%{brickwall: true, researched?: true} = _person_l) do
+    # if brickwall, color red
+    {"red", "100%", "yellow"}
+  end
   defp format(%{brickwall: true} = _person_l) do
     # if brickwall, color red
     {"red", "100%", "white"}

@@ -98,11 +98,15 @@ defmodule Cfsjksas.Tools.Relation do
 
     brickwall = Cfsjksas.Tools.MarkedHelpers.is_brickwall(person_a)
 
+    # mark researched if brickwall and researched? set
+    researched? = brickwall and Map.has_key?(person_a, :researched?) and person_a.researched?
+
     # add person's new fields
     marked_with_add = marked
     |> put_in([id_s, :duplicate], duplicate)
     |> put_in([id_s, :immigrant], immigrant)
     |> put_in([id_s, :brickwall], brickwall)
+    |> put_in([id_s, :researched?], researched?)
 
     # if branch, mark ancestors and removed from rest_sorted_lines
     {marked_rm_branch, sorted_lines_rm_branch} = case duplicate do

@@ -66914,6 +66914,29 @@
 			researched?: true,
 			surname: "Unknown205",
 		},
+		##############  Unknown wife Unknown206
+		p9941: %{
+			birth_date: nil,
+			birth_place: nil,
+			birth_year: nil,
+			death_date: "July 1647",
+			death_place: "Rehoboth, Massachusetts",
+			death_year: "1647",
+			father: nil,
+			gender: :female,
+			given_name: "Unknown wife",
+			id: :p9941,
+			label: "gen11.MMMPPPMPPMM.Unknown_wife_Unknown206",
+			links: %{
+			},
+			mother: nil,
+			researched?: true,
+			ship: %{
+				ship_date: nil,
+				ship_name: nil,
+			},
+			surname: "Unknown206",
+		},
 		##############  Rachel Varney
 		p0449: %{
 			also_known_as: nil,
@@ -72369,6 +72392,7 @@
 			immigration: nil,
 			label: "gen11.MMMPPPMPPMP.Alexander_Winchester",
 			links: %{
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001146/alexander-winchester",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -72458,7 +72482,7 @@
 			],
 			mh_id: "I1134",
 			mh_name: "Lydia /Winchester/",
-			mother: nil,
+			mother: :p9941,
 			name_prefix: nil,
 			name_suffix: nil,
 			naturalized: nil,
