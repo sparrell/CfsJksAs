@@ -123,6 +123,7 @@ defmodule Cfsjksas.Ancestors.Person do
     Enum.map(normal, fn x -> {x, x |> Cfsjksas.Ancestors.AgentStores.get_person_a() |> get_name()} end)
   end
 
+  @spec brick_walls() :: [{list(), any(), nonempty_binary(), any(), any(), any()}]
   def brick_walls() do
     # classify everyone as one of:
     ##   * not line termination
@@ -146,30 +147,30 @@ defmodule Cfsjksas.Ancestors.Person do
       :parent -> []   # parent of immigrant  ie not a brickwall
       :brickwall_both ->
         # add data to list
-#        [{Enum.map(person.relation_list, &length/1),
         [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
+          Cfsjksas.Tools.Person.researched?(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),
-			    Cfsjksas.Tools.Person.get_death_place(person)
+			    Cfsjksas.Tools.Person.get_death_place(person),
 			  }]
       :brickwall_mother ->
         # add data to list
-#        [{Enum.map(person.relation_list, &length/1),
         [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
+          Cfsjksas.Tools.Person.researched?(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),
-			    Cfsjksas.Tools.Person.get_death_place(person)
+			    Cfsjksas.Tools.Person.get_death_place(person),
 			  }]
       :brickwall_father ->
         # add data to list
-#        [{Enum.map(person.relation_list, &length/1),
         [{Enum.map(lines, &length/1),
 			    id,
 			    get_name(person),
+          Cfsjksas.Tools.Person.researched?(person),
 			    Cfsjksas.Tools.Person.get_birth_place(person),
-			    Cfsjksas.Tools.Person.get_death_place(person)
+			    Cfsjksas.Tools.Person.get_death_place(person),
 			  }]
     end
 

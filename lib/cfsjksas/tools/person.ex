@@ -42,12 +42,21 @@ defmodule Cfsjksas.Tools.Person do
       end
 
     def person_name(person) do
-    if person == nil do
-      IEx.pry()
-    end
+      if person == nil do
+        IEx.pry()
+      end
       # get person name
       given_name(person) <> " " <> surname(person)
+    end
+
+    def researched?(person) do
+      cond do
+        Map.has_key?(person, :researched?) ->
+          person.researched?
+        true ->
+          false
       end
+    end
 
 
 

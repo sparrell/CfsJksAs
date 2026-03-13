@@ -3,7 +3,7 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
   alias Cfsjksas.Ancestors.AddPerson
 
   @unused_atoms [
-                 :p9940, :p9941, :p9942, :p9943, :p9944, :p9945, :p9946, :p9947,
+                 :p9940, :p9941, :p9942, :p9943,
                  :p9930, :p9931, :p9932, :p9933, :p9934, :p9935, :p9936, :p9937, :p9938, :p9939,
                 ]
   @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "people2_ex.txt"])
