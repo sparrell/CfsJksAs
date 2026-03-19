@@ -3,8 +3,9 @@ defmodule CfsjksasWeb.EntryLive.AddPersonLive do
   alias Cfsjksas.Ancestors.AddPerson
 
   @unused_atoms [
-                 :p9940, :p9941,
-                 :p9930, :p9931, :p9932, :p9933, :p9934, :p9935, :p9936, :p9937, :p9938, :p9939,
+                 :p9920, :p9921,
+                 :p9910, :p9911, :p9912, :p9913, :p9914, :p9915, :p9916, :p9917, :p9918, :p9919,
+                 :p9900, :p9901, :p9902, :p9903, :p9904, :p9905, :p9906, :p9907, :p9908, :p9909,
                 ]
   @data_path Application.app_dir(:cfsjksas, ["priv", "static", "data", "people2_ex.txt"])
 
@@ -160,7 +161,7 @@ IO.inspect(new_person, label: "save changeset")
       AddPerson.save(new_person)
       {:noreply,
        socket
-       |> put_flash(:info, "new_person complete")
+       |> put_flash(:info, "new_person #{new_person.id} complete")
        |> push_navigate(to: ~p"/entry")}
     else
       {:noreply,

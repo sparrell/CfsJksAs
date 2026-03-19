@@ -63,6 +63,7 @@ require IEx
     # add mom (if she exists) to lines
     child_id = lines[child_l]
     child_a = Cfsjksas.Ancestors.AgentStores.get_person_a(child_id)
+if child_a == nil, do: IEx.pry()
 
     case child_a.mother do
       nil ->
