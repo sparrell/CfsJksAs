@@ -73,6 +73,9 @@ Application.start(:cfsjksas)
 
 Process.info(self(), :current_stacktrace) |> elem(1) |> Enum.drop(2) |> Enum.each(fn entry -> IO.puts(Exception.format_stacktrace_entry(entry)) end)
 
+## list ids
+Cfsjksas.DevTools.ListIds.all()
+
 ## check if missing links
 
 gen=3

@@ -10003,10 +10003,11 @@
 			],
 		},
 		##############  John Branch
+
 		p0542: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: "ABT 1628",
+			birth_date: "7 Nov 1628",
 			birth_note: nil,
 			birth_place: "High Halden, Kent, England, UK",
 			birth_source: nil,
@@ -10045,6 +10046,7 @@
 			immigration: nil,
 			label: "gen10.MMPMPMMPPP.John_Branch",
 			links: %{
+				wikitree: "https://www.wikitree.com/wiki/Branch-361",
 			},
 			married_name: nil,
 			mh_famc: "F242",
@@ -56227,22 +56229,22 @@
 		p0543: %{
 			also_known_as: nil,
 			baptism: nil,
-			birth_date: nil,
+			birth_date: "1632",
 			birth_note: nil,
-			birth_place: nil,
+			birth_place: "Marshfield, Plymouth, Massachusetts",
 			birth_source: nil,
-			birth_year: "?",
+			birth_year: "1632",
 			buried: nil,
 			census: [
 			],
 			christening: nil,
 			death_age: nil,
 			death_cause: nil,
-			death_date: nil,
+			death_date: "17 May 1711",
 			death_note: nil,
 			death_place: "Marshfield, Plymouth, Massachusetts, USA",
 			death_source: nil,
-			death_year: "?",
+			death_year: "1711",
 			description: nil,
 			education: [
 			],
@@ -56263,6 +56265,9 @@
 			immigration: nil,
 			label: "gen10.MMPMPMMPPM.Mary_Speed",
 			links: %{
+				ancestrees: "https://trees.americanancestors.org/#!/tree/67276/people/0M8-V0CT-UKAK",
+				familysearch: "https://www.familysearch.org/en/tree/person/details/LZNB-RTM",
+				wikitree: "https://www.wikitree.com/wiki/Speed-650",
 			},
 			married_name: nil,
 			mh_famc: nil,
@@ -58785,6 +58790,10 @@
 			immigration: nil,
 			label: "gen8.PPPMMPMP.Abijah_Stone",
 			links: %{
+				ancestrees: "https://trees.americanancestors.org/?refreshed=true#!/tree/67276/people/3HC-S5FT-HSEB",
+				familysearch: "https://www.familysearch.org/ark:/61903/1:1:VQXP-V76?lang=en",
+				geni: "https://www.geni.com/people/Abijah-Stone/6000000018128539248",
+				myheritage: "https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000374/abijah-stone",
 				werelate: "https://www.werelate.org/wiki/Person:Abijah_Stone_%281%29",
 			},
 			married_name: nil,

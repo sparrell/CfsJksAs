@@ -1,25 +1,26 @@
-ID: p9971
-Given Name: Esther
-Surname: Lawrence
-Gender: female
-Birth Date: nil
-Birth Year: nil
-Birth Place: nil
-Death Date: nil
-Death Year: nil
-Death Place: nil
-Mother: nil
-Father: nil
-Children:
-:p0815 gen7.MMPMMMM.Honour_Unknown123
-https://www.werelate.org/wiki/Person:Honour_Unknown_%2810%29
-Ship: false
-Ship Name: nil
-Ship Date: nil
-Label: gen8.MMPMMMMM.Esther_Lawrence
-Label: nil
-Label: nil
-Label: nil
-Label: https://www.wikitree.com/wiki/Lawrence-6157
+Abijah Stone	p0140:
+    father:
+    mother:
 
-=====================
+page with everyone sorted by ida
+page with everyone sorted by last name, first name, birtdate
+
+link checks
+walk thru all people in generation order or do one individual
+has_mother
+has_father
+father=Text
+father= :ship
+has werelate_link
+father_has_werelate_link
+werelate_link_has_father
+db_father_werelate_link = werelate_father_link
+
+Possibilities
+db_father = :ship -> done
+db_father = nil, no werelate_father -> done
+db_father == werelate_father -> done
+db_father != werelate_father -> resolve
+    has db_father, no werelate_father -> add werelate_father
+    has werelate_father, no db_father -> add db_father
+    diff links -> resolve
