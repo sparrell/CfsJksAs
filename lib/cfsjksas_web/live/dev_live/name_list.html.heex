@@ -1,0 +1,20 @@
+<h1 class="font-semibold text-3xl mb-4">People by Name</h1>
+<p>
+List of <%= @quantity %> ancestors in name/date order.
+</p>
+
+<p>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> Name </th>
+    <th style="border: 1px solid black;"> ID </th>
+</tr>
+ <%= for {_surname, _given_name, _birth_date, _death_date, name, id} <- @outlist do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <%= name %> </td>
+  <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
+</tr>
+ <% end %>
+</table>
+</p>
+

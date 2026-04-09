@@ -31,6 +31,7 @@ defmodule CfsjksasWeb.Router do
     live "/add_p", CircleLive.NewPersonLive, :home  # rm.
     live "/entry", EntryLive.AddPersonLive, :home
     live "/idlist", DevLive.IdList, :home
+    live "/namelist", DevLive.NameList, :home
   end
 
   # Other scopes may use custom stacks.
