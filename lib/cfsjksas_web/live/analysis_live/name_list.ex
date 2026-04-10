@@ -1,4 +1,4 @@
-defmodule CfsjksasWeb.DevLive.NameList do
+defmodule CfsjksasWeb.AnalysisLive.NameList do
     use CfsjksasWeb, :live_view
     alias Cfsjksas.Ancestors.AgentStores
 
@@ -18,20 +18,20 @@ defmodule CfsjksasWeb.DevLive.NameList do
     }
   end
 
-  def make_outlist(outlist, []) do
+  defp make_outlist(outlist, []) do
     # done
     outlist
     |> Enum.sort()
   end
 
-  def make_outlist(outlist, [this_id | rest]) do
+  defp make_outlist(outlist, [this_id | rest]) do
     person =AgentStores.get_person_a(this_id)
     name_dates = Cfsjksas.Ancestors.Person.get_name_dates(person)
 
     outlist ++ [{person.surname,
                 person.given_name,
-                person.birth_date,
-                person.death_date,
+                person.birth_year,
+                person.death_year,
                 name_dates,
                 this_id}]
     |> make_outlist(rest)

@@ -16,7 +16,7 @@ require IEx
 
   def create_lines() do
     # start with one person
-    principal = :p0005
+    principal = :p0001
     # initialize lines map for that one person
     lines = %{
       [] => principal

@@ -193,4 +193,4 @@ marked = Cfsjksas.Tools.Relation.mark_lineages(sectors); :ok
 
 Cfsjksas.Tools.Script.setup()
 
-Cfsjksas.Links.FindLink.werelate(:p0005)
+Cfsjksas.Links.FindLink.werelate(:p0001)

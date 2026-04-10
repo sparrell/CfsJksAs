@@ -117,10 +117,10 @@ defmodule Cfsjksas.DevTools.MakeDescendantGv do
 
   defp gv_end(gv_txt) do
     # the Charles, Jim, Ann table is in file
-    p0005 = Path.join(:code.priv_dir(:cfsjksas), "static/gv/charlesjimann.txt")
+    p0001 = Path.join(:code.priv_dir(:cfsjksas), "static/gv/charlesjimann.txt")
 
     gv_txt
-    <> File.read!(p0005)
+    <> File.read!(p0001)
     <> "\n}\n\n"
   end
 

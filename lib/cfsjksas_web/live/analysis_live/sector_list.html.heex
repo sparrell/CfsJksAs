@@ -1,0 +1,24 @@
+<h1 class="font-semibold text-3xl mb-4">People by gen/sector</h1>
+<p>
+List of <%= @quantity %> ancestors by walking out circle chart.
+</p>
+
+<p>
+<table style="border: 1px solid black;">
+ <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;"> Gen </th>
+    <th style="border: 1px solid black;"> Sector </th>
+    <th style="border: 1px solid black;"> Name </th>
+    <th style="border: 1px solid black;"> ID </th>
+</tr>
+ <%= for {gen, sector, name, id} <- @outlist do %>
+<tr style="border: 1px solid black;">
+  <td style="border: 1px solid black;"> <%= gen %> </td>
+  <td style="border: 1px solid black;"> <%= sector %> </td>
+  <td style="border: 1px solid black;"> <%= name %> </td>
+  <td style="border: 1px solid black;"> <a href={~p"/person?p=#{id}"}> <%= id %> </a> </td>
+</tr>
+ <% end %>
+</table>
+</p>
+

@@ -16,7 +16,7 @@ defmodule Cfsjksas.Hybrid.Get do
   @outer_ring_radius 21000
   @ancestors_svg "static/images/ancestors.svg"
 
-  @primary :p0005
+  @primary :p0001
 
   @config %{
     0 => %{

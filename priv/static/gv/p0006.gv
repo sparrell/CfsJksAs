@@ -11,14 +11,14 @@ digraph GRAMPS_graph {
 	}
 
 {edge [style=invis]; title00 -> p0006;}	title00 [shape="plaintext" fillcolor="#ffffff"  label="Lavinia Elizabeth Strong (1875 - 1941)" fontsize=40];		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0006 -> p0486;}
+		p0006 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0486 -> p0005;}
-		p0486 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+		p0005 -> p0001;}
+		p0005 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
 (1899 - 1978)" ];
 		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
 (1875 - 1941)" ];
-	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+	p0001 [style="solid,filled", shape=record, fillcolor=white, label=<
 		<TABLE>
 		  <TR>
 		      <TD BGCOLOR="#e0e0ff">Charles</TD>

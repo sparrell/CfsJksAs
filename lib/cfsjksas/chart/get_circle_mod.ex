@@ -9,7 +9,7 @@ defmodule Cfsjksas.Chart.GetCircleMod do
   @viewbox_hi_y 42000
 
   @config %{
-    primary: :p0005,
+    primary: :p0001,
     svg: %{
       # center of page/circle
       mxc: 14000,

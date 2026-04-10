@@ -17,7 +17,7 @@ defmodule Cfsjksas.Tools.Check do
   """
   def terminal_id(relation) do
     # start at prinicpal
-    terminal_id(:p0005, relation)
+    terminal_id(:p0001, relation)
   end
   defp terminal_id(a_id, []) do
     # done, return a_id

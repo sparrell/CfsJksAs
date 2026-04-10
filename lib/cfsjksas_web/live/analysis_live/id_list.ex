@@ -1,4 +1,4 @@
-defmodule CfsjksasWeb.DevLive.IdList do
+defmodule CfsjksasWeb.AnalysisLive.IdList do
     use CfsjksasWeb, :live_view
     alias Cfsjksas.Ancestors.AgentStores
 
@@ -19,12 +19,12 @@ defmodule CfsjksasWeb.DevLive.IdList do
     }
   end
 
-  def make_outlist(outlist, []) do
+  defp make_outlist(outlist, []) do
     # done
     outlist
   end
 
-  def make_outlist(outlist, [next_id | rest]) do
+  defp make_outlist(outlist, [next_id | rest]) do
     name_dates = AgentStores.get_person_a(next_id)
     |> Cfsjksas.Ancestors.Person.get_name_dates()
 

@@ -74,6 +74,7 @@ Application.start(:cfsjksas)
 Process.info(self(), :current_stacktrace) |> elem(1) |> Enum.drop(2) |> Enum.each(fn entry -> IO.puts(Exception.format_stacktrace_entry(entry)) end)
 
 ## list ids
+
 Cfsjksas.DevTools.ListIds.all()
 
 ## check if missing links
@@ -89,7 +90,7 @@ Ruth is p0207
 
 Cfsjksas.DevTools.AncestorRelations.check([:p0584])
 
-Cfsjksas.DevTools.AncestorRelations.check([:p0005])
+Cfsjksas.DevTools.AncestorRelations.check([:p0001])
 
 Cfsjksas.Ancestors.AgentStores.line_to_id_a() |> Cfsjksas.Ancestors.LinesToPeople.create_people_map()
 

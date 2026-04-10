@@ -25,9 +25,9 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
 		p0650 -> p0072;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0072 -> p0074;}
+		p0072 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0074 -> p0005;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0281 -> p0260;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
@@ -43,16 +43,16 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0086 -> p0006;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0006 -> p0486;}
+		p0006 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0486 -> p0005;}
-		p0486 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+		p0005 -> p0001;}
+		p0005 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
 (1899 - 1978)" ];
 		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
 (1875 - 1941)" ];
 		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
 (1850 - 1914)" ];
-		p0074 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+		p0004 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
 (1904 - 2002)" ];
 		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
 (1874 - 1965)" ];
@@ -70,7 +70,7 @@ digraph GRAMPS_graph {
 (1713 - 1791)" ];
 		p0281 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Billings
 (1660 - 1738)" ];
-	p0005 [style="solid,filled", shape=record, fillcolor=white, label=<
+	p0001 [style="solid,filled", shape=record, fillcolor=white, label=<
 		<TABLE>
 		  <TR>
 		      <TD BGCOLOR="#e0e0ff">Charles</TD>

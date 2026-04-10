@@ -49,7 +49,7 @@ defmodule Cfsjksas.Ancestors.AgentStores do
   end
 
   @doc """
-  get all the id_a (ie ancestor id's ie the atom eg :p0005)
+  get all the id_a (ie ancestor id's ie the atom eg :p0001)
   """
   def all_a_ids() do
     Agent.get(:ancestors, fn map -> Map.keys(map) end)
@@ -72,6 +72,10 @@ defmodule Cfsjksas.Ancestors.AgentStores do
     Agent.get(:marked_sectors, fn map -> map end)
     |> Map.keys()
     |> Enum.sort()
+  end
+
+  def get_person_s(id_s) do
+    Agent.get(:marked_sectors, fn map -> Map.get(map, id_s) end)
   end
 
   @doc """

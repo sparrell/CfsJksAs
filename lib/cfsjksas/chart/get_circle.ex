@@ -9,7 +9,7 @@ defmodule Cfsjksas.Chart.GetCircle do
 
 
   @config %{
-    primary: :p0005,
+    primary: :p0001,
     svg: %{
       mxc: 21000,  # center of page/circle
       myc: 21000,  # center of page/circle
