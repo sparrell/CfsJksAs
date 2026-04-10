@@ -21,11 +21,11 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
 		p0639 -> p0650;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0650 -> p0072;}
+		p0650 -> p0009;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0072 -> p0004;}
+		p0009 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0004 -> p0001;}
+		p0005 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0260 -> p0257;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
@@ -35,22 +35,22 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0672 -> p0639;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0639 -> p0086;}
+		p0639 -> p0013;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0086 -> p0006;}
+		p0013 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0005 -> p0001;}
-		p0005 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+		p0004 -> p0001;}
+		p0004 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
 (1899 - 1978)" ];
-		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
+		p0007 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
 (1875 - 1941)" ];
-		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
+		p0013 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
 (1850 - 1914)" ];
-		p0004 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+		p0005 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
 (1904 - 2002)" ];
-		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
+		p0009 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
 (1874 - 1965)" ];
 		p0650 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb
 (1855 - 1939)" ];

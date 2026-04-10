@@ -19,9 +19,9 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
 		p0339 -> p0978;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0978 -> p0007;}
+		p0978 -> p1415;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0007 -> p0945;}
+		p1415 -> p0945;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
 		p0945 -> p0911;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
@@ -31,11 +31,11 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
 		p0639 -> p0650;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0650 -> p0072;}
+		p0650 -> p0009;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0072 -> p0004;}
+		p0009 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=blue ];
-		p0004 -> p0001;}
+		p0005 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
@@ -57,11 +57,11 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
 		p0639 -> p0650;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0650 -> p0072;}
+		p0650 -> p0009;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0072 -> p0004;}
+		p0009 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=red ];
-		p0004 -> p0001;}
+		p0005 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
 		p0509 -> p0595;}
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
@@ -81,11 +81,11 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
 		p0639 -> p0650;}
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
-		p0650 -> p0072;}
+		p0650 -> p0009;}
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
-		p0072 -> p0004;}
+		p0009 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=green ];
-		p0004 -> p0001;}
+		p0005 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
@@ -107,11 +107,11 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
 		p0628 -> p0650;}
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
-		p0650 -> p0072;}
+		p0650 -> p0009;}
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
-		p0072 -> p0004;}
+		p0009 -> p0005;}
 		{edge [arrowhead=normal, arrowtail=none, color=orange ];
-		p0004 -> p0001;}
+		p0005 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
@@ -121,9 +121,9 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
 		p0339 -> p0978;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0978 -> p0007;}
+		p0978 -> p1415;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0007 -> p0945;}
+		p1415 -> p0945;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
 		p0945 -> p0911;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
@@ -131,13 +131,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
 		p0672 -> p0639;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0639 -> p0086;}
+		p0639 -> p0013;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0086 -> p0006;}
+		p0013 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=black ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
@@ -157,13 +157,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
 		p0672 -> p0639;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
-		p0639 -> p0086;}
+		p0639 -> p0013;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
-		p0086 -> p0006;}
+		p0013 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=yellow ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
 		p0509 -> p0595;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
@@ -181,13 +181,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
 		p0661 -> p0639;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
-		p0639 -> p0086;}
+		p0639 -> p0013;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
-		p0086 -> p0006;}
+		p0013 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=purple ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
@@ -207,13 +207,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
 		p0747 -> p0628;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
-		p0628 -> p0086;}
+		p0628 -> p0013;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
-		p0086 -> p0006;}
+		p0013 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=cyan ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
@@ -233,13 +233,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
 		p0050 -> p0119;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
-		p0119 -> p0075;}
+		p0119 -> p0012;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
-		p0075 -> p0006;}
+		p0012 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=magenta ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
@@ -257,13 +257,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
 		p0050 -> p0119;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
-		p0119 -> p0075;}
+		p0119 -> p0012;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
-		p0075 -> p0006;}
+		p0012 -> p0007;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
-		p0006 -> p0005;}
+		p0007 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=lime ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
@@ -281,13 +281,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
 		p0364 -> p0328;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
-		p0328 -> p0273;}
+		p0328 -> p0010;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
-		p0273 -> p0922;}
+		p0010 -> p0006;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
-		p0922 -> p0005;}
+		p0006 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=pink ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
 		p0509 -> p0487;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
@@ -303,13 +303,13 @@ digraph GRAMPS_graph {
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
 		p0353 -> p0328;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
-		p0328 -> p0273;}
+		p0328 -> p0010;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
-		p0273 -> p0922;}
+		p0010 -> p0006;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
-		p0922 -> p0005;}
+		p0006 -> p0004;}
 		{edge [arrowhead=normal, arrowtail=none, color=teal ];
-		p0005 -> p0001;}
+		p0004 -> p0001;}
 		p0353 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell
 (1798 - 1859)" ];
 		p0551 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Rachel Turner
@@ -318,9 +318,9 @@ digraph GRAMPS_graph {
 (1693 - 1778)" ];
 		p0617 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Turner
 (1660 - 1731)" ];
-		p0922 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Herbert Sparrell
+		p0006 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Herbert Sparrell
 (1873 - 1961)" ];
-		p0273 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+		p0010 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
 (1847 - 1923)" ];
 		p0328 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell
 (1825 - 1877)" ];
@@ -344,7 +344,7 @@ digraph GRAMPS_graph {
 (1668 - 1712)" ];
 		p0385 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Brewster
 (1641 - 1711)" ];
-		p0075 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong
+		p0012 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong
 (1845 - 1920)" ];
 		p0119 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Shaw Whaley
 (1813 - 1870)" ];
@@ -354,11 +354,11 @@ digraph GRAMPS_graph {
 (1764 - ?)" ];
 		p0088 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Morgan
 (1731 - ?)" ];
-		p0005 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
+		p0004 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell
 (1899 - 1978)" ];
-		p0006 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
+		p0007 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong
 (1875 - 1941)" ];
-		p0086 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
+		p0013 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb
 (1850 - 1914)" ];
 		p0628 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="George Washington Edgecomb
 (1826 - 1862)" ];
@@ -394,9 +394,9 @@ digraph GRAMPS_graph {
 (1728 - 1808)" ];
 		p0956 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester
 (1702 - 1774)" ];
-		p0004 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
+		p0005 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion F Fisher
 (1904 - 2002)" ];
-		p0072 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
+		p0009 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt
 (1874 - 1965)" ];
 		p0650 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb
 (1855 - 1939)" ];
@@ -408,7 +408,7 @@ digraph GRAMPS_graph {
 (1776 - 1842)" ];
 		p0945 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Anna Lester
 (1736 - 1807)" ];
-		p0007 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Peter Lester
+		p1415 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Peter Lester
 (1705 - 1789)" ];
 		p0978 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester
 (1678 - 1712)" ];

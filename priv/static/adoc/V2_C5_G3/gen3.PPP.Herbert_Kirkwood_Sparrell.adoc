@@ -28,7 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Book Link]
-https://cfsjksas.gigalixirapp.com/person?p=p0273http://localhost:4000/person?p=p0273https://cfsjksas.gigalixirapp.com/adoc?p=p0273http://localhost:4000/adoc?p=p0273* https://www.geni.com/people/Herbert-K-Sparrell/6000000007500143808[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0010http://localhost:4000/person?p=p0010https://cfsjksas.gigalixirapp.com/adoc?p=p0010http://localhost:4000/adoc?p=p0010* https://www.geni.com/people/Herbert-K-Sparrell/6000000007500143808[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell[MyHeritage]
 * https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29[WeRelate]
 * WikiTree TBD
